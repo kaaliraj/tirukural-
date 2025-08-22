@@ -1,0 +1,33 @@
+{
+  "Kural_Info": {
+    "Number": 1246,
+    "Chapter": "நெஞ்சொடுகிளத்தல் (Soliloquy)",
+    "Tamil_Text": "கலந்துணர்த்தும் காதலர்க் கண்டாற் புலந்துணராய்பொய்க்காய்வு காய்திஎன் நெஞ்சு.",
+    "English_Meaning": "My heart, false is the fire that burns; thou canst not wrath maintain, If thou thy love behold, embracing, soothing all thy pain."
+  },
+  "Flux_Optimized_Prompt": {
+    "Layered_Composition": {
+      "Foreground": "A woman is attempting to maintain a feigned anger or sulk ('Pulanthu'). A fire of 'fake anger' ('Poikkaaivu') is burning weakly and unconvincingly around her.",
+      "Midground": "Her lover approaches her with a soothing and loving gesture. As he gets closer, the weak fire of her anger is instantly extinguished, as if by a gentle wave of water.",
+      "Background": "She is chiding her own heart, which is shown melting at his approach, revealing that her anger was never real and cannot be sustained in the face of his affection."
+    },
+    "Art_Direction": {
+      "Subject_and_Action": "A woman scolds her heart for its inability to maintain a sulk, because the moment her lover, who knows how to soothe her, appears, her anger is revealed to be fake and melts away.",
+      "Symbolic_Motifs": "The 'false fire' of her anger being easily quenched is the central metaphor. Her melting heart shows her true feelings.",
+      "Mood_and_Emotion": "Tender, self-aware, loving, a little humorous.",
+      "Lighting_and_Color": "The fire of anger is a weak, almost transparent flame. The presence of the lover brings a warm, gentle, golden light that overpowers and extinguishes the fire. The palette is warm and romantic."
+    },
+    "Technical_Cues": {
+      "Camera": "Intimate medium shot that captures the interaction and the symbolic extinguishing of the fire.",
+      "Resolution": "8K, photorealistic, with subtle and beautiful fire and water effects.",
+      "Lighting": "Soft, romantic lighting that enhances the tenderness of the scene.",
+      "Art_Genre": "Romantic realism with symbolic elements."
+    },
+    "Cultural_Anchors": [
+      "புலவி (Feigned anger/sulking)",
+      "பொய்க்காய்வு (False anger)",
+      "The power of a lover's reconciliation"
+    ]
+  },
+  "Negative_Prompt": "real, raging fire, an angry lover, a modern setting, text artifacts, cartoonish."
+}

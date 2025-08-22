@@ -1,0 +1,38 @@
+{
+  "Kural_Info": {
+    "Number": 1028,
+    "Chapter": "குடிசெயல்வகை (The Way of Maintaining the Family)",
+    "Tamil_Text": "குடிசெய்வார்க் கில்லை பருவம் மடிசெய்துமானங் கருதக் கெடும்.",
+    "English_Meaning": "As a family suffers by (one's) indolence and false dignity there is to be no season (good or bad) to those who strive to raise their family."
+  },
+  "Flux_Optimized_Prompt": {
+    "Layered_Composition": {
+      "Foreground": "A dedicated individual who is striving to uplift their family ('குடி செய்வார்க்கு').",
+      "Midground": "The background shows all four seasons cycling rapidly—spring, summer, autumn, winter. However, the person's effort is constant and unwavering through all of them. For them, there is 'no season' ('பருவம் இல்லை'); the work must always be done.",
+      "Background": "A contrasting vision shows what they are avoiding: a figure is shown being lazy ('மடி செய்து') and worrying about their false dignity or pride ('மானம் கருதி'). This figure is shown perishing ('கெடும்') as their family's fortunes collapse around them because they waited for the 'right time'."
+    },
+    "Art_Direction": {
+      "Subject_and_Action": "For the one who works to elevate their family, there is no good or bad season; the work is constant. To wait for the right time out of laziness or false pride is to court ruin.",
+      "Symbolic_Motifs": "The rapidly cycling seasons behind the constantly working figure is the key visual. This demonstrates their belief that 'there is no season' for their duty. The contrast with the idle, ruined figure shows the consequence of the opposite philosophy.",
+      "Mood_and_Emotion": "Tireless, ceaseless, dedicated, urgent.",
+      "Lighting_and_Color": "The lighting on the dedicated worker changes with the seasons, but their effort remains constant. Their inner fire of determination provides a steady glow. The scene of the ruined man is dark and stagnant.",
+      "Technical_Cues": {
+        "Camera": "A time-lapse effect showing the seasons changing rapidly while the central figure works without pause.",
+        "Resolution": "8K, ultra-realistic, with beautiful and distinct representations of the four seasons.",
+        "Lighting": "Dynamic, shifting natural light to represent the passing of time.",
+        "Art_Genre": "Symbolic realism, with time-lapse elements."
+      },
+      "Cultural_Anchors": [
+        "For one who builds their family, there is no season (குடி செய்வார்க்கு இல்லை பருவம்)",
+        "To be lazy and consider one's pride will lead to ruin (மடி செய்து மானம் கருதக் கெடும்)"
+      ]
+    },
+    "Negative_Prompt": "worker resting, text artifacts, seasons not changing.",
+    "Hyperparameters": {
+      "variant": "pro",
+      "steps": 50,
+      "cfg_scale": 8,
+      "seed": "Explore the visual transition between the four seasons."
+    }
+  }
+}

@@ -1,0 +1,39 @@
+{
+  "Kural_Info": {
+    "Number": 1038,
+    "Chapter": "உழவு (Farming)",
+    "Tamil_Text": "ஏரினும் நன்றால் எருவிடுதல் கட்டபின்நீரினும் நன்றதன் காப்பு.",
+    "English_Meaning": "Manuring is better than ploughing; after weeding, watering is better; after watering, guarding is better."
+  },
+  "Flux_Optimized_Prompt": {
+    "Layered_Composition": {
+      "Foreground": "A sequence of four essential farming actions is shown in a continuous, flowing landscape, representing the hierarchy of tasks.",
+      "Midground": "First, ploughing ('ஏர்'). Second, and shown as more important, is manuring the field ('எரு இடுதல்'). Third, after the weeds are removed ('கட்ட பின்'), is watering ('நீர்').",
+      "Background": "Finally, and shown as the most important, crowning action, is the farmer standing guard ('காப்பு') over the growing crops, protecting them from pests and thieves. Each successive action is presented as being 'better' ('நன்று') than the last."
+    },
+    "Art_Direction": {
+      "Subject_and_Action": "A hierarchy of agricultural tasks: manuring is more important than ploughing, watering is more important than weeding, and guarding the crop is the most important of all.",
+      "Symbolic_Motifs": "The image should create a sense of escalating importance. This can be done through composition (placing guarding in the most prominent position) or through symbolic lighting, where the light becomes more golden and valuable with each successive, more important task.",
+      "Mood_and_Emotion": "Methodical, hierarchical, diligent, protective.",
+      "Lighting_and_Color": "A clear, bright, agricultural light. The value of each stage can be represented by an increasing glow, culminating in the golden light surrounding the final act of guarding the precious crop.",
+      "Technical_Cues": {
+        "Camera": "A panoramic or sequential art shot that clearly presents the four stages and their relative importance.",
+        "Resolution": "8K, ultra-realistic, with detailed depictions of each farming activity.",
+        "Lighting": "A lighting scheme that subtly indicates the increasing value of each task.",
+        "Art_Genre": "Instructional realism, agricultural painting."
+      },
+      "Cultural_Anchors": [
+        "Manuring is better than ploughing (ஏரினும் நன்று எரு இடுதல்)",
+        "After weeding, watering is better (கட்ட பின் நீரினும் நன்று)",
+        "Guarding it (is even better) (அதன் காப்பு)"
+      ]
+    },
+    "Negative_Prompt": "farmer only ploughing, withered crops, text artifacts.",
+    "Hyperparameters": {
+      "variant": "dev",
+      "steps": 40,
+      "cfg_scale": 8,
+      "seed": "Explore the composition to show the hierarchy of tasks."
+    }
+  }
+}

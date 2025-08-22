@@ -1,0 +1,33 @@
+{
+  "Kural_Info": {
+    "Number": 1219,
+    "Chapter": "கனவுநிலையுரைத்தல் (The Visions of the Night)",
+    "Tamil_Text": "நனவினால் நல்காரை நோவர் கனவினால்காதலர்க் காணா தவர்.",
+    "English_Meaning": "In dreams who ne'er their lover's form perceive, For those in waking hours who show no love will grieve."
+  },
+  "Flux_Optimized_Prompt": {
+    "Layered_Composition": {
+      "Foreground": "A woman is shown complaining and looking sad about her lover being absent in her waking life ('Nanavinaal Nalkaarai Novar').",
+      "Midground": "Another woman (the speaker or her friend) looks at her with a knowing, almost pitying expression. The speaker's own dream is visualized as a beautiful, vibrant world where she regularly meets her lover.",
+      "Background": "The complaining woman's dream is visualized as an empty, gray void, indicating that she doesn't even have the solace of seeing him in her dreams ('Kanavinaal Kaanaathavar')."
+    },
+    "Art_Direction": {
+      "Subject_and_Action": "Those who complain about their lover's absence in the waking world are the truly unfortunate ones who don't even get to see him in their dreams. (The speaker implies that she, at least, has the comfort of dreams).",
+      "Symbolic_Motifs": "The contrast between the vibrant, populated dreamscape and the empty, gray void dreamscape is the key. It visually separates the 'haves' from the 'have-nots' in the world of dreams.",
+      "Mood_and_Emotion": "Subtly superior, pitying, a sense of being fortunate in sorrow.",
+      "Lighting_and_Color": "The complaining woman is in a flat, gray light. The speaker and her dream world are in a warmer, more vibrant light."
+    },
+    "Technical_Cues": {
+      "Camera": "A shot that frames both women, showing their expressions and the contrasting visualizations of their dream worlds behind them.",
+      "Resolution": "8K, photorealistic, with a focus on the subtle emotional differences.",
+      "Lighting": "Contrasting light and color to differentiate the two women's experiences.",
+      "Art_Genre": "Psychological realism, with surreal elements to show the inner worlds."
+    },
+    "Cultural_Anchors": [
+      "The hierarchy of suffering in love",
+      "The solace of dreams",
+      "The misfortune of having neither reality nor dreams"
+    ]
+  },
+  "Negative_Prompt": "both women being happy, both having empty dreams, modern setting, text artifacts, cartoonish."
+}

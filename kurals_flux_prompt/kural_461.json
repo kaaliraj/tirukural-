@@ -1,0 +1,40 @@
+{
+  "Kural_Info": {
+    "Number": 461,
+    "Chapter": "தெரிந்துசெயல்வகை (Acting after due Consideration)",
+    "Tamil_Text": "அழிவதூஉம் ஆவதூஉம் ஆகி வழிபயக்கும்ஊதியமும் சூழ்ந்து செயல்.",
+    "English_Meaning": "Let a man reflect on what will be lost, what will be acquired and (from these) what will be his ultimate gain, and (then, let him) act."
+  },
+  "Flux_Optimized_Prompt": {
+    "Layered_Composition": {
+      "Foreground": "A wise king or leader is shown contemplating a major action, represented by a complex, glowing chess board in front of them.",
+      "Midground": "Three distinct, ethereal visions appear above the board, born from the leader's process of consideration ('சூழ்ந்து'). The first vision shows the potential losses ('அழிவது')—crumbled forts, lost soldiers. The second shows the potential acquisitions ('ஆவது')—new territory, captured treasure. The third, and most prominent, vision shows the long-term net profit or resulting good ('வழிபயக்கும் ஊதியம்')—a peaceful, prosperous kingdom.",
+      "Background": "The leader's hand is poised over a chess piece, ready to act ('செயல்'), but only after having fully weighed all three outcomes."
+    },
+    "Art_Direction": {
+      "Subject_and_Action": "The process of wise action is defined as a careful deliberation that weighs the potential loss, the immediate gain, and the ultimate, long-term benefit before committing to a deed.",
+      "Symbolic_Motifs": "The chess board represents the strategic nature of the decision. The three distinct visions are a literal representation of the three factors to be weighed. The final vision of 'net profit' is shown to be the most important, guiding the final decision.",
+      "Mood_and_Emotion": "Deliberate, strategic, wise, calculating, foresighted.",
+      "Lighting_and_Color": "A clear, intellectual light illuminates the scene. The vision of loss is in dark, smoky colors. The vision of acquisition is in a bright, metallic gold. The final vision of net benefit is in a warm, stable, and enduring golden light.",
+      "Technical_Cues": {
+        "Camera": "A close-up on the leader's face, capturing their intense concentration, with the symbolic chessboard and its visions clearly laid out before them.",
+        "Resolution": "8K, ultra-realistic, with complex and ethereal effects for the three visions.",
+        "Lighting": "The leader's face is lit by the reflected light of the three different visions, showing the complexity of their deliberation.",
+        "Art_Genre": "Historical fantasy, conceptual art."
+      },
+      "Cultural_Anchors": [
+        "Deliberating/Considering (சூழ்ந்து)",
+        "What is lost (அழிவது)",
+        "What is acquired (ஆவது)",
+        "The resulting gain (ஊதியம்)"
+      ]
+    },
+    "Negative_Prompt": "impulsive leader, no visions, text artifacts, cartoonish chess pieces, emotional decision.",
+    "Hyperparameters": {
+      "variant": "pro",
+      "steps": 50,
+      "cfg_scale": 9,
+      "seed": "Explore the visual distinctions between the three ethereal visions."
+    }
+  }
+}

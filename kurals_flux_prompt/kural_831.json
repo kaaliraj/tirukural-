@@ -1,0 +1,39 @@
+{
+  "Kural_Info": {
+    "Number": 831,
+    "Chapter": "பேதைமை (Folly)",
+    "Tamil_Text": "பேதைமை என்பதொன்று யாதெனின் ஏதங்கொண்டு ஊதியம் போக விடல்.",
+    "English_Meaning": "What one may call the greatest folly is the deed that claims a loss, and lets the gain go free."
+  },
+  "Flux_Optimized_Prompt": {
+    "Layered_Composition": {
+      "Foreground": "A foolish person ('பேதை') is shown holding two things in their hands. In one hand, they have a heavy, dark, iron ball representing Loss ('ஏதம்'). In the other, they have a light, beautiful, glowing golden bird representing Gain ('ஊதியம்').",
+      "Midground": "The person makes a foolish choice. They cling tightly to the heavy iron ball of loss, while opening their other hand and letting the golden bird of gain fly away.",
+      "Background": "A path of missed opportunities and self-inflicted hardship, created by this fundamental folly of choosing loss over gain."
+    },
+    "Art_Direction": {
+      "Subject_and_Action": "The definition of folly is to embrace what is harmful and discard what is profitable.",
+      "Symbolic_Motifs": "The iron ball of loss and the golden bird of gain are the clear symbols of the two choices. The foolish act of clinging to the bad and releasing the good is the central action.",
+      "Mood_and_Emotion": "Foolish, irrational, self-defeating.",
+      "Lighting_and_Color": "The iron ball is dark and heavy. The golden bird is bright, beautiful, and full of light. The fool's choice leads them into shadow.",
+      "Technical_Cues": {
+        "Camera": "A clear, narrative shot that captures the moment of the foolish choice.",
+        "Resolution": "8K, with beautiful effects for the golden bird.",
+        "Lighting": "Symbolic lighting that contrasts the two choices.",
+        "Art_Genre": "Allegorical realism."
+      }
+    },
+    "Cultural_Anchors": [
+      "Folly ('பேதைமை')",
+      "Embracing Loss ('ஏதங்கொண்டு')",
+      "Letting Gain go ('ஊதியம் போக விடல்')"
+    ]
+  },
+  "Negative_Prompt": "person choosing the bird, text artifacts, cartoonish.",
+  "Hyperparameters": {
+    "variant": "pro",
+    "steps": 45,
+    "cfg_scale": 8,
+    "seed": "Explore variations for the golden bird."
+  }
+}

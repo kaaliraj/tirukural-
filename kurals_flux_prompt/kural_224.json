@@ -1,0 +1,38 @@
+{
+  "Kural_Info": {
+    "Number": 224,
+    "Chapter": "ஈகை (Giving)",
+    "Tamil_Text": "இன்னாது இரக்கப் படுதல் இரந்தவர்இன்முகங் காணும் அளவு.",
+    "English_Meaning": "To see men begging from us is disagreeable, until we see their pleasant countenance."
+  },
+  "Flux_Optimized_Prompt": {
+    "Layered_Composition": {
+      "Foreground": "A giver is being approached by a beggar. The initial moment of being begged from ('இரக்கப்படுதல்') is painful and disagreeable ('இன்னாது'). This is visualized as a brief, dark, thorny aura of discomfort around the giver.",
+      "Midground": "The giver then gives the alms.",
+      "Background": "The moment the beggar receives the gift, their face transforms into a beautiful, pleasant, and joyful smile ('இன் முகம்'). The sight of this happy face instantly dispels the giver's initial discomfort. The thorny aura shatters and is replaced by a warm, shared glow of happiness."
+    },
+    "Art_Direction": {
+      "Subject_and_Action": "The act of being begged from is painful only up until the moment one sees the happy, grateful face of the person who has received the gift.",
+      "Symbolic_Motifs": "The transformation of the beggar's face from sorrow to joy is the catalyst that transforms the giver's feeling from pain to pleasure. The shattering of the 'thorny aura of discomfort' is a key visual effect.",
+      "Mood_and_Emotion": "Transformative, empathetic joy, bittersweet.",
+      "Lighting_and_Color": "The scene begins with a moment of cool, uncomfortable light. The moment the beggar smiles, a warm, golden, joyful light erupts, transforming the entire mood of the scene. The shared smile is the source of this new light.",
+      "Technical_Cues": {
+        "Camera": "A shot that focuses on the giver's face, showing their initial discomfort transforming into shared joy as they witness the beggar's happiness.",
+        "Resolution": "8K, ultra-realistic, with a focus on the powerful, transformative emotion of the beggar's smile.",
+        "Lighting": "A dramatic shift in lighting and color temperature, from cool and uncomfortable to warm and joyful.",
+        "Art_Genre": "Emotional realism."
+      },
+      "Cultural_Anchors": [
+        "Being begged from is painful (இன்னாது இரக்கப்படுதல்)",
+        "Until one sees the pleasant face of the beggar (இரந்தவர் இன் முகம் காணும் அளவு)"
+      ]
+    },
+    "Negative_Prompt": "giver staying unhappy, ungrateful beggar, text artifacts.",
+    "Hyperparameters": {
+      "variant": "dev",
+      "steps": 45,
+      "cfg_scale": 8,
+      "seed": "Explore the visual of the 'shattering thorny aura'."
+    }
+  }
+}

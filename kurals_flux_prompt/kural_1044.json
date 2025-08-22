@@ -1,0 +1,39 @@
+{
+  "Kural_Info": {
+    "Number": 1044,
+    "Chapter": "நல்குரவு (Poverty)",
+    "Tamil_Text": "இற்பிறந்தார் கண்ணேயும் இன்மை இளிவந்தசொற்பிறக்கும் சோர்வு தரும்.",
+    "English_Meaning": "Even in those of high birth, poverty will produce the fault of uttering mean words."
+  },
+  "Flux_Optimized_Prompt": {
+    "Layered_Composition": {
+      "Foreground": "A person of visibly noble birth ('இல் பிறந்தார்') is shown. They are dressed in the tattered remnants of fine clothes and stand with a naturally dignified posture.",
+      "Midground": "However, they are afflicted by poverty ('இன்மை'). This poverty is visualized as a heavy, sorrowful weight on their shoulders that is causing them to stoop with weariness ('சோர்வு').",
+      "Background": "Because of this wearying burden, a single, mean, and disgraceful word ('இளிவந்த சொல்') is shown escaping their noble lips, much to their own shame and surprise. Poverty has forced an unworthy word from a worthy mouth."
+    },
+    "Art_Direction": {
+      "Subject_and_Action": "Even a person of the highest birth and character will be worn down by poverty to the point where they utter disgraceful words unbecoming of them.",
+      "Symbolic_Motifs": "The contrast between their noble bearing and the disgraceful word is key. The word is an alien thing, forced out of them by the external pressure of poverty. Their own expression should be one of shame at their own utterance.",
+      "Mood_and_Emotion": "Degrading, weary, tragic, out of character.",
+      "Lighting_and_Color": "A dim, sorrowful light. The person retains a faint aura of their former nobility, but it is being crushed by the grey weight of poverty. The disgraceful word is a dark, ugly smudge in the air.",
+      "Technical_Cues": {
+        "Camera": "A close-up on the person's face, capturing their noble features, their weariness, and the moment of shame as the unworthy word escapes.",
+        "Resolution": "8K, hyper-realistic, focusing on the complex emotion of a noble person acting beneath themselves.",
+        "Lighting": "Low-key, tragic lighting.",
+        "Art_Genre": "Historical realism, dramatic portraiture."
+      },
+      "Cultural_Anchors": [
+        "Even in the high-born (இல் பிறந்தார் கண்ணேயும்)",
+        "Poverty (இன்மை)",
+        "Will give birth to disgraceful words (இளிவந்த சொல் பிறக்கும்)"
+      ]
+    },
+    "Negative_Prompt": "happy noble, poor person speaking eloquently, text artifacts.",
+    "Hyperparameters": {
+      "variant": "dev",
+      "steps": 45,
+      "cfg_scale": 8,
+      "seed": "Explore the expression of self-shame."
+    }
+  }
+}

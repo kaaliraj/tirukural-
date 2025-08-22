@@ -1,0 +1,38 @@
+{
+  "Kural_Info": {
+    "Number": 613,
+    "Chapter": "ஆள்வினையுடைமை (Manly Effort)",
+    "Tamil_Text": "தாளாண்மை என்னும் தகைமைக்கண் தங்கிற்றேவேளாண்மை என்னுஞ் செருக்கு.",
+    "English_Meaning": "The lustre of munificence will dwell only with the dignity of laboriousness or efforts."
+  },
+  "Flux_Optimized_Prompt": {
+    "Layered_Composition": {
+      "Foreground": "A strong, dignified individual is shown engaged in hard, strenuous labor ('தாளாண்மை'). They could be a farmer tilling a tough field or a smith forging steel.",
+      "Midground": "From the sweat of their brow and the effort of their hands, a brilliant, golden light is generated. This light is not just effort, but 'dignity' ('தகைமை').",
+      "Background": "This golden light of dignified effort then crystallizes and forms a magnificent, glowing crown above their head. This crown represents the 'noble pride of being able to help others' ('வேளாண்மை என்னுஞ் செருக்கு'). Without the effort, the crown would not exist."
+    },
+    "Art_Direction": {
+      "Subject_and_Action": "The noble pride and ability to be benevolent to others is not a standalone virtue; it can only exist when it rests upon a foundation of dignified, strenuous effort.",
+      "Symbolic_Motifs": "The direct transformation of effort into the crown of benevolence is the key visual metaphor. The crown is not given by a king, but earned and created directly from one's own labor.",
+      "Mood_and_Emotion": "Dignified, proud, earned nobility, constructive.",
+      "Lighting_and_Color": "The scene is lit by the golden glow that emanates from the act of labor itself. The palette is strong and earthy, combined with the divine gold of the resulting virtue. The person's expression is one of pride, not hardship.",
+      "Technical_Cues": {
+        "Camera": "A heroic, low-angle shot that ennobles the act of labor and frames the person with the manifesting crown of benevolence.",
+        "Resolution": "8K, ultra-realistic, with a focus on the physicality of the labor and the ethereal glow of the crown.",
+        "Lighting": "The act of effort is the primary, radiant light source.",
+        "Art_Genre": "Heroic realism, with symbolic and magical elements."
+      },
+      "Cultural_Anchors": [
+        "The dignity of effort (தாளாண்மை என்னும் தகைமை)",
+        "The pride of benevolence (வேளாண்மை என்னுஞ் செருக்கு)"
+      ]
+    },
+    "Negative_Prompt": "lazy person with a crown, crown given by others, text artifacts, suffering laborer.",
+    "Hyperparameters": {
+      "variant": "pro",
+      "steps": 50,
+      "cfg_scale": 8,
+      "seed": "Explore the design of the 'crown of benevolence'."
+    }
+  }
+}

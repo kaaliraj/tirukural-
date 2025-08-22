@@ -1,0 +1,38 @@
+{
+  "Kural_Info": {
+    "Number": 1299,
+    "Chapter": "நெஞ்சொடுபுலத்தல் (Expostulation with Oneself)",
+    "Tamil_Text": "துன்பத்திற்கு யாரே துணையாவார் தாமுடையநெஞ்சந் துணையல் வழி.",
+    "English_Meaning": "And who will aid me in my hour of grief, If my own heart comes not to my relief?."
+  },
+  "Flux_Optimized_Prompt": {
+    "Layered_Composition": {
+      "Foreground": "A person is shown sinking in a deep, dark sea of sorrow ('துன்பத்திற்கு'). They are looking around desperately for help.",
+      "Midground": "All external sources of help are shown to be absent or distant. There are no friendly hands, no rescue boats.",
+      "Background": "The ultimate betrayal is shown: their own heart ('தம்முடைய நெஞ்சம்'), which should be their closest ally, is depicted as a separate figure standing on the shore, refusing to offer help ('துணையல் வழி'). The image poses the rhetorical question: If your own heart won't help you, who else possibly can? ('யாரே துணையாவார்?')"
+    },
+    "Art_Direction": {
+      "Subject_and_Action": "A lament on the ultimate state of helplessness: when one is in sorrow, if one's own heart is not an ally, then no other help is possible.",
+      "Symbolic_Motifs": "The sea of sorrow is a classic metaphor. The personification of the heart as a disloyal bystander on the shore is the crucial, tragic element. It is the final and most devastating abandonment.",
+      "Mood_and_Emotion": "Utterly helpless, abandoned, betrayed by oneself, desperate.",
+      "Lighting_and_Color": "A dark, stormy, and desperate scene. The sea of sorrow is a cold, deep black. The person sinking is lit by a dim, failing light. The heart on the shore is cast in a cold, indifferent shadow.",
+      "Technical_Cues": {
+        "Camera": "A wide, desperate shot from the perspective of the sinking person, looking towards the unhelpful heart on the distant shore.",
+        "Resolution": "8K, hyper-realistic, with advanced water effects and a focus on the expression of utter despair.",
+        "Lighting": "Low-key, tragic lighting.",
+        "Art_Genre": "Tragic realism, symbolic painting."
+      },
+      "Cultural_Anchors": [
+        "Who is an ally in sorrow? (துன்பத்திற்கு யாரே துணையாவார்?)",
+        "When one's own heart is not an ally (தம்முடைய நெஞ்சம் துணையல் வழி)"
+      ]
+    },
+    "Negative_Prompt": "happy person, helpful heart, people rushing to help, text artifacts.",
+    "Hyperparameters": {
+      "variant": "pro",
+      "steps": 50,
+      "cfg_scale": 9,
+      "seed": "Explore the body language of the 'disloyal heart'."
+    }
+  }
+}

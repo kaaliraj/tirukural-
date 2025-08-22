@@ -1,0 +1,38 @@
+{
+  "Kural_Info": {
+    "Number": 315,
+    "Chapter": "இன்னாசெய்யாமை (Not doing Evil)",
+    "Tamil_Text": "அறிவினான் ஆகுவ துண்டோ பிறிதின்நோய்தந்நோய்போல் போற்றாக் கடை.",
+    "English_Meaning": "What benefit has he derived from his knowledge, who does not endeavour to keep off pain from another as much as from himself?."
+  },
+  "Flux_Optimized_Prompt": {
+    "Layered_Composition": {
+      "Foreground": "A scholar is shown, surrounded by a vast library representing his great knowledge ('அறிவினான்').",
+      "Midground": "He is witnessing another person's suffering ('பிறிதின் நோய்'). However, he does not treat this suffering with the same care and urgency as he would his own ('தன் நோய் போல் போற்றாக்கடை'). He remains detached and inactive.",
+      "Background": "Because of his lack of empathy, his vast knowledge is shown to be useless. The books in his library turn to blank pages, and the light of his wisdom fades to nothing. The image poses the rhetorical question, 'What is the use of his knowledge?' ('ஆகுவது உண்டோ?'), and the answer is clearly 'nothing'."
+    },
+    "Art_Direction": {
+      "Subject_and_Action": "Knowledge is rendered completely useless and meaningless if its possessor does not have the empathy to treat the pain of others as if it were their own.",
+      "Symbolic_Motifs": "The books turning to blank pages is a powerful metaphor for knowledge becoming worthless. The fading of the light of wisdom shows that true knowledge cannot coexist with a lack of empathy.",
+      "Mood_and_Emotion": "Useless knowledge, lack of empathy, hollow intellect, cautionary.",
+      "Lighting_and_Color": "The scene begins with the bright, intellectual light of the library. As the scholar fails the empathy test, this light drains away, leaving him in a cold, grey, meaningless twilight.",
+      "Technical_Cues": {
+        "Camera": "A shot that shows the scholar, his library, and the suffering person, and then uses a visual effect to show the knowledge becoming worthless as a result of his inaction.",
+        "Resolution": "8K, ultra-realistic, with advanced visual effects for the books turning blank.",
+        "Lighting": "A dynamic 'draining of light' effect.",
+        "Art_Genre": "Symbolic realism."
+      },
+      "Cultural_Anchors": [
+        "What is the use of knowledge? (அறிவினான் ஆகுவது உண்டோ?)",
+        "If one does not treat another's pain as one's own pain (பிறிதின் நோய் தன் நோய் போல் போற்றாக்கடை)"
+      ]
+    },
+    "Negative_Prompt": "scholar helping, happy scholar, text artifacts.",
+    "Hyperparameters": {
+      "variant": "pro",
+      "steps": 50,
+      "cfg_scale": 8,
+      "seed": "Explore the visual of the books turning to blank pages."
+    }
+  }
+}

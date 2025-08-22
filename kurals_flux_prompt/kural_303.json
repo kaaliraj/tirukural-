@@ -1,0 +1,38 @@
+{
+  "Kural_Info": {
+    "Number": 303,
+    "Chapter": "வெகுளாமை (Restraining Anger)",
+    "Tamil_Text": "மறத்தல் வெகுளியை யார்மாட்டும் தீயபிறத்தல் அதனான் வரும்.",
+    "English_Meaning": "If any rouse thy wrath, the trespass straight forget; For wrath an endless train of evils will beget."
+  },
+  "Flux_Optimized_Prompt": {
+    "Layered_Composition": {
+      "Foreground": "A person is shown feeling a spark of anger ('வெகுளி') towards another.",
+      "Midground": "Instead of nurturing it, they are shown actively 'forgetting' or extinguishing it ('மறத்தல்'). The spark of anger is snuffed out.",
+      "Background": "A horrific vision of the alternative is shown. If the spark of anger were not extinguished, it would give birth ('பிறத்தல்') to a monstrous, endless brood of all other evils ('தீய'). A single spark of anger is shown birthing a horde of demons representing strife, hatred, violence, and sorrow."
+    },
+    "Art_Direction": {
+      "Subject_and_Action": "One must forget and extinguish anger instantly, no matter who causes it, because anger is the mother of all other evils.",
+      "Symbolic_Motifs": "Anger as the single spark that gives birth to a horde of evil is the central metaphor. The act of 'forgetting' is an active quenching of this initial spark. The vision shows the catastrophic consequences of failing to do so.",
+      "Mood_and_Emotion": "Cautionary, preventative, monstrous, horrific.",
+      "Lighting_and_Color": "The scene is dark. The initial spark of anger is a small but dangerous red. The act of quenching it brings peace. The vision of the alternative is a terrifying explosion of dark, monstrous shapes born from that single spark.",
+      "Technical_Cues": {
+        "Camera": "A shot that focuses on the person's choice to extinguish the spark, with the horrific vision of what would happen otherwise looming large.",
+        "Resolution": "8K, ultra-realistic, with a terrifying and grotesque design for the 'brood of evils'.",
+        "Lighting": "The spark of anger is a potential source of a terrible, dark light.",
+        "Art_Genre": "Dark fantasy, horror."
+      },
+      "Cultural_Anchors": [
+        "Forget anger (மறத்தல் வெகுளியை)",
+        "All evils are born from it (தீய பிறத்தல் அதனான் வரும்)"
+      ]
+    },
+    "Negative_Prompt": "anger giving birth to good things, happy angry person, text artifacts.",
+    "Hyperparameters": {
+      "variant": "pro",
+      "steps": 55,
+      "cfg_scale": 10,
+      "seed": "Explore the design of the 'horde of demons born from anger'."
+    }
+  }
+}

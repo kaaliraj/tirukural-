@@ -1,0 +1,38 @@
+{
+  "Kural_Info": {
+    "Number": 1309,
+    "Chapter": "ஊடலுவகை (The Pleasures of Temporary Variance)",
+    "Tamil_Text": "நீரும் நிழலது இனிதே புலவியும்வீழுநர் கண்ணே இனிது.",
+    "English_Meaning": "Like water in the shade, dislike is delicious only in those who love."
+  },
+  "Flux_Optimized_Prompt": {
+    "Layered_Composition": {
+      "Foreground": "A split composition illustrating a simile.",
+      "Midground": "On the left, a scene of a hot, sunny day. A pool of water ('நீர்') located in a cool, pleasant shade ('நிழலது') is shown to be incredibly sweet and refreshing ('இனிதே').",
+      "Background": "On the right, a lover's pout or feigned dislike ('புலவி') is shown. This act is also 'sweet' ('இனிது'), but only because it is occurring in the context of a deep and secure love from one who is truly beloved ('வீழுநர் கண்ணே'). If the love were not there, the pouting would be genuinely painful."
+    },
+    "Art_Direction": {
+      "Subject_and_Action": "Feigned anger is sweet only with one who truly loves you, just as water is only truly sweet and refreshing when it is in the shade.",
+      "Symbolic_Motifs": "The context is everything. The shade is the context that makes the water pleasant. The secure love is the context that makes the pouting pleasant. The two scenes are presented as parallel truths.",
+      "Mood_and_Emotion": "Contextual pleasure, sweet, refreshing, secure.",
+      "Lighting_and_Color": "The water scene is a contrast of the harsh, hot sun and the cool, inviting blue-green of the shaded water. The pouting scene is bathed in a warm, loving, and secure light that makes the 'anger' feel safe and playful.",
+      "Technical_Cues": {
+        "Camera": "A balanced diptych shot that visually connects the shaded water with the loving pout.",
+        "Resolution": "8K, ultra-realistic, with a focus on the refreshing quality of the water and the loving quality of the quarrel.",
+        "Lighting": "Contrasting light on the left (hot sun vs. cool shade). Warm, unified light on the right.",
+        "Art_Genre": "Symbolic realism, comparative painting."
+      },
+      "Cultural_Anchors": [
+        "Pouting is sweet only in the beloved (புலவியும் வீழுநர் கண்ணே இனிது)",
+        "Just as water is sweet in the shade (நீரும் நிழலது இனிதே)"
+      ]
+    },
+    "Negative_Prompt": "water in the sun, real argument, text artifacts.",
+    "Hyperparameters": {
+      "variant": "dev",
+      "steps": 40,
+      "cfg_scale": 7,
+      "seed": "Explore the refreshing visuals of the shaded water."
+    }
+  }
+}

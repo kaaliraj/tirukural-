@@ -1,0 +1,38 @@
+{
+  "Kural_Info": {
+    "Number": 186,
+    "Chapter": "புறங்கூறாமை (Not Backbiting)",
+    "Tamil_Text": "பிறன்பழி கூறுவான் தன்பழி யுள்ளும்திறன்தெரிந்து கூறப் படும்.",
+    "English_Meaning": "The character of the faults of that man who publishes abroad the faults of others will be sought out and published."
+  },
+  "Flux_Optimized_Prompt": {
+    "Layered_Composition": {
+      "Foreground": "A backbiter is gleefully pointing out and proclaiming a small, single fault of another person ('பிறன் பழி கூறுவான்').",
+      "Midground": "In response to his action, the world (represented by a crowd of people) turns its attention to him. They begin to forensically search for his own faults.",
+      "Background": "The crowd, with great skill and discernment ('திறன் தெரிந்து'), uncovers a multitude of his own faults ('தன் பழி'), which are far greater and more numerous than the one he pointed out. These faults are then proclaimed for all to see. His act of accusation has brought a far greater accusation upon himself."
+    },
+    "Art_Direction": {
+      "Subject_and_Action": "The man who points out the faults of others will have his own faults skillfully sought out and exposed by the world.",
+      "Symbolic_Motifs": "The karmic boomerang effect is key. His single act of pointing a finger results in a hundred fingers pointing back at him. The crowd's search is depicted as a skillful, almost scientific, investigation, showing that his own deepest flaws will be expertly revealed.",
+      "Mood_and_Emotion": "Retribution, ironic, self-defeating, exposed.",
+      "Lighting_and_Color": "The backbiter starts in a smug, shadowy corner. His act of accusation shines a spotlight on the other person. This spotlight is then immediately turned back on him by the crowd, magnified, exposing all his own flaws in a harsh, unforgiving light.",
+      "Technical_Cues": {
+        "Camera": "A shot that shows the backbiter's accusation, and then the immediate, overwhelming reaction of the crowd turning their investigative gaze upon him.",
+        "Resolution": "8K, ultra-realistic, capturing the smugness of the backbiter turning to horror as he is exposed.",
+        "Lighting": "A dynamic shift of a spotlight to represent the turning of public scrutiny.",
+        "Art_Genre": "Social realism, with a dramatic twist."
+      },
+      "Cultural_Anchors": [
+        "He who speaks of another's fault (பிறன் பழி கூறுவான்)",
+        "His own faults will be skillfully exposed (தன் பழி உள்ளும் திறன் தெரிந்து கூறப்படும்)"
+      ]
+    },
+    "Negative_Prompt": "crowd ignoring him, faultless backbiter, text artifacts.",
+    "Hyperparameters": {
+      "variant": "dev",
+      "steps": 45,
+      "cfg_scale": 9,
+      "seed": "Explore the visual of the 'spotlight of scrutiny' turning back on the accuser."
+    }
+  }
+}

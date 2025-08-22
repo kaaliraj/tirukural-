@@ -1,0 +1,38 @@
+{
+  "Kural_Info": {
+    "Number": 1233,
+    "Chapter": "உறுப்புநலனழிதல் (Wasting Away)",
+    "Tamil_Text": "தணந்தமை சால அறிவிப்ப போலும்மணந்தநாள் வீங்கிய தோள்.",
+    "English_Meaning": "The shoulders that swelled on the day of our union (now) seem to announce our separation clearly (to the public)."
+  },
+  "Flux_Optimized_Prompt": {
+    "Layered_Composition": {
+      "Foreground": "A woman's shoulders are shown in the present. They are thin and wasted away.",
+      "Midground": "A ghostly, luminous overlay of the past is shown. On her wedding day ('மணந்த நாள்'), her shoulders were full, rounded, and strong ('வீங்கிய தோள்'), swelling with joy and health.",
+      "Background": "The stark contrast between the full, happy shoulders of the past and the thin, wasted shoulders of the present is so dramatic that it acts as a public proclamation. The shoulders themselves are loudly and clearly announcing the fact of her lover's separation ('தணந்தமை சால அறிவிப்ப')."
+    },
+    "Art_Direction": {
+      "Subject_and_Action": "The woman's once-full shoulders, now wasted by sorrow, serve as a clear and public announcement of her lover's abandonment.",
+      "Symbolic_Motifs": "The before-and-after comparison is the key. The 'swelling' is not just physical but a sign of emotional fulfillment, while the wasting is a sign of emotional desolation. The shoulders are personified as announcers.",
+      "Mood_and_Emotion": "Wasted, sorrowful, public proclamation, lost beauty.",
+      "Lighting_and_Color": "The memory of the full shoulders is in a warm, golden, happy light. The present-day wasted shoulders are in a cold, stark, grey light. The contrast emphasizes the loss.",
+      "Technical_Cues": {
+        "Camera": "A shot that focuses on the woman's shoulders, using a ghostly overlay or a split-screen effect to show the dramatic change.",
+        "Resolution": "8K, ultra-realistic, with a strong focus on the anatomical contrast.",
+        "Lighting": "Contrasting lighting to highlight the 'before' and 'after' states.",
+        "Art_Genre": "Symbolic realism, dramatic portraiture."
+      },
+      "Cultural_Anchors": [
+        "The shoulders that swelled on the wedding day (மணந்த நாள் வீங்கிய தோள்)",
+        "They seem to clearly announce the separation (தணந்தமை சால அறிவிப்ப போலும்)"
+      ]
+    },
+    "Negative_Prompt": "full shoulders in the present, text artifacts, happy woman.",
+    "Hyperparameters": {
+      "variant": "dev",
+      "steps": 45,
+      "cfg_scale": 8,
+      "seed": "Explore the ghostly overlay effect for the memory."
+    }
+  }
+}

@@ -1,0 +1,39 @@
+{
+  "Kural_Info": {
+    "Number": 442,
+    "Chapter": "பெரியாரைத் துணைக்கோடல் (Seeking the Aid of Great Men)",
+    "Tamil_Text": "உற்றநோய் நீக்கி உறாஅமை முற்காக்கும் பெற்றியார்ப் பேணிக் கொளல்.",
+    "English_Meaning": "Cherish the all-accomplished men as friends, Whose skill the present ill removes, from coming ill defends."
+  },
+  "Flux_Optimized_Prompt": {
+    "Layered_Composition": {
+      "Foreground": "A kingdom is beset by a problem, visualized as a dark, thorny vine ('உற்றநோய்') creeping into the city.",
+      "Midground": "A wise counselor ('பெற்றியார்') is shown taking two actions simultaneously. With one hand, he is cutting away the existing thorny vine, removing the current trouble. With the other hand, he is erecting a shield of light that prevents a much larger, darker storm cloud of future trouble ('உறாஅமை') from approaching.",
+      "Background": "A grateful king is shown observing this, cherishing the counselor who can both cure present ills and prevent future ones."
+    },
+    "Art_Direction": {
+      "Subject_and_Action": "The value of having great men as aides who can both solve existing problems and proactively prevent future calamities.",
+      "Symbolic_Motifs": "The thorny vine is the present problem. The storm cloud is the future threat. The counselor's dual action of cutting the vine and raising a shield demonstrates their complete competence.",
+      "Mood_and_Emotion": "Competent, protective, wise, proactive, secure.",
+      "Lighting_and_Color": "The thorny vine and storm cloud are dark and menacing. The shield of light is a brilliant, protective white or gold. The scene is one of action and resolution."
+    },
+    "Technical_Cues": {
+      "Camera": "Dynamic wide shot, capturing the counselor's two-fold action and its effect on the kingdom.",
+      "Resolution": "8K, cinematic, with dramatic effects for the light shield and the storm.",
+      "Lighting": "High-contrast lighting, with the shield of light pushing back the darkness of the threats.",
+      "Art_Genre": "Epic fantasy art, narrative painting."
+    },
+    "Cultural_Anchors": [
+      "Removing present trouble ('உற்றநோய் நீக்கி')",
+      "Preventing future trouble ('உறாஅமை முற்காக்கும்')",
+      "Cherishing the competent ('பேணிக் கொளல்')"
+    ]
+  },
+  "Negative_Prompt": "counselor failing, kingdom in ruins, king angry, text artifacts, cartoonish.",
+  "Hyperparameters": {
+    "variant": "dev",
+    "steps": 45,
+    "cfg_scale": 9,
+    "seed": "Explore variations for the design of the storm cloud."
+  }
+}

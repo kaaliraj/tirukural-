@@ -1,0 +1,39 @@
+{
+  "Kural_Info": {
+    "Number": 4,
+    "Chapter": "கடவுள் வாழ்த்து (The Praise of God)",
+    "Tamil_Text": "வேண்டுதல் வேண்டாமை இலானடி சேர்ந்தார்க்குயாண்டும் இடும்பை இல.",
+    "English_Meaning": "To those who meditate the feet of Him who is void of desire or aversion, evil shall never come."
+  },
+  "Flux_Optimized_Prompt": {
+    "Layered_Composition": {
+      "Foreground": "A meditating sage, seated in perfect stillness at the base of a great Banyan tree, their face a mask of serene detachment.",
+      "Midground": "A protective circle of absolute calm and pure white light immediately surrounds the sage, a shield against the chaos.",
+      "Background": "A violent, thorny storm of worldly suffering ('Idumbai') rages, with swirling dark clouds and shadowy figures representing desire and hatred. The storm cannot penetrate the circle of light."
+    },
+    "Art_Direction": {
+      "Subject_and_Action": "A sage, through contemplation of the desireless divine, achieves perfect immunity from worldly suffering.",
+      "Symbolic_Motifs": "A pair of divine feet, perfectly balanced, are subtly carved into the tree's roots, representing the absence of 'desire or aversion' ('Venduthal Vendaamai'). Thorny vines wither to dust as they approach the circle of calm.",
+      "Mood_and_Emotion": "Serene tranquility amidst violent chaos; the power of inner peace.",
+      "Lighting_and_Color": "Brilliant, pure white light emanates from the sage and the divine feet, creating a stark contrast with the dark, turbulent purple and grey tones of the storm."
+    },
+    "Technical_Cues": {
+      "Camera": "Centered wide shot, 35mm lens, emphasizing the contrast between the calm center and the chaotic periphery.",
+      "Resolution": "8K, ultra-realistic details on the sage and tree, dynamic particle effects for the storm.",
+      "Lighting": "High contrast, volumetric light from the protective circle, dramatic, stormy lighting outside.",
+      "Art_Genre": "Digital matte painting, fantasy realism, symbolic art."
+    },
+    "Cultural_Anchors": [
+      "Banyan tree as a symbol of wisdom (ஆலமரம்)",
+      "Concept of 'Idumbai' (suffering)",
+      "Detachment (பற்றின்மை)"
+    ]
+  },
+  "Negative_Prompt": "disturbed sage, broken circle of light, storm penetrating the circle, deformed limbs, oversaturated colors, non-Tamil physiognomy.",
+  "Hyperparameters": {
+    "variant": "dev",
+    "steps": 40,
+    "cfg_scale": 9,
+    "seed": "Explore variations for the storm's appearance."
+  }
+}

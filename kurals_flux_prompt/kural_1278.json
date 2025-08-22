@@ -1,0 +1,33 @@
+{
+  "Kural_Info": {
+    "Number": 1278,
+    "Chapter": "குறிப்பறிவுறுத்தல் (The Reading of the Signs)",
+    "Tamil_Text": "நெருநற்றுச் சென்றார்எம் காதலர் யாமும்எழுநாளேம் மேனி பசந்து.",
+    "English_Meaning": "It was but yesterday my lover departed (from me); and it is seven days since my complexion turned sallow."
+  },
+  "Flux_Optimized_Prompt": {
+    "Layered_Composition": {
+      "Foreground": "A woman is looking at her reflection. Her skin has a distinct sallow hue ('Meni Pasanthu').",
+      "Midground": "A calendar on the wall shows that her lover left only yesterday ('Nerunatru Sendraar').",
+      "Background": "However, the reflection she sees is of a version of herself that looks as if she has been suffering for a week ('Ezhunaalem'). Her form is weary and the sallowness is deep, showing how a single day of separation feels like an eternity of suffering."
+    },
+    "Art_Direction": {
+      "Subject_and_Action": "A lover's lament on the distortion of time in sorrow: 'My lover only left yesterday, but my body has already wasted away with the sallowness of seven days of pining.'",
+      "Symbolic_Motifs": "The contrast between the calendar's objective time (one day) and her reflection's subjective suffering (seven days). The sallowness ('Pasappu') as the physical manifestation of this accelerated sorrow.",
+      "Mood_and_Emotion": "Sorrowful, a sense of time dragging, physically worn down by emotion.",
+      "Lighting_and_Color": "The room is in a bleak, gray light. The woman's skin has a noticeable, unhealthy pale yellow or green tint. Her reflection appears even more so."
+    },
+    "Technical_Cues": {
+      "Camera": "A shot focusing on the woman looking into a mirror, clearly showing the calendar date and the exaggerated suffering in her reflection.",
+      "Resolution": "8K, photorealistic, with a strong focus on conveying sickness and weariness through skin tone and posture.",
+      "Lighting": "Flat, unforgiving light that makes the sallowness more apparent.",
+      "Art_Genre": "Psychological realism, illustrating a subjective experience."
+    },
+    "Cultural_Anchors": [
+      "பசப்பு (Sallowness of lovesickness)",
+      "The subjective distortion of time in grief",
+      "நெருநல் (Yesterday)"
+    ]
+  },
+  "Negative_Prompt": "a healthy-looking woman, a happy reflection, a modern digital calendar, text artifacts, cartoonish, blurry."
+}

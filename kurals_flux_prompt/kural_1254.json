@@ -1,0 +1,33 @@
+{
+  "Kural_Info": {
+    "Number": 1254,
+    "Chapter": "நிறையழிதல் (Reserve Overcome)",
+    "Tamil_Text": "நிறையுடையேன் என்பேன்மன் யானோஎன் காமம்மறையிறந்து மன்று படும்.",
+    "English_Meaning": "In womanly reserve I deemed myself beyond assail; But love will come abroad, and casts away the veil."
+  },
+  "Flux_Optimized_Prompt": {
+    "Layered_Composition": {
+      "Foreground": "A woman stands proudly, her posture indicating that she believes she is in perfect control of her emotions ('Niraiyudaiyen Enpen'). She is holding a veil that represents her concealed feelings.",
+      "Midground": "Her love ('En Kaamam'), however, is personified as a mischievous and powerful gust of wind. This wind suddenly blows her veil away, exposing her love-struck face to the public ('Mandru Padum').",
+      "Background": "A public square or assembly ('Mandram'), where onlookers are now able to see her true feelings, which she thought were perfectly hidden."
+    },
+    "Art_Direction": {
+      "Subject_and_Action": "A woman who prides herself on her self-control finds that her love is a force of its own that will defy her attempts to hide it and reveal itself publicly.",
+      "Symbolic_Motifs": "Love as a gust of wind that rips away the veil of secrecy is the central metaphor. Her initial proud stance contrasts with her later surprised and exposed expression.",
+      "Mood_and_Emotion": "Surprising, revealing, a sense of losing control.",
+      "Lighting_and_Color": "Bright, public lighting. The gust of wind is visualized with dynamic, swirling lines and particles. The palette is clear and bright, befitting a public revelation."
+    },
+    "Technical_Cues": {
+      "Camera": "A dynamic shot that captures the moment the wind rips the veil away, focusing on her shocked expression.",
+      "Resolution": "8K, photorealistic, with dynamic cloth and wind simulation.",
+      "Lighting": "Bright, clear lighting that suggests there is nowhere to hide.",
+      "Art_Genre": "Romantic realism, capturing a moment of sudden vulnerability."
+    },
+    "Cultural_Anchors": [
+      "நிறை (Self-control/Reserve)",
+      "மறை இறத்தல் (Transcending secrecy)",
+      "The public revelation of private feelings"
+    ]
+  },
+  "Negative_Prompt": "a woman successfully hiding her feelings, a calm day with no wind, a private setting, text artifacts, cartoonish."
+}

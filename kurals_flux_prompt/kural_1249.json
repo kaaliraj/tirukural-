@@ -1,0 +1,33 @@
+{
+  "Kural_Info": {
+    "Number": 1249,
+    "Chapter": "நெஞ்சொடுகிளத்தல் (Soliloquy)",
+    "Tamil_Text": "உள்ளத்தார் காத லவரால் உள்ளிநீயாருழைச் சேறியென் நெஞ்சு.",
+    "English_Meaning": "My heart! my lover lives within my mind; Roaming, whom dost thou think to find?."
+  },
+  "Flux_Optimized_Prompt": {
+    "Layered_Composition": {
+      "Foreground": "A woman's heart ('En Nenju') is personified, depicted with a small bindle on a stick, about to set off on a journey out of her body.",
+      "Midground": "The woman (her conscious self) gently stops her heart. She points inwards, and her own chest becomes transparent, revealing a luminous, perfect image of her lover dwelling peacefully inside ('Ullaththaar Kaathalavar').",
+      "Background": "She is asking her heart why it is setting off on an external search, when the one it seeks is already enshrined within. The background is a simple, peaceful space for this moment of inner realization."
+    },
+    "Art_Direction": {
+      "Subject_and_Action": "A gentle reminder to one's own heart that the external search for a beloved is pointless when their true presence is already held within the heart itself.",
+      "Symbolic_Motifs": "The heart as a traveler about to depart. The transparent chest revealing the lover inside is the moment of revelation.",
+      "Mood_and_Emotion": "Gentle realization, introspective, serene, a sense of finding what was never lost.",
+      "Lighting_and_Color": "A soft, warm, internal light emanates from the image of the lover within her heart, illuminating the scene. The palette is calm and gentle."
+    },
+    "Technical_Cues": {
+      "Camera": "Intimate medium shot, focusing on the gentle interaction between the woman and her personified heart.",
+      "Resolution": "8K, mystical realism, with beautiful transparency and glowing effects.",
+      "Lighting": "Soft, internal lighting that creates a feeling of peace and discovery.",
+      "Art_Genre": "Symbolic art with a tender, spiritual quality."
+    },
+    "Cultural_Anchors": [
+      "உள்ளத்தார் (He who is in the heart)",
+      "The concept of internalizing the beloved",
+      "The futility of the external search"
+    ]
+  },
+  "Negative_Prompt": "a heart successfully leaving, an empty heart, a chaotic scene, text artifacts, modern attire."
+}

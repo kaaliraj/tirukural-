@@ -1,0 +1,39 @@
+{
+  "Kural_Info": {
+    "Number": 3,
+    "Chapter": "கடவுள் வாழ்த்து (The Praise of God)",
+    "Tamil_Text": "மலர்மிசை ஏகினான் மாணடி சேர்ந்தார்நிலமிசை நீடுவாழ் வார்.",
+    "English_Meaning": "They who are united to the glorious feet of Him who passes swiftly over the flower of the mind, shall flourish long above all worlds."
+  },
+  "Flux_Optimized_Prompt": {
+    "Layered_Composition": {
+      "Foreground": "A serene devotee, glowing with an inner light, kneels with hands touching a pair of luminous, divine feet.",
+      "Midground": "The divine feet stand upon a giant, ethereal lotus flower representing the devotee's pure mind ('flower of the mind'). The lotus floats above the earthly plain.",
+      "Background": "The earthly world ('Nilamisai') appears small and distant below. The deep background is a mystical, heavenly realm of soft clouds and celestial light, symbolizing transcendence."
+    },
+    "Art_Direction": {
+      "Subject_and_Action": "A devotee achieves a state of transcendent bliss ('Neetuvaazh Vaar') by connecting with the divine through a pure heart.",
+      "Symbolic_Motifs": "Waves of golden energy flow from the divine feet into the devotee, signifying their elevated state. The devotee's glowing form symbolizes a long and enlightened existence.",
+      "Mood_and_Emotion": "Tranquil, serene, transcendent, blissful.",
+      "Lighting_and_Color": "A soft, divine, golden light emanates from the feet and the lotus, bathing the devotee in a peaceful glow. The earthly world below is in softer, muted tones."
+    },
+    "Technical_Cues": {
+      "Camera": "Low-angle wide shot, emphasizing the devotee's reverence and the scale of the divine.",
+      "Resolution": "8K, ultra-realistic human form, ethereal and painterly effects for divine elements.",
+      "Lighting": "Soft volumetric lighting, radiant golden glow, lens flare.",
+      "Art_Genre": "Mystical realism, combining photorealistic figures with South Indian mural-style divine iconography."
+    },
+    "Cultural_Anchors": [
+      "Lotus as a symbol of purity (தாமரை)",
+      "Spiritual transcendence (நிலைமிசை நீடுவாழ்வார்)",
+      "Bhakti (devotional) tradition"
+    ]
+  },
+  "Negative_Prompt": "deformed limbs, anxious expression, non-Tamil physiognomy, Western attire, dark or stormy background, text artifacts.",
+  "Hyperparameters": {
+    "variant": "pro",
+    "steps": 45,
+    "cfg_scale": 7,
+    "seed": "Explore variations for the celestial background."
+  }
+}

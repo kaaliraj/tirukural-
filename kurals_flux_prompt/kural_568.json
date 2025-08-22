@@ -1,0 +1,39 @@
+{
+  "Kural_Info": {
+    "Number": 568,
+    "Chapter": "வெருவந்தசெய்யாமை (Absence of Terrorism)",
+    "Tamil_Text": "இனத்தாற்றி எண்ணாத வேந்தன் சினத்தாற்றிச் சீறிற் சிறுகும் திரு.",
+    "English_Meaning": "The prosperity of that king will waste away, who without reflecting (on his affairs himself), commits them to his ministers, and (when a failure occurs) gives way to anger, and rages against them."
+  },
+  "Flux_Optimized_Prompt": {
+    "Layered_Composition": {
+      "Foreground": "A king is shown turning his back on his ministers, refusing to consult with them ('இனத்தாற்றி எண்ணாத').",
+      "Midground": "A project managed by the ministers has failed (e.g., a bridge has collapsed). The king, instead of reflecting, is shown exploding in a fiery rage ('சினத்தாற்றிச் சீறில்') at his ministers.",
+      "Background": "As the king rages, his royal fortune, personified as a beautiful, glowing goddess ('திரு'), is shown visibly shrinking and becoming smaller and dimmer ('சிறுகும் திரு'), her power fading with every angry shout from the king."
+    },
+    "Art_Direction": {
+      "Subject_and_Action": "The fortune of a king who delegates without thought and then rages at his ministers during failures will diminish and shrink away.",
+      "Symbolic_Motifs": "The king turning his back shows his lack of consultation. The fiery rage is his unthinking reaction. The goddess of Fortune physically shrinking is the direct, magical consequence of his poor leadership.",
+      "Mood_and_Emotion": "Angry, irrational, self-destructive, diminishing.",
+      "Lighting_and_Color": "The king's rage is lit with a harsh, destructive fiery light. The goddess of Fortune is the source of a beautiful golden light that is visibly fading, causing the entire scene to grow darker.",
+      "Technical_Cues": {
+        "Camera": "A wide shot that connects the king's rage at his ministers to the immediate, negative impact on the personified Fortune.",
+        "Resolution": "8K, with a focus on the shrinking light effect.",
+        "Lighting": "Dynamic lighting that decreases in intensity as the goddess shrinks.",
+        "Art_Genre": "Mythological fantasy, narrative art."
+      }
+    },
+    "Cultural_Anchors": [
+      "A king who doesn't consult ('எண்ணாத வேந்தன்')",
+      "Raging in anger ('சினத்தாற்றிச் சீறில்')",
+      "Fortune diminishing ('திரு சிறுகும்')"
+    ]
+  },
+  "Negative_Prompt": "king consulting ministers, calm king, growing goddess, text artifacts.",
+  "Hyperparameters": {
+    "variant": "pro",
+    "steps": 50,
+    "cfg_scale": 8,
+    "seed": "Explore variations for the shrinking goddess effect."
+  }
+}

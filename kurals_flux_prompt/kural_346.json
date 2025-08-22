@@ -1,0 +1,38 @@
+{
+  "Kural_Info": {
+    "Number": 346,
+    "Chapter": "துறவு (Renunciation)",
+    "Tamil_Text": "யானென தென்னுஞ் செருக்கறுப்பான் வானோர்க்குயர்ந்த உலகம் புகும்.",
+    "English_Meaning": "He who destroys the pride which says \"I\", \"mine\" will enter a world which is difficult even to the Gods to attain."
+  },
+  "Flux_Optimized_Prompt": {
+    "Layered_Composition": {
+      "Foreground": "A person is shown in a supreme act of self-purification. They are holding a divine sword of wisdom.",
+      "Midground": "With this sword, they are decisively cutting away two monstrous, shadowy chains that bind their soul. One chain is labeled 'I' ('யான்') and the other is labeled 'Mine' ('எனது'). This is the act of destroying the arrogant ego ('செருக்கு அறுப்பான்').",
+      "Background": "The moment these two chains are severed, a gateway opens to a world of unimaginable light and bliss. This realm is so high that even the gods ('வானோர்'), who are shown on a lower celestial plane, are looking up at it with awe and longing. It is a 'world higher than the gods' ('வானோர்க்கு உயர்ந்த உலகம்')."
+    },
+    "Art_Direction": {
+      "Subject_and_Action": "The one who completely destroys the arrogance of 'I' and 'mine' will attain a spiritual world so high that it is beyond the reach of even the gods.",
+      "Symbolic_Motifs": "The ego as two distinct chains, 'I' and 'Mine', is the central metaphor. The act of severing them is a powerful, liberating act. The hierarchy of the worlds, with the gods' world being lower than the one attained by the egoless soul, is a key visual statement.",
+      "Mood_and_Emotion": "Ultimate liberation, transcendent, supreme, beyond divine.",
+      "Lighting_and_Color": "The chains of ego are dark and shadowy. The act of severing them creates an explosion of pure, white light. The world beyond the gate is a realm of indescribable, brilliant, and pure light that outshines the golden, lesser light of the gods' world.",
+      "Technical_Cues": {
+        "Camera": "An epic, vertical shot that shows the person on a lower plane, the gods' world above them, and the ultimate, highest world opening up as the chains are broken.",
+        "Resolution": "8K, ultra-realistic, with spectacular cosmic and divine realm effects.",
+        "Lighting": "A hierarchy of light, from the dark of ego to the gold of the gods to the ultimate white light of liberation.",
+        "Art_Genre": "Epic cosmic fantasy, mythological art."
+      },
+      "Cultural_Anchors": [
+        "He who severs the arrogance of 'I' and 'Mine' (யான் எனது என்னும் செருக்கு அறுப்பான்)",
+        "Will enter a world higher than the gods (வானோர்க்கு உயர்ந்த உலகம் புகும்)"
+      ]
+    },
+    "Negative_Prompt": "person clinging to chains, text artifacts, gods at the top.",
+    "Hyperparameters": {
+      "variant": "pro",
+      "steps": 60,
+      "cfg_scale": 10,
+      "seed": "Explore the design of the 'world higher than the gods'."
+    }
+  }
+}

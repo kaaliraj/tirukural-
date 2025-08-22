@@ -1,0 +1,38 @@
+{
+  "Kural_Info": {
+    "Number": 737,
+    "Chapter": "நாடு (The Land)",
+    "Tamil_Text": "இருபுனலும் வாய்ந்த மலையும் வருபுனலும் வல்லரணும் நாட்டிற்கு உறுப்பு.",
+    "English_Meaning": "The constituents of a kingdom are the two waters (from above and below), well situated hills and an undestructible fort."
+  },
+  "Flux_Optimized_Prompt": {
+    "Layered_Composition": {
+      "Foreground": "A majestic and ideal landscape that incorporates the essential components of a nation.",
+      "Midground": "A beautiful mountain ('மலை') range is central. From this mountain, rivers ('வருபுனல்') flow down. The land is shown to have both this surface water and abundant groundwater, represented by clear springs ('இருபுனல்').",
+      "Background": "Overlooking this fertile, well-watered land is a mighty, indestructible fortress ('வல்லரண்'), providing security. These elements together form the vital limbs ('உறுப்பு') of the nation."
+    },
+    "Art_Direction": {
+      "Subject_and_Action": "A perfect landscape defining the key physical components of a nation: mountains, surface water, groundwater, and a strong fortress.",
+      "Symbolic_Motifs": "The image is a composite of the ideal geographical and strategic features. Each element is clearly and beautifully rendered.",
+      "Mood_and_Emotion": "Ideal, prosperous, secure, fertile, strong.",
+      "Lighting_and_Color": "Bright, clear, and beautiful natural light. The colors are lush and vibrant: deep green forests, clear blue waters, and strong grey stone for the mountains and fortress.",
+      "Technical_Cues": {
+        "Camera": "An epic, ultra-wide landscape shot that captures all the essential elements in a single, harmonious composition.",
+        "Resolution": "8K, with the style of a grand landscape painting by Albert Bierstadt or a matte painting.",
+        "Lighting": "Majestic, natural sunlight.",
+        "Art_Genre": "Epic landscape painting, fantasy realism."
+      },
+      "Cultural_Anchors": [
+        "The components of a nation ('நாட்டிற்கு உறுப்பு')",
+        "Waters, Mountains, and a Fortress."
+      ]
+    },
+    "Negative_Prompt": "a flat desert, no water, a weak fortress, text artifacts, blurry.",
+    "Hyperparameters": {
+      "variant": "pro",
+      "steps": 50,
+      "cfg_scale": 7,
+      "seed": "Explore variations for the design of the fortress."
+    }
+  }
+}

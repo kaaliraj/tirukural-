@@ -1,0 +1,38 @@
+{
+  "Kural_Info": {
+    "Number": 108,
+    "Chapter": "செய்ந்நன்றி அறிதல் (Gratitude)",
+    "Tamil_Text": "நன்றி மறப்பது நன்றன்று நன்றல்லதுஅன்றே மறப்பது நன்று.",
+    "English_Meaning": "It is not good to forget a benefit; it is good to forget an injury even in the very moment (in which it is inflicted)."
+  },
+  "Flux_Optimized_Prompt": {
+    "Layered_Composition": {
+      "Foreground": "A person's mind is visualized. On the right side, a memory of a good deed ('நன்றி') done to them is being carefully carved into a permanent, golden stone tablet ('மறப்பது நன்றன்று').",
+      "Midground": "On the left side, the memory of an injury or a bad deed ('நன்றல்லது') is being written on sand. As it is being written, a gentle wind immediately blows the letters away, causing them to be forgotten instantly ('அன்றே மறப்பது').",
+      "Background": "A serene, balanced landscape, representing a well-ordered mind that has achieved peace by practicing this dual discipline of memory."
+    },
+    "Art_Direction": {
+      "Subject_and_Action": "The stark contrast between how one should treat memories of benefits and injuries: benefits should be permanently etched in memory, while injuries should be forgotten instantly.",
+      "Symbolic_Motifs": "The contrast of materials—permanent stone versus ephemeral sand—is the central metaphor. The act of carving is deliberate and careful, while the act of erasure by the wind is immediate and effortless.",
+      "Mood_and_Emotion": "Wise, disciplined memory, balanced, serene, forgiving.",
+      "Lighting_and_Color": "The stone tablet of good deeds is bathed in a warm, golden, grateful light. The sand of injuries is in cool, neutral, and forgettable colors. The overall lighting is clear and balanced.",
+      "Technical_Cues": {
+        "Camera": "A wide, symbolic shot of the 'mindscape', clearly showing the two contrasting actions of memory.",
+        "Resolution": "8K, ultra-realistic, with fine detail on the stone carving and the sand particles being blown away.",
+        "Lighting": "Dual lighting to emphasize the value of one memory and the worthlessness of the other.",
+        "Art_Genre": "Surrealist allegorical art, symbolic mindscape."
+      },
+      "Cultural_Anchors": [
+        "Forgetting a benefit is not good (நன்றி மறப்பது நன்றன்று)",
+        "Forgetting an injury on the spot is good (நன்றல்லது அன்றே மறப்பது நன்று)"
+      ]
+    },
+    "Negative_Prompt": "carving injuries in stone, writing benefits on sand, chaotic mind, text artifacts.",
+    "Hyperparameters": {
+      "variant": "dev",
+      "steps": 45,
+      "cfg_scale": 8,
+      "seed": "Explore the visual of letters being erased from sand."
+    }
+  }
+}

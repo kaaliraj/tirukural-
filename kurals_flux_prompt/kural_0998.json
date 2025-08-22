@@ -1,0 +1,33 @@
+{
+  "Kural_Info": {
+    "Number": 998,
+    "Chapter": "பண்புடைமை (Courtesy)",
+    "Tamil_Text": "நண்பாற்றார் ஆகி நயமில செய்வார்க்கும்பண்பாற்றார் ஆதல் கடை.",
+    "English_Meaning": "Though men with all unfriendly acts and wrongs assail, 'Tis uttermost disgrace in 'courtesy' to fail."
+  },
+  "Flux_Optimized_Prompt": {
+    "Layered_Composition": {
+      "Foreground": "A courteous individual is being actively wronged by another—perhaps being cheated or publicly insulted. The aggressor is clearly unfriendly ('Nanpaatrar') and unjust ('Nayamila').",
+      "Midground": "Despite the provocation, the virtuous person makes a conscious, difficult choice not to retaliate in kind. This internal struggle and ultimate decision to maintain their own character ('Panbu') is visualized as them refusing to pick up a weapon of insult that materializes at their hand.",
+      "Background": "Onlookers witness the scene. Their expressions shift from expecting a confrontation to showing deep respect for the person who maintained their dignity, highlighting that losing one's character is the greater loss ('Kadai')."
+    },
+    "Art_Direction": {
+      "Subject_and_Action": "The ultimate test of courtesy is maintaining it even towards those who are actively unfriendly and unjust, because to lose one's own good character is the worst possible outcome.",
+      "Symbolic_Motifs": "The materialized weapon of insult symbolizes the temptation to retaliate. The act of refusing to pick it up is the key action. The respectful gaze of the onlookers confirms the correctness of the choice.",
+      "Mood_and_Emotion": "Tense, dignified, demonstrating immense self-control and moral strength.",
+      "Lighting_and_Color": "Harsh light on the aggressor and their wrongful act. A steady, noble light on the virtuous person, emphasizing their unwavering character. The palette is dramatic and high-contrast."
+    },
+    "Technical_Cues": {
+      "Camera": "Medium close-up, focusing on the internal conflict and resolve on the face of the virtuous person.",
+      "Resolution": "8K, ultra-realistic, capturing the subtle emotions of the protagonist and the onlookers.",
+      "Lighting": "Dramatic side-lighting to sculpt the characters' faces and emphasize the moral tension.",
+      "Art_Genre": "Cinematic realism, like a key frame from a historical drama."
+    },
+    "Cultural_Anchors": [
+      "பண்புடைமை (Courtesy)",
+      "Maintaining character under provocation",
+      "The concept of moral victory"
+    ]
+  },
+  "Negative_Prompt": "protagonist fighting back, happy aggressor, no onlookers, modern setting, text artifacts, cartoonish."
+}

@@ -1,0 +1,33 @@
+{
+  "Kural_Info": {
+    "Number": 1145,
+    "Chapter": "அலரறிவுறுத்தல் (The Announcement of the Rumour)",
+    "Tamil_Text": "களித்தொறும் கள்ளுண்டல் வேட்டற்றால் காமம்வெளிப்படுந் தோறும் இனிது.",
+    "English_Meaning": "The more man drinks, the more he ever drunk would be; The more my love's revealed, the sweeter 'tis to me! ."
+  },
+  "Flux_Optimized_Prompt": {
+    "Layered_Composition": {
+      "Foreground": "A split composition. On the left, a person is shown drinking palm wine ('Kal'), their expression becoming more joyful and wanting more with each sip ('Kalithorum...vettatral').",
+      "Midground": "On the right, a lover is depicted. Each time a new whisper of rumor about their love appears ('Velipadum Thorum'), their expression of love-sickness becomes not more pained, but more intensely joyful and sweet ('Inithu').",
+      "Background": "The background for the drinker is a festive, celebratory setting. The background for the lover is a world where the very air seems to shimmer with the sweet energy of the revealed secret."
+    },
+    "Art_Direction": {
+      "Subject_and_Action": "An analogy comparing the intoxicating and escalating pleasure of love being revealed through rumor to the way a drinker desires more wine the more they drink.",
+      "Symbolic_Motifs": "The parallel expressions of escalating joy are key. The rumor can be visualized as sweet, glowing motes in the air that the lover breathes in.",
+      "Mood_and_Emotion": "Intoxicating, joyful, escalating pleasure.",
+      "Lighting_and_Color": "Warm, celebratory lighting for both scenes. The colors are rich and saturated, conveying a sense of heightened emotion and pleasure."
+    },
+    "Technical_Cues": {
+      "Camera": "A dual medium shot to closely capture the parallel expressions of the drinker and the lover.",
+      "Resolution": "8K, photorealistic, with a focus on capturing the intoxicating joy on the characters' faces.",
+      "Lighting": "Warm, glowing light, perhaps with a soft-focus effect to enhance the dream-like, intoxicating mood.",
+      "Art_Genre": "Romantic realism with a clear analogical structure."
+    },
+    "Cultural_Anchors": [
+      "காமம் (Love/Passion)",
+      "கள்ளுண்டல் (Drinking wine)",
+      "The intoxicating effect of public rumor on a secret love"
+    ]
+  },
+  "Negative_Prompt": "sad drinker, sad lover, dark colors, modern bar, text artifacts, blurry."
+}

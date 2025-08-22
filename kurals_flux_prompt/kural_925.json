@@ -1,0 +1,39 @@
+{
+  "Kural_Info": {
+    "Number": 925,
+    "Chapter": "கள்ளுண்ணாமை (Not Drinking Palm-Wine)",
+    "Tamil_Text": "கையறி யாமை உடைத்தே பொருள்கொடுத்து மெய்யறி யாமை கொளல்.",
+    "English_Meaning": "To give money and purchase unconsciousness is the result of one's ignorance of (one's own actions)."
+  },
+  "Flux_Optimized_Prompt": {
+    "Layered_Composition": {
+      "Foreground": "A person is shown handing over a bag of precious gold coins ('பொருள் கொடுத்து').",
+      "Midground": "In exchange, they are receiving a dark, murky liquid in a bottle. This liquid represents self-oblivion or unconsciousness ('மெய்யறியாமை').",
+      "Background": "This transaction is depicted as an act of profound ignorance and lack of self-awareness ('கையறியாமை'). The person is essentially paying to destroy their own consciousness, which is shown to be the ultimate foolish bargain."
+    },
+    "Art_Direction": {
+      "Subject_and_Action": "The act of paying money to purchase a substance that makes you lose awareness of yourself is the very definition of ignorant action.",
+      "Symbolic_Motifs": "The transaction—gold for a bottle of oblivion—is the central image. This frames addiction as a foolish commercial exchange.",
+      "Mood_and_Emotion": "Foolish, self-destructive, ignorant.",
+      "Lighting_and_Color": "A dim, sordid light, as if in a back alley. The gold has a last gleam of value before it is exchanged for the dark, worthless liquid of oblivion.",
+      "Technical_Cues": {
+        "Camera": "A close-up on the exchange of goods, focusing on the foolishness of the transaction.",
+        "Resolution": "8K, with a gritty, realistic feel.",
+        "Lighting": "Low-key, noir lighting.",
+        "Art_Genre": "Social realism."
+      },
+      "Cultural_Anchors": [
+        "Giving money to buy unconsciousness",
+        "An act of ignorance ('கையறியாமை')",
+        "The folly of addiction."
+      ]
+    },
+    "Negative_Prompt": "a person receiving wisdom for money, text artifacts, cartoonish.",
+    "Hyperparameters": {
+      "variant": "dev",
+      "steps": 40,
+      "cfg_scale": 8,
+      "seed": "Explore variations for the liquid of oblivion."
+    }
+  }
+}

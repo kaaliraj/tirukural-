@@ -1,0 +1,33 @@
+{
+  "Kural_Info": {
+    "Number": 1140,
+    "Chapter": "நாணுத்துறவுரைத்தல் (The Abandonment of Reserve)",
+    "Tamil_Text": "யாம்கண்ணின் காண நகுப அறிவில்லார்யாம்பட்ட தாம்படா ஆறு.",
+    "English_Meaning": "Before my eyes the foolish make a mock of me, Because they ne'er endured the pangs I now must drie."
+  },
+  "Flux_Optimized_Prompt": {
+    "Layered_Composition": {
+      "Foreground": "A woman, tormented by the pangs of love-sickness ('Yaam patta'), stands with a sorrowful expression. Her inner turmoil is visualized as thorny vines wrapped around her heart.",
+      "Midground": "A group of onlookers ('Arivillaar' - the ignorant) are pointing and laughing openly at her suffering ('Nagu_ba'). They are depicted as shallow, flat figures, lacking emotional depth.",
+      "Background": "The world of the laughing onlookers is bright and superficial. The world of the suffering woman is deep, shadowed, and full of emotional texture, highlighting the chasm of experience between them."
+    },
+    "Art_Direction": {
+      "Subject_and_Action": "The ignorant laugh at the suffering of a lover because they themselves have never experienced such profound emotional pain.",
+      "Symbolic_Motifs": "The thorny vines around the heart symbolize the pain of love. The flat, paper-like depiction of the mockers represents their lack of depth and understanding.",
+      "Mood_and_Emotion": "Painful, isolating, misunderstood, contrasting deep sorrow with shallow mockery.",
+      "Lighting_and_Color": "The suffering woman is lit with dramatic, sorrowful lighting (chiaroscuro). The mockers are in a flat, overly bright, almost cartoonish light that makes their laughter seem cruel and empty."
+    },
+    "Technical_Cues": {
+      "Camera": "A shot from the perspective of the suffering woman, looking out at her mockers, making their laughter feel personal and invasive.",
+      "Resolution": "8K, surreal realism, with a strong focus on emotional expression.",
+      "Lighting": "Contrasting lighting to separate the emotional worlds of the subject and the onlookers.",
+      "Art_Genre": "Psychological realism with symbolic elements."
+    },
+    "Cultural_Anchors": [
+      "The suffering of love (காம நோய்)",
+      "The ignorance of those who have not experienced love",
+      "The pain of being mocked for one's feelings"
+    ]
+  },
+  "Negative_Prompt": "sympathetic onlookers, happy protagonist, modern setting, text artifacts, blurry."
+}

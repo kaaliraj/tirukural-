@@ -1,0 +1,39 @@
+{
+  "Kural_Info": {
+    "Number": 754,
+    "Chapter": "பொருள்செயல்வகை (Way of Accumulating Wealth)",
+    "Tamil_Text": "அறன்ஈனும் இன்பமும் ஈனும் திறனறிந்து தீதின்றி வந்த பொருள்.",
+    "English_Meaning": "The wealth acquired with a knowledge of the proper means and without foul practices will yield virtue and happiness."
+  },
+  "Flux_Optimized_Prompt": {
+    "Layered_Composition": {
+      "Foreground": "A clear, pure stream of golden coins, representing wealth acquired by fair and skillful means ('திறனறிந்து தீதின்றி வந்த பொருள்'), flows through a landscape.",
+      "Midground": "As the stream flows, it nurtures the land. On one bank, it causes a magnificent temple of Virtue ('அறன்') to grow. On the other bank, it nourishes a beautiful garden of Happiness ('இன்பம்').",
+      "Background": "The source of the stream is a wise and skillful person, and the entire landscape is one of balance and harmony, showing that this type of wealth creates both virtue and joy."
+    },
+    "Art_Direction": {
+      "Subject_and_Action": "Wealth that is acquired skillfully and without evil will itself give birth to both Virtue and Happiness.",
+      "Symbolic_Motifs": "The pure stream of gold is the fairly-earned wealth. The temple of Virtue and the garden of Happiness are the two fruits that grow from it.",
+      "Mood_and_Emotion": "Virtuous, happy, productive, pure, harmonious.",
+      "Lighting_and_Color": "A bright, clean, golden light emanates from the stream. The colors are pure, vibrant, and positive.",
+      "Technical_Cues": {
+        "Camera": "A wide, flowing landscape shot that follows the stream and shows the two magnificent things it creates.",
+        "Resolution": "8K, with a beautiful, idealized, and painterly quality.",
+        "Lighting": "Warm, benevolent, golden-hour lighting.",
+        "Art_Genre": "Allegorical landscape painting."
+      }
+    },
+    "Cultural_Anchors": [
+      "Wealth acquired without evil ('தீதின்றி வந்த பொருள்')",
+      "It gives Virtue ('அறன் ஈனும்')",
+      "It gives Happiness ('இன்பமும் ஈனும்')"
+    ]
+  },
+  "Negative_Prompt": "a muddy stream, a ruined temple, a dead garden, text artifacts.",
+  "Hyperparameters": {
+    "variant": "pro",
+    "steps": 50,
+    "cfg_scale": 8,
+    "seed": "Explore variations for the temple and the garden."
+  }
+}

@@ -1,0 +1,39 @@
+{
+  "Kural_Info": {
+    "Number": 773,
+    "Chapter": "படைச்செருக்கு (Military Spirit)",
+    "Tamil_Text": "பேராண்மை என்ப தறுகண்ஒன் றுற்றக்கால் ஊராண்மை மற்றதன் எஃகு.",
+    "English_Meaning": "The learned say that fierceness (incontest with a foe) is indeed great valour; but to become a benefactor in case of accident (to a foe) is the extreme (limit) of that valour."
+  },
+  "Flux_Optimized_Prompt": {
+    "Layered_Composition": {
+      "Foreground": "A fierce warrior, the very picture of valor ('பேராண்மை') and fierceness ('தறுகண்'), has just defeated his enemy in a duel.",
+      "Midground": "The enemy has fallen and is now helpless and wounded ('ஒன்றுற்றக்கால்'). Instead of delivering a final, killing blow, the victorious warrior does something unexpected.",
+      "Background": "He sheathes his sword and offers a hand of help to his fallen foe. This act of magnanimity and helpfulness to a defeated enemy ('ஊராண்மை') is shown as the sharpest, most refined point of his valor, the very tip of his sword's blade ('எஃகு')."
+    },
+    "Art_Direction": {
+      "Subject_and_Action": "Fierceness in battle is valor, but helpfulness to a fallen foe is the sharpest, most refined edge of that valor.",
+      "Symbolic_Motifs": "The shift from a fighting stance to an offering of help is the key narrative action. The idea of this final act of grace being the 'sharpened edge' of valor is visualized by having the tip of his sword glow brilliantly at the moment of mercy.",
+      "Mood_and_Emotion": "Magnanimous, honorable, chivalrous, the pinnacle of valor.",
+      "Lighting_and_Color": "The battle is fierce and dramatic. The moment of mercy is lit with a noble, golden light, with a particular focus on the glowing tip of the sheathed sword.",
+      "Technical_Cues": {
+        "Camera": "A close-up on the two warriors, capturing the victor's decision to show mercy.",
+        "Resolution": "8K, with a focus on the characters' expressions.",
+        "Lighting": "A shift from harsh battle light to a warm, noble light.",
+        "Art_Genre": "Heroic realism, classical painting."
+      },
+      "Cultural_Anchors": [
+        "Valor as Fierceness ('பேராண்மை தறுகண்')",
+        "Helpfulness to a fallen foe ('ஊராண்மை')",
+        "Mercy as the sharpest edge of Valor ('எஃகு')."
+      ]
+    },
+    "Negative_Prompt": "warrior killing the fallen enemy, text artifacts, cartoonish.",
+    "Hyperparameters": {
+      "variant": "pro",
+      "steps": 50,
+      "cfg_scale": 9,
+      "seed": "Explore variations for the glowing sword tip."
+    }
+  }
+}

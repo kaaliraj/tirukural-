@@ -1,0 +1,39 @@
+{
+  "Kural_Info": {
+    "Number": 75,
+    "Chapter": "அன்புடைமை (The Possession of Love)",
+    "Tamil_Text": "அன்புற்று அமர்ந்த வழக்கென்ப வையகத்துஇன்புற்றார் எய்தும் சிறப்பு.",
+    "English_Meaning": "They say that the felicity which the blessed enjoy in heaven is the result of their domestic life in this world, which was filled with love."
+  },
+  "Flux_Optimized_Prompt": {
+    "Layered_Composition": {
+      "Foreground": "On Earth ('வையகத்து'), a loving family is shown in a state of harmonious conduct ('அன்புற்று அமர்ந்த வழக்கு'). Their life is simple but filled with genuine joy.",
+      "Midground": "From their earthly home, a beautiful, ethereal pathway made of golden light and flowers ascends towards the heavens.",
+      "Background": "In the celestial realm, the same family is seen again, now as blissful, radiant beings ('இன்புற்றார்'). They are not just entering heaven, but are shown enjoying its highest glory and special honor ('சிறப்பு'), which is a direct continuation of the loving life they led on earth."
+    },
+    "Art_Direction": {
+      "Subject_and_Action": "The highest bliss and distinction in the next world is a direct continuation and result of a life lived with love and harmony in this one.",
+      "Symbolic_Motifs": "The path between earth and heaven is seamless, showing that the celestial state is an evolution, not a separate reward. The joy and harmony on earth are visually similar to the bliss in heaven, just in a more ethereal form.",
+      "Mood_and_Emotion": "Continuity, blissful, earned grace, harmonious.",
+      "Lighting_and_Color": "The earthly scene is bathed in a warm, golden, late-afternoon light. The heavenly scene is filled with a more intense, pure, divine golden light. The connecting path shows a gradual transition between these two states.",
+      "Technical_Cues": {
+        "Camera": "Epic vertical panoramic shot that connects the earthly home at the bottom to the celestial realm at the top in a single, continuous view.",
+        "Resolution": "8K, ultra-realistic earthly scene and ethereal, painterly celestial scene.",
+        "Lighting": "Ascending light that grows in intensity and purity from bottom to top.",
+        "Art_Genre": "Mythological painting, spiritual realism."
+      },
+      "Cultural_Anchors": [
+        "A life of loving conduct (அன்புற்று அமர்ந்த வழக்கு)",
+        "The blessed in the next world (இன்புற்றார்)",
+        "The special excellence/glory (சிறப்பு)"
+      ]
+    },
+    "Negative_Prompt": "unhappy family, dark heaven, broken path, text artifacts, angels, non-Indic celestial beings.",
+    "Hyperparameters": {
+      "variant": "pro",
+      "steps": 55,
+      "cfg_scale": 8,
+      "seed": "Explore the design of the celestial realm and its inhabitants."
+    }
+  }
+}

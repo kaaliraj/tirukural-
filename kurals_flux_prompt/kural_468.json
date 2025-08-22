@@ -1,0 +1,39 @@
+{
+  "Kural_Info": {
+    "Number": 468,
+    "Chapter": "தெரிந்துசெயல்வகை (Acting after due Consideration)",
+    "Tamil_Text": "ஆற்றின் வருந்தா வருத்தம் பலர்நின்றுபோற்றினும் பொத்துப் படும்.",
+    "English_Meaning": "The work, which is not done by suitable methods, will fail though many stand to uphold it."
+  },
+  "Flux_Optimized_Prompt": {
+    "Layered_Composition": {
+      "Foreground": "A group of people are trying to build a great structure, but they are using a fundamentally flawed method ('ஆற்றின் வருந்தா வருத்தம்')—perhaps trying to build the roof before the foundation.",
+      "Midground": "A huge crowd of supporters ('பலர் நின்று போற்றினும்') is cheering them on, offering encouragement and trying to physically hold up the collapsing structure.",
+      "Background": "Despite all the support and effort, the structure is inevitably and catastrophically failing and turning to dust ('பொத்துப் படும்'). The flawed method guarantees failure, regardless of the amount of support."
+    },
+    "Art_Direction": {
+      "Subject_and_Action": "An undertaking based on an incorrect method will fail, even if it has the support of a multitude.",
+      "Symbolic_Motifs": "The flaw in the method should be visually obvious to the viewer (e.g., building from the top down). The futility of the supporters' efforts—trying to hold up a collapsing building with their bare hands—emphasizes that support cannot fix a flawed plan.",
+      "Mood_and_Emotion": "Inevitable failure, futile, flawed, cautionary.",
+      "Lighting_and_Color": "A chaotic, dusty light fills the scene. The palette is one of confusion and collapse, with browns and greys of dust and rubble.",
+      "Technical_Cues": {
+        "Camera": "A wide, chaotic shot that captures the flawed construction, the useless support of the crowd, and the inevitable collapse in a single frame.",
+        "Resolution": "8K, hyper-realistic, with advanced physics simulation for the collapsing structure.",
+        "Lighting": "Chaotic, dusty, and dramatic lighting to convey the sense of failure.",
+        "Art_Genre": "Historical disaster painting."
+      },
+      "Cultural_Anchors": [
+        "Work not done by the right method (ஆற்றின் வருந்தா வருத்தம்)",
+        "Though many support it (பலர் நின்று போற்றினும்)",
+        "It will fail/turn to dust (பொத்துப் படும்)"
+      ]
+    },
+    "Negative_Prompt": "structure succeeding, few supporters, text artifacts, happy builders.",
+    "Hyperparameters": {
+      "variant": "dev",
+      "steps": 45,
+      "cfg_scale": 9,
+      "seed": "Explore the architecture of the flawed, collapsing structure."
+    }
+  }
+}

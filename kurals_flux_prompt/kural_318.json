@@ -1,0 +1,38 @@
+{
+  "Kural_Info": {
+    "Number": 318,
+    "Chapter": "இன்னாசெய்யாமை (Not doing Evil)",
+    "Tamil_Text": "தன்னுயிர்க்கு இன்னாமை தானறிவான் என்கொலோமன்னுயிர்க்கு இன்னா செயல்.",
+    "English_Meaning": "Why does a man inflict upon other creatures those sufferings, which he has found by experience are sufferings to himself?."
+  },
+  "Flux_Optimized_Prompt": {
+    "Layered_Composition": {
+      "Foreground": "A person is shown inflicting a specific harm upon another living being ('மன் உயிர்க்கு இன்னா செயல்').",
+      "Midground": "In a ghostly, superimposed vision, the person is shown simultaneously experiencing the exact same harm themselves. They are both the perpetrator and the victim of the same act.",
+      "Background": "A wise, spectral observer (Thiruvalluvar) points to this paradox, and a question materializes in the air: 'He knows for himself how painful this is ('தன்னுயிர்க்கு இன்னாமை தான் அறிவான்'), so why on earth does he do it to another?' ('என் கொலோ?')."
+    },
+    "Art_Direction": {
+      "Subject_and_Action": "A visual representation of the profound irrationality of cruelty: why does a person, who knows intimately what pain feels like, inflict that same pain on others?",
+      "Symbolic_Motifs": "The simultaneous experience of inflicting and receiving the same pain is the key visual. This highlights the failure of empathy that lies at the heart of cruelty. The visualized question from the sage frames the scene as a deep, philosophical puzzle.",
+      "Mood_and_Emotion": "Paradoxical, irrational, hypocritical, questioning.",
+      "Lighting_and_Color": "A stark, dramatic light that clearly illuminates both the act and the simultaneous, self-inflicted experience of pain. The mood is one of tragic, incomprehensible folly.",
+      "Technical_Cues": {
+        "Camera": "A shot that uses a ghostly overlay or a split-screen effect to show the perpetrator and victim as one and the same in their experience of pain.",
+        "Resolution": "8K, ultra-realistic, focusing on the shared expression of pain on the faces of the doer and the receiver.",
+        "Lighting": "Harsh, revealing light.",
+        "Art_Genre": "Psychological realism, with a surreal element."
+      },
+      "Cultural_Anchors": [
+        "He knows what is painful to his own life (தன்னுயிர்க்கு இன்னாமை தான் அறிவான்)",
+        "Why then does he do that painful thing to other life? (என் கொலோ மன் உயிர்க்கு இன்னா செயல்?)"
+      ]
+    },
+    "Negative_Prompt": "happy perpetrator, person enjoying the pain, text artifacts.",
+    "Hyperparameters": {
+      "variant": "pro",
+      "steps": 50,
+      "cfg_scale": 9,
+      "seed": "Explore the visual of the 'simultaneous experience of pain'."
+    }
+  }
+}

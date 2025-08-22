@@ -1,0 +1,39 @@
+{
+  "Kural_Info": {
+    "Number": 900,
+    "Chapter": "பெரியாரைப் பிழையாமை (Not Offending the Great)",
+    "Tamil_Text": "இறந்தமைந்த சார்புடையர் ஆயினும் உய்யார் சிறந்தமைந்த சீரார் செறின்.",
+    "English_Meaning": "Though in possession of numerous auxiliaries, they will perish who are-exposed to the wrath of the noble whose penance is boundless."
+  },
+  "Flux_Optimized_Prompt": {
+    "Layered_Composition": {
+      "Foreground": "A powerful king is surrounded by a vast and mighty army, with innumerable allies and supports ('இறந்தமைந்த சார்புடையர்'). They seem completely invincible.",
+      "Midground": "However, they have earned the wrath ('செறின்') of a single, supremely great and virtuous sage ('சிறந்தமைந்த சீரார்'). The sage is seated in meditation, seemingly doing nothing.",
+      "Background": "From the meditating sage, a silent, invisible wave of spiritual power is unleashed. This wave passes through the king and his massive army, causing them all to turn to dust and blow away in the wind. Their immense support was useless; they cannot survive ('உய்யார்')."
+    },
+    "Art_Direction": {
+      "Subject_and_Action": "Even if one has the support of a boundless army, they will not survive the wrath of one who is supremely great in virtue.",
+      "Symbolic_Motifs": "The contrast between the massive, physical power of the army and the silent, spiritual power of the lone sage is the key. The entire army turning to dust from a silent, invisible force shows the supremacy of spiritual power.",
+      "Mood_and_Emotion": "Supreme power, inevitable doom, spiritual supremacy.",
+      "Lighting_and_Color": "The army is depicted with the harsh glint of steel and armor. The sage has a calm, deep, and powerful aura. The wave of destruction is invisible, but the result—the army turning to dust—is visually dramatic.",
+      "Technical_Cues": {
+        "Camera": "An epic, wide shot that shows the lone sage on one side and the vast army on the other, with the army disintegrating.",
+        "Resolution": "8K, with high-quality, cinematic particle effects for the disintegrating army.",
+        "Lighting": "The sage's aura should subtly grow in intensity as the army is destroyed.",
+        "Art_Genre": "Epic mythological fantasy."
+      },
+      "Cultural_Anchors": [
+        "Even with boundless support ('இறந்தமைந்த சார்புடையர்')",
+        "If the supremely great are wroth ('சிறந்தமைந்த சீரார் செறின்')",
+        "They will not survive ('உய்யார்')"
+      ]
+    },
+    "Negative_Prompt": "the army defeating the sage, text artifacts, cartoonish.",
+    "Hyperparameters": {
+      "variant": "pro",
+      "steps": 50,
+      "cfg_scale": 9,
+      "seed": "Explore variations for the army disintegrating effect."
+    }
+  }
+}

@@ -1,0 +1,39 @@
+{
+  "Kural_Info": {
+    "Number": 451,
+    "Chapter": "சிற்றினஞ்சேராமை (Avoiding mean Associations)",
+    "Tamil_Text": "சிற்றினம் அஞ்சும் பெருமை சிறுமைதான் சுற்றமாச் சூழ்ந்து விடும்.",
+    "English_Meaning": "The great of soul will mean association fear; The mean of soul regard mean men as kinsmen dear."
+  },
+  "Flux_Optimized_Prompt": {
+    "Layered_Composition": {
+      "Foreground": "A split-screen composition. On the left, a person of greatness ('பெருமை') is shown recoiling and creating a barrier of light to keep away a group of shadowy, mean-spirited figures ('சிற்றினம்').",
+      "Midground": "On the right, a person of meanness ('சிறுமை') is shown joyfully embracing the same shadowy figures, welcoming them as their close relatives and friends ('சுற்றமாச் சூழ்ந்து').",
+      "Background": "The background for the great person is a bright, noble, and open space. The background for the mean person is a dark, cramped, and conspiratorial alleyway."
+    },
+    "Art_Direction": {
+      "Subject_and_Action": "A stark contrast between the great, who fear and avoid mean company, and the mean, who actively seek out and embrace it.",
+      "Symbolic_Motifs": "The barrier of light represents the great person's fear and rejection of meanness. The embrace on the other side symbolizes the mean person's affinity for their own kind. The shadowy figures represent the mean-spirited group.",
+      "Mood_and_Emotion": "Contrasting, noble vs. base, wise vs. foolish, cautionary.",
+      "Lighting_and_Color": "The left side is bright, with pure whites and golds. The right side is dark and shadowy, with murky greens and greys."
+    },
+    "Technical_Cues": {
+      "Camera": "A balanced, symmetrical shot that makes the comparison between the two behaviors direct and unavoidable.",
+      "Resolution": "8K, with clear, expressive postures and ethereal effects for the light and shadows.",
+      "Lighting": "High-contrast, split lighting to reinforce the moral dichotomy.",
+      "Art_Genre": "Symbolic realism, allegorical illustration."
+    },
+    "Cultural_Anchors": [
+      "Greatness fears meanness ('பெருமை சிற்றினம் அஞ்சும்')",
+      "Meanness embraces its own kind ('சிறுமை சுற்றமாச் சூழ்ந்து விடும்')",
+      "The importance of choosing one's company."
+    ]
+  },
+  "Negative_Prompt": "great person embracing shadows, mean person alone, text artifacts, blurry, neutral background.",
+  "Hyperparameters": {
+    "variant": "dev",
+    "steps": 40,
+    "cfg_scale": 8,
+    "seed": "Explore variations for the appearance of the shadowy figures."
+  }
+}

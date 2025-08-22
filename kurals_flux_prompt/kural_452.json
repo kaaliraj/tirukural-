@@ -1,0 +1,39 @@
+{
+  "Kural_Info": {
+    "Number": 452,
+    "Chapter": "சிற்றினஞ்சேராமை (Avoiding mean Associations)",
+    "Tamil_Text": "நிலத்தியல்பால் நீர்திரிந் தற்றாகும் மாந்தர்க்கு இனத்தியல்ப தாகும் அறிவு.",
+    "English_Meaning": "As water changes (its nature), from the nature of the soil (in which it flows), so will the character of men resemble that of their associates."
+  },
+  "Flux_Optimized_Prompt": {
+    "Layered_Composition": {
+      "Foreground": "A clear, pure stream of water is shown flowing. On the left, it flows through a lush, green meadow, and the water remains crystal clear.",
+      "Midground": "On the right, the same stream flows through a toxic, muddy swamp ('நிலத்தியல்பால்'). The water instantly becomes murky, brown, and polluted ('நீர்திரிந்து').",
+      "Background": "Subtly paralleling the stream, a human mind is represented. When associated with wise, clear figures ('நல்லினம்'), it remains bright. When associated with corrupt, dark figures ('தீயினம்'), it becomes clouded and dark ('அறிவு திரிந்து')."
+    },
+    "Art_Direction": {
+      "Subject_and_Action": "A direct analogy: just as the nature of the soil changes the water that flows through it, the nature of one's companions changes one's own mind and wisdom.",
+      "Symbolic_Motifs": "The changing quality of the water is the central metaphor. The parallel between the pure/polluted water and the clear/clouded mind makes the point explicit.",
+      "Mood_and_Emotion": "Illustrative, cautionary, environmental, transformative.",
+      "Lighting_and_Color": "The left side is bright, with vibrant greens and clear blues. The right side is dark and sickly, with muddy browns, stagnant greens, and grey tones."
+    },
+    "Technical_Cues": {
+      "Camera": "A top-down or high-angle shot that clearly shows the path of the stream and its transformation.",
+      "Resolution": "8K, with hyper-realistic water effects and textures.",
+      "Lighting": "Split lighting, with clean, natural light on the left and polluted, dim light on the right.",
+      "Art_Genre": "Symbolic realism, with a strong visual metaphor."
+    },
+    "Cultural_Anchors": [
+      "Water changed by soil ('நிலத்தியல்பால் நீர்திரிந்து')",
+      "Knowledge changed by company ('இனத்தியல்பதாகும் அறிவு')",
+      "The power of association."
+    ]
+  },
+  "Negative_Prompt": "water staying clean in the mud, mind staying clear with bad company, text artifacts, cartoonish.",
+  "Hyperparameters": {
+    "variant": "pro",
+    "steps": 50,
+    "cfg_scale": 8,
+    "seed": "Explore variations for the texture of the polluted water."
+  }
+}

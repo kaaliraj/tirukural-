@@ -1,0 +1,39 @@
+{
+  "Kural_Info": {
+    "Number": 311,
+    "Chapter": "இன்னாசெய்யாமை (Not doing Evil)",
+    "Tamil_Text": "சிறப்பீனும் செல்வம் பெறினும் பிறர்க்குஇன்னாசெய்யாமை மாசற்றார் கோள்.",
+    "English_Meaning": "It is the determination of the spotless not to cause sorrow to others, although they could (by so causing) obtain the wealth which confers greatness."
+  },
+  "Flux_Optimized_Prompt": {
+    "Layered_Composition": {
+      "Foreground": "A spotless, virtuous person ('மாசற்றார்') stands at a moral crossroads.",
+      "Midground": "One path leads to a magnificent treasure of 'glory-giving wealth' ('சிறப்பு ஈனும் செல்வம்'). However, this path is dark and requires them to inflict pain on another person ('பிறர்க்கு இன்னா').",
+      "Background": "The virtuous person, following their core principle ('கோள்'), resolutely turns their back on the path of harmful wealth. They choose to remain in a simpler state rather than cause sorrow. Their refusal is an act of supreme integrity."
+    },
+    "Art_Direction": {
+      "Subject_and_Action": "The core principle of the spotless is to never do evil to others, even if that act would bring them the greatest wealth and glory.",
+      "Symbolic_Motifs": "The choice between the dark path of harmful wealth and the simple path of integrity is the central visual. The 'spotless' nature of the person can be visualized as a pure, unwavering aura that is incompatible with the darkness of the harmful path.",
+      "Mood_and_Emotion": "Principled, incorruptible, resolute, pure.",
+      "Lighting_and_Color": "The virtuous person is bathed in a clear, pure, white light. The path of harmful wealth is dark and emanates a sickly, tempting, but corrupt glow. The choice is between light and shadow.",
+      "Technical_Cues": {
+        "Camera": "A wide shot that clearly frames the moral choice, emphasizing the person's firm rejection of the corrupt path.",
+        "Resolution": "8K, ultra-realistic, with a focus on the determined expression of the virtuous person.",
+        "Lighting": "High-contrast, symbolic lighting.",
+        "Art_Genre": "Allegorical painting, symbolic realism."
+      },
+      "Cultural_Anchors": [
+        "The principle of the spotless (மாசற்றார் கோள்)",
+        "Is not to do evil to others (பிறர்க்கு இன்னா செய்யாமை)",
+        "Even to obtain glory-giving wealth (சிறப்பீனும் செல்வம் பெறினும்)"
+      ]
+    },
+    "Negative_Prompt": "person choosing the dark path, happy sinner, text artifacts.",
+    "Hyperparameters": {
+      "variant": "pro",
+      "steps": 50,
+      "cfg_scale": 8,
+      "seed": "Explore the visual of the 'path of harmful wealth'."
+    }
+  }
+}

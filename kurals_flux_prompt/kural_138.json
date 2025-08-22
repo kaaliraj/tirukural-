@@ -1,0 +1,38 @@
+{
+  "Kural_Info": {
+    "Number": 138,
+    "Chapter": "ஒழுக்கமுடைமை (The Possession of Decorum)",
+    "Tamil_Text": "நன்றிக்கு வித்தாகும் நல்லொழுக்கம் தீயொழுக்கம்என்றும் இடும்பை தரும்.",
+    "English_Meaning": "Propriety of conduct is the seed of virtue; impropriety will ever cause sorrow."
+  },
+  "Flux_Optimized_Prompt": {
+    "Layered_Composition": {
+      "Foreground": "A split composition showing two hands planting seeds.",
+      "Midground": "On the left, a hand is planting a glowing, golden seed, representing 'Good Conduct' ('நல்லொழுக்கம்'). From this seed, a magnificent, fruit-bearing tree representing all 'Blessings' or 'Virtues' ('நன்றி') instantly grows.",
+      "Background": "On the right, another hand is planting a dark, thorny seed, representing 'Bad Conduct' ('தீயொழுக்கம்'). From this seed, a twisted, poisonous, thorny vine representing 'Sorrow' ('இடும்பை') instantly grows and ensnares the hand that planted it."
+    },
+    "Art_Direction": {
+      "Subject_and_Action": "A direct comparison of the fruits of good and bad conduct: good conduct is the seed that grows into all blessings, while bad conduct is the seed that grows into eternal sorrow.",
+      "Symbolic_Motifs": "The seed metaphor is central. The instant and direct growth of the respective plants clearly shows the inevitable consequences of each type of conduct. Good conduct creates a nourishing tree; bad conduct creates a self-harming vine.",
+      "Mood_and_Emotion": "Cause and effect, creation vs. destruction, clear consequences.",
+      "Lighting_and_Color": "The left side is bathed in the warm, golden light of the blessed tree. The right side is cast in the dark, sickly shadows of the sorrowful vine. The colors are vibrant and life-giving versus dark and poisonous.",
+      "Technical_Cues": {
+        "Camera": "A clear, balanced diptych shot focusing on the two hands and the immediate, contrasting results of their planting.",
+        "Resolution": "8K, ultra-realistic, with magical growth effects for both plants.",
+        "Lighting": "Dualistic lighting to represent blessing versus sorrow.",
+        "Art_Genre": "Symbolic realism, with fantasy elements."
+      },
+      "Cultural_Anchors": [
+        "Good conduct is the seed of blessing (நன்றிக்கு வித்தாகும் நல்லொழுக்கம்)",
+        "Bad conduct always brings sorrow (தீயொழுக்கம் என்றும் இடும்பை தரும்)"
+      ]
+    },
+    "Negative_Prompt": "good seed growing a bad tree, bad seed growing a good tree, text artifacts.",
+    "Hyperparameters": {
+      "variant": "pro",
+      "steps": 50,
+      "cfg_scale": 8,
+      "seed": "Explore the design of the 'tree of blessings' and the 'vine of sorrow'."
+    }
+  }
+}

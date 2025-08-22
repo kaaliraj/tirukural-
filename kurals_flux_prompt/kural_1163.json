@@ -1,0 +1,34 @@
+{
+  "Kural_Info": {
+    "Number": 1163,
+    "Chapter": "படர்மெலிந்திரங்கல் (Complainings)",
+    "Tamil_Text": "காமமும் நாணும் உயிர்காவாத் தூங்கும்என்நோனா உடம்பின் அகத்து.",
+    "English_Meaning": "My soul, like porter's pole, within my wearied frame, Sustains a two-fold burthen poised, of love and shame."
+  },
+  "Flux_Optimized_Prompt": {
+    "Layered_Composition": {
+      "Foreground": "A woman stands, her body frail and weary ('Nonaa Udambu'). Her soul ('Uyir') is visualized as the central balancing point of a traditional Tamil porter's pole ('Kaavaath Thadi').",
+      "Midground": "On one end of the pole is a heavy, fiery pot representing 'Kaamam' (Love/Lust). On the other end is an equally heavy, icy pot representing 'Naan' (Shame/Modesty).",
+      "Background": "Her soul is shown struggling to balance these two immense, opposing weights, which are threatening to break her weak frame."
+    },
+    "Art_Direction": {
+      "Subject_and_Action": "A powerful metaphor of the soul being stretched to its limit, trying to balance the conflicting, heavy burdens of love and shame within a body weakened by sorrow.",
+      "Symbolic_Motifs": "The soul as a porter's pole is the central, vivid image. The fiery pot of love and the icy pot of shame represent the conflicting forces.",
+      "Mood_and_Emotion": "Strained, overburdened, agonizing, a sense of being torn apart.",
+      "Lighting_and_Color": "Dual, conflicting light sources. A warm, red, fiery glow emanates from the pot of love, while a cold, blue, frosty light comes from the pot of shame. The woman is caught in the middle of these clashing lights."
+    },
+    "Technical_Cues": {
+      "Camera": "Full body shot to clearly depict the porter's pole metaphor and the strain on her entire frame.",
+      "Resolution": "8K, ultra-realistic, with strong symbolic effects for the fire and ice.",
+      "Lighting": "Dramatic, colored lighting from the two symbolic pots, creating a high-contrast, stressful atmosphere.",
+      "Art_Genre": "Symbolic realism with strong allegorical elements."
+    },
+    "Cultural_Anchors": [
+      "காவாத்தடி (Porter's pole) as a metaphor for balance and burden",
+      "காமம் (Love/Lust)",
+      "நாண் (Shame/Modesty)",
+      "The internal battle of conflicting emotions"
+    ]
+  },
+  "Negative_Prompt": "a strong, happy woman, light burdens, modern setting, text artifacts, cartoonish."
+}

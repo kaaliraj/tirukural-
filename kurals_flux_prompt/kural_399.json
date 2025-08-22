@@ -1,0 +1,39 @@
+{
+  "Kural_Info": {
+    "Number": 399,
+    "Chapter": "கல்வி (Learning)",
+    "Tamil_Text": "தாமின் புறுவது உலகின் புறக்கண்டு காமுறுவர் கற்றறிந் தார்.",
+    "English_Meaning": "Their joy is joy of all the world, they see; thus more The learners learn to love their cherished lore."
+  },
+  "Flux_Optimized_Prompt": {
+    "Layered_Composition": {
+      "Foreground": "A learned scholar ('கற்றறிந்தார்') is shown reading a book, a look of deep, personal joy ('தாம் இன்புறுவது') on their face.",
+      "Midground": "The joy from the scholar radiates outwards as waves of warm, golden light. These waves touch the people of the world around them, and their faces light up with the same joy ('உலகின்புறக்கண்டு').",
+      "Background": "Seeing the world share in their joy, the scholar's own desire to learn more intensifies. This is shown by the book in their hands glowing even more brightly, and more books appearing around them, symbolizing their renewed love for learning ('காமுறுவர்')."
+    },
+    "Art_Direction": {
+      "Subject_and_Action": "The learned love learning even more when they see that the joy it brings them also brings joy to the rest of the world.",
+      "Symbolic_Motifs": "The radiating waves of light are the shared joy. The book glowing brighter represents the increased desire for learning.",
+      "Mood_and_Emotion": "Joyful, communal, inspiring, selfless, passionate (for learning).",
+      "Lighting_and_Color": "A warm, golden, and inviting light dominates the scene. The palette is bright and filled with happy, warm tones.",
+      "Technical_Cues": {
+        "Camera": "A medium shot that captures the scholar and the immediate effect of their joy on the people nearby.",
+        "Resolution": "8K, ultra-realistic, focusing on the expressive, joyful faces.",
+        "Lighting": "Soft, radiant lighting emanating from the scholar and their book.",
+        "Art_Genre": "Idealized realism, magical realism."
+      }
+    },
+    "Cultural_Anchors": [
+      "Shared joy of learning",
+      "Self-joy ('தாம் இன்புறுவது') and World's joy ('உலகின்புறக்கண்டு')",
+      "Increased love for learning ('காமுறுவர்')"
+    ]
+  },
+  "Negative_Prompt": "sad scholar, unhappy people, dark lighting, text artifacts, solitary scene, blurry.",
+  "Hyperparameters": {
+    "variant": "dev",
+    "steps": 40,
+    "cfg_scale": 7,
+    "seed": "Explore variations for the light waves of joy."
+  }
+}

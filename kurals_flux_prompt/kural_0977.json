@@ -1,0 +1,33 @@
+{
+  "Kural_Info": {
+    "Number": 977,
+    "Chapter": "பெருமை (Greatness)",
+    "Tamil_Text": "இறப்பே புரிந்த தொழிற்றாம் சிறப்புந்தான்சீரல் லவர்கண் படின்.",
+    "English_Meaning": "Whene'er distinction lights on some unworthy head, Then deeds of haughty insolence are bred."
+  },
+  "Flux_Optimized_Prompt": {
+    "Layered_Composition": {
+      "Foreground": "An unworthy person ('Seer Allavar') is shown seated on a throne or in a position of high honor. Instead of dignity, they display arrogance and insolence, perhaps sneering or making a dismissive gesture.",
+      "Midground": "The symbols of their high status—a crown, a scepter, a fine robe—appear ill-fitting and almost mock them. Their actions are visualized as discordant, chaotic energy that disrupts the harmony around them.",
+      "Background": "A grand hall or court that should be a place of order and respect is shown in disarray, with onlookers appearing uncomfortable and shocked by the unworthy person's behavior."
+    },
+    "Art_Direction": {
+      "Subject_and_Action": "Illustrating that when greatness or high status ('Sirappu') is attained by an unworthy person, it only results in arrogant and destructive behavior ('Irappeh Purintha Thozhil').",
+      "Symbolic_Motifs": "The ill-fitting symbols of power. The chaotic energy representing their insolent actions. The shocked expressions of the onlookers.",
+      "Mood_and_Emotion": "Chaotic, arrogant, disgraceful, a sense of dissonance and impropriety.",
+      "Lighting_and_Color": "Harsh, unflattering light on the unworthy person, highlighting their sneer. The colors are garish and clashing around them, while the rest of the hall is in more dignified, muted tones."
+    },
+    "Technical_Cues": {
+      "Camera": "Medium shot, centered on the unworthy person to capture their arrogant expression and disruptive actions.",
+      "Resolution": "8K, ultra-realistic, with a focus on conveying emotion through facial expressions and body language.",
+      "Lighting": "High-contrast, theatrical lighting to create a dramatic and unsettling scene.",
+      "Art_Genre": "Historical drama realism, with a touch of caricature to emphasize the arrogance."
+    },
+    "Cultural_Anchors": [
+      "சீரல்லவர் (The unworthy/ignoble)",
+      "சிறப்பு (Distinction/Greatness)",
+      "The corrupting influence of unearned power"
+    ]
+  },
+  "Negative_Prompt": "humble or dignified main character, orderly background, happy onlookers, soft lighting, modern setting, text artifacts."
+}

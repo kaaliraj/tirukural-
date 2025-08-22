@@ -1,0 +1,38 @@
+{
+  "Kural_Info": {
+    "Number": 258,
+    "Chapter": "புலான்மறுத்தல் (Abstinence from Flesh)",
+    "Tamil_Text": "செயிரின் தலைப்பிரிந்த காட்சியார் உண்ணார்உயிரின் தலைப்பிரிந்த ஊன்.",
+    "English_Meaning": "The wise, who have freed themselves from mental delusion, will not eat the flesh which has been severed from an animal."
+  },
+  "Flux_Optimized_Prompt": {
+    "Layered_Composition": {
+      "Foreground": "A wise person is shown, their mind a perfectly clear, flawless crystal, representing their 'vision freed from delusion' ('செயிரின் தலைப்பிரிந்த காட்சியார்').",
+      "Midground": "They are offered a plate of cooked meat.",
+      "Background": "Because of their clear vision, they do not see the meat as food. They see its true origin: they see the moment the life ('உயிர்') was violently separated from the body ('தலைப்பிரிந்த ஊன்'). A ghostly, tragic vision of the slaughtered animal appears over the plate. Due to this clear perception of the violence inherent in the meat, they refuse to eat it ('உண்ணார்')."
+    },
+    "Art_Direction": {
+      "Subject_and_Action": "Those who possess a clear, undeluded vision will not eat meat, because they can perceive the act of life being severed that is inherent within it.",
+      "Symbolic_Motifs": "The clear crystal mind is the source of the true perception. The ghostly vision of the slaughter is what their wisdom allows them to see. Their refusal is not based on a rule, but on a direct perception of the violence.",
+      "Mood_and_Emotion": "Clarity, compassionate perception, discerning, non-violent.",
+      "Lighting_and_Color": "A pure, clear, white light emanates from the wise person's crystal mind. This light illuminates the ghostly vision of the animal's death, making the inherent violence visible. The cooked meat may look appetizing, but it is overshadowed by this tragic, spiritual reality.",
+      "Technical_Cues": {
+        "Camera": "A shot that focuses on the wise person's face, with a transparent overlay showing their crystal mind and the tragic vision that it perceives over the plate of food.",
+        "Resolution": "8K, ultra-realistic, with ethereal effects for the vision of the animal's death.",
+        "Lighting": "The light of wisdom is what reveals the hidden violence.",
+        "Art_Genre": "Symbolic realism, with mystical elements."
+      },
+      "Cultural_Anchors": [
+        "Those with vision freed from delusion (செயிரின் தலைப்பிரிந்த காட்சியார்)",
+        "Will not eat flesh from which life has been severed (உண்ணார் உயிரின் தலைப்பிரிந்த ஊன்)"
+      ]
+    },
+    "Negative_Prompt": "wise person eating meat, happy animal, text artifacts.",
+    "Hyperparameters": {
+      "variant": "pro",
+      "steps": 50,
+      "cfg_scale": 8,
+      "seed": "Explore the ethereal vision of the animal's spirit."
+    }
+  }
+}

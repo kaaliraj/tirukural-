@@ -1,0 +1,39 @@
+{
+  "Kural_Info": {
+    "Number": 261,
+    "Chapter": "தவம் (Penance)",
+    "Tamil_Text": "உற்றநோய் நோன்றல் உயிர்க்குறுகண் செய்யாமைஅற்றே தவத்திற் குரு.",
+    "English_Meaning": "The nature of religious discipline consists, in the endurance (by the ascetic) of the sufferings which it brings on himself, and in abstaining from giving pain to others."
+  },
+  "Flux_Optimized_Prompt": {
+    "Layered_Composition": {
+      "Foreground": "An ascetic is shown, embodying the two core principles of penance ('தவம்').",
+      "Midground": "One aspect is their endurance of self-inflicted hardship ('உற்ற நோய் நோன்றல்'). This is visualized as them calmly bearing a heavy, painful, but self-chosen burden on their shoulders.",
+      "Background": "The second, equally important aspect is their harmlessness to others ('உயிர்க்கு உறுகண் செய்யாமை'). This is visualized as a beautiful, protective aura that emanates from them, ensuring that no living creature, from a small insect to a large deer, is harmed by their presence. Birds and animals are safe around them."
+    },
+    "Art_Direction": {
+      "Subject_and_Action": "The true nature of penance is defined by a twofold discipline: the patient endurance of one's own chosen hardship, and the absolute non-harming of any other living being.",
+      "Symbolic_Motifs": "The two aspects—the internal burden and the external harmlessness—are shown in perfect balance. The hardship is a chosen discipline, not a miserable suffering. The protective aura is an active quality, not just a passive lack of violence.",
+      "Mood_and_Emotion": "Disciplined, balanced, serene, harmless, enduring.",
+      "Lighting_and_Color": "A clear, focused, and disciplined light. The ascetic's expression is one of serene endurance, not agony. The protective aura is a gentle, soft, white light. The palette is calm and centered.",
+      "Technical_Cues": {
+        "Camera": "A full-figure shot that clearly captures the ascetic, their self-imposed burden, and the protective, harmless aura that surrounds them.",
+        "Resolution": "8K, ultra-realistic, with a focus on the ascetic's serene and powerful expression.",
+        "Lighting": "The light should convey a sense of disciplined power and peace.",
+        "Art_Genre": "Symbolic realism, with mystical elements."
+      },
+      "Cultural_Anchors": [
+        "Enduring one's own hardship (உற்ற நோய் நோன்றல்)",
+        "Not causing harm to other lives (உயிர்க்கு உறுகண் செய்யாமை)",
+        "This is the nature of penance (அற்றே தவத்திற்கு உரு)"
+      ]
+    },
+    "Negative_Prompt": "ascetic harming animals, complaining ascetic, text artifacts.",
+    "Hyperparameters": {
+      "variant": "dev",
+      "steps": 45,
+      "cfg_scale": 8,
+      "seed": "Explore the visual of the 'protective aura of harmlessness'."
+    }
+  }
+}

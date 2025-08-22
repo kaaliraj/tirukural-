@@ -1,0 +1,39 @@
+{
+  "Kural_Info": {
+    "Number": 379,
+    "Chapter": "ஊழ் (Fate)",
+    "Tamil_Text": "நன்றாங்கால் நல்லவாக் காண்பவர் அன்றாங்கால் அல்லற் படுவ தெவன்.",
+    "English_Meaning": "When good things come, men view them all as gain; When evils come, why then should they complain?."
+  },
+  "Flux_Optimized_Prompt": {
+    "Layered_Composition": {
+      "Foreground": "A person stands at the center of a revolving stage. On one side of the stage, a cornucopia pours out endless riches and flowers ('நன்றாங்கால்'), and the person accepts them with a smile.",
+      "Midground": "As the stage revolves, the other side is revealed, featuring a stormy cloud that rains down hardships ('அன்றாங்கால்'). The same person is shown, but now with a look of anguish and complaint ('அல்லற் படுவது').",
+      "Background": "A vast, impartial sky, suggesting that both good and bad are natural parts of the same cycle, governed by an unseen force (Fate)."
+    },
+    "Art_Direction": {
+      "Subject_and_Action": "The folly of accepting good fortune as natural while complaining about bad fortune, when both are simply two sides of the same coin of Fate.",
+      "Symbolic_Motifs": "The revolving stage symbolizes the turning of fate. The cornucopia represents good times, and the storm cloud represents adversity. The key is the inconsistent reaction of the person.",
+      "Mood_and_Emotion": "Ironic, contemplative, questioning, philosophical.",
+      "Lighting_and_Color": "The 'good' side is lit with warm, sunny, golden light. The 'bad' side is lit with cold, harsh, stormy blue and grey light.",
+      "Technical_Cues": {
+        "Camera": "Wide shot, showing the entire revolving stage and the person's changing reactions.",
+        "Resolution": "8K, cinematic, with realistic weather and lighting effects.",
+        "Lighting": "Split lighting to create a stark visual divide between the two sides of fate.",
+        "Art_Genre": "Surrealism, allegorical digital painting."
+      }
+    },
+    "Cultural_Anchors": [
+      "Acceptance of both good ('நன்று') and bad ('அல்லல்') from fate",
+      "The inconsistency of human reactions to destiny",
+      "Concept of equanimity"
+    ]
+  },
+  "Negative_Prompt": "person remaining calm on both sides, uniform lighting, text artifacts, cartoonish.",
+  "Hyperparameters": {
+    "variant": "pro",
+    "steps": 45,
+    "cfg_scale": 7,
+    "seed": "Explore variations for the design of the revolving stage."
+  }
+}

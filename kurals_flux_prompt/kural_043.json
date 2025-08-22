@@ -1,0 +1,39 @@
+{
+  "Kural_Info": {
+    "Number": 43,
+    "Chapter": "இல்வாழ்க்கை (Domestic Life)",
+    "Tamil_Text": "தென்புலத்தார் தெய்வம் விருந்தொக்கல் தானென்றாங்குஐம்புலத்தாறு ஓம்பல் தலை.",
+    "English_Meaning": "The chief (duty of the householder) is to preserve the five-fold rule (of conduct) towards the manes, the Gods, his guests, his relations and himself."
+  },
+  "Flux_Optimized_Prompt": {
+    "Layered_Composition": {
+      "Foreground": "A virtuous householder and his wife stand at the center of their courtyard, representing 'the self' (தான்).",
+      "Midground": "Radiating out from them are five distinct pathways of light. Each path leads to a vignette representing one of the five duties: one path leads to ancestors ('தென்புலத்தார்') being honored; another to a shrine for the Gods ('தெய்வம்'); a third to a guest ('விருந்து') being welcomed; a fourth to relatives ('ஒக்கல்') being cherished.",
+      "Background": "The entire scene is enclosed within a harmonious mandala structure, symbolizing the balanced and complete nature of this five-fold duty ('ஐம்புலத்தாறு')."
+    },
+    "Art_Direction": {
+      "Subject_and_Action": "The visualization of the householder's life as the perfect, balanced fulfillment of the five great duties.",
+      "Symbolic_Motifs": "Each of the five paths has a distinct, appropriate color (e.g., ethereal white for gods, warm gold for guests, earthy brown for ancestors). The householder at the center is the source that nourishes all five paths, showing that self-care and personal virtue enable all other duties.",
+      "Mood_and_Emotion": "Balanced, harmonious, dutiful, complete, sacred order.",
+      "Lighting_and_Color": "A clear, balanced, and pure light illuminates the entire scene. The colors are distinct for each path but harmonize together, creating a sense of unity and order.",
+      "Technical_Cues": {
+        "Camera": "Top-down 'god's-eye-view' shot, perfectly centered on the householder, emphasizing the mandala-like structure of their duties.",
+        "Resolution": "8K, ultra-realistic, with sharp details in each of the five vignettes.",
+        "Lighting": "Even, harmonious lighting that gives equal importance to all five duties.",
+        "Art_Genre": "Symbolic art, spiritual diagrammatic painting, with realistic elements."
+      },
+      "Cultural_Anchors": [
+        "The five-fold duty (ஐம்புலத்தாறு)",
+        "Honoring Manes (தென்புலத்தார்), Gods (தெய்வம்), Guests (விருந்து), Kin (ஒக்கல்), and Self (தான்)",
+        "The concept of a balanced, dharmic life"
+      ]
+    },
+    "Negative_Prompt": "neglected duties, chaotic scene, unbalanced composition, dark lighting, text artifacts, sad figures.",
+    "Hyperparameters": {
+      "variant": "pro",
+      "steps": 50,
+      "cfg_scale": 7,
+      "seed": "Explore different artistic styles for the mandala."
+    }
+  }
+}

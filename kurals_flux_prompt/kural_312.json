@@ -1,0 +1,39 @@
+{
+  "Kural_Info": {
+    "Number": 312,
+    "Chapter": "இன்னாசெய்யாமை (Not doing Evil)",
+    "Tamil_Text": "கறுத்துஇன்னா செய்தவக் கண்ணும் மறுத்தின்னாசெய்யாமை மாசற்றார் கோள்.",
+    "English_Meaning": "It is the determination of the spotless not to do evil, even in return, to those who have cherished enmity and done them evil."
+  },
+  "Flux_Optimized_Prompt": {
+    "Layered_Composition": {
+      "Foreground": "A spotless, virtuous person ('மாசற்றார்') is shown being actively harmed by an enemy who is filled with burning hatred ('கறுத்து இன்னா செய்தவர்').",
+      "Midground": "The spotless person has the clear opportunity and power to retaliate in kind ('மறுத்து இன்னா'). A spectral weapon of vengeance materializes in their hand.",
+      "Background": "However, adhering to their core principle ('கோள்'), they are shown deliberately letting the weapon of vengeance dissolve into light. They refuse to return harm for harm ('செய்யாமை'). This act of non-retaliation is their ultimate victory."
+    },
+    "Art_Direction": {
+      "Subject_and_Action": "The principle of the spotless is to refrain from retaliatory harm, even against an enemy who is actively harming them out of pure malice.",
+      "Symbolic_Motifs": "The dissolving weapon of vengeance is the key visual metaphor. It shows a conscious and powerful choice to break the cycle of violence. Their strength is in their refusal to stoop to their enemy's level.",
+      "Mood_and_Emotion": "Supreme self-control, non-retaliation, principled, higher morality.",
+      "Lighting_and_Color": "The enemy and their act of hatred are depicted in fiery, chaotic reds and blacks. The spotless person is surrounded by a calm, pure, white light. As they dissolve the weapon of vengeance, their light grows stronger, pushing back the darkness of hatred.",
+      "Technical_Cues": {
+        "Camera": "A dramatic close-up on the spotless person's face, capturing their serene expression as they make the powerful choice to not retaliate.",
+        "Resolution": "8K, ultra-realistic, with advanced particle effects for the dissolving weapon.",
+        "Lighting": "The primary light source is the growing aura of the non-retaliating person.",
+        "Art_Genre": "High fantasy art, symbolic battle of principles."
+      },
+      "Cultural_Anchors": [
+        "Even in the face of one who harms you with hatred (கறுத்து இன்னா செய்தவக் கண்ணும்)",
+        "Not to return harm (மறுத்து இன்னா செய்யாமை)",
+        "Is the principle of the spotless (மாசற்றார் கோள்)"
+      ]
+    },
+    "Negative_Prompt": "person retaliating, cycle of violence, text artifacts, weak victim.",
+    "Hyperparameters": {
+      "variant": "pro",
+      "steps": 55,
+      "cfg_scale": 9,
+      "seed": "Explore the visual of the 'dissolving weapon of vengeance'."
+    }
+  }
+}

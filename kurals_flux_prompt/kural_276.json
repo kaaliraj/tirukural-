@@ -1,0 +1,39 @@
+{
+  "Kural_Info": {
+    "Number": 276,
+    "Chapter": "கூடா ஒழுக்கம் (Imposture)",
+    "Tamil_Text": "நெஞ்சின் துறவார் துறந்தார்போல் வஞ்சித்துவாழ்வாரின் வன்கணார் இல்.",
+    "English_Meaning": "Amongst living men there are none so hard-hearted as those who without to saking (desire) in their heart, falsely take the appearance of those who have forsaken (it)."
+  },
+  "Flux_Optimized_Prompt": {
+    "Layered_Composition": {
+      "Foreground": "An impostor ascetic is shown. Outwardly, he has the appearance of one who has renounced the world ('துறந்தார் போல்').",
+      "Midground": "A transparent, x-ray view of his heart ('நெஞ்சின்') reveals the truth. His heart is not at peace, but is a chaotic, grasping vortex of worldly desires. He has not renounced internally ('துறவார்').",
+      "Background": "The image declares that there are 'no harder-hearted' or more cruel people ('வன்கணார் இல்') than these. For contrast, a simple, honest villain (like a robber) is shown in the background, and the impostor's inner corruption is depicted as being even darker and more profound."
+    },
+    "Art_Direction": {
+      "Subject_and_Action": "There is no one more cruel and hard-hearted than the hypocrite who outwardly pretends to be a renunciant while inwardly clinging to all worldly desires.",
+      "Symbolic_Motifs": "The key is the contrast between the calm, holy exterior and the chaotic, desire-filled interior. The heart as a grasping vortex is a powerful metaphor for his un-renounced state. The comparison to an honest villain serves to elevate this hypocrisy as the greater evil.",
+      "Mood_and_Emotion": "Hypocritical, cruel, deceptive, ultimate hardness of heart.",
+      "Lighting_and_Color": "The impostor's outer robes are lit with a soft, holy light. The inner view of his heart, however, is a dark, chaotic swirl of ugly, greedy colors. This creates a powerful and disturbing visual dissonance.",
+      "Technical_Cues": {
+        "Camera": "A symbolic portrait with a transparent cross-section, revealing the truth within.",
+        "Resolution": "8K, ultra-realistic, with advanced effects for the 'vortex of desire' in his heart.",
+        "Lighting": "Dualistic lighting to contrast the false exterior with the true interior.",
+        "Art_Genre": "Dark symbolic realism."
+      },
+      "Cultural_Anchors": [
+        "Those who have not renounced in their heart (நெஞ்சின் துறவார்)",
+        "But live deceitfully like a renunciant (துறந்தார் போல் வஞ்சித்து வாழ்வார்)",
+        "There are no crueler people (வன்கணார் இல்)"
+      ]
+    },
+    "Negative_Prompt": "sincere ascetic, text artifacts.",
+    "Hyperparameters": {
+      "variant": "pro",
+      "steps": 50,
+      "cfg_scale": 9,
+      "seed": "Explore the visual of the 'vortex of desire'."
+    }
+  }
+}

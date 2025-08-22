@@ -1,0 +1,39 @@
+{
+  "Kural_Info": {
+    "Number": 532,
+    "Chapter": "பொச்சாவாமை (Unforgetfulness)",
+    "Tamil_Text": "பொச்சாப்புக் கொல்லும் புகழை அறிவினை நிச்ச நிரப்புக்கொன் றாங்கு.",
+    "English_Meaning": "Forgetfulness will destroy fame, even as constant poverty destroys knowledge."
+  },
+  "Flux_Optimized_Prompt": {
+    "Layered_Composition": {
+      "Foreground": "A diptych. On the left, a grand, shining monument representing a person's Fame ('புகழ்') is being consumed and destroyed by a creeping, dark mist representing Forgetfulness ('பொச்சாப்பு').",
+      "Midground": "On the right, for comparison, a brilliant, glowing brain representing Knowledge ('அறிவு') is being slowly extinguished and starved by the gaunt, skeletal hands of Perpetual Poverty ('நிச்ச நிரப்பு').",
+      "Background": "Both scenes are set in a desolate, timeless void to emphasize the destructive principles at work."
+    },
+    "Art_Direction": {
+      "Subject_and_Action": "A parallel of destruction: Forgetfulness kills fame in the same way that persistent poverty kills knowledge.",
+      "Symbolic_Motifs": "The mist consuming the monument is a metaphor for forgetfulness destroying fame. The skeletal hands of poverty extinguishing the light of knowledge is the parallel destruction.",
+      "Mood_and_Emotion": "Destructive, tragic, inevitable decay, cautionary.",
+      "Lighting_and_Color": "The left panel has the dark mist slowly snuffing out the golden light of the monument. The right panel has the skeletal hands casting a deep shadow that puts out the bright light of the brain.",
+      "Technical_Cues": {
+        "Camera": "A balanced, two-panel shot that makes the visual analogy clear and powerful.",
+        "Resolution": "8K, with high-quality mist and light effects.",
+        "Lighting": "Symbolic lighting that shows light being overcome by darkness in both scenarios.",
+        "Art_Genre": "Symbolic art, dark surrealism."
+      }
+    },
+    "Cultural_Anchors": [
+      "Forgetfulness Destroys Fame ('பொச்சாப்புக் கொல்லும் புகழை')",
+      "Poverty Destroys Knowledge ('நிரப்பு கொல்லும் அறிவினை')",
+      "The analogy of destruction."
+    ]
+  },
+  "Negative_Prompt": "fame and knowledge surviving, happy scenes, text artifacts, blurry.",
+  "Hyperparameters": {
+    "variant": "pro",
+    "steps": 45,
+    "cfg_scale": 8,
+    "seed": "Explore variations for the creeping mist."
+  }
+}

@@ -1,0 +1,33 @@
+{
+  "Kural_Info": {
+    "Number": 981,
+    "Chapter": "சான்றாண்மை (Perfectness)",
+    "Tamil_Text": "கடன்என்ப நல்லவை எல்லாம் கடன்அறிந்துசான்றாண்மை மேற்கொள் பவர்க்கு.",
+    "English_Meaning": "All goodly things are duties to the men, they say Who set themselves to walk in virtue's perfect way."
+  },
+  "Flux_Optimized_Prompt": {
+    "Layered_Composition": {
+      "Foreground": "A person of perfect goodness ('Saandraanmai') stands at the center of a radiating mandala of virtues. Their hands are open, not as if performing a single charity, but as if embracing all good actions as their natural duty.",
+      "Midground": "The mandala is composed of glowing symbols representing all good things ('Nallavai Ellam'): helping the needy, speaking truth, showing compassion, etc. These are not depicted as choices but as interconnected parts of a whole.",
+      "Background": "A serene, harmonious world that seems to be a direct result of this person's virtuous nature. The sun shines brightly, nature is in balance."
+    },
+    "Art_Direction": {
+      "Subject_and_Action": "A visual representation of a 'Saandror' (perfected one) for whom every good act is not an occasional choice but a fundamental, natural duty ('Kadan').",
+      "Symbolic_Motifs": "The mandala of virtues is the key symbol, showing all good deeds as an integrated part of their being. Their open, embracing posture signifies acceptance of this duty.",
+      "Mood_and_Emotion": "Serene, dutiful, enlightened, holistic, noble.",
+      "Lighting_and_Color": "A bright, pure, golden-white light emanates from the person and the mandala, illuminating the entire scene. The palette is clean and vibrant, with divine golds, whites, and sky blues."
+    },
+    "Technical_Cues": {
+      "Camera": "Centered medium shot, eye-level, creating a direct and reverent connection with the subject.",
+      "Resolution": "8K, mystical realism, with intricate, glowing details in the virtue mandala.",
+      "Lighting": "Radiant, internal, volumetric lighting that feels divine and all-encompassing.",
+      "Art_Genre": "Spiritual or mystical art, blending realistic portraiture with symbolic iconography."
+    },
+    "Cultural_Anchors": [
+      "சான்றாண்மை (Perfect Goodness)",
+      "கடன் (Duty)",
+      "நல்லவை எல்லாம் (All good things)"
+    ]
+  },
+  "Negative_Prompt": "dark, gloomy, struggling figure, isolated symbols, modern context, text artifacts, deformed limbs."
+}

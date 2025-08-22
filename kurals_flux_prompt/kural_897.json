@@ -1,0 +1,39 @@
+{
+  "Kural_Info": {
+    "Number": 897,
+    "Chapter": "பெரியாரைப் பிழையாமை (Not Offending the Great)",
+    "Tamil_Text": "வகைமாண்ட வாழ்க்கையும் வான்பொருளும் என்னாம் தகைமாண்ட தக்கார் செறின்.",
+    "English_Meaning": "If a king incurs the wrath of the righteous great, what will become of his government with its splendid auxiliaries and (all) its untold wealth ?."
+  },
+  "Flux_Optimized_Prompt": {
+    "Layered_Composition": {
+      "Foreground": "A king sits on a magnificent throne, surrounded by all the symbols of a great and prosperous life: a magnificent kingdom ('வகைமாண்ட வாழ்க்கை') and immense, heavenly wealth ('வான்பொருள்').",
+      "Midground": "However, he has earned the wrath of the truly great and worthy ('தகைமாண்ட தக்கார் செறின்'). This wrath is visualized not as a physical attack, but as a silent, powerful, metaphysical curse.",
+      "Background": "The curse is causing all of his magnificent wealth and power to turn to dust and fade away into nothingness. His great life and treasures are rendered completely useless and meaningless ('என்னாம்') by the anger of the great."
+    },
+    "Art_Direction": {
+      "Subject_and_Action": "Of what use is a magnificent life and vast wealth, if one incurs the wrath of the great and worthy?",
+      "Symbolic_Motifs": "The wealth and power turning to dust is the central image. The wrath of the great is a silent, invisible force, making its effect all the more profound.",
+      "Mood_and_Emotion": "Futile, powerless against true virtue, a curse of meaninglessness.",
+      "Lighting_and_Color": "The scene begins with a bright, golden light of prosperity. As the curse takes effect, the light fades, the colors desaturate, and everything begins to turn to grey dust.",
+      "Technical_Cues": {
+        "Camera": "A slow zoom out, showing more and more of the king's prosperity turning to dust, revealing the totality of the ruin.",
+        "Resolution": "8K, with high-quality particle effects for the dissolving wealth.",
+        "Lighting": "Dynamic lighting that fades to grey.",
+        "Art_Genre": "Dark fantasy, with a strong moral and metaphysical theme."
+      },
+      "Cultural_Anchors": [
+        "If the Great are wroth ('தக்கார் செறின்')",
+        "What use is a magnificent life and wealth? ('வாழ்க்கையும் வான்பொருளும் என்னாம்')",
+        "The power of the righteous to nullify worldly success."
+      ]
+    },
+    "Negative_Prompt": "the king remaining prosperous, text artifacts, cartoonish dust.",
+    "Hyperparameters": {
+      "variant": "dev",
+      "steps": 45,
+      "cfg_scale": 8,
+      "seed": "Explore variations for the dissolving wealth effect."
+    }
+  }
+}

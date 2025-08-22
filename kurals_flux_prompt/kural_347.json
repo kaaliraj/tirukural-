@@ -1,0 +1,38 @@
+{
+  "Kural_Info": {
+    "Number": 347,
+    "Chapter": "துறவு (Renunciation)",
+    "Tamil_Text": "பற்றி விடாஅ இடும்பைகள் பற்றினைப்பற்றி விடாஅ தவர்க்கு.",
+    "English_Meaning": "Sorrows will never let go their hold of those who give not up their hold of desire."
+  },
+  "Flux_Optimized_Prompt": {
+    "Layered_Composition": {
+      "Foreground": "A person is shown clinging desperately to their worldly attachments ('பற்றினைப் பற்றி விடாதவர்'). These attachments are visualized as beautiful but thorny, golden vines.",
+      "Midground": "Because the person refuses to let go of the vines of attachment, a host of monstrous figures representing 'Sorrows' ('இடும்பைகள்') are able to use these same vines to cling to the person.",
+      "Background": "The sorrows are shown holding on with an unbreakable grip ('பற்றி விடா'). The person's own attachments have become the very handles that allow sorrow to afflict them. If they let go of the vines, the sorrows would have nothing to hold on to."
+    },
+    "Art_Direction": {
+      "Subject_and_Action": "For the person who refuses to let go of their attachments, sorrows will also refuse to let go of them.",
+      "Symbolic_Motifs": "The attachments as vines that are both beautiful (the object of desire) and thorny (the cause of pain) is a key metaphor. The sorrows as monsters that hold onto these vines clearly illustrates the causal link. The person is trapped by the very things they refuse to release.",
+      "Mood_and_Emotion": "Trapped, self-inflicted sorrow, clinging, inescapable.",
+      "Lighting_and_Color": "The golden vines of attachment have a deceptive, alluring glow. The sorrow-monsters are dark, shadowy creatures. The person is caught in a painful, high-contrast trap of their own making.",
+      "Technical_Cues": {
+        "Camera": "A claustrophobic shot that shows the person, the vines they are clinging to, and the monsters that are clinging to the vines, emphasizing the trap.",
+        "Resolution": "8K, ultra-realistic, with a strong focus on the person's pained, trapped expression.",
+        "Lighting": "Dramatic, high-contrast lighting.",
+        "Art_Genre": "Dark fantasy, symbolic horror."
+      },
+      "Cultural_Anchors": [
+        "For those who cling to attachments and do not let go (பற்றினைப் பற்றி விடாதவர்க்கு)",
+        "Sorrows will cling and not let go (பற்றி விடா இடும்பைகள்)"
+      ]
+    },
+    "Negative_Prompt": "person letting go, happy person, text artifacts, friendly monsters.",
+    "Hyperparameters": {
+      "variant": "pro",
+      "steps": 55,
+      "cfg_scale": 9,
+      "seed": "Explore the design of the 'sorrow-monsters'."
+    }
+  }
+}

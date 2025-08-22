@@ -1,0 +1,39 @@
+{
+  "Kural_Info": {
+    "Number": 834,
+    "Chapter": "பேதைமை (Folly)",
+    "Tamil_Text": "ஓதி உணர்ந்தும் பிறர்க்குரைத்தும் தானடங்காப் பேதையின் பேதையார் இல்.",
+    "English_Meaning": "There are no greater fools than he who, though he has read and understood (a great deal) and even taught it to others, does not walk according to his own teaching."
+  },
+  "Flux_Optimized_Prompt": {
+    "Layered_Composition": {
+      "Foreground": "A person is shown as a great teacher. They have studied ('ஓதி'), understood ('உணர்ந்து'), and are eloquently teaching virtue to others ('பிறர்க்குரைத்தும்'). Their words are visualized as a beautiful, glowing path of light for their students.",
+      "Midground": "However, the teacher himself ('தான்') does not walk on the path of light he has created. Instead, he is shown walking on a dark, muddy path of vice right next to it ('அடங்கா').",
+      "Background": "This hypocrite is shown to be the greatest fool of all ('பேதையின் பேதையார்'), as his knowledge brings no benefit to himself. The image highlights this ultimate, tragic irony."
+    },
+    "Art_Direction": {
+      "Subject_and_Action": "There is no greater fool than the one who teaches the right way to others but does not follow it themselves.",
+      "Symbolic_Motifs": "The teacher creating a path of light for others but walking in darkness himself is the central, powerful metaphor for hypocrisy.",
+      "Mood_and_Emotion": "Hypocritical, ironic, foolish, tragic.",
+      "Lighting_and_Color": "The path of teaching is brilliantly lit. The teacher's own path is dark, muddy, and pathetic. The contrast is essential.",
+      "Technical_Cues": {
+        "Camera": "A wide shot that clearly shows the teacher, the two paths, and his students on the good path.",
+        "Resolution": "8K, with a strong narrative composition.",
+        "Lighting": "High-contrast, symbolic lighting.",
+        "Art_Genre": "Allegorical realism."
+      }
+    },
+    "Cultural_Anchors": [
+      "The Hypocritical Teacher",
+      "Not following one's own teaching ('தானடங்கா')",
+      "The Greatest Fool ('பேதையின் பேதையார்')"
+    ]
+  },
+  "Negative_Prompt": "teacher following his own path, text artifacts, cartoonish.",
+  "Hyperparameters": {
+    "variant": "pro",
+    "steps": 50,
+    "cfg_scale": 8,
+    "seed": "Explore variations for the path of light."
+  }
+}

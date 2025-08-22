@@ -1,0 +1,40 @@
+{
+  "Kural_Info": {
+    "Number": 684,
+    "Chapter": "தூது (The Envoy)",
+    "Tamil_Text": "அறிவுரு வாராய்ந்த கல்விஇம் மூன்றன் செறிவுடையான் செல்க வினைக்கு.",
+    "English_Meaning": "He may go on a mission (to foreign rulers) who has combined in him all these three. viz., (natural) sense, an attractive bearing and well-tried learning."
+  },
+  "Flux_Optimized_Prompt": {
+    "Layered_Composition": {
+      "Foreground": "An envoy is preparing to depart on a mission. They are shown being imbued with three essential qualities.",
+      "Midground": "From a celestial source, a ray of pure light touches their mind, granting them innate wisdom ('அறிவு'). Their physical form is sculpted by a gentle light to be noble and pleasing ('உரு'). A stream of glowing letters flows into them from a collection of ancient scrolls, representing their deep and well-researched learning ('ஆராய்ந்த கல்வி').",
+      "Background": "Only when they are full and dense with these three qualities ('இம்மூன்றன் செறிவுடையான்') is the path to the foreign kingdom revealed, and they are permitted to go on their mission ('செல்க வினைக்கு')."
+    },
+    "Art_Direction": {
+      "Subject_and_Action": "The one who is fit to go on a diplomatic mission is the one who is densely packed with three qualities: innate wisdom, a pleasing form, and profound learning.",
+      "Symbolic_Motifs": "The three streams of light/letters imbuing the envoy with the three qualities is the central visual. The path only opening after they are 'full' represents that these are prerequisites.",
+      "Mood_and_Emotion": "Prepared, complete, worthy, competent.",
+      "Lighting_and_Color": "A magical, divine light that seems to be bestowing these gifts upon the envoy. The colors are pure and noble—white for wisdom, gold for learning, and a pleasing hue for the form.",
+      "Technical_Cues": {
+        "Camera": "A centered, heroic shot of the envoy receiving these three essential qualities.",
+        "Resolution": "8K, with ethereal light and particle effects.",
+        "Lighting": "Radiant, bestowing light.",
+        "Art_Genre": "High-fantasy art, with a sense of divine appointment."
+      }
+    },
+    "Cultural_Anchors": [
+      "Wisdom ('அறிவு')",
+      "Pleasing Form ('உரு')",
+      "Researched Learning ('ஆராய்ந்த கல்வி')",
+      "Being dense with these qualities ('செறிவுடையான்')"
+    ]
+  },
+  "Negative_Prompt": "an unprepared envoy, a dark path, text artifacts, cartoonish.",
+  "Hyperparameters": {
+    "variant": "pro",
+    "steps": 50,
+    "cfg_scale": 8,
+    "seed": "Explore variations for the three streams of light."
+  }
+}

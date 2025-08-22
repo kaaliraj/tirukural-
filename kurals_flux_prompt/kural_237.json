@@ -1,0 +1,38 @@
+{
+  "Kural_Info": {
+    "Number": 237,
+    "Chapter": "புகழ் (Renown)",
+    "Tamil_Text": "புகழ்பட வாழாதார் தந்நோவார் தம்மைஇகழ்வாரை நோவது எவன்.",
+    "English_Meaning": "Why do those who cannot live with praise, grieve those who despise them, instead of grieving themselves for their own inability."
+  },
+  "Flux_Optimized_Prompt": {
+    "Layered_Composition": {
+      "Foreground": "A person who has failed to live a praiseworthy life ('புகழ்பட வாழாதார்') is shown.",
+      "Midground": "A group of people are scorning and despising them ('இகழ்வார்'). The person is shown getting angry and blaming these scorners for their pain ('நோவது').",
+      "Background": "A wise, spectral figure (perhaps Thiruvalluvar himself) appears and poses a question. The figure points the person's angry gaze away from the scorners and towards a mirror. In the mirror, the person sees that the true source of their failure is their own self. The image asks, 'Why blame them, when you should be blaming yourself?' ('தம் நோவார்')."
+    },
+    "Art_Direction": {
+      "Subject_and_Action": "Those who fail to live a praiseworthy life should blame their own failings, not the people who rightly scorn them for it.",
+      "Symbolic_Motifs": "The mirror of self-reflection is the key. It redirects the blame from an external target to the correct, internal source. The anger at the scorners is shown to be a misguided waste of energy.",
+      "Mood_and_Emotion": "Introspective, self-blame, accountability, cautionary.",
+      "Lighting_and_Color": "The scene is lit with a harsh, judgmental light. The act of blaming the scorners is a chaotic, angry red. The moment of self-realization in the mirror is a moment of cold, clear, difficult truth.",
+      "Technical_Cues": {
+        "Camera": "A shot that follows the person's line of sight from the scorners to the mirror, forcing them (and the viewer) to confront the real source of the problem.",
+        "Resolution": "8K, ultra-realistic, with a strong focus on the transition from anger to dawning self-awareness.",
+        "Lighting": "The mirror should reflect with a harsh, unforgiving clarity.",
+        "Art_Genre": "Psychological realism."
+      },
+      "Cultural_Anchors": [
+        "Why blame those who scorn you? (இகழ்வாரை நோவது எவன்?)",
+        "Blame yourself (தம் நோவார்)"
+      ]
+    },
+    "Negative_Prompt": "scorners being proven wrong, text artifacts, flawless person.",
+    "Hyperparameters": {
+      "variant": "dev",
+      "steps": 45,
+      "cfg_scale": 9,
+      "seed": "Explore the expression of dawning self-realization."
+    }
+  }
+}

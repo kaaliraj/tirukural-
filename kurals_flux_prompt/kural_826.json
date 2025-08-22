@@ -1,0 +1,39 @@
+{
+  "Kural_Info": {
+    "Number": 826,
+    "Chapter": "கூடாநட்பு (Unreal Friendship)",
+    "Tamil_Text": "நட்டார்போல் நல்லவை சொல்லினும் ஒட்டார்சொல் ஒல்லை உணரப் படும்.",
+    "English_Meaning": "Though (one's) foes may utter good things as though they were friends, once will at once understand (their evil, import)."
+  },
+  "Flux_Optimized_Prompt": {
+    "Layered_Composition": {
+      "Foreground": "An enemy ('ஒட்டார்') is speaking to a wise person. They are saying very good and friendly things ('நல்லவை சொல்லினும்'), which are visualized as beautiful, sweet-smelling flowers.",
+      "Midground": "However, as the flowers travel through the air, their true nature is revealed. A discerning eye can see that hidden inside each beautiful blossom is a sharp, venomous thorn.",
+      "Background": "The wise listener is not fooled. Their perceptive mind instantly recognizes the hidden danger ('ஒல்லை உணரப்படும்'), and they are shown calmly refusing to accept the beautiful but treacherous bouquet."
+    },
+    "Art_Direction": {
+      "Subject_and_Action": "Even when enemies speak like friends, their true, hostile intent will be quickly understood by the discerning.",
+      "Symbolic_Motifs": "The friendly words as beautiful flowers with hidden thorns is the key metaphor. The ability of the wise listener to see the hidden thorns represents their perception.",
+      "Mood_and_Emotion": "Deceptive, discerning, hidden danger, perceptive.",
+      "Lighting_and_Color": "The flowers are brightly colored and attractive. The thorns within can have a dark, venomous glint. The wise listener is in a clear, analytical light.",
+      "Technical_Cues": {
+        "Camera": "A slow-motion, macro shot that follows a flower from the speaker's mouth and then reveals the hidden thorn just before it reaches the listener.",
+        "Resolution": "8K, with a focus on the beautiful and dangerous details.",
+        "Lighting": "Bright light on the flowers, with a sharp glint on the thorns.",
+        "Art_Genre": "Magical realism."
+      },
+      "Cultural_Anchors": [
+        "Enemies speaking good things like friends",
+        "Their words are quickly understood ('ஒல்லை உணரப்படும்')",
+        "The perception of hidden intent."
+      ]
+    },
+    "Negative_Prompt": "flowers without thorns, a fooled listener, text artifacts, cartoonish.",
+    "Hyperparameters": {
+      "variant": "pro",
+      "steps": 50,
+      "cfg_scale": 8,
+      "seed": "Explore variations for the hidden thorns."
+    }
+  }
+}

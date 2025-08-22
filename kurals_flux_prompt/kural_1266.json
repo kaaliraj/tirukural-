@@ -1,0 +1,33 @@
+{
+  "Kural_Info": {
+    "Number": 1266,
+    "Chapter": "அவர்வயின்விதும்பல் (Mutual Desire)",
+    "Tamil_Text": "வருகமன் கொண்கன் ஒருநாள் பருகுவன்பைதல்நோய் எல்லாம் கெட.",
+    "English_Meaning": "O let my spouse but come again to me one day! I'll drink that nectar: wasting grief shall flee away."
+  },
+  "Flux_Optimized_Prompt": {
+    "Layered_Composition": {
+      "Foreground": "A woman is depicted suffering from lovesickness ('Paithal noi'). This sickness is visualized as a bitter, dark liquid in a cup before her.",
+      "Midground": "She imagines the return of her lover ('Varuga man Konkan'). His arrival is like a magical event, and his presence transforms the bitter liquid in the cup into a sweet, glowing, golden nectar.",
+      "Background": "She is shown joyfully drinking this nectar ('Paruguvan'), and as she does, her sickness vanishes and she is filled with health and happiness. The single day of his return is enough to cure all her past suffering."
+    },
+    "Art_Direction": {
+      "Subject_and_Action": "A lover's fervent wish: 'Let my husband just return for a single day. I will drink in his presence like nectar, and it will cure all the wasting sickness of our separation.'",
+      "Symbolic_Motifs": "The transformation of the 'poison' of sorrow into the 'nectar' of his presence. The act of drinking him in to cure all ills.",
+      "Mood_and_Emotion": "Hopeful, fervent, a desire for a complete and total cure.",
+      "Lighting_and_Color": "The scene begins in dark, sickly colors. The arrival of the lover brings a brilliant, golden light that causes the magical transformation of the liquid. The final scene is bathed in this warm, healing glow."
+    },
+    "Technical_Cues": {
+      "Camera": "A close-up on the cup, showing the liquid transforming from dark poison to golden nectar as the lover appears in the background.",
+      "Resolution": "8K, mystical realism, with beautiful fluid and light transformation effects.",
+      "Lighting": "Magical, transformative lighting that symbolizes healing.",
+      "Art_Genre": "Romantic fantasy, with strong alchemical or magical themes."
+    },
+    "Cultural_Anchors": [
+      "பைதல் நோய் (Wasting Sickness/Grief)",
+      "The lover's presence as nectar (அமுதம்)",
+      "The hope for a curative reunion"
+    ]
+  },
+  "Negative_Prompt": "a lover bringing poison, the woman getting sicker, a dark and tragic scene, text artifacts, cartoonish."
+}

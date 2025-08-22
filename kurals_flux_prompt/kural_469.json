@@ -1,0 +1,38 @@
+{
+  "Kural_Info": {
+    "Number": 469,
+    "Chapter": "தெரிந்துசெயல்வகை (Acting after due Consideration)",
+    "Tamil_Text": "நன்றாற்ற லுள்ளுந் தவுறுண்டு அவரவர்பண்பறிந் தாற்றாக் கடை.",
+    "English_Meaning": "There are failures even in acting well, when it is done without knowing the various dispositions of men."
+  },
+  "Flux_Optimized_Prompt": {
+    "Layered_Composition": {
+      "Foreground": "A person is shown performing what they believe to be a good deed ('நன்றாற்றல்'), for example, offering a beautiful musical instrument to another.",
+      "Midground": "However, the recipient has no appreciation for music ('பண்பு அறியாது'). They look at the precious instrument with confusion or disdain, and it is clear the gift will be unused and unappreciated. The good deed has failed ('தவறு உண்டு').",
+      "Background": "In a series of smaller vignettes, other similar failures are shown: offering a book to a man who cannot read, offering meat to a vegetarian. Each is a good intention that fails because the nature of the recipient was not considered."
+    },
+    "Art_Direction": {
+      "Subject_and_Action": "Even a good deed can become a failure if it is not tailored to the nature, character, and disposition of the recipient.",
+      "Symbolic_Motifs": "The disconnect between the giver's intention and the receiver's reality is the key. The 'failure' is not a disaster, but a quiet, sad lack of connection and wasted effort.",
+      "Mood_and_Emotion": "Misguided, failed good intentions, lack of understanding, poignant.",
+      "Lighting_and_Color": "A soft, slightly melancholic light. The gift is beautiful and well-intentioned, but the recipient's lack of appreciation casts a subtle shadow over the interaction.",
+      "Technical_Cues": {
+        "Camera": "A close-up on the faces, capturing the giver's earnest but misguided expression and the receiver's confused or indifferent one.",
+        "Resolution": "8K, ultra-realistic, with a strong focus on subtle emotional storytelling.",
+        "Lighting": "Soft, natural lighting to create an intimate but sad scene.",
+        "Art_Genre": "Psychological realism, narrative painting."
+      },
+      "Cultural_Anchors": [
+        "Failure even in doing good (நன்றாற்றலுள்ளும் தவறு உண்டு)",
+        "Not knowing the nature of each person (அவரவர் பண்பு அறிந்து ஆற்றாக் கடை)"
+      ]
+    },
+    "Negative_Prompt": "happy recipient, successful gift, text artifacts, evil intentions.",
+    "Hyperparameters": {
+      "variant": "dev",
+      "steps": 40,
+      "cfg_scale": 8,
+      "seed": "Explore different examples of 'failed good deeds'."
+    }
+  }
+}

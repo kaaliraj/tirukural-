@@ -1,0 +1,33 @@
+{
+  "Kural_Info": {
+    "Number": 1056,
+    "Chapter": "இரவு (Mendicancy)",
+    "Tamil_Text": "கரப்பிடும்பை யில்லாரைக் காணின் நிரப்பிடும்பைஎல்லாம் ஒருங்கு கெடும்.",
+    "English_Meaning": "If those you find from evil of 'denial' free, At once all plague of poverty will flee."
+  },
+  "Flux_Optimized_Prompt": {
+    "Layered_Composition": {
+      "Foreground": "A person suffering from poverty ('Nirappidumbai') is shown as being physically burdened by dark, heavy chains and shadowy specters representing their misery.",
+      "Midground": "In the distance, they catch sight of a truly generous person ('Karappidumbai Illaar'), who is depicted as a radiant source of warm, golden light.",
+      "Background": "The mere sight of this generous person has a powerful effect. The chains on the poor person are shattering, and the shadowy specters of their poverty are dissolving and fleeing as the light reaches them."
+    },
+    "Art_Direction": {
+      "Subject_and_Action": "The misery of poverty is completely vanquished at the very sight of a person who is free from the misery of having a refusing heart.",
+      "Symbolic_Motifs": "Poverty as physical chains and dark specters. The generous person as a radiant sun. The act of seeing ('Kaanin') causing the chains to break is the central magical event.",
+      "Mood_and_Emotion": "Hopeful, transformative, magical, a sense of immense relief.",
+      "Lighting_and_Color": "The image transitions from the dark, cold blues and grays of poverty to the warm, brilliant gold of generosity. The light from the generous person actively dispels the darkness."
+    },
+    "Technical_Cues": {
+      "Camera": "Wide shot, showing the poor person in the foreground and the source of light in the distance, emphasizing the power of just seeing hope.",
+      "Resolution": "8K, fantasy realism, with dynamic light effects and particle effects for the shattering chains and dissolving shadows.",
+      "Lighting": "God rays emanating from the generous person, literally pushing back the darkness.",
+      "Art_Genre": "High-fantasy art with a strong allegorical message."
+    },
+    "Cultural_Anchors": [
+      "நிரப்பிடும்பை (The misery of poverty)",
+      "கரப்பிடும்பை (The misery of refusing/denial)",
+      "The transformative power of hope and generosity"
+    ]
+  },
+  "Negative_Prompt": "dark light source, chains getting stronger, modern setting, text artifacts, cartoonish, blurry."
+}

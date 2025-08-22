@@ -1,0 +1,39 @@
+{
+  "Kural_Info": {
+    "Number": 946,
+    "Chapter": "மருந்து (Medicine)",
+    "Tamil_Text": "இழிவறிந்து உண்பான்கண் இன்பம்போல் நிற்குங் கழிபேர் இரையான்கண் நோய்.",
+    "English_Meaning": "As pleasure dwells with him who eats moderately, so disease (dwells) with the glutton who eats voraciously."
+  },
+  "Flux_Optimized_Prompt": {
+    "Layered_Composition": {
+      "Foreground": "A split composition. On the left, a person is eating with moderation, understanding the right, small amount ('இழிவறிந்து உண்பான்'). A beautiful, graceful figure of Joy ('இன்பம்') is shown residing with them.",
+      "Midground": "On the right, a glutton ('கழிபேர் இரையான்') is eating voraciously and excessively. A hideous, monstrous figure of Disease ('நோய்') is shown taking up residence in their body.",
+      "Background": "The moderate eater's life is bright and happy. The glutton's life is dark and full of suffering. Pleasure stays with one, disease stays with the other."
+    },
+    "Art_Direction": {
+      "Subject_and_Action": "Joy resides with the moderate eater; disease resides with the glutton.",
+      "Symbolic_Motifs": "The personification of Joy as a beautiful companion and Disease as a hideous monster is the central concept. This clearly shows who lives with whom.",
+      "Mood_and_Emotion": "Contrasting, pleasant vs. painful, healthy vs. sick.",
+      "Lighting_and_Color": "The left side is bright, warm, and full of pleasant colors. The right side is dark, sickly, and full of grotesque colors.",
+      "Technical_Cues": {
+        "Camera": "A side-by-side shot that makes the two outcomes and their companions clear.",
+        "Resolution": "8K, with strong character design for the personified Joy and Disease.",
+        "Lighting": "High-contrast, split lighting.",
+        "Art_Genre": "Allegorical painting."
+      },
+      "Cultural_Anchors": [
+        "The Moderate Eater ('இழிவறிந்து உண்பான்')",
+        "The Glutton ('கழிபேர் இரையான்')",
+        "Joy vs. Disease."
+      ]
+    },
+    "Negative_Prompt": "a sad moderate eater, a healthy glutton, text artifacts, cartoonish.",
+    "Hyperparameters": {
+      "variant": "pro",
+      "steps": 50,
+      "cfg_scale": 9,
+      "seed": "Explore variations for the personification of Disease."
+    }
+  }
+}

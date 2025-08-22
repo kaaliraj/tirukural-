@@ -1,0 +1,38 @@
+{
+  "Kural_Info": {
+    "Number": 1094,
+    "Chapter": "குறிப்பறிதல் (Recognition of the Signs)",
+    "Tamil_Text": "யான்நோக்கும் காலை நிலன்நோக்கும் நோக்காக்கால்தான்நோக்கி மெல்ல நகும்.",
+    "English_Meaning": "When I look, she looks down; when I do not, she looks and smiles gently."
+  },
+  "Flux_Optimized_Prompt": {
+    "Layered_Composition": {
+      "Foreground": "A lover ('யான்') and his beloved are shown in a garden or courtyard.",
+      "Midground": "A two-stage action is depicted. In the first stage, he is looking directly at her ('யான் நோக்கும் காலை'). In response, she looks demurely at the ground ('நிலன் நோக்கும்').",
+      "Background": "In the second stage, he deliberately looks away from her ('நோக்காக் கால்'). The moment he does this, she lifts her head, looks directly at him ('தான் நோக்கி'), and a beautiful, gentle, secret smile blossoms on her face ('மெல்ல நகும்')."
+    },
+    "Art_Direction": {
+      "Subject_and_Action": "A description of the subtle, flirtatious game of glances between lovers: she looks down when he looks at her, but secretly looks and smiles at him the moment he looks away.",
+      "Symbolic_Motifs": "The 'dance' of their gazes is the entire story. Her secret smile is the reward for his patience and understanding of the game. It is a private communication meant only for him, which happens when no one (not even he, directly) is looking.",
+      "Mood_and_Emotion": "Flirtatious, shy, sweet, secret, playful.",
+      "Lighting_and_Color": "A soft, romantic, natural light. Her final, secret smile should be the most radiant and beautifully lit moment in the scene, a small, private treasure.",
+      "Technical_Cues": {
+        "Camera": "A shot that cleverly captures both characters, allowing the viewer to see both his gaze and her counter-gaze in succession. A subtle rack focus could be used.",
+        "Resolution": "8K, ultra-realistic, focusing on the subtle, fleeting expressions.",
+        "Lighting": "Natural, soft lighting.",
+        "Art_Genre": "Romantic realism, intimate portraiture."
+      },
+      "Cultural_Anchors": [
+        "When I look, she looks at the ground (யான் நோக்கும் காலை நிலன் நோக்கும்)",
+        "When I don't look, she looks at me and smiles softly (நோக்காக் கால் தான் நோக்கி மெல்ல நகும்)"
+      ]
+    },
+    "Negative_Prompt": "both staring at each other, angry expressions, text artifacts.",
+    "Hyperparameters": {
+      "variant": "dev",
+      "steps": 45,
+      "cfg_scale": 7,
+      "seed": "Focus on capturing the beauty of her 'secret smile'."
+    }
+  }
+}

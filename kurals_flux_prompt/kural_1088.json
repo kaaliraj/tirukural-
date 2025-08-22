@@ -1,0 +1,38 @@
+{
+  "Kural_Info": {
+    "Number": 1088,
+    "Chapter": "தகையணங்குறுத்தல் (The Pre-marital love)",
+    "Tamil_Text": "ஒண்ணுதற் கோஒ உடைந்ததே ஞாட்பினுள்நண்ணாரும் உட்குமென் பீடு.",
+    "English_Meaning": "On her bright brow alone is destroyed even that power of mine that used to terrify the most fearless foes in the battlefield."
+  },
+  "Flux_Optimized_Prompt": {
+    "Layered_Composition": {
+      "Foreground": "A powerful, heroic warrior is shown kneeling, utterly defeated. His sword lies broken on the ground.",
+      "Midground": "He is not on a battlefield. He is kneeling before a beautiful maiden. The thing that has defeated him is her bright forehead ('ஒள் நுதல்'). A beam of soft, gentle light from her forehead is shown touching his heart and shattering his strength.",
+      "Background": "A ghostly flashback vision shows the same warrior in his prime on a battlefield ('ஞாட்பினுள்'). His heroic might ('என் பீடு') is so great that even the most fearsome enemies ('நண்ணாரும்') are shown cowering in terror before him ('உட்கும்'). This vision of his past strength makes his present defeat even more profound."
+    },
+    "Art_Direction": {
+      "Subject_and_Action": "The warrior's mighty strength, which terrified even his enemies on the battlefield, has been completely shattered by the mere sight of his beloved's bright forehead.",
+      "Symbolic_Motifs": "The contrast between his battlefield prowess and his romantic defeat is the central theme. The gentle light from her forehead is a 'weapon' far more powerful than any sword. His kneeling is an act of complete and willing surrender.",
+      "Mood_and_Emotion": "Utterly smitten, surrendered, powerful beauty, conquered.",
+      "Lighting_and_Color": "The battlefield flashback is in the harsh, fiery colors of war. The present scene is bathed in the soft, gentle, but overwhelmingly powerful light emanating from the maiden's forehead. The palette is one of peaceful, total victory.",
+      "Technical_Cues": {
+        "Camera": "A shot focusing on the defeated warrior, with the maiden and her powerful forehead as the clear cause, and the flashback to his former glory visible as a poignant contrast.",
+        "Resolution": "8K, ultra-realistic, with a focus on the warrior's expression of awe and surrender.",
+        "Lighting": "The primary light source is the maiden's forehead, which casts a divine glow that overpowers all else.",
+        "Art_Genre": "Epic romance, mythological painting."
+      },
+      "Cultural_Anchors": [
+        "My might that terrified enemies (நண்ணாரும் உட்கும் என் பீடு)",
+        "Was broken by her bright forehead (ஒள் நுதற்கு உடைந்ததே)"
+      ]
+    },
+    "Negative_Prompt": "warrior standing, angry maiden, text artifacts, physical fight.",
+    "Hyperparameters": {
+      "variant": "pro",
+      "steps": 55,
+      "cfg_scale": 8,
+      "seed": "Explore the visual of 'strength being shattered by light'."
+    }
+  }
+}

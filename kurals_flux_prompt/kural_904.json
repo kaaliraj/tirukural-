@@ -1,0 +1,39 @@
+{
+  "Kural_Info": {
+    "Number": 904,
+    "Chapter": "பெண்வழிச்சேறல் (Being led by Women)",
+    "Tamil_Text": "மனையாளை அஞ்சும் மறுமையி லாளன் வினையாண்மை வீறெய்த லின்று.",
+    "English_Meaning": "The undertaking of one, who fears his wife and is therefore destitute of (bliss), will never be applauded."
+  },
+  "Flux_Optimized_Prompt": {
+    "Layered_Composition": {
+      "Foreground": "A man is shown trembling with fear before his wife ('மனையாளை அஞ்சும்'). Because of this fear, he is depicted as having no thought for the afterlife or greater things; his spiritual vision is null ('மறுமையிலாளன்').",
+      "Midground": "He is attempting to perform a great and manly deed ('வினையாண்மை'), like forging a great sword or building a city.",
+      "Background": "However, because his will is broken by his fear of his wife, his efforts are weak and ineffective. The sword he forges is brittle and cracks, the city he builds is weak and crumbles. His work can never achieve glory or excellence ('வீறெய்தல் இன்று')."
+    },
+    "Art_Direction": {
+      "Subject_and_Action": "The man who fears his wife and thus has no higher purpose can never achieve excellence in his worldly actions.",
+      "Symbolic_Motifs": "The man's fearful posture is key. The failure of his great works (the cracked sword, the crumbling city) is the direct result of his inner state.",
+      "Mood_and_Emotion": "Ineffective, weak-willed, fearful, a failure in action.",
+      "Lighting_and_Color": "A dim, weak light surrounds the man. His forge is not hot enough, his building materials are poor. The scene is one of pathetic failure.",
+      "Technical_Cues": {
+        "Camera": "A shot that connects the man's fear of his wife with the failure of his work.",
+        "Resolution": "8K, with detailed effects of cracking and crumbling.",
+        "Lighting": "Dim, unsuccessful lighting.",
+        "Art_Genre": "Symbolic realism."
+      },
+      "Cultural_Anchors": [
+        "He who fears his wife ('மனையாளை அஞ்சும்')",
+        "His deeds will never be glorious ('வினையாண்மை வீறெய்தல் இன்று')",
+        "The connection between domestic fear and public failure."
+      ]
+    },
+    "Negative_Prompt": "a brave husband, a successful project, text artifacts, cartoonish.",
+    "Hyperparameters": {
+      "variant": "pro",
+      "steps": 50,
+      "cfg_scale": 8,
+      "seed": "Explore variations for the crumbling city."
+    }
+  }
+}

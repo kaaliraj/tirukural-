@@ -1,0 +1,32 @@
+{
+  "Kural_Info": {
+    "Number": 1264,
+    "Chapter": "அவர்வயின்விதும்பல் (Mutual Desire)",
+    "Tamil_Text": "கூடிய காமம் பிரிந்தார் வரவுள்ளிக்கோடுகொ டேறுமென் நெஞ்சு.",
+    "English_Meaning": "'He comes again, who left my side, and I shall taste love's joy,'- My heart with rapture swells, when thoughts like these my mind employ."
+  },
+  "Flux_Optimized_Prompt": {
+    "Layered_Composition": {
+      "Foreground": "A woman's heart ('En Nenju') is visualized as a beautiful, flowering vine.",
+      "Midground": "At the thought of her lover returning ('Pirindhaar Varavulli') and the memory of their past union ('Koodiya Kaamam'), the vine of her heart begins to grow rapidly and joyfully, climbing up a support trellis ('Kodukode Erum').",
+      "Background": "The trellis represents her hope, and the heart-vine is shown reaching for the sky in a state of ecstatic growth and anticipation."
+    },
+    "Art_Direction": {
+      "Subject_and_Action": "My heart, which was pining, swells with joy and grows ecstatically at the mere thought of my separated lover returning.",
+      "Symbolic_Motifs": "The heart as a rapidly growing, climbing vine is the central metaphor. The thought of reunion is the sunlight and water that fuels this growth.",
+      "Mood_and_Emotion": "Ecstatic, hopeful, burgeoning, full of life and anticipation.",
+      "Lighting_and_Color": "Bright, joyful, life-giving sunlight. The vine is a vibrant green, sprouting beautiful, colorful blossoms as it grows. The palette is full of life and happiness."
+    },
+    "Technical_Cues": {
+      "Camera": "A dynamic time-lapse shot, showing the vine of the heart rapidly growing up the trellis.",
+      "Resolution": "8K, mystical realism, with beautiful and detailed plant-growth animation.",
+      "Lighting": "Bright, high-key lighting to convey pure joy.",
+      "Art_Genre": "Symbolic nature fantasy, where emotion is expressed through plant life."
+    },
+    "Cultural_Anchors": [
+      "The heart as a growing plant",
+      "The joyous anticipation of reunion (வரவுள்ளல்)"
+    ]
+  },
+  "Negative_Prompt": "a wilting vine, a sad woman, a dark and stormy background, text artifacts, cartoonish."
+}

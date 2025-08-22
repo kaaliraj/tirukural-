@@ -1,0 +1,39 @@
+{
+  "Kural_Info": {
+    "Number": 554,
+    "Chapter": "கொடுங்கோன்மை (The Cruel Sceptre)",
+    "Tamil_Text": "கூழுங் குடியும் ஒருங்கிழக்கும் கோல்கோடிச் சூழாது செய்யும் அரசு.",
+    "English_Meaning": "The king, who, without reflecting (on its evil consequences), perverts justice, will lose at once both his wealth and his subjects."
+  },
+  "Flux_Optimized_Prompt": {
+    "Layered_Composition": {
+      "Foreground": "A foolish king ('சூழாது செய்யும் அரசு') is shown deliberately bending his royal sceptre ('கோல்கோடி'), symbolizing the perversion of justice.",
+      "Midground": "As the sceptre bends, a dual catastrophe occurs simultaneously ('ஒருங்கு இழக்கும்'). The kingdom's wealth, represented by a treasury of gold ('கூழ்'), dissolves into dust. At the same time, the kingdom's people ('குடி') are shown turning their backs and walking away into exile.",
+      "Background": "A once-prosperous kingdom is left barren and empty, the immediate result of the king's unjust act."
+    },
+    "Art_Direction": {
+      "Subject_and_Action": "A government that perverts justice without considering the consequences will lose both its wealth and its people at the same time.",
+      "Symbolic_Motifs": "The act of bending the sceptre is the symbolic cause of the ruin. The simultaneous dissolution of wealth and departure of the people are the dual effects.",
+      "Mood_and_Emotion": "Destructive, foolish, unjust, desolate, consequential.",
+      "Lighting_and_Color": "As the sceptre bends, the bright, prosperous light of the kingdom is extinguished, plunging the scene into a bleak, grey twilight. The dissolving gold adds a tragic sparkle to the decay.",
+      "Technical_Cues": {
+        "Camera": "A dynamic shot capturing the king's action and the immediate, twofold consequences spreading through his kingdom.",
+        "Resolution": "8K, with powerful particle effects for the dissolving wealth.",
+        "Lighting": "Dramatic shift in lighting from bright to dark as the injustice is committed.",
+        "Art_Genre": "Symbolic fantasy art."
+      }
+    },
+    "Cultural_Anchors": [
+      "The Crooked Sceptre ('கோல்கோடி')",
+      "Losing Wealth and People ('கூழுங் குடியும் இழக்கும்')",
+      "The immediate consequences of injustice."
+    ]
+  },
+  "Negative_Prompt": "straight sceptre, prosperous kingdom, loyal subjects, text artifacts.",
+  "Hyperparameters": {
+    "variant": "dev",
+    "steps": 40,
+    "cfg_scale": 9,
+    "seed": "Explore variations for the dissolving gold effect."
+  }
+}

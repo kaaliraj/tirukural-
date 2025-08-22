@@ -1,0 +1,33 @@
+{
+  "Kural_Info": {
+    "Number": 1157,
+    "Chapter": "பிரிவாற்றாமை (Separation unendurable)",
+    "Tamil_Text": "துறைவன் துறந்தமை தூற்றாகொல் முன்கைஇறைஇறவா நின்ற வளை.",
+    "English_Meaning": "The bracelet slipping from my wrist announced before Departure of the Prince that rules the ocean shore."
+  },
+  "Flux_Optimized_Prompt": {
+    "Layered_Composition": {
+      "Foreground": "A close-up on a woman's slender wrist ('Munkai'). Her golden bracelet ('Valai') is shown slipping loosely, having become too large for her pining, thinning arm.",
+      "Midground": "The loose bracelet acts as a silent announcer. From it, a ghostly, visual echo proclaims the news of her lover's departure ('Thuravanthamai Thootraakol').",
+      "Background": "Her lover, the lord of the shore ('Thuraivan'), is seen in the distant background by a tumultuous sea, confirming the bracelet's sad prophecy."
+    },
+    "Art_Direction": {
+      "Subject_and_Action": "The physical symptom of pining—a thinning wrist causing a bracelet to loosen—becomes a prophetic sign that announces the lover's departure even before it is consciously accepted.",
+      "Symbolic_Motifs": "The slipping bracelet is the central, poignant symbol. It acts as a 'town crier' ('Thootraakol') for the sorrow of separation.",
+      "Mood_and_Emotion": "Melancholy, prophetic, sorrowful, a sense of the body revealing the heart's pain.",
+      "Lighting_and_Color": "Soft, melancholic light, perhaps the dim light of dusk by the seashore. The golden bracelet provides a single, sad highlight in the scene. The palette is dominated by cool sea-blues and grays."
+    },
+    "Technical_Cues": {
+      "Camera": "Macro focus on the slipping bracelet, with the woman's sad face and the distant lover softly out of focus.",
+      "Resolution": "8K, photorealistic, with a strong focus on the detail of the armlet and the texture of the skin.",
+      "Lighting": "Soft, diffused lighting to create a gentle and sorrowful mood.",
+      "Art_Genre": "Romantic realism, with a focus on subtle, symbolic details."
+    },
+    "Cultural_Anchors": [
+      "The loosening of bangles (வளை நெகிழ்தல்) as a classic Sangam-era poetic device for showing a woman's pining.",
+      "துறைவன் (Lord of the Seashore - a classic poetic hero)",
+      "The body's involuntary expression of grief"
+    ]
+  },
+  "Negative_Prompt": "a tight-fitting bracelet, a happy woman, a lover who is not departing, text artifacts, modern jewelry, cartoonish."
+}

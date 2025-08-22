@@ -1,0 +1,39 @@
+{
+  "Kural_Info": {
+    "Number": 134,
+    "Chapter": "ஒழுக்கமுடைமை (The Possession of Decorum)",
+    "Tamil_Text": "மறப்பினும் ஓத்துக் கொளலாகும் பார்ப்பான்பிறப்பொழுக்கங் குன்றக் கெடும்.",
+    "English_Meaning": "A Brahman though he should forget the Vedas may recover it by reading; but, if he fail in propriety of conduct even his high birth will be destroyed."
+  },
+  "Flux_Optimized_Prompt": {
+    "Layered_Composition": {
+      "Foreground": "A split composition of a Brahmin scholar ('பார்ப்பான்').",
+      "Midground": "On the left, his mind is shown as having forgotten the Vedas ('மறப்பினும் ஓத்து'). However, he is shown re-learning by diligently studying the sacred texts, and the forgotten knowledge is visibly returning to him as streams of light ('கொளலாகும்'). His status remains intact.",
+      "Background": "On the right, the same Brahmin is shown committing a single act that is a failure in decorum ('ஒழுக்கம் குன்ற'). The moment he does this, his high birth and status, visualized as a radiant, holy thread and a divine aura, instantly shatters and perishes ('பிறப்பு கெடும்')."
+    },
+    "Art_Direction": {
+      "Subject_and_Action": "For a Brahmin, forgetting the sacred texts is a recoverable error. However, a failure in good conduct is an irrecoverable one that instantly destroys the very foundation of his high birth.",
+      "Symbolic_Motifs": "The contrast between the recoverable knowledge and the irrecoverable status is the key. The shattering of the sacred thread and aura is a powerful, instantaneous visualization of the destruction of his 'birth'.",
+      "Mood_and_Emotion": "Irrecoverable loss, catastrophic, cautionary, moral fragility.",
+      "Lighting_and_Color": "The re-learning scene is lit with a hopeful, intellectual light. The scene of the lapse in conduct is marked by a sudden, violent flash of light as the aura shatters, followed by a dark, empty void of lost status.",
+      "Technical_Cues": {
+        "Camera": "A diptych shot that contrasts the slow, patient recovery of knowledge with the instant, catastrophic loss of status.",
+        "Resolution": "8K, ultra-realistic, with advanced particle and shattering effects for the sacred aura.",
+        "Lighting": "A dramatic, explosive lighting effect for the moment of ruin.",
+        "Art_Genre": "Symbolic realism, with fantasy elements."
+      },
+      "Cultural_Anchors": [
+        "A Brahmin (பார்ப்பான்)",
+        "Forgetting the Veda (மறப்பினும் ஓத்து)",
+        "When decorum fails, his birth perishes (ஒழுக்கம் குன்ற பிறப்பு கெடும்)"
+      ]
+    },
+    "Negative_Prompt": "Brahmin surviving bad conduct, text artifacts, happy sinner.",
+    "Hyperparameters": {
+      "variant": "pro",
+      "steps": 55,
+      "cfg_scale": 9,
+      "seed": "Explore the visual of the 'sacred aura shattering'."
+    }
+  }
+}

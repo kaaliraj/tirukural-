@@ -1,0 +1,38 @@
+{
+  "Kural_Info": {
+    "Number": 306,
+    "Chapter": "வெகுளாமை (Restraining Anger)",
+    "Tamil_Text": "சினமென்னும் சேர்ந்தாரைக் கொல்லி இனமென்னும்ஏமப் புணையைச் சுடும்.",
+    "English_Meaning": "The fire of anger will burn up even the pleasant raft of friendship."
+  },
+  "Flux_Optimized_Prompt": {
+    "Layered_Composition": {
+      "Foreground": "A person is consumed by a fierce fire of anger ('சினம்'). This fire is not just burning them, but is actively lashing out.",
+      "Midground": "The person is on a journey with their friends and family ('இனம்'). This community of kin is visualized as a large, beautiful, and sturdy raft that is keeping them all safe on the sea of life ('ஏமப் புணை').",
+      "Background": "The fire of the person's anger is shown spreading from them to the raft itself. The beautiful, safe raft of their relationships is shown catching fire and being burned to ashes ('சுடும்'), leaving them and everyone they care about to drown."
+    },
+    "Art_Direction": {
+      "Subject_and_Action": "Anger is a fire that not only destroys the one who holds it, but also burns and destroys the beautiful, safe raft of their family and friends.",
+      "Symbolic_Motifs": "The raft of kinship is the central metaphor for one's social support system. Anger as a fire that spreads and destroys this essential support structure is a powerful, tragic image.",
+      "Mood_and_Emotion": "Destructive, self-sabotage, tragic, isolating.",
+      "Lighting_and_Color": "The primary light source is the destructive, chaotic, orange and red fire of anger. It consumes the warm, natural, wooden colors of the raft of friendship, turning it into black ash.",
+      "Technical_Cues": {
+        "Camera": "A wide, dramatic shot showing the person on the raft, the fire of their anger starting, and then spreading to consume the entire raft.",
+        "Resolution": "8K, ultra-realistic, with advanced and destructive fire effects.",
+        "Lighting": "The fire of anger should be a wild, uncontrolled light source.",
+        "Art_Genre": "Tragic realism, with symbolic elements."
+      },
+      "Cultural_Anchors": [
+        "Anger, the killer of those close (சினம் என்னும் சேர்ந்தாரைக் கொல்லி)",
+        "Will burn the safe raft of kinship (இனம் என்னும் ஏமப் புணையைச் சுடும்)"
+      ]
+    },
+    "Negative_Prompt": "fire being contained, safe raft, text artifacts.",
+    "Hyperparameters": {
+      "variant": "pro",
+      "steps": 50,
+      "cfg_scale": 9,
+      "seed": "Explore the visual of the 'raft of kinship' burning."
+    }
+  }
+}

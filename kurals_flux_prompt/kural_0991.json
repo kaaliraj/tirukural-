@@ -1,0 +1,33 @@
+{
+  "Kural_Info": {
+    "Number": 991,
+    "Chapter": "பண்புடைமை (Courtesy)",
+    "Tamil_Text": "எண்பதத்தால் எய்தல் எளிதென்ப யார்மாட்டும்பண்புடைமை என்னும் வழக்கு.",
+    "English_Meaning": "Who easy access give to every man, they say, Of kindly courtesy will learn with ease the way."
+  },
+  "Flux_Optimized_Prompt": {
+    "Layered_Composition": {
+      "Foreground": "A person of high stature, perhaps a scholar or leader in an ancient Tamil setting, is shown warmly welcoming and speaking with people from all walks of life—a farmer, a merchant, a child—with no barriers between them.",
+      "Midground": "A metaphorical pathway of light, representing the practice of courtesy ('Panbudaimai'), is shown as wide, straight, and easy to walk upon for this accessible individual. Others who are aloof are shown struggling on narrow, thorny paths.",
+      "Background": "A pleasant, open courtyard or public space, bustling with harmonious social interaction, reinforcing the theme of accessibility."
+    },
+    "Art_Direction": {
+      "Subject_and_Action": "Illustrating that the virtue of courtesy is easily attained by those who are simple and easy to approach ('Enbathathal').",
+      "Symbolic_Motifs": "The open, welcoming posture of the main figure. The easy, luminous path of courtesy is the central visual metaphor.",
+      "Mood_and_Emotion": "Warm, welcoming, humble, accessible, and gracious.",
+      "Lighting_and_Color": "Soft, natural, and inviting light. A warm color palette of earthy tones, sandalwoods, and gentle whites that promotes a feeling of comfort and ease."
+    },
+    "Technical_Cues": {
+      "Camera": "Wide shot, eye-level, to create a feeling of being part of the welcoming scene.",
+      "Resolution": "8K, photorealistic, with a focus on warm and genuine facial expressions.",
+      "Lighting": "Soft, diffused lighting that minimizes harsh shadows and creates a pleasant atmosphere.",
+      "Art_Genre": "Historical realism, capturing a moment of ideal social harmony."
+    },
+    "Cultural_Anchors": [
+      "பண்புடைமை (Courtesy/Good Manners)",
+      "எண்பதத்தால் (By being easy of access)",
+      "The social virtue of accessibility"
+    ]
+  },
+  "Negative_Prompt": "arrogant or aloof main character, empty courtyard, harsh lighting, text artifacts, modern clothing, confrontational poses."
+}

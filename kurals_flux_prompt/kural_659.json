@@ -1,0 +1,39 @@
+{
+  "Kural_Info": {
+    "Number": 659,
+    "Chapter": "வினைத்தூய்மை (Purity in Action)",
+    "Tamil_Text": "அழக்கொண்ட எல்லாம் அழப்போம் இழப்பினும் பிற்பயக்கும் நற்பா லவை.",
+    "English_Meaning": "All that has been obtained with tears (to the victim) will depart with tears (to himself); but what has been by fair means; though with loss at first, will afterwards yield fruit."
+  },
+  "Flux_Optimized_Prompt": {
+    "Layered_Composition": {
+      "Foreground": "A split composition. On the left, a tyrant is shown seizing wealth from a crying family ('அழக்கொண்ட'). The seized wealth is depicted as being made of solidified tears.",
+      "Midground": "Later, this tear-made wealth is shown melting and flowing away from the tyrant, who is now himself crying in sorrow as he loses it all ('அழப்போம்'). On the right, a virtuous person is shown losing their initial investment in a good deed, perhaps planting a seed that takes a long time to grow ('இழப்பினும்').",
+      "Background": "Later in time, the seed planted by the virtuous person has grown into a magnificent, fruit-bearing tree, which provides them with a great and lasting reward ('பிற்பயக்கும்')."
+    },
+    "Art_Direction": {
+      "Subject_and_Action": "Wealth gained by causing tears will be lost with tears. But an action done by fair means, even if it starts with a loss, will bring future benefits.",
+      "Symbolic_Motifs": "The wealth made of tears is a literal metaphor. The contrast between this melting wealth and the growing tree of good deeds is the core of the story.",
+      "Mood_and_Emotion": "Poetic justice, consequential, patient virtue rewarded.",
+      "Lighting_and_Color": "The left (unjust) side is dark, tragic, and lit with a cold, tear-like silvery light. The right (just) side begins humbly but ends in the warm, golden light of a bountiful harvest.",
+      "Technical_Cues": {
+        "Camera": "A narrative diptych, showing the cause and effect on both the unjust and just sides.",
+        "Resolution": "8K, with beautiful effects for the tear-wealth and the growing tree.",
+        "Lighting": "Contrasting lighting that evolves with the narrative.",
+        "Art_Genre": "Allegorical painting, with a strong narrative flow."
+      }
+    },
+    "Cultural_Anchors": [
+      "Gained with Tears, Lost with Tears ('அழக்கொண்ட எல்லாம் அழப்போம்')",
+      "Loss by Fair Means brings Future Good ('இழப்பினும் பிற்பயக்கும்')",
+      "The law of karma."
+    ]
+  },
+  "Negative_Prompt": "tyrant keeping the wealth, good person's seed not growing, text artifacts.",
+  "Hyperparameters": {
+    "variant": "pro",
+    "steps": 50,
+    "cfg_scale": 8,
+    "seed": "Explore variations for the 'wealth of tears'."
+  }
+}

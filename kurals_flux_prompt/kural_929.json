@@ -1,0 +1,39 @@
+{
+  "Kural_Info": {
+    "Number": 929,
+    "Chapter": "கள்ளுண்ணாமை (Not Drinking Palm-Wine)",
+    "Tamil_Text": "களித்தானைக் காரணம் காட்டுதல் கீழ்நீர்க் குளித்தானைத் தீத்துரீஇ அற்று.",
+    "English_Meaning": "To reason with a drunk man is like going under water with a torch to find a drowned man."
+  },
+  "Flux_Optimized_Prompt": {
+    "Layered_Composition": {
+      "Foreground": "A surreal, underwater scene. A person has drowned and is at the bottom of a lake ('கீழ்நீர்க் குளித்தானை').",
+      "Midground": "A rescuer is attempting to find them. However, the rescuer is using a completely useless tool: a burning torch ('தீ'). The torch is shown sputtering and being extinguished by the water, casting no light.",
+      "Background": "In a direct parallel, a wise person is shown trying to speak reason ('காரணம் காட்டுதல்') to a hopelessly drunk man ('களித்தானை'). The wise words are shown being extinguished and rendered useless by the 'water' of the man's intoxication, having no effect whatsoever."
+    },
+    "Art_Direction": {
+      "Subject_and_Action": "Trying to reason with a drunk person is as futile and absurd as trying to search for a drowned man underwater with a lit torch.",
+      "Symbolic_Motifs": "The central, absurd image of the sputtering torch underwater is the core metaphor for this ultimate futility.",
+      "Mood_and_Emotion": "Futile, absurd, illogical, a complete waste of effort.",
+      "Lighting_and_Color": "A dark, murky, underwater setting. The torch's failing light provides a pathetic, sputtering glow before being extinguished. The colors are dark and watery.",
+      "Technical_Cues": {
+        "Camera": "A shot that focuses on the absurd and useless nature of the torch underwater.",
+        "Resolution": "8K, with realistic underwater and fire-in-water effects.",
+        "Lighting": "Dark, murky, underwater lighting.",
+        "Art_Genre": "Surrealism, with a dark comedic tone."
+      },
+      "Cultural_Anchors": [
+        "Reasoning with a drunkard",
+        "Like searching underwater with a torch",
+        "The definition of a futile act."
+      ]
+    },
+    "Negative_Prompt": "the torch working underwater, the drunkard understanding, text artifacts.",
+    "Hyperparameters": {
+      "variant": "pro",
+      "steps": 50,
+      "cfg_scale": 8,
+      "seed": "Explore variations for the sputtering torch."
+    }
+  }
+}

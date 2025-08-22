@@ -1,0 +1,34 @@
+{
+  "Kural_Info": {
+    "Number": 1002,
+    "Chapter": "நன்றியில்செல்வம் (Wealth without Benefaction)",
+    "Tamil_Text": "பொருளானாம் எல்லாமென்று ஈயாது இவறும்மருளானாம் மாணாப் பிறப்பு.",
+    "English_Meaning": "Who giving nought, opines from wealth all blessing springs, Degraded birth that doting miser's folly brings."
+  },
+  "Flux_Optimized_Prompt": {
+    "Layered_Composition": {
+      "Foreground": "A wealthy miser is shown fanatically worshipping a giant, glowing golden coin, believing it to be the source of all power ('Porulaanaam Ellam'). They are turning their back on a needy person who is asking for alms.",
+      "Midground": "The miser's shadow, however, is not human. It transforms into a grotesque, demonic form ('Maanaap Pirappu'), symbolizing the degraded state their soul is heading towards.",
+      "Background": "A surreal, hellish landscape begins to encroach upon the miser's opulent surroundings, representing the future birth their delusion ('Marul') is creating for them."
+    },
+    "Art_Direction": {
+      "Subject_and_Action": "The delusion of a miser who believes wealth is everything and refuses to give, an act which leads to a degraded future existence.",
+      "Symbolic_Motifs": "The monstrous shadow is the key visual metaphor for the 'degraded birth'. The act of worshipping the coin while ignoring the needy person encapsulates the miser's folly.",
+      "Mood_and_Emotion": "Delusional, greedy, cautionary, with a touch of horror.",
+      "Lighting_and_Color": "An unnatural, hypnotic golden glow from the coin illuminates the miser's face with greed. The shadow is deep black, and the encroaching background is filled with fiery reds and dark, volcanic tones."
+    },
+    "Technical_Cues": {
+      "Camera": "Dramatic low-angle shot, making the coin seem monolithic and the miser's obsession more intense.",
+      "Resolution": "8K, fantasy realism, with a focus on the monstrous shadow and the surreal background.",
+      "Lighting": "High-contrast lighting from the glowing coin, creating a long, demonic shadow.",
+      "Art_Genre": "Dark fantasy art, with strong moral and symbolic undertones."
+    },
+    "Cultural_Anchors": [
+      "மருள் (Delusion/Folly)",
+      "ஈயாமை (Not giving)",
+      "மாணாப் பிறப்பு (Degraded Birth)",
+      "The karmic consequences of greed"
+    ]
+  },
+  "Negative_Prompt": "generous protagonist, normal human shadow, heavenly background, text artifacts, cartoonish, blurry."
+}

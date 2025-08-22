@@ -1,0 +1,39 @@
+{
+  "Kural_Info": {
+    "Number": 778,
+    "Chapter": "படைச்செருக்கு (Military Spirit)",
+    "Tamil_Text": "உறின்உயிர் அஞ்சா மறவர் இறைவன் செறினும் சீர்குன்றல் இலர்.",
+    "English_Meaning": "The heroes who are not afraid of losing their life in a contest will not cool their ardour, even if the king prohibits (their fighting)."
+  },
+  "Flux_Optimized_Prompt": {
+    "Layered_Composition": {
+      "Foreground": "A group of fierce, battle-ready warriors ('மறவர்') are straining to charge into a fight. A fire of courage burns within their chests, and they show no fear of death ('உயிர் அஞ்சா').",
+      "Midground": "Their own king ('இறைவன்'), perhaps for strategic reasons, is standing before them with his hand raised, ordering them to stop ('செறினும்').",
+      "Background": "Despite the king's direct order, the fire of valor within the warriors does not diminish in the slightest. Their glory and eagerness for battle ('சீர்') remain at their peak, showing their inherent nature cannot be quelled ('குன்றல் இலர்')."
+    },
+    "Art_Direction": {
+      "Subject_and_Action": "True warriors, who do not fear death in battle, will not lose their glorious fighting spirit even when their own king tries to restrain them.",
+      "Symbolic_Motifs": "The un-diminishing inner fire of valor is the key visual. The contrast between the king's restraining order and the warriors' unquenchable spirit is the central conflict.",
+      "Mood_and_Emotion": "Unquenchable, insubordinate in spirit, gloriously defiant, inherently martial.",
+      "Lighting_and_Color": "A fiery, intense red and orange light emanates from the warriors' chests. The king is in a more neutral, authoritative light. The scene is full of tense, restrained energy.",
+      "Technical_Cues": {
+        "Camera": "A dramatic shot that captures the tension between the restraining king and the eager warriors.",
+        "Resolution": "8K, with a focus on the warriors' fierce expressions and the glowing fire within them.",
+        "Lighting": "High-contrast lighting to emphasize the conflict.",
+        "Art_Genre": "Epic historical fantasy."
+      },
+      "Cultural_Anchors": [
+        "Warriors who fear not death ('உயிர் அஞ்சா மறவர்')",
+        "Even if the king restrains them ('இறைவன் செறினும்')",
+        "Their glory will not diminish ('சீர் குன்றல் இலர்')"
+      ]
+    },
+    "Negative_Prompt": "warriors obeying and calming down, a weak fire, text artifacts.",
+    "Hyperparameters": {
+      "variant": "pro",
+      "steps": 50,
+      "cfg_scale": 9,
+      "seed": "Explore variations for the inner fire effect."
+    }
+  }
+}

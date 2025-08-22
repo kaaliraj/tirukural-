@@ -1,0 +1,39 @@
+{
+  "Kural_Info": {
+    "Number": 496,
+    "Chapter": "இடனறிதல் (Knowing the Place)",
+    "Tamil_Text": "கடலோடா கால்வல் நெடுந்தேர் கடலோடும் நாவாயும் ஓடா நிலத்து.",
+    "English_Meaning": "Wide chariots, with mighty wheels, will not run on the ocean; neither will ships that the traverse ocean, move on the earth."
+  },
+  "Flux_Optimized_Prompt": {
+    "Layered_Composition": {
+      "Foreground": "A dramatic and surreal scene of impossibility. On the left, a magnificent, powerful war chariot ('நெடுந்தேர்') is sinking helplessly into the ocean waves ('கடல் ஓடா').",
+      "Midground": "On the right, a great, sea-faring ship ('நாவாய்') is beached and stuck, completely immobile on dry land ('ஓடா நிலத்து').",
+      "Background": "A coastline where the land and sea meet, providing the setting for this illustration of mismatched environments."
+    },
+    "Art_Direction": {
+      "Subject_and_Action": "Everything has its proper place to function. A chariot is useless at sea, and a ship is useless on land. One must operate in the correct environment to be effective.",
+      "Symbolic_Motifs": "The two powerful machines, rendered completely useless by being in the wrong environment, are the central, unforgettable images.",
+      "Mood_and_Emotion": "Futile, mismatched, illogical, a lesson in context.",
+      "Lighting_and_Color": "Bright, clear daylight to emphasize that this is not a matter of mystery, but a simple, observable fact. The colors are realistic and natural.",
+      "Technical_Cues": {
+        "Camera": "A wide, panoramic shot that captures both the sinking chariot and the beached ship in a single, surreal frame.",
+        "Resolution": "8K, hyper-realistic, with detailed textures and water effects.",
+        "Lighting": "Clear, direct sunlight.",
+        "Art_Genre": "Surrealism, conceptual realism."
+      }
+    },
+    "Cultural_Anchors": [
+      "The Chariot and Ship Analogy",
+      "Chariot does not run on sea ('கடல் ஓடா தேர்')",
+      "Ship does not run on land ('நிலத்து ஓடா நாவாய்')"
+    ]
+  },
+  "Negative_Prompt": "chariot floating, ship driving on land, text artifacts, blurry, dark scene.",
+  "Hyperparameters": {
+    "variant": "pro",
+    "steps": 45,
+    "cfg_scale": 7,
+    "seed": "Explore variations for the design of the ancient chariot and ship."
+  }
+}

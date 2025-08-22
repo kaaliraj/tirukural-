@@ -1,0 +1,38 @@
+{
+  "Kural_Info": {
+    "Number": 162,
+    "Chapter": "అழுக்காறாமை (Not Envying)",
+    "Tamil_Text": "விழுப்பேற்றின் అஃதொப்பது இல்லையார் மாட்டும்అழுக்காற்றின் అன்மை பெறின்.",
+    "English_Meaning": "Amongst all attainable excellences there is none equal to that of being free from envy towords others."
+  },
+  "Flux_Optimized_Prompt": {
+    "Layered_Composition": {
+      "Foreground": "A person stands on the summit of a great mountain, having achieved a state of being completely free from envy ('అழுக்காற்றின் అன்மை'). This state is visualized as a brilliant, flawless diamond radiating pure light from their heart.",
+      "Midground": "On all the lesser peaks below them, all other possible excellences and fortunes ('விழுப்பேற்றின்') are displayed as lesser treasures—a king's crown, a sage's scrolls, a hero's sword.",
+      "Background": "It is clear from the composition that the state of non-envy is the highest peak and the most brilliant treasure. There is 'nothing equal to it' ('అஃதொப்பது இல்லை')."
+    },
+    "Art_Direction": {
+      "Subject_and_Action": "Among all the great fortunes and virtues one can attain, the state of being completely free from envy towards anyone is the single, unparalleled, and supreme excellence.",
+      "Symbolic_Motifs": "The hierarchy of the mountain peaks is the central metaphor. The non-envious state as a flawless, radiant diamond symbolizes its supreme purity and value. All other achievements are literally beneath it.",
+      "Mood_and_Emotion": "Supreme, unparalleled, pure, triumphant, serene.",
+      "Lighting_and_Color": "The brilliant, pure white light from the diamond of non-envy is the primary light source, casting its supreme glow over all the lesser treasures on the peaks below. The palette is one of supreme, clear, divine light.",
+      "Technical_Cues": {
+        "Camera": "An epic, high-angle shot that looks down slightly, confirming the supreme elevation of the non-envious person over all other worldly achievements.",
+        "Resolution": "8K, hyper-realistic, with a majestic mountain vista and a dazzling, crystalline effect for the diamond.",
+        "Lighting": "The diamond heart is the radiant, central light source.",
+        "Art_Genre": "Epic fantasy landscape, symbolic art."
+      },
+      "Cultural_Anchors": [
+        "Being free from envy (అழுக்காற்றின் అன்மை)",
+        "Among fortunes, there is nothing equal (விழுப்பேற்றின் అஃதொப்பது இல்லை)"
+      ]
+    },
+    "Negative_Prompt": "envious person at the top, dull diamond, text artifacts.",
+    "Hyperparameters": {
+      "variant": "pro",
+      "steps": 55,
+      "cfg_scale": 8,
+      "seed": "Explore the visual of the 'diamond of non-envy'."
+    }
+  }
+}

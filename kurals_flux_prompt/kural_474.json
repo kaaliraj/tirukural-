@@ -1,0 +1,39 @@
+{
+  "Kural_Info": {
+    "Number": 474,
+    "Chapter": "வலியறிதல் (The Knowledge of Power)",
+    "Tamil_Text": "அமைந்தாங் கொழுகான் அளவறியான் தன்னை வியந்தான் விரைந்து கெடும்.",
+    "English_Meaning": "He will quickly perish who, ignorant of his own resources flatters himself of his greatness, and does not live in peace with his neighbours."
+  },
+  "Flux_Optimized_Prompt": {
+    "Layered_Composition": {
+      "Foreground": "A vain king stands on a tiny, fragile island, admiring his own reflection in the water ('தன்னை வியந்தான்'). He is completely ignorant of the small size of his island ('அளவறியான்').",
+      "Midground": "He is shown antagonizing his neighbors on nearby, larger, and more powerful islands, shouting and making aggressive gestures, refusing to live in harmony ('அமைந்தாங் கொழுகான்').",
+      "Background": "In response to his aggression, the neighboring islands are beginning to generate a massive tidal wave that is about to completely engulf and destroy his small island, signifying his swift ruin ('விரைந்து கெடும்')."
+    },
+    "Art_Direction": {
+      "Subject_and_Action": "One who is ignorant of their own limits, full of self-admiration, and fails to live in harmony with their peers will bring about their own swift destruction.",
+      "Symbolic_Motifs": "The tiny, fragile island represents his limited power. His admiring reflection symbolizes his vanity. The massive tidal wave represents the overwhelming consequence of his foolish actions.",
+      "Mood_and_Emotion": "Arrogant, foolish, self-destructive, inevitable doom.",
+      "Lighting_and_Color": "Bright, narcissistic light on the king himself, contrasting with the dark, ominous colors of the approaching tidal wave. The colors of his island are artificially bright, while the neighbors' are more solid and powerful."
+    },
+    "Technical_Cues": {
+      "Camera": "A high-angle, wide shot to show the scale of his foolishness—the small island, the large neighbors, and the enormous wave.",
+      "Resolution": "8K, cinematic, with impressive water and wave simulation effects.",
+      "Lighting": "Dramatic lighting that builds tension as the wave approaches.",
+      "Art_Genre": "Epic fantasy art, cautionary tale illustration."
+    },
+    "Cultural_Anchors": [
+      "Ignorance of one's limits ('அளவறியான்')",
+      "Self-admiration ('தன்னை வியந்தான்')",
+      "Swift Ruin ('விரைந்து கெடும்')"
+    ]
+  },
+  "Negative_Prompt": "king on a large island, friendly neighbors, calm sea, text artifacts, cartoonish.",
+  "Hyperparameters": {
+    "variant": "pro",
+    "steps": 50,
+    "cfg_scale": 8,
+    "seed": "Explore variations for the approaching tidal wave."
+  }
+}

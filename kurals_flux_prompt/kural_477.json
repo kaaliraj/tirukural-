@@ -1,0 +1,39 @@
+{
+  "Kural_Info": {
+    "Number": 477,
+    "Chapter": "வலியறிதல் (The Knowledge of Power)",
+    "Tamil_Text": "ஆற்றின் அளவறிந்து ஈக அதுபொருள் போற்றி வழங்கு நெறி.",
+    "English_Meaning": "Let a man know the measure of his ability (to give), and let him give accordingly; such giving is the way to preserve his property."
+  },
+  "Flux_Optimized_Prompt": {
+    "Layered_Composition": {
+      "Foreground": "A wise and benevolent person is shown giving charity. They are ladling water from a large, full well that represents their wealth.",
+      "Midground": "Crucially, they are using a ladle with clear measurement marks on it ('அளவறிந்து'), giving out a sustainable amount. This act of measured giving ('ஆற்றின் அளவறிந்து ஈக') ensures that the well remains full and does not run dry.",
+      "Background": "A long, happy line of recipients are being helped, and the giver's own house and lands remain prosperous, showing that their wealth is being preserved ('பொருள் போற்றி வழங்கு நெறி') through their wisdom."
+    },
+    "Art_Direction": {
+      "Subject_and_Action": "The proper way to give charity is to know one's own limits and give accordingly. This prudence is the very method that preserves one's wealth.",
+      "Symbolic_Motifs": "The well represents wealth. The measured ladle is the key symbol for giving according to one's means. The fact that the well remains full is the visual proof of this wise principle.",
+      "Mood_and_Emotion": "Wise, sustainable, benevolent, prudent, prosperous.",
+      "Lighting_and_Color": "A bright, positive, and warm light illuminates the scene. The water in the well is clear and abundant. The colors are rich and suggest prosperity and well-being."
+    },
+    "Technical_Cues": {
+      "Camera": "A wide shot that shows the giver, the well, the measured giving, and the positive outcome for both the recipients and the giver.",
+      "Resolution": "8K, with the feel of a classical, moral painting.",
+      "Lighting": "Clear, daytime lighting that symbolizes transparency and wisdom.",
+      "Art_Genre": "Idealized realism, allegorical art."
+    },
+    "Cultural_Anchors": [
+      "Giving according to one's means ('அளவறிந்து ஈக')",
+      "The way to preserve wealth ('பொருள் போற்றி வழங்கு நெறி')",
+      "Sustainable charity."
+    ]
+  },
+  "Negative_Prompt": "giver emptying the well, broken ladle, unhappy recipients, text artifacts, cartoonish.",
+  "Hyperparameters": {
+    "variant": "pro",
+    "steps": 45,
+    "cfg_scale": 7,
+    "seed": "Explore variations for the design of the well and ladle."
+  }
+}

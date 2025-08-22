@@ -1,0 +1,39 @@
+{
+  "Kural_Info": {
+    "Number": 899,
+    "Chapter": "பெரியாரைப் பிழையாமை (Not Offending the Great)",
+    "Tamil_Text": "ஏந்திய கொள்கையார் சீறின் இடைமுரிந்து வேந்தனும் வேந்து கெடும்.",
+    "English_Meaning": "If those of exalted vows burst in a rage, even (Indra) the king will suffer a sudden loss and be entirely ruined."
+  },
+  "Flux_Optimized_Prompt": {
+    "Layered_Composition": {
+      "Foreground": "A group of ascetics of high principles ('ஏந்திய கொள்கையார்') are shown in a state of righteous anger. Their wrath ('சீறின்') is visualized as a pure, white-hot, atomic-level energy bursting from them.",
+      "Midground": "This wave of pure, righteous energy strikes the throne of a great king ('வேந்தன்'). Even if this king is Indra, the king of the gods.",
+      "Background": "The king's magnificent, seemingly indestructible crown and sceptre are shown shattering in the middle ('இடைமுரிந்து'). His divine kingship itself is utterly destroyed ('வேந்து கெடும்') by the sheer power of the ascetics' righteous anger."
+    },
+    "Art_Direction": {
+      "Subject_and_Action": "If those of high principles become enraged, their righteous anger has the power to destroy even the greatest of kings and his very kingship.",
+      "Symbolic_Motifs": "The righteous anger as a pure, white-hot, destructive energy is the key visual. The king's symbols of power (crown, sceptre) breaking in the middle shows a fundamental and irreversible destruction.",
+      "Mood_and_Emotion": "Overwhelming power, righteous wrath, cataclysmic.",
+      "Lighting_and_Color": "An intensely brilliant, pure white light from the ascetics' rage is the sole source of illumination, bleaching out all other colors and causing the destruction.",
+      "Technical_Cues": {
+        "Camera": "A shot that shows the wave of energy from the ascetics and its devastating impact on the symbols of royalty.",
+        "Resolution": "8K, with intense, high-energy particle and destruction effects.",
+        "Lighting": "Blindingly bright, high-key lighting.",
+        "Art_Genre": "Cosmic, mythological art."
+      },
+      "Cultural_Anchors": [
+        "Those of High Principles ('ஏந்திய கொள்கையார்')",
+        "If they become enraged ('சீறின்')",
+        "Even the king and his kingship will be destroyed."
+      ]
+    },
+    "Negative_Prompt": "calm ascetics, a safe king, text artifacts, cartoonish.",
+    "Hyperparameters": {
+      "variant": "pro",
+      "steps": 50,
+      "cfg_scale": 9,
+      "seed": "Explore variations for the white-hot energy."
+    }
+  }
+}

@@ -1,0 +1,38 @@
+{
+  "Kural_Info": {
+    "Number": 269,
+    "Chapter": "தவம் (Penance)",
+    "Tamil_Text": "கூற்றம் குதித்தலும் கைகூடும் நோற்றலின்ஆற்றல் தலைப்பட் டவர்க்குல்.",
+    "English_Meaning": "Those who have attained the power which religious discipline confers, will be able also to pass the limit of Yama, (the God of death)."
+  },
+  "Flux_Optimized_Prompt": {
+    "Layered_Composition": {
+      "Foreground": "An ascetic who has gained the ultimate power from their penance ('நோற்றலின் ஆற்றல் தலைப்பட்டவர்') stands before a great chasm.",
+      "Midground": "On the other side of the chasm stands the God of Death, Yama ('கூற்றம்'). He has drawn a final, absolute line in the ground, representing the boundary of mortal life.",
+      "Background": "The ascetic, empowered by their penance, is shown effortlessly and gracefully leaping over this line ('குதித்தலும் கைகூடும்'), transcending the power of death itself. Yama is shown looking on in shock and awe, his authority completely bypassed."
+    },
+    "Art_Direction": {
+      "Subject_and_Action": "Those who have attained the supreme power that comes from penance can achieve the ultimate feat: they can even overcome Death.",
+      "Symbolic_Motifs": "The 'leaping over the line of Death' is a direct, powerful metaphor for conquering mortality. Yama's power is shown to be absolute for ordinary mortals, but the power of penance is a higher law that can supersede it.",
+      "Mood_and_Emotion": "Transcendent, omnipotent, immortal, triumphant.",
+      "Lighting_and_Color": "The realm of Death is dark and shadowy. The ascetic is a being of pure, brilliant, white-hot light, the product of their inner fire of penance. Their leap is a streak of this life-light, easily clearing the darkness.",
+      "Technical_Cues": {
+        "Camera": "A dynamic shot that captures the ascetic's powerful, graceful leap over the boundary of death, with the astonished face of Yama in the frame.",
+        "Resolution": "8K, ultra-realistic, with epic energy effects for the ascetic and a majestic, fearsome design for Yama.",
+        "Lighting": "The ascetic's own power is a brilliant light source that pushes back the darkness of death.",
+        "Art_Genre": "Epic mythological battle, high fantasy."
+      },
+      "Cultural_Anchors": [
+        "For those who have attained the power of penance (நோற்றலின் ஆற்றல் தலைப்பட்டவர்க்கு)",
+        "Even leaping over Death is possible (கூற்றம் குதித்தலும் கைகூடும்)"
+      ]
+    },
+    "Negative_Prompt": "ascetic dying, Yama winning, text artifacts, weak leap.",
+    "Hyperparameters": {
+      "variant": "pro",
+      "steps": 60,
+      "cfg_scale": 10,
+      "seed": "Explore the design of Yama, the God of Death."
+    }
+  }
+}

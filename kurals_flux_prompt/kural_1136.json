@@ -1,0 +1,38 @@
+{
+  "Kural_Info": {
+    "Number": 1136,
+    "Chapter": "நாணுத்துறவுரைத்தல் (The Abandonment of Reserve)",
+    "Tamil_Text": "மடலூர்தல் யாமத்தும் உள்ளுவேன் மன்றபடல்ஒல்லா பேதைக்கென் கண்.",
+    "English_Meaning": "Mine eyes will not close in sleep on your mistress's account; even at midnight will I think of mounting the palmyra horse."
+  },
+  "Flux_Optimized_Prompt": {
+    "Layered_Composition": {
+      "Foreground": "A lover lies awake in his bed in the dead of night ('யாமத்தும்'). His eyes are wide open, refusing to sleep ('படல் ஒல்லா').",
+      "Midground": "The reason for his sleeplessness is clear: his eyes are fixated on a haunting, ethereal image of his beloved ('பேதைக்கு என் கண்'), which is projected on the wall or ceiling of his room.",
+      "Background": "Because of this sleepless torment, his mind is actively and resolutely contemplating the act of mounting the Madal ('மடலூர்தல் உள்ளுவேன்'). A spectral image of the Madal horse is forming in the dark corners of the room, born from his desperate thoughts."
+    },
+    "Art_Direction": {
+      "Subject_and_Action": "The lover's eyes, fixated on the memory of his beloved, refuse to let him sleep, forcing his mind to contemplate the desperate act of riding the Madal even in the middle of the night.",
+      "Symbolic_Motifs": "The eyes are personified as the direct cause of the sleeplessness, held captive by the memory of the maiden. The Madal is not just a thought, but is beginning to take a ghostly form in the room, showing the growing reality of his resolve.",
+      "Mood_and_Emotion": "Sleepless, tormented, resolute, obsessive.",
+      "Lighting_and_Color": "A dark, lonely, midnight blue illuminates the room. The only light sources are the ethereal, haunting image of the beloved and the grim, spectral form of the Madal taking shape.",
+      "Technical_Cues": {
+        "Camera": "A shot from above, looking down on the tormented, sleepless lover in his bed, capturing his wide-eyed stare and the visions that haunt his room.",
+        "Resolution": "8K, ultra-realistic, with ethereal projection effects for the memory and ghostly effects for the Madal.",
+        "Lighting": "Low-key, atmospheric moonlight.",
+        "Art_Genre": "Gothic romance, psychological art."
+      },
+      "Cultural_Anchors": [
+        "Thinking of riding the Madal even at midnight (மடலூர்தல் யாமத்தும் உள்ளுவேன்)",
+        "My eyes won't sleep for the maiden (படல் ஒல்லா பேதைக்கு என் கண்)"
+      ]
+    },
+    "Negative_Prompt": "sleeping peacefully, happy lover, text artifacts.",
+    "Hyperparameters": {
+      "variant": "pro",
+      "steps": 50,
+      "cfg_scale": 8,
+      "seed": "Explore the haunting quality of the projected image of the beloved."
+    }
+  }
+}

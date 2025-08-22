@@ -1,0 +1,39 @@
+{
+  "Kural_Info": {
+    "Number": 483,
+    "Chapter": "காலமறிதல் (Knowing the fitting Time)",
+    "Tamil_Text": "அருவினை யென்ப உளவோ கருவியான் காலம் அறிந்து செயின்.",
+    "English_Meaning": "Is there anything difficult for him to do, who acts, with (the right) instruments at the right time ?."
+  },
+  "Flux_Optimized_Prompt": {
+    "Layered_Composition": {
+      "Foreground": "A skilled artisan stands before a massive, uncut block of diamond, representing a seemingly impossible task ('அருவினை').",
+      "Midground": "The artisan is not overwhelmed. They are shown holding the perfect tool for the job (the right instrument - 'கருவி') and are striking the diamond at a specific, glowing point that appears only for a fleeting moment (the right time - 'காலம் அறிந்து').",
+      "Background": "With a single, precise strike, the massive diamond splits perfectly along its cleavage plane, revealing a flawless gem within. The impossible task is accomplished with ease."
+    },
+    "Art_Direction": {
+      "Subject_and_Action": "There is no such thing as a difficult or impossible task if one acts with the right tools at the right time.",
+      "Symbolic_Motifs": "The massive diamond is the 'impossible task'. The perfect tool and the glowing, fleeting point in time represent the two key conditions for success. The easy, perfect split is the result.",
+      "Mood_and_Emotion": "Effortless, precise, wise, competent, masterful.",
+      "Lighting_and_Color": "The scene is dramatically lit, focusing on the artisan, the tool, and the glowing point on the diamond. A brilliant flash of light occurs at the moment of the successful strike.",
+      "Technical_Cues": {
+        "Camera": "A macro close-up, slow-motion shot of the tool hitting the glowing point and the resulting perfect fracture of the diamond.",
+        "Resolution": "8K, cinematic, with high detail and realistic physics for the diamond splitting.",
+        "Lighting": "High-contrast, dramatic lighting.",
+        "Art_Genre": "Conceptual realism, with a touch of magic for the glowing point."
+      }
+    },
+    "Cultural_Anchors": [
+      "No Impossible Task ('அருவினை உளவோ')",
+      "The Right Tool ('கருவி')",
+      "The Right Time ('காலம் அறிந்து')"
+    ]
+  },
+  "Negative_Prompt": "artisan struggling, broken tool, diamond shattering, text artifacts, blurry.",
+  "Hyperparameters": {
+    "variant": "dev",
+    "steps": 45,
+    "cfg_scale": 9,
+    "seed": "Explore variations for the glowing point of opportunity."
+  }
+}

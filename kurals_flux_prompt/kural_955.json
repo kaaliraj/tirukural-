@@ -1,0 +1,39 @@
+{
+  "Kural_Info": {
+    "Number": 955,
+    "Chapter": "குடிமை (Nobility)",
+    "Tamil_Text": "வழங்குவ துள்வீழ்ந்தக் கண்ணும் பழங்குடி பண்பில் தலைப்பிரிதல் இன்று.",
+    "English_Meaning": "Though their means fall off, those born in ancient families, will not lose their character (for liberality)."
+  },
+  "Flux_Optimized_Prompt": {
+    "Layered_Composition": {
+      "Foreground": "A person from an ancient, noble family ('பழங்குடி') is shown to have fallen into poverty. Their once-great house is now simple, and their coffers are empty ('வழங்குவது உள்வீழ்ந்த').",
+      "Midground": "A person in need comes to their door. Despite their own poverty, the noble person does not turn them away. They are shown sharing the last piece of bread they have, their inherent nature of generosity remaining unchanged.",
+      "Background": "The noble person's character ('பண்பு') is shown as an un-diminishing, eternal flame within their heart. Even though their wealth is gone, this essential flame of their noble nature does not flicker or fade ('தலைப்பிரிதல் இன்று')."
+    },
+    "Art_Direction": {
+      "Subject_and_Action": "Even when they fall into poverty, those of ancient noble birth will not abandon their inherent noble character, especially their generosity.",
+      "Symbolic_Motifs": "The eternal flame of character within the heart is the key visual. This shows that their nobility is an internal quality, not dependent on external wealth.",
+      "Mood_and_Emotion": "Inherent nobility, unwavering character, generous even in poverty.",
+      "Lighting_and_Color": "The setting is poor and the light is dim, but the noble person's heart glows with a warm, powerful, golden flame that illuminates the scene with its virtue.",
+      "Technical_Cues": {
+        "Camera": "An intimate, emotional shot focusing on the act of sharing the last piece of bread.",
+        "Resolution": "8K, with a painterly, classical feel.",
+        "Lighting": "The primary light source is the glowing heart, symbolizing their inner nobility.",
+        "Art_Genre": "Classical realism, with a symbolic heart."
+      },
+      "Cultural_Anchors": [
+        "Ancient noble families ('பழங்குடி')",
+        "Even when fallen into poverty",
+        "Their noble character does not depart ('பண்பில் தலைப்பிரிதல் இன்று')"
+      ]
+    },
+    "Negative_Prompt": "a noble person hoarding their last bread, an extinguished flame, text artifacts.",
+    "Hyperparameters": {
+      "variant": "pro",
+      "steps": 50,
+      "cfg_scale": 8,
+      "seed": "Explore variations for the eternal flame."
+    }
+  }
+}

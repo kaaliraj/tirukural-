@@ -1,0 +1,39 @@
+{
+  "Kural_Info": {
+    "Number": 676,
+    "Chapter": "வினைசெயல்வகை (Modes of Action)",
+    "Tamil_Text": "முடிவும் இடையூறும் முற்றியாங்கு எய்தும் படுபயனும் பார்த்துச் செயல்.",
+    "English_Meaning": "An act is to be performed after considering the exertion required, the obstacles to be encountered, and the great profit to be gained (on its completion)."
+  },
+  "Flux_Optimized_Prompt": {
+    "Layered_Composition": {
+      "Foreground": "A wise person stands before a mystical, three-sided crystal. Each facet of the crystal shows a different aspect of a potential undertaking.",
+      "Midground": "The first facet shows a clear vision of the successful completion of the task ('முடிவு'). The second facet shows all the potential obstacles and hindrances as thorny barriers ('இடையூறு'). The third facet shows the great profit and benefit that will result from success ('படுபயன்').",
+      "Background": "The person is carefully studying all three facets, weighing the obstacles against the final profit, before deciding to act ('பார்த்துச் செயல்')."
+    },
+    "Art_Direction": {
+      "Subject_and_Action": "One should act only after considering three things: the successful outcome, the obstacles on the way, and the final profit to be gained.",
+      "Symbolic_Motifs": "The three-sided crystal of foresight is the central metaphor. Each facet provides a necessary piece of information for making a wise decision.",
+      "Mood_and_Emotion": "Analytical, far-sighted, prudent, calculating.",
+      "Lighting_and_Color": "The crystal glows with a magical, predictive light. Each facet has a color that matches its content: hopeful gold for the profit, challenging red for the obstacles, and serene blue for the successful end.",
+      "Technical_Cues": {
+        "Camera": "A close-up on the person's face, showing their discerning expression as they look into the crystal.",
+        "Resolution": "8K, with beautiful, intricate visions within the crystal facets.",
+        "Lighting": "The glowing crystal is the main source of light.",
+        "Art_Genre": "Fantasy art, with a focus on magical artifacts."
+      }
+    },
+    "Cultural_Anchors": [
+      "Considering the End ('முடிவு')",
+      "Considering the Obstacles ('இடையூறு')",
+      "Considering the Profit ('படுபயன்')"
+    ]
+  },
+  "Negative_Prompt": "person ignoring the crystal, blurry visions, text artifacts.",
+  "Hyperparameters": {
+    "variant": "dev",
+    "steps": 45,
+    "cfg_scale": 8,
+    "seed": "Explore variations for the visions inside the crystal."
+  }
+}

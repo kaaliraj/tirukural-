@@ -1,0 +1,38 @@
+{
+  "Kural_Info": {
+    "Number": 147,
+    "Chapter": "பிறனில் விழையாமை (Not coveting another's Wife)",
+    "Tamil_Text": "அறனியலான் இல்வாழ்வான் என்பான் பிறனியலாள்பெண்மை நயவா தவன்.",
+    "English_Meaning": "He who desires not the womanhood of her who should walk according to the will of another will be praised as a virtuous house-holder."
+  },
+  "Flux_Optimized_Prompt": {
+    "Layered_Composition": {
+      "Foreground": "A man is shown in his home environment. Before him is an opportunity for an illicit affair with another's wife ('பிறன் இயலாள் பெண்மை').",
+      "Midground": "He is shown actively and decisively turning his back on this temptation ('நயவாதவன்').",
+      "Background": "Because of this act of virtuous refusal, his own domestic life ('இல்வாழ்வான்') is shown to be blessed and founded on virtue. A divine light shines upon his home, and a celestial voice or inscription appears, declaring him a 'virtuous householder' ('அறன் இயலான்')."
+    },
+    "Art_Direction": {
+      "Subject_and_Action": "The defining characteristic of a virtuous householder is that he does not desire the wife of another man.",
+      "Symbolic_Motifs": "The act of turning away from temptation is the key. His virtue is not passive, but an active choice. The divine blessing on his home is a direct consequence of this choice, showing that domestic virtue is built upon this specific act of self-control.",
+      "Mood_and_Emotion": "Virtuous, disciplined, honorable, blessed.",
+      "Lighting_and_Color": "A pure, virtuous, golden light illuminates the man and his home at the moment he makes the right choice. The temptation is associated with a fleeting, deceptive shadow.",
+      "Technical_Cues": {
+        "Camera": "A shot that captures the moment of refusal and the immediate, divine validation of his status as a virtuous householder.",
+        "Resolution": "8K, ultra-realistic, focusing on his determined and virtuous expression.",
+        "Lighting": "A divine, blessing light that affirms his choice.",
+        "Art_Genre": "Symbolic realism, with divine elements."
+      },
+      "Cultural_Anchors": [
+        "A virtuous householder (அறன் இயலான் இல்வாழ்வான்)",
+        "He who does not desire the womanhood of another's wife (பிறன் இயலாள் பெண்மை நயவாதவன்)"
+      ]
+    },
+    "Negative_Prompt": "man giving in to temptation, cursed home, text artifacts.",
+    "Hyperparameters": {
+      "variant": "dev",
+      "steps": 45,
+      "cfg_scale": 8,
+      "seed": "Explore the visual of the 'divine blessing' on his home."
+    }
+  }
+}

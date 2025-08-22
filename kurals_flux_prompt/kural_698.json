@@ -1,0 +1,39 @@
+{
+  "Kural_Info": {
+    "Number": 698,
+    "Chapter": "மன்னரைச் சேர்ந்தொழுதல் (Conduct in the Presence of the King)",
+    "Tamil_Text": "இளையர் இனமுறையர் என்றிகழார் நின்ற ஒளியோடு ஒழுகப் படும்.",
+    "English_Meaning": "Say not, 'He's young, my kinsman,' despising thus your king; But reverence the glory kingly state doth bring."
+  },
+  "Flux_Optimized_Prompt": {
+    "Layered_Composition": {
+      "Foreground": "A courtier is shown bowing respectfully before a very young king who is also their relative.",
+      "Midground": "The courtier is consciously ignoring the king's age ('இளையர்') and kinship ('இனமுறையர்'). Instead, their reverence is directed towards the powerful, divine light of office ('ஒளி') that surrounds the king and the throne, representing the glory of the position itself.",
+      "Background": "The throne room is depicted as a place of immense power and majesty, reinforcing the idea that the office, not the person, is the primary object of respect."
+    },
+    "Art_Direction": {
+      "Subject_and_Action": "One must not despise a ruler for being young or a relative, but must instead act with reverence for the inherent glory of the office they hold.",
+      "Symbolic_Motifs": "The divine 'light of office' is the key symbol. The courtier is shown bowing to this light, not just to the young man sitting on the throne.",
+      "Mood_and_Emotion": "Reverent, respectful, principled, understanding of hierarchy.",
+      "Lighting_and_Color": "A brilliant, golden, divine light emanates from the throne and the symbols of kingship, overshadowing the physical appearance of the young king.",
+      "Technical_Cues": {
+        "Camera": "A shot from the courtier's perspective, looking up at the throne, which is dominated by the light of office.",
+        "Resolution": "8K, with a powerful, majestic feel.",
+        "Lighting": "Volumetric, divine lighting.",
+        "Art_Genre": "Epic historical painting."
+      }
+    },
+    "Cultural_Anchors": [
+      "Not despising for youth or kinship ('இளையர் இனமுறையர் என்று இகழார்')",
+      "Revering the light of the office ('ஒளியோடு ஒழுகப் படும்')",
+      "Respect for the position over the person."
+    ]
+  },
+  "Negative_Prompt": "courtier acting familiar with the king, dim throne, text artifacts.",
+  "Hyperparameters": {
+    "variant": "pro",
+    "steps": 50,
+    "cfg_scale": 8,
+    "seed": "Explore variations for the 'light of office'."
+  }
+}

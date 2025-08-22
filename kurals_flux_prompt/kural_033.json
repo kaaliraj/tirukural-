@@ -1,0 +1,39 @@
+{
+  "Kural_Info": {
+    "Number": 33,
+    "Chapter": "அறன் வலியுறுத்தல் (Assertion of the Strength of Virtue)",
+    "Tamil_Text": "ஒல்லும் வகையான் அறவினை ஓவாதேசெல்லும்வாய் எல்லாஞ் செயல்.",
+    "English_Meaning": "As much as possible, in every way, incessantly practise virtue."
+  },
+  "Flux_Optimized_Prompt": {
+    "Layered_Composition": {
+      "Foreground": "A series of vignettes showing a single person through different stages of life—a child sharing food, a youth helping an elder, an adult planting a tree, an old person offering wise counsel.",
+      "Midground": "These vignettes are arranged along a continuously flowing, radiant river of light, symbolizing the ceaseless ('ஓவாதே') practice of virtue through all circumstances ('எல்லாஞ் செயல்').",
+      "Background": "The river of light flows through diverse landscapes—a bustling city, a quiet village, a dense forest, a barren desert—showing that virtue can and should be practiced everywhere ('செல்லும்வாய்')."
+    },
+    "Art_Direction": {
+      "Subject_and_Action": "The concept of practicing virtue continuously, in every possible way, at every opportunity, and in every place.",
+      "Symbolic_Motifs": "The river is not water, but pure, golden light representing 'Aravinai' (virtuous deeds). It never stops or stagnates. The person's expression in each stage of life is one of serene purpose, not of seeking reward.",
+      "Mood_and_Emotion": "Continuous, steadfast, purposeful, lifelong dedication.",
+      "Lighting_and_Color": "A warm, constant golden light emanates from the river of virtue, illuminating all the scenes along its banks. The palette is rich and varied, reflecting the different stages and locations of life.",
+      "Technical_Cues": {
+        "Camera": "A sweeping panoramic or dolly shot that moves along the river, transitioning smoothly through the different life stages and landscapes.",
+        "Resolution": "8K, ultra-realistic, capturing the details of each life stage and environment.",
+        "Lighting": "The river of light is the primary, motivating light source, creating a consistent, benevolent glow throughout the composition.",
+        "Art_Genre": "Narrative montage painting, symbolic realism."
+      },
+      "Cultural_Anchors": [
+        "Aravinai (அறவினை) - Virtuous Action",
+        "Ovaathey (ஓவாதே) - Ceaselessly/Incessantly",
+        "The imperative to perform good deeds in all possible ways (ஒல்லும் வகையான்)"
+      ]
+    },
+    "Negative_Prompt": "static scene, single act, evil deeds, lazy person, text artifacts, inconsistent lighting, broken river.",
+    "Hyperparameters": {
+      "variant": "pro",
+      "steps": 50,
+      "cfg_scale": 8,
+      "seed": "Explore variations for the transitions between the life stages."
+    }
+  }
+}

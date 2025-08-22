@@ -1,0 +1,39 @@
+{
+  "Kural_Info": {
+    "Number": 756,
+    "Chapter": "பொருள்செயல்வகை (Way of Accumulating Wealth)",
+    "Tamil_Text": "உறுபொருளும் உல்கு பொருளும்தன் ஒன்னார்த் தெறுபொருளும் வேந்தன் பொருள்.",
+    "English_Meaning": "Unclaimed wealth, wealth acquired by taxes, and wealth (got) by conquest of foes are (all) the wealth of the king."
+  },
+  "Flux_Optimized_Prompt": {
+    "Layered_Composition": {
+      "Foreground": "A great king is seated on his throne, and three rivers of wealth are flowing into his royal treasury.",
+      "Midground": "The first river carries ownerless treasures and heirlooms, representing unclaimed wealth ('உறுபொருள்'). The second river carries a steady stream of coins from the people, representing taxes ('உல்கு பொருள்'). The third river carries captured enemy banners and spoils of war, representing wealth from conquest ('தெறுபொருள்').",
+      "Background": "A strong and prosperous kingdom, showing the legitimate and diverse sources of state revenue."
+    },
+    "Art_Direction": {
+      "Subject_and_Action": "The three legitimate sources of a king's wealth are: unclaimed property, taxes, and the spoils of victory over enemies.",
+      "Symbolic_Motifs": "The three distinct rivers of wealth clearly visualize the three different sources of royal revenue. Each river's contents are symbolic of its origin.",
+      "Mood_and_Emotion": "Legitimate, powerful, prosperous, orderly.",
+      "Lighting_and_Color": "A bright, golden light of prosperity. Each river can have a slightly different character but all are golden, flowing into the central treasury.",
+      "Technical_Cues": {
+        "Camera": "A high-angle shot that shows the three rivers converging at the king's treasury.",
+        "Resolution": "8K, with a grand, epic scale.",
+        "Lighting": "Bright, regal lighting.",
+        "Art_Genre": "Epic historical fantasy."
+      },
+      "Cultural_Anchors": [
+        "Unclaimed Wealth ('உறுபொருள்')",
+        "Tax Revenue ('உல்கு பொருள்')",
+        "Spoils of War ('தெறுபொருள்')"
+      ]
+    },
+    "Negative_Prompt": "king stealing from his people, text artifacts, blurry, cartoonish.",
+    "Hyperparameters": {
+      "variant": "pro",
+      "steps": 50,
+      "cfg_scale": 8,
+      "seed": "Explore variations for the contents of the three rivers."
+    }
+  }
+}

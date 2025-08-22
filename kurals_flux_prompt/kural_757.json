@@ -1,0 +1,39 @@
+{
+  "Kural_Info": {
+    "Number": 757,
+    "Chapter": "பொருள்செயல்வகை (Way of Accumulating Wealth)",
+    "Tamil_Text": "அருளென்னும் அன்பீன் குழவி பொருளென்னும் செல்வச் செவிலியால் உண்டு.",
+    "English_Meaning": "The child mercy which is borne by love grows under the care of the rich nurse of wealth."
+  },
+  "Flux_Optimized_Prompt": {
+    "Layered_Composition": {
+      "Foreground": "A beautiful, divine child made of pure light, representing Grace/Mercy ('அருள்'). This child has just been born from a glowing heart, representing its mother, Love ('அன்பு').",
+      "Midground": "The child of Grace is not left alone. It is being tenderly cared for, nurtured, and fed by a wealthy and kind nursemaid, who represents Wealth ('பொருள் என்னும் செல்வச் செவிலி').",
+      "Background": "Because of the care of the wealthy nurse, the child of Grace is shown growing strong and healthy, able to perform its benevolent works in the world."
+    },
+    "Art_Direction": {
+      "Subject_and_Action": "Grace is the child of Love, but it can only grow and thrive when it is nurtured by the 'wealthy nurse' of material resources.",
+      "Symbolic_Motifs": "The personification of Love, Grace, and Wealth is the central concept. Grace as a child, Love as its mother, and Wealth as its nurse creates a beautiful and clear family metaphor.",
+      "Mood_and_Emotion": "Nurturing, benevolent, tender, a beautiful synergy.",
+      "Lighting_and_Color": "A soft, warm, and gentle light illuminates the scene. The child of Grace has a divine, pure white glow. The nurse of Wealth is adorned in rich but gentle colors, and her expression is one of loving care.",
+      "Technical_Cues": {
+        "Camera": "A tender medium shot, focusing on the loving interaction between the 'nurse' of Wealth and the 'child' of Grace.",
+        "Resolution": "8K, with a classical, painterly quality like a Renaissance 'Madonna and Child' painting.",
+        "Lighting": "Soft, beatific lighting.",
+        "Art_Genre": "Classical allegorical painting."
+      },
+      "Cultural_Anchors": [
+        "Grace, the child of Love ('அருள் என்னும் அன்பீன் குழவி')",
+        "Wealth as the nurturing nurse ('பொருள் என்னும் செல்வச் செவிலி')",
+        "The material basis for practicing virtue."
+      ]
+    },
+    "Negative_Prompt": "a starving child of Grace, a cruel nurse of Wealth, text artifacts.",
+    "Hyperparameters": {
+      "variant": "pro",
+      "steps": 50,
+      "cfg_scale": 8,
+      "seed": "Explore variations for the 'child of Grace'."
+    }
+  }
+}

@@ -1,0 +1,39 @@
+{
+  "Kural_Info": {
+    "Number": 761,
+    "Chapter": "படைமாட்சி (The Excellence of an Army)",
+    "Tamil_Text": "உறுப்பமைந்து ஊறஞ்சா வெல்படை வேந்தன்வெறுக்கையுள் எல்லாம் தலை.",
+    "English_Meaning": "The army which is complete in (its) parts and conquers without fear of wounds is the chief wealth of the king."
+  },
+  "Flux_Optimized_Prompt": {
+    "Layered_Composition": {
+      "Foreground": "A formidable ancient Tamil army stands ready for battle. It is visibly 'complete in all its parts' ('உறுப்பு அமைந்து'), with distinct, powerful divisions of chariots, elephants, cavalry, and infantry, all working in perfect harmony.",
+      "Midground": "The soldiers' faces are set with expressions of absolute fearlessness, showing no dread of injury or death ('ஊறு அஞ்சா'). Their collective will is focused on victory ('வெல் படை').",
+      "Background": "Behind the army, the king's treasury is shown, overflowing with gold, gems, and other forms of wealth. However, a divine light shines down from the heavens, singling out the army and crowning it with a laurel of light, declaring it the 'chief of all the king's treasures' ('வெறுக்கையுள் எல்லாம் தலை')."
+    },
+    "Art_Direction": {
+      "Subject_and_Action": "Among all the treasures a king can possess, the greatest and most valuable is a well-composed, fearless, and victorious army.",
+      "Symbolic_Motifs": "The divine light and laurel establish the army's supreme value over the material wealth. The perfect organization of the army's divisions highlights the 'complete in all its parts' aspect. The soldiers' expressions must convey heroic fearlessness, not brutal aggression.",
+      "Mood_and_Emotion": "Formidable, heroic, supreme value, fearless, organized power.",
+      "Lighting_and_Color": "A strong, heroic light illuminates the army, making their armor and weapons gleam. The material treasure in the background is less brilliantly lit. The divine laurel is the brightest element in the scene.",
+      "Technical_Cues": {
+        "Camera": "An epic, low-angle wide shot that captures the grand scale and perfect formation of the entire army, making it look majestic and invaluable.",
+        "Resolution": "8K, hyper-realistic, with intricate detail on the armor, weapons, elephants, and chariots of an ancient Tamil army.",
+        "Lighting": "Heroic, dramatic lighting that emphasizes the power and glory of the army.",
+        "Art_Genre": "Epic historical painting, military art."
+      },
+      "Cultural_Anchors": [
+        "A complete army (உறுப்பு அமைந்த படை)",
+        "Fearless of wounds (ஊறு அஞ்சா)",
+        "The chief of treasures (வெறுக்கையுள் எல்லாம் தலை)"
+      ]
+    },
+    "Negative_Prompt": "disorganized army, fearful soldiers, prominent treasure, text artifacts, cartoonish armor.",
+    "Hyperparameters": {
+      "variant": "pro",
+      "steps": 55,
+      "cfg_scale": 9,
+      "seed": "Explore the detailed composition of the four divisions of the army."
+    }
+  }
+}

@@ -1,0 +1,39 @@
+{
+  "Kural_Info": {
+    "Number": 835,
+    "Chapter": "பேதைமை (Folly)",
+    "Tamil_Text": "ஒருமைச் செயலாற்றும் பேதை எழுமையுந் தான்புக் கழுந்தும் அளறு.",
+    "English_Meaning": "A fool can procure in a single birth a hell into which he may enter and suffer through all the seven births."
+  },
+  "Flux_Optimized_Prompt": {
+    "Layered_Composition": {
+      "Foreground": "A fool ('பேதை') commits a single, foolish, self-serving act in their current life ('ஒருமைச் செயல்').",
+      "Midground": "This single act creates a terrifying, deep, dark pit or hell ('அளறு') beneath their feet.",
+      "Background": "The pit is so deep and inescapable that it is shown to extend down through seven distinct layers of reality, representing the seven future births ('எழுமையும்'). The fool is shown beginning their long, agonizing fall into this self-made hell, destined to suffer through all seven lives because of one foolish act."
+    },
+    "Art_Direction": {
+      "Subject_and_Action": "A single foolish act in this life can create a hell of suffering that will trap the soul for its next seven lives.",
+      "Symbolic_Motifs": "The pit that extends through the seven layers of birth is the key visual. It shows the long-lasting, generational consequence of a single foolish action.",
+      "Mood_and_Emotion": "Fateful, terrifying, eternal consequence, cautionary.",
+      "Lighting_and_Color": "The current life can be neutrally lit, but the pit is a terrifying vortex of darkness, perhaps with hellish red glows from deep within. The seven layers of future lives are dark and full of despair.",
+      "Technical_Cues": {
+        "Camera": "A cross-section view, showing the fool in the present and the deep, multi-layered hell they have just created for their future.",
+        "Resolution": "8K, with an epic, cosmic, and terrifying feel.",
+        "Lighting": "The primary light comes from the terrifying glow of the pit.",
+        "Art_Genre": "Cosmic horror, dark metaphysical art."
+      }
+    },
+    "Cultural_Anchors": [
+      "A single foolish act ('ஒருமைச் செயல்')",
+      "A hell for seven births ('எழுமையும் அழுந்தும் அளறு')",
+      "The long-term karmic consequences of folly."
+    ]
+  },
+  "Negative_Prompt": "a shallow pit, a happy fool, text artifacts, cartoonish.",
+  "Hyperparameters": {
+    "variant": "pro",
+    "steps": 50,
+    "cfg_scale": 9,
+    "seed": "Explore variations for the seven layers of the pit."
+  }
+}

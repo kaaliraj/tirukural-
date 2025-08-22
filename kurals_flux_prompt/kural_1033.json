@@ -1,0 +1,38 @@
+{
+  "Kural_Info": {
+    "Number": 1033,
+    "Chapter": "உழவு (Farming)",
+    "Tamil_Text": "உழுதுண்டு வாழ்வாரே வாழ்வார்மற் றெல்லாம்தொழுதுண்டு பின்செல் பவர்.",
+    "English_Meaning": "They alone live who live by agriculture; all others lead a cringing, dependent life."
+  },
+  "Flux_Optimized_Prompt": {
+    "Layered_Composition": {
+      "Foreground": "A farmer and their family are shown eating a meal they have grown themselves ('உழுதுண்டு'). They are depicted as standing tall, free, and dignified. They are the ones who 'truly live' ('வாழ்வாரே வாழ்வார்').",
+      "Midground": "Behind them, a long line of all other people in society ('மற்றெல்லாம்')—kings, priests, merchants—are shown.",
+      "Background": "These other figures are depicted in a subservient posture, bowing respectfully ('தொழுது') to the farmer, and waiting to receive their food from the farmer's hands. They are followers, not leaders ('பின் செல்பவர்')."
+    },
+    "Art_Direction": {
+      "Subject_and_Action": "A stark declaration of status: only farmers who live off their own tillage are truly living. All other professions are dependent followers who metaphorically worship the farmer to receive their food.",
+      "Symbolic_Motifs": "The posture is key. The farmer stands tall and independent. Everyone else, regardless of their worldly status, is in a posture of dependence and respect towards the farmer. The flow of food is one-way: from the farmer to everyone else.",
+      "Mood_and_Emotion": "Independent, dignified, foundational, superior.",
+      "Lighting_and_Color": "A strong, noble, and independent light shines on the farmer's family. The line of followers is in a slightly dimmer, more supplicant light. The palette emphasizes the farmer's connection to the earth and their fundamental power.",
+      "Technical_Cues": {
+        "Camera": "A shot that places the dignified farmer in the powerful foreground, with the long, bowing line of all other professions stretching out behind them.",
+        "Resolution": "8K, ultra-realistic, with a focus on the contrasting postures of independence and dependence.",
+        "Lighting": "Lighting that emphasizes the status and power dynamic described in the Kural.",
+        "Art_Genre": "Social realism, with a strong hierarchical composition."
+      },
+      "Cultural_Anchors": [
+        "Those who plough and eat, they are the ones who live (உழுதுண்டு வாழ்வாரே வாழ்வார்)",
+        "All others worship, eat, and follow behind (மற்றெல்லாம் தொழுதுண்டு பின் செல்பவர்)"
+      ]
+    },
+    "Negative_Prompt": "farmer bowing to the king, sad farmer, text artifacts.",
+    "Hyperparameters": {
+      "variant": "pro",
+      "steps": 50,
+      "cfg_scale": 8,
+      "seed": "Explore the different postures of the 'followers'."
+    }
+  }
+}

@@ -1,0 +1,39 @@
+{
+  "Kural_Info": {
+    "Number": 349,
+    "Chapter": "துறவு (Renunciation)",
+    "Tamil_Text": "பற்றற்ற கண்ணே பிறப்பறுக்கும் மற்றுநிலையாமை காணப் படும்.",
+    "English_Meaning": "At the moment in which desire has been abandoned, (other) births will be cut off; when that has not been done, instability will be seen."
+  },
+  "Flux_Optimized_Prompt": {
+    "Layered_Composition": {
+      "Foreground": "A person is shown in the very moment of letting go of their final attachment. The attachment is a golden chain ('பற்று') connecting them to the world.",
+      "Midground": "The very instant ('கண்ணே') the chain is broken ('அற்ற'), a great, dark, thorny vine representing the cycle of future births ('பிறப்பு') is shown being severed at its root ('அறுக்கும்'). The link to reincarnation is cut.",
+      "Background": "In contrast, a vision of the alternative is shown: if the chain of attachment is not broken, the world is revealed to be a chaotic, flickering, and unstable illusion ('நிலையாமை காணப்படும்'). True stability is only found at the moment of detachment."
+    },
+    "Art_Direction": {
+      "Subject_and_Action": "The severing of the cycle of birth happens at the very instant of complete detachment. As long as attachment remains, all that can be perceived is instability.",
+      "Symbolic_Motifs": "The chain of attachment and the vine of rebirth are linked; breaking the first instantly severs the second. The contrast between the decisive act of cutting and the blurry, unstable world of attachment is key.",
+      "Mood_and_Emotion": "Decisive, liberating, instantaneous, stable vs. unstable.",
+      "Lighting_and_Color": "The act of breaking the chain releases a brilliant flash of pure, white light, which is the light that severs the vine of rebirth. The world of attachment is a flickering, unstable, grey illusion.",
+      "Technical_Cues": {
+        "Camera": "A high-speed, slow-motion shot that captures the exact instant the chain breaks and the vine of rebirth is severed.",
+        "Resolution": "8K, ultra-realistic, with powerful particle effects for the shattering chain.",
+        "Lighting": "An explosive flash of liberating light.",
+        "Art_Genre": "High-speed symbolic fantasy."
+      },
+      "Cultural_Anchors": [
+        "At the very moment attachment is severed (பற்றற்ற கண்ணே)",
+        "It severs birth (பிறப்பறுக்கும்)",
+        "Otherwise, instability is seen (மற்று நிலையாமை காணப்படும்)"
+      ]
+    },
+    "Negative_Prompt": "person holding the chain, vine growing stronger, text artifacts.",
+    "Hyperparameters": {
+      "variant": "pro",
+      "steps": 55,
+      "cfg_scale": 9,
+      "seed": "Explore the visual of the 'vine of rebirth' being severed."
+    }
+  }
+}

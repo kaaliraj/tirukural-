@@ -1,0 +1,38 @@
+{
+  "Kural_Info": {
+    "Number": 1073,
+    "Chapter": "கயமை (Baseness)",
+    "Tamil_Text": "தேவர் அனையர் கயவர் அவருந்தாம்மேவன செய்தொழுக லான்.",
+    "English_Meaning": "The base resemble the Gods; for the base act as they like."
+  },
+  "Flux_Optimized_Prompt": {
+    "Layered_Composition": {
+      "Foreground": "A shocking parallel. On the right side, in the heavens, a divine being ('தேவர்') is shown acting on a whim, doing whatever they please with their cosmic powers, unbound by mortal laws.",
+      "Midground": "On the left side, on Earth, a base person ('கயவர்') is shown also acting on their every whim and base impulse, doing whatever they please ('தாம் மேவன செய்து') without any regard for morality or the consequences for others.",
+      "Background": "The image draws a direct and startling comparison, stating that the base are 'like the Gods' ('தேவர் அனையர்') precisely because of this shared characteristic: a life of unrestrained self-will."
+    },
+    "Art_Direction": {
+      "Subject_and_Action": "A deeply ironic simile: the base are just like the gods, because both live a life completely according to their own whims, unrestrained by any external moral law.",
+      "Symbolic_Motifs": "The key is the identical motivation: doing whatever one pleases. The god's action might be cosmically grand, and the base person's might be petty and squalid, but the underlying principle of unrestrained will is shown to be the same.",
+      "Mood_and_Emotion": "Ironic, shocking, cynical, satirical.",
+      "Lighting_and_Color": "The divine scene is bathed in a brilliant, amoral, celestial light. The base person's scene is in a sordid, grimy, but equally unrestrained light. The two are visually linked despite their different settings.",
+      "Technical_Cues": {
+        "Camera": "A split-screen or diptych composition that forces the viewer to accept the shocking parallel between the god and the base man.",
+        "Resolution": "8K, ultra-realistic, contrasting the divine setting with the squalid one.",
+        "Lighting": "Lighting that emphasizes the shared quality of 'unrestrained action' in both realms.",
+        "Art_Genre": "Mythological satire."
+      },
+      "Cultural_Anchors": [
+        "The base are like the Gods (தேவர் அனையர் கயவர்)",
+        "Because they too do whatever they please (அவரும் தாம் மேவன செய்தொழுகலான்)"
+      ]
+    },
+    "Negative_Prompt": "moral god, restrained base person, text artifacts.",
+    "Hyperparameters": {
+      "variant": "pro",
+      "steps": 50,
+      "cfg_scale": 9,
+      "seed": "Explore the parallel actions of the god and the base person."
+    }
+  }
+}

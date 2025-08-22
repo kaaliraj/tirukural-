@@ -1,0 +1,39 @@
+{
+  "Kural_Info": {
+    "Number": 547,
+    "Chapter": "செங்கோன்மை (The Right Sceptre)",
+    "Tamil_Text": "இறைகாக்கும் வையகம் எல்லாம் அவனை முறைகாக்கும் முட்டாச் செயின்.",
+    "English_Meaning": "The king protects the whole world; and justice, when administered without defect, protects the king."
+  },
+  "Flux_Optimized_Prompt": {
+    "Layered_Composition": {
+      "Foreground": "A king ('இறை') is shown with his arms outstretched, generating a protective, glowing dome that covers the entire world ('வையகம் எல்லாம் காக்கும்').",
+      "Midground": "Simultaneously, the concept of Justice ('முறை'), personified as a radiant, angelic figure, stands behind the king. This figure of Justice generates its own, even stronger, golden dome of light that protectively covers the king himself ('அவனை முறைகாக்கும்').",
+      "Background": "A harmonious cosmic balance, showing the reciprocal relationship between the ruler and the law."
+    },
+    "Art_Direction": {
+      "Subject_and_Action": "A reciprocal protection: the king protects the world, and in turn, his own flawless justice protects him.",
+      "Symbolic_Motifs": "The two nested domes of light are the central metaphor. The king's dome protects the world, and Justice's dome protects the king. This visualizes the perfect, self-sustaining system of just rule.",
+      "Mood_and_Emotion": "Reciprocal, harmonious, just, protective, balanced.",
+      "Lighting_and_Color": "A dual-layered radiant light effect. The king's protective dome is a silvery-blue, while the dome of Justice protecting him is a more powerful, divine gold.",
+      "Technical_Cues": {
+        "Camera": "A wide, epic, cosmic shot that shows the king, the world, and the personification of Justice in their nested fields of protection.",
+        "Resolution": "8K, with beautiful, ethereal energy shield effects.",
+        "Lighting": "Multiple sources of radiant, volumetric light.",
+        "Art_Genre": "Metaphysical art, symbolic fantasy."
+      }
+    },
+    "Cultural_Anchors": [
+      "King protects the World ('இறை காக்கும் வையகம்')",
+      "Justice protects the King ('முறை காக்கும் அவனை')",
+      "The reciprocal nature of just rule."
+    ]
+  },
+  "Negative_Prompt": "king without protection, world in chaos, dark figure of justice, text artifacts.",
+  "Hyperparameters": {
+    "variant": "pro",
+    "steps": 50,
+    "cfg_scale": 8,
+    "seed": "Explore variations for the design of the angelic figure of Justice."
+  }
+}

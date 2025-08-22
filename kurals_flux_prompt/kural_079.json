@@ -1,0 +1,39 @@
+{
+  "Kural_Info": {
+    "Number": 79,
+    "Chapter": "அன்புடைமை (The Possession of Love)",
+    "Tamil_Text": "புறத்துறுப் பெல்லாம் எவன்செய்யும் யாக்கைஅகத்துறுப்பு அன்பி லவர்க்கு.",
+    "English_Meaning": "Of what avail are all the external members (of the body) to those who are destitute of love, the internal member."
+  },
+  "Flux_Optimized_Prompt": {
+    "Layered_Composition": {
+      "Foreground": "A perfectly formed, beautiful human statue, like a Greek or Roman ideal. It represents a body with perfect external limbs ('புறத்துறுப்பு').",
+      "Midground": "However, the statue is made of cold, grey stone, and where the heart should be, there is only an empty, dark cavity. This represents the absence of the 'internal limb', Love ('அகத்துறுப்பு அன்பு').",
+      "Background": "In the background, other, less physically perfect figures are shown interacting with warmth and joy. Their bodies might be old or plain, but they glow with an inner light of love, making them truly alive."
+    },
+    "Art_Direction": {
+      "Subject_and_Action": "The utter uselessness of a physically perfect body if the essential inner organ of Love is missing. Without love, a person is just a beautiful but lifeless statue.",
+      "Symbolic_Motifs": "The contrast between the beautiful, perfect, but lifeless statue and the 'imperfect' but living people is central. The empty hole in the statue's chest is a stark visual representation of the missing love.",
+      "Mood_and_Emotion": "Hollow, lifeless, cold, contrasting inner life with outer form.",
+      "Lighting_and_Color": "The statue is lit with cold, clinical, white light, emphasizing its stony texture. The living figures in the background are bathed in a warm, golden, emotional light.",
+      "Technical_Cues": {
+        "Camera": "A dramatic shot focusing on the statue, with a shallow depth of field to contrast it with the warm, living world behind it.",
+        "Resolution": "8K, ultra-realistic, with a strong focus on the texture of the cold stone versus the warmth of human skin.",
+        "Lighting": "High-contrast, symbolic lighting.",
+        "Art_Genre": "Allegorical still life, symbolic realism."
+      },
+      "Cultural_Anchors": [
+        "Love as the 'internal limb' (அகத்துறுப்பு அன்பு)",
+        "External limbs (புறத்துறுப்பு) as useless without it",
+        "The philosophical debate of form vs. substance"
+      ]
+    },
+    "Negative_Prompt": "statue coming to life, glowing heart in the statue, deformed statue, text artifacts, ugly living people.",
+    "Hyperparameters": {
+      "variant": "dev",
+      "steps": 45,
+      "cfg_scale": 8,
+      "seed": "Explore the texture and material of the lifeless statue."
+    }
+  }
+}

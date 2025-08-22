@@ -1,0 +1,40 @@
+{
+  "Kural_Info": {
+    "Number": 687,
+    "Chapter": "தூது (The Envoy)",
+    "Tamil_Text": "கடனறிந்து காலங் கருதி இடனறிந்து எண்ணி உரைப்பான் தலை.",
+    "English_Meaning": "He is chief (among ambassadors) who understands the proper decorum (before foreign princes), seeks the (proper) occasion, knows the (most suitable) place, and delivers his message after (due) consideration."
+  },
+  "Flux_Optimized_Prompt": {
+    "Layered_Composition": {
+      "Foreground": "The chief of envoys ('தலை') is depicted as a master strategist, considering all variables before speaking.",
+      "Midground": "Before him are four glowing symbols he must master: a scroll representing his Duty/Decorum ('கடன்'), a celestial clock for Time ('காலம்'), a topographical map for Place ('இடன்'), and an intricate, thinking brain for deep Consideration ('எண்ணி').",
+      "Background": "Only after analyzing all four does he speak ('உரைப்பான்'), and his words are shown to be perfectly effective, achieving their diplomatic goal with flawless precision."
+    },
+    "Art_Direction": {
+      "Subject_and_Action": "The chief among envoys is the one who delivers their message only after considering their duty, the right time, the right place, and the matter at hand with deep thought.",
+      "Symbolic_Motifs": "The four glowing symbols (scroll, clock, map, brain) represent the four prerequisites for perfect speech. The flawless result of his words shows the power of this comprehensive approach.",
+      "Mood_and_Emotion": "Masterful, strategic, comprehensive, thoughtful, precise.",
+      "Lighting_and_Color": "A bright, clear, intellectual light. The four symbols glow with a light of pure strategy, guiding the envoy's speech.",
+      "Technical_Cues": {
+        "Camera": "A shot focusing on the envoy in their moment of deep consideration, surrounded by the four symbolic elements.",
+        "Resolution": "8K, with a high-tech or magical feel for the symbolic interface.",
+        "Lighting": "Clean, focused lighting.",
+        "Art_Genre": "Conceptual art, with a sci-fi or fantasy aesthetic."
+      }
+    },
+    "Cultural_Anchors": [
+      "Knowing Duty ('கடனறிந்து')",
+      "Considering Time ('காலம் கருதி')",
+      "Knowing Place ('இடனறிந்து')",
+      "Speaking after Thought ('எண்ணி உரைப்பான்')"
+    ]
+  },
+  "Negative_Prompt": "envoy speaking rashly, ignoring the symbols, text artifacts.",
+  "Hyperparameters": {
+    "variant": "pro",
+    "steps": 50,
+    "cfg_scale": 8,
+    "seed": "Explore variations for the four glowing symbols."
+  }
+}

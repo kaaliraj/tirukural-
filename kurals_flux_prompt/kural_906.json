@@ -1,0 +1,39 @@
+{
+  "Kural_Info": {
+    "Number": 906,
+    "Chapter": "பெண்வழிச்சேறல் (Being led by Women)",
+    "Tamil_Text": "இமையாரின் வாழினும் பாடிலரே இல்லாள் அமையார்தோள் அஞ்சு பவர்.",
+    "English_Meaning": "They that fear the bamboo-like shoulders of their wives will be destitute of manliness though they may flourish like the Gods."
+  },
+  "Flux_Optimized_Prompt": {
+    "Layered_Composition": {
+      "Foreground": "A man is shown living a life of god-like luxury and splendor ('இமையாரின் வாழினும்'). He is surrounded by celestial comforts and immense wealth.",
+      "Midground": "However, he is shown cowering in fear before his wife, whose shoulders are likened to strong bamboo ('அமையார்தோள் அஞ்சுபவர்').",
+      "Background": "Despite all his external, god-like prosperity, a surreal effect shows that he is internally hollow and empty of all true manliness and dignity ('பாடிலர்'). He is a king on the outside, but a slave on the inside."
+    },
+    "Art_Direction": {
+      "Subject_and_Action": "Even if they live like gods, those who fear their wives' shoulders are devoid of any real dignity or manliness.",
+      "Symbolic_Motifs": "The contrast between the god-like external life and the fearful, subservient internal reality is key. The internal hollowness shows that his greatness is a facade.",
+      "Mood_and_Emotion": "Hollow, undignified, a golden cage, pathetic.",
+      "Lighting_and_Color": "The external scene is brilliantly lit with celestial, golden light. However, the man himself has a dark, empty void inside him, revealed through a see-through effect.",
+      "Technical_Cues": {
+        "Camera": "A shot that captures the grand, god-like setting but focuses on the man's fearful expression and his inner emptiness.",
+        "Resolution": "8K, with a surreal contrast between the outer and inner states.",
+        "Lighting": "Dazzling external light, but internal darkness.",
+        "Art_Genre": "Surrealism, with a mythological theme."
+      },
+      "Cultural_Anchors": [
+        "Living like the gods ('இமையாரின் வாழினும்')",
+        "Fearing the wife's shoulders ('இல்லாள் தோள் அஞ்சுபவர்')",
+        "Being devoid of dignity ('பாடிலர்')"
+      ]
+    },
+    "Negative_Prompt": "a dignified man, text artifacts, cartoonish.",
+    "Hyperparameters": {
+      "variant": "dev",
+      "steps": 45,
+      "cfg_scale": 8,
+      "seed": "Explore variations for the 'god-like' luxury."
+    }
+  }
+}

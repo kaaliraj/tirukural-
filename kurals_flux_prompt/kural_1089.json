@@ -1,0 +1,39 @@
+{
+  "Kural_Info": {
+    "Number": 1089,
+    "Chapter": "தகையணங்குறுத்தல் (The Pre-marital love)",
+    "Tamil_Text": "பிணையேர் மடநோக்கும் நாணும் உடையாட்குஅணியெவனோ ஏதில தந்து.",
+    "English_Meaning": "Of what use are other jewels to her who is adorned with modesty, and the meek looks of a hind?"
+  },
+  "Flux_Optimized_Prompt": {
+    "Layered_Composition": {
+      "Foreground": "A beautiful maiden is shown. She possesses two inherent, natural ornaments.",
+      "Midground": "Her gaze is the 'meek look of a fawn' ('பிணையேர் மட நோக்கு'), which is visualized as a soft, gentle light. Her demeanor is one of 'modesty' or 'shame' ('நாணும்'), which is visualized as a beautiful, glowing veil of light that naturally adorns her.",
+      "Background": "Piles of external, foreign jewels and ornaments ('ஏதில அணி')—gold necklaces, diamond earrings—are lying on a table beside her. The image rhetorically asks 'Of what use are these?' ('எவனோ?'). They are shown to be dull and lifeless compared to her natural, radiant ornaments of character."
+    },
+    "Art_Direction": {
+      "Subject_and_Action": "For a maiden who is already adorned with the natural jewels of a fawn-like gaze and modesty, any external, man-made jewelry is superfluous and useless.",
+      "Symbolic_Motifs": "The virtues of her gaze and modesty are literalized as ornaments of light, which are far more beautiful than the physical jewels. This is a celebration of inner, natural beauty over external, artificial adornment.",
+      "Mood_and_Emotion": "Natural beauty, innocent, pure, inwardly adorned.",
+      "Lighting_and_Color": "The maiden is illuminated by the soft, beautiful light of her own natural virtues. The physical jewels in the background are dimly lit and lack any sparkle. The palette is soft, natural, and pure.",
+      "Technical_Cues": {
+        "Camera": "A gentle, intimate portrait shot that focuses on the maiden's face and her natural, glowing adornments.",
+        "Resolution": "8K, ultra-realistic, with a focus on her gentle expression.",
+        "Lighting": "The subject is self-illuminated by her own inner virtues.",
+        "Art_Genre": "Romantic portraiture, with symbolic elements."
+      },
+      "Cultural_Anchors": [
+        "The fawn-like meek look (பிணையேர் மட நோக்கு)",
+        "Modesty (நாணும்)",
+        "What use are other ornaments? (அணி எவனோ ஏதில தந்து?)"
+      ]
+    },
+    "Negative_Prompt": "maiden covered in jewels, arrogant expression, text artifacts.",
+    "Hyperparameters": {
+      "variant": "dev",
+      "steps": 40,
+      "cfg_scale": 7,
+      "seed": "Explore the 'glowing veil of modesty'."
+    }
+  }
+}

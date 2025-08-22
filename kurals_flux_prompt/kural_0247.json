@@ -1,0 +1,39 @@
+{
+  "Kural_Info": {
+    "Number": 247,
+    "Chapter": "அருளுடைமை (Compassion)",
+    "Tamil_Text": "அருளில்லார்க்கு அவ்வுலகம் இல்லை பொருளில்லார்க்கு இவ்வுலகம் இல்லாகி யாங்கு.",
+    "English_Meaning": "As this world is not for those who are without wealth, so that world is not for those who are without kindness."
+  },
+  "Flux_Optimized_Prompt": {
+    "Layered_Composition": {
+      "Foreground": "A stark, split-screen composition showing two parallel scenes of exclusion.",
+      "Midground": "On the left side ('இவ்வுலகம்'), a destitute person without money ('பொருளில்லார்') is shown being barred from entering a prosperous, vibrant city. The material world rejects them. On the right side ('அவ்வுலகம்'), the soul of a cruel, merciless person ('அருளிலார்') is shown arriving at the gates of a beautiful, celestial afterlife. These gates are also firmly shut, barring their entry.",
+      "Background": "The visual structure creates a direct and powerful analogy: lack of wealth leads to exclusion from this world, and lack of mercy leads to exclusion from the next."
+    },
+    "Art_Direction": {
+      "Subject_and_Action": "A parallel between material and spiritual poverty: just as this world excludes the poor, the next world excludes the unkind.",
+      "Symbolic_Motifs": "The closed gates in both scenes are the key symbol of exclusion. The contrast between the vibrant material world and the beautiful celestial world highlights what is being lost in each case.",
+      "Mood_and_Emotion": "Judgmental, consequential, parallel fates.",
+      "Lighting_and_Color": "The earthly city is lit with a warm, golden, but exclusive light. The celestial world is lit with a pure, divine, white light. Both excluded figures are left in the cold shadows outside the gates.",
+      "Technical_Cues": {
+        "Camera": "A perfectly symmetrical, balanced diptych that forces the viewer to equate the two scenarios.",
+        "Resolution": "8K, with rich detail in both the earthly and celestial realms.",
+        "Lighting": "High-contrast lighting between the inside (desirable) and outside (excluded).",
+        "Art_Genre": "Allegorical painting, with a strong architectural focus on the gates."
+      }
+    },
+    "Cultural_Anchors": [
+      "This world is not for the poor ('பொருளில்லார்க்கு இவ்வுலகம் இல்லை')",
+      "The next world is not for the merciless ('அருளிலார்க்கு அவ்வுலகம் இல்லை')",
+      "The concept of Karma and just desserts."
+    ]
+  },
+  "Negative_Prompt": "poor person entering the city, cruel person entering heaven, text artifacts, cartoonish.",
+  "Hyperparameters": {
+    "variant": "pro",
+    "steps": 50,
+    "cfg_scale": 8,
+    "seed": "Explore variations for the design of the celestial gates."
+  }
+}

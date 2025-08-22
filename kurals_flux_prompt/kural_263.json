@@ -1,0 +1,38 @@
+{
+  "Kural_Info": {
+    "Number": 263,
+    "Chapter": "தவம் (Penance)",
+    "Tamil_Text": "துறந்தார்க்குத் துப்புரவு வேண்டி மறந்தார்கொல்மற்றை யவர்கள் தவம்.",
+    "English_Meaning": "It is to provide food etc, for the ascetics who have abandoned (the desire of earthly possessions) that other persons have forgotten (to practise) austerity?."
+  },
+  "Flux_Optimized_Prompt": {
+    "Layered_Composition": {
+      "Foreground": "A group of householders ('மற்றையவர்கள்') are shown diligently working and providing sustenance (food, clothing) for a group of ascetics who have renounced the world ('துறந்தார்க்குத் துப்புரவு').",
+      "Midground": "A cosmic, ethereal question mark hovers over the householders.",
+      "Background": "The image poses a philosophical, slightly ironic question: Is the very reason that these householders have 'forgotten' to practice penance themselves ('மறந்தார்கொல் தவம்') because they are so busy with the essential duty of supporting those who *have* taken up that life? Their worldly work is presented as a different, but necessary, form of spiritual duty."
+    },
+    "Art_Direction": {
+      "Subject_and_Action": "A rhetorical question that highlights the symbiotic relationship between householders and ascetics, suggesting that the householders' worldly labor is a necessary support for the ascetics' spiritual labor.",
+      "Symbolic_Motifs": "The question mark emphasizes the rhetorical nature of the Kural. The householders are not depicted as lazy or unspiritual, but as engaged in a vital, supportive role. The two groups are shown as two essential pillars of a balanced society.",
+      "Mood_and_Emotion": "Symbiotic, philosophical, ironic, questioning.",
+      "Lighting_and_Color": "A balanced, harmonious light covers the entire scene. The householders' work is lit with a noble, earthy light, while the ascetics' meditation is lit with a serene, spiritual light. Both are shown as valuable.",
+      "Technical_Cues": {
+        "Camera": "A wide, tableau-like shot that shows the two groups and their functional interdependence.",
+        "Resolution": "8K, ultra-realistic, depicting a harmonious, well-ordered society.",
+        "Lighting": "Harmonious, balanced lighting.",
+        "Art_Genre": "Historical realism, with a philosophical tone."
+      },
+      "Cultural_Anchors": [
+        "In order to support the renouncers (துறந்தார்க்குத் துப்புரவு வேண்டி)",
+        "Have the others forgotten to do penance? (மற்றையவர்கள் தவம் மறந்தார்கொல்?)"
+      ]
+    },
+    "Negative_Prompt": "householders fighting with ascetics, text artifacts, lazy householders.",
+    "Hyperparameters": {
+      "variant": "dev",
+      "steps": 40,
+      "cfg_scale": 7,
+      "seed": "Explore the composition of the two interdependent groups."
+    }
+  }
+}

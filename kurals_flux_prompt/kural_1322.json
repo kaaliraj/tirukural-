@@ -1,0 +1,38 @@
+{
+  "Kural_Info": {
+    "Number": 1322,
+    "Chapter": "ஊடலுவகை (The Pleasures of Temporary Variance)",
+    "Tamil_Text": "ஊடலின் தோன்றும் சிறுதுனி நல்லளிவாடினும் பாடு பெறும்.",
+    "English_Meaning": "His love will increase though it may (at first seem to) fade through the short-lived distress caused by (my) dislike."
+  },
+  "Flux_Optimized_Prompt": {
+    "Layered_Composition": {
+      "Foreground": "A woman is engaged in a lover's pout. This creates a brief moment of 'small distress' ('சிறு துனி').",
+      "Midground": "Her lover's affection ('நல் அளி'), visualized as a beautiful, glowing flower, seems to momentarily wilt or fade ('வாடினும்') in response to this distress.",
+      "Background": "However, this is just a prelude to a greater blossoming. After the brief wilt, the flower of his affection is shown blooming again, but this time it is even larger, more vibrant, and more glorious than before. It has 'gained glory' ('பாடு பெறும்') through the process."
+    },
+    "Art_Direction": {
+      "Subject_and_Action": "The small distress caused by a lover's pout, though it may seem to make affection fade for a moment, ultimately causes that affection to return even stronger and more glorious.",
+      "Symbolic_Motifs": "The flower of affection that wilts and then re-blooms stronger is the central metaphor. The process of pouting is shown to be a necessary step that leads to a greater flourishing of love.",
+      "Mood_and_Emotion": "Revitalizing, strengthening, dynamic, ultimately positive.",
+      "Lighting_and_Color": "The scene briefly dims and cools as the flower wilts. Then, as it re-blooms, the light becomes warmer, brighter, and more brilliantly golden than it was at the start.",
+      "Technical_Cues": {
+        "Camera": "A time-lapse shot focusing on the symbolic 'flower of affection', showing it wilt slightly and then magnificently re-bloom.",
+        "Resolution": "8K, ultra-realistic, with advanced botanical and magical light effects.",
+        "Lighting": "A dynamic lighting shift that follows the emotional arc from distress to renewed glory.",
+        "Art_Genre": "Magical realism, romantic symbolism."
+      },
+      "Cultural_Anchors": [
+        "The small distress born of pouting (ஊடலின் தோன்றும் சிறு துனி)",
+        "Even if his good grace wilts, it will gain glory (நல் அளி வாடினும் பாடு பெறும்)"
+      ]
+    },
+    "Negative_Prompt": "flower dying completely, text artifacts, angry couple.",
+    "Hyperparameters": {
+      "variant": "pro",
+      "steps": 50,
+      "cfg_scale": 8,
+      "seed": "Explore the visual of the flower re-blooming more gloriously."
+    }
+  }
+}

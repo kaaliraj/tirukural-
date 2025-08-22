@@ -1,0 +1,33 @@
+{
+  "Kural_Info": {
+    "Number": 985,
+    "Chapter": "சான்றாண்மை (Perfectness)",
+    "Tamil_Text": "ஆற்றுவார் ஆற்றல் பணிதல் அதுசான்றோர்மாற்றாரை மாற்றும் படை.",
+    "English_Meaning": "Submission is the might of men of mighty acts; the sage With that same weapon stills his foeman's rage."
+  },
+  "Flux_Optimized_Prompt": {
+    "Layered_Composition": {
+      "Foreground": "A 'Saandror' (perfected one) is shown bowing humbly ('Panithal') before an aggressive, raging foe ('Maatrar').",
+      "Midground": "As the sage bows, their humility manifests as a powerful, disarming wave of calming light that flows towards the foe. The foe's weapons are seen lowering and their aggressive stance softening as the light reaches them.",
+      "Background": "A tense, conflict-ridden environment (like a battlefield or a tense court) is shown becoming peaceful and calm where the light of humility spreads."
+    },
+    "Art_Direction": {
+      "Subject_and_Action": "The paradoxical strength of humility, depicted as a powerful 'weapon' ('Padai') that disarms and transforms an enemy's hostility.",
+      "Symbolic_Motifs": "The act of bowing ('பணிதல்') is the source of power. The calming wave of light is the visual representation of humility's force. The softening of the foe's posture shows the 'weapon's' effect.",
+      "Mood_and_Emotion": "Powerful serenity, surprising strength, the triumph of peace over aggression.",
+      "Lighting_and_Color": "A brilliant, pure white or soft blue light emanates from the bowing sage, contrasting sharply with the fiery red aura of the angry foe. The light of humility should appear stronger and more dominant."
+    },
+    "Technical_Cues": {
+      "Camera": "Wide shot, focusing on the interaction and the transformative effect of the light wave.",
+      "Resolution": "8K, fantasy realism, with dynamic particle effects for the light and the foe's aura.",
+      "Lighting": "High contrast, with the light of humility as the primary, transformative light source.",
+      "Art_Genre": "Mystical fantasy art, illustrating a philosophical concept with epic visuals."
+    },
+    "Cultural_Anchors": [
+      "பணிதல் (Submission/Humility)",
+      "மாற்றாரை மாற்றும் படை (The weapon that transforms foes)",
+      "சான்றோர் (The Perfected Ones)"
+    ]
+  },
+  "Negative_Prompt": "sage fighting back, foe overpowering the sage, dark or evil sage, text artifacts, modern weapons, cartoonish."
+}

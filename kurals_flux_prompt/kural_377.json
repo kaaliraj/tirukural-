@@ -1,0 +1,39 @@
+{
+  "Kural_Info": {
+    "Number": 377,
+    "Chapter": "ஊழ் (Fate)",
+    "Tamil_Text": "வகுத்தான் வகுத்த வகையல்லால் கோடி தொகுத்தார்க்கு துய்த்தல் அரிது.",
+    "English_Meaning": "Save as the 'sharer' shares to each in due degree, To those who millions store enjoyment scarce can be."
+  },
+  "Flux_Optimized_Prompt": {
+    "Layered_Composition": {
+      "Foreground": "A wealthy merchant sits forlornly at a grand banquet table laden with extravagant food. He is unable to eat, as an invisible barrier separates him from the feast.",
+      "Midground": "Behind him, a faint, celestial, god-like figure (The Disposer, 'வகுத்தான்') is shown measuring out a very small, simple portion of grain into a bowl for the merchant, which is the only thing he can access.",
+      "Background": "A lavishly decorated hall, filled with treasures and wealth that the merchant has amassed ('கோடி தொகுத்தார்க்கு') but cannot enjoy."
+    },
+    "Art_Direction": {
+      "Subject_and_Action": "The idea that one can only enjoy what has been allotted by fate, regardless of how much wealth one has accumulated.",
+      "Symbolic_Motifs": "The invisible barrier represents the limit set by fate. The celestial 'Disposer' figure symbolizes the higher power that allots each person's share. The uneaten feast represents unenjoyable wealth.",
+      "Mood_and_Emotion": "Ironic, frustrating, deterministic, humbling.",
+      "Lighting_and_Color": "The banquet hall is richly colored and well-lit, but the merchant is cast in a somber, cool light. The celestial figure has a soft, ethereal glow.",
+      "Technical_Cues": {
+        "Camera": "Medium shot, focusing on the merchant's frustration and the small portion he has been given.",
+        "Resolution": "8K, ultra-realistic, with painterly effects for the celestial figure.",
+        "Lighting": "High-quality, realistic lighting on the food and treasures to emphasize their desirability, contrasted with the merchant's inability to enjoy them.",
+        "Art_Genre": "Allegorical realism, in the style of a Dutch still life with a metaphysical twist."
+      }
+    },
+    "Cultural_Anchors": [
+      "The Disposer/Allotter ('வகுத்தான்')",
+      "Predestined share of enjoyment",
+      "The limit of wealth's utility"
+    ]
+  },
+  "Negative_Prompt": "merchant enjoying the feast, angry celestial figure, modern setting, blurry food, text artifacts.",
+  "Hyperparameters": {
+    "variant": "pro",
+    "steps": 50,
+    "cfg_scale": 8,
+    "seed": "Explore variations for the appearance of the celestial 'Disposer'."
+  }
+}

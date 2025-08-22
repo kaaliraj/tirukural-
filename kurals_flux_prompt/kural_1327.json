@@ -1,0 +1,38 @@
+{
+  "Kural_Info": {
+    "Number": 1327,
+    "Chapter": "ஊடலுவகை (The Pleasures of Temporary Variance)",
+    "Tamil_Text": "ஊடலில் தோற்றவர் வென்றார் அதுமன்னும்கூடலிற் காணப் படும்.",
+    "English_Meaning": "Those are conquerors whose dislike has been defeated and that is proved by the love (which follows)."
+  },
+  "Flux_Optimized_Prompt": {
+    "Layered_Composition": {
+      "Foreground": "A couple is shown at the end of a lover's pout. One of them has 'lost' the argument ('தோற்றவர்') and has given in first, perhaps by offering an apology or a gentle touch.",
+      "Midground": "The scene immediately transitions to the blissful reconciliation and embrace ('கூடல்').",
+      "Background": "In this moment of blissful reunion, a magical, golden victor's crown appears not on the head of the one who 'won' the argument, but on the head of the one who 'lost' it. Their defeat in the quarrel is revealed to be the true victory ('வென்றார்'), as it is what led to the sweet pleasure of reunion."
+    },
+    "Art_Direction": {
+      "Subject_and_Action": "In a lover's quarrel, the one who 'loses' by giving in first is the true 'winner', a fact that becomes beautifully apparent in the blissful reunion that follows.",
+      "Symbolic_Motifs": "The paradoxical crowning of the 'loser' is the central visual. The bliss of the reunion is the 'proof' ('காணப்படும்') of their victory. The one who held out might look slightly regretful that they prolonged the quarrel.",
+      "Mood_and_Emotion": "Paradoxical victory, sweet surrender, loving.",
+      "Lighting_and_Color": "The entire scene of reunion is bathed in a warm, triumphant, golden light. The victor's crown that appears on the 'loser's' head is the source of this brilliant light.",
+      "Technical_Cues": {
+        "Camera": "A shot that captures the moment of surrender and the immediate, magical reward of the victor's crown appearing during the embrace.",
+        "Resolution": "8K, ultra-realistic, with a focus on the blissful expressions and the magical crown.",
+        "Lighting": "Warm, triumphant, and magical lighting.",
+        "Art_Genre": "Magical realism, high-romance."
+      },
+      "Cultural_Anchors": [
+        "The one who loses in a pout is the winner (ஊடலில் தோற்றவர் வென்றார்)",
+        "This is seen in the reunion (கூடலில் காணப்படும்)"
+      ]
+    },
+    "Negative_Prompt": "winner being crowned, sad loser, text artifacts.",
+    "Hyperparameters": {
+      "variant": "pro",
+      "steps": 50,
+      "cfg_scale": 8,
+      "seed": "Explore the design of the 'victor's crown' for the loser."
+    }
+  }
+}

@@ -1,0 +1,39 @@
+{
+  "Kural_Info": {
+    "Number": 426,
+    "Chapter": "அறிவுடைமை (The Possession of Knowledge)",
+    "Tamil_Text": "எவ்வ துறைவது உலகம் உலகத்தோடு அவ்வ துறைவ தறிவு.",
+    "English_Meaning": "To live as the world lives, is wisdom."
+  },
+  "Flux_Optimized_Prompt": {
+    "Layered_Composition": {
+      "Foreground": "A wise individual is shown walking calmly within a bustling, flowing river of people who represent the world ('உலகம்').",
+      "Midground": "The wise person is not struggling against the current, nor are they being mindlessly swept away. Instead, they are moving in harmony with the flow ('உலகத்தோடு அவ்வ துறைவது'), navigating it with skill and purpose. Their path leaves a gentle, glowing wake.",
+      "Background": "The river of people flows through a vast and varied landscape, representing the different cultures and customs of the world."
+    },
+    "Art_Direction": {
+      "Subject_and_Action": "Wisdom ('அறிவு') is defined as the ability to live in harmony with the ways of the world, adapting to its flow without losing one's own direction.",
+      "Symbolic_Motifs": "The river of humanity is the metaphor for 'the world'. The wise person's skillful navigation, moving with the current but under their own control, represents harmonious living.",
+      "Mood_and_Emotion": "Harmonious, adaptable, wise, graceful, worldly.",
+      "Lighting_and_Color": "Natural, realistic lighting. The wise person has a subtle inner glow that distinguishes them from the crowd without alienating them. The river of people is a rich tapestry of diverse colors."
+    },
+    "Technical_Cues": {
+      "Camera": "Slightly high-angle tracking shot, following the wise person as they move gracefully with the crowd.",
+      "Resolution": "8K, cinematic, capable of handling a large number of detailed figures.",
+      "Lighting": "Soft, natural light to create a feeling of ease and harmony.",
+      "Art_Genre": "Symbolic realism, with a touch of the epic."
+    },
+    "Cultural_Anchors": [
+      "Living in harmony with the world ('உலகத்தோடு ஒத்து ஒழுகுதல்')",
+      "Adaptive Wisdom",
+      "The World as a collective ('உலகம்')"
+    ]
+  },
+  "Negative_Prompt": "person struggling against the current, person standing still, empty river, text artifacts, cartoonish people.",
+  "Hyperparameters": {
+    "variant": "pro",
+    "steps": 45,
+    "cfg_scale": 7,
+    "seed": "Explore variations for the diversity of the people in the river."
+  }
+}

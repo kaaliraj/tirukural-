@@ -1,0 +1,33 @@
+{
+  "Kural_Info": {
+    "Number": 1205,
+    "Chapter": "நினைந்தவர்புலம்பல் (Sad Memories)",
+    "Tamil_Text": "தம்நெஞ்சத்து எம்மைக் கடிகொண்டார் நாணார்கொல்எம்நெஞ்சத்து ஓவா வரல்.",
+    "English_Meaning": "Me from his heart he jealously excludes: Hath he no shame who ceaseless on my heart intrudes?."
+  },
+  "Flux_Optimized_Prompt": {
+    "Layered_Composition": {
+      "Foreground": "A woman stands, her heart depicted as an open, welcoming home with its door always ajar.",
+      "Midground": "Her lover ('Avar') is shown as a constant visitor to this home, his image freely entering and leaving her heart ('Em nenjaththu Ovaa Varal').",
+      "Background": "In contrast, his own heart ('Tham Nenjaththu') is shown as a fortified castle with its gates barred, actively keeping her image out ('Emmaik Kadikondaar'). She looks at this situation with a questioning expression, wondering at his lack of shame ('Naanaarkol?')."
+    },
+    "Art_Direction": {
+      "Subject_and_Action": "A lover questions the shamelessness of her beloved, who has barred her from his own heart, yet constantly intrudes upon hers.",
+      "Symbolic_Motifs": "The heart as an open home versus the heart as a fortified castle. This architectural metaphor clearly visualizes the one-sided nature of their mental intimacy.",
+      "Mood_and_Emotion": "Questioning, ironic, a sense of injustice.",
+      "Lighting_and_Color": "Her 'heart-home' is lit with a warm, welcoming light. His 'heart-castle' is cold, dark, and forbidding. The colors reflect this contrast between openness and exclusion."
+    },
+    "Technical_Cues": {
+      "Camera": "A wide shot that shows both her open heart and his distant, closed heart, emphasizing the unfair dynamic.",
+      "Resolution": "8K, surreal realism, with detailed and symbolic architecture for the hearts.",
+      "Lighting": "Contrasting lighting to highlight the different natures of the two hearts.",
+      "Art_Genre": "Allegorical art with surreal elements."
+    },
+    "Cultural_Anchors": [
+      "The heart as a private space",
+      "The injustice of one-sided love",
+      "நாணு (Shame)"
+    ]
+  },
+  "Negative_Prompt": "his heart being open, her heart being closed, happy couple, modern architecture, text artifacts, cartoonish."
+}

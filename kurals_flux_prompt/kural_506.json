@@ -1,0 +1,39 @@
+{
+  "Kural_Info": {
+    "Number": 506,
+    "Chapter": "தெரிந்துதெளிதல் (Selection and Confidence)",
+    "Tamil_Text": "அற்றாரைத் தேறுதல் ஓம்புக மற்றவர் பற்றிலர் நாணார் பழி.",
+    "English_Meaning": "Let (a king) avoid choosing men who have no relations; such men have no attachment, and therefore have no fear of crime."
+  },
+  "Flux_Optimized_Prompt": {
+    "Layered_Composition": {
+      "Foreground": "A lone individual, depicted as a solitary, uprooted tree with no roots connecting to the ground ('அற்றார்'). They are being offered a position of trust.",
+      "Midground": "Because they have no roots (no attachments or kin - 'பற்றிலர்'), they are shown carelessly committing a shameful act ('பழி'), as they have no fear of bringing disgrace to a family or community ('நாணார் பழி').",
+      "Background": "In contrast, other 'trees' in the background are shown with deep, interconnected root systems (representing family and community), and they stand firm and upright, avoiding shameful acts."
+    },
+    "Art_Direction": {
+      "Subject_and_Action": "A warning against trusting those who are without attachments or relations, as they will not have the fear of shame that prevents wrongdoing.",
+      "Symbolic_Motifs": "The uprooted, rootless tree is a powerful metaphor for a person without attachments. The interconnected root system of the other trees represents the stabilizing influence of kinship.",
+      "Mood_and_Emotion": "Untrustworthy, reckless, cautionary, detached.",
+      "Lighting_and_Color": "The rootless tree is in a harsh, isolated light, against a barren patch of ground. The other trees are in a healthier, more integrated environment. The color palette is stark to show the contrast.",
+      "Technical_Cues": {
+        "Camera": "A wide shot that emphasizes the isolation of the rootless tree compared to the community of rooted trees.",
+        "Resolution": "8K, with surreal and symbolic imagery.",
+        "Lighting": "Symbolic lighting that isolates the untrustworthy figure.",
+        "Art_Genre": "Surrealism, allegorical art."
+      },
+      "Cultural_Anchors": [
+        "Those without attachments ('அற்றார்' / 'பற்றிலர்')",
+        "Having no fear of disgrace ('நாணார் பழி')",
+        "The social function of kinship."
+      ]
+    },
+    "Negative_Prompt": "rootless tree standing firm, rooted trees committing crimes, text artifacts, cartoonish.",
+    "Hyperparameters": {
+      "variant": "dev",
+      "steps": 40,
+      "cfg_scale": 8,
+      "seed": "Explore variations for the design of the tree roots."
+    }
+  }
+}

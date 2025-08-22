@@ -1,0 +1,38 @@
+{
+  "Kural_Info": {
+    "Number": 133,
+    "Chapter": "ஒழுக்கமுடைமை (The Possession of Decorum)",
+    "Tamil_Text": "ஒழுக்கம் உடைமை குடிமை இழுக்கம்இழிந்த பிறப்பாய் விடும்.",
+    "English_Meaning": "Propriety of conduct is true greatness of birth, and impropriety will sink into a mean birth."
+  },
+  "Flux_Optimized_Prompt": {
+    "Layered_Composition": {
+      "Foreground": "A split composition showing two figures.",
+      "Midground": "On the left, a person is practicing good conduct ('ஒழுக்கம் உடைமை'). This act causes them to be spiritually elevated, and they are shown standing on a noble pedestal, crowned with a light that signifies true nobility of birth ('குடிமை').",
+      "Background": "On the right, a person is practicing bad conduct ('இழுக்கம்'). This act causes them to be spiritually degraded. The ground beneath them crumbles, and they sink down into a lower, meaner state, signifying a 'base birth' ('இழிந்த பிறப்பு')."
+    },
+    "Art_Direction": {
+      "Subject_and_Action": "True nobility is defined by one's conduct, not by one's parentage. Good conduct elevates you to a high birth, while bad conduct degrades you to a low one.",
+      "Symbolic_Motifs": "The upward movement (elevation to nobility) versus the downward movement (sinking into baseness) is the key visual metaphor. The state of 'birth' is shown not as a starting point, but as a direct and immediate consequence of one's own actions.",
+      "Mood_and_Emotion": "Transformative, meritocratic, karmic.",
+      "Lighting_and_Color": "The person of good conduct is bathed in a noble, ascending, golden light. The person of bad conduct is sinking into a dark, shadowy, and degrading pit.",
+      "Technical_Cues": {
+        "Camera": "A diptych shot that starkly contrasts the two karmic trajectories resulting from different kinds of conduct.",
+        "Resolution": "8K, ultra-realistic, with dynamic effects for the elevation and subsidence.",
+        "Lighting": "Strong dualistic lighting to represent noble ascent and base descent.",
+        "Art_Genre": "Symbolic realism, allegorical art."
+      },
+      "Cultural_Anchors": [
+        "Good conduct is nobility (ஒழுக்கம் உடைமை குடிமை)",
+        "Bad conduct becomes a low birth (இழுக்கம் இழிந்த பிறப்பாய் விடும்)"
+      ]
+    },
+    "Negative_Prompt": "bad conduct leading to glory, good conduct leading to ruin, text artifacts.",
+    "Hyperparameters": {
+      "variant": "pro",
+      "steps": 50,
+      "cfg_scale": 8,
+      "seed": "Explore the visual of 'sinking into a mean birth'."
+    }
+  }
+}

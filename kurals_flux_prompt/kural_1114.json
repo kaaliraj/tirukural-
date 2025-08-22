@@ -1,0 +1,39 @@
+{
+  "Kural_Info": {
+    "Number": 1114,
+    "Chapter": "நலம்புனைந்துரைத்தல் (The Praise of her Beauty)",
+    "Tamil_Text": "காணின் குவளை கவிழ்ந்து நிலன்நோக்கும்மாணிழை கண்ணொவ்வேம் என்று.",
+    "English_Meaning": "If the blue lotus could see, it would stoop and look at the ground saying, \"I can never resemble the eyes of this excellent jewelled one\"."
+  },
+  "Flux_Optimized_Prompt": {
+    "Layered_Composition": {
+      "Foreground": "The beautiful eyes of a well-adorned maiden ('மாண் இழை கண்').",
+      "Midground": "A beautiful, perfect blue lotus flower ('குவளை') is shown. It is personified, with the ability to see and feel.",
+      "Background": "Upon seeing the maiden's eyes, the lotus flower is overcome with a sense of its own inferiority. It is shown physically bowing its head and staring at the ground in shame ('கவிழ்ந்து நிலன் நோக்கும்'), admitting with a visualized thought, 'I cannot compare to her eyes' ('கண்ணொவ்வேம்')."
+    },
+    "Art_Direction": {
+      "Subject_and_Action": "The maiden's eyes are so perfectly beautiful that if the blue lotus, the traditional standard of beauty, could see them, it would bow its head in shame and admit its own inferiority.",
+      "Symbolic_Motifs": "The personification of the lotus flower and its act of bowing in shame is the central, powerful image. This is the ultimate compliment, where the standard of beauty itself admits defeat.",
+      "Mood_and_Emotion": "Supreme beauty, triumphant, adoring.",
+      "Lighting_and_Color": "A beautiful, soft, natural light. The maiden's eyes are incredibly deep, lustrous, and captivating. The blue lotus is also beautiful, but its color seems slightly less vibrant in the presence of her eyes.",
+      "Technical_Cues": {
+        "Camera": "A shot that shows the lotus flower in the foreground, looking towards the maiden's eyes in the background, and then captures the moment the flower bows its head in defeat.",
+        "Resolution": "8K, ultra-realistic, with a focus on the expressive 'body language' of the personified flower.",
+        "Lighting": "The maiden's eyes should have a captivating light that seems to outshine the natural beauty of the flower.",
+        "Art_Genre": "Magical realism, with a focus on nature."
+      },
+      "Cultural_Anchors": [
+        "The Kuvalai (blue lotus) flower (குவளை)",
+        "Bows and looks at the ground (கவிழ்ந்து நிலன் நோக்கும்)",
+        "Saying 'I cannot match her eyes' (கண் ஒவ்வேம்)"
+      ]
+    },
+    "Negative_Prompt": "proud lotus, plain eyes, text artifacts.",
+    "Hyperparameters": {
+      "variant": "pro",
+      "steps": 50,
+      "cfg_scale": 8,
+      "seed": "Explore the visual of the 'personified, ashamed lotus'."
+    }
+  }
+}

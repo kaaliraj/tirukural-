@@ -1,0 +1,38 @@
+{
+  "Kural_Info": {
+    "Number": 190,
+    "Chapter": "புறங்கூறாமை (Not Backbiting)",
+    "Tamil_Text": "ஏதிலார் குற்றம்போல் தங்குற்றங் காண்கிற்பின்தீதுண்டோ மன்னும் உயிர்க்கு.",
+    "English_Meaning": "If they observed their own faults as they observe the faults of others, would any evil happen to men?."
+  },
+  "Flux_Optimized_Prompt": {
+    "Layered_Composition": {
+      "Foreground": "A person is shown with a giant, powerful magnifying glass.",
+      "Midground": "First, they are using it to keenly and critically examine the tiny, insignificant faults of a stranger ('ஏதிலார் குற்றம்'). Next, they are shown turning the same powerful magnifying glass back upon themselves, to examine their own faults ('தம் குற்றம் காண்கிற்பின்').",
+      "Background": "The moment they examine themselves with the same rigor, a dark cloud of potential evil and suffering ('தீது') that was hovering over them instantly vanishes. The rhetorical question is answered: if people did this, there would be 'no evil' ('தீதுண்டோ?')."
+    },
+    "Art_Direction": {
+      "Subject_and_Action": "If people would only apply the same critical scrutiny to their own faults as they do to the faults of others, then no evil would ever befall them.",
+      "Symbolic_Motifs": "The powerful magnifying glass of scrutiny is the central metaphor. The act of turning it upon oneself is the key to salvation. The cloud of evil represents all the suffering that comes from hypocrisy and a lack of self-awareness.",
+      "Mood_and_Emotion": "Self-awareness, introspective, liberating, curative.",
+      "Lighting_and_Color": "The scene is lit with a clear, analytical light. The act of self-examination causes the dark cloud of evil to dissipate, filling the scene with a brighter, purer, and safer light.",
+      "Technical_Cues": {
+        "Camera": "A shot that clearly shows the two actions of the magnifying glass and the direct, immediate consequence of the second action.",
+        "Resolution": "8K, ultra-realistic, with a focus on the person's expression of dawning self-awareness.",
+        "Lighting": "A dramatic shift from a threatened state to a safe state, triggered by the act of introspection.",
+        "Art_Genre": "Symbolic realism."
+      },
+      "Cultural_Anchors": [
+        "If one could see one's own faults like a stranger's faults (ஏதிலார் குற்றம் போல் தம் குற்றம் காண்கிற்பின்)",
+        "Would there be any evil? (தீதுண்டோ?)"
+      ]
+    },
+    "Negative_Prompt": "person ignoring own faults, cloud of evil attacking, text artifacts.",
+    "Hyperparameters": {
+      "variant": "dev",
+      "steps": 45,
+      "cfg_scale": 8,
+      "seed": "Explore the visual of the 'cloud of evil' dissipating."
+    }
+  }
+}

@@ -1,0 +1,38 @@
+{
+  "Kural_Info": {
+    "Number": 1289,
+    "Chapter": "புணர்ச்சிவிதும்பல் (Desire for Reunion)",
+    "Tamil_Text": "மலரினும் மெல்லிது காமம் சிலர்அதன்செவ்வி தலைப்படு வார்.",
+    "English_Meaning": "Sexual delight is more delicate than a flower, and few are those who understand its real nature."
+  },
+  "Flux_Optimized_Prompt": {
+    "Layered_Composition": {
+      "Foreground": "The concept of Love/Desire ('காமம்') is visualized as an incredibly delicate, luminous, and complex flower, more delicate than any real flower ('மலரினும் மெல்லிது').",
+      "Midground": "A large crowd of people is shown approaching this flower. Most of them are clumsy and heavy-handed; they touch the flower and it is instantly bruised or destroyed. They fail to understand its delicate nature.",
+      "Background": "Only a very few people ('சிலர்') are shown with the skill and sensitivity to approach the flower correctly. They are able to appreciate its beauty and fragrance without harming it. These are the ones who truly attain its 'perfect moment' or 'real nature' ('அதன் செவ்வி தலைப்படுவார்')."
+    },
+    "Art_Direction": {
+      "Subject_and_Action": "Love is a thing of supreme delicacy, even more so than a flower, and only a very few people have the sensitivity and skill to experience its true and perfect nature.",
+      "Symbolic_Motifs": "The hyper-delicate flower of love is the central metaphor. The contrast between the clumsy many and the skillful few is the key narrative. The 'perfect moment' is not just about pleasure, but about a deep, skillful understanding.",
+      "Mood_and_Emotion": "Delicate, refined, rare, skillful.",
+      "Lighting_and_Color": "The flower of love glows with a soft, ethereal, and very fragile light. The scene is lit by this delicate light. The clumsy people cast harsh shadows, while the skillful few seem to be in harmony with the light.",
+      "Technical_Cues": {
+        "Camera": "A shot that uses a selective focus to highlight the skillful, gentle touch of the few, while the clumsy actions of the many are slightly out of focus.",
+        "Resolution": "8K, hyper-realistic, with advanced visual effects for the impossibly delicate flower.",
+        "Lighting": "Soft, delicate, and ethereal lighting.",
+        "Art_Genre": "Symbolic art, magical realism."
+      },
+      "Cultural_Anchors": [
+        "Love is more delicate than a flower (மலரினும் மெல்லிது காமம்)",
+        "Few attain its perfect state (சிலர் அதன் செவ்வி தலைப்படுவார்)"
+      ]
+    },
+    "Negative_Prompt": "robust flower, everyone touching it successfully, text artifacts.",
+    "Hyperparameters": {
+      "variant": "pro",
+      "steps": 55,
+      "cfg_scale": 7,
+      "seed": "Explore the design of the 'hyper-delicate flower of love'."
+    }
+  }
+}

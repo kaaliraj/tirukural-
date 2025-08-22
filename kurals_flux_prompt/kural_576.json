@@ -1,0 +1,39 @@
+{
+  "Kural_Info": {
+    "Number": 576,
+    "Chapter": "கண்ணோட்டம் (Benignity)",
+    "Tamil_Text": "மண்ணோ டியைந்த மரத்தனையர் கண்ணோ டியைந்துகண் ணோடா தவர்.",
+    "English_Meaning": "They resemble the trees of the earth, who although they have eyes, never look kindly (on others)."
+  },
+  "Flux_Optimized_Prompt": {
+    "Layered_Composition": {
+      "Foreground": "A group of human figures are standing in a field. They have eyes, but their gaze is blank and unfeeling.",
+      "Midground": "As the viewer looks closer, it becomes apparent that these are not people, but lifelike wooden statues or trees carved in human form ('மரத்தனையர்'). Their feet are rooted deep into the earth ('மண்ணோடு இயைந்த').",
+      "Background": "They possess the form of humans, with eyes, but they lack the essential human quality of benignity, making them no different from inanimate trees."
+    },
+    "Art_Direction": {
+      "Subject_and_Action": "People who have eyes but lack kindness are no different from trees rooted in the earth; they are inanimate objects with the mere appearance of life.",
+      "Symbolic_Motifs": "The people slowly revealing themselves to be trees is the key visual trick. This makes the metaphor literal and powerful. Their rootedness signifies their inability to connect or show compassion.",
+      "Mood_and_Emotion": "Lifeless, inanimate, unfeeling, wooden, tragic.",
+      "Lighting_and_Color": "Dappled, natural sunlight as in a forest. The texture of the 'skin' should be subtly revealed as tree bark. The colors are earthy and neutral.",
+      "Technical_Cues": {
+        "Camera": "A slow pull-out shot that starts with a close-up of a human-looking face and ends with a wide shot revealing they are all trees.",
+        "Resolution": "8K, with hyper-realistic bark and skin textures that blend into one another.",
+        "Lighting": "Naturalistic forest lighting.",
+        "Art_Genre": "Surrealism, magical realism."
+      }
+    },
+    "Cultural_Anchors": [
+      "Like a Tree fixed in Earth ('மண்ணோடு இயைந்த மரம்')",
+      "Those with Eyes but no Kindness ('கண்ணோட்டம் இல்லாதவர்')",
+      "The definition of being truly human."
+    ]
+  },
+  "Negative_Prompt": "people showing emotion, trees walking, text artifacts, cartoonish.",
+  "Hyperparameters": {
+    "variant": "dev",
+    "steps": 45,
+    "cfg_scale": 8,
+    "seed": "Explore variations for the skin-to-bark texture."
+  }
+}

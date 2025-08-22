@@ -1,0 +1,39 @@
+{
+  "Kural_Info": {
+    "Number": 1035,
+    "Chapter": "உழவு (Farming)",
+    "Tamil_Text": "இரவார் இரப்பார்க்கொன்று ஈவர் கரவாதுகைசெய்தூண் மாலை யவர்.",
+    "English_Meaning": "Those whose nature is to live by manual labour will never beg but give something to those who beg."
+  },
+  "Flux_Optimized_Prompt": {
+    "Layered_Composition": {
+      "Foreground": "A farmer, whose hands are strong and calloused from manual labor ('கை செய்து ஊண்'), is shown.",
+      "Midground": "A beggar ('இரப்பார்') comes to him asking for alms.",
+      "Background": "The farmer, despite his own humble status, does two things. First, he himself does not beg ('இரவார்'). Second, he freely and without hiding anything ('கரவாது'), gives a portion of his own hard-earned food to the beggar ('ஒன்று ஈவர்')."
+    },
+    "Art_Direction": {
+      "Subject_and_Action": "Those who live by the dignity of their own labor will never stoop to beg themselves; on the contrary, they will freely give to those who do.",
+      "Symbolic_Motifs": "The farmer's strong, working hands are a symbol of his dignity and self-reliance. His open-handed gesture of giving, even though he is not wealthy, shows his superior moral character. The contrast between the dignified worker and the supplicant beggar is key.",
+      "Mood_and_Emotion": "Dignified, self-reliant, generous, honorable.",
+      "Lighting_and_Color": "A strong, honest, daylight illuminates the scene. The farmer is depicted with a noble and dignified expression. The act of giving is the central, warmly lit focus of the image.",
+      "Technical_Cues": {
+        "Camera": "An eye-level shot that captures the interaction with a sense of respect and dignity, focusing on the farmer's honorable choice.",
+        "Resolution": "8K, ultra-realistic, with a focus on the textures of the working hands and the simple food.",
+        "Lighting": "Natural, honest lighting that ennobles the farmer.",
+        "Art_Genre": "Social realism, in the style of Jean-François Millet."
+      },
+      "Cultural_Anchors": [
+        "Those who eat by the work of their own hands (கை செய்து ஊண் மாலையவர்)",
+        "They will not beg (இரவார்)",
+        "They will give to beggars (இரப்பார்க்கு ஒன்று ஈவர்)"
+      ]
+    },
+    "Negative_Prompt": "farmer begging, farmer refusing the beggar, text artifacts.",
+    "Hyperparameters": {
+      "variant": "pro",
+      "steps": 50,
+      "cfg_scale": 8,
+      "seed": "Focus on the dignified expression of the farmer."
+    }
+  }
+}

@@ -1,0 +1,39 @@
+{
+  "Kural_Info": {
+    "Number": 542,
+    "Chapter": "செங்கோன்மை (The Right Sceptre)",
+    "Tamil_Text": "வானோக்கி வாழும் உலகெல்லாம் மன்னவன் கோல்நோக்கி வாழுங் குடி.",
+    "English_Meaning": "All the world looks to the sky for rain, and the people look to the king's sceptre for protection."
+  },
+  "Flux_Optimized_Prompt": {
+    "Layered_Composition": {
+      "Foreground": "A split composition, showing a parallel reliance. On the top half, a vast, thirsty agricultural landscape ('உலகெல்லாம்') is shown with all the plants and farmers looking up towards the sky, waiting for life-giving rain ('வானோக்கி').",
+      "Midground": "On the bottom half, the citizens of a kingdom ('குடி') are shown looking up with the same expression of hopeful reliance towards their king's royal sceptre ('கோல்நோக்கி'), which glows with the light of justice and protection.",
+      "Background": "The sky above is filled with promising rain clouds. The kingdom below is peaceful and orderly, showing that the people's trust is well-placed."
+    },
+    "Art_Direction": {
+      "Subject_and_Action": "A direct analogy: just as the world depends on the rain from the sky for life, the people depend on the justice of their king's rule for their well-being.",
+      "Symbolic_Motifs": "The mirrored postures of the farmers looking at the sky and the citizens looking at the sceptre create a powerful visual parallel. The sceptre glowing with protective light symbolizes just rule.",
+      "Mood_and_Emotion": "Dependent, hopeful, reliant, fundamental.",
+      "Lighting_and_Color": "The top half has the soft, diffused light of an overcast, pre-rain sky. The bottom half is lit by the warm, reassuring glow of the king's sceptre."
+    },
+    "Technical_Cues": {
+      "Camera": "A wide, split-screen shot that emphasizes the parallel between the two scenes of dependence.",
+      "Resolution": "8K, with realistic landscapes and expressive crowds.",
+      "Lighting": "Contrasting but complementary lighting for the two halves.",
+      "Art_Genre": "Symbolic realism, epic mural style."
+    },
+    "Cultural_Anchors": [
+      "World looks to the Sky ('வானோக்கி வாழும் உலகம்')",
+      "People look to the Sceptre ('கோல்நோக்கி வாழும் குடி')",
+      "The king's rule as a fundamental life source."
+    ]
+  },
+  "Negative_Prompt": "drought, broken sceptre, unhappy people, text artifacts, cartoonish.",
+  "Hyperparameters": {
+    "variant": "pro",
+    "steps": 50,
+    "cfg_scale": 8,
+    "seed": "Explore variations for the glow of the sceptre."
+  }
+}

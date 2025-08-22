@@ -1,0 +1,38 @@
+{
+  "Kural_Info": {
+    "Number": 938,
+    "Chapter": "சூது (Gambling)",
+    "Tamil_Text": "பொருள்கெடுத்துப் பொய்மேற் கொளீஇ அருள்கெடுத்து அல்லல் உழப்பிக்கும் சூது.",
+    "English_Meaning": "Gambling destroys property, teaches falsehood, puts an end to benevolence, and brings in misery (here and hereafter)."
+  },
+  "Flux_Optimized_Prompt": {
+    "Layered_Composition": {
+      "Foreground": "A central figure is shown chained to a cursed gambling table ('சூது').",
+      "Midground": "The chains are leading to four distinct and terrible outcomes. One chain dissolves their wealth into dust ('பொருள்கெடுத்து'). A second chain forces them to wear a mask of lies ('பொய்மேற்கொளீஇ'). A third chain extinguishes the light of grace and compassion in their heart ('அருள்கெடுத்து').",
+      "Background": "The fourth and final result of all this is that the person is left in a state of unending, profound misery and suffering ('அல்லல் உழப்பிக்கும்'), depicted as a desolate, hellish landscape."
+    },
+    "Art_Direction": {
+      "Subject_and_Action": "Gambling is a singular vice that causes a cascade of four destructions: it destroys wealth, forces lies, kills grace, and finally, inflicts endless suffering.",
+      "Symbolic_Motifs": "The four chains leading from the gambling table to the four distinct punishments is the key visual structure. Each chain's effect is clearly and symbolically represented.",
+      "Mood_and_Emotion": "Destructive, multi-faceted ruin, a chain of suffering.",
+      "Lighting_and_Color": "A dark, hellish, and oppressive light. The colors are sickly and full of despair. Each of the four effects has its own sinister visual quality.",
+      "Technical_Cues": {
+        "Camera": "A wide, allegorical shot that shows the central figure and the four branching paths of ruin that stem from their addiction.",
+        "Resolution": "8K, with a dark, complex, and symbolic composition.",
+        "Lighting": "Low-key, hellish lighting.",
+        "Art_Genre": "Dark fantasy, allegorical painting in the style of Hieronymus Bosch."
+      },
+      "Cultural_Anchors": [
+        "Gambling's four destructions:",
+        "Destroys wealth, forces lies, kills grace, and causes suffering."
+      ]
+    },
+    "Negative_Prompt": "a happy gambler, text artifacts, cartoonish.",
+    "Hyperparameters": {
+      "variant": "pro",
+      "steps": 50,
+      "cfg_scale": 9,
+      "seed": "Explore variations for the four symbolic destructions."
+    }
+  }
+}

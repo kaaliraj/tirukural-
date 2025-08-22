@@ -1,0 +1,38 @@
+{
+  "Kural_Info": {
+    "Number": 215,
+    "Chapter": "ஒப்புரவறிதல் (Duty to Society)",
+    "Tamil_Text": "ஊருணி நீர்நிறைந் தற்றே உலகவாம்பேரறி வாளன் திரு.",
+    "English_Meaning": "The wealth of that man of eminent knowledge who desires to exercise the benevolence approved of by the world, is like the full waters of a city-tank."
+  },
+  "Flux_Optimized_Prompt": {
+    "Layered_Composition": {
+      "Foreground": "The wealth ('திரு') of a great and wise person ('பேரறிவாளன்') is shown. This wealth is not a hoard of gold, but a vast, clean, and completely full public water tank or reservoir ('ஊருணி நீர் நிறைந்து').",
+      "Midground": "The reservoir is located in the center of a thriving community. All the people of the world ('உலகவாம்')—children, elders, farmers, artisans—are shown freely and joyfully drawing water from it for their needs.",
+      "Background": "The wise owner of this 'wealth' is shown not guarding it, but watching with a benevolent smile as it is used by everyone. Their wisdom is in understanding that the purpose of their wealth is to be a public resource."
+    },
+    "Art_Direction": {
+      "Subject_and_Action": "A beautiful simile: the wealth of a wise and benevolent person is not a private possession, but a public good, like a full reservoir from which the entire community can freely draw water.",
+      "Symbolic_Motifs": "Wealth as a public water source is the central metaphor. The key is its accessibility and its benefit to the entire community. The water is clean and abundant, symbolizing the pure and bountiful nature of this kind of wealth.",
+      "Mood_and_Emotion": "Communal, benevolent, life-sustaining, generous.",
+      "Lighting_and_Color": "A bright, clear, sunny day. The water is a beautiful, sparkling, life-giving blue. The community is happy and prosperous. The palette is one of communal well-being and abundance.",
+      "Technical_Cues": {
+        "Camera": "A high-angle wide shot that captures the central reservoir and the entire thriving community that depends on it, showing the wealth as the heart of the society.",
+        "Resolution": "8K, ultra-realistic, with beautiful, clear water effects and a vibrant depiction of a healthy community.",
+        "Lighting": "Bright, cheerful, and life-affirming light.",
+        "Art_Genre": "Idealistic realism, pastoral painting."
+      },
+      "Cultural_Anchors": [
+        "The wealth of a great wise man (பேரறிவாளன் திரு)",
+        "Is like a village tank full of water (ஊருணி நீர் நிறைந்தற்று)"
+      ]
+    },
+    "Negative_Prompt": "guarded reservoir, empty tank, thirsty people, text artifacts.",
+    "Hyperparameters": {
+      "variant": "pro",
+      "steps": 50,
+      "cfg_scale": 7,
+      "seed": "Explore the depiction of the thriving, happy community."
+    }
+  }
+}

@@ -1,0 +1,39 @@
+{
+  "Kural_Info": {
+    "Number": 582,
+    "Chapter": "ஒற்றாடல் (Detectives)",
+    "Tamil_Text": "எல்லார்க்கும் எல்லாம் நிகழ்பவை எஞ்ஞான்றும் வல்லறிதல் வேந்தன் தொழில்.",
+    "English_Meaning": "It is the duty of a king to know quickly (by a spy) what all happens, daily, amongst all men."
+  },
+  "Flux_Optimized_Prompt": {
+    "Layered_Composition": {
+      "Foreground": "A king is shown in his strategy room. He is looking at a magical, living map of his kingdom.",
+      "Midground": "The map is not static; it shows everything happening in real-time. Tiny, detailed scenes depicting all the activities of all his people ('எல்லார்க்கும் எல்லாம் நிகழ்பவை') are constantly updating across the map's surface. This information is being fed to the map by a network of unseen spies.",
+      "Background": "The king's expression is one of deep concentration and understanding. His ability to know everything quickly ('வல்லறிதல்') is shown as the core of his job ('வேந்தன் தொழில்')."
+    },
+    "Art_Direction": {
+      "Subject_and_Action": "The fundamental duty of a king is to have a swift and complete awareness of all events concerning all people in his realm at all times.",
+      "Symbolic_Motifs": "The magical, real-time map is the central metaphor for a perfect intelligence network. It visually represents the concept of total, immediate information.",
+      "Mood_and_Emotion": "Omniscient, vigilant, informed, competent, dutiful.",
+      "Lighting_and_Color": "The primary light in the dark room comes from the glowing map itself, symbolizing that information is the light by which the king rules. The map glows with a cool, analytical blue light.",
+      "Technical_Cues": {
+        "Camera": "An over-the-shoulder shot of the king, allowing the viewer to see the incredible detail on the living map.",
+        "Resolution": "8K, with complex and intricate animated details on the map.",
+        "Lighting": "Dramatic lighting from the map, illuminating the king's face.",
+        "Art_Genre": "High-fantasy, with a technological/magical interface aesthetic."
+      }
+    },
+    "Cultural_Anchors": [
+      "Knowing all things happening to all people",
+      "Swift knowledge ('வல்லறிதல்')",
+      "Kingship as a profession of information gathering."
+    ]
+  },
+  "Negative_Prompt": "king sleeping, blank map, text artifacts, cartoonish.",
+  "Hyperparameters": {
+    "variant": "dev",
+    "steps": 45,
+    "cfg_scale": 9,
+    "seed": "Explore variations for the scenes on the living map."
+  }
+}

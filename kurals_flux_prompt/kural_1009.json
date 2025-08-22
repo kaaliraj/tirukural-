@@ -1,0 +1,33 @@
+{
+  "Kural_Info": {
+    "Number": 1009,
+    "Chapter": "நன்றியில்செல்வம் (Wealth without Benefaction)",
+    "Tamil_Text": "அன்பொரீஇத் தற்செற்று அறநோக்காது ஈட்டியஒண்பொருள் கொள்வார் பிறர்.",
+    "English_Meaning": "Who love abandon, self-afflict, and virtue's way forsake To heap up glittering wealth, their hoards shall others take."
+  },
+  "Flux_Optimized_Prompt": {
+    "Layered_Composition": {
+      "Foreground": "A ghostly, transparent image of a miser who has passed away. During his life, he is shown having forsaken love ('Anbu Oreei'), harmed himself through austerity ('Thar Serru'), and ignored virtue ('Aram Nookkathu') to accumulate wealth.",
+      "Midground": "His vast, shining hoard of wealth ('Onporul') is now being cheerfully taken and distributed by strangers and distant relatives ('Pirar') who had no part in its painful accumulation.",
+      "Background": "The scene is the miser's grand house, but it is now filled with light and activity as the wealth is finally being put to use by others."
+    },
+    "Art_Direction": {
+      "Subject_and_Action": "The ultimate irony for a miser: the wealth they painfully and unethically hoarded throughout their life will eventually be enjoyed by others.",
+      "Symbolic_Motifs": "The ghost of the miser watching helplessly is the key image. The cheerful distribution of his hard-won wealth by others highlights the theme of futility.",
+      "Mood_and_Emotion": "Ironic, futile, a sense of karmic justice.",
+      "Lighting_and_Color": "The ghostly miser is in cool, ethereal blues. The scene of the wealth distribution is filled with warm, joyful, golden light. This contrast separates the misery of hoarding from the joy of using."
+    },
+    "Technical_Cues": {
+      "Camera": "A wide shot from the perspective of the ghostly miser, looking down upon the scene of his legacy being dismantled.",
+      "Resolution": "8K, photorealistic with ethereal ghost effects.",
+      "Lighting": "Strong contrast between the cold, ghostly foreground and the warm, lively background.",
+      "Art_Genre": "Narrative realism with supernatural and symbolic elements."
+    },
+    "Cultural_Anchors": [
+      "The futility of hoarding",
+      "Karmic consequence",
+      "The eventual distribution of unused wealth"
+    ]
+  },
+  "Negative_Prompt": "miser enjoying his wealth in the afterlife, sad people taking the wealth, modern setting, text artifacts, cartoonish."
+}

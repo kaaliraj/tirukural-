@@ -1,0 +1,39 @@
+{
+  "Kural_Info": {
+    "Number": 25,
+    "Chapter": "நீத்தார் பெருமை (The Greatness of Ascetics)",
+    "Tamil_Text": "ஐந்தவித்தான் ஆற்றல் அகல்விசும்பு ளார்கோமான்இந்திரனே சாலுங் கரி.",
+    "English_Meaning": "Indra, the king of the inhabitants of the spacious heaven, is himself, a sufficient proof of the strength of him who has subdued his five senses."
+  },
+  "Flux_Optimized_Prompt": {
+    "Layered_Composition": {
+      "Foreground": "On Earth, a humble but powerful ascetic ('ஐந்தவித்தான்') sits in deep meditation, radiating an aura of immense, controlled power that ascends towards the heavens.",
+      "Midground": "In the celestial realm (Amaravati), Indra, the king of the gods ('கோமான்'), is depicted on his magnificent throne. He is not looking down with pride, but rather looking towards the ascetic on earth with an expression of profound respect and awe.",
+      "Background": "The opulent celestial court of Indra is visible, but its grandeur is subtly diminished by the sheer intensity of the spiritual power radiating from the humble ascetic below."
+    },
+    "Art_Direction": {
+      "Subject_and_Action": "Indra, the king of heaven, serves as the ultimate witness ('கரி') to the superior power ('ஆற்றல்') of an ascetic who has completely mastered their five senses.",
+      "Symbolic_Motifs": "A subtle reference to the Ahalya myth can be shown: Indra's magnificent armor might have a thousand eye-like patterns, a reminder of his past failure to control his senses, which now makes him a credible witness to the ascetic's superior strength.",
+      "Mood_and_Emotion": "Awe, respect, the superiority of inner spiritual power over external divine authority.",
+      "Lighting_and_Color": "A brilliant, pure golden light radiates upwards from the ascetic. The celestial realm is filled with opulent, but cooler, blues and silvers. The ascetic's warm light touches Indra's face, illuminating his expression of awe."
+    },
+    "Technical_Cues": {
+      "Camera": "Dynamic low-angle shot from behind the ascetic, looking up towards Indra's celestial realm, emphasizing the source of the true power.",
+      "Resolution": "8K, ultra-realistic, with a clear distinction between the earthy texture of the hermitage and the ethereal quality of the celestial realm.",
+      "Lighting": "Contrasting light sources: a warm, rising spiritual light from below and a cooler, ambient celestial light from above.",
+      "Art_Genre": "Epic fantasy painting, mythological art."
+    },
+    "Cultural_Anchors": [
+      "Indra (இந்திரன்) as the witness (கரி)",
+      "Aindhaviththaan (ஐந்தவித்தான்) - He who has subdued the five",
+      "The superiority of self-mastery over celestial power"
+    ]
+  },
+  "Negative_Prompt": "arrogant Indra, weak ascetic, Indra attacking, dark scene, cartoonish depiction, non-Indic architecture, text artifacts.",
+  "Hyperparameters": {
+    "variant": "pro",
+    "steps": 55,
+    "cfg_scale": 9,
+    "seed": "Explore variations for the design of Indra's celestial court."
+  }
+}

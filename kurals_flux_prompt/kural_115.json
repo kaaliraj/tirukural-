@@ -1,0 +1,39 @@
+{
+  "Kural_Info": {
+    "Number": 115,
+    "Chapter": "நடுவு நிலைமை (Impartiality)",
+    "Tamil_Text": "கேடும் பெருக்கமும் இல்லல்ல நெஞ்சத்துக்கோடாமை சான்றோர்க் கணி.",
+    "English_Meaning": "Loss and gain come not without cause; it is the ornament of the wise to preserve evenness of mind (under both)."
+  },
+  "Flux_Optimized_Prompt": {
+    "Layered_Composition": {
+      "Foreground": "A wise sage ('சான்றோர்') stands in perfect, serene balance. Their mind ('நெஞ்சத்து') is visualized as a perfectly still, clear pool of water.",
+      "Midground": "On one side, a shower of golden coins representing 'gain' ('பெருக்கம்') falls towards the sage. On the other side, a harsh, destructive wind representing 'loss' ('கேடு') blows towards them.",
+      "Background": "Neither the gain nor the loss disturbs the perfect stillness of the pool of their mind. The coins land gently without a ripple, and the wind passes over without stirring the surface. This equanimity ('கோடாமை') is their true ornament ('அணி')."
+    },
+    "Art_Direction": {
+      "Subject_and_Action": "The true ornament of the wise is to maintain a perfectly unshaken and impartial mind, regardless of whether they are faced with great loss or great gain.",
+      "Symbolic_Motifs": "The still pool of the mind is the central metaphor. The external events of gain and loss are shown to be powerless against this inner stillness. The 'ornament' is not a physical thing, but this state of perfect balance.",
+      "Mood_and_Emotion": "Serene, balanced, equanimity, unshakable, wise.",
+      "Lighting_and_Color": "A clear, pure, centered light illuminates the sage. The shower of gold has a bright but fleeting glow, and the winds of loss are dark and transient. The light of the sage's inner peace is constant and unwavering.",
+      "Technical_Cues": {
+        "Camera": "A centered, symmetrical shot that emphasizes the perfect balance of the sage against the opposing forces of gain and loss.",
+        "Resolution": "8K, ultra-realistic, with beautiful liquid physics for the still pool and particle effects for the gold and wind.",
+        "Lighting": "The sage's inner calm is represented by a soft, constant light that is unaffected by the external events.",
+        "Art_Genre": "Symbolic portraiture, mystical realism."
+      },
+      "Cultural_Anchors": [
+        "Evenness of mind (கோடாமை)",
+        "Loss (கேடு) and Gain (பெருக்கம்)",
+        "The ornament of the wise (சான்றோர்க்கு அணி)"
+      ]
+    },
+    "Negative_Prompt": "disturbed sage, ripples in the pool, sage reacting happily or sadly, text artifacts.",
+    "Hyperparameters": {
+      "variant": "pro",
+      "steps": 50,
+      "cfg_scale": 7,
+      "seed": "Explore the visual of the coins and wind failing to disturb the water."
+    }
+  }
+}

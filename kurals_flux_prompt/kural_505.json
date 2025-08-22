@@ -1,0 +1,39 @@
+{
+  "Kural_Info": {
+    "Number": 505,
+    "Chapter": "தெரிந்துதெளிதல் (Selection and Confidence)",
+    "Tamil_Text": "பெருமைக்கும் ஏனைச் சிறுமைக்கும் தத்தங் கருமமே கட்டளைக் கல்.",
+    "English_Meaning": "A man's deeds are the touchstone of his greatness and littleness."
+  },
+  "Flux_Optimized_Prompt": {
+    "Layered_Composition": {
+      "Foreground": "A large, magical touchstone ('கட்டளைக்கல்') stands in the center. It has the power to reveal a person's true nature.",
+      "Midground": "On the left, a person performs a great and noble deed ('பெருமை'), like saving a child from a fire. They then touch the stone, and it glows with a brilliant, golden light, revealing their greatness.",
+      "Background": "On the right, another person performs a mean and petty deed ('சிறுமை'), like stealing from the poor. They touch the stone, and it turns a dull, leaden black, revealing their meanness."
+    },
+    "Art_Direction": {
+      "Subject_and_Action": "A person's actions ('கருமம்') are the true touchstone that reveals whether they are great or mean.",
+      "Symbolic_Motifs": "The magical touchstone is the literal representation of the 'kattalaikkal'. The contrasting deeds and the resulting different reactions of the stone clearly illustrate the Kural's message.",
+      "Mood_and_Emotion": "Revealing, judgmental, clear, consequential.",
+      "Lighting_and_Color": "The lighting for the scene of the great deed is heroic and warm. The lighting for the mean deed is sneaky and cold. The touchstone itself is the main light source, glowing gold for greatness and turning black for meanness.",
+      "Technical_Cues": {
+        "Camera": "A wide composition that shows both individuals and their interaction with the touchstone.",
+        "Resolution": "8K, cinematic, with powerful glowing effects from the stone.",
+        "Lighting": "High-contrast, symbolic lighting.",
+        "Art_Genre": "Fantasy art, moral allegory."
+      }
+    },
+    "Cultural_Anchors": [
+      "Deeds as the Touchstone ('கருமமே கட்டளைக்கல்')",
+      "Revealing Greatness ('பெருமை')",
+      "Revealing Meanness ('சிறுமை')"
+    ]
+  },
+  "Negative_Prompt": "touchstone not working, ambiguous deeds, text artifacts, blurry.",
+  "Hyperparameters": {
+    "variant": "pro",
+    "steps": 50,
+    "cfg_scale": 8,
+    "seed": "Explore variations for the touchstone's glowing effect."
+  }
+}

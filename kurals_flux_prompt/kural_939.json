@@ -1,0 +1,38 @@
+{
+  "Kural_Info": {
+    "Number": 939,
+    "Chapter": "சூது (Gambling)",
+    "Tamil_Text": "உடைசெல்வம் ஊண்ஒளி கல்விஎன்று ஐந்தும் அடையாவாம் ஆயங் கொளின்.",
+    "English_Meaning": "The habit of gambling prevents the attainment of these five: clothing, wealth, food, fame and learning."
+  },
+  "Flux_Optimized_Prompt": {
+    "Layered_Composition": {
+      "Foreground": "A person is enthralled by a game of dice ('ஆயம்'). The dice game is a dark, swirling vortex that is pulling them in.",
+      "Midground": "As they are pulled towards the vortex, five essential aspects of a good life are being stripped away from them.",
+      "Background": "Their fine clothes ('உடை') unravel into threads. Their wealth ('செல்வம்') turns to dust. The food ('ஊண்') on their table rots. Their light of fame ('ஒளி') is extinguished. The book of their learning ('கல்வி') burns to ash. They are left with nothing ('அடையாவாம்')."
+    },
+    "Art_Direction": {
+      "Subject_and_Action": "If one takes up gambling, they will be deprived of the five great goods: clothing, wealth, food, fame, and learning.",
+      "Symbolic_Motifs": "The gambling vortex as the central destructive force is key. The dramatic, magical destruction of the five symbolic goods clearly illustrates the totality of the loss.",
+      "Mood_and_Emotion": "Destructive, all-consuming, a total loss.",
+      "Lighting_and_Color": "The vortex has a dark, sickly, hypnotic glow. The five goods are initially bright and vibrant, but are shown being dramatically destroyed and turning to dust, ash, and decay.",
+      "Technical_Cues": {
+        "Camera": "A dynamic, swirling shot that mimics the pull of the vortex, showing the five goods being destroyed one by one.",
+        "Resolution": "8K, cinematic, with high-quality destruction effects.",
+        "Lighting": "The vortex is the primary, sinister light source.",
+        "Art_Genre": "Dark fantasy art."
+      },
+      "Cultural_Anchors": [
+        "The five things gambling destroys:",
+        "Clothing, Wealth, Food, Fame, and Learning."
+      ]
+    },
+    "Negative_Prompt": "a gambler who has all five things, text artifacts, cartoonish.",
+    "Hyperparameters": {
+      "variant": "pro",
+      "steps": 50,
+      "cfg_scale": 9,
+      "seed": "Explore variations for the destruction of the five goods."
+    }
+  }
+}

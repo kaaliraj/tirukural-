@@ -1,0 +1,39 @@
+{
+  "Kural_Info": {
+    "Number": 70,
+    "Chapter": "மக்கட்பேறு (The Offspring)",
+    "Tamil_Text": "மகன்தந்தைக்கு ஆற்றும் உதவி இவன்தந்தைஎன்நோற்றான் கொல்எனும் சொல்.",
+    "English_Meaning": "(So to act) that it may be said \"by what great penance did his father beget him,\" is the benefit which a son should render to his father."
+  },
+  "Flux_Optimized_Prompt": {
+    "Layered_Composition": {
+      "Foreground": "A son is performing a great and noble deed—perhaps defending the innocent or demonstrating profound wisdom in a king's court. His actions are exemplary.",
+      "Midground": "A crowd of people are watching the son. Instead of praising the son directly, their heads are turned towards the son's father, who stands humbly in the background.",
+      "Background": "From the crowd, a single, powerful question, formed of glowing ethereal letters, rises and floats above the father: 'What great penance did this man perform to beget such a son?' ('என் நோற்றான் கொல்')."
+    },
+    "Art_Direction": {
+      "Subject_and_Action": "A son's greatest service ('உதவி') to his father is to live so virtuously that the world, in praising the son, marvels at the father's past merits.",
+      "Symbolic_Motifs": "The praise is indirect; the glory of the son is reflected back onto the father. The floating question is the literal manifestation of the son's 'repayment' to his father. The father's expression is not one of pride, but of humble, profound fulfillment.",
+      "Mood_and_Emotion": "Reflected glory, fulfilled legacy, ultimate repayment, profound respect.",
+      "Lighting_and_Color": "A brilliant light shines on the son's noble deed. However, a significant portion of this light is reflected, as if by a mirror, to illuminate the father. The glowing question is the brightest element in the scene.",
+      "Technical_Cues": {
+        "Camera": "Wide narrative shot that uses the gaze of the crowd and symbolic light to connect the son's action to the father's honor.",
+        "Resolution": "8K, ultra-realistic, with strong emotional expressions on all faces.",
+        "Lighting": "Symbolic use of reflected light to tell the story.",
+        "Art_Genre": "Classical narrative painting, historical realism."
+      },
+      "Cultural_Anchors": [
+        "A son's duty/help (மகன் ஆற்றும் உதவி)",
+        "The wondering praise for the father (என் நோற்றான் கொல்)",
+        "The idea that a child's virtue is the ultimate honor to a parent."
+      ]
+    },
+    "Negative_Prompt": "father taking credit, crowd ignoring the father, evil son, text artifacts, modern setting.",
+    "Hyperparameters": {
+      "variant": "dev",
+      "steps": 45,
+      "cfg_scale": 9,
+      "seed": "Explore the visual representation of the glowing question."
+    }
+  }
+}

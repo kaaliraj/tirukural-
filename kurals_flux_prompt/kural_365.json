@@ -1,0 +1,39 @@
+{
+  "Kural_Info": {
+    "Number": 365,
+    "Chapter": "அவாவறுத்தல் (Curbing of Desire)",
+    "Tamil_Text": "அற்றவர் என்பார் அவாஅற்றார் மற்றையார் அற்றாக அற்றது இலர்.",
+    "English_Meaning": "Men freed from bonds of strong desire are free; None other share such perfect liberty."
+  },
+  "Flux_Optimized_Prompt": {
+    "Layered_Composition": {
+      "Foreground": "A figure stands with arms outstretched, shattering ethereal, glowing chains that once bound them. These chains represent desire ('அவா').",
+      "Midground": "Behind this liberated figure, other people are shown still entangled in these glowing chains of desire, struggling and unable to break free. They are tethered to worldly possessions.",
+      "Background": "A vast, open sky with a rising sun, symbolizing the freedom and new beginning that comes with breaking the bonds of desire."
+    },
+    "Art_Direction": {
+      "Subject_and_Action": "The visual moment of liberation, where a person who has completely severed desire ('அவா அற்றார்') achieves true freedom, contrasted with those still enslaved by it.",
+      "Symbolic_Motifs": "The shattering chains are the central metaphor for severing attachments. The rising sun represents enlightenment and true liberty.",
+      "Mood_and_Emotion": "Liberating, powerful, triumphant, spiritually profound.",
+      "Lighting_and_Color": "The foreground figure is bathed in the warm, powerful light of the rising sun. The background figures are in a cooler, dimmer light, emphasizing their entrapment. The chains glow with an alluring but dangerous light.",
+      "Technical_Cues": {
+        "Camera": "Low-angle dynamic shot, making the liberated figure look heroic and powerful.",
+        "Resolution": "8K, ultra-realistic, with dynamic particle effects for the shattering chains.",
+        "Lighting": "Strong backlighting from the sun, creating a heroic silhouette. Lens flare.",
+        "Art_Genre": "Fantasy realism, symbolic art."
+      }
+    },
+    "Cultural_Anchors": [
+      "Concept of being 'Arravar' (The Severed/Freed)",
+      "Severing Desire ('அவா அறுத்தல்')",
+      "Spiritual liberty (விடுதலை)"
+    ]
+  },
+  "Negative_Prompt": "weak figure, unbroken chains, sad expression, night time, text artifacts, cartoony style.",
+  "Hyperparameters": {
+    "variant": "pro",
+    "steps": 50,
+    "cfg_scale": 9,
+    "seed": "Explore variations for the shattering chain effect."
+  }
+}

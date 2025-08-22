@@ -1,0 +1,33 @@
+{
+  "Kural_Info": {
+    "Number": 1006,
+    "Chapter": "நன்றியில்செல்வம் (Wealth without Benefaction)",
+    "Tamil_Text": "ஏதம் பெருஞ்செல்வம் தான்துவ்வான் தக்கார்க்கொன்றுஈதல் இயல்பிலா தான்.",
+    "English_Meaning": "Their ample wealth is misery to men of churlish heart, Who nought themselves enjoy, and nought to worthy men impart."
+  },
+  "Flux_Optimized_Prompt": {
+    "Layered_Composition": {
+      "Foreground": "A wealthy individual is surrounded by a magnificent feast and luxurious items. However, their great wealth ('Perunchelvam') is visualized as a sickness or a blight—the food is rotting, the gold is tarnished, and thorny vines grow over everything.",
+      "Midground": "The individual themselves does not partake ('Thaan Thuvvaan') and also actively turns away from a worthy person ('Thakkaar') who is in need, refusing to give ('Eethal Iyalbilathaan').",
+      "Background": "A grand hall that is slowly decaying, mirroring the decay of the wealth and the soul of its owner."
+    },
+    "Art_Direction": {
+      "Subject_and_Action": "Wealth becomes a destructive disease ('Etham') in the hands of someone who neither enjoys it themselves nor shares it with the deserving.",
+      "Symbolic_Motifs": "The rotting feast and thorny vines growing over the treasure are the key symbols for wealth as a disease. The dual refusal—to enjoy and to give—is the central action.",
+      "Mood_and_Emotion": "Decaying, wasteful, miserable, corrupt.",
+      "Lighting_and_Color": "A sickly, green-tinged light that makes the scene look unhealthy and putrid. The colors are muted and decaying, with lots of dark greens, browns, and tarnished metallics."
+    },
+    "Technical_Cues": {
+      "Camera": "Wide angle shot to capture the full extent of the decaying opulence and the miser's isolation within it.",
+      "Resolution": "8K, ultra-realistic, with highly detailed textures of decay and rot.",
+      "Lighting": "Eerie, unsettling light that gives the impression of sickness and corruption.",
+      "Art_Genre": "Dark symbolic realism, with elements of a gothic still life."
+    },
+    "Cultural_Anchors": [
+      "செல்வ நோய் (Sickness of Wealth)",
+      "ஈகை (Giving)",
+      "துய்த்தல் (Enjoyment)"
+    ]
+  },
+  "Negative_Prompt": "fresh food, sparkling treasure, happy protagonist, bright lighting, text artifacts, modern setting, cartoonish."
+}

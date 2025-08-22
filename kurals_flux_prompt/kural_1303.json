@@ -1,0 +1,38 @@
+{
+  "Kural_Info": {
+    "Number": 1303,
+    "Chapter": "புலவி (Pouting)",
+    "Tamil_Text": "அலந்தாரை அல்லல்நோய் செய்தற்றால் தம்மைப்புலந்தாரைப் புல்லா விடல்.",
+    "English_Meaning": "For men not to embrace those who have feigned dislike is like torturing those already in agony."
+  },
+  "Flux_Optimized_Prompt": {
+    "Layered_Composition": {
+      "Foreground": "A woman is engaged in a lover's pout ('புலந்தார்'). Her expression is one of feigned anger, but underneath, she is in a state of lovesick sorrow.",
+      "Midground": "Her lover, instead of understanding the game and embracing her, is taking her pout seriously and walking away, leaving her un-embraced ('புல்லா விடல்').",
+      "Background": "The effect of his failure to embrace her is shown with a harsh simile: a separate scene shows a person who is already wounded and in agony ('அலந்தார்'). A cruel tormentor is shown deliberately inflicting even more pain and sorrow upon them ('அல்லல் நோய் செய்தற்று'). The lover's neglect is equated with this act of deliberate torture."
+    },
+    "Art_Direction": {
+      "Subject_and_Action": "To fail to embrace a pouting lover is an act of cruelty as severe as deliberately torturing someone who is already in agony.",
+      "Symbolic_Motifs": "The visual parallel between the lover's emotional neglect and the tormentor's physical cruelty is the central, shocking point. The pouting woman's underlying suffering is the key to understanding why the neglect is so cruel.",
+      "Mood_and_Emotion": "Cruel, tormenting, heartbreaking, neglectful.",
+      "Lighting_and_Color": "The scene with the pouting lover is in a sad, melancholic light. The parallel scene of torture is in a dark, cruel, and violent light. The visual equation of the two acts is designed to be jarring.",
+      "Technical_Cues": {
+        "Camera": "A split-screen or juxtaposed shot that forces the viewer to equate the act of romantic neglect with an act of torture.",
+        "Resolution": "8K, ultra-realistic, with a focus on the expressions of suffering in both scenes.",
+        "Lighting": "Dramatic and harsh lighting to emphasize the cruelty.",
+        "Art_Genre": "Allegorical realism, with dramatic and violent undertones."
+      },
+      "Cultural_Anchors": [
+        "Leaving a pouting lover un-embraced (புலந்தாரைப் புல்லா விடல்)",
+        "Is like inflicting sorrow on the already suffering (அலந்தாரை அல்லல் நோய் செய்தற்று)"
+      ]
+    },
+    "Negative_Prompt": "lover embracing her, happy woman, text artifacts.",
+    "Hyperparameters": {
+      "variant": "pro",
+      "steps": 50,
+      "cfg_scale": 9,
+      "seed": "Explore the parallel between the two forms of 'suffering'."
+    }
+  }
+}

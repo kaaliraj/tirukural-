@@ -1,0 +1,39 @@
+{
+  "Kural_Info": {
+    "Number": 771,
+    "Chapter": "படைச்செருக்கு (Military Spirit)",
+    "Tamil_Text": "என்னைமுன் நில்லன்மின் தெவ்விர் பலரென்னைமுன் நின்று கல்நின் றவர்.",
+    "English_Meaning": "O my foes, stand not before my leader; (for) many are those who did so but afterwards stood (in the shape of) statues."
+  },
+  "Flux_Optimized_Prompt": {
+    "Layered_Composition": {
+      "Foreground": "A mighty, heroic warrior stands on a battlefield, issuing a challenge.",
+      "Midground": "Before him, a line of enemy soldiers ('தெவ்விர்') who are foolish enough to stand against him ('என்னை முன் நின்று') are shown in mid-transformation.",
+      "Background": "The transformation is complete for those who stood before him previously. They have been turned into stone statues ('கல் நின்றவர்'), becoming their own memorial stones on the battlefield. The field is littered with these stone figures of defeated foes."
+    },
+    "Art_Direction": {
+      "Subject_and_Action": "A warrior's boast: 'Do not stand against me, enemies, for many who have stood against me before have become stone memorials to their own defeat.'",
+      "Symbolic_Motifs": "The literal transformation of defeated enemies into stone statues (memorial stones) is a powerful, grim, and heroic metaphor for their defeat and death.",
+      "Mood_and_Emotion": "Heroic, intimidating, boastful, grimly triumphant.",
+      "Lighting_and_Color": "Dramatic, epic battlefield lighting. The hero is lit in a golden, heroic light. The stone statues are grey and lifeless, catching the last rays of a setting sun.",
+      "Technical_Cues": {
+        "Camera": "A low-angle shot from the perspective of the enemies, making the hero and the field of stone statues look immense and terrifying.",
+        "Resolution": "8K, cinematic, with a high-fantasy, epic feel.",
+        "Lighting": "High-contrast, golden-hour lighting to create long, dramatic shadows from the statues.",
+        "Art_Genre": "Epic fantasy art, in the style of Frank Frazetta."
+      },
+      "Cultural_Anchors": [
+        "A Warrior's boast ('படைச்செருக்கு')",
+        "Enemies turned to stone ('கல் நின்றவர்')",
+        "The concept of 'Nadukal' or Hero Stones."
+      ]
+    },
+    "Negative_Prompt": "hero losing, enemies winning, text artifacts, cartoonish statues.",
+    "Hyperparameters": {
+      "variant": "pro",
+      "steps": 50,
+      "cfg_scale": 9,
+      "seed": "Explore variations for the stone transformation effect."
+    }
+  }
+}

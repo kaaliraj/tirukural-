@@ -1,0 +1,39 @@
+{
+  "Kural_Info": {
+    "Number": 567,
+    "Chapter": "வெருவந்தசெய்யாமை (Absence of Terrorism)",
+    "Tamil_Text": "கடுமொழியும் கையிகந்த தண்டமும் வேந்தன் அடுமுரண் தேய்க்கும் அரம்.",
+    "English_Meaning": "Harsh words and excessive punishments will be a file to waste away a king's power for destroying (his enemies)."
+  },
+  "Flux_Optimized_Prompt": {
+    "Layered_Composition": {
+      "Foreground": "A king's immense power is visualized as a giant, mighty, sharp sword ('அடுமுரண்').",
+      "Midground": "Two forces are shown acting against this sword. On one side, harsh words ('கடுமொழி') are personified as a stream of acid. On the other side, excessive punishments ('கையிகந்த தண்டம்') are personified as a large, coarse file ('அரம்').",
+      "Background": "Both the acid and the file are relentlessly wearing away the metal of the great sword, making it dull, pitted, and weak ('தேய்க்கும்'). The king's power is visibly diminishing due to his own actions."
+    },
+    "Art_Direction": {
+      "Subject_and_Action": "Harsh speech and disproportionate punishments act like a file, grinding away a king's true strength and power to conquer.",
+      "Symbolic_Motifs": "The king's power as a great sword is the central object. The acid (harsh words) and the file (excessive punishment) are the two agents of its destruction. The visual of the sword being worn away is the key metaphor.",
+      "Mood_and_Emotion": "Corrosive, self-destructive, weakening, unwise.",
+      "Lighting_and_Color": "A harsh, industrial light illuminates the scene. The acid glows with a sickly green color, and the filing action creates painful-looking sparks. The sword loses its heroic gleam and becomes dull.",
+      "Technical_Cues": {
+        "Camera": "A close-up shot focusing on the point of contact where the file and acid are destroying the sword's edge.",
+        "Resolution": "8K, with detailed textures of corroding and abraded metal.",
+        "Lighting": "Harsh, unflattering lighting.",
+        "Art_Genre": "Symbolic still life, with a sense of destructive action."
+      }
+    },
+    "Cultural_Anchors": [
+      "Harsh Words ('கடுமொழி')",
+      "Excessive Punishment ('கையிகந்த தண்டம்')",
+      "The File that wears away power ('தேய்க்கும் அரம்')"
+    ]
+  },
+  "Negative_Prompt": "gentle words, fair punishment, a strong and shiny sword, text artifacts.",
+  "Hyperparameters": {
+    "variant": "pro",
+    "steps": 50,
+    "cfg_scale": 8,
+    "seed": "Explore variations for the acid corrosion effect."
+  }
+}

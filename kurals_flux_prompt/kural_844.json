@@ -1,0 +1,39 @@
+{
+  "Kural_Info": {
+    "Number": 844,
+    "Chapter": "புல்லறிவாண்மை (Ignorance)",
+    "Tamil_Text": "வெண்மை எனப்படுவ தியாதெனின் ஒண்மை உடையம்யாம் என்னும் செருக்கு.",
+    "English_Meaning": "What is called want of wisdom is the vanity which says, 'We are wise'."
+  },
+  "Flux_Optimized_Prompt": {
+    "Layered_Composition": {
+      "Foreground": "A person is standing before a mirror. They are looking at their reflection with an expression of immense pride and arrogance ('செருக்கு').",
+      "Midground": "Their reflection in the mirror is not their own face. It is the face of a jester or a fool, with a donkey's ears. The mirror is showing the truth of their nature.",
+      "Background": "The person, in their vanity, proudly proclaims 'I am wise' ('ஒண்மை உடையம் யாம்'), while being completely oblivious that their arrogance is the very definition of their foolishness ('வெண்மை')."
+    },
+    "Art_Direction": {
+      "Subject_and_Action": "What is folly? It is the arrogance of proclaiming oneself to be wise.",
+      "Symbolic_Motifs": "The mirror that reflects the person's true, foolish nature is the key. The disconnect between their proud self-perception and the foolish reality in the mirror is the central theme.",
+      "Mood_and_Emotion": "Arrogant, foolish, blind vanity, ironic.",
+      "Lighting_and_Color": "A harsh, bright light on the person, highlighting their pride. The reflection in the mirror is clear and undeniable.",
+      "Technical_Cues": {
+        "Camera": "A shot that captures both the person's arrogant face and their foolish reflection in the mirror.",
+        "Resolution": "8K, with a strong, clear composition.",
+        "Lighting": "High-key lighting to emphasize the blindness of the vanity.",
+        "Art_Genre": "Symbolic portraiture."
+      }
+    },
+    "Cultural_Anchors": [
+      "Folly/Stupidity ('வெண்மை')",
+      "The arrogance of saying 'I am wise' ('ஒண்மை உடையம் யாம் என்னும் செருக்கு')",
+      "The Dunning-Kruger effect."
+    ]
+  },
+  "Negative_Prompt": "a wise person looking in the mirror, a humble person, text artifacts.",
+  "Hyperparameters": {
+    "variant": "dev",
+    "steps": 40,
+    "cfg_scale": 8,
+    "seed": "Explore variations for the jester reflection."
+  }
+}

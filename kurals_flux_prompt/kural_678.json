@@ -1,0 +1,39 @@
+{
+  "Kural_Info": {
+    "Number": 678,
+    "Chapter": "வினைசெயல்வகை (Modes of Action)",
+    "Tamil_Text": "வினையான் வினையாக்கிக் கோடல் நனைகவுள் யானையால் யானையாத் தற்று.",
+    "English_Meaning": "To make one undertaking the means of accomplishing another (similar to it) is like making one rutting elephant the means of capturing another."
+  },
+  "Flux_Optimized_Prompt": {
+    "Layered_Composition": {
+      "Foreground": "A powerful, trained, and tamed war elephant is being used by its mahout as a decoy or a tool.",
+      "Midground": "This trained elephant is being used to successfully lure and capture a wild, untamed elephant of equal power from the jungle. The first elephant is the tool to achieve the goal.",
+      "Background": "In a parallel symbolic scene, a person is shown using the successful completion of one project (the first elephant) to automatically trigger and achieve a second, related project (the second elephant). This is 'making an action create another action' ('வினையான் வினையாக்கிக் கோடல்')."
+    },
+    "Art_Direction": {
+      "Subject_and_Action": "The strategic principle of using one action to accomplish another is as effective as using a trained elephant to capture a wild one.",
+      "Symbolic_Motifs": "The literal depiction of the elephant capture is the central analogy. The parallel scene showing business or political projects makes the meaning clear.",
+      "Mood_and_Emotion": "Strategic, efficient, leveraging, resourceful.",
+      "Lighting_and_Color": "Dramatic jungle lighting, with shafts of light cutting through the canopy. The scene is full of action and tension.",
+      "Technical_Cues": {
+        "Camera": "A dynamic wide shot that captures the entire elephant capture scene.",
+        "Resolution": "8K, with hyper-realistic elephants and a lush jungle environment.",
+        "Lighting": "Dappled, high-contrast jungle light.",
+        "Art_Genre": "Wildlife action scene, with a symbolic parallel."
+      }
+    },
+    "Cultural_Anchors": [
+      "Using one action to accomplish another ('வினையான் வினையாக்கிக் கோடல்')",
+      "Like capturing an elephant with an elephant ('யானையால் யானையாத் தற்று')",
+      "The concept of leverage."
+    ]
+  },
+  "Negative_Prompt": "elephants fighting each other, wild elephant escaping, text artifacts, cartoonish.",
+  "Hyperparameters": {
+    "variant": "pro",
+    "steps": 50,
+    "cfg_scale": 8,
+    "seed": "Explore variations for the jungle setting."
+  }
+}

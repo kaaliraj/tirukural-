@@ -1,0 +1,33 @@
+{
+  "Kural_Info": {
+    "Number": 1261,
+    "Chapter": "அவர்வயின்விதும்பல் (Mutual Desire)",
+    "Tamil_Text": "வாளற்றுப் புற்கென்ற கண்ணும் அவர்சென்றநாளொற்றித் தேய்ந்த விரல்.",
+    "English_Meaning": "My eyes have lost their brightness, sight is dimmed; my fingers worn, With nothing on the wall the days since I was left forlorn."
+  },
+  "Flux_Optimized_Prompt": {
+    "Layered_Composition": {
+      "Foreground": "A woman is shown in a state of pining. The image focuses on two key details of her suffering.",
+      "Midground": "On one side, a close-up of her eyes ('Kannum'), which have lost their lustre and appear dull and lifeless ('Vaalatrup Purkendra'). On the other side, a close-up of her fingers ('Viral'), which are worn and thin from the constant act of marking the days of separation on a wall ('Naalottrith Theyntha').",
+      "Background": "The wall behind her is covered in countless tally marks, showing the long passage of time. The room is dim and filled with the atmosphere of waiting."
+    },
+    "Art_Direction": {
+      "Subject_and_Action": "A portrait of lovesickness, told through the physical toll it takes: her eyes have lost their shine from constant watching, and her fingers have worn down from counting the days of her lover's absence.",
+      "Symbolic_Motifs": "The dull eyes and the worn fingers are the two central symbols of her pining.",
+      "Mood_and_Emotion": "Weary, pining, melancholic, a sense of long and painful waiting.",
+      "Lighting_and_Color": "Soft, dim, melancholic light, perhaps from a single window. The colors are desaturated and somber, reflecting her mood."
+    },
+    "Technical_Cues": {
+      "Camera": "A dual close-up shot, using a split-screen or rack focus to highlight both the eyes and the fingers.",
+      "Resolution": "8K, photorealistic, with a focus on the subtle textures of weariness—the dullness in the eyes and the worn skin of the fingers.",
+      "Lighting": "Low-key lighting to create a sad, intimate atmosphere.",
+      "Art_Genre": "Poetic realism, focusing on small, powerful details to tell a larger emotional story."
+    },
+    "Cultural_Anchors": [
+      "The physical signs of lovesickness (பசலை)",
+      "Marking the days of separation (நாள் எண்ணுதல்)",
+      "The dimming of the eyes (கண் ஒளி இழத்தல்)"
+    ]
+  },
+  "Negative_Prompt": "bright eyes, unworn fingers, a modern calendar, a happy woman, text artifacts, cartoonish."
+}

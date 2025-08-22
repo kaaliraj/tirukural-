@@ -1,0 +1,38 @@
+{
+  "Kural_Info": {
+    "Number": 1239,
+    "Chapter": "உறுப்புநலனழிதல் (Wasting Away)",
+    "Tamil_Text": "முயக்கிடைத் தண்வளி போழப் பசப்புற்றபேதை பெருமழைக் கண்.",
+    "English_Meaning": "As we embraced a breath of wind found entrance there; The maid's large liquid eyes were dimmed with care."
+  },
+  "Flux_Optimized_Prompt": {
+    "Layered_Composition": {
+      "Foreground": "A couple is in a very close embrace ('முயக்கு').",
+      "Midground": "A single, gentle, cool breeze ('தண் வளி') is visualized as a thin, ethereal, silver ribbon of air that manages to pass through the tiny gap between their bodies ('இடை போழ').",
+      "Background": "The moment this tiny separation is caused by the breeze, the maiden's large, rain-cloud-like eyes ('பெருமழைக் கண்') instantly turn pale with the sallow hue of sorrow ('பசப்புற்ற')."
+    },
+    "Art_Direction": {
+      "Subject_and_Action": "The maiden's sensitivity is so extreme that when a mere breath of wind penetrates her lover's embrace, her magnificent eyes are immediately afflicted with the pallor of sorrow.",
+      "Symbolic_Motifs": "The breeze as a silver ribbon is a gentle, poetic visualization of the cause of separation. The focus is on the eyes, described as being as large and full as rain clouds, now being 'blighted' by the pale color of grief.",
+      "Mood_and_Emotion": "Hyper-sensitive, delicate, poetic, melancholic.",
+      "Lighting_and_Color": "The embrace is in a warm, intimate light. The ribbon of wind is a cool silver. As it passes, the woman's eyes are shown losing their dark, lustrous color and taking on a pale, sickly yellow-green hue.",
+      "Technical_Cues": {
+        "Camera": "An artistic extreme close-up on the maiden's eyes, showing the moment the cool breeze passes and the color of her eyes instantly changes.",
+        "Resolution": "8K, ultra-realistic, with subtle CGI for the ribbon of wind and the color shift in the eyes.",
+        "Lighting": "Soft, romantic lighting with a cool accent from the wind.",
+        "Art_Genre": "Poetic realism, with magical realist touches."
+      },
+      "Cultural_Anchors": [
+        "When a cool breeze cut through the embrace (முயக்கிடைத் தண்வளி போழ)",
+        "The maiden's great rainy eyes turned sallow (பேதை பெருமழைக் கண் பசப்புற்ற)"
+      ]
+    },
+    "Negative_Prompt": "strong gale, happy maiden, text artifacts.",
+    "Hyperparameters": {
+      "variant": "pro",
+      "steps": 50,
+      "cfg_scale": 8,
+      "seed": "Explore the visual of 'rain-cloud-like eyes' turning sallow."
+    }
+  }
+}

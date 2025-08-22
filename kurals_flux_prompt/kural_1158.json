@@ -1,0 +1,33 @@
+{
+  "Kural_Info": {
+    "Number": 1158,
+    "Chapter": "பிரிவாற்றாமை (Separation unendurable)",
+    "Tamil_Text": "இன்னாது இனன்இல்ஊர் வாழ்தல் அதனினும்இன்னாது இனியார்ப் பிரிவு.",
+    "English_Meaning": "'Tis sad to sojourn in the town where no kind kinsmen dwell; 'Tis sadder still to bid a friend beloved farewell."
+  },
+  "Flux_Optimized_Prompt": {
+    "Layered_Composition": {
+      "Foreground": "A solitary figure stands heartbroken, waving a final farewell to their beloved who is departing on a distant path.",
+      "Midground": "This central scene of separation ('Iniyaarp Pirivu') is depicted as intensely painful. Behind this, another scene is shown: the same person is living alone in a town where they are a complete stranger, surrounded by indifferent faces ('Inan Il Oor Vaazhthal').",
+      "Background": "The image is structured to show that while the loneliness of living among strangers is a gray, sorrowful state, the acute, sharp pain of parting from a loved one is a far darker and more intense form of suffering."
+    },
+    "Art_Direction": {
+      "Subject_and_Action": "A visual comparison of two types of sorrow: the chronic sadness of living without companionship, and the acute agony of being separated from a loved one, with the latter being far worse.",
+      "Symbolic_Motifs": "A visual hierarchy of pain. The loneliness in the town is a gray, dull ache. The separation is a sharp, black wound of sorrow.",
+      "Mood_and_Emotion": "Sorrowful, painful, comparing two different qualities of sadness.",
+      "Lighting_and_Color": "The scene of living among strangers is rendered in muted, desaturated grays. The scene of parting is in stark, high-contrast black and white, emphasizing its sharp and profound pain."
+    },
+    "Technical_Cues": {
+      "Camera": "A wide, cinematic shot that frames the intense foreground separation against the backdrop of the duller, chronic loneliness.",
+      "Resolution": "8K, photorealistic, with a strong emotional focus.",
+      "Lighting": "Contrasting lighting schemes to differentiate the two types of sorrow: flat and gray versus dramatic and high-contrast.",
+      "Art_Genre": "Narrative realism, using color and light to grade emotional intensity."
+    },
+    "Cultural_Anchors": [
+      "பிரிவு (Separation)",
+      "The pain of loneliness among strangers",
+      "The hierarchy of suffering"
+    ]
+  },
+  "Negative_Prompt": "happy figures, a welcoming town, a joyful farewell, text artifacts, modern city, cartoonish."
+}

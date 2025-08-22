@@ -1,0 +1,39 @@
+{
+  "Kural_Info": {
+    "Number": 661,
+    "Chapter": "வினைத்திட்பம் (Power in Action)",
+    "Tamil_Text": "வினைத்திட்பம் என்பது ஒருவன் மனத்திட்பம்மற்றைய எல்லாம் பிற.",
+    "English_Meaning": "Firmness in action is (simply) one's firmness of mind; all other (abilities) are not of this nature."
+  },
+  "Flux_Optimized_Prompt": {
+    "Layered_Composition": {
+      "Foreground": "A warrior is shown breaking a massive stone boulder with a single, powerful strike. This represents 'Power in Action' ('வினைத்திட்பம்').",
+      "Midground": "A transparent, ethereal view into the warrior's mind reveals the true source of this power. Their mind ('மனம்') is depicted not as flesh, but as a solid, unyielding diamond, representing 'Firmness of Mind' ('மனத்திட்பம்').",
+      "Background": "Surrounding the warrior are other, secondary tools of power—strong muscles, a sharp sword, heavy armor ('மற்றைய எல்லாம் பிற'). However, they are shown to be mere accessories, while the diamond mind is clearly the core and origin of the power that shatters the rock."
+    },
+    "Art_Direction": {
+      "Subject_and_Action": "The true source of powerful and effective action is not external tools or physical strength, but the internal, unshakeable firmness of one's own mind.",
+      "Symbolic_Motifs": "The mind as a solid diamond is a powerful metaphor for unyielding mental resolve. The external power is shown as a direct consequence of this internal state. The physical tools are rendered secondary and almost irrelevant.",
+      "Mood_and_Emotion": "Powerful, resolute, determined, mentally strong, foundational.",
+      "Lighting_and_Color": "A brilliant, hard light emanates from the diamond mind, channeling down the warrior's arm and into the point of impact. The physical tools have a mundane metallic glint, but the mind is the true source of the power's light.",
+      "Technical_Cues": {
+        "Camera": "A dynamic shot with a symbolic x-ray or transparent view that connects the internal mental state to the external powerful act.",
+        "Resolution": "8K, ultra-realistic, with advanced crystalline and fracture effects.",
+        "Lighting": "The diamond mind is the primary light source, creating a powerful, radiating effect.",
+        "Art_Genre": "Fantasy realism, symbolic action scene."
+      },
+      "Cultural_Anchors": [
+        "Power in action (வினைத்திட்பம்)",
+        "Firmness of mind (மனத்திட்பம்)",
+        "All others are secondary (மற்றைய எல்லாம் பிற)"
+      ]
+    },
+    "Negative_Prompt": "warrior struggling, weak mind, prominent weapons, text artifacts, cartoonish diamond.",
+    "Hyperparameters": {
+      "variant": "pro",
+      "steps": 55,
+      "cfg_scale": 9,
+      "seed": "Explore the visual of the 'diamond mind' channeling energy."
+    }
+  }
+}

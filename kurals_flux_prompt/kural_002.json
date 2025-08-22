@@ -1,0 +1,39 @@
+{
+  "Kural_Info": {
+    "Number": 2,
+    "Chapter": "கடவுள் வாழ்த்து (The Praise of God)",
+    "Tamil_Text": "கற்றதனால் ஆய பயனென்கொல் வாலறிவன்நற்றாள் தொழாஅர் எனின்.",
+    "English_Meaning": "No fruit have men of all their studied lore, Save they the 'Purely Wise One's' feet adore."
+  },
+  "Flux_Optimized_Prompt": {
+    "Layered_Composition": {
+      "Foreground": "In the foreground, an aged, proud scholar in an ancient library, his back turned towards a light source. He holds a scroll, his face a mixture of intellectual pride and deep, inner emptiness.",
+      "Midground": "Behind him, towering stacks of palm-leaf manuscripts and scrolls subtly resemble cage bars, symbolizing the confinement of knowledge without wisdom.",
+      "Background": "In the background, a humble devotee kneels in adoration before an ethereal light emanating from a pair of divine feet (the 'Purely Wise One's feet')."
+    },
+    "Art_Direction": {
+      "Subject_and_Action": "A scholar whose vast learning is fruitless because he ignores true wisdom, contrasted with a humble devotee who embraces it.",
+      "Symbolic_Motifs": "The light from the divine feet casts a long, dark shadow of the scholar, representing his spiritual ignorance despite his vast learning.",
+      "Mood_and_Emotion": "Somber, contemplative, with a sharp contrast between inner emptiness and spiritual fulfillment.",
+      "Lighting_and_Color": "The library is dominated by cool, intellectual blues and greys. The only warmth radiates as a golden, fulfilling glow from the divine feet, a warmth the scholar ignores."
+    },
+    "Technical_Cues": {
+      "Camera": "Wide shot, shot on 50mm lens, dramatic chiaroscuro.",
+      "Resolution": "8K, ultra-realistic, with fine details on the manuscripts and faces.",
+      "Lighting": "High-contrast lighting, strong rim light on the devotee from the divine source, deep shadows emphasizing the scholar's isolation.",
+      "Art_Genre": "Digital painting in the style of Rembrandt, with mystical painterly effects for symbolic aspects."
+    },
+    "Cultural_Anchors": [
+      "Concept of 'Valarivan' (Purely Wise One)",
+      "Ancient Tamil library aesthetic",
+      "Palm-leaf manuscripts (ஓலைச்சுவடி)"
+    ]
+  },
+  "Negative_Prompt": "deformed limbs, text artifacts, oversaturated skin, blurry, modern clothing, East Asian facial features, smiling scholar.",
+  "Hyperparameters": {
+    "variant": "dev",
+    "steps": 40,
+    "cfg_scale": 9,
+    "seed": "Explore variations for the shadow's shape."
+  }
+}

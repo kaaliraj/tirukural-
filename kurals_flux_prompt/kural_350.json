@@ -1,0 +1,38 @@
+{
+  "Kural_Info": {
+    "Number": 350,
+    "Chapter": "துறவு (Renunciation)",
+    "Tamil_Text": "பற்றுக பற்றற்றான் பற்றினை அப்பற்றைப்பற்றுக பற்று விடற்கு.",
+    "English_Meaning": "Desire the desire of Him who is without desire; in order to renounce desire, desire that desire."
+  },
+  "Flux_Optimized_Prompt": {
+    "Layered_Composition": {
+      "Foreground": "A person is shown trying to let go of all their worldly attachments ('பற்று விடற்கு'). These attachments are visualized as sticky, dark, tar-like ropes that they cannot seem to release on their own.",
+      "Midground": "In the heavens, a divine being who is 'without attachment' ('பற்றற்றான்') is shown. This being has one, single, pure attachment: an attachment to grace or truth. This is visualized as a single, brilliant, golden rope of light ('பற்றற்றான் பற்றினை') that they lower down to the struggling person.",
+      "Background": "The person is shown making a choice: they let go of all the dark, sticky ropes of worldly desire in order to take hold of the one, pure, golden rope of divine desire ('அப்பற்றைப் பற்றுக'). By grasping this one higher attachment, they are freed from all the lower ones."
+    },
+    "Art_Direction": {
+      "Subject_and_Action": "A profound paradox of renunciation: in order to be free from all worldly attachments, one must attach oneself to the one 'attachment' of the divine who is free from all attachments.",
+      "Symbolic_Motifs": "The contrast between the many dark, sticky ropes and the one pure, golden rope is the central visual. The act of letting go of the many to grasp the one is the key action. This is the ultimate 'trade-up'.",
+      "Mood_and_Emotion": "Transcendent, paradoxical, liberating, aspirational.",
+      "Lighting_and_Color": "The worldly attachments are dark, sticky, and ugly. The divine attachment is a brilliant, pure, and incredibly beautiful rope of golden light. The scene is about choosing to be pulled up into the light from the darkness.",
+      "Technical_Cues": {
+        "Camera": "A shot from below, looking up from the struggling person's perspective as the golden rope is lowered to them, presenting it as an act of grace.",
+        "Resolution": "8K, ultra-realistic, with advanced effects for the sticky tar-ropes and the beautiful light-rope.",
+        "Lighting": "The divine rope is the primary, saving light source.",
+        "Art_Genre": "High fantasy, with a strong spiritual message."
+      },
+      "Cultural_Anchors": [
+        "In order to abandon attachment (பற்று விடற்கு)",
+        "Grasp the attachment of Him who is without attachment (பற்றுக பற்றற்றான் பற்றினை)"
+      ]
+    },
+    "Negative_Prompt": "person refusing the golden rope, text artifacts.",
+    "Hyperparameters": {
+      "variant": "pro",
+      "steps": 60,
+      "cfg_scale": 9,
+      "seed": "Explore the visual of the 'golden rope of divine attachment'."
+    }
+  }
+}

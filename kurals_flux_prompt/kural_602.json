@@ -1,0 +1,39 @@
+{
+  "Kural_Info": {
+    "Number": 602,
+    "Chapter": "மடியின்மை (Unsluggishness)",
+    "Tamil_Text": "மடியை மடியா ஒழுகல் குடியைக் குடியாக வேண்டு பவர்.",
+    "English_Meaning": "Let those, who desire that their family may be illustrious, put away all idleness from their conduct."
+  },
+  "Flux_Optimized_Prompt": {
+    "Layered_Composition": {
+      "Foreground": "A person is shown actively fighting and casting out a dark, sluggish, tar-like creature that represents Idleness ('மடியை'). They are treating it as a mortal enemy, not as a part of themselves ('மடியா ஒழுகல்').",
+      "Midground": "Because they have cast out idleness, the house behind them, which represents their family ('குடி'), is shown transforming from a simple dwelling into a magnificent, shining mansion, becoming a truly great and illustrious family ('குடியாக வேண்டுபவர்').",
+      "Background": "A bright, clear sky, symbolizing the prosperous future of a family free from idleness."
+    },
+    "Art_Direction": {
+      "Subject_and_Action": "Those who wish for their family to be great must treat idleness not as a habit, but as an enemy to be destroyed.",
+      "Symbolic_Motifs": "The tar-like creature is Idleness. The act of fighting and expelling it is key. The house transforming into a mansion is the direct reward for this action.",
+      "Mood_and_Emotion": "Active, determined, purifying, prosperous.",
+      "Lighting_and_Color": "The tar monster is a dull, matte black. The person and their transforming house are bathed in a bright, constructive, golden light.",
+      "Technical_Cues": {
+        "Camera": "A dynamic shot showing the struggle and the resulting glorious transformation of the house.",
+        "Resolution": "8K, with surreal transformation effects for the house.",
+        "Lighting": "Bright, optimistic lighting.",
+        "Art_Genre": "Symbolic realism, with fantasy elements."
+      },
+      "Cultural_Anchors": [
+        "Treating Idleness as not-Idleness (i.e., as an enemy)",
+        "Desiring an Illustrious Family ('குடியாக வேண்டுபவர்')",
+        "The link between diligence and family honor."
+      ]
+    },
+    "Negative_Prompt": "person embracing the monster, house crumbling, text artifacts, cartoonish.",
+    "Hyperparameters": {
+      "variant": "dev",
+      "steps": 40,
+      "cfg_scale": 9,
+      "seed": "Explore variations for the tar-monster of Idleness."
+    }
+  }
+}

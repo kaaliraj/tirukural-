@@ -1,0 +1,38 @@
+{
+  "Kural_Info": {
+    "Number": 176,
+    "Chapter": "வெஃகாமை (Not Coveting)",
+    "Tamil_Text": "అருள்வெஃகி ஆற்றின்கண் நின்றான் பொருள்வெஃகிப்பொல்லாத சூழக் கெடும்.",
+    "English_Meaning": "If he, who through desire of the virtue of kindness abides in the domestic state i.e., the path in which it may be obtained, covet (the property of others) and think of evil methods (to obtain it), he will perish."
+  },
+  "Flux_Optimized_Prompt": {
+    "Layered_Composition": {
+      "Foreground": "A person is shown standing on a clear, virtuous path, the 'path of grace' ('అருள்... ஆற்றின்கண்'). Their stated goal is to achieve compassion.",
+      "Midground": "However, their heart is shown to be secretly coveting the wealth of another ('பொருள் వెஃகி'). This secret desire causes them to plot an evil deed ('பொல்லாத சூழ').",
+      "Background": "The moment they form this evil plan, the virtuous path of grace beneath their feet cracks, shatters, and they are plunged into an abyss of ruin ('கெடும்'). Their single act of covetous plotting has completely destroyed their otherwise virtuous standing."
+    },
+    "Art_Direction": {
+      "Subject_and_Action": "Even a person who is supposedly on the path of grace will be utterly destroyed if they allow themselves to covet another's wealth and plot evil to obtain it.",
+      "Symbolic_Motifs": "The shattering of the virtuous path is the key visual. It shows that the foundation of their virtue was a sham, instantly destroyed by their inner corruption. The fall is swift and absolute.",
+      "Mood_and_Emotion": "Hypocrisy revealed, catastrophic fall, self-destruction.",
+      "Lighting_and_Color": "The path of grace is initially a pure, white light. The evil thought is a dark, corrupting shadow that rises from the person's heart. The shattering of the path is a violent explosion of dark energy.",
+      "Technical_Cues": {
+        "Camera": "A dramatic shot that captures the person on their virtuous path, the rise of their corrupt thought, and the immediate, catastrophic destruction of their path.",
+        "Resolution": "8K, ultra-realistic, with advanced destruction and particle effects for the shattering path.",
+        "Lighting": "A sudden and violent shift from pure, serene light to chaotic, destructive darkness.",
+        "Art_Genre": "Dark fantasy, allegorical art."
+      },
+      "Cultural_Anchors": [
+        "He who stands on the path desiring grace (అருள் వెஃகி ஆற்றின்கண் நின்றான்)",
+        "Will perish if he covets wealth and plots evil (பொருள் வெஃகி பொல்லாத சூழக் கெடும்)"
+      ]
+    },
+    "Negative_Prompt": "person staying on the path, successful evil plot, text artifacts.",
+    "Hyperparameters": {
+      "variant": "pro",
+      "steps": 50,
+      "cfg_scale": 9,
+      "seed": "Explore the visual of the 'path of grace' shattering."
+    }
+  }
+}

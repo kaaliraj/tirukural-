@@ -1,0 +1,39 @@
+{
+  "Kural_Info": {
+    "Number": 407,
+    "Chapter": "கல்லாமை (Ignorance)",
+    "Tamil_Text": "நுண்மாண் நுழைபுலம் இல்லான் எழில்நலம் மண்மாண் புனைபாவை யற்று.",
+    "English_Meaning": "The beauty and goodness of one who is destitute of knowledge by the study of great and exquisite works, is like (the beauty and goodness) of a painted earthen doll."
+  },
+  "Flux_Optimized_Prompt": {
+    "Layered_Composition": {
+      "Foreground": "A beautifully sculpted and painted clay doll ('மண்மாண் புனைபாவை') is displayed prominently. It is outwardly very attractive ('எழில்நலம்').",
+      "Midground": "However, a closer look reveals that the doll is hollow, lifeless, and has a crack running through it, showing the raw, unrefined clay inside.",
+      "Background": "In contrast, in the soft-focus background, a real, living person with deep, intelligent eyes is shown, representing true, substantive beauty."
+    },
+    "Art_Direction": {
+      "Subject_and_Action": "The beauty of a person who lacks subtle, profound, and penetrating intellect is compared to the superficial, fragile beauty of a painted clay doll.",
+      "Symbolic_Motifs": "The clay doll is the central metaphor. Its external beauty contrasts with its internal hollowness and fragility, symbolizing a person with good looks but no deep knowledge ('நுழைபுலம் இல்லான்').",
+      "Mood_and_Emotion": "Superficial, hollow, fragile, deceptive beauty.",
+      "Lighting_and_Color": "Studio lighting that highlights the painted surface of the doll, but also casts a shadow that reveals the crack and its empty interior.",
+      "Technical_Cues": {
+        "Camera": "Macro close-up shot, focusing on the beautiful yet flawed surface of the clay doll.",
+        "Resolution": "8K, with extreme detail on the texture of the painted clay and the crack.",
+        "Lighting": "High-quality studio product lighting, creating a sense of artificial perfection.",
+        "Art_Genre": "Still life hyperrealism."
+      }
+    },
+    "Cultural_Anchors": [
+      "Lack of subtle intellect ('நுழைபுலம் இல்லான்')",
+      "Comparison to a Painted Clay Doll ('மண்மாண் புனைபாவை')",
+      "Superficial beauty vs. intellectual substance."
+    ]
+  },
+  "Negative_Prompt": "a living doll, a plain real person, text artifacts, blurry, cartoonish style.",
+  "Hyperparameters": {
+    "variant": "pro",
+    "steps": 50,
+    "cfg_scale": 8,
+    "seed": "Explore variations for the crack on the doll."
+  }
+}

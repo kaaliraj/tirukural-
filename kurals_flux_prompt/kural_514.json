@@ -1,0 +1,39 @@
+{
+  "Kural_Info": {
+    "Number": 514,
+    "Chapter": "தெரிந்துவினையாடல் (Selection and Employment)",
+    "Tamil_Text": "எனைவகையான் தேறியக் கண்ணும் வினைவகையான் வேறாகும் மாந்தர் பலர்.",
+    "English_Meaning": "Even when (a king) has tried them in every possible way, there are many men who change, from the nature of the works (in which they may be employed)."
+  },
+  "Flux_Optimized_Prompt": {
+    "Layered_Composition": {
+      "Foreground": "A person is shown having passed numerous difficult tests ('எனைவகையான் தேறிய'), and is being awarded a medal of honor. They appear virtuous and capable.",
+      "Midground": "The same person is then placed in a new, challenging work environment—perhaps a chaotic battlefield or a complex construction site ('வினைவகையான்'). Under the pressure of the new task, their form begins to change and corrupt ('வேறாகும் மாந்தர்'), revealing a different, less capable, or more treacherous nature that was previously hidden.",
+      "Background": "A gallery of other figures are shown in the background, each with a similar 'before' and 'after' transformation, emphasizing that this is a common human trait ('பலர்')."
+    },
+    "Art_Direction": {
+      "Subject_and_Action": "Even after someone has been thoroughly tested, their true nature can change and be revealed differently when they are faced with the specific nature of a real-world task.",
+      "Symbolic_Motifs": "The physical transformation or corruption of the person under the stress of the new job is the key visual metaphor. This shows that their character is not fixed but situational.",
+      "Mood_and_Emotion": "Transformative, unpredictable, cautionary, revealing.",
+      "Lighting_and_Color": "The 'testing' phase is lit with a clear, noble light. The 'working' phase is lit with a harsh, stressful light that causes the negative transformation. The colors shift from pure to corrupt.",
+      "Technical_Cues": {
+        "Camera": "A shot that captures the 'before' and 'after' states, perhaps using a slow, transformative visual effect.",
+        "Resolution": "8K, with high-quality character transformation effects.",
+        "Lighting": "Dynamic lighting that shifts with the character's transformation.",
+        "Art_Genre": "Psychological realism with surrealist elements."
+      }
+    },
+    "Cultural_Anchors": [
+      "Character changing with the nature of the work ('வினைவகையான் வேறாகும்')",
+      "The limits of testing",
+      "The situational nature of human character."
+    ]
+  },
+  "Negative_Prompt": "person remaining the same, succeeding at the new job, text artifacts, cartoonish transformation.",
+  "Hyperparameters": {
+    "variant": "dev",
+    "steps": 45,
+    "cfg_scale": 9,
+    "seed": "Explore variations for the character transformation effect."
+  }
+}

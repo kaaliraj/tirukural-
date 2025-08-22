@@ -1,0 +1,38 @@
+{
+  "Kural_Info": {
+    "Number": 1087,
+    "Chapter": "தகையணங்குறுத்தல் (The Pre-marital love)",
+    "Tamil_Text": "கடாஅக் களிற்றின்மேற் கட்படாம் மாதர்படாஅ முலைமேல் துகில்.",
+    "English_Meaning": "The cloth that covers the firm bosom of this maiden is like that which covers the eyes of a rutting elephant."
+  },
+  "Flux_Optimized_Prompt": {
+    "Layered_Composition": {
+      "Foreground": "A beautiful maiden's firm, proud bosom ('படாஅ முலை') is covered by a fine, elegant cloth ('துகில்').",
+      "Midground": "In a powerful, direct simile, a mighty, musth-maddened elephant ('கடாஅக் களிற்றின்') is shown. A decorative but ultimately flimsy cloth ('கட்படாம்') is covering its eyes.",
+      "Background": "The simile is made explicit: the cloth on the maiden's breast is just like the blindfold on the maddened elephant. It does not truly conceal or restrain the immense, dangerous power that lies beneath it; it only barely covers it, making it all the more potent and noticeable."
+    },
+    "Art_Direction": {
+      "Subject_and_Action": "A daring simile comparing the cloth over a maiden's breast to the blindfold over a rampaging elephant's eyes, suggesting the immense and dangerous power that lies just beneath the surface.",
+      "Symbolic_Motifs": "The key is the inadequacy of the covering. In both cases, the cloth is a thin veil over an immense, untamable power. The elephant represents a wild, powerful, and dangerous force, and this quality is directly attributed to the maiden's concealed beauty.",
+      "Mood_and_Emotion": "Potent, dangerous beauty, untamable, powerful.",
+      "Lighting_and_Color": "Both scenes are lit with a dramatic, high-contrast light. The maiden's scene is beautiful but filled with a sense of tension. The elephant scene is one of raw, primal power.",
+      "Technical_Cues": {
+        "Camera": "A split-screen or juxtaposed shot that forces the viewer to make the startling comparison between the maiden and the elephant.",
+        "Resolution": "8K, hyper-realistic, with a focus on the texture of the cloth and the power of the forms beneath.",
+        "Lighting": "Dramatic lighting to emphasize the tension and barely-contained power.",
+        "Art_Genre": "Symbolic realism, with elements of epic wildlife photography."
+      },
+      "Cultural_Anchors": [
+        "The cloth on a musth elephant's eyes (கடாஅக் களிற்றின்மேல் கட்படாம்)",
+        "The cloth on a maiden's breast (மாதர் படாஅ முலைமேல் துகில்)"
+      ]
+    },
+    "Negative_Prompt": "calm elephant, loose cloth, text artifacts.",
+    "Hyperparameters": {
+      "variant": "pro",
+      "steps": 50,
+      "cfg_scale": 9,
+      "seed": "Explore the depiction of the musth-maddened elephant."
+    }
+  }
+}

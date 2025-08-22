@@ -1,0 +1,39 @@
+{
+  "Kural_Info": {
+    "Number": 250,
+    "Chapter": "அருளுடைமை (Compassion)",
+    "Tamil_Text": "வலியார்முன் தன்னை நினைக்கதான் தன்னின்மெலியார்மேல் செல்லு மிடத்து.",
+    "English_Meaning": "When a man is about to rush upon those who are weaker than himself, let him remember how he has stood (trembling) before those who are stronger than himself."
+  },
+  "Flux_Optimized_Prompt": {
+    "Layered_Composition": {
+      "Foreground": "A strong man is about to act cruelly towards a person weaker than him ('மெலியார்மேல் செல்லு மிடத்து'). His arm is raised, his face aggressive.",
+      "Midground": "In that instant, a ghostly, vivid memory materializes before his eyes. It shows him as a much weaker figure, trembling with fear before someone far stronger and more powerful than himself ('வலியார்முன்').",
+      "Background": "The memory is so powerful that it forces him to see himself in his current victim. He lowers his arm, his aggression replaced by a dawning of empathy and self-awareness ('தன்னை நினைக்க')."
+    },
+    "Art_Direction": {
+      "Subject_and_Action": "The ultimate check against bullying the weak is to force oneself to remember the feeling of being weak in the presence of the strong.",
+      "Symbolic_Motifs": "The ghostly memory is the catalyst for compassion. The key is the change in the man's expression and posture, from aggressor to a state of thoughtful restraint, triggered by the memory.",
+      "Mood_and_Emotion": "Empathetic, cautionary, reflective, self-awareness.",
+      "Lighting_and_Color": "The present scene is lit with harsh, aggressive light. The memory vision is lit with a cold, fearful light. The moment of realization should be marked by a shift to a softer, more thoughtful lighting on the man's face.",
+      "Technical_Cues": {
+        "Camera": "An intense close-up on the man's face, capturing his shift from aggression to fear-induced empathy as the memory vision overlays his sight.",
+        "Resolution": "8K, hyper-realistic, with a strong focus on nuanced emotional acting.",
+        "Lighting": "Dynamic lighting that changes with the character's internal emotional state.",
+        "Art_Genre": "Psychological realism, with a supernatural/memory element."
+      },
+      "Cultural_Anchors": [
+        "Before the strong (வலியார்முன்)",
+        "Towards the weak (மெலியார்மேல்)",
+        "Remember oneself (தன்னை நினைக்க)"
+      ]
+    },
+    "Negative_Prompt": "man continuing the attack, happy aggressor, text artifacts, cartoonish memory.",
+    "Hyperparameters": {
+      "variant": "pro",
+      "steps": 50,
+      "cfg_scale": 9,
+      "seed": "Explore the visual transition on the aggressor's face."
+    }
+  }
+}

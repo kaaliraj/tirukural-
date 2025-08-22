@@ -1,0 +1,38 @@
+{
+  "Kural_Info": {
+    "Number": 135,
+    "Chapter": "ஒழுக்கமுடைமை (The Possession of Decorum)",
+    "Tamil_Text": "அழுக்கா றுடையான்கண் ஆக்கம்போன்று இல்லைஒழுக்க மிலான்கண் உயர்வு.",
+    "English_Meaning": "Just as the envious man will be without wealth, so will the man of destitute of propriety of conduct be without greatness."
+  },
+  "Flux_Optimized_Prompt": {
+    "Layered_Composition": {
+      "Foreground": "A split composition illustrating a parallel.",
+      "Midground": "On the left, an envious man ('அழுக்காறு உடையான்') is shown. Because of his envy, wealth ('ஆக்கம்') is depicted as actively fleeing from him, as if repelled by his nature.",
+      "Background": "On the right, a man who lacks good conduct ('ஒழுக்கம் இலான்') is shown. In the same way, greatness or high-status ('உயர்வு'), personified as a noble, radiant crown, is shown actively flying away from his head, refusing to rest upon him."
+    },
+    "Art_Direction": {
+      "Subject_and_Action": "A direct analogy: just as wealth will not stay with an envious man, greatness will not stay with a man who lacks good conduct.",
+      "Symbolic_Motifs": "The personification of Wealth and Greatness as active agents that choose to flee from the unworthy is the key. This shows their absence not as a passive lack, but as an active rejection by the virtues themselves.",
+      "Mood_and_Emotion": "Parallelism, repulsion, karmic law.",
+      "Lighting_and_Color": "The envious man is in a sickly green light. The man of bad conduct is in a dull, chaotic light. Both the fleeing wealth and the fleeing crown are made of a pure, golden light that is escaping their corrupting presence.",
+      "Technical_Cues": {
+        "Camera": "A balanced diptych shot that shows the two parallel scenes of rejection.",
+        "Resolution": "8K, ultra-realistic, with dynamic motion effects for the fleeing wealth and crown.",
+        "Lighting": "The light is shown actively leaving the unworthy subjects, plunging them into shadow.",
+        "Art_Genre": "Allegorical painting."
+      },
+      "Cultural_Anchors": [
+        "The envious man has no wealth (அழுக்காறு உடையான்கண் ஆக்கம் இன்று)",
+        "The man without decorum has no greatness (ஒழுக்கம் இலான்கண் உயர்வு இல்லை)"
+      ]
+    },
+    "Negative_Prompt": "wealthy envious man, great man with bad conduct, text artifacts.",
+    "Hyperparameters": {
+      "variant": "dev",
+      "steps": 45,
+      "cfg_scale": 8,
+      "seed": "Explore the visual of the 'fleeing crown of greatness'."
+    }
+  }
+}

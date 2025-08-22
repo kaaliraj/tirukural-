@@ -1,0 +1,39 @@
+{
+  "Kural_Info": {
+    "Number": 368,
+    "Chapter": "அவாவறுத்தல் (Curbing of Desire)",
+    "Tamil_Text": "அவாஇல்லார்க்கு இல்லாகுந் துன்பம் அஃதுண்டேல் தவாஅது மேன்மேல் வரும்.",
+    "English_Meaning": "Affliction is not known where no desires abide; Where these are, endless rises sorrow's tide."
+  },
+  "Flux_Optimized_Prompt": {
+    "Layered_Composition": {
+      "Foreground": "A split-panel image. On the left, a person sits in a serene, empty, minimalist room, bathed in soft light. They are perfectly calm, representing a life without desire ('அவா இல்லார்க்கு').",
+      "Midground": "On the right panel, the same person is in the same room, but a single dark seed of desire ('அஃதுண்டேல்') has been planted. From it, an endless torrent of murky, dark water ('துன்பம்') floods the room, rising continuously.",
+      "Background": "The background on the left is a clear, peaceful sky. On the right, the sky seen through the window is dark and stormy, symbolizing the endless sorrow."
+    },
+    "Art_Direction": {
+      "Subject_and_Action": "A stark visual representation of how the absence of desire leads to an absence of suffering, while its presence unleashes an unceasing, ever-increasing flood of sorrow.",
+      "Symbolic_Motifs": "The serene, empty room symbolizes a mind free from desire. The dark, endlessly flooding water represents the incessant and growing nature of suffering ('மேன்மேல் வரும்') born from desire.",
+      "Mood_and_Emotion": "Contrasting, calm vs. chaotic, profound, cautionary.",
+      "Lighting_and_Color": "Left panel: Soft, warm, ambient light with a palette of whites, beiges, and soft pastels. Right panel: Dark, chaotic, with cold blues, greys, and blacks. The water is murky and menacing."
+    },
+    "Technical_Cues": {
+      "Camera": "Static, wide shot, showing both panels clearly for a strong comparison.",
+      "Resolution": "8K, hyper-realistic, with realistic water simulation effects.",
+      "Lighting": "High contrast between the two panels. The right panel has dramatic, stormy lighting.",
+      "Art_Genre": "Conceptual art, surrealism, digital illustration."
+    },
+    "Cultural_Anchors": [
+      "Absence of desire ('அவா இல்லாமை')",
+      "Sorrow ('துன்பம்') as a direct consequence of desire",
+      "The perpetual nature of suffering born from craving."
+    ]
+  },
+  "Negative_Prompt": "cluttered room on the left, dry room on the right, smiling person in the flood, cartoonish water, text.",
+  "Hyperparameters": {
+    "variant": "dev",
+    "steps": 40,
+    "cfg_scale": 9,
+    "seed": "Explore variations for the source of the flood."
+  }
+}

@@ -1,0 +1,38 @@
+{
+  "Kural_Info": {
+    "Number": 122,
+    "Chapter": "அடக்கமுடைமை (The Possession of Self-restraint)",
+    "Tamil_Text": "காக்க பொருளா அடக்கத்தை ஆக்கம்அதனினூஉங் கில்லை உயிர்க்கு.",
+    "English_Meaning": "Let self-control be guarded as a treasure; there is no greater source of good for man than that."
+  },
+  "Flux_Optimized_Prompt": {
+    "Layered_Composition": {
+      "Foreground": "A person is shown carefully placing the concept of 'Self-Control' ('அடக்கம்') into a magnificent, glowing treasure chest.",
+      "Midground": "Self-control is visualized not as an abstract idea, but as a beautiful, perfectly formed, radiant pearl. The person is guarding this pearl-treasure with utmost care ('காக்க பொருளா').",
+      "Background": "All other forms of wealth and gain ('ஆக்கம்')—gold, crowns, land—are shown outside the treasure chest, depicted as lesser, dimmer objects. The image makes it clear that the pearl of self-control is the greatest treasure a soul can possess."
+    },
+    "Art_Direction": {
+      "Subject_and_Action": "Self-control should be guarded like the most precious treasure, because there is no greater wealth or source of good for a person's life.",
+      "Symbolic_Motifs": "The pearl of self-control is the central metaphor. Its perfect form and radiant light represent its supreme value. Placing it in a treasure chest reinforces the idea of guarding it as a possession of immense worth.",
+      "Mood_and_Emotion": "Precious, valuable, guarded, serene.",
+      "Lighting_and_Color": "The primary light source is the radiant pearl of self-control, which casts a pure, white-gold light on the person's face and hands. The other treasures in the background have a dull, mundane sheen by comparison.",
+      "Technical_Cues": {
+        "Camera": "A close-up shot focusing on the hands carefully placing the glowing pearl into the treasure chest.",
+        "Resolution": "8K, ultra-realistic, with a strong focus on the beautiful, magical luminescence of the pearl.",
+        "Lighting": "Soft, radiant lighting emanating from the pearl.",
+        "Art_Genre": "Symbolic still life, with magical realism."
+      },
+      "Cultural_Anchors": [
+        "Guard self-control as a treasure (காக்க பொருளா அடக்கத்தை)",
+        "No greater gain (ஆக்கம் அதனினூஉங்கு இல்லை)"
+      ]
+    },
+    "Negative_Prompt": "person discarding the pearl, broken chest, dull pearl, text artifacts.",
+    "Hyperparameters": {
+      "variant": "dev",
+      "steps": 45,
+      "cfg_scale": 7,
+      "seed": "Explore the design and luminosity of the 'pearl of self-control'."
+    }
+  }
+}

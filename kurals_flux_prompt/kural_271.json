@@ -1,0 +1,38 @@
+{
+  "Kural_Info": {
+    "Number": 271,
+    "Chapter": "கூடா ஒழுக்கம் (Imposture)",
+    "Tamil_Text": "வஞ்ச மனத்தான் படிற்றொழுக்கம் பூதங்கள்ஐந்தும் அகத்தே நகும்.",
+    "English_Meaning": "The five elements (of his body) will laugh within him at the feigned conduct of the deceitful minded man."
+  },
+  "Flux_Optimized_Prompt": {
+    "Layered_Composition": {
+      "Foreground": "A man with a deceitful mind ('வஞ்ச மனத்தான்') is putting on a public show of false, holy conduct ('படிற்று ஒழுக்கம்'). He looks pious and virtuous to the outside world.",
+      "Midground": "A surreal, transparent, x-ray view into his own body reveals a hidden, internal audience.",
+      "Background": "The five elements that make up his body—Earth, Water, Fire, Air, and Ether—are personified as five small, elemental spirits. They are watching his hypocritical performance from the inside, and they are shown pointing and laughing scornfully ('அகத்தே நகும்') at the absurdity of his deceit. His own body is his most intimate and contemptuous audience."
+    },
+    "Art_Direction": {
+      "Subject_and_Action": "The five elements that constitute a hypocrite's own body will internally mock his false performance of virtue.",
+      "Symbolic_Motifs": "The personification of the five elements as a scornful internal audience is the key, surreal visual. This shows that his deceit cannot even fool the very substance of his own being. His hypocrisy is a joke even to himself.",
+      "Mood_and_Emotion": "Scornful, hypocritical, mock-worthy, surreal.",
+      "Lighting_and_Color": "The man's external performance is lit with a false, theatrical, holy light. The internal scene is lit by the scornful, glowing laughter of the five elemental spirits. The palette contrasts the fake outer piety with the mocking inner reality.",
+      "Technical_Cues": {
+        "Camera": "A shot that uses a symbolic cross-section to show the outer performance and the inner mockery simultaneously.",
+        "Resolution": "8K, ultra-realistic, with fantastical designs for the five personified elements.",
+        "Lighting": "Dualistic lighting to contrast the external lie with the internal truth.",
+        "Art_Genre": "Surrealism, dark comedy."
+      },
+      "Cultural_Anchors": [
+        "The false conduct of the deceitful-minded (வஞ்ச மனத்தான் படிற்று ஒழுக்கம்)",
+        "The five elements within will laugh (பூதங்கள் ஐந்தும் அகத்தே நகும்)"
+      ]
+    },
+    "Negative_Prompt": "sincere man, elements worshipping him, text artifacts.",
+    "Hyperparameters": {
+      "variant": "pro",
+      "steps": 55,
+      "cfg_scale": 9,
+      "seed": "Explore the designs of the five laughing elemental spirits."
+    }
+  }
+}

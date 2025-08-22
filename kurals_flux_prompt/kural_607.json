@@ -1,0 +1,39 @@
+{
+  "Kural_Info": {
+    "Number": 607,
+    "Chapter": "மடியின்மை (Unsluggishness)",
+    "Tamil_Text": "இடிபுரிந்து எள்ளுஞ்சொல் கேட்பர் மடிபுரிந்து மாண்ட உஞற்றி லவர்.",
+    "English_Meaning": "Those who through idleness, and do not engage themselves in dignified exertion, will subject themselves to rebukes and reproaches."
+  },
+  "Flux_Optimized_Prompt": {
+    "Layered_Composition": {
+      "Foreground": "A person is shown completely given over to idleness ('மடிபுரிந்து'). They are lying down while others are working, having abandoned all noble effort ('மாண்ட உஞற்றிலவர்').",
+      "Midground": "As a result of their inaction, they are being subjected to the harsh, rebuking words of their peers and elders. These rebukes ('இடிக்கும் சொல்') and words of contempt ('எள்ளுஞ்சொல்') are visualized as sharp, stinging arrows made of words that are striking them.",
+      "Background": "A productive, busy society where everyone else is engaged in dignified work, which makes the idle person's state all the more shameful."
+    },
+    "Art_Direction": {
+      "Subject_and_Action": "Those who choose idleness and abandon noble efforts will inevitably have to endure the contempt and rebuke of others.",
+      "Symbolic_Motifs": "The verbal rebukes and contempt visualized as sharp, stinging arrows is the key metaphor. This turns the abstract concept of reproach into a painful, physical assault.",
+      "Mood_and_Emotion": "Shameful, contemptible, painful, justifiably rebuked.",
+      "Lighting_and_Color": "A harsh, judgmental light is on the idle person. The word-arrows can have a sharp, cutting glow. The background society is lit in a normal, productive daylight.",
+      "Technical_Cues": {
+        "Camera": "A shot that focuses on the idle person being struck by the symbolic arrows, showing their pained and shameful reaction.",
+        "Resolution": "8K, with dynamic effects for the word-arrows.",
+        "Lighting": "High-contrast lighting to emphasize the shame and pain.",
+        "Art_Genre": "Symbolic realism, with a strong narrative element."
+      },
+      "Cultural_Anchors": [
+        "Enduring Rebuke and Contempt ('இடித்து எள்ளுஞ்சொல் கேட்பர்')",
+        "Choosing Idleness ('மடிபுரிந்து')",
+        "Abandoning Noble Effort ('மாண்ட உஞற்றிலவர்')"
+      ]
+    },
+    "Negative_Prompt": "idle person being praised, arrows missing, text on arrows, cartoonish.",
+    "Hyperparameters": {
+      "variant": "pro",
+      "steps": 45,
+      "cfg_scale": 8,
+      "seed": "Explore variations for the design of the word-arrows."
+    }
+  }
+}

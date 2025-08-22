@@ -1,0 +1,39 @@
+{
+  "Kural_Info": {
+    "Number": 557,
+    "Chapter": "கொடுங்கோன்மை (The Cruel Sceptre)",
+    "Tamil_Text": "துளியின்மை ஞாலத்திற்கு எற்றற்றே வேந்தன் அளியின்மை வாழும் உயிர்க்கு.",
+    "English_Meaning": "As is the world without rain, so live a people whose king is without kindness."
+  },
+  "Flux_Optimized_Prompt": {
+    "Layered_Composition": {
+      "Foreground": "A split landscape. The top half shows a world suffering from a severe drought ('துளியின்மை'). The land is cracked, the plants are withered, and the sky is a harsh, empty blue.",
+      "Midground": "The bottom half shows a kingdom ruled by a cruel, heartless king who shows no grace ('அளியின்மை'). His people are shown withered and suffering in exactly the same way as the plants in the drought-stricken land above. Their faces are etched with despair.",
+      "Background": "The parallel is direct and brutal. The king sits on a stone throne, as unyielding and dry as the cracked earth itself."
+    },
+    "Art_Direction": {
+      "Subject_and_Action": "A king without grace or kindness is to his people exactly what a lack of rain is to the world: a source of withering and death.",
+      "Symbolic_Motifs": "The mirrored imagery of the withered plants and the suffering people is the central concept. The king's stony demeanor matches the parched earth.",
+      "Mood_and_Emotion": "Desolate, suffering, barren, cruel, lifeless.",
+      "Lighting_and_Color": "A harsh, overexposed, and bleaching sunlight illuminates both scenes. The color palette is composed of dry, dusty browns, yellows, and greys, devoid of life-giving color."
+    },
+    "Technical_Cues": {
+      "Camera": "A wide, split-screen shot that locks the two scenes of suffering into a single, undeniable comparison.",
+      "Resolution": "8K, with hyper-realistic textures of cracked earth and suffering people.",
+      "Lighting": "Harsh, unforgiving light.",
+      "Art_Genre": "Hyperrealism, tragic social commentary."
+    },
+    "Cultural_Anchors": [
+      "A graceless King ('அளியின்மை வேந்தன்')",
+      "Like a World without Rain ('துளியின்மை ஞாலத்திற்கு ஏற்றற்று')",
+      "The ruler's grace as a life-giving necessity."
+    ]
+  },
+  "Negative_Prompt": "rainy scene, happy people, kind king, text artifacts, cartoonish.",
+  "Hyperparameters": {
+    "variant": "pro",
+    "steps": 50,
+    "cfg_scale": 8,
+    "seed": "Explore variations for the expressions of the suffering people."
+  }
+}

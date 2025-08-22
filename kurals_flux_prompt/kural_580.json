@@ -1,0 +1,39 @@
+{
+  "Kural_Info": {
+    "Number": 580,
+    "Chapter": "கண்ணோட்டம் (Benignity)",
+    "Tamil_Text": "பெயக்கண்டும் நஞ்சுண்டமைவர் நயத்தக்க நாகரிகம் வேண்டு பவர்.",
+    "English_Meaning": "Those who desire (to cultivate that degree of) urbanity which all shall love, even after swallowing the poison served to them by their friends, will be friendly with them."
+  },
+  "Flux_Optimized_Prompt": {
+    "Layered_Composition": {
+      "Foreground": "A person of supreme courtesy ('நாகரிகம் வேண்டுபவர்') is at a banquet. A supposed friend is pouring a dark, swirling poison ('நஞ்சு') into their cup, and they see it happen ('பெயக்கண்டும்').",
+      "Midground": "Despite knowing they are being poisoned, the courteous person calmly and gracefully drinks from the cup without showing any anger or accusation, maintaining a pleasant and civil demeanor.",
+      "Background": "The atmosphere of the banquet remains undisturbed and pleasant, solely due to the incredible self-control and grace of the person who chooses civility over conflict, even in the face of betrayal."
+    },
+    "Art_Direction": {
+      "Subject_and_Action": "Those who desire a pleasing and courteous nature will maintain their grace and composure even to the point of knowingly accepting poison from another, just to preserve civility.",
+      "Symbolic_Motifs": "The act of knowingly and calmly drinking the poison is a powerful, extreme metaphor for the commitment to courtesy and the avoidance of conflict.",
+      "Mood_and_Emotion": "Graceful, controlled, courteous to the extreme, civilized, composed.",
+      "Lighting_and_Color": "The scene is lit with the warm, rich light of a banquet. The poison is the only dark, menacing element, creating a stark contrast with the person's calm reaction.",
+      "Technical_Cues": {
+        "Camera": "A close-up on the person's face, capturing their calm, knowing expression as they drink the poison.",
+        "Resolution": "8K, cinematic, with a focus on subtle emotion and the texture of the liquid.",
+        "Lighting": "Dramatic, warm lighting (like candlelight) to create an intimate and intense atmosphere.",
+        "Art_Genre": "Historical drama, intense psychological realism."
+      }
+    },
+    "Cultural_Anchors": [
+      "Desiring Courtesy ('நாகரிகம் வேண்டுபவர்')",
+      "Knowingly Drinking Poison ('பெயக்கண்டும் நஞ்சுண்டமைவர்')",
+      "The extreme of gracious conduct."
+    ]
+  },
+  "Negative_Prompt": "person shouting or fighting, poison being spilled, chaotic banquet, text artifacts.",
+  "Hyperparameters": {
+    "variant": "pro",
+    "steps": 50,
+    "cfg_scale": 9,
+    "seed": "Explore variations for the look of the poison."
+  }
+}

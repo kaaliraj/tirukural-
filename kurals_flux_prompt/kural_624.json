@@ -1,0 +1,39 @@
+{
+  "Kural_Info": {
+    "Number": 624,
+    "Chapter": "இடுக்கணழியாமை (Hopefulness in Trouble)",
+    "Tamil_Text": "மடுத்தவா யெல்லாம் பகடன்னான் உற்ற இடுக்கண் இடர்ப்பாடு உடைத்து.",
+    "English_Meaning": "Troubles will vanish (i.e., will be troubled) before the man who (struggles against difficulties) as a buffalo (drawing a cart) through deep mire."
+  },
+  "Flux_Optimized_Prompt": {
+    "Layered_Composition": {
+      "Foreground": "A powerful, determined person ('பகடன்னான்') is shown pulling a heavy cart through a field of deep, thick, grasping mud, which represents life's troubles ('இடுக்கண்').",
+      "Midground": "The mud itself, personified with scared, anxious faces, is shown being troubled and defeated ('இடர்ப்பாடு உடைத்து') by the person's relentless, forward-plodding effort. The mud is trying to stop them, but it is the mud that is being churned and overcome.",
+      "Background": "The path behind the person is a clear, firm road carved out from the mud, showing the progress made through their unyielding struggle."
+    },
+    "Art_Direction": {
+      "Subject_and_Action": "Troubles themselves get into trouble and are defeated by the person who plows through them with the relentless, unyielding effort of a bullock pulling a cart through deep mud.",
+      "Symbolic_Motifs": "The person as the powerful bullock is the central analogy. The personified, fearful mud represents the troubles being defeated by sheer, stubborn perseverance.",
+      "Mood_and_Emotion": "Unyielding, relentless, powerful, determined, struggling but victorious.",
+      "Lighting_and_Color": "A gritty, earthy palette. The lighting is harsh and dramatic, highlighting the strain on the person's muscles and the thick texture of the mud. The person has a determined, forward-looking gaze.",
+      "Technical_Cues": {
+        "Camera": "A low-angle, dynamic shot from the side, emphasizing the immense effort and forward momentum of the person.",
+        "Resolution": "8K, with hyper-realistic mud textures and effects.",
+        "Lighting": "High-contrast, dramatic lighting (chiaroscuro).",
+        "Art_Genre": "Gritty realism, with a symbolic, surreal element in the personified mud."
+      },
+      "Cultural_Anchors": [
+        "Like a Bullock in the Mire ('பகடன்னான்')",
+        "Trouble gets into Trouble ('இடுக்கண் இடர்ப்பாடு உடைத்து')",
+        "Victory through relentless perseverance."
+      ]
+    },
+    "Negative_Prompt": "person stuck in the mud, happy mud, text artifacts, cartoonish.",
+    "Hyperparameters": {
+      "variant": "dev",
+      "steps": 45,
+      "cfg_scale": 9,
+      "seed": "Explore variations for the faces in the mud."
+    }
+  }
+}

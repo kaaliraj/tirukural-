@@ -1,0 +1,39 @@
+{
+  "Kural_Info": {
+    "Number": 721,
+    "Chapter": "அவையஞ்சாமை (Not to dread the Council)",
+    "Tamil_Text": "வகையறிந்து வல்லவை வாய்சோரார் சொல்லின் தொகையறிந்த தூய்மை யவர்.",
+    "English_Meaning": "The pure who know the classification of words having first ascertained the nature (of the court) will not (through fear) falter in their speech before the powerful body."
+  },
+  "Flux_Optimized_Prompt": {
+    "Layered_Composition": {
+      "Foreground": "A pure and wise orator stands before a powerful and intimidating assembly. They know the nature of words ('சொல்லின் தொகை அறிந்த தூய்மையவர்').",
+      "Midground": "Before speaking, they are shown analyzing the assembly ('வகை அறிந்து'). Their mind visualizes the audience as a complex lock. They then select the perfect word, the 'right key' ('வல்லவை'), for this specific lock.",
+      "Background": "Because they have chosen the right words for the right audience, they speak with absolute confidence, without any slip of the tongue or faltering ('வாய் சோரார்'). Their words are shown to be perfectly effective."
+    },
+    "Art_Direction": {
+      "Subject_and_Action": "Those who are pure and masters of language will first analyze their audience and then speak their powerful words without faltering.",
+      "Symbolic_Motifs": "The audience as a lock and the words as a key is a powerful metaphor for adapting one's speech. The speaker's confident, unwavering stance shows their lack of fear.",
+      "Mood_and_Emotion": "Confident, masterful, analytical, fearless, eloquent.",
+      "Lighting_and_Color": "A bright, confident light illuminates the orator. The 'key' of their words can have a special glow. The assembly, though powerful, is receptive.",
+      "Technical_Cues": {
+        "Camera": "A shot from behind the orator, looking out at the assembly, emphasizing the orator's command of the situation.",
+        "Resolution": "8K, with a focus on the confident expression of the speaker.",
+        "Lighting": "Strong, clear lighting to convey confidence.",
+        "Art_Genre": "Historical realism, with symbolic elements."
+      }
+    },
+    "Cultural_Anchors": [
+      "Knowing the nature of the assembly ('வகை அறிந்து')",
+      "Masters of words ('சொல்லின் தொகை அறிந்தவர்')",
+      "Not faltering in speech ('வாய் சோரார்')"
+    ]
+  },
+  "Negative_Prompt": "faltering speaker, wrong key, angry assembly, text artifacts.",
+  "Hyperparameters": {
+    "variant": "pro",
+    "steps": 50,
+    "cfg_scale": 8,
+    "seed": "Explore variations for the lock-and-key metaphor."
+  }
+}

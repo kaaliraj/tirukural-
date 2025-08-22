@@ -1,0 +1,39 @@
+{
+  "Kural_Info": {
+    "Number": 56,
+    "Chapter": "வாழ்க்கைத் துணைநலம் (The Worth of a Wife)",
+    "Tamil_Text": "தற்காத்துத் தற்கொண்டாற் பேணித் தகைசான்றசொற்காத்துச் சோர்விலாள் பெண்.",
+    "English_Meaning": "She is a wife who unweariedly guards herself, takes care of her husband, and preserves an unsullied fame."
+  },
+  "Flux_Optimized_Prompt": {
+    "Layered_Composition": {
+      "Foreground": "A woman stands as a vigilant guardian. She is depicted with three symbolic shields of light.",
+      "Midground": "The first shield, held before herself, represents 'guarding herself' (தற்காத்து). The second shield extends protectively over her husband, representing 'caring for him' (தற்கொண்டாற் பேணி). The third shield is a large, immaculate banner held high above them both, inscribed with words of praise, representing her 'unsullied fame' (தகைசான்ற சொற்காத்து).",
+      "Background": "A serene and stable home environment, the direct result of her tireless guardianship. Her expression is not tired, but vigilant and steadfast ('சோர்விலாள்')."
+    },
+    "Art_Direction": {
+      "Subject_and_Action": "The ideal woman ('பெண்') visualized as a tireless and multi-faceted guardian of personal virtue, her husband's well-being, and the family's reputation.",
+      "Symbolic_Motifs": "The three shields/banners of light are a clear visual metaphor for her three key duties. Her 'unwearied' nature is shown in her strong, steadfast posture and alert expression.",
+      "Mood_and_Emotion": "Vigilant, protective, steadfast, honorable, strong.",
+      "Lighting_and_Color": "A clear, strong light illuminates the scene, symbolizing clarity and virtue. The shields of light emit a protective, golden glow. The palette is clean and noble.",
+      "Technical_Cues": {
+        "Camera": "Full-figure portrait shot, heroic low angle, to emphasize her strength and dignified role as a guardian.",
+        "Resolution": "8K, ultra-realistic, with ethereal effects for the symbolic shields and banner.",
+        "Lighting": "Noble, statuesque lighting, similar to that used for heroes or deities.",
+        "Art_Genre": "Symbolic portraiture, heroic realism."
+      },
+      "Cultural_Anchors": [
+        "Tharkaatthal (தற்காத்தல்) - Self-guardianship",
+        "Tharkondaar Penal (தற்கொண்டாற் பேணல்) - Caring for her husband",
+        "Sorkaathal (சொற்காத்தல்) - Guarding her reputation"
+      ]
+    },
+    "Negative_Prompt": "tired woman, broken shields, suffering husband, chaotic home, text artifacts, dark and gloomy.",
+    "Hyperparameters": {
+      "variant": "dev",
+      "steps": 45,
+      "cfg_scale": 8,
+      "seed": "Explore designs for the three symbolic shields/banners."
+    }
+  }
+}

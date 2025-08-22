@@ -1,0 +1,39 @@
+{
+  "Kural_Info": {
+    "Number": 374,
+    "Chapter": "ஊழ் (Fate)",
+    "Tamil_Text": "இருவேறு உலகத்து இயற்கை திருவேறு தெள்ளிய ராதலும் வேறு.",
+    "English_Meaning": "Two fold the fashion of the world: some live in fortune's light; While other some have souls in wisdom's radiance bright."
+  },
+  "Flux_Optimized_Prompt": {
+    "Layered_Composition": {
+      "Foreground": "Two figures stand back-to-back on a cosmic balance scale. One figure is a richly adorned king ('திரு'), showered in golden coins.",
+      "Midground": "The other figure is a simple, wise sage ('தெள்ளியர்'), illuminated by an inner light of pure knowledge. The scales are perfectly balanced, indicating their different but equally fated natures.",
+      "Background": "A vast, starry cosmos, representing the world ('உலகத்து இயற்கை') where these two distinct fates unfold."
+    },
+    "Art_Direction": {
+      "Subject_and_Action": "The world naturally consists of two types of destinies, ordained by fate: the destiny of wealth and the destiny of wisdom, which are distinct and separate.",
+      "Symbolic_Motifs": "The balance scale represents the two separate but coexisting fates. The shower of gold symbolizes the fate of wealth ('திரு'). The inner light symbolizes the fate of wisdom ('தெள்ளியர் ஆதல்').",
+      "Mood_and_Emotion": "Balanced, profound, deterministic, accepting of diversity in fate.",
+      "Lighting_and_Color": "The king's side is lit by a warm, golden, external light. The sage's side is lit by a cool, white, internal glow. The overall palette is cosmic and grand."
+    },
+    "Technical_Cues": {
+      "Camera": "Centered, symmetrical wide shot, emphasizing the balance and contrast.",
+      "Resolution": "8K, hyper-realistic, with magical realism effects for the light and gold.",
+      "Lighting": "Contrasting light sources, one external and one internal, to highlight the different natures of their 'wealth'.",
+      "Art_Genre": "Symbolic art, metaphysical digital painting."
+    },
+    "Cultural_Anchors": [
+      "Two Natures of the World ('இருவேறு உலகத்து இயற்கை')",
+      "Destiny of Wealth ('திரு')",
+      "Destiny of Wisdom ('தெள்ளியர் ஆதல்')"
+    ]
+  },
+  "Negative_Prompt": "unbalanced scale, sad figures, modern clothing, blurry, text artifacts, one figure dominating the other.",
+  "Hyperparameters": {
+    "variant": "pro",
+    "steps": 50,
+    "cfg_scale": 8,
+    "seed": "Explore variations for the cosmic background."
+  }
+}

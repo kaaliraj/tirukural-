@@ -1,0 +1,39 @@
+{
+  "Kural_Info": {
+    "Number": 1305,
+    "Chapter": "புலவி (Pouting)",
+    "Tamil_Text": "நலத்தகை நல்லவர்க்கு ஏஎர் புலத்தகைபூஅன்ன கண்ணார் அகத்து.",
+    "English_Meaning": "An increased shyness in those whose eyes are like flowers is beautiful even to good and virtuous husbands."
+  },
+  "Flux_Optimized_Prompt": {
+    "Layered_Composition": {
+      "Foreground": "A woman with eyes as beautiful as flowers ('பூ அன்ன கண்ணார்') is shown in a state of feigned anger or pouting ('புலத்தகை').",
+      "Midground": "Her pouting is not depicted as ugly or angry. Instead, it adds a layer of beautiful shyness and a special kind of grace to her beauty.",
+      "Background": "Her good and noble husband ('நல்லவர்') is looking at her not with frustration, but with an expression of deep admiration and aesthetic appreciation. He perceives her pouting not as a conflict, but as an enhancement of her beauty, a thing of 'loveliness' ('ஏஎர்')."
+    },
+    "Art_Direction": {
+      "Subject_and_Action": "For a good and loving husband, the feigned anger of his beautiful wife is not a source of annoyance, but is perceived as another beautiful and lovely aspect of her charm.",
+      "Symbolic_Motifs": "The pouting as an enhancement of beauty is the key concept. It could be visualized as her cheeks getting a rosy blush, or her flower-like eyes looking even more captivating. The husband's appreciative gaze confirms this perception.",
+      "Mood_and_Emotion": "Charming, beautiful, lovely, appreciative.",
+      "Lighting_and_Color": "A soft, romantic, and very beautiful light fills the scene. The woman's pout should be depicted as utterly charming, not genuinely angry. The husband's face is lit with the warm glow of admiration.",
+      "Technical_Cues": {
+        "Camera": "An intimate two-shot, focusing on her charming pout and his admiring reaction.",
+        "Resolution": "8K, ultra-realistic, with a focus on the beautiful and subtle emotions.",
+        "Lighting": "Soft, flattering, romantic lighting.",
+        "Art_Genre": "Romantic realism, classical portraiture."
+      },
+      "Cultural_Anchors": [
+        "The beauty of pouting (புலத்தகை ஏஎர்)",
+        "In her with flower-like eyes (பூ அன்ன கண்ணார் அகத்து)",
+        "For the good man (நல்லவர்க்கு)"
+      ]
+    },
+    "Negative_Prompt": "ugly pouting, angry husband, text artifacts.",
+    "Hyperparameters": {
+      "variant": "pro",
+      "steps": 50,
+      "cfg_scale": 7,
+      "seed": "Explore the subtle expression of a 'charming pout'."
+    }
+  }
+}

@@ -1,0 +1,39 @@
+{
+  "Kural_Info": {
+    "Number": 569,
+    "Chapter": "வெருவந்தசெய்யாமை (Absence of Terrorism)",
+    "Tamil_Text": "செருவந்த போழ்திற் சிறைசெய்யா வேந்தன் வெருவந்து வெய்து கெடும்.",
+    "English_Meaning": "The king who has not provided himself with a place of defence, will in times of war be seized with fear and quickly perish."
+  },
+  "Flux_Optimized_Prompt": {
+    "Layered_Composition": {
+      "Foreground": "A king is shown in his opulent but completely unfortified palace in an open field. He has failed to build defenses ('சிறைசெய்யா வேந்தன்').",
+      "Midground": "Suddenly, the horns of war are heard, and a massive enemy army appears on the horizon ('செருவந்த போழ்தில்').",
+      "Background": "The king's face is a mask of pure terror ('வெருவந்து'). With no fortress to protect him, he is completely exposed, and he is shown being consumed by the flames of war, perishing swiftly and hotly ('வெய்து கெடும்')."
+    },
+    "Art_Direction": {
+      "Subject_and_Action": "A king who fails to build fortifications for defense before war comes will be consumed by fear and perish swiftly when it arrives.",
+      "Symbolic_Motifs": "The contrast between the luxurious but defenseless palace and the approaching army is key. The king's expression shifting to terror is the emotional core. The consuming fire represents his hot, swift destruction.",
+      "Mood_and_Emotion": "Unprepared, fearful, doomed, swift destruction.",
+      "Lighting_and_Color": "The scene starts with the bright, naive light of peacetime, which is quickly replaced by the fiery, red and orange light of the approaching war and the final conflagration.",
+      "Technical_Cues": {
+        "Camera": "A shot that starts on the unprepared king and then crash zooms out to reveal the overwhelming enemy army on the horizon.",
+        "Resolution": "8K, cinematic, with epic battle and fire effects.",
+        "Lighting": "Dramatic shift in lighting from peaceful to warlike.",
+        "Art_Genre": "Epic historical tragedy."
+      }
+    },
+    "Cultural_Anchors": [
+      "A king without a fortress ('சிறைசெய்யா வேந்தன்')",
+      "Consumed by Fear ('வெருவந்து')",
+      "Perishing hotly/swiftly ('வெய்து கெடும்')"
+    ]
+  },
+  "Negative_Prompt": "king in a strong fortress, happy king, no army, text artifacts, cartoonish.",
+  "Hyperparameters": {
+    "variant": "pro",
+    "steps": 50,
+    "cfg_scale": 8,
+    "seed": "Explore variations for the approaching army."
+  }
+}

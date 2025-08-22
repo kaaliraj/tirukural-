@@ -1,0 +1,39 @@
+{
+  "Kural_Info": {
+    "Number": 1240,
+    "Chapter": "உறுப்புநலனழிதல் (Wasting Away)",
+    "Tamil_Text": "கண்ணின் பசப்போ பருவரல் எய்தின்றேஒண்ணுதல் செய்தது கண்டு.",
+    "English_Meaning": "Was it at the sight of what the bright forehead had done that the sallowness of her eyes became sad?."
+  },
+  "Flux_Optimized_Prompt": {
+    "Layered_Composition": {
+      "Foreground": "A close-up on a woman's face, which is afflicted with the pallor of lovesickness.",
+      "Midground": "The sallow hue ('பசப்பு') is shown on two different parts of her face: her forehead ('ஒள் நுதல்') and her eyes ('கண்ணு').",
+      "Background": "A subtle personification is at play. The pallor on her eyes is shown looking at the pallor on her forehead, and upon seeing it, the eye-pallor becomes even more sorrowful and distressed ('பருவரல் எய்தின்று'). There is a rivalry of sorrow between her own features."
+    },
+    "Art_Direction": {
+      "Subject_and_Action": "A poetic and introspective fancy: the sallow hue on the lover's eyes becomes even more sorrowful when it sees the affliction that has already been caused to her bright forehead.",
+      "Symbolic_Motifs": "The personification of the sallow hue on different body parts, making them actors in their own drama, is the core concept. The 'eye-pallor' feels grief for the 'forehead-pallor', creating a cascade of sorrow.",
+      "Mood_and_Emotion": "Introspective, poetic sorrow, melancholic, personified grief.",
+      "Lighting_and_Color": "A uniform, soft, and sad light. The focus is on the subtle difference in the 'emotion' of the pallor on the eyes versus the forehead. The eye-pallor might be depicted with a tear-like quality, while the forehead-pallor is a static stain.",
+      "Technical_Cues": {
+        "Camera": "An extreme macro shot of the face, moving from the afflicted forehead to the even more sorrowful afflicted eyes.",
+        "Resolution": "8K, hyper-realistic, focusing on the subtle textures and colors of the skin.",
+        "Lighting": "Soft, melancholic lighting to create a mood of deep, introspective sadness.",
+        "Art_Genre": "Symbolic portraiture."
+      },
+      "Cultural_Anchors": [
+        "The pallor of the eye (கண்ணின் பசப்பு)",
+        "Felt distress (பருவரல் எய்தின்று)",
+        "Seeing what the bright forehead had done (ஒள் நுதல் செய்தது கண்டு)"
+      ]
+    },
+    "Negative_Prompt": "healthy skin, happy expression, text artifacts.",
+    "Hyperparameters": {
+      "variant": "dev",
+      "steps": 40,
+      "cfg_scale": 7,
+      "seed": "Explore the subtle visual distinction between the two 'pallors'."
+    }
+  }
+}

@@ -1,0 +1,33 @@
+{
+  "Kural_Info": {
+    "Number": 987,
+    "Chapter": "சான்றாண்மை (Perfectness)",
+    "Tamil_Text": "இன்னாசெய் தார்க்கும் இனியவே செய்யாக்கால்என்ன பயத்ததோ சால்பு.",
+    "English_Meaning": "Of what avail is perfect goodness if it cannot do pleasing things even to those who have pained (it) ?."
+  },
+  "Flux_Optimized_Prompt": {
+    "Layered_Composition": {
+      "Foreground": "A person of 'Saalbu' (perfect goodness) is shown offering a bowl of healing herbs or cool water ('Iniyave') to someone who has just thrown a stone at them or otherwise harmed them ('Inna Seithar').",
+      "Midground": "The ground where the perfected person stands is fertile and blooming with flowers. The ground where the aggressor stands is barren and cracked, but small sprouts are beginning to appear where the kindness is being extended.",
+      "Background": "A serene landscape that highlights the contrast between the two figures, suggesting that goodness has the power to transform barrenness."
+    },
+    "Art_Direction": {
+      "Subject_and_Action": "Questioning the very purpose of perfect goodness if it doesn't extend kindness even to those who inflict harm. The image shows this principle in action.",
+      "Symbolic_Motifs": "The offering of kindness in direct response to harm is the central action. The blooming versus barren ground symbolizes the state of the two characters' souls, and the potential for transformation through goodness.",
+      "Mood_and_Emotion": "Compassionate, forgiving, transformative, profound.",
+      "Lighting_and_Color": "A warm, gentle, healing light radiates from the perfected person and their offering. The aggressor is in darker, harsher tones, but this light begins to touch them. The palette is of healing greens and golds versus harsh grays and browns."
+    },
+    "Technical_Cues": {
+      "Camera": "Medium wide shot, capturing the interaction and the symbolic state of the ground around them.",
+      "Resolution": "8K, photorealistic, with strong emotional storytelling in the characters' expressions—one of calm compassion, the other of surprised disbelief.",
+      "Lighting": "Soft, radiant lighting from the perfected one, acting as the key light for the scene.",
+      "Art_Genre": "Allegorical realism, with a clear and powerful moral narrative."
+    },
+    "Cultural_Anchors": [
+      "சால்பு (Perfect Goodness)",
+      "இன்னா செய்தார்க்கும் இனியவே செய்தல் (Doing good even to those who do harm)",
+      "The transformative power of forgiveness"
+    ]
+  },
+  "Negative_Prompt": "protagonist retaliating, aggressor looking happy, modern weapons, text artifacts, cartoonish, neutral background."
+}

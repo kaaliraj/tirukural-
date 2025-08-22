@@ -1,0 +1,39 @@
+{
+  "Kural_Info": {
+    "Number": 762,
+    "Chapter": "படைமாட்சி (The Excellence of an Army)",
+    "Tamil_Text": "உலைவிடத்து ஊறஞ்சா வன்கண் தொலைவிடத்துத்தொல்படைக் கல்லால் அரிது.",
+    "English_Meaning": "Ancient army can alone have the valour which makes it stand by its king at the time of defeat, fearless of wounds and unmindful of its reduced strength."
+  },
+  "Flux_Optimized_Prompt": {
+    "Layered_Composition": {
+      "Foreground": "A chaotic battle scene where the king's side is clearly losing ('உலைவிடத்து'). The army has been decimated, and only a small band of veteran soldiers remains ('தொலைவு').",
+      "Midground": "Despite their wounds and the certainty of defeat, this core group of hereditary warriors ('தொல்படை') is shown forming a tight, unbreakable circle around their king. Their faces show not fear, but a ferocious, unyielding valor ('வன் கண்') as they prepare to make their final stand.",
+      "Background": "In contrast, newer, less seasoned troops are seen fleeing in the background, highlighting that this unshakable loyalty is a rare quality found only in an army with a long tradition of service."
+    },
+    "Art_Direction": {
+      "Subject_and_Action": "The rare and ultimate valor of standing firm and fearless in the face of certain destruction is a quality found only in a traditional, hereditary army.",
+      "Symbolic_Motifs": "The unbreakable circle of veterans around the king is the central image of loyalty. Their weathered faces and old scars distinguish them from the younger, fleeing soldiers. They are fearless of new wounds ('ஊறு அஞ்சா') because they are defined by old ones.",
+      "Mood_and_Emotion": "Unbreakable loyalty, heroic, valiant, tragic courage, steadfast.",
+      "Lighting_and_Color": "The scene is lit by the chaotic, fiery light of a losing battle. The focus is a pocket of heroic, golden light around the king and his loyal guard, a stark contrast to the surrounding despair and flight.",
+      "Technical_Cues": {
+        "Camera": "A tight, dramatic shot focused on the faces of the veteran warriors and their king, capturing their expressions of grim resolve.",
+        "Resolution": "8K, ultra-realistic, with gritty details of battle wounds, dirt, and sweat.",
+        "Lighting": "High-contrast, chaotic lighting with a symbolic, heroic light source on the main subjects.",
+        "Art_Genre": "Historical battle painting, in the style of Jacques-Louis David."
+      },
+      "Cultural_Anchors": [
+        "Hereditary/Ancient army (தொல்படை)",
+        "In the face of ruin (உலைவிடத்து)",
+        "Fearless valor (ஊறு அஞ்சா வன்கண்)"
+      ]
+    },
+    "Negative_Prompt": "veterans fleeing, king being captured, clean soldiers, text artifacts, cartoonish battle.",
+    "Hyperparameters": {
+      "variant": "pro",
+      "steps": 50,
+      "cfg_scale": 9,
+      "seed": "Explore the expressions of grim, unyielding valor on the soldiers' faces."
+    }
+  }
+}

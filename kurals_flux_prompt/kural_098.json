@@ -1,0 +1,39 @@
+{
+  "Kural_Info": {
+    "Number": 98,
+    "Chapter": "இனியவை கூறல் (The Utterance of Pleasant Words)",
+    "Tamil_Text": "சிறுமையுவு நீங்கிய இன்சொல் மறுமையும்இம்மையும் இன்பம் தரும்.",
+    "English_Meaning": "Sweet speech, free from harm to others, will give pleasure both in this world and in the next."
+  },
+  "Flux_Optimized_Prompt": {
+    "Layered_Composition": {
+      "Foreground": "A person speaks pleasant words that are free from meanness or harm ('சிறுமையுள் நீங்கிய இன்சொல்'). These words are visualized as gentle, glowing butterflies.",
+      "Midground": "Some of the butterflies fly around the speaker and the listeners in the present, earthly world ('இம்மை'), creating an atmosphere of immediate joy and happiness ('இன்பம்').",
+      "Background": "Other butterflies from the same speech fly upwards, transforming into ethereal, shining spirit-lights that travel towards a beautiful, blissful heavenly realm, representing the pleasure they will bring in the next life ('மறுமை')."
+    },
+    "Art_Direction": {
+      "Subject_and_Action": "Pleasant words that are free from any meanness provide a dual blessing, bringing happiness both in this life and the life to come.",
+      "Symbolic_Motifs": "The butterflies are a beautiful and gentle metaphor for harmless, sweet words. The two different paths taken by the butterflies clearly illustrate the dual benefit in 'this world' and the 'next world'.",
+      "Mood_and_Emotion": "Gentle, blissful, harmless, doubly blessed.",
+      "Lighting_and_Color": "A soft, pleasant light fills the scene. The butterflies glow with a warm, golden light. The earthly scene is beautiful, and the heavenly scene is even more so, suggesting a continuation and elevation of the same joy.",
+      "Technical_Cues": {
+        "Camera": "A wide shot that captures the speaker and the two diverging paths of the butterfly-words.",
+        "Resolution": "8K, ultra-realistic, with beautiful particle effects for the glowing butterflies.",
+        "Lighting": "Soft, magical lighting that creates a peaceful and happy atmosphere.",
+        "Art_Genre": "Magical realism, fantasy illustration."
+      },
+      "Cultural_Anchors": [
+        "Words free from meanness (சிறுமையுள் நீங்கிய இன்சொல்)",
+        "Pleasure in this life (இம்மை இன்பம்)",
+        "Pleasure in the next life (மறுமை இன்பம்)"
+      ]
+    },
+    "Negative_Prompt": "harmful words, ugly insects, dark scene, text artifacts, sad people.",
+    "Hyperparameters": {
+      "variant": "dev",
+      "steps": 45,
+      "cfg_scale": 7,
+      "seed": "Explore different colors and patterns for the butterfly-words."
+    }
+  }
+}

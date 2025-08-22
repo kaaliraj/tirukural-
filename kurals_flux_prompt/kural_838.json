@@ -1,0 +1,39 @@
+{
+  "Kural_Info": {
+    "Number": 838,
+    "Chapter": "பேதைமை (Folly)",
+    "Tamil_Text": "மையல் ஒருவன் களித்தற்றால் பேதைதன் கையொன்று உடைமை பெறின்.",
+    "English_Meaning": "A fool happening to possess something is like the intoxication of one who is (already) giddy."
+  },
+  "Flux_Optimized_Prompt": {
+    "Layered_Composition": {
+      "Foreground": "A split image. On the left, a person who is already mad or bewildered ('மையல் ஒருவன்') is shown drinking wine, which makes them completely intoxicated and chaotic ('களித்தற்று').",
+      "Midground": "On the right, a fool ('பேதை') who previously had nothing is shown suddenly acquiring a small possession, like a single gold coin ('கையொன்று உடைமை பெறின்').",
+      "Background": "The effect of this small possession on the fool is shown to be exactly the same as the effect of the wine on the madman. The fool is depicted becoming just as wildly intoxicated, arrogant, and chaotic as the drunk madman. The small wealth has driven them mad."
+    },
+    "Art_Direction": {
+      "Subject_and_Action": "When a fool acquires even a small amount of wealth, it affects them like wine affects a madman—it makes their foolishness dangerously intoxicated.",
+      "Symbolic_Motifs": "The direct parallel between the drunk madman and the newly wealthy fool is the central concept. Their identical expressions of chaotic intoxication make the point.",
+      "Mood_and_Emotion": "Intoxicated, chaotic, arrogant, a dangerous combination.",
+      "Lighting_and_Color": "Both scenes are lit with a dizzying, unstable light. The colors are garish and chaotic, suggesting madness and intoxication.",
+      "Technical_Cues": {
+        "Camera": "A diptych composition with distorted, wide-angle lenses to enhance the feeling of madness and instability.",
+        "Resolution": "8K, with a focus on crazed expressions.",
+        "Lighting": "Erratic, swirling lighting.",
+        "Art_Genre": "Expressionism."
+      }
+    },
+    "Cultural_Anchors": [
+      "A fool acquiring a possession",
+      "Like a madman becoming drunk",
+      "The intoxicating effect of new wealth on the foolish."
+    ]
+  },
+  "Negative_Prompt": "a calm fool, a sober madman, text artifacts.",
+  "Hyperparameters": {
+    "variant": "dev",
+    "steps": 45,
+    "cfg_scale": 9,
+    "seed": "Explore variations for the intoxicated expressions."
+  }
+}

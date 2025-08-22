@@ -1,0 +1,39 @@
+{
+  "Kural_Info": {
+    "Number": 121,
+    "Chapter": "அடக்கமுடைமை (The Possession of Self-restraint)",
+    "Tamil_Text": "அடக்கம் அமரருள் உய்க்கும் அடங்காமைஆரிருள் உய்த்து விடும்.",
+    "English_Meaning": "Self-control will place (a man) among the Gods; the want of it will drive (him) into the thickest darkness (of hell)."
+  },
+  "Flux_Optimized_Prompt": {
+    "Layered_Composition": {
+      "Foreground": "A central figure stands at a fork in their life path.",
+      "Midground": "On the right, they practice self-control ('அடக்கம்'), visualized as them calmly mastering their five senses (represented by five glowing, tamed beasts). This path ascends as a stairway of light towards the realm of the Gods ('அமரருள்').",
+      "Background": "On the left, they give in to a lack of control ('அடங்காமை'), visualized as them being dragged along by the same five beasts, now wild and chaotic. This path descends steeply into a terrifying, pitch-black abyss of utter darkness ('ஆர் இருள்')."
+    },
+    "Art_Direction": {
+      "Subject_and_Action": "A stark choice and its absolute consequences: self-control leads to divinity, while its absence leads to the deepest darkness.",
+      "Symbolic_Motifs": "The path of light ascending to the heavens versus the path of darkness descending into the abyss is a powerful, clear metaphor. The state of the five sensory beasts (tamed vs. wild) visually explains the internal state that leads to each destiny.",
+      "Mood_and_Emotion": "Ascendant vs. descendant, divine vs. damned, controlled vs. chaotic.",
+      "Lighting_and_Color": "The right path is bathed in a brilliant, divine, golden-white light. The left path is consumed by an absolute, terrifying blackness, a true void from which no light escapes.",
+      "Technical_Cues": {
+        "Camera": "A wide, epic shot that captures the central figure, the choice, and the two vastly different, ultimate destinations.",
+        "Resolution": "8K, ultra-realistic, with strong ethereal effects for the divine realm and terrifying darkness effects for the abyss.",
+        "Lighting": "Extreme high-contrast lighting to represent the absolute choice between divinity and damnation.",
+        "Art_Genre": "Epic fantasy art, mythological painting."
+      },
+      "Cultural_Anchors": [
+        "Adakkam (அடக்கம்) - Self-control",
+        "Among the Gods (அமரருள்)",
+        "Deepest darkness (ஆர் இருள்)"
+      ]
+    },
+    "Negative_Prompt": "middle path, grey destinies, text artifacts, cartoonish beasts.",
+    "Hyperparameters": {
+      "variant": "pro",
+      "steps": 55,
+      "cfg_scale": 9,
+      "seed": "Explore the visual of the 'thickest darkness'."
+    }
+  }
+}

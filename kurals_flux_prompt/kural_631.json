@@ -1,0 +1,40 @@
+{
+  "Kural_Info": {
+    "Number": 631,
+    "Chapter": "அமைச்சு (The Office of Minister of state)",
+    "Tamil_Text": "கருவியும் காலமும் செய்கையும் செய்யும் அருவினையும் மாண்டது அமைச்சு.",
+    "English_Meaning": "The minister is one who can make an excellent choice of means, time, manner of execution, and the difficult undertaking (itself)."
+  },
+  "Flux_Optimized_Prompt": {
+    "Layered_Composition": {
+      "Foreground": "A master minister is depicted as a grand architect standing before a complex project.",
+      "Midground": "They are shown masterfully selecting and arranging five glowing, symbolic elements: a set of perfect Tools ('கருவி'), a celestial Clock ('காலம்'), a flawless Blueprint ('செய்கை'), and a detailed model of the difficult task itself ('அருவினை'). Their mastery over these elements defines their excellence.",
+      "Background": "A great and difficult project, like building a massive bridge over a chasm, is shown being completed flawlessly as a result of the minister's perfect orchestration of these five elements."
+    },
+    "Art_Direction": {
+      "Subject_and_Action": "The definition of an excellent minister is one who has mastery over the five components of any action: the means, the time, the manner, and the nature of the difficult deed itself.",
+      "Symbolic_Motifs": "The five glowing, symbolic objects represent the five pillars of ministerial competence. The minister as an architect or conductor orchestrating these elements demonstrates their skill.",
+      "Mood_and_Emotion": "Masterful, competent, strategic, precise, excellent.",
+      "Lighting_and_Color": "A clear, bright, intellectual light illuminates the scene. The five symbolic elements glow with a light of pure potential, which the minister is harnessing.",
+      "Technical_Cues": {
+        "Camera": "A wide shot that shows the minister, the five elements they are controlling, and the successful outcome of their project.",
+        "Resolution": "8K, with a clean, high-tech or magical aesthetic for the symbolic elements.",
+        "Lighting": "Bright, clear lighting to symbolize clarity of thought and execution.",
+        "Art_Genre": "Conceptual art, with a high-fantasy or sci-fi aesthetic for the symbols."
+      }
+    },
+    "Cultural_Anchors": [
+      "Mastery of Means ('கருவி')",
+      "Mastery of Time ('காலம்')",
+      "Mastery of Method ('செய்கை')",
+      "Mastery of the Task ('அருவினை')"
+    ]
+  },
+  "Negative_Prompt": "minister looking confused, broken tools, wrong time, flawed blueprint, text artifacts.",
+  "Hyperparameters": {
+    "variant": "pro",
+    "steps": 50,
+    "cfg_scale": 8,
+    "seed": "Explore variations for the symbolic elements."
+  }
+}

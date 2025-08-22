@@ -1,0 +1,34 @@
+{
+  "Kural_Info": {
+    "Number": 988,
+    "Chapter": "சான்றாண்மை (Perfectness)",
+    "Tamil_Text": "இன்மை ஒருவற்கு இளிவன்று சால்பென்னும்திண்மைஉண் டாகப் பெறின்.",
+    "English_Meaning": "To soul with perfect virtue's strength endued, Brings no disgrace the lack of every earthly good."
+  },
+  "Flux_Optimized_Prompt": {
+    "Layered_Composition": {
+      "Foreground": "A person of great inner strength ('Thinmai') and perfect goodness ('Saalbu') is depicted in simple, worn clothes, living in a humble dwelling ('Inmai'). Despite their poverty, they stand tall and dignified.",
+      "Midground": "From this person emanates an aura of unshakable integrity and light. This light repels shadowy, ghost-like figures representing disgrace and shame ('Ilivu'), which are unable to touch them.",
+      "Background": "In the distant background, wealthy but spiritually poor individuals are shown being tormented by these same shadowy figures of shame, showing that material wealth offers no protection."
+    },
+    "Art_Direction": {
+      "Subject_and_Action": "A powerful declaration that poverty is not a disgrace for a person who possesses the unshakeable strength of perfect character.",
+      "Symbolic_Motifs": "The protective aura of integrity is the key visual. The contrast between the poor but dignified protagonist and the wealthy but tormented background figures highlights the theme.",
+      "Mood_and_Emotion": "Dignified, strong, serene, demonstrating inner richness despite outer poverty.",
+      "Lighting_and_Color": "The protagonist is illuminated by their own inner, golden light, which creates a safe, warm space around them. The rest of the world, including the wealthy background, is in cooler, darker tones."
+    },
+    "Technical_Cues": {
+      "Camera": "Medium full shot, focused on the dignified posture and serene face of the protagonist.",
+      "Resolution": "8K, ultra-realistic, with painterly effects for the aura and the shadowy figures of shame.",
+      "Lighting": "Internal, radiant lighting that contrasts with the ambient gloom.",
+      "Art_Genre": "Symbolic realism, with a strong moral and spiritual focus."
+    },
+    "Cultural_Anchors": [
+      "சால்பு (Perfect Goodness)",
+      "திண்மை (Strength/Steadfastness)",
+      "இன்மை (Poverty/Want)",
+      "இளிவு (Disgrace)"
+    ]
+  },
+  "Negative_Prompt": "sad or ashamed protagonist, wealthy and happy background figures, dark aura, text artifacts, blurry, modern setting."
+}

@@ -1,0 +1,34 @@
+{
+  "Kural_Info": {
+    "Number": 1251,
+    "Chapter": "நிறையழிதல் (Reserve Overcome)",
+    "Tamil_Text": "காமக் கணிச்சி உடைக்கும் நிறையென்னும்நாணுத்தாழ் வீழ்த்த கதவு.",
+    "English_Meaning": "The axe of lust can break the door of chastity which is bolted with the bolt of modesty."
+  },
+  "Flux_Optimized_Prompt": {
+    "Layered_Composition": {
+      "Foreground": "A massive, ornate, and strong door ('Kathavu') representing a woman's self-control and reserve ('Nirai'). The door is firmly bolted with a heavy, intricate lock representing modesty ('Naanu Thaazh').",
+      "Midground": "A powerful, fiery axe ('Kanichchi'), glowing with intense heat and energy, which represents 'Kaamam' (Love/Lust), is shown in mid-swing, about to shatter the door.",
+      "Background": "The moment of impact is captured, with the door and its bolt splintering and breaking apart ('Udaikkum'), showing the overwhelming force of passion against the guards of restraint."
+    },
+    "Art_Direction": {
+      "Subject_and_Action": "A powerful metaphor where overwhelming love/lust is an axe that can break down the door of a woman's self-control, even when it is securely bolted by modesty.",
+      "Symbolic_Motifs": "The door of reserve. The bolt of modesty. The fiery axe of passion. The moment of shattering is the key action.",
+      "Mood_and_Emotion": "Overwhelming, powerful, intense, a sense of irresistible force.",
+      "Lighting_and_Color": "The scene is lit by the fiery, red-hot glow of the axe. The colors are dramatic and intense, with fiery oranges and reds contrasted against the dark, strong wood of the door."
+    },
+    "Technical_Cues": {
+      "Camera": "A dynamic, low-angle action shot, capturing the moment of impact with explosive energy.",
+      "Resolution": "8K, hyper-realistic, with spectacular particle effects of splintering wood and flying sparks.",
+      "Lighting": "The axe is the primary, violent light source, creating a dramatic and chaotic scene.",
+      "Art_Genre": "Epic fantasy art, symbolizing an internal struggle with external, elemental forces."
+    },
+    "Cultural_Anchors": [
+      "நிறை (Self-control/Reserve)",
+      "நாணு (Modesty/Shame)",
+      "காமம் (Love/Lust)",
+      "The metaphor of an axe (கணிச்சி)"
+    ]
+  },
+  "Negative_Prompt": "a weak axe, an unbreakable door, a peaceful scene, modern tools, text artifacts, cartoonish."
+}

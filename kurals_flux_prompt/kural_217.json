@@ -1,0 +1,38 @@
+{
+  "Kural_Info": {
+    "Number": 217,
+    "Chapter": "ஒப்புரவறிதல் (Duty to Society)",
+    "Tamil_Text": "மருந்தாகித் தப்பா மரத்தற்றால் செல்வம்பெருந்தகை யான்கண் படின்.",
+    "English_Meaning": "If wealth be in the possession of a man who has the great excellence (of benevolence), it is like a tree which as a medicine is an infallible cure for disease."
+  },
+  "Flux_Optimized_Prompt": {
+    "Layered_Composition": {
+      "Foreground": "A great, noble person ('பெருந்தகையான்') is shown. Their wealth is not gold, but is personified as a magnificent, living, magical tree.",
+      "Midground": "This tree is a 'medicine tree' ('மருந்தாகித் தப்பா மரம்'). Its leaves, bark, and roots are shown to have healing properties. People suffering from various ailments and diseases are coming to the tree.",
+      "Background": "As they touch the tree or consume its parts, they are instantly and infallibly cured. The tree's benevolence is a universal remedy for the sufferings of the people. The noble owner of the 'tree' facilitates this healing for all."
+    },
+    "Art_Direction": {
+      "Subject_and_Action": "The wealth of a truly noble and great-souled person is like a magical, infallible medicine tree that cures the ills of all who come to it.",
+      "Symbolic_Motifs": "Wealth as a universal, infallible medicine tree is the central metaphor. The healing is not just of poverty, but of all forms of suffering. The owner of the wealth is the guardian of this healing power for the benefit of society.",
+      "Mood_and_Emotion": "Healing, curative, benevolent, noble, infallible.",
+      "Lighting_and_Color": "The medicine tree glows with a soft, powerful, healing light of a gentle green and silver. As people are cured, this healing light is shown flowing into them, driving out the darkness of their sickness. The palette is one of health and magical recovery.",
+      "Technical_Cues": {
+        "Camera": "A shot that centers on the magnificent healing tree, with the noble owner standing beside it like a guardian, and the people being cured all around.",
+        "Resolution": "8K, ultra-realistic, with magical effects for the healing light and the transformation of the sick into the healthy.",
+        "Lighting": "The primary light source is the soft, healing glow of the medicine tree.",
+        "Art_Genre": "High fantasy, magical realism."
+      },
+      "Cultural_Anchors": [
+        "Wealth in the hands of a great man (செல்வம் பெருந்தகையான்கண் படின்)",
+        "Is like an infallible medicine tree (மருந்தாகித் தப்பா மரம் அற்று)"
+      ]
+    },
+    "Negative_Prompt": "poisonous tree, person hoarding the medicine, sick people dying, text artifacts.",
+    "Hyperparameters": {
+      "variant": "pro",
+      "steps": 55,
+      "cfg_scale": 8,
+      "seed": "Explore the design of the 'magical medicine tree'."
+    }
+  }
+}

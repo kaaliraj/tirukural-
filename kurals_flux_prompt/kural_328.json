@@ -1,0 +1,38 @@
+{
+  "Kural_Info": {
+    "Number": 328,
+    "Chapter": "கொல்லாமை (Not killing)",
+    "Tamil_Text": "நன்றாகும் ஆக்கம் பெரிதெனினும் சான்றோர்க்குக்கொன்றாகும் ஆக்கங் கடை.",
+    "English_Meaning": "The advantage which might flow from destroying life in sacrifice, is dishonourable to the wise (who renounced the world), even although it should be said to be productive of great good."
+  },
+  "Flux_Optimized_Prompt": {
+    "Layered_Composition": {
+      "Foreground": "A wise, noble person ('சான்றோர்') is shown.",
+      "Midground": "They are offered a magnificent gain ('நன்றாகும் ஆக்கம் பெரிது'). This gain, however, is the result of a killing, perhaps a ritual sacrifice. The wealth is shown to be dripping with blood.",
+      "Background": "The wise person is shown recoiling in disgust and rejecting this gain. For them, any gain that comes from killing ('கொன்றாகும் ஆக்கம்') is the lowest, most base, and most disgraceful kind of wealth ('கடை')."
+    },
+    "Art_Direction": {
+      "Subject_and_Action": "For the truly wise and noble, any form of wealth or gain that is derived from the act of killing is considered the absolute lowest and most despicable form of prosperity.",
+      "Symbolic_Motifs": "The blood-dripping treasure is a powerful and visceral image of tainted wealth. The wise person's recoil is not one of temptation, but of immediate, instinctual revulsion. Their nobility is incompatible with this kind of gain.",
+      "Mood_and_Emotion": "Repugnant, base, disgraceful, incorruptible.",
+      "Lighting_and_Color": "The wise person is in a pure, clean, white light. The blood-soaked treasure has a sickly, corrupt, reddish-black glow. The two are visually and morally incompatible.",
+      "Technical_Cues": {
+        "Camera": "A shot that captures the wise person's disgusted reaction as they are presented with the blood-tainted wealth.",
+        "Resolution": "8K, hyper-realistic, with a focus on the visceral texture of the blood on the gold.",
+        "Lighting": "High-contrast lighting that separates the pure sage from the corrupt treasure.",
+        "Art_Genre": "Symbolic realism, with horror elements."
+      },
+      "Cultural_Anchors": [
+        "Gain that comes from killing (கொன்றாகும் ஆக்கம்)",
+        "Is the lowest of the low for the wise (சான்றோர்க்கு கடை)"
+      ]
+    },
+    "Negative_Prompt": "wise person accepting the treasure, text artifacts, clean treasure.",
+    "Hyperparameters": {
+      "variant": "pro",
+      "steps": 50,
+      "cfg_scale": 9,
+      "seed": "Explore the visual of the 'blood-dripping treasure'."
+    }
+  }
+}

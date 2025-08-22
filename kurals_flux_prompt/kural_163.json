@@ -1,0 +1,38 @@
+{
+  "Kural_Info": {
+    "Number": 163,
+    "Chapter": "అழுக்காறாமை (Not Envying)",
+    "Tamil_Text": "అறன்ஆக்கம் வேண்டாதான் என்பான் பிறனாக்கம்பேணாது அழுக்கறுப் பான்.",
+    "English_Meaning": "Of him who instead of rejoicing in the wealth of others, envies it, it will be said \"he neither desires virtue nor wealth\"."
+  },
+  "Flux_Optimized_Prompt": {
+    "Layered_Composition": {
+      "Foreground": "An envious person ('అழுக்கறுப்பான்') is shown looking at the prosperity of their neighbor ('பிறன் ஆக்கம்').",
+      "Midground": "Instead of being happy for them, the envious person is shown actively trying to destroy their neighbor's good fortune, perhaps by throwing mud on their beautiful house.",
+      "Background": "Because of this envious action, two divine figures are shown turning their backs and walking away from the envious person. One is the goddess of Virtue ('అறன்'). The other is the goddess of Wealth ('ஆக்கம்'). The image clearly states that by his envious act, he has proven he desires neither ('வேண்டாதான்')."
+    },
+    "Art_Direction": {
+      "Subject_and_Action": "The person who, out of envy, cannot stand the sight of another's wealth, demonstrates by that very act that they desire neither virtue nor true wealth for themselves, and both will abandon them.",
+      "Symbolic_Motifs": "The personification of Virtue and Wealth as divine beings who actively leave the envious person is the key. The act of envy is not a passive feeling but an active rejection of both goddesses.",
+      "Mood_and_Emotion": "Self-sabotage, foolish, abandoned, cautionary.",
+      "Lighting_and_Color": "The envious person is cast in a sickly, green-yellow light. The goddesses of Virtue and Wealth are radiant figures, and as they depart, they take all the good light and color with them, leaving the envious person in a growing, desolate shadow.",
+      "Technical_Cues": {
+        "Camera": "A shot that captures the envious act and the immediate consequence of the two divine figures turning their backs and leaving.",
+        "Resolution": "8K, ultra-realistic, with ethereal designs for the personified Virtue and Wealth.",
+        "Lighting": "A dynamic lighting effect of divine light being withdrawn from a scene.",
+        "Art_Genre": "Mythological painting, allegorical art."
+      },
+      "Cultural_Anchors": [
+        "The one who is envious of another's wealth (பிறன் ஆக்கம் பேணாது அழுக்கறுப்பான்)",
+        "Is one who desires neither virtue nor wealth (అறன் ஆக்கம் வேண்டாதான்)"
+      ]
+    },
+    "Negative_Prompt": "happy envious person, goddesses staying, text artifacts.",
+    "Hyperparameters": {
+      "variant": "pro",
+      "steps": 50,
+      "cfg_scale": 9,
+      "seed": "Explore the designs for the personified goddesses of Aram and Aakkam."
+    }
+  }
+}

@@ -1,0 +1,38 @@
+{
+  "Kural_Info": {
+    "Number": 341,
+    "Chapter": "துறவு (Renunciation)",
+    "Tamil_Text": "யாதனின் யாதனின் நீங்கியான் நோதல்அதனின் அதனின் இலன்.",
+    "English_Meaning": "Whatever, whatever a man has renounced, by that, by that, he cannot suffer pain."
+  },
+  "Flux_Optimized_Prompt": {
+    "Layered_Composition": {
+      "Foreground": "A person is shown walking a path. All along the path are various worldly attachments, represented as heavy, dark, iron chains.",
+      "Midground": "With each step, the person is shown deliberately and consciously letting go of one of these chains ('யாதனின் யாதனின் நீங்கியான்'). One by one, they let go of chains labeled 'wealth', 'fame', 'relationships', etc.",
+      "Background": "Each chain they let go of corresponds to a specific type of pain. As they drop the chain of 'wealth', a thorny vine of 'pain from loss' that was wrapped around them withers and dies. As they drop the chain of 'fame', a dark cloud of 'pain from slander' dissipates. They become progressively freer and more immune to suffering."
+    },
+    "Art_Direction": {
+      "Subject_and_Action": "The process of liberation from pain is achieved by systematically renouncing the attachments that are the source of that pain.",
+      "Symbolic_Motifs": "The chains of attachment and their corresponding forms of pain are the key. Renunciation is an active 'letting go'. The result is a direct and immediate freedom from that specific category of suffering.",
+      "Mood_and_Emotion": "Liberating, progressive, freeing, serene.",
+      "Lighting_and_Color": "The person starts in a dark, shadowy area, weighed down by the black iron chains. As they let go of each chain, the scene becomes progressively brighter and more filled with a pure, white light of freedom.",
+      "Technical_Cues": {
+        "Camera": "A tracking shot that follows the person along their path, showing them progressively dropping chains and becoming freer and more luminous.",
+        "Resolution": "8K, ultra-realistic, with strong symbolic effects for the chains and their corresponding pains.",
+        "Lighting": "A progressive lighting scheme that moves from darkness to brilliant light.",
+        "Art_Genre": "Symbolic realism, with fantasy elements."
+      },
+      "Cultural_Anchors": [
+        "From whatever one is detached (யாதனின் யாதனின் நீங்கியான்)",
+        "From that, one has no sorrow (அதனின் அதனின் நோதல் இலன்)"
+      ]
+    },
+    "Negative_Prompt": "person picking up more chains, happy with attachments, text artifacts.",
+    "Hyperparameters": {
+      "variant": "pro",
+      "steps": 50,
+      "cfg_scale": 8,
+      "seed": "Explore the different symbolic forms of pain."
+    }
+  }
+}

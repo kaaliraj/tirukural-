@@ -1,0 +1,41 @@
+{
+  "Kural_Info": {
+    "Number": 382,
+    "Chapter": "இறைமாட்சி (The Greatness of a King)",
+    "Tamil_Text": "அஞ்சாமை ஈகை அறிவூக்கம் இந்நான்கும் எஞ்சாமை வேந்தர்க் கியல்பு.",
+    "English_Meaning": "Courage, a liberal hand, wisdom, and energy: these four Are qualities a king adorn for evermore."
+  },
+  "Flux_Optimized_Prompt": {
+    "Layered_Composition": {
+      "Foreground": "A majestic king stands, embodying four essential virtues. One hand rests on the hilt of his sword (Courage - அஞ்சாமை), the other is open, scattering golden coins (Liberality - ஈகை).",
+      "Midground": "A glowing aura of light emanates from his head, symbolizing Wisdom ('அறிவு'), and his powerful, dynamic stance conveys tireless Energy ('ஊக்கம்').",
+      "Background": "The background shows a thriving, loyal kingdom, reflecting the positive outcomes of these four unwavering royal qualities."
+    },
+    "Art_Direction": {
+      "Subject_and_Action": "An ideal king who unfailingly possesses the four core virtues of courage, liberality, wisdom, and energy, which are the very nature of true kingship.",
+      "Symbolic_Motifs": "Each of the four virtues is represented by a specific action or quality of the king: the sword, the open hand, the glowing intellect, and the energetic posture.",
+      "Mood_and_Emotion": "Regal, virtuous, powerful, inspiring, ideal.",
+      "Lighting_and_Color": "Bright, clear, and heroic lighting. A golden palette dominates, signifying royalty and virtue. The king's aura is a brilliant white-gold.",
+      "Technical_Cues": {
+        "Camera": "Full-body portrait, low angle to convey power and nobility.",
+        "Resolution": "8K, photorealistic, with a classical oil painting texture.",
+        "Lighting": "Strong key light to define the king's form, with a soft fill light from the aura of wisdom.",
+        "Art_Genre": "Classical portraiture, idealized realism."
+      }
+    },
+    "Cultural_Anchors": [
+      "The four kingly virtues",
+      "'Anjaamai' (Fearlessness)",
+      "'Eekai' (Liberality)",
+      "'Arivu' (Wisdom)",
+      "'Ookkam' (Energy)"
+    ]
+  },
+  "Negative_Prompt": "cowardly king, closed fist, dark aura, lazy posture, poor kingdom, text artifacts.",
+  "Hyperparameters": {
+    "variant": "pro",
+    "steps": 45,
+    "cfg_scale": 7,
+    "seed": "Explore variations in the king's posture."
+  }
+}

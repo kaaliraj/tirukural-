@@ -1,0 +1,33 @@
+{
+  "Kural_Info": {
+    "Number": 1057,
+    "Chapter": "இரவு (Mendicancy)",
+    "Tamil_Text": "இகழ்ந்தெள்ளாது ஈவாரைக் காணின் மகிழ்ந்துள்ளம்உள்ளுள் உவப்பது உடைத்து.",
+    "English_Meaning": "If men are found who give and no harsh words of scorn employ, The minds of askers, through and through, will thrill with joy."
+  },
+  "Flux_Optimized_Prompt": {
+    "Layered_Composition": {
+      "Foreground": "A person is receiving a gift. The focus is on their emotional reaction. Their face is lit with a pure, unadulterated joy that comes from deep within.",
+      "Midground": "The giver ('Eevaar') is visible, their posture and expression showing no contempt or scorn ('Igazhnthellaathu'). They are giving with a simple, respectful smile.",
+      "Background": "The receiver's heart is visualized as a glowing orb in their chest, pulsing with a warm, happy light ('Ullull Uvappathu'), which is the source of the joy on their face."
+    },
+    "Art_Direction": {
+      "Subject_and_Action": "The profound inner joy that a supplicant feels when they receive help from someone who gives without any form of disrespect or contempt.",
+      "Symbolic_Motifs": "The glowing, pulsing heart is the symbol of deep, inner joy. The respectful smile of the giver is as important as the gift itself.",
+      "Mood_and_Emotion": "Joyful, heartwarming, dignified, grateful.",
+      "Lighting_and_Color": "A soft, warm light that feels emotionally resonant and happy. The glow from the receiver's heart adds a magical, warm fill light to the scene. The palette is bright and optimistic."
+    },
+    "Technical_Cues": {
+      "Camera": "Medium close-up on the receiver to capture their joyous expression, with the giver slightly out of focus in the background.",
+      "Resolution": "8K, photorealistic, with a focus on conveying genuine, heartfelt emotion.",
+      "Lighting": "Soft, warm lighting that enhances the mood of happiness and gratitude.",
+      "Art_Genre": "Humanistic realism, capturing a moment of pure emotional connection."
+    },
+    "Cultural_Anchors": [
+      "இகழாமை (Without scorn)",
+      "உள்ளுள் உவப்பது (Inner rejoicing)",
+      "The dignity of giving and receiving"
+    ]
+  },
+  "Negative_Prompt": "scornful giver, sad receiver, dark lighting, text artifacts, modern currency, cartoonish."
+}

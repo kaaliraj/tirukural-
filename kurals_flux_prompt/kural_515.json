@@ -1,0 +1,39 @@
+{
+  "Kural_Info": {
+    "Number": 515,
+    "Chapter": "தெரிந்துவினையாடல் (Selection and Employment)",
+    "Tamil_Text": "அறிந்தாற்றிச் செய்கிற்பாற்கு அல்லால் வினைதான் சிறந்தானென்று ஏவற்பாற் றன்று.",
+    "English_Meaning": "A task should not be entrusted to someone just because they are dear, but only to one who knows the work and can perform it with patient effort."
+  },
+  "Flux_Optimized_Prompt": {
+    "Layered_Composition": {
+      "Foreground": "A king is about to hand over the plans for a great fortress to his favorite courtier, who is dear to him but clearly incompetent ('சிறந்தான்').",
+      "Midground": "Wisdom, personified, intervenes and guides the king's hand away from the favorite and towards a skilled, patient, and knowledgeable but less favored craftsman ('அறிந்தாற்றிச் செய்கிற்பான்'). This craftsman is shown studying the plans with deep understanding.",
+      "Background": "Two potential futures are shown in the background: behind the favorite is a collapsing, poorly built fortress; behind the skilled craftsman is a magnificent, strong, and perfectly constructed fortress."
+    },
+    "Art_Direction": {
+      "Subject_and_Action": "A work should be assigned based on competence and knowledge, not on personal affection or favoritism.",
+      "Symbolic_Motifs": "The contrast between the fawning favorite and the focused craftsman is key. The two divergent future outcomes (ruin vs. success) clearly illustrate the consequence of the king's choice.",
+      "Mood_and_Emotion": "Discerning, meritocratic, wise, cautionary.",
+      "Lighting_and_Color": "A warm, affectionate light surrounds the incompetent favorite. A clear, intellectual light illuminates the competent craftsman. The two future scenes have dramatically different lighting—dark and chaotic versus bright and orderly."
+    },
+    "Technical_Cues": {
+      "Camera": "A wide shot that captures the king's moment of choice, the two candidates, and the two potential futures linked to them.",
+      "Resolution": "8K, with rich detail in the fortress designs.",
+      "Lighting": "Symbolic lighting to guide the viewer's judgment of the two candidates.",
+      "Art_Genre": "Allegorical painting, historical narrative."
+    },
+    "Cultural_Anchors": [
+      "Choosing based on competence, not affection ('சிறந்தான் என்று ஏவற்பாற்று அன்று')",
+      "One who knows and performs with effort ('அறிந்தாற்றிச் செய்கிற்பான்')",
+      "The principle of meritocracy."
+    ]
+  },
+  "Negative_Prompt": "king choosing the favorite, successful outcome with the favorite, text artifacts, blurry.",
+  "Hyperparameters": {
+    "variant": "pro",
+    "steps": 50,
+    "cfg_scale": 8,
+    "seed": "Explore variations for the design of the two fortresses."
+  }
+}

@@ -1,0 +1,39 @@
+{
+  "Kural_Info": {
+    "Number": 15,
+    "Chapter": "வான்சிறப்பு (The Blessing of Rain)",
+    "Tamil_Text": "கெடுப்பதூஉம் கெட்டார்க்குச் சார்வாய்மற் றாங்கேஎடுப்பதூஉம் எல்லாம் மழை.",
+    "English_Meaning": "Rain by its absence ruins men; and by its existence restores them to fortune."
+  },
+  "Flux_Optimized_Prompt": {
+    "Layered_Composition": {
+      "Foreground": "A split composition. On the left side, a scene of devastation caused by drought (ruin, 'கெடுப்பது'): a destitute family, withered crops, a dry riverbed under a brassy sun.",
+      "Midground": "On the right side, the same scene transformed by the arrival of rain (restoration, 'எடுப்பது'): the same family now hopeful, new green shoots emerging, the river beginning to flow under gentle, rain-filled clouds.",
+      "Background": "A central, powerful cloud formation that is dark and withholding on the left, but releasing life-giving rain on the right, acting as the agent of both ruin and restoration."
+    },
+    "Art_Direction": {
+      "Subject_and_Action": "The dual, god-like power of Rain, which holds the ability both to destroy life through its absence and to restore the ruined ('கெட்டார்க்குச் சார்வாய்') through its presence.",
+      "Symbolic_Motifs": "The transition from left to right is not just a change in weather but a transformation from death to life. The family on the left is in shadow, while the family on the right is bathed in the soft light of the rainy sky.",
+      "Mood_and_Emotion": "Dramatic contrast, destructive power vs. redemptive grace, despair and hope.",
+      "Lighting_and_Color": "The left side uses a harsh, desaturated palette of yellows and browns. The right side is lush and vibrant, with cool blues, deep greens, and soft, hopeful light. The central cloud is the pivot between the two palettes."
+    },
+    "Technical_Cues": {
+      "Camera": "Ultra-wide cinematic shot, diptych style, capturing the epic contrast in a single frame.",
+      "Resolution": "8K, ultra-realistic, with sharp details on both the withered and the blooming elements.",
+      "Lighting": "High-contrast, dual lighting setup. Harsh, direct sunlight on the left; soft, diffused, atmospheric lighting on the right.",
+      "Art_Genre": "Allegorical digital matte painting, fantasy realism."
+    },
+    "Cultural_Anchors": [
+      "Rain's dual power (கெடுப்பதுவும் எடுப்பதுவும்)",
+      "Rain as a support for the ruined (கெட்டார்க்குச் சார்வாய்)",
+      "The cyclical nature of ruin and restoration in nature"
+    ]
+  },
+  "Negative_Prompt": "single uniform scene, flooding, text artifacts, cartoonish figures, unrealistic plants, cityscapes.",
+  "Hyperparameters": {
+    "variant": "pro",
+    "steps": 55,
+    "cfg_scale": 8,
+    "seed": "Explore variations for the dividing line between ruin and restoration."
+  }
+}

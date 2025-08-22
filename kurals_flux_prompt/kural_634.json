@@ -1,0 +1,39 @@
+{
+  "Kural_Info": {
+    "Number": 634,
+    "Chapter": "அமைச்சு (The Office of Minister of state)",
+    "Tamil_Text": "தெரிதலும் தேர்ந்து செயலும் ஒருதலையாச் சொல்லலும் வல்லது அமைச்சு.",
+    "English_Meaning": "The minister is one who is able to comprehend (the whole nature of an undertaking), execute it in the best manner possible, and offer assuring advice (in time of necessity)."
+  },
+  "Flux_Optimized_Prompt": {
+    "Layered_Composition": {
+      "Foreground": "A triptych showing the three abilities of a great minister. In the left panel, the minister is shown with a glowing, analytical mind, comprehending a complex problem, represented by an intricate puzzle ('தெரிதல்').",
+      "Midground": "In the center panel, having understood the puzzle, they are now skillfully executing the solution, putting the pieces together with precision and expertise ('தேர்ந்து செயல்').",
+      "Background": "In the right panel, the minister is shown speaking to a worried king. Their words are clear, confident, and decisive, forming a solid, reassuring shield of light around the king, representing their ability to give convincing and final advice ('ஒருதலையாச் சொல்லல்')."
+    },
+    "Art_Direction": {
+      "Subject_and_Action": "An effective minister possesses three skills: the ability to understand a situation, the ability to execute a plan based on that understanding, and the ability to communicate their decision with finality and confidence.",
+      "Symbolic_Motifs": "The three panels show the progression from thought to action to communication. The puzzle, the skillful execution, and the shield of words are the key metaphors.",
+      "Mood_and_Emotion": "Analytical, competent, decisive, reassuring, masterful.",
+      "Lighting_and_Color": "The lighting progresses from a cool, intellectual blue in the analysis phase, to a practical, clear light in the execution phase, to a powerful, confident golden light in the communication phase.",
+      "Technical_Cues": {
+        "Camera": "A three-panel composition (triptych) that tells the story of the minister's process.",
+        "Resolution": "8K, with clear, symbolic imagery in each panel.",
+        "Lighting": "A different lighting scheme for each panel to reflect its function.",
+        "Art_Genre": "Conceptual art, narrative illustration."
+      }
+    },
+    "Cultural_Anchors": [
+      "Comprehension ('தெரிதல்')",
+      "Execution ('தேர்ந்து செயல்')",
+      "Decisive Speech ('ஒருதலையாச் சொல்லல்')"
+    ]
+  },
+  "Negative_Prompt": "confused minister, failed execution, hesitant speech, text artifacts.",
+  "Hyperparameters": {
+    "variant": "dev",
+    "steps": 45,
+    "cfg_scale": 8,
+    "seed": "Explore variations for the 'shield of words'."
+  }
+}

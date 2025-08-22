@@ -1,0 +1,38 @@
+{
+  "Kural_Info": {
+    "Number": 1330,
+    "Chapter": "ஊடலுவகை (The Pleasures of Temporary Variance)",
+    "Tamil_Text": "ஊடுதல் காமத்திற்கு இன்பம் அதற்கின்பம்கூடி முயங்கப் பெறின்.",
+    "English_Meaning": "A 'feigned aversion' coy to pleasure gives a zest; The pleasure's crowned when breast is clasped to breast."
+  },
+  "Flux_Optimized_Prompt": {
+    "Layered_Composition": {
+      "Foreground": "A lover's pout ('ஊடுதல்') is visualized as the act of skillfully drawing back the string of a great celestial bow. This act of drawing back creates a powerful, beautiful tension. This is the 'pleasure for love' ('காமத்திற்கு இன்பம்').",
+      "Midground": "The subsequent reunion and embrace ('கூடி முயங்கப் பெறின்') is visualized as the release of the bowstring.",
+      "Background": "This release fires a magnificent, brilliant arrow of pure, blissful light across the cosmos. This is the 'pleasure for the pout' ('அதற்கு இன்பம்'). The pouting was the necessary preparation for this ultimate, blissful release."
+    },
+    "Art_Direction": {
+      "Subject_and_Action": "The final Kural on love's pleasure: pouting brings its own pleasure to the experience of love, but the pleasure of that pouting is itself fulfilled and perfected in the final, blissful reunion.",
+      "Symbolic_Motifs": "The bow and arrow of love is the central metaphor. The pouting is the skillful creation of potential energy (drawing the bow). The reunion is the ecstatic release of that energy (firing the arrow). One cannot exist without the other.",
+      "Mood_and_Emotion": "Culmination, blissful release, dynamic, perfect cycle.",
+      "Lighting_and_Color": "The drawing of the bow is filled with a tense, shimmering, silver light of anticipation. The release of the arrow is an explosive, brilliant, golden flash of pure joy that illuminates the entire cosmos.",
+      "Technical_Cues": {
+        "Camera": "An epic, cosmic shot that shows the beautiful, tense drawing of the bow of pouting, and the magnificent, final, blissful release of the arrow of reunion.",
+        "Resolution": "8K, ultra-realistic, with epic, cosmic energy effects for the bow and arrow.",
+        "Lighting": "A dramatic shift from the tense silver light of the pout to the explosive golden light of the reunion.",
+        "Art_Genre": "Epic cosmic fantasy, mythological art."
+      },
+      "Cultural_Anchors": [
+        "Pouting is a pleasure for love (ஊடுதல் காமத்திற்கு இன்பம்)",
+        "And the pleasure for that (pouting) is the reunion that is obtained (அதற்கு இன்பம் கூடி முயங்கப் பெறின்)"
+      ]
+    },
+    "Negative_Prompt": "bow breaking, arrow missing, text artifacts.",
+    "Hyperparameters": {
+      "variant": "pro",
+      "steps": 60,
+      "cfg_scale": 10,
+      "seed": "Explore the epic, cosmic visual of the 'bow and arrow of love'."
+    }
+  }
+}

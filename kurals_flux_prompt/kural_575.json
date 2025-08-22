@@ -1,0 +1,39 @@
+{
+  "Kural_Info": {
+    "Number": 575,
+    "Chapter": "கண்ணோட்டம் (Benignity)",
+    "Tamil_Text": "கண்ணிற்கு அணிகலம் கண்ணோட்டம் அஃதின்றேல் புண்ணென்று உணரப் படும்.",
+    "English_Meaning": "Kind looks are the ornaments of the eyes; without these they will be considered (by the wise) to be merely two sores."
+  },
+  "Flux_Optimized_Prompt": {
+    "Layered_Composition": {
+      "Foreground": "A split-screen portrait of a face.",
+      "Midground": "On the left side, the eye is adorned with a beautiful, glowing light of kindness ('கண்ணோட்டம்'). This light is its true ornament ('அணிகலம்'). On the right side, the eye lacks this light of kindness ('அஃதின்றேல்'). As a result, it is not just plain, but is depicted as a painful, ugly wound or sore ('புண்').",
+      "Background": "The background on the left is beautiful and serene. The background on the right is grotesque and unsettling, reflecting the state of the eye."
+    },
+    "Art_Direction": {
+      "Subject_and_Action": "The true ornament of the eye is benignity. Without it, an eye is not just an eye, but should be considered a wound.",
+      "Symbolic_Motifs": "The direct, shocking contrast between the eye adorned with light and the eye as a wound is the central concept. This is a literal interpretation of the Kural's powerful metaphor.",
+      "Mood_and_Emotion": "Contrasting, beautiful vs. grotesque, ornamental vs. wounded.",
+      "Lighting_and_Color": "Left side: Soft, beautiful, divine light. Right side: Harsh, sickly, medical lighting that makes the wound look painful and real.",
+      "Technical_Cues": {
+        "Camera": "A tight close-up on the face, split down the middle to show both eyes simultaneously.",
+        "Resolution": "8K, hyper-realistic, with one side beautiful and the other graphically realistic in its depiction of a sore.",
+        "Lighting": "High-contrast, split lighting.",
+        "Art_Genre": "Hyperrealism, with a strong surreal and symbolic element."
+      }
+    },
+    "Cultural_Anchors": [
+      "Benignity as the Eye's Ornament ('கண்ணிற்கு அணிகலம் கண்ணோட்டம்')",
+      "Without it, an eye is a Wound ('புண் என்று உணரப்படும்')",
+      "The aesthetic of virtue."
+    ]
+  },
+  "Negative_Prompt": "both eyes as wounds, both eyes as beautiful, text artifacts, cartoonish, not graphic enough.",
+  "Hyperparameters": {
+    "variant": "pro",
+    "steps": 50,
+    "cfg_scale": 9,
+    "seed": "Explore variations for the appearance of the 'wound'."
+  }
+}

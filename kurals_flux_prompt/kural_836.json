@@ -1,0 +1,39 @@
+{
+  "Kural_Info": {
+    "Number": 836,
+    "Chapter": "பேதைமை (Folly)",
+    "Tamil_Text": "பொய்படும் ஒன்றோ புனைபூணும் கையறியாப் பேதை வினைமேற் கொளின்.",
+    "English_Meaning": "If the fool, who knows not how to act undertakes a work, he will (certainly) fail. (But) is it all ? He will even adorn himself with fetters."
+  },
+  "Flux_Optimized_Prompt": {
+    "Layered_Composition": {
+      "Foreground": "A fool who does not know the proper method of doing things ('கையறியாப் பேதை') is attempting to build a beautiful, ornate structure.",
+      "Midground": "Because of their incompetence, the structure they are building is a complete failure; it is misshapen and collapsing ('பொய்படும்').",
+      "Background": "Worse than just failure, the very materials they are using are shown to be magically transforming into heavy shackles and chains ('புனைபூணும்') that are locking themselves onto the fool's own wrists and ankles. Their failed attempt has resulted in their own imprisonment."
+    },
+    "Art_Direction": {
+      "Subject_and_Action": "When a fool who doesn't know the method undertakes a task, not only will they fail, but their very actions will result in their own bondage.",
+      "Symbolic_Motifs": "The transformation of the beautiful building materials into shackles is the central metaphor. It shows that failure is not the only outcome; self-imprisonment is the other.",
+      "Mood_and_Emotion": "Futile, incompetent, self-imprisoning, ironic.",
+      "Lighting_and_Color": "The initial materials can be bright and promising. As the project fails, the colors become dull and chaotic. The shackles are a dark, heavy iron.",
+      "Technical_Cues": {
+        "Camera": "A shot that captures the fool's failed creation and the magical transformation of the materials into shackles.",
+        "Resolution": "8K, with surreal transformation effects.",
+        "Lighting": "The scene grows darker and more oppressive as the fool entraps himself.",
+        "Art_Genre": "Dark fantasy, with a strong sense of irony."
+      }
+    },
+    "Cultural_Anchors": [
+      "A fool who knows not the method ('கையறியாப் பேதை')",
+      "The work will fail ('பொய்படும்')",
+      "And will become fetters ('புனைபூணும்')"
+    ]
+  },
+  "Negative_Prompt": "a successful building, no shackles, text artifacts, cartoonish.",
+  "Hyperparameters": {
+    "variant": "dev",
+    "steps": 45,
+    "cfg_scale": 9,
+    "seed": "Explore variations for the shackle transformation."
+  }
+}

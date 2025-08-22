@@ -1,0 +1,39 @@
+{
+  "Kural_Info": {
+    "Number": 85,
+    "Chapter": "விருந்தோம்பல் (Hospitality)",
+    "Tamil_Text": "வித்தும் இடல்வேண்டும் கொல்லோ விருந்தோம்பிமிச்சில் மிசைவான் புலம்.",
+    "English_Meaning": "Is it necessary to sow the field of the man who, having feasted his guests, eats what may remain?"
+  },
+  "Flux_Optimized_Prompt": {
+    "Layered_Composition": {
+      "Foreground": "A householder sits peacefully, eating a simple meal of leftovers ('மிச்சில் மிசைவான்').",
+      "Midground": "Visible through his open door, guests he has just feasted are departing with happy, satisfied expressions.",
+      "Background": "In the vast fields ('புலம்') belonging to the householder, healthy, abundant crops are shown magically sprouting and growing to maturity on their own, without any signs of sowing or labor ('வித்தும் இடல்வேண்டும் கொல்லோ')."
+    },
+    "Art_Direction": {
+      "Subject_and_Action": "A rhetorical question posed visually: The fields of a man who generously feasts his guests and eats only the leftovers will miraculously become fertile and yield harvests without even needing to be sown.",
+      "Symbolic_Motifs": "The act of eating leftovers is a sign of his humility and generosity. The miraculous, unsown harvest is the direct, divine reward for his hospitality. Nature itself is shown to be working on his behalf.",
+      "Mood_and_Emotion": "Miraculous, abundant, blessed, divinely rewarded.",
+      "Lighting_and_Color": "A soft, magical, golden light bathes the fields, suggesting a divine influence. The householder is in a simple, humble light, emphasizing his virtue. The palette is lush and fertile.",
+      "Technical_Cues": {
+        "Camera": "A wide shot that connects the humble householder in the foreground to the miraculous harvest in his fields in the background.",
+        "Resolution": "8K, hyper-realistic, with magical effects showing the crops sprouting from unsown ground.",
+        "Lighting": "A combination of natural lighting on the householder and a magical, divine light on the fields.",
+        "Art_Genre": "Magical realism, pastoral fantasy."
+      },
+      "Cultural_Anchors": [
+        "Feasting guests (விருந்தோம்பி)",
+        "Eating leftovers (மிச்சில் மிசைவான்)",
+        "The rhetorical question 'Is sowing necessary?' (வித்தும் இடல்வேண்டும் கொல்லோ?)"
+      ]
+    },
+    "Negative_Prompt": "barren fields, starving host, sowing seeds, text artifacts, unhappy guests.",
+    "Hyperparameters": {
+      "variant": "pro",
+      "steps": 50,
+      "cfg_scale": 8,
+      "seed": "Explore the visual effect of the magically sprouting crops."
+    }
+  }
+}

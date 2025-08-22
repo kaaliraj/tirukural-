@@ -1,0 +1,33 @@
+{
+  "Kural_Info": {
+    "Number": 1008,
+    "Chapter": "நன்றியில்செல்வம் (Wealth without Benefaction)",
+    "Tamil_Text": "நச்சப் படாதவன் செல்வம் நடுவூருள்நச்சு மரம்பழுத் தற்று.",
+    "English_Meaning": "When he whom no man loves exults in great prosperity, 'Tis as when fruits in midmost of the town some poisonous tree.",
+    "Flux_Optimized_Prompt": {
+      "Layered_Composition": {
+        "Foreground": "In the center of a bustling ancient Tamil town square ('Naduvoorul'), a large, imposing tree stands. Its branches are laden with beautiful, tempting, jewel-like fruits.",
+        "Midground": "However, the tree itself is a poisonous one ('Nachu Maram'). A dark, sickly aura surrounds it, and the ground beneath it is barren. The townspeople are keeping a wide berth, looking at the fruit with a mixture of desire and fear.",
+        "Background": "The rest of the town is vibrant and full of life, but this central point where the poisonous tree stands is a zone of avoidance and sterility."
+      },
+      "Art_Direction": {
+        "Subject_and_Action": "A metaphor for the wealth of an unloved person. It is abundant and visible, but it is poisonous and of no use to the community.",
+        "Symbolic_Motifs": "The poisonous tree laden with beautiful but deadly fruit is the central image. The fearful avoidance by the townspeople illustrates the 'unloved' nature of its owner.",
+        "Mood_and_Emotion": "Tempting but dangerous, sterile, isolating, toxic.",
+        "Lighting_and_Color": "The tree and its fruit are unnaturally vibrant, with an alluring but sickly glow. The immediate area around the tree is cast in a subtle, dark shadow, while the rest of the town is in normal daylight."
+      },
+      "Technical_Cues": {
+        "Camera": "Wide shot, showing the tree's central position in the town and the community's reaction to it.",
+        "Resolution": "8K, fantasy realism, with a beautiful but menacing design for the poisonous tree and its fruit.",
+        "Lighting": "High-contrast lighting, with an eerie glow from the fruit that makes it look both desirable and deadly.",
+        "Art_Genre": "Symbolic environmental art, telling a story through a central landscape element."
+      },
+      "Cultural_Anchors": [
+        "நச்சு மரம் (Poisonous tree)",
+        "நச்சப்படாதவன் (The unloved one)",
+        "Wealth as a potential poison to the community"
+      ]
+    },
+    "Negative_Prompt": "people eating the fruit happily, a normal, healthy tree, modern city, text artifacts, cartoonish, blurry."
+  }
+}

@@ -1,0 +1,33 @@
+{
+  "Kural_Info": {
+    "Number": 1055,
+    "Chapter": "இரவு (Mendicancy)",
+    "Tamil_Text": "கரப்பிலார் வையகத்து உண்மையால் கண்ணின்றுஇரப்பவர் மேற்கொள் வது.",
+    "English_Meaning": "Because on earth the men exist, who never say them nay, Men bear to stand before their eyes for help to pray."
+  },
+  "Flux_Optimized_Prompt": {
+    "Layered_Composition": {
+      "Foreground": "A supplicant stands respectfully before a generous person. The supplicant is not speaking, but simply standing there ('Kannindru'), their presence being their request.",
+      "Midground": "The generous person ('Karappilaar') understands the unspoken request and is already in the act of giving, their expression one of kindness and understanding.",
+      "Background": "The world ('Vaiyagathu') is depicted as a place where such noble givers exist, making it possible for those in need to approach them with dignity and confidence."
+    },
+    "Art_Direction": {
+      "Subject_and_Action": "People feel confident enough to stand and make their needs known simply by their presence because there are truly generous people in the world who will understand and give without refusal.",
+      "Symbolic_Motifs": "The unspoken request—the dignity of simply standing and being understood. The immediate, compassionate response of the giver.",
+      "Mood_and_Emotion": "Dignified, confident, hopeful, respectful.",
+      "Lighting_and_Color": "Clear, honest daylight that suggests a world where such virtuous interactions are possible. The colors are natural and balanced, creating a feeling of normalcy and hope."
+    },
+    "Technical_Cues": {
+      "Camera": "Eye-level wide shot, showing the respectful distance and the non-verbal communication between the two individuals.",
+      "Resolution": "8K, photorealistic, focusing on the power of posture and expression over words.",
+      "Lighting": "Natural sunlight, creating a sense of clarity and truth.",
+      "Art_Genre": "Humanistic realism, capturing a moment of profound, unspoken social trust."
+    },
+    "Cultural_Anchors": [
+      "கரப்பிலார் (Those who do not refuse)",
+      "கண்ணின்று இரத்தல் (Asking by standing before the eyes)",
+      "Social trust and duty"
+    ]
+  },
+  "Negative_Prompt": "shouting or pleading beggar, annoyed giver, dark or empty world, modern setting, text artifacts."
+}

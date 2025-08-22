@@ -1,0 +1,39 @@
+{
+  "Kural_Info": {
+    "Number": 443,
+    "Chapter": "பெரியாரைத் துணைக்கோடல் (Seeking the Aid of Great Men)",
+    "Tamil_Text": "அரியவற்று ளெல்லாம் அரிதே பெரியாரைப் பேணித் தமராக் கொளல்.",
+    "English_Meaning": "To cherish men of mighty soul, and make them all their own, Of kingly treasures rare, as rarest gift is known."
+  },
+  "Flux_Optimized_Prompt": {
+    "Layered_Composition": {
+      "Foreground": "A king is shown in his vast treasury, which is filled with mountains of gold, giant diamonds, and legendary artifacts.",
+      "Midground": "However, the king ignores all this material wealth. He is focused on the truest and rarest treasure in the room: a single, wise, great man ('பெரியார்') who is glowing with an inner light. The king is shown respectfully offering him a seat of honor, making him his own ('தமராக் கொளல்').",
+      "Background": "The material treasures in the background seem to lose their luster in comparison to the radiant glow of the wise man."
+    },
+    "Art_Direction": {
+      "Subject_and_Action": "The act of securing the friendship and counsel of a great man is the rarest and most valuable of all achievements, surpassing any material treasure.",
+      "Symbolic_Motifs": "The wise man as the glowing 'rarest treasure' is the central metaphor. The king's act of cherishing ('பேணி') him above all other wealth demonstrates his own wisdom.",
+      "Mood_and_Emotion": "Precious, rare, wise, respectful, profound.",
+      "Lighting_and_Color": "The primary light source is the inner glow of the wise man, which outshines the metallic glint of the gold and jewels. The palette emphasizes the divine, golden light of wisdom over the cold light of material wealth."
+    },
+    "Technical_Cues": {
+      "Camera": "Medium shot, with a shallow depth of field that keeps the king and the wise man in sharp focus, while the material treasures are blurred in the background.",
+      "Resolution": "8K, cinematic, with a strong focus on expressions of reverence.",
+      "Lighting": "Radiant, volumetric lighting emanating from the wise man.",
+      "Art_Genre": "Fantasy realism, with a rich, painterly quality."
+    },
+    "Cultural_Anchors": [
+      "The Rarest of the Rare ('அரியவற்றுள் எல்லாம் அரிது')",
+      "Cherishing the Great ('பெரியாரைப் பேணி')",
+      "Making them one's own ('தமராக் கொளல்')"
+    ]
+  },
+  "Negative_Prompt": "king choosing gold over the wise man, wise man looking angry, text artifacts, cartoonish.",
+  "Hyperparameters": {
+    "variant": "pro",
+    "steps": 50,
+    "cfg_scale": 8,
+    "seed": "Explore variations for the glow of the wise man."
+  }
+}

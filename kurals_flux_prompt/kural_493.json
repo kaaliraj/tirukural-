@@ -1,0 +1,39 @@
+{
+  "Kural_Info": {
+    "Number": 493,
+    "Chapter": "இடனறிதல் (Knowing the Place)",
+    "Tamil_Text": "ஆற்றாரும் ஆற்றி அடுப இடனறிந்து போற்றார்கண் போற்றிச் செயின்.",
+    "English_Meaning": "Even the powerless will become powerful and conquer, if they select a proper field (of action), and guard themselves, while they make war on their enemies."
+  },
+  "Flux_Optimized_Prompt": {
+    "Layered_Composition": {
+      "Foreground": "A small, seemingly weak group of rebels ('ஆற்றார்') are positioned at a narrow, easily defensible mountain pass ('இடனறிந்து').",
+      "Midground": "A massive, powerful army ('போற்றார்') is trying to attack them but is forced to enter the narrow pass only a few soldiers at a time, neutralizing their numerical advantage.",
+      "Background": "The small rebel group, using their strategic position, is shown to be successfully defeating the much larger army, becoming powerful and victorious ('ஆற்றி அடுப') through their knowledge of the place."
+    },
+    "Art_Direction": {
+      "Subject_and_Action": "Even the weak can become strong and defeat a powerful enemy if they choose the right place to fight and defend themselves well.",
+      "Symbolic_Motifs": "The narrow pass is the classic example of a strategic location that nullifies superior numbers. The contrast in the size of the two armies is crucial to show the power of place.",
+      "Mood_and_Emotion": "Strategic, underdog victory, intelligent warfare, powerful.",
+      "Lighting_and_Color": "The rebels in the pass are in a defensible shadow, while the attacking army is exposed in the bright, harsh sunlight. The colors are gritty and realistic.",
+      "Technical_Cues": {
+        "Camera": "A high-angle shot from behind the rebels, showing their strategic advantage and the bottleneck they have created for the enemy army.",
+        "Resolution": "8K, cinematic, epic battle scene reminiscent of the Battle of Thermopylae.",
+        "Lighting": "Dramatic, high-contrast lighting.",
+        "Art_Genre": "Historical epic, realistic battle painting."
+      }
+    },
+    "Cultural_Anchors": [
+      "The Weak becoming Strong ('ஆற்றாரும் ஆற்றி')",
+      "Knowing the Place ('இடனறிந்து')",
+      "Strategic defense against a superior foe."
+    ]
+  },
+  "Negative_Prompt": "rebels fighting in an open field, rebels losing, text artifacts, cartoonish.",
+  "Hyperparameters": {
+    "variant": "pro",
+    "steps": 50,
+    "cfg_scale": 8,
+    "seed": "Explore variations for the landscape of the mountain pass."
+  }
+}

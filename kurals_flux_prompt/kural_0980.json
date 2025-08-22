@@ -1,0 +1,34 @@
+{
+  "Kural_Info": {
+    "Number": 980,
+    "Chapter": "பெருமை (Greatness)",
+    "Tamil_Text": "அற்றம் மறைக்கும் பெருமை சிறுமைதான்குற்றமே கூறி விடும்.",
+    "English_Meaning": "Greatness will hide a neighbour's shame; Meanness his faults to all the world proclaim."
+  },
+  "Flux_Optimized_Prompt": {
+    "Layered_Composition": {
+      "Foreground": "Two central figures. The great person ('Perumai') is shown gently covering a flaw or mistake of another person with their own cloak, an act of concealment and protection ('Atram Maraikkum').",
+      "Midground": "In contrast, a small-minded person ('Sirumai') is pointing a finger accusingly at another's minor flaw, with their words materializing as sharp, jagged shards that fly outwards, proclaiming the fault ('Kutrame Koori Vidum').",
+      "Background": "A public square or gathering in an ancient Tamil city. On the side of the great person, the crowd is calm and respectful. On the side of the mean person, the crowd is agitated and gossiping, stirred by the proclamation of the fault."
+    },
+    "Art_Direction": {
+      "Subject_and_Action": "The contrast between the noble act of concealing others' faults (greatness) and the base act of exposing and proclaiming them (meanness).",
+      "Symbolic_Motifs": "The protective cloak is a symbol of greatness's discretion. The jagged shards of speech symbolize the harmful nature of gossip and accusation.",
+      "Mood_and_Emotion": "Compassionate and dignified versus malicious and petty.",
+      "Lighting_and_Color": "The great person and the one they protect are bathed in a soft, warm, forgiving light. The mean person and their target are lit with a harsh, exposing light that creates sharp, ugly shadows."
+    },
+    "Technical_Cues": {
+      "Camera": "Medium wide shot, using a split composition to emphasize the opposing actions.",
+      "Resolution": "8K, ultra-realistic, with a focus on gestures and facial expressions that convey compassion versus malice.",
+      "Lighting": "Strongly contrasting light—soft and diffused versus hard and direct—to mirror the moral contrast.",
+      "Art_Genre": "Narrative realism, like a scene from a historical painting depicting a moral lesson."
+    },
+    "Cultural_Anchors": [
+      "அற்றம் மறைத்தல் (Concealing faults)",
+      "குற்றம் கூறல் (Proclaiming faults)",
+      "பெருமை (Greatness)",
+      "சிறுமை (Meanness)"
+    ]
+  },
+  "Negative_Prompt": "great person pointing fault, mean person helping, neutral crowd reaction, text artifacts, modern clothing, blurry."
+}

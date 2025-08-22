@@ -1,0 +1,39 @@
+{
+  "Kural_Info": {
+    "Number": 384,
+    "Chapter": "இறைமாட்சி (The Greatness of a King)",
+    "Tamil_Text": "அறனிழுக்கா தல்லவை நீக்கி மறனிழுக்கா மானம் உடைய தரசு.",
+    "English_Meaning": "Kingship, in virtue failing not, all vice restrains, In courage failing not, it honour's grace maintains."
+  },
+  "Flux_Optimized_Prompt": {
+    "Layered_Composition": {
+      "Foreground": "A righteous king stands tall. With one hand, he upholds a perfectly balanced, glowing scale of Justice ('அறன்'). With the other hand, he sweeps away shadowy, corrupt figures representing vice ('அல்லவை').",
+      "Midground": "Behind him, his own royal banner stands firm and untattered, symbolizing his unwavering courage and honor ('மறனிழுக்கா மானம்').",
+      "Background": "A peaceful and just kingdom, where citizens live without fear, under a clear, bright sky."
+    },
+    "Art_Direction": {
+      "Subject_and_Action": "An ideal government is one that never deviates from virtue, actively removes evil, and maintains its honor through unwavering courage.",
+      "Symbolic_Motifs": "The glowing scales of Justice represent adherence to 'Aram'. The act of sweeping away shadows is the removal of vice. The pristine royal banner symbolizes unfailing courage and honor.",
+      "Mood_and_Emotion": "Righteous, just, honorable, strong, protective.",
+      "Lighting_and_Color": "Bright, clear light symbolizing justice and purity. The king and the scales glow with a righteous white light. The shadows of vice are inky black. The banner is vibrant and regal."
+    },
+    "Technical_Cues": {
+      "Camera": "Eye-level medium shot, portraying the king as an accessible but powerful figure of justice.",
+      "Resolution": "8K, photorealistic, with a classical, heroic composition.",
+      "Lighting": "Strong, clear lighting that casts no ambiguous shadows on the king himself.",
+      "Art_Genre": "Heroic realism, allegorical painting."
+    },
+    "Cultural_Anchors": [
+      "Adherence to 'Aram' (Virtue/Justice)",
+      "Removal of Vice ('அல்லவை நீக்கி')",
+      "Unyielding Courage and Honor ('மறனிழுக்கா மானம்')"
+    ]
+  },
+  "Negative_Prompt": "unbalanced scales, king ignoring vice, tattered banner, fearful citizens, text artifacts, dark and gloomy.",
+  "Hyperparameters": {
+    "variant": "pro",
+    "steps": 50,
+    "cfg_scale": 8,
+    "seed": "Explore variations for the design of the shadowy figures of vice."
+  }
+}

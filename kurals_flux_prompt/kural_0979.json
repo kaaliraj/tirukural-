@@ -1,0 +1,33 @@
+{
+  "Kural_Info": {
+    "Number": 979,
+    "Chapter": "பெருமை (Greatness)",
+    "Tamil_Text": "பெருமை பெருமிதம் இன்மை சிறுமைபெருமிதம் ஊர்ந்து விடல்.",
+    "English_Meaning": "Freedom from conceit is (the nature of true) greatness; (while) obstinacy therein is (that of) meanness."
+  },
+  "Flux_Optimized_Prompt": {
+    "Layered_Composition": {
+      "Foreground": "A great person ('Perumai') is depicted walking calmly and confidently on a straight, clear path, their demeanor completely free of arrogance ('Perumitham Inmai').",
+      "Midground": "Alongside them, on a chaotic and broken path, a small-minded person ('Sirumai') is shown riding a monstrous beast made of jagged rocks and thorns, which represents their arrogance ('Perumitham Oornthu').",
+      "Background": "A serene, expansive landscape for the path of the great person. A dark, stormy, and treacherous landscape for the path of the arrogant person."
+    },
+    "Art_Direction": {
+      "Subject_and_Action": "A metaphor for how greatness is a state of being free from arrogance, while meanness is characterized by being completely controlled and driven by it.",
+      "Symbolic_Motifs": "The beast of arrogance is the central visual metaphor. The contrast between the clear, straight path and the broken, chaotic one symbolizes the different life journeys.",
+      "Mood_and_Emotion": "Calm confidence versus destructive arrogance. A powerful visual fable.",
+      "Lighting_and_Color": "The great person is illuminated by clear, natural daylight. The arrogant person and their beast are lit by chaotic flashes of lightning, with a dark, oppressive color palette of grays and sickly purples."
+    },
+    "Technical_Cues": {
+      "Camera": "Dynamic wide shot, capturing the two figures on their parallel but starkly different paths.",
+      "Resolution": "8K, fantasy realism, with a detailed and menacing creature design for the beast of arrogance.",
+      "Lighting": "Dramatic, contrasting atmospheric lighting. Calm ambient light versus stormy, flashing lights.",
+      "Art_Genre": "Symbolic fantasy art, with a strong narrative element."
+    },
+    "Cultural_Anchors": [
+      "பெருமிதம் (Conceit/Arrogance)",
+      "பெருமை (Greatness)",
+      "சிறுமை (Meanness/Baseness)"
+    ]
+  },
+  "Negative_Prompt": "happy arrogant person, struggling great person, similar paths, neutral background, text artifacts, cartoon beast."
+}

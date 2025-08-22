@@ -1,0 +1,33 @@
+{
+  "Kural_Info": {
+    "Number": 1177,
+    "Chapter": "கண்விதுப்பழிதல் (Eyes consumed with Grief)",
+    "Tamil_Text": "உழந்துழந் துள்நீர் அறுக விழைந்திழைந்துவேண்டி அவர்க்கண்ட கண்.",
+    "English_Meaning": "Aching, aching, let those exhaust their stream, That melting, melting, that day gazed on him."
+  },
+  "Flux_Optimized_Prompt": {
+    "Layered_Composition": {
+      "Foreground": "A woman's eyes are depicted weeping so profusely that the tears turn to dust mid-air, having completely run dry ('Ulneer Aruga').",
+      "Midground": "A flashback memory is shown: these same eyes are looking upon her lover with intense, melting desire and longing ('Vizhainthizhainthu Vendi'), drinking in his form.",
+      "Background": "The woman is cursing her own eyes, wishing them to suffer and weep until they have no tears left, as punishment for their initial, desirous gaze that caused all this present sorrow."
+    },
+    "Art_Direction": {
+      "Subject_and_Action": "A curse upon her own eyes: may you suffer and weep until you are utterly dry, you who so lovingly and desirously gazed upon him and brought this fate upon us.",
+      "Symbolic_Motifs": "The tears turning to dust symbolizes the complete exhaustion of sorrow. The contrast between the loving gaze of the past and the cursed, dry weeping of the present.",
+      "Mood_and_Emotion": "Bitter, angry, sorrowful, self-punishing.",
+      "Lighting_and_Color": "Harsh, dramatic lighting. The present scene is in bleak, desaturated tones, emphasizing dryness. The memory of the loving gaze is in a warm, romantic, golden light, making the present loss more painful."
+    },
+    "Technical_Cues": {
+      "Camera": "Extreme close-up on the eyes, with a double-exposure effect showing the memory of the loving gaze.",
+      "Resolution": "8K, hyper-realistic, with surreal particle effects for the tears turning to dust.",
+      "Lighting": "High-contrast, emotional lighting.",
+      "Art_Genre": "Psychological realism with surreal elements."
+    },
+    "Cultural_Anchors": [
+      "The curse upon one's own senses",
+      "The memory of the first loving gaze",
+      "The exhaustion of tears (கண்ணீர் வற்றுதல்)"
+    ]
+  },
+  "Negative_Prompt": "happy woman, eyes full of water, modern setting, text artifacts, cartoonish."
+}

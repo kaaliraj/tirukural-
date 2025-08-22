@@ -1,0 +1,39 @@
+{
+  "Kural_Info": {
+    "Number": 707,
+    "Chapter": "குறிப்பறிதல் (The Knowledge of Indications)",
+    "Tamil_Text": "முகத்தின் முதுக்குறைந்தது உண்டோ உவப்பினும் காயினும் தான்முந் துறும்.",
+    "English_Meaning": "Is there anything so full of knowledge as the face ? (No.) it precedes the mind, whether (the latter is) pleased or vexed."
+  },
+  "Flux_Optimized_Prompt": {
+    "Layered_Composition": {
+      "Foreground": "A person's face is shown in a state of rapid, subtle transformation.",
+      "Midground": "Two events happen. First, they receive joyful news, and their face instantly lights up with a smile ('உவப்பினும்'), even before the feeling has fully registered in their mind (visualized as a slowly glowing heart). Second, they receive bad news, and their face immediately contorts in a frown ('காயினும்'), again, faster than the heart can react.",
+      "Background": "This shows the face as the most intelligent and fastest of communicators, always preceding and announcing the inner emotional state ('தான்முந்துறும்')."
+    },
+    "Art_Direction": {
+      "Subject_and_Action": "Is there anything more perceptive than the face? Whether in joy or in anger, it is always the first to show it.",
+      "Symbolic_Motifs": "The key is the speed of the facial reaction compared to the slower reaction of the symbolic 'heart'. This illustrates that the face is 'first'.",
+      "Mood_and_Emotion": "Expressive, immediate, revealing, intelligent (in its own way).",
+      "Lighting_and_Color": "The lighting on the face changes instantly with the emotion. The emotional core (heart) has a delayed lighting effect.",
+      "Technical_Cues": {
+        "Camera": "A high-speed, slow-motion close-up on the face, capturing the instantaneous micro-expressions.",
+        "Resolution": "8K, with a focus on capturing subtle, fleeting emotions.",
+        "Lighting": "Dynamic lighting that shifts rapidly to match the mood.",
+        "Art_Genre": "Psychological portraiture, high-speed photography aesthetic."
+      }
+    },
+    "Cultural_Anchors": [
+      "The Face as the First Herald ('தான்முந்துறும்')",
+      "In Joy ('உவப்பினும்') and Anger ('காயினும்')",
+      "The intelligence of facial expressions."
+    ]
+  },
+  "Negative_Prompt": "emotionless face, slow reactions, text artifacts, cartoonish.",
+  "Hyperparameters": {
+    "variant": "dev",
+    "steps": 45,
+    "cfg_scale": 9,
+    "seed": "Explore variations for the micro-expressions."
+  }
+}

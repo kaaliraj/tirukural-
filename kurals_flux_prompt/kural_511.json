@@ -1,0 +1,39 @@
+{
+  "Kural_Info": {
+    "Number": 511,
+    "Chapter": "தெரிந்துவினையாடல் (Selection and Employment)",
+    "Tamil_Text": "நன்மையும் தீமையும் நாடி நலம்புரிந்த தன்மையான் ஆளப் படும்.",
+    "English_Meaning": "He should be employed (by a king), whose nature leads him to choose the good, after having weighed both the evil and the good in any undertaking."
+  },
+  "Flux_Optimized_Prompt": {
+    "Layered_Composition": {
+      "Foreground": "A minister or advisor stands at a crossroads of a decision. In one hand, they hold a white sphere of light representing the good outcome ('நன்மை'), and in the other, a dark, smoky sphere representing the bad outcome ('தீமை'). They are carefully weighing both ('நாடி').",
+      "Midground": "Having made their assessment, the figure is shown decisively choosing the path that aligns with the white sphere of good, demonstrating their virtuous nature ('நலம்புரிந்த தன்மை').",
+      "Background": "A king is shown in the background, observing this process and selecting this person for a position of power ('ஆளப்படும்') based on their proven ability to choose the good."
+    },
+    "Art_Direction": {
+      "Subject_and_Action": "The ideal person for employment is one who can weigh both the good and bad consequences of an action and whose inherent nature is to choose the good.",
+      "Symbolic_Motifs": "The white and dark spheres represent the good and bad outcomes. The act of weighing them symbolizes careful consideration. The choice of the good path shows the person's character.",
+      "Mood_and_Emotion": "Discerning, virtuous, wise, reliable.",
+      "Lighting_and_Color": "The scene is lit with the clear light of wisdom. The white sphere glows brightly, illuminating the correct path. The dark sphere emits a menacing smoke."
+    },
+    "Technical_Cues": {
+      "Camera": "Medium shot focusing on the minister's act of weighing and choosing.",
+      "Resolution": "8K, with ethereal effects for the spheres of good and evil.",
+      "Lighting": "Symbolic lighting that contrasts the good and bad choices.",
+      "Art_Genre": "Symbolic realism, with fantasy elements."
+    },
+    "Cultural_Anchors": [
+      "Weighing Good and Evil ('நன்மையும் தீமையும் நாடி')",
+      "Nature that chooses Good ('நலம்புரிந்த தன்மை')",
+      "Selection for employment ('ஆளப் படும்')"
+    ]
+  },
+  "Negative_Prompt": "person choosing the dark sphere, king looking away, text artifacts, blurry.",
+  "Hyperparameters": {
+    "variant": "dev",
+    "steps": 40,
+    "cfg_scale": 8,
+    "seed": "Explore variations for the visual representation of good and evil."
+  }
+}

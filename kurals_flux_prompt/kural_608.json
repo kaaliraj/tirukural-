@@ -1,0 +1,39 @@
+{
+  "Kural_Info": {
+    "Number": 608,
+    "Chapter": "மடியின்மை (Unsluggishness)",
+    "Tamil_Text": "மடிமை குடிமைக்கண் தங்கின்தன் ஒன்னார்க்கு அடிமை புகுத்தி விடும்.",
+    "English_Meaning": "If laziness takes up its abode in a high-born family, it will make them slaves of their enemies."
+  },
+  "Flux_Optimized_Prompt": {
+    "Layered_Composition": {
+      "Foreground": "A noble family, living in a grand estate that symbolizes their high birth ('குடிமை').",
+      "Midground": "The family has allowed Idleness, personified as a sly, parasitic, shadowy creature ('மடிமை'), to take up residence in their home. The creature is lounging in the heart of their house, spreading its dark influence.",
+      "Background": "As a direct result, the family's enemies ('ஒன்னார்') are shown marching in unopposed. The noble family members are being put into chains, becoming slaves ('அடிமை') in their own home, because idleness has robbed them of the strength and vigilance to resist."
+    },
+    "Art_Direction": {
+      "Subject_and_Action": "If idleness is allowed to reside within a noble family, it will lead to their enslavement by their enemies.",
+      "Symbolic_Motifs": "Idleness as a parasitic monster that infiltrates the home is the central metaphor. The direct cause-and-effect of its presence—the arrival of enemies and the family's enslavement—tells the story.",
+      "Mood_and_Emotion": "Corrupting, tragic downfall, shameful, cautionary.",
+      "Lighting_and_Color": "The scene grows progressively darker as the monster's influence spreads. The initial noble gold and white of the house are corrupted by the dark, shadowy purples and blacks of the monster and the invading enemies.",
+      "Technical_Cues": {
+        "Camera": "A wide shot that shows the lazy family, the monster of idleness in their midst, and the enemies taking over.",
+        "Resolution": "8K, cinematic, with a strong narrative.",
+        "Lighting": "The scene should transition from a noble light to an oppressive darkness.",
+        "Art_Genre": "Dark fantasy, historical allegory."
+      },
+      "Cultural_Anchors": [
+        "Idleness in a Noble Family ('மடிமை குடிமைக்கண் தங்கின்')",
+        "Enslavement to Enemies ('ஒன்னார்க்கு அடிமை')",
+        "The link between sloth and subjugation."
+      ]
+    },
+    "Negative_Prompt": "diligent family, enemies being defeated, friendly monster, text artifacts.",
+    "Hyperparameters": {
+      "variant": "pro",
+      "steps": 50,
+      "cfg_scale": 8,
+      "seed": "Explore variations for the parasitic monster of idleness."
+    }
+  }
+}

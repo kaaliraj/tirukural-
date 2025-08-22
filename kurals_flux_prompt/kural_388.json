@@ -1,0 +1,39 @@
+{
+  "Kural_Info": {
+    "Number": 388,
+    "Chapter": "இறைமாட்சி (The Greatness of a King)",
+    "Tamil_Text": "முறைசெய்து காப்பாற்றும் மன்னவன் மக்கட்கு இறையென்று வைக்கப் படும்.",
+    "English_Meaning": "Who guards the realm and justice strict maintains, That king as god o'er subject people reigns."
+  },
+  "Flux_Optimized_Prompt": {
+    "Layered_Composition": {
+      "Foreground": "A king is shown dispensing perfect justice ('முறைசெய்து') and actively protecting his people ('காப்பாற்றும்'). He is not wearing a crown, but a subtle halo of divine light forms above his head.",
+      "Midground": "His subjects—men, women, and children—are looking up at him not with fear, but with reverence and adoration, as if looking at a divine being ('இறையென்று').",
+      "Background": "The scene is set in a peaceful, prosperous land where justice and safety are clearly evident."
+    },
+    "Art_Direction": {
+      "Subject_and_Action": "A king who unfailingly administers justice and protects his subjects is revered by them as a living deity.",
+      "Symbolic_Motifs": "The halo of light is the key symbol, representing the people's perception of him as divine. The people's expressions of adoration, not fear, are crucial.",
+      "Mood_and_Emotion": "Reverent, divine, just, protective, peaceful.",
+      "Lighting_and_Color": "A soft, divine light illuminates the scene, emanating from the king. The color palette is warm and gentle, using whites, golds, and soft earth tones to create a sacred atmosphere."
+    },
+    "Technical_Cues": {
+      "Camera": "Slightly low-angle shot, from the perspective of the people looking up at their revered king.",
+      "Resolution": "8K, ultra-realistic, with the feel of a renaissance painting depicting a sacred event.",
+      "Lighting": "Soft, volumetric, 'divine' lighting that makes the scene feel otherworldly and special.",
+      "Art_Genre": "Classical realism, religious art style (without specific iconography)."
+    },
+    "Cultural_Anchors": [
+      "Administering Justice ('முறைசெய்து')",
+      "Protecting the People ('காப்பாற்றும்')",
+      "King as a God ('இறை')"
+    ]
+  },
+  "Negative_Prompt": "king with a demonic look, fearful subjects, crown instead of halo, unjust acts, dark setting, text artifacts.",
+  "Hyperparameters": {
+    "variant": "dev",
+    "steps": 45,
+    "cfg_scale": 8,
+    "seed": "Explore variations in the expressions of the adoring subjects."
+  }
+}

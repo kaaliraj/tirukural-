@@ -1,0 +1,39 @@
+{
+  "Kural_Info": {
+    "Number": 1131,
+    "Chapter": "நாணுத்துறவுரைத்தல் (The Abandonment of Reserve)",
+    "Tamil_Text": "காமம் உழந்து வருந்தினார்க்கு ஏமம்மடலல்லது இல்லை வலி.",
+    "English_Meaning": "To those who after enjoyment of sexual pleasure suffer (for want of more), there is no help so efficient as the palmyra horse."
+  },
+  "Flux_Optimized_Prompt": {
+    "Layered_Composition": {
+      "Foreground": "A lover is depicted in a state of intense suffering and longing ('காமம் உழந்து வருந்தினார்க்கு') due to separation from his beloved.",
+      "Midground": "All conventional means of solace—friends, music, poetry—are shown as weak, broken tools scattered around him, utterly failing to provide any help or security ('ஏமம்').",
+      "Background": "The one remaining option is visualized: the 'Madal' or 'palmyra horse'. This is depicted as a stark, painful, but powerful construction made of sharp palmyra branches. It stands as the only strong and effective ('வலி') recourse left for him to publicly declare his unbearable love and force a resolution."
+    },
+    "Art_Direction": {
+      "Subject_and_Action": "For a lover tormented by separation, all conventional comforts fail, leaving the painful and powerful public act of the 'Madal' as the only remaining source of strength and security.",
+      "Symbolic_Motifs": "The contrast between the broken, useless comforts and the sharp, powerful structure of the Madal is key. The Madal is not a pleasant option, but its 'strength' lies in its effectiveness as a last resort.",
+      "Mood_and_Emotion": "Desperate, tormented, resolute, last resort.",
+      "Lighting_and_Color": "A dark, tormented, interior scene. The failed comforts are in shadow. The Madal is lit with a harsh, stark, and almost painful light, emphasizing its nature as a severe but powerful remedy.",
+      "Technical_Cues": {
+        "Camera": "A dramatic shot focusing on the tormented lover, with the failed comforts behind him and the stark image of the Madal appearing as his only viable thought.",
+        "Resolution": "8K, ultra-realistic, with sharp, painful detail on the palmyra branches of the Madal.",
+        "Lighting": "High-contrast chiaroscuro, creating a mood of desperation.",
+        "Art_Genre": "Gothic romance, dramatic realism."
+      },
+      "Cultural_Anchors": [
+        "The Madal / Palmyra Horse (மடல்)",
+        "Those who suffer from love-longing (காமம் உழந்து வருந்தினார்க்கு)",
+        "The only security/strength (ஏமம் வலி)"
+      ]
+    },
+    "Negative_Prompt": "happy lover, comfortable scene, text artifacts, pleasant-looking Madal.",
+    "Hyperparameters": {
+      "variant": "pro",
+      "steps": 50,
+      "cfg_scale": 9,
+      "seed": "Explore the stark and painful design of the Madal horse."
+    }
+  }
+}

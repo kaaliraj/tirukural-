@@ -1,0 +1,39 @@
+{
+  "Kural_Info": {
+    "Number": 881,
+    "Chapter": "உட்பகை (Enmity within)",
+    "Tamil_Text": "நிழல்நீரும் இன்னாத இன்னா தமர்நீரும் இன்னாவாம் இன்னா செயின்.",
+    "English_Meaning": "Shade and water are not pleasant, (if) they cause disease; so are the qualities of (one's) relations not agreeable, (if) they cause pain."
+  },
+  "Flux_Optimized_Prompt": {
+    "Layered_Composition": {
+      "Foreground": "A split composition. On the left, a beautiful, shady oasis with a pool of cool water ('நிழல்நீரும்') is shown. However, the water is subtly poisonous, and a person drinking from it is shown becoming sick. What should be pleasant has become harmful ('இன்னாத').",
+      "Midground": "On the right, a person is surrounded by their close family and relatives ('தமர்'). The family should be a source of comfort, but they are shown speaking cruel words and performing harmful actions ('இன்னா செயின்').",
+      "Background": "The person surrounded by their harmful family is shown suffering in the same way as the person who drank the poison water. The nature of the kin has become unpleasant and harmful ('இன்னாவாம்')."
+    },
+    "Art_Direction": {
+      "Subject_and_Action": "Just as shade and water can be harmful if they bring sickness, so too the nature of one's own kin becomes a painful evil if they do harmful things.",
+      "Symbolic_Motifs": "The direct parallel between the poisoned oasis and the toxic family is the core of the image. The similar expressions of sickness and pain on the victims' faces link the two scenarios.",
+      "Mood_and_Emotion": "Deceptive, toxic, harmful, a betrayal of nature.",
+      "Lighting_and_Color": "The oasis is beautifully lit, which makes its poisonous nature more deceptive. The family scene is lit with a sickly, unpleasant light.",
+      "Technical_Cues": {
+        "Camera": "A side-by-side composition that clearly shows the parallel between the two harmful situations.",
+        "Resolution": "8K, with a focus on the subtle signs of poison and emotional pain.",
+        "Lighting": "Contrasting but thematically linked lighting.",
+        "Art_Genre": "Symbolic realism."
+      },
+      "Cultural_Anchors": [
+        "When good things become harmful (Shade and Water)",
+        "When kin become harmful ('தமர் இன்னா செயின்')",
+        "The pain of internal betrayal."
+      ]
+    },
+    "Negative_Prompt": "healthy water, a loving family, text artifacts, cartoonish.",
+    "Hyperparameters": {
+      "variant": "pro",
+      "steps": 50,
+      "cfg_scale": 8,
+      "seed": "Explore variations for the look of the poisoned water."
+    }
+  }
+}

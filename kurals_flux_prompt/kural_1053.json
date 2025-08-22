@@ -1,0 +1,33 @@
+{
+  "Kural_Info": {
+    "Number": 1053,
+    "Chapter": "இரவு (Mendicancy)",
+    "Tamil_Text": "கரப்பிலா நெஞ்சின் கடனறிவார் முன்நின்றுஇரப்புமோ ரேஎர் உடைத்து.",
+    "English_Meaning": "The men who nought deny, but know what's due, before their face To stand as suppliants affords especial grace."
+  },
+  "Flux_Optimized_Prompt": {
+    "Layered_Composition": {
+      "Foreground": "A supplicant ('Irappumor') stands before a truly noble person ('Kadanarivaar'). The noble person's heart is visible and glowing, showing they have a heart that does not hide or refuse ('Karappila Nenju').",
+      "Midground": "The act of asking is not depicted as demeaning. Instead, the supplicant themself appears dignified and graceful, as if performing a noble act. Their form has a certain beauty and elegance ('Or Eer Udaiththu').",
+      "Background": "A respectful and serene setting, like a noble's court or a temple, where the act of giving and receiving is treated as a high-minded exchange."
+    },
+    "Art_Direction": {
+      "Subject_and_Action": "There is a unique beauty and dignity in asking from a truly generous person who understands their duty to give.",
+      "Symbolic_Motifs": "The glowing, open heart of the giver. The graceful, dignified posture of the asker, which subverts the typical image of a beggar.",
+      "Mood_and_Emotion": "Dignified, graceful, respectful, noble.",
+      "Lighting_and_Color": "A soft, respectful light illuminates both figures equally. The palette is composed of noble colors—deep blues, whites, and soft golds—befitting a scene of mutual dignity."
+    },
+    "Technical_Cues": {
+      "Camera": "Eye-level medium shot, showing both figures as equals in a dignified exchange.",
+      "Resolution": "8K, ultra-realistic, with a painterly style that emphasizes grace and nobility.",
+      "Lighting": "Softbox-style lighting that creates a feeling of calm and mutual respect.",
+      "Art_Genre": "Classical realism, inspired by paintings of noble patrons and scholars."
+    },
+    "Cultural_Anchors": [
+      "ஏர் (Beauty/Grace)",
+      "கரப்பிலா நெஞ்சு (Heart that does not hide/refuse)",
+      "கடன் அறிவார் (Those who know their duty)"
+    ]
+  },
+  "Negative_Prompt": "cowering or shameful beggar, arrogant giver, dark or dirty setting, text artifacts, modern clothing, blurry."
+}

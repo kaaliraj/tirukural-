@@ -1,0 +1,39 @@
+{
+  "Kural_Info": {
+    "Number": 601,
+    "Chapter": "மடியின்மை (Unsluggishness)",
+    "Tamil_Text": "குடியென்னும் குன்றா விளக்கம் மடியென்னும் மாசூர மாய்ந்து கெடும்.",
+    "English_Meaning": "The indestructible lamp of family (rank) will be extinguished by the darkness of idleness."
+  },
+  "Flux_Optimized_Prompt": {
+    "Layered_Composition": {
+      "Foreground": "A magnificent, ever-burning, ornate lamp, symbolizing the undiminishing luster of a noble family ('குன்றா விளக்கம்').",
+      "Midground": "A monstrous, dark, shadowy entity, representing Idleness ('மடி என்னும் மாசூர'), is shown creeping towards the lamp. It is a being made of thick, black, sooty smoke.",
+      "Background": "The monster of Idleness reaches the lamp and its darkness completely engulfs and snuffs out the eternal flame, leaving only a wisp of smoke and utter darkness ('மாய்ந்து கெடும்')."
+    },
+    "Art_Direction": {
+      "Subject_and_Action": "The great light of a family's honor and dignity will be extinguished by the great darkness of laziness.",
+      "Symbolic_Motifs": "The undiminishing lamp is the family's honor. The monster of darkness is Idleness. The act of the monster extinguishing the flame is the central, tragic event.",
+      "Mood_and_Emotion": "Tragic, destructive, cautionary, extinguishing.",
+      "Lighting_and_Color": "The scene transitions from the bright, warm, golden light of the lamp to complete, oppressive darkness. The monster is a light-absorbing black.",
+      "Technical_Cues": {
+        "Camera": "A static shot that focuses on the lamp, allowing the viewer to witness the tragedy as the monster of idleness approaches and destroys the light.",
+        "Resolution": "8K, cinematic, with high-quality smoke and fire effects.",
+        "Lighting": "Dynamic lighting that is extinguished during the scene.",
+        "Art_Genre": "Dark fantasy, symbolic art."
+      },
+      "Cultural_Anchors": [
+        "The Undiminishing Lamp of Family ('குன்றா விளக்கம்')",
+        "The Darkness of Idleness ('மடி என்னும் மாசூர')",
+        "The destruction of honor by laziness."
+      ]
+    },
+    "Negative_Prompt": "the lamp burning brighter, a small monster, text artifacts, cartoonish.",
+    "Hyperparameters": {
+      "variant": "pro",
+      "steps": 50,
+      "cfg_scale": 8,
+      "seed": "Explore variations for the design of the monster of Idleness."
+    }
+  }
+}

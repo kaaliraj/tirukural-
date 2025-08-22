@@ -1,0 +1,39 @@
+{
+  "Kural_Info": {
+    "Number": 921,
+    "Chapter": "கள்ளுண்ணாமை (Not Drinking Palm-Wine)",
+    "Tamil_Text": "உட்கப் படாஅர் ஒளியிழப்பர் எஞ்ஞான்றும் கட்காதல் கொண்டொழுகு வார்.",
+    "English_Meaning": "Those who always thirst after drink will neither inspire fear (in others) nor retain the light (of their fame)."
+  },
+  "Flux_Optimized_Prompt": {
+    "Layered_Composition": {
+      "Foreground": "A person is shown in two states over time. Initially, they are a powerful, respectable figure, surrounded by a bright aura of glory ('ஒளி') and commanding the respect and fear of others.",
+      "Midground": "They then develop a love for drink ('கட்காதல்'). As they become a drunkard, their two great qualities are destroyed. The respect and fear others had for them vanishes ('உட்கப்படார்'), visualized by people no longer bowing but mocking them. Their brilliant aura of glory is shown flickering and dying out ('ஒளியிழப்பர்').",
+      "Background": "The final image is of a powerless, disrespected person, their light completely gone, left alone in the darkness of their addiction."
+    },
+    "Art_Direction": {
+      "Subject_and_Action": "Those who are addicted to drink will lose both the respect of others and their own inner light of glory.",
+      "Symbolic_Motifs": "The extinguishing aura of glory is the key visual for the loss of fame. The changing reaction of the crowd, from respect to scorn, shows the loss of their power to command fear.",
+      "Mood_and_Emotion": "Degenerative, tragic, a loss of respect and glory.",
+      "Lighting_and_Color": "The scene transitions from a bright, glorious, golden light to a dim, pathetic, shadowy darkness. The dying aura is the central lighting effect.",
+      "Technical_Cues": {
+        "Camera": "A narrative shot that shows the 'before' and 'after' state of the person, linking their addiction to their downfall.",
+        "Resolution": "8K, with a strong focus on the changing emotional atmosphere.",
+        "Lighting": "Dynamic lighting that fades to darkness.",
+        "Art_Genre": "Tragic realism."
+      },
+      "Cultural_Anchors": [
+        "Love of Drink ('கட்காதல்')",
+        "Losing Respect/Fear ('உட்கப்படார்')",
+        "Losing Glory/Light ('ஒளியிழப்பர்')"
+      ]
+    },
+    "Negative_Prompt": "a respected drunkard, text artifacts, cartoonish.",
+    "Hyperparameters": {
+      "variant": "pro",
+      "steps": 50,
+      "cfg_scale": 8,
+      "seed": "Explore variations for the extinguishing aura."
+    }
+  }
+}

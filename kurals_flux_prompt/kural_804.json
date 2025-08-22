@@ -1,0 +1,39 @@
+{
+  "Kural_Info": {
+    "Number": 804,
+    "Chapter": "பழைமை (Familiarity)",
+    "Tamil_Text": "விழைதகையான் வேண்டி இருப்பர் கெழுதகையாற் கேளாது நட்டார் செயின்.",
+    "English_Meaning": "If friends, through the right of friendship, do (anything) without being asked, the wise will be pleased with them on account of its desirability."
+  },
+  "Flux_Optimized_Prompt": {
+    "Layered_Composition": {
+      "Foreground": "A friend is shown performing a helpful, kind act for another without being asked ('கேளாது நட்டார் செயின்'), acting purely on the rights of their long friendship.",
+      "Midground": "The friend who receives this unsolicited help is shown not with surprise or annoyance, but with a deep, pleased, and desirable expression ('விழைதகையான் வேண்டி இருப்பர்').",
+      "Background": "The bond between them is strengthened by this act of familiar, proactive kindness. The atmosphere is one of perfect trust and understanding."
+    },
+    "Art_Direction": {
+      "Subject_and_Action": "When a friend acts on their own initiative out of familiarity, the other will be pleased by it, seeing it as a desirable expression of their bond.",
+      "Symbolic_Motifs": "The key is the pleased and accepting expression on the face of the person receiving the unsolicited help. This shows that the familiarity is welcome.",
+      "Mood_and_Emotion": "Pleased, desirable, trusting, intimate, welcome.",
+      "Lighting_and_Color": "A warm, soft, and intimate light that envelops the two friends, symbolizing their close bond. The color palette is gentle and heartwarming.",
+      "Technical_Cues": {
+        "Camera": "An intimate medium shot that captures the unsolicited act and the pleased reaction.",
+        "Resolution": "8K, with a focus on subtle, happy emotions.",
+        "Lighting": "Soft, warm key lighting.",
+        "Art_Genre": "Sentimental realism."
+      }
+    },
+    "Cultural_Anchors": [
+      "When friends act without being asked ('கேளாது நட்டார் செயின்')",
+      "It will be desired and welcomed ('விழைதகையான் வேண்டி இருப்பர்')",
+      "The pleasure of true intimacy."
+    ]
+  },
+  "Negative_Prompt": "friend getting angry at the unsolicited help, text artifacts, cartoonish.",
+  "Hyperparameters": {
+    "variant": "dev",
+    "steps": 40,
+    "cfg_scale": 7,
+    "seed": "Explore variations for the helpful act."
+  }
+}

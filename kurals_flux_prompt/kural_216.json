@@ -1,0 +1,38 @@
+{
+  "Kural_Info": {
+    "Number": 216,
+    "Chapter": "ஒப்புரவறிதல் (Duty to Society)",
+    "Tamil_Text": "பயன்மரம் உள்ளூர்ப் பழுத்தற்றால் செல்வம்நயனுடை யான்கண் படின்.",
+    "English_Meaning": "The wealth of a man (possessed of the virtue) of benevolence is like the ripening of a fruitful tree in the midst of a town."
+  },
+  "Flux_Optimized_Prompt": {
+    "Layered_Composition": {
+      "Foreground": "A magnificent, large, fruit-bearing tree ('பயன் மரம்') stands in the very center of a bustling village square ('உள்ளூர்').",
+      "Midground": "The tree is laden with beautiful, ripe fruit ('பழுத்து'). The people of the village—children, adults, and elders—are all freely and joyfully taking and eating the fruit. The tree is a public resource for all.",
+      "Background": "This entire scene is a metaphor for the wealth ('செல்வம்') in the hands of a benevolent and just person ('நயனுடையான்'). Their wealth is not hidden away, but is a source of public, accessible nourishment for everyone in the community."
+    },
+    "Art_Direction": {
+      "Subject_and_Action": "The wealth of a benevolent person is like a fruit tree ripening in the center of a village—its benefits are public, accessible, and a source of joy for all.",
+      "Symbolic_Motifs": "The public fruit tree is the central metaphor. Its location in the center of the village emphasizes its accessibility. The joyful, communal act of sharing the fruit shows the nature of this kind of wealth.",
+      "Mood_and_Emotion": "Communal, joyful, accessible, nourishing, generous.",
+      "Lighting_and_Color": "A warm, bright, happy afternoon light. The tree is a vibrant green, and the fruits are a luscious, inviting color. The villagers are depicted with happy, contented expressions. The palette is one of shared public joy.",
+      "Technical_Cues": {
+        "Camera": "A wide, lively shot that captures the tree and the joyful community interacting with it, conveying a strong sense of communal well-being.",
+        "Resolution": "8K, ultra-realistic, with a focus on the joyful interactions of the villagers.",
+        "Lighting": "Warm, welcoming, and communal lighting.",
+        "Art_Genre": "Pastoral idealism, in the style of Pieter Bruegel."
+      },
+      "Cultural_Anchors": [
+        "Wealth in the hands of a benevolent man (செல்வம் நயனுடையான்கண் படின்)",
+        "Is like a fruit tree ripening in the middle of a village (பயன்மரம் உள்ளூர்ப் பழுத்தற்று)"
+      ]
+    },
+    "Negative_Prompt": "tree with a fence around it, withered tree, sad villagers, text artifacts.",
+    "Hyperparameters": {
+      "variant": "pro",
+      "steps": 50,
+      "cfg_scale": 7,
+      "seed": "Explore the joyful activities of the villagers around the tree."
+    }
+  }
+}

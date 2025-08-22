@@ -1,0 +1,39 @@
+{
+  "Kural_Info": {
+    "Number": 550,
+    "Chapter": "செங்கோன்மை (The Right Sceptre)",
+    "Tamil_Text": "கொலையிற் கொடியாரை வேந்தொறுத்தல் பைங்கூழ்க் களைகட் டதனொடு நேர்.",
+    "English_Meaning": "For a king to punish criminals with death, is like pulling up the weeds in the green corn."
+  },
+  "Flux_Optimized_Prompt": {
+    "Layered_Composition": {
+      "Foreground": "A lush, vibrant green field of young rice or corn ('பைங்கூழ்').",
+      "Midground": "A wise ruler, acting as a gardener, is carefully and skillfully removing toxic, thorny weeds ('களை') that are choking the life out of the healthy plants. This act of weeding is a direct visual parallel to punishing cruel murderers ('கொலையிற் கொடியாரை ஒறுத்தல்').",
+      "Background": "The rest of the field, where the weeds have been removed, is shown growing strong, healthy, and abundant, demonstrating that the removal of the harmful element allows the good to flourish."
+    },
+    "Art_Direction": {
+      "Subject_and_Action": "A direct and powerful analogy: a king punishing cruel criminals is not a cruel act, but a necessary act of cultivation, like a farmer removing weeds to save the crop.",
+      "Symbolic_Motifs": "The weeds are the cruel criminals. The healthy crops are the good citizens. The king as the diligent gardener is the central figure. The act is one of protection and cultivation, not mere violence.",
+      "Mood_and_Emotion": "Necessary, protective, cultivating, just, pragmatic.",
+      "Lighting_and_Color": "Bright, healthy, natural sunlight on the field. The crops are a vibrant green. The weeds are dark, thorny, and have a sickly color. The king's actions are precise and careful.",
+      "Technical_Cues": {
+        "Camera": "A low-angle shot from within the crops, showing the weeds as a real threat and the king's hand as a saving grace.",
+        "Resolution": "8K, with macro details on the plants and weeds.",
+        "Lighting": "Warm, life-giving sunlight.",
+        "Art_Genre": "Hyperrealism, with a strong allegorical message."
+      }
+    },
+    "Cultural_Anchors": [
+      "Punishing Murderers ('கொலையிற் கொடியாரை ஒறுத்தல்')",
+      "Like Weeding the Crops ('பைங்கூழ் களைகட்டதனொடு நேர்')",
+      "Justice as a form of cultivation."
+    ]
+  },
+  "Negative_Prompt": "king destroying the crops, weeds looking healthy, text artifacts, cartoonish.",
+  "Hyperparameters": {
+    "variant": "pro",
+    "steps": 50,
+    "cfg_scale": 8,
+    "seed": "Explore variations for the design of the toxic weeds."
+  }
+}

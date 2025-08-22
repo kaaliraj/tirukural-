@@ -1,0 +1,39 @@
+{
+  "Kural_Info": {
+    "Number": 629,
+    "Chapter": "இடுக்கணழியாமை (Hopefulness in Trouble)",
+    "Tamil_Text": "இன்பத்துள் இன்பம் விழையாதான் துன்பத்துத் துன்பம் உறுதல் இலன்.",
+    "English_Meaning": "He does not suffer sorrow, in sorrow who does not look for pleasure in pleasure."
+  },
+  "Flux_Optimized_Prompt": {
+    "Layered_Composition": {
+      "Foreground": "A split composition. On the right, a person is in a state of great pleasure ('இன்பத்துள்'), surrounded by delights. However, they are not greedily seeking more or becoming attached; their expression is moderate and detached ('இன்பம் விழையாதான்').",
+      "Midground": "On the left, the same person is now in a state of great sorrow ('துன்பத்துள்'). Because they did not become addicted to pleasure before, they are now able to face the sorrow with the same calm, detached expression, showing no deep suffering ('துன்பம் உறுதல் இலன்').",
+      "Background": "A single, unbroken, straight line representing their core emotional state runs through both panels, showing that their inner peace is constant and unaffected by the external highs and lows."
+    },
+    "Art_Direction": {
+      "Subject_and_Action": "He who is not lost in the pursuit of pleasure during good times will not be lost in suffering during bad times.",
+      "Symbolic_Motifs": "The person's constant, serene expression across both panels is the key. The unbroken line of emotional stability reinforces the idea of equanimity.",
+      "Mood_and_Emotion": "Equanimous, balanced, disciplined, resilient, serene.",
+      "Lighting_and_Color": "The pleasure scene is bright and full of color, but the person is not feverishly excited. The sorrow scene is dark and grey, but the person is not despairing. The light on the person remains constant.",
+      "Technical_Cues": {
+        "Camera": "A balanced, diptych-style portrait that focuses on the subject's unchanging inner state.",
+        "Resolution": "8K, with a focus on subtle, controlled emotion.",
+        "Lighting": "The lighting on the background changes dramatically, but the lighting on the person remains consistent.",
+        "Art_Genre": "Philosophical portraiture."
+      }
+    },
+    "Cultural_Anchors": [
+      "Not seeking pleasure within pleasure ('இன்பத்துள் இன்பம் விழையாதான்')",
+      "Not suffering sorrow within sorrow ('துன்பத்துத் துன்பம் உறுதல் இலன்')",
+      "The path of moderation and emotional stability."
+    ]
+  },
+  "Negative_Prompt": "person ecstatic in pleasure, person despairing in sorrow, broken line, text artifacts.",
+  "Hyperparameters": {
+    "variant": "pro",
+    "steps": 50,
+    "cfg_scale": 8,
+    "seed": "Explore variations for the background scenes of pleasure and sorrow."
+  }
+}

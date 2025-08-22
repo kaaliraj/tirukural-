@@ -1,0 +1,38 @@
+{
+  "Kural_Info": {
+    "Number": 243,
+    "Chapter": "அருளுடைமை (Compassion)",
+    "Tamil_Text": "அருள்சேர்ந்த நெஞ்சினார்க் கில்லை இருள்சேர்ந்தஇன்னா உலகம் புகல்.",
+    "English_Meaning": "They will never enter the world of darkness and wretchedness whose minds are the abode of kindness."
+  },
+  "Flux_Optimized_Prompt": {
+    "Layered_Composition": {
+      "Foreground": "A person with a compassionate mind is depicted. Their heart ('நெஞ்சு') is not a physical organ but a brilliant, radiant sun of pure golden light, representing a mind filled with compassion ('அருள் சேர்ந்த').",
+      "Midground": "This inner sun emanates a powerful light that creates a protective, impenetrable sphere around the person.",
+      "Background": "Outside this sphere lies the 'world of darkness and sorrow' ('இருள் சேர்ந்த இன்னா உலகம்'). It is a terrifying, shadowy realm filled with suffering figures and despair. However, its darkness and sorrow are completely unable to penetrate the protective light of compassion."
+    },
+    "Art_Direction": {
+      "Subject_and_Action": "Those whose hearts are filled with compassion are inherently protected and will never have to enter the world of darkness and suffering.",
+      "Symbolic_Motifs": "The heart as an inner sun is the central metaphor. The light of compassion is an absolute defense. The dark world is not a future hell, but a state of being that the compassionate are already immune to.",
+      "Mood_and_Emotion": "Protected, immune, serene, powerful compassion, light against darkness.",
+      "Lighting_and_Color": "The entire scene is a study in contrast. The sphere of compassion is filled with a warm, brilliant, life-affirming golden light. The outside world is a dark, cold, terrifying monochrome of blacks and greys.",
+      "Technical_Cues": {
+        "Camera": "A wide shot that shows the compassionate person safe in their bubble of light, surrounded by the vast, menacing, but impotent darkness.",
+        "Resolution": "8K, ultra-realistic, with strong ethereal light effects and dark, painterly effects for the world of sorrow.",
+        "Lighting": "The person's heart is the sole, powerful light source in the composition.",
+        "Art_Genre": "High fantasy art, symbolic battle of light and dark."
+      },
+      "Cultural_Anchors": [
+        "A mind joined with compassion (அருள் சேர்ந்த நெஞ்சு)",
+        "The dark world of sorrow (இருள் சேர்ந்த இன்னா உலகம்)"
+      ]
+    },
+    "Negative_Prompt": "dark heart, darkness penetrating the light, suffering compassionate person, text artifacts.",
+    "Hyperparameters": {
+      "variant": "pro",
+      "steps": 50,
+      "cfg_scale": 9,
+      "seed": "Explore the visual depiction of the 'world of darkness and sorrow'."
+    }
+  }
+}

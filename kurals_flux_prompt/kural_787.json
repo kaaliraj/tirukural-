@@ -1,0 +1,39 @@
+{
+  "Kural_Info": {
+    "Number": 787,
+    "Chapter": "நட்பு (Friendship)",
+    "Tamil_Text": "அழிவி னவைநீக்கி ஆறுய்த்து அழிவின்கண் அல்லல் உழப்பதாம் நட்பு.",
+    "English_Meaning": "(True) friendship turns aside from evil (ways) makes (him) walk in the (good) way, and, in case of loss if shares his sorrow (with him)."
+  },
+  "Flux_Optimized_Prompt": {
+    "Layered_Composition": {
+      "Foreground": "A powerful triptych illustrating the three duties of friendship.",
+      "Midground": "In the left panel, a true friend is shown steering their companion away from a destructive, ruinous path ('அழிவினவை நீக்கி'). In the central panel, the friend is guiding their companion onto the correct, virtuous path ('ஆறுய்த்து'). In the right panel, the companion has suffered a great loss or ruin ('அழிவின்கண்'), and the true friend is shown sitting with them in their sorrow, sharing their burden and weeping with them ('அல்லல் உழப்பது').",
+      "Background": "The three panels show a complete story of guidance, correction, and support, defining the multifaceted nature of true friendship."
+    },
+    "Art_Direction": {
+      "Subject_and_Action": "True friendship has three jobs: to prevent ruin, to guide towards good, and to share in the sorrow of ruin.",
+      "Symbolic_Motifs": "The three distinct actions in the three panels clearly define the roles of a true friend. The shared sorrow in the final panel is particularly important.",
+      "Mood_and_Emotion": "Guiding, protective, supportive, empathetic.",
+      "Lighting_and_Color": "The ruinous path is dark. The virtuous path is bright. The scene of shared sorrow is somber but lit with the warm glow of companionship.",
+      "Technical_Cues": {
+        "Camera": "A wide shot that frames the three narrative panels together.",
+        "Resolution": "8K, with a strong, emotional storytelling quality.",
+        "Lighting": "Three distinct lighting schemes to match the mood of each panel.",
+        "Art_Genre": "Narrative triptych painting."
+      },
+      "Cultural_Anchors": [
+        "Preventing Ruin ('அழிவினவை நீக்கி')",
+        "Guiding to the Good Path ('ஆறுய்த்து')",
+        "Sharing Sorrow ('அல்லல் உழப்பது')"
+      ]
+    },
+    "Negative_Prompt": "friend leading another to ruin, friend abandoning another in sorrow, text artifacts.",
+    "Hyperparameters": {
+      "variant": "pro",
+      "steps": 50,
+      "cfg_scale": 8,
+      "seed": "Explore variations for the scene of shared sorrow."
+    }
+  }
+}

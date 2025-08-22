@@ -1,0 +1,33 @@
+{
+  "Kural_Info": {
+    "Number": 1222,
+    "Chapter": "பொழுதுகண்டிரங்கல் (Lamentations at Eventide)",
+    "Tamil_Text": "புன்கண்ணை வாழி மருள்மாலை எம்கேள்போல்வன்கண்ண தோநின் துணை.",
+    "English_Meaning": "Live, O you evening are you (the former) evening? No, you are the season that slays (married) women."
+  },
+  "Flux_Optimized_Prompt": {
+    "Layered_Composition": {
+      "Foreground": "A woman addresses the evening, which is again personified as a bewildering, sorrowful entity ('Marul Maalai'). Her expression is a mix of pain and sarcastic questioning.",
+      "Midground": "She asks the Evening if its companion ('Nin Thunai') is as cruel and hard-hearted ('Vankannatho') as her own absent lover ('Em Kel Pol'). A ghostly image of her cruel lover is shown standing beside the personified Evening.",
+      "Background": "A twilight landscape that is confusing and disorienting ('Marul'), with twisted trees and strange shadows, reflecting her bewildered and sorrowful state of mind."
+    },
+    "Art_Direction": {
+      "Subject_and_Action": "A woman sarcastically 'blesses' the sorrowful evening and asks it if its partner is as cruel as hers, thus projecting her own feelings of abandonment onto the time of day.",
+      "Symbolic_Motifs": "The personified Evening and the ghost of her cruel lover standing together as companions in cruelty. The bewildering landscape reflecting her inner state.",
+      "Mood_and_Emotion": "Sarcastic, sorrowful, bewildered, projecting pain.",
+      "Lighting_and_Color": "The confusing, low light of twilight ('Marul Maalai'). The colors are muted and unsettling, with strange, unnatural hues in the sky."
+    },
+    "Technical_Cues": {
+      "Camera": "A slightly disorienting dutch angle shot, focusing on the woman's interaction with the personified Evening.",
+      "Resolution": "8K, surreal realism, capturing a psychologically charged atmosphere.",
+      "Lighting": "Eerie twilight lighting that creates a sense of confusion and unease.",
+      "Art_Genre": "Psychological surrealism, where the environment is a projection of the character's mind."
+    },
+    "Cultural_Anchors": [
+      "மருள் மாலை (Bewildering evening)",
+      "வன்கண்மை (Hard-heartedness/Cruelty)",
+      "Projecting one's sorrow onto nature"
+    ]
+  },
+  "Negative_Prompt": "a normal evening, a happy woman, a kind lover, text artifacts, cartoonish, bright lighting."
+}

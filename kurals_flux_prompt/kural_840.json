@@ -1,0 +1,39 @@
+{
+  "Kural_Info": {
+    "Number": 840,
+    "Chapter": "பேதைமை (Folly)",
+    "Tamil_Text": "கழாஅக்கால் பள்ளியுள் வைத்தற்றால் சான்றோர் குழாஅத்துப் பேதை புகல்.",
+    "English_Meaning": "The appearance of a fool in an assembly of the learned is like placing (one's) unwashed feet on a bed."
+  },
+  "Flux_Optimized_Prompt": {
+    "Layered_Composition": {
+      "Foreground": "A beautiful, pristine, pure white bed ('பள்ளி').",
+      "Midground": "A pair of dirty, muddy, unwashed feet ('கழாஅக்கால்') are shown being placed right in the middle of the clean white sheets, soiling them completely.",
+      "Background": "In a direct visual parallel, a foolish, ignorant person ('பேதை') is shown entering a serene and dignified assembly of wise scholars ('சான்றோர் குழாஅத்து'). His inappropriate presence is shown to be just as offensive and soiling as the dirty feet on the clean bed."
+    },
+    "Art_Direction": {
+      "Subject_and_Action": "A fool entering an assembly of the wise is as inappropriate and offensive an act as putting unwashed feet on a clean bed.",
+      "Symbolic_Motifs": "The direct visual juxtaposition of the two offensive acts is the core of the image. The pristine white of the bed and the dignified attire of the scholars represent the purity that is being soiled.",
+      "Mood_and_Emotion": "Offensive, inappropriate, soiling, disgraceful.",
+      "Lighting_and_Color": "The bed and the assembly are lit with a pure, clean, white light. The muddy feet and the foolish person are dark, dirty, and visually disruptive elements.",
+      "Technical_Cues": {
+        "Camera": "A split-screen composition that makes the analogy explicit and powerful.",
+        "Resolution": "8K, with a focus on the contrast between clean and dirty textures.",
+        "Lighting": "High-contrast lighting to emphasize the act of soiling.",
+        "Art_Genre": "Conceptual realism."
+      }
+    },
+    "Cultural_Anchors": [
+      "A fool entering an assembly of the wise ('சான்றோர் குழாஅத்துப் பேதை புகல்')",
+      "Like unwashed feet on a bed ('கழாஅக்கால் பள்ளியுள் வைத்தற்றால்')",
+      "The concept of propriety and place."
+    ]
+  },
+  "Negative_Prompt": "clean feet, a happy assembly, text artifacts, cartoonish.",
+  "Hyperparameters": {
+    "variant": "pro",
+    "steps": 50,
+    "cfg_scale": 8,
+    "seed": "Explore variations for the muddy feet."
+  }
+}

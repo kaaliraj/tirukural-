@@ -1,0 +1,38 @@
+{
+  "Kural_Info": {
+    "Number": 286,
+    "Chapter": "கள்ளாமை (The Absence of Fraud)",
+    "Tamil_Text": "அளவின்கண் நின்றொழுகல் ஆற்றார் களவின்கண்கன்றிய காத லவர்.",
+    "English_Meaning": "They cannot walk steadfastly, according to rule, who eagerly desire to defraud others."
+  },
+  "Flux_Optimized_Prompt": {
+    "Layered_Composition": {
+      "Foreground": "A person is trying to walk along a very narrow, straight, and clearly marked path representing a measured, righteous life ('அளவின்கண் நின்று ஒழுகல்').",
+      "Midground": "However, the person is possessed by an intense, passionate desire for fraud ('களவின் கண் கன்றிய காதல்'), which is visualized as a powerful, dark wind that constantly pushes them from the side.",
+      "Background": "Because of this constant, corrupting force, the person is shown to be completely unable ('ஆற்றார்') to stay on the path. They are continually stumbling and falling off the edge into the chaotic wilderness beside it."
+    },
+    "Art_Direction": {
+      "Subject_and_Action": "Those who are consumed by a passionate desire for fraudulent gain are inherently incapable of living a measured, disciplined, and righteous life.",
+      "Symbolic_Motifs": "The straight path of discipline versus the chaotic wilderness is a clear metaphor. The desire for fraud as a persistent, unbalancing wind shows it as an internal force that makes stability impossible.",
+      "Mood_and_Emotion": "Unstable, chaotic, unbalanced, incapable.",
+      "Lighting_and_Color": "The righteous path is illuminated by a clear, steady light. The corrupting wind is a dark, swirling vortex of energy. The person is constantly caught between this light and shadow, unable to find peace.",
+      "Technical_Cues": {
+        "Camera": "A dynamic shot that shows the person's constant struggle and failure to stay on the path.",
+        "Resolution": "8K, ultra-realistic, with strong motion blur and particle effects for the wind.",
+        "Lighting": "Dramatic, high-contrast lighting to emphasize the struggle between discipline and chaotic desire.",
+        "Art_Genre": "Symbolic action scene, fantasy art."
+      },
+      "Cultural_Anchors": [
+        "Walking within measure/rule (அளவின்கண் நின்று ஒழுகல்)",
+        "Passionate love of fraud (களவின் கண் கன்றிய காதல்)"
+      ]
+    },
+    "Negative_Prompt": "person walking easily on the path, gentle breeze, text artifacts, static pose.",
+    "Hyperparameters": {
+      "variant": "dev",
+      "steps": 45,
+      "cfg_scale": 9,
+      "seed": "Explore the visual of the 'wind of fraudulent desire'."
+    }
+  }
+}

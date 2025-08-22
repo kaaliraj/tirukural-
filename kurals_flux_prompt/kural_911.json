@@ -1,0 +1,39 @@
+{
+  "Kural_Info": {
+    "Number": 911,
+    "Chapter": "வரைவின்மகளிர் (Wanton Women)",
+    "Tamil_Text": "அன்பின் விழையார் பொருள்விழையும் ஆய்தொடியார்இன்சொல் இழுக்குத் தரும்.",
+    "English_Meaning": "The sweet words of elegant braceleted (prostitutes) who desire (a man) not from affection but from avarice, will cause sorrow."
+  },
+  "Flux_Optimized_Prompt": {
+    "Layered_Composition": {
+      "Foreground": "A beautifully adorned courtesan ('ஆய் தொடியார்') is speaking sweet words ('இன்சொல்') to a wealthy man. Her words are visualized as beautiful, sweet-smelling, golden flowers.",
+      "Midground": "However, a transparent view into the courtesan's mind reveals her true motive. Her heart is not filled with love ('அன்பின் விழையார்'), but is a dark, grasping void fixated on the man's purse of gold ('பொருள் விழையும்').",
+      "Background": "The beautiful golden flowers of her speech, once they have served their purpose of charming the man, are shown to transform mid-air into a treacherous, thorny vine that ensnares the man, pulling him down into a pit of disgrace and sorrow ('இழுக்குத் தரும்')."
+    },
+    "Art_Direction": {
+      "Subject_and_Action": "The sweet words of a courtesan who desires only wealth, not love, are a deceptive trap that inevitably leads to ruin and disgrace.",
+      "Symbolic_Motifs": "The transformation of the words from beautiful flowers to thorny, entrapping vines is the central, powerful metaphor. The contrast between her beautiful exterior and her dark, avaricious interior is key.",
+      "Mood_and_Emotion": "Deceptive, treacherous, alluring but dangerous, cautionary.",
+      "Lighting_and_Color": "The courtesan and her flowery words are lit with a seductive, golden, honeyed light. Her inner mind, however, is a dark void. The final scene of the man being dragged down is lit with the harsh, ugly light of disgrace.",
+      "Technical_Cues": {
+        "Camera": "A narrative shot that shows the alluring words, reveals the deceitful intention, and then shows the disastrous consequence.",
+        "Resolution": "8K, ultra-realistic, with magical realism effects for the transformation of the words.",
+        "Lighting": "A dramatic shift from seductive warmth to harsh, sorrowful light.",
+        "Art_Genre": "Symbolic realism, with fantasy elements."
+      },
+      "Cultural_Anchors": [
+        "Those who desire wealth, not love (அன்பின் விழையார் பொருள் விழையும்)",
+        "Sweet words (இன்சொல்)",
+        "Will bring disgrace (இழுக்குத் தரும்)"
+      ]
+    },
+    "Negative_Prompt": "sincere courtesan, man escaping the trap, text artifacts, cartoonish flowers.",
+    "Hyperparameters": {
+      "variant": "pro",
+      "steps": 50,
+      "cfg_scale": 9,
+      "seed": "Explore the visual of the flowers transforming into thorns."
+    }
+  }
+}

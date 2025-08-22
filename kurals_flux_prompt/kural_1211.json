@@ -1,0 +1,34 @@
+{
+  "Kural_Info": {
+    "Number": 1211,
+    "Chapter": "கனவுநிலையுரைத்தல் (The Visions of the Night)",
+    "Tamil_Text": "காதலர் தூதொடு வந்த கனவினுக்குயாதுசெய் வேன்கொல் விருந்து.",
+    "English_Meaning": "It came and brought to me, that nightly vision rare, A message from my love,- what feast shall I prepare?."
+  },
+  "Flux_Optimized_Prompt": {
+    "Layered_Composition": {
+      "Foreground": "A woman has just woken from a dream with a joyful and grateful expression. The dream is personified as a beautiful, ethereal messenger ('Kanavu') who is just fading away.",
+      "Midground": "The dream-messenger is shown to have delivered a message or token from her distant lover ('Kaathalar Thoothodu'). The message could be a glowing scroll or a single, perfect flower.",
+      "Background": "She is looking at the fading dream with a sense of wonder and gratitude, asking herself what great feast ('Virunthu') she could possibly prepare to honor such a wonderful guest."
+    },
+    "Art_Direction": {
+      "Subject_and_Action": "A lover's joyous gratitude towards a dream that brought a message from her beloved, wondering how she can possibly repay such a welcome visitor.",
+      "Symbolic_Motifs": "The personification of the dream as an ethereal messenger. The message as a glowing object. Her desire to prepare a feast for the dream.",
+      "Mood_and_Emotion": "Joyful, grateful, whimsical, magical.",
+      "Lighting_and_Color": "Soft, magical, dream-like lighting of early dawn. The fading dream-messenger is made of iridescent, translucent light. The palette is filled with soft, happy pastels."
+    },
+    "Technical_Cues": {
+      "Camera": "Intimate medium shot of the woman, capturing her joyful and wondrous expression.",
+      "Resolution": "8K, fantasy realism, with beautiful, ethereal effects for the dream messenger.",
+      "Lighting": "Soft, diffused lighting that creates a magical, early-morning atmosphere.",
+      "Art_Genre": "Romantic fantasy, with a whimsical and heartfelt tone."
+    },
+    "Cultural_Anchors": [
+      "கனவு (Dream)",
+      "தூது (Message/Messenger)",
+      "விருந்து (Feast for a guest)",
+      "Dreams as a real connection to a lover"
+    ]
+  },
+  "Negative_Prompt": "a nightmare, a sad woman, a harsh messenger, modern bedroom, text artifacts, cartoonish."
+}

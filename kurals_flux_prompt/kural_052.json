@@ -1,0 +1,39 @@
+{
+  "Kural_Info": {
+    "Number": 52,
+    "Chapter": "வாழ்க்கைத் துணைநலம் (The Worth of a Wife)",
+    "Tamil_Text": "மனைமாட்சி இல்லாள்கண் இல்லாயின் வாழ்க்கைஎனைமாட்சித் தாயினும் இல்.",
+    "English_Meaning": "If the wife be devoid of domestic excellence, whatever (other) greatness be possessed, the conjugal state is nothing."
+  },
+  "Flux_Optimized_Prompt": {
+    "Layered_Composition": {
+      "Foreground": "A beautifully built, opulent house, filled with immense riches, extravagant art, and symbols of worldly success ('எனைமாட்சித்').",
+      "Midground": "However, the house is in a state of subtle decay and chaos. Dust motes dance in the light, food is left unfinished, and there is a palpable sense of emotional coldness and disorder.",
+      "Background": "At the heart of the house sits the wife, depicted without the glow of 'domestic excellence' ('மனைமாட்சி'). She looks beautiful but is disengaged and listless, representing the absent core that renders all the external wealth meaningless."
+    },
+    "Art_Direction": {
+      "Subject_and_Action": "A powerful depiction of how a household, no matter how wealthy or outwardly successful, is fundamentally empty and worthless ('இல்') if the wife lacks the essential virtue of domestic grace.",
+      "Symbolic_Motifs": "The wealth is depicted as cold and metallic, lacking the warmth of a real home. The wife's lack of 'Manaimaatchi' is visualized as a lack of inner light or color; she is almost a grey figure in a colorful but chaotic room.",
+      "Mood_and_Emotion": "Empty, hollow, worthless despite wealth, lacking a soul, chaotic.",
+      "Lighting_and_Color": "Harsh, cold light streams in from outside, highlighting the dust and disorder. The colors of the riches are vibrant but clash with each other, creating a sense of visual noise rather than harmony. The wife herself is in muted, desaturated tones.",
+      "Technical_Cues": {
+        "Camera": "Ultra-wide shot to capture the scale of the wealth and the pervasive sense of emptiness and disorder simultaneously.",
+        "Resolution": "8K, hyper-realistic, with a strong focus on the textures of opulence and decay.",
+        "Lighting": "High-key, cold lighting that creates a sterile, uninviting atmosphere.",
+        "Art_Genre": "Symbolic realism, with a style similar to a cautionary painting."
+      },
+      "Cultural_Anchors": [
+        "Manaimaatchi (மனைமாட்சி) as the soul of the home",
+        "The worthlessness of external greatness (எனைமாட்சித்) without it",
+        "The wife as the central pillar of domestic order"
+      ]
+    },
+    "Negative_Prompt": "happy wife, orderly house, poor setting, warm lighting, text artifacts.",
+    "Hyperparameters": {
+      "variant": "pro",
+      "steps": 50,
+      "cfg_scale": 8,
+      "seed": "Explore ways to visually contrast the opulence and the emotional decay."
+    }
+  }
+}

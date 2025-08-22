@@ -1,0 +1,39 @@
+{
+  "Kural_Info": {
+    "Number": 494,
+    "Chapter": "இடனறிதல் (Knowing the Place)",
+    "Tamil_Text": "எண்ணியார் எண்ணம் இழப்பர் இடனறிந்து துன்னியார் துன்னிச் செயின்.",
+    "English_Meaning": "The foes who thought to triumph, find their thoughts were vain, If hosts advance, seize vantage ground, and thence the fight maintain."
+  },
+  "Flux_Optimized_Prompt": {
+    "Layered_Composition": {
+      "Foreground": "An enemy king ('எண்ணியார்') is shown looking confidently at a battle plan where his victory seems certain. His thoughts are visualized as a solid, golden crown of victory forming above his head.",
+      "Midground": "On the actual battlefield, the opposing army ('துன்னியார்') has not followed his plan. They have instead seized a strategic high ground ('இடனறிந்து') and launched a surprise attack.",
+      "Background": "The golden crown of victory above the enemy king's head is shown shattering into dust ('எண்ணம் இழப்பர்') as his plans are foiled by the strategic genius of his opponent."
+    },
+    "Art_Direction": {
+      "Subject_and_Action": "Those who choose the right place to engage in action can shatter the confident plans of their enemies.",
+      "Symbolic_Motifs": "The shattering crown is the key metaphor for the enemy's lost hope of victory. The high ground represents the strategic advantage of place.",
+      "Mood_and_Emotion": "Strategic, outmaneuvered, surprising, triumphant.",
+      "Lighting_and_Color": "The enemy king's planning room is dark and conspiratorial. The battlefield is bright and dynamic. The shattering crown gives off a dramatic, final spark.",
+      "Technical_Cues": {
+        "Camera": "A split-screen or cross-cut between the enemy king's shock and the successful maneuver on the battlefield.",
+        "Resolution": "8K, cinematic, with a dramatic particle effect for the shattering crown.",
+        "Lighting": "High-contrast lighting to differentiate between the two scenes.",
+        "Art_Genre": "Historical epic, with symbolic elements."
+      }
+    },
+    "Cultural_Anchors": [
+      "Shattering the enemy's thought ('எண்ணியார் எண்ணம் இழப்பர்')",
+      "Knowing the place ('இடனறிந்து')",
+      "The power of strategic surprise."
+    ]
+  },
+  "Negative_Prompt": "enemy king succeeding, attackers on low ground, text artifacts, blurry.",
+  "Hyperparameters": {
+    "variant": "dev",
+    "steps": 45,
+    "cfg_scale": 8,
+    "seed": "Explore variations for the shattering crown effect."
+  }
+}

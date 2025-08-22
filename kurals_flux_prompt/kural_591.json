@@ -1,0 +1,39 @@
+{
+  "Kural_Info": {
+    "Number": 591,
+    "Chapter": "ஊக்கமுடைமை (Energy)",
+    "Tamil_Text": "உடையர் எனப்படுவது ஊக்கம் அஃதில்லார் உடையது உடையரோ மற்று.",
+    "English_Meaning": "The possession of energy of soul is true property; They nothing own who own not that."
+  },
+  "Flux_Optimized_Prompt": {
+    "Layered_Composition": {
+      "Foreground": "A split composition. On the left, a person possesses only one thing: a powerful, fiery, lion-like aura of energy and determination ('ஊக்கம்'). They are considered truly wealthy ('உடையர்').",
+      "Midground": "On the right, another person is surrounded by vast material possessions—gold, land, castles—but they themselves have a listless, apathetic posture, lacking the fiery aura of energy ('அஃதில்லார்').",
+      "Background": "The image poses a question: does the person on the right truly own their possessions ('உடையது உடையரோ'), or do the possessions own them? Their lack of energy renders their ownership meaningless."
+    },
+    "Art_Direction": {
+      "Subject_and_Action": "Energy is the only true form of ownership. Those who lack it cannot be said to truly possess anything, no matter how much material wealth they have.",
+      "Symbolic_Motifs": "The fiery, lion-like aura is the visual representation of 'Ookkam' (Energy). The contrast between the energetic-but-poor figure and the listless-but-rich figure is the central theme.",
+      "Mood_and_Emotion": "Energetic, powerful, contrasting, philosophical.",
+      "Lighting_and_Color": "The left side is lit by the warm, powerful, fiery glow of the aura. The right side is filled with the cold, lifeless glint of metal and stone.",
+      "Technical_Cues": {
+        "Camera": "A balanced, side-by-side shot that forces the viewer to question the nature of true ownership.",
+        "Resolution": "8K, with powerful ethereal effects for the aura.",
+        "Lighting": "High-contrast lighting to differentiate between the 'warm' wealth of energy and the 'cold' wealth of materials.",
+        "Art_Genre": "Symbolic art, fantasy realism."
+      }
+    },
+    "Cultural_Anchors": [
+      "Energy as true possession ('உடையர் எனப்படுவது ஊக்கம்')",
+      "The meaninglessness of possessions without energy.",
+      "The concept of spiritual vs. material wealth."
+    ]
+  },
+  "Negative_Prompt": "listless person with an aura, energetic person hoarding gold, text artifacts, blurry.",
+  "Hyperparameters": {
+    "variant": "pro",
+    "steps": 50,
+    "cfg_scale": 8,
+    "seed": "Explore variations for the fiery lion-aura."
+  }
+}

@@ -1,0 +1,38 @@
+{
+  "Kural_Info": {
+    "Number": 1325,
+    "Chapter": "ஊடலுவகை (The Pleasures of Temporary Variance)",
+    "Tamil_Text": "தவறிலர் ஆயினும் தாம்வீழ்வார் மென்றோள்அகறலின் ஆங்கொன் றுடைத்து.",
+    "English_Meaning": "Though free from defects, men feel pleased when they cannot embrace the delicate shoulders of those whom they love."
+  },
+  "Flux_Optimized_Prompt": {
+    "Layered_Composition": {
+      "Foreground": "A lover is shown. He is completely faultless ('தவறிலர் ஆயினும்').",
+      "Midground": "His beloved, whom he adores ('தாம் வீழ்வார்'), is in a state of pout and is keeping her delicate shoulders away from him ('மென் தோள் அகறல்').",
+      "Background": "Despite the fact that he is being denied her embrace, a subtle, strange, and unique pleasure is visible on his face. The state of being temporarily separated from her shoulders holds its own special kind of sweetness ('ஆங்கு ஒன்று உடைத்து')."
+    },
+    "Art_Direction": {
+      "Subject_and_Action": "Even when he is completely without fault, there is a unique kind of pleasure for a man in the experience of his beloved temporarily withholding her embrace.",
+      "Symbolic_Motifs": "The key is the man's expression. It should not be frustration, but a complex, subtle smile of someone enjoying the sweet tension of the game of love. The pleasure is in the longing and the anticipation of reconciliation.",
+      "Mood_and_Emotion": "Subtle pleasure, sweet tension, anticipation, sophisticated.",
+      "Lighting_and_Color": "A soft, romantic, interior light. The scene is quiet and intimate. The focus is entirely on the subtle, knowing expression on the man's face.",
+      "Technical_Cues": {
+        "Camera": "A very close, intimate shot on the man's face, capturing the subtle and unique pleasure he is feeling.",
+        "Resolution": "8K, ultra-realistic, with a masterful focus on nuanced, subtle acting.",
+        "Lighting": "Soft, character-focused lighting.",
+        "Art_Genre": "Psychological realism, intimate portraiture."
+      },
+      "Cultural_Anchors": [
+        "Though they are faultless (தவறிலர் ஆயினும்)",
+        "There is a certain something (pleasure) in the separation from her soft shoulders (மென் தோள் அகறலின் ஆங்கு ஒன்று உடைத்து)"
+      ]
+    },
+    "Negative_Prompt": "angry man, sad man, text artifacts.",
+    "Hyperparameters": {
+      "variant": "pro",
+      "steps": 50,
+      "cfg_scale": 7,
+      "seed": "Focus on the man's subtle expression of enjoying the tension."
+    }
+  }
+}

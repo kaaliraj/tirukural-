@@ -1,0 +1,39 @@
+{
+  "Kural_Info": {
+    "Number": 652,
+    "Chapter": "வினைத்தூய்மை (Purity in Action)",
+    "Tamil_Text": "என்றும் ஒருவுதல் வேண்டும் புகழொடு நன்றி பயவா வினை.",
+    "English_Meaning": "Ministers should at all times avoid acts which, in addition to fame, yield no benefit (for the future)."
+  },
+  "Flux_Optimized_Prompt": {
+    "Layered_Composition": {
+      "Foreground": "A person is presented with a choice between two actions.",
+      "Midground": "One action is a grand, heroic deed that will bring them instant fame ('புகழ்'), represented by a shining but hollow trophy. However, it yields no lasting good or benefit ('நன்றி பயவா'), shown by the barren ground around it. The other action is simpler, less glorious, but it results in a small, healthy fruit tree growing.",
+      "Background": "The wise person is shown actively turning their back on the path to the hollow trophy and choosing the path of the fruitful action, demonstrating their desire for substance over show ('ஒருவுதல் வேண்டும்')."
+    },
+    "Art_Direction": {
+      "Subject_and_Action": "One must always avoid actions that bring fame but yield no real, lasting benefit.",
+      "Symbolic_Motifs": "The hollow, shining trophy represents fame without benefit. The small, fruitful tree represents actions with true, lasting goodness. The choice between them is the core narrative.",
+      "Mood_and_Emotion": "Discerning, wise, long-sighted, prioritizing substance over style.",
+      "Lighting_and_Color": "The hollow trophy has a bright, flashy, but cold light. The fruitful tree and its path have a warm, gentle, and life-giving light.",
+      "Technical_Cues": {
+        "Camera": "A shot from behind the person, emphasizing the two paths and the choice being made.",
+        "Resolution": "8K, with a clear visual distinction between the two outcomes.",
+        "Lighting": "Contrasting color temperatures to symbolize the different values of the two choices.",
+        "Art_Genre": "Allegorical realism."
+      }
+    },
+    "Cultural_Anchors": [
+      "Actions that yield no benefit ('நன்றி பயவா வினை')",
+      "Avoiding actions that only bring fame",
+      "The importance of substantive action."
+    ]
+  },
+  "Negative_Prompt": "person choosing the trophy, fruitful trophy, text artifacts, blurry.",
+  "Hyperparameters": {
+    "variant": "dev",
+    "steps": 40,
+    "cfg_scale": 8,
+    "seed": "Explore variations for the hollow trophy."
+  }
+}

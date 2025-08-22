@@ -1,0 +1,38 @@
+{
+  "Kural_Info": {
+    "Number": 1284,
+    "Chapter": "புணர்ச்சிவிதும்பல் (Desire for Reunion)",
+    "Tamil_Text": "ஊடற்கண் சென்றேன்மன் தோழி அதுமறந்துகூடற்கண் சென்றதுஎன் னெஞ்சு.",
+    "English_Meaning": "I went with my mind made up to sulk a little, my friend; But my heart, forgetting all, rushed to embrace him."
+  },
+  "Flux_Optimized_Prompt": {
+    "Layered_Composition": {
+      "Foreground": "A woman is shown walking towards her lover with an expression of feigned anger, determined to pout ('ஊடற்கண் சென்றேன்').",
+      "Midground": "Her heart ('என் நெஞ்சு') is visualized as a separate, eager, and impatient entity, perhaps a glowing, bird-like creature tethered to her.",
+      "Background": "The moment she sees her lover, her heart completely forgets its intention to be angry ('அது மறந்து'). It breaks its tethers and flies ahead of her, rushing to embrace him ('கூடற்கண் சென்றது') before her body can even catch up. Her mind's plan is completely overruled by her heart's desire."
+    },
+    "Art_Direction": {
+      "Subject_and_Action": "The woman's humorous failure to maintain her feigned anger: her mind intends to pout, but her heart forgets the plan and rushes forward to unite with her beloved.",
+      "Symbolic_Motifs": "The heart as an impatient, separate being that betrays the mind's plan is the central, charming metaphor. The broken tethers represent the overwhelming power of her love over her resolve.",
+      "Mood_and_Emotion": "Impulsive, loving, impatient, humorous, heartfelt.",
+      "Lighting_and_Color": "A warm, romantic light. The heart is a brilliant, glowing, golden form. Its rush forward is a streak of joyful light, leaving the woman's pouting expression to dissolve into a smile.",
+      "Technical_Cues": {
+        "Camera": "A dynamic shot that captures the woman's initial resolve, and then the comical, eager rush of her personified heart as it overtakes her.",
+        "Resolution": "8K, ultra-realistic, with magical effects for the glowing, bird-like heart.",
+        "Lighting": "Warm and joyful lighting.",
+        "Art_Genre": "Romantic comedy, magical realism."
+      },
+      "Cultural_Anchors": [
+        "I went to pout (ஊடற்கண் சென்றேன்)",
+        "Forgetting that, my heart went to unite (அது மறந்து கூடற்கண் சென்றது என் நெஞ்சு)"
+      ]
+    },
+    "Negative_Prompt": "woman staying angry, static heart, text artifacts.",
+    "Hyperparameters": {
+      "variant": "dev",
+      "steps": 40,
+      "cfg_scale": 7,
+      "seed": "Explore the design of the 'impatient, bird-like heart'."
+    }
+  }
+}

@@ -1,0 +1,39 @@
+{
+  "Kural_Info": {
+    "Number": 518,
+    "Chapter": "தெரிந்துவினையாடல் (Selection and Employment)",
+    "Tamil_Text": "வினைக்குரிமை நாடிய பின்றை அவனை அதற்குரிய னாகச் செயல்.",
+    "English_Meaning": "Having considered what work a man is fit for, let (the king) employ him in that work."
+  },
+  "Flux_Optimized_Prompt": {
+    "Layered_Composition": {
+      "Foreground": "A surreal scene where a group of people are shown with unique, symbolic keysholes on their chests.",
+      "Midground": "A wise ruler is holding a set of keys, each key shaped like a specific task (e.g., a sword-shaped key for a general, a scroll-shaped key for a minister, a hammer-shaped key for a craftsman). The ruler is carefully matching the right key to the right keyhole on each person ('வினைக்குரிமை நாடிய').",
+      "Background": "Once the right key is used, the person is 'unlocked' and becomes a master of that task, glowing with competence and purpose ('அதற்குரியனாகச் செயல்'). The kingdom is shown running like a perfectly-oiled machine as a result."
+    },
+    "Art_Direction": {
+      "Subject_and_Action": "Discover each person's natural fitness for a particular task, and then empower them to perform that task.",
+      "Symbolic_Motifs": "The people as 'locks' and tasks as 'keys' is the central metaphor. The act of matching them represents discerning a person's fitness for a role. The 'unlocking' symbolizes their empowerment and success.",
+      "Mood_and_Emotion": "Discerning, empowering, efficient, harmonious.",
+      "Lighting_and_Color": "A bright, clear light. The keys and the 'unlocked' people glow with a golden light of purpose. The colors are orderly and harmonious.",
+      "Technical_Cues": {
+        "Camera": "A wide shot that shows the ruler skillfully matching several keys to several people, demonstrating the system at work.",
+        "Resolution": "8K, with intricate designs for the keys and keyholes.",
+        "Lighting": "Clean, high-key lighting.",
+        "Art_Genre": "Surrealism, conceptual art."
+      }
+    },
+    "Cultural_Anchors": [
+      "Discerning fitness for a task ('வினைக்குரிமை நாடிய')",
+      "Empowering them in that task ('அதற்குரியனாகச் செயல்')",
+      "The principle of 'right person for the right job'."
+    ]
+  },
+  "Negative_Prompt": "wrong keys in keyholes, people remaining locked, chaotic kingdom, text artifacts.",
+  "Hyperparameters": {
+    "variant": "dev",
+    "steps": 40,
+    "cfg_scale": 8,
+    "seed": "Explore variations for the design of the symbolic keys."
+  }
+}

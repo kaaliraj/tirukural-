@@ -1,0 +1,39 @@
+{
+  "Kural_Info": {
+    "Number": 482,
+    "Chapter": "காலமறிதல் (Knowing the fitting Time)",
+    "Tamil_Text": "பருவத்தோடு ஒட்ட ஒழுகல் திருவினைத் தீராமை ஆர்க்குங் கயிறு.",
+    "English_Meaning": "Acting at the right season, is a cord that will immoveably bind success (to a king)."
+  },
+  "Flux_Optimized_Prompt": {
+    "Layered_Composition": {
+      "Foreground": "A figure, representing a ruler or strategist, is shown performing an action in perfect harmony with the season. For example, planting a seed exactly as the spring rains begin.",
+      "Midground": "From this timely action ('பருவத்தோடு ஒட்ட ஒழுகல்'), a magical, glowing golden cord ('கயிறு') emerges. This cord reaches out and lassoes a radiant, ethereal goddess representing Fortune or Success ('திரு').",
+      "Background": "The goddess of Fortune, now securely bound by the golden cord, is being drawn towards the person, unable to leave ('தீராமை'), ensuring their prosperity."
+    },
+    "Art_Direction": {
+      "Subject_and_Action": "Acting in harmony with the right season or opportune moment is the infallible cord that binds success and fortune to oneself.",
+      "Symbolic_Motifs": "The timely action (e.g., planting in spring) symbolizes acting with the season. The glowing golden cord is the literal representation of the 'binding cord'. The goddess is the personification of Fortune/Success ('திரு').",
+      "Mood_and_Emotion": "Opportune, magical, prosperous, inevitable success, harmonious.",
+      "Lighting_and_Color": "A bright, hopeful, and prosperous light. The golden cord and the goddess of Fortune are the main sources of a divine, radiant glow. The colors are vibrant and positive.",
+      "Technical_Cues": {
+        "Camera": "A wide, cinematic shot that captures the action, the formation of the cord, and the binding of the goddess.",
+        "Resolution": "8K, with a mythical, painterly quality.",
+        "Lighting": "Magical, radiant lighting that gives the scene an epic feel.",
+        "Art_Genre": "Mythological art, high-fantasy realism."
+      }
+    },
+    "Cultural_Anchors": [
+      "Acting with the Season ('பருவத்தோடு ஒட்ட ஒழுகல்')",
+      "Fortune/Success ('திரு')",
+      "The Binding Cord ('ஆர்க்கும் கயிறு')"
+    ]
+  },
+  "Negative_Prompt": "acting out of season, goddess escaping, broken cord, text artifacts, dark and gloomy.",
+  "Hyperparameters": {
+    "variant": "pro",
+    "steps": 50,
+    "cfg_scale": 8,
+    "seed": "Explore variations for the design of the Goddess of Fortune."
+  }
+}

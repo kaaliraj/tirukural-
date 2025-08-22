@@ -1,0 +1,33 @@
+{
+  "Kural_Info": {
+    "Number": 1277,
+    "Chapter": "குறிப்பறிவுறுத்தல் (The Reading of the Signs)",
+    "Tamil_Text": "தண்ணந் துறைவன் தணந்தமை நம்மினும்முன்னம் உணர்ந்த வளை.",
+    "English_Meaning": "My severance from the lord of this cool shore, My very armlets told me long before."
+  },
+  "Flux_Optimized_Prompt": {
+    "Layered_Composition": {
+      "Foreground": "A woman stands by a cool seashore. The focus is on her arm, where her bracelets ('Valai') are visibly loose.",
+      "Midground": "Her expression is one of dawning realization. She is looking at her loose bracelets, understanding that they sensed her lover's ('Thannanthuraivan') departure before her own mind did ('Namminum Munnam Unarntha').",
+      "Background": "The bracelets are subtly glowing or vibrating, as if they are sentient beings that have perceived the emotional shift and are communicating it to her. Her lover is a distant figure leaving along the shore."
+    },
+    "Art_Direction": {
+      "Subject_and_Action": "A woman realizes that her own bracelets, by becoming loose on her pining arm, understood and announced her lover's departure even before she consciously did.",
+      "Symbolic_Motifs": "The sentient, prophetic bracelets are the central image. The body's intuitive knowledge preceding the mind's conscious understanding.",
+      "Mood_and_Emotion": "Melancholy, intuitive, a sense of sad discovery.",
+      "Lighting_and_Color": "The cool, soft light of a misty seashore at dawn or dusk. The bracelets have a faint, knowing, magical glow. The palette is dominated by cool blues, grays, and the muted gold of the jewelry."
+    },
+    "Technical_Cues": {
+      "Camera": "A medium shot that focuses on her face and arm, clearly linking her realization to the state of her bracelets.",
+      "Resolution": "8K, mystical realism, with a focus on the subtle glow of the bracelets.",
+      "Lighting": "Soft, atmospheric lighting that enhances the melancholic and intuitive mood.",
+      "Art_Genre": "Romantic realism with a touch of the supernatural."
+    },
+    "Cultural_Anchors": [
+      "The loosening of bangles as a sign of pining (வளை நெகிழ்தல்)",
+      "The body's intuition",
+      "தண்ணந் துறைவன் (Lord of the cool seashore)"
+    ]
+  },
+  "Negative_Prompt": "tight bracelets, a happy woman, a lover who is present, text artifacts, modern jewelry, cartoonish."
+}

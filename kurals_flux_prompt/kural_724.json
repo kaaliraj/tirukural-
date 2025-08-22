@@ -1,0 +1,39 @@
+{
+  "Kural_Info": {
+    "Number": 724,
+    "Chapter": "அவையஞ்சாமை (Not to dread the Council)",
+    "Tamil_Text": "கற்றார்முன் கற்ற செலச்சொல்லித் தாம்கற்ற மிக்காருள் மிக்க கொளல்.",
+    "English_Meaning": "(Ministers) should agreeably set forth their acquirements before the learned and acquire more (knowledge) from their superiors (in learning)."
+  },
+  "Flux_Optimized_Prompt": {
+    "Layered_Composition": {
+      "Foreground": "A scholar is shown in a two-part action. First, they are speaking confidently before an assembly of their learned peers ('கற்றார்முன்'), effectively sharing their own knowledge.",
+      "Midground": "Second, after speaking, they are shown humbly listening to those among the assembly who are even more learned than they are ('மிக்காருள்'). They are shown actively absorbing new knowledge from these superiors, visualized as streams of light flowing from the masters to them ('மிக்க கொளல்').",
+      "Background": "A dynamic, ever-growing library or hall of wisdom, where knowledge is both shared and received in a continuous, virtuous cycle."
+    },
+    "Art_Direction": {
+      "Subject_and_Action": "The ideal scholar's process: first, confidently share what you know with your peers; then, humbly learn more from those who know more than you.",
+      "Symbolic_Motifs": "The two actions—speaking and then listening/absorbing—define the cycle of true learning. The streams of light represent the acquisition of new, higher knowledge.",
+      "Mood_and_Emotion": "Confident yet humble, a continuous learner, respectful.",
+      "Lighting_and_Color": "A bright, intellectual light. The streams of new knowledge are a brilliant, pure white light, signifying a higher level of wisdom.",
+      "Technical_Cues": {
+        "Camera": "A narrative image that shows the scholar in both the role of teacher and student.",
+        "Resolution": "8K, with a focus on the expressive faces of learning and teaching.",
+        "Lighting": "Clear, academic lighting.",
+        "Art_Genre": "Historical realism, with symbolic light effects."
+      }
+    },
+    "Cultural_Anchors": [
+      "Sharing one's learning ('கற்ற செலச்சொல்லி')",
+      "Acquiring more from superiors ('மிக்காருள் மிக்க கொளல்')",
+      "The cyclical nature of scholarship."
+    ]
+  },
+  "Negative_Prompt": "scholar only talking, scholar refusing to listen, text artifacts, dark library.",
+  "Hyperparameters": {
+    "variant": "dev",
+    "steps": 45,
+    "cfg_scale": 8,
+    "seed": "Explore variations for the streams of light."
+  }
+}

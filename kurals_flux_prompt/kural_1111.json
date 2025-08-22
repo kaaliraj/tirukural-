@@ -1,0 +1,38 @@
+{
+  "Kural_Info": {
+    "Number": 1111,
+    "Chapter": "நலம்புனைந்துரைத்தல் (The Praise of her Beauty)",
+    "Tamil_Text": "நன்னீரை வாழி அனிச்சமே நின்னினும்மென்னீரள் யாம்வீழ் பவள்.",
+    "English_Meaning": "O flower of the sensitive plant! than thee More tender's the maiden beloved by me."
+  },
+  "Flux_Optimized_Prompt": {
+    "Layered_Composition": {
+      "Foreground": "A lover is shown speaking to a beautiful, incredibly delicate Anicham flower.",
+      "Midground": "He praises the flower for its good nature and tenderness ('நன்னீரை வாழி அனிச்சமே').",
+      "Background": "However, his praise is a form of comparison. A vision of his beloved appears beside the flower, and she is depicted as being even more ethereally delicate and tender ('நின்னினும் மென்னீரள்'). The flower, in comparison to her, looks almost coarse and hardy."
+    },
+    "Art_Direction": {
+      "Subject_and_Action": "The lover addresses the Anicham flower, the symbol of ultimate delicacy, only to tell it that his beloved is even more tender and delicate than it is.",
+      "Symbolic_Motifs": "The key is the comparison. The Anicham flower must be depicted as exquisitely delicate, which makes the statement about his beloved's superior delicacy even more powerful. Her tenderness is beyond even the most extreme natural example.",
+      "Mood_and_Emotion": "Adoring, hyperbolic, tender, delicate.",
+      "Lighting_and_Color": "A very soft, gentle, and delicate light. The palette is made of soft pastels. The maiden's form is almost translucent with delicacy.",
+      "Technical_Cues": {
+        "Camera": "A macro shot that captures the extreme delicacy of the Anicham flower, then racks focus to the even more delicate vision of the beloved.",
+        "Resolution": "8K, hyper-realistic, with a focus on capturing textures of extreme fragility.",
+        "Lighting": "Soft, diffused lighting to emphasize tenderness.",
+        "Art_Genre": "Romantic still life, with a fantasy element."
+      },
+      "Cultural_Anchors": [
+        "The Anicham flower (அனிச்சம்)",
+        "She is of a more tender nature than you (நின்னினும் மென்னீரள்)"
+      ]
+    },
+    "Negative_Prompt": "hardy flower, tough-looking maiden, text artifacts.",
+    "Hyperparameters": {
+      "variant": "dev",
+      "steps": 40,
+      "cfg_scale": 7,
+      "seed": "Explore the visual of 'superior delicacy'."
+    }
+  }
+}

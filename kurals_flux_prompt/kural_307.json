@@ -1,0 +1,38 @@
+{
+  "Kural_Info": {
+    "Number": 307,
+    "Chapter": "வெகுளாமை (Restraining Anger)",
+    "Tamil_Text": "சினத்தைப் பொருளென்று கொண்டவன் கேடுநிலத்தறைந்தான் கைபிழையா தற்று.",
+    "English_Meaning": "Destruction will come upon him who regards anger as a good thing, as surely as the hand of him who strikes the ground will not fail."
+  },
+  "Flux_Optimized_Prompt": {
+    "Layered_Composition": {
+      "Foreground": "A split composition illustrating an inevitable consequence.",
+      "Midground": "On the left, a foolish and angry person is shown striking the hard, stone ground with their bare fist ('நிலத்து அறைந்தான் கை'). The immediate, certain result is shown: their hand is broken and bleeding. The result is inescapable ('பிழையாது').",
+      "Background": "On the right, a person is shown cherishing their anger as a valuable and useful thing ('சினத்தைப் பொருள் என்று கொண்டவன்'). In the same way, their own ruin and destruction ('கேடு') is shown as the immediate, certain, and inescapable consequence of this foolish belief."
+    },
+    "Art_Direction": {
+      "Subject_and_Action": "A powerful simile: the ruin of a person who values their own anger is as certain and self-inflicted as the pain of a person who punches the ground.",
+      "Symbolic_Motifs": "The parallel between the physical self-harm and the spiritual/worldly self-harm is the key. In both cases, the act is foolish and the painful result is absolutely certain. The ruin is not an accident, but a direct consequence of the action.",
+      "Mood_and_Emotion": "Inevitable, self-inflicted, certain, foolish.",
+      "Lighting_and_Color": "A harsh, unforgiving light illuminates both scenes. The palette is stark and realistic, emphasizing the brutal, physical reality of the consequences.",
+      "Technical_Cues": {
+        "Camera": "A clear, comparative diptych that shows the two acts of self-harm side-by-side.",
+        "Resolution": "8K, hyper-realistic, with a wince-inducing focus on the broken hand.",
+        "Lighting": "Harsh, direct lighting to show that there is no hiding from these consequences.",
+        "Art_Genre": "Gritty realism."
+      },
+      "Cultural_Anchors": [
+        "The ruin of him who considers anger a thing of value (சினத்தைப் பொருள் என்று கொண்டவன் கேடு)",
+        "Is as certain as the hand of he who strikes the ground will not fail (to be injured) (நிலத்து அறைந்தான் கை பிழையாதற்று)"
+      ]
+    },
+    "Negative_Prompt": "hand being fine, person profiting from anger, text artifacts.",
+    "Hyperparameters": {
+      "variant": "dev",
+      "steps": 45,
+      "cfg_scale": 9,
+      "seed": "Focus on the realistic depiction of the self-inflicted injury."
+    }
+  }
+}

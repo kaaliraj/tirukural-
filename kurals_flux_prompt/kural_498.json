@@ -1,0 +1,39 @@
+{
+  "Kural_Info": {
+    "Number": 498,
+    "Chapter": "இடனறிதல் (Knowing the Place)",
+    "Tamil_Text": "சிறுபடையான் செல்லிடம் சேரின் உறுபடையான் ஊக்கம் அழிந்து விடும்.",
+    "English_Meaning": "The power of one who has a large army will perish, if he goes into ground where only a small army can act."
+  },
+  "Flux_Optimized_Prompt": {
+    "Layered_Composition": {
+      "Foreground": "A large, powerful army ('உறுபடையான்') is being forced to march through a narrow, treacherous canyon ('செல்லிடம்'), which is the territory of a much smaller force.",
+      "Midground": "The soldiers of the large army look cramped, disorganized, and demoralized. Their banners are tangled, and their powerful war machines are useless in the confined space. Their enthusiasm and morale ('ஊக்கம்') are visibly draining away.",
+      "Background": "The small army ('சிறுபடையான்') is not even fully visible, just hinted at on the cliffs above, showing that the place itself is defeating the large army before a battle even begins."
+    },
+    "Art_Direction": {
+      "Subject_and_Action": "Even a massive army will lose its strength and spirit if it enters a confined space where its numbers are a disadvantage.",
+      "Symbolic_Motifs": "The cramped, disorganized state of the large army in the canyon is the key visual. The contrast between their great numbers and their current helplessness highlights the power of terrain.",
+      "Mood_and_Emotion": "Claustrophobic, demoralizing, trapped, strategic failure.",
+      "Lighting_and_Color": "The canyon is dark and oppressive, with only narrow slits of light from above. The colors are muted and dusty, reflecting the army's low morale."
+    },
+    "Technical_Cues": {
+      "Camera": "A high-angle shot from the top of the canyon, looking down at the trapped army to emphasize their vulnerability and confinement.",
+      "Resolution": "8K, cinematic, with a focus on the expressions of frustration on the soldiers' faces.",
+      "Lighting": "Oppressive, shadowy lighting.",
+      "Art_Genre": "Epic historical realism."
+    },
+    "Cultural_Anchors": [
+      "Large army in a small place ('உறுபடையான் செல்லிடம் சேரின்')",
+      "Loss of morale ('ஊக்கம் அழிந்து விடும்')",
+      "The strategic importance of terrain."
+    ]
+  },
+  "Negative_Prompt": "large army moving easily, happy soldiers, open field, text artifacts, blurry.",
+  "Hyperparameters": {
+    "variant": "dev",
+    "steps": 45,
+    "cfg_scale": 8,
+    "seed": "Explore variations for the canyon walls."
+  }
+}

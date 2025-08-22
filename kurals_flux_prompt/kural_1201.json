@@ -1,0 +1,34 @@
+{
+  "Kural_Info": {
+    "Number": 1201,
+    "Chapter": "நினைந்தவர்புலம்பல் (Sad Memories)",
+    "Tamil_Text": "உள்ளினும் தீராப் பெருமகிழ் செய்தலால்கள்ளினும் காமம் இனிது.",
+    "English_Meaning": "From thought of her unfailing gladness springs, Sweeter than palm-tree wine the joy love brings."
+  },
+  "Flux_Optimized_Prompt": {
+    "Layered_Composition": {
+      "Foreground": "A person is sitting alone, deep in thought. A radiant, golden joy ('Perumakizh') is visibly emanating from their mind and heart as they simply think of their beloved ('Ullinum').",
+      "Midground": "In contrast, a goblet of the finest wine ('Kal') sits on a table nearby, but it appears dull and lifeless compared to the inner joy of the person.",
+      "Background": "The room is filled with a warm, magical glow that originates from the person's thoughts, transforming a simple space into a place of immense happiness."
+    },
+    "Art_Direction": {
+      "Subject_and_Action": "The memory or mere thought of a beloved brings a greater, more profound, and unending joy than even the finest wine.",
+      "Symbolic_Motifs": "The inner light of joyful memory overpowering the mundane allure of wine. The joy is shown as a radiant aura, a more powerful intoxicant.",
+      "Mood_and_Emotion": "Blissful, intoxicated by memory, serene, deeply happy.",
+      "Lighting_and_Color": "The primary light source is the golden, joyful glow from the person's thoughts. The rest of the scene is in softer, dimmer light, making the inner joy the clear focus. The palette is warm and golden."
+    },
+    "Technical_Cues": {
+      "Camera": "Intimate medium shot, focusing on the person's blissful expression.",
+      "Resolution": "8K, mystical realism, with beautiful volumetric light effects for the aura of joy.",
+      "Lighting": "Radiant, internal lighting that feels warm and intoxicating.",
+      "Art_Genre": "Romantic realism with a touch of magic."
+    },
+    "Cultural_Anchors": [
+      "நினைத்தல் (Thinking/Remembering)",
+      "கள் (Wine)",
+      "காமம் (Love)",
+      "The superiority of emotional intoxication over physical intoxication"
+    ]
+  },
+  "Negative_Prompt": "person drinking wine happily, sad person thinking, modern setting, text artifacts, cartoonish."
+}

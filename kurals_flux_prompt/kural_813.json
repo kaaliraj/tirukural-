@@ -1,0 +1,40 @@
+{
+  "Kural_Info": {
+    "Number": 813,
+    "Chapter": "தீ நட்பு (Evil Friendship)",
+    "Tamil_Text": "உறுவது சீர்தூக்கும் நட்பும் பெறுவதுகொள்வாரும் கள்வரும் நேர்.",
+    "English_Meaning": "Friendship who calculate the profits (of their friendship), prostitutes who are bent on obtaining their gains, and thieves are (all) of the same character."
+  },
+  "Flux_Optimized_Prompt": {
+    "Layered_Composition": {
+      "Foreground": "Three figures are shown standing side-by-side, their underlying nature revealed to be the same.",
+      "Midground": "The first figure is a 'friend' who is using a scale to weigh the profit of the friendship ('உறுவது சீர் தூக்கும் நட்பு'). The second is a courtesan ('பெறுவது கொள்வார்') who is accepting payment for their affection. The third is a thief ('கள்வர்') who is stealing a purse.",
+      "Background": "Although their methods and appearances differ, their inner spiritual essence is shown to be identical. An ethereal overlay shows all three figures having the exact same dark, grasping, shadowy aura. They are 'of the same character' ('நேர்')."
+    },
+    "Art_Direction": {
+      "Subject_and_Action": "A powerful declaration that three types of people are morally equivalent: friends who calculate the benefit of the friendship, courtesans who are paid for affection, and thieves.",
+      "Symbolic_Motifs": "The identical shadowy aura is the key visual that unites the three figures, revealing their common inner nature despite their different social roles. The scale, the coins, and the stolen purse are their respective tools, but the underlying motive is the same.",
+      "Mood_and_Emotion": "Judgmental, revealing, morally equivalent, corrupt.",
+      "Lighting_and_Color": "A harsh, judgmental light illuminates the scene, exposing the true nature of the three figures. The shadowy aura is a dark, sickly color, representing their shared corruption.",
+      "Technical_Cues": {
+        "Camera": "A confrontational, eye-level shot that presents the three figures as a single, unified group, forcing the viewer to accept their equivalence.",
+        "Resolution": "8K, ultra-realistic, with ethereal effects for the shared corrupt aura.",
+        "Lighting": "Harsh, revealing lighting that leaves no room for ambiguity.",
+        "Art_Genre": "Allegorical portraiture, social commentary."
+      },
+      "Cultural_Anchors": [
+        "Friendship that weighs profit (உறுவது சீர்தூக்கும் நட்பு)",
+        "Those who take payment (பெறுவது கொள்வார்)",
+        "Thieves (கள்வர்)",
+        "They are the same (நேர்)"
+      ]
+    },
+    "Negative_Prompt": "true friend, figures looking different in essence, text artifacts.",
+    "Hyperparameters": {
+      "variant": "pro",
+      "steps": 50,
+      "cfg_scale": 9,
+      "seed": "Explore the visual of the shared 'shadowy aura'."
+    }
+  }
+}

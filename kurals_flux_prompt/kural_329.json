@@ -1,0 +1,39 @@
+{
+  "Kural_Info": {
+    "Number": 329,
+    "Chapter": "கொல்லாமை (Not killing)",
+    "Tamil_Text": "கொலைவினைய ராகிய மாக்கள் புலைவினையர்புன்மை தெரிவா ரகத்து.",
+    "English_Meaning": "Men who destroy life are base men, in the estimation of those who know the nature of meanness."
+  },
+  "Flux_Optimized_Prompt": {
+    "Layered_Composition": {
+      "Foreground": "A butcher or a hunter, someone whose profession is killing ('கொலை வினையர்').",
+      "Midground": "A wise person, who understands the true nature of baseness ('புன்மை தெரிவார்'), is observing them.",
+      "Background": "In the perception of the wise person, the killer is not seen as a strong or powerful figure. Instead, they are revealed to be of the lowest, most defiled, and base caste or nature ('புலை வினையர்'). Their profession of killing has spiritually and socially degraded them to the lowest possible level in the eyes of the discerning."
+    },
+    "Art_Direction": {
+      "Subject_and_Action": "In the eyes of the wise who can discern true character, those who make a living by killing are judged to be of the lowest and most base nature.",
+      "Symbolic_Motifs": "The key is the 'vision' of the wise person. The killer might look like an ordinary person to others, but the wise see their inner, degraded state. This can be visualized as the killer having a dark, dirty, and base aura that is only visible to the sage.",
+      "Mood_and_Emotion": "Judgmental, discerning, degraded, base.",
+      "Lighting_and_Color": "A clear, discerning light. The wise person is in a pure, analytical light. The killer, through the sage's eyes, is seen to be shrouded in a dark, grimy, and low-status aura.",
+      "Technical_Cues": {
+        "Camera": "A shot from the wise person's perspective, where their gaze is shown to penetrate the killer's ordinary exterior and reveal their base, inner nature.",
+        "Resolution": "8K, ultra-realistic, focusing on the contrast between the killer's appearance and their perceived essence.",
+        "Lighting": "Symbolic lighting to represent the act of wise perception.",
+        "Art_Genre": "Psychological realism, with a mystical element."
+      },
+      "Cultural_Anchors": [
+        "Those whose profession is killing (கொலை வினையர்)",
+        "Are men of a base profession/caste (புலை வினையர்)",
+        "In the minds of those who know baseness (புன்மை தெரிவார் அகத்து)"
+      ]
+    },
+    "Negative_Prompt": "killer looking noble, wise person looking impressed, text artifacts.",
+    "Hyperparameters": {
+      "variant": "dev",
+      "steps": 45,
+      "cfg_scale": 8,
+      "seed": "Explore the visual of the 'base aura' seen by the sage."
+    }
+  }
+}

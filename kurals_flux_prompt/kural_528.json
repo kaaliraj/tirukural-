@@ -1,0 +1,39 @@
+{
+  "Kural_Info": {
+    "Number": 528,
+    "Chapter": "சுற்றந்தழால் (Cherishing Kinsmen)",
+    "Tamil_Text": "பொதுநோக்கான் வேந்தன் வரிசையா நோக்கின் அதுநோக்கி வாழ்வார் பலர்.",
+    "English_Meaning": "If the king does not look on all alike, but looks on each man according to his merit, many relatives will live near him."
+  },
+  "Flux_Optimized_Prompt": {
+    "Layered_Composition": {
+      "Foreground": "A wise king is on his throne, distributing rewards and attention. He is not looking at everyone with the same general gaze ('பொதுநோக்கான்').",
+      "Midground": "Instead, he is shown carefully assessing each of his relatives and subjects individually, using a magical monocle that reveals their true merit. He is giving greater honor to those with greater merit ('வரிசையா நோக்கின்').",
+      "Background": "Because of this fair and merit-based system of recognition, a large and diverse group of talented and loyal relatives and supporters ('பலர்') are drawn to his court, eager to live and serve under him ('அதுநோக்கி வாழ்வார்')."
+    },
+    "Art_Direction": {
+      "Subject_and_Action": "A king who does not treat everyone the same, but instead recognizes and rewards each person according to their individual merit, will attract many to live and thrive under his rule.",
+      "Symbolic_Motifs": "The magical monocle of merit is a symbol for his discerning gaze. The varying levels of rewards he gives out show his non-uniform but fair judgment.",
+      "Mood_and_Emotion": "Discerning, meritocratic, just, attractive (to talent).",
+      "Lighting_and_Color": "A clear, just light fills the throne room. The people of higher merit have a brighter aura, which the king is recognizing. The atmosphere is one of hopeful ambition and fair play.",
+      "Technical_Cues": {
+        "Camera": "A wide shot of the court scene, focusing on the king's act of discerning judgment.",
+        "Resolution": "8K, with rich detail in the court and the diverse crowd.",
+        "Lighting": "Bright, clear lighting befitting a just court.",
+        "Art_Genre": "Grand historical painting."
+      }
+    },
+    "Cultural_Anchors": [
+      "Not looking at all alike ('பொதுநோக்கான்')",
+      "Looking according to merit ('வரிசையா நோக்கின்')",
+      "Attracting many supporters ('வாழ்வார் பலர்')"
+    ]
+  },
+  "Negative_Prompt": "king treating everyone the same, empty court, text artifacts, cartoonish.",
+  "Hyperparameters": {
+    "variant": "pro",
+    "steps": 45,
+    "cfg_scale": 8,
+    "seed": "Explore variations for the design of the merit-monocle."
+  }
+}

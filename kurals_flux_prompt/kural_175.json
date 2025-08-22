@@ -1,0 +1,38 @@
+{
+  "Kural_Info": {
+    "Number": 175,
+    "Chapter": "வெஃகாமை (Not Coveting)",
+    "Tamil_Text": "అஃகி அகன்ற அறிவென்னாம் யார்மாட்டும்வெஃகி வெறிய செயின்.",
+    "English_Meaning": "What is the advantage of extensive and accurate knowledge if a man through covetousness act senselessly towards all?."
+  },
+  "Flux_Optimized_Prompt": {
+    "Layered_Composition": {
+      "Foreground": "A scholar is shown, whose mind is a vast, expansive library, representing his sharp and broad knowledge ('అஃகி அகன்ற அறிவு').",
+      "Midground": "However, his heart is possessed by a fierce, fiery demon of Covetousness ('வெஃகி').",
+      "Background": "Driven by this demon, the scholar is shown performing a senseless, mad act ('வெறிய செயின்') against another person. The vast library of his mind is shown to be on fire, its knowledge utterly useless and being destroyed by the fire of his own covetousness. The image asks, 'What is the use of that knowledge?' ('அறிவு என்னாம்?')."
+    },
+    "Art_Direction": {
+      "Subject_and_Action": "Sharp and extensive knowledge is rendered completely useless and is destroyed if its possessor, driven by covetousness, acts with senseless fury.",
+      "Symbolic_Motifs": "The mind as a library set on fire by the demon of covetousness is a powerful and tragic metaphor. It shows that an emotional vice can completely nullify and destroy any intellectual virtue.",
+      "Mood_and_Emotion": "Self-destructive, tragic, useless knowledge, cautionary.",
+      "Lighting_and_Color": "The primary light source is the destructive, chaotic, orange and red flames of covetousness that are consuming the library of the mind. The scholar's face is lit by this fire, showing an expression of madness.",
+      "Technical_Cues": {
+        "Camera": "A surreal shot that gives a cross-section of the scholar's head, showing the vast library within being consumed by the flames of the covetous demon in his heart.",
+        "Resolution": "8K, ultra-realistic, with advanced fire and particle effects.",
+        "Lighting": "Destructive, fiery lighting.",
+        "Art_Genre": "Dark surrealism, psychological art."
+      },
+      "Cultural_Anchors": [
+        "What is the use of sharp and broad knowledge? (అஃகி அகன்ற அறிவு என்னாம்?)",
+        "If, through covetousness, one acts with madness (வெஃகி వెறிய செயின்)"
+      ]
+    },
+    "Negative_Prompt": "scholar using knowledge wisely, calm demon, text artifacts.",
+    "Hyperparameters": {
+      "variant": "pro",
+      "steps": 55,
+      "cfg_scale": 9,
+      "seed": "Explore the design of the 'demon of Covetousness'."
+    }
+  }
+}

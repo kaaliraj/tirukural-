@@ -1,0 +1,39 @@
+{
+  "Kural_Info": {
+    "Number": 264,
+    "Chapter": "தவம் (Penance)",
+    "Tamil_Text": "ஒன்னார்த் தெறலும் உவந்தாரை ஆக்கலும்எண்ணின் தவத்தான் வரும்.",
+    "English_Meaning": "If (the ascetic) desire the destruction of his enemies, or the aggrandizement of his friends, it will be effected by (the power of) his austerities."
+  },
+  "Flux_Optimized_Prompt": {
+    "Layered_Composition": {
+      "Foreground": "A powerful ascetic sits in deep meditation. Their power of penance ('தவம்') is visualized as a vast, swirling vortex of cosmic energy around them.",
+      "Midground": "The ascetic merely thinks ('எண்ணின்'), and this cosmic energy splits into two distinct forces.",
+      "Background": "One force, a dark, destructive beam of energy, strikes down and destroys their enemies ('ஒன்னார்த் தெறல்'). The other force, a bright, creative beam of golden light, flows to their friends and allies, causing them to prosper and be uplifted ('உவந்தாரை ஆக்கல்'). Both outcomes are an effortless result of their thought, powered by their penance."
+    },
+    "Art_Direction": {
+      "Subject_and_Action": "The immense power gained through penance allows an ascetic to effortlessly destroy their enemies and uplift their friends, merely by the power of their thought.",
+      "Symbolic_Motifs": "The penance as a cosmic vortex of power is the central image. The splitting of this power into destructive and creative beams demonstrates its dual potential. The effortlessness of the act—it happens merely by thinking—is key.",
+      "Mood_and_Emotion": "Omnipotent, god-like power, effortless, creative and destructive.",
+      "Lighting_and_Color": "The ascetic and their vortex are a neutral, brilliant white. The destructive beam is a terrifying black or violet. The creative beam is a life-giving, prosperous gold. The scene is one of epic, cosmic power.",
+      "Technical_Cues": {
+        "Camera": "An epic, high-angle shot that shows the meditating ascetic at the center of the vortex, unleashing the two opposing forces upon the world below.",
+        "Resolution": "8K, hyper-realistic, with spectacular, cosmic energy effects.",
+        "Lighting": "The ascetic's power is the source of all the dramatic light in the scene.",
+        "Art_Genre": "Epic high fantasy, mythological art."
+      },
+      "Cultural_Anchors": [
+        "Destroying enemies (ஒன்னார்த் தெறல்)",
+        "Uplifting friends (உவந்தாரை ஆக்கல்)",
+        "Comes from the power of penance (தவத்தான் வரும்)"
+      ]
+    },
+    "Negative_Prompt": "weak ascetic, failing powers, text artifacts.",
+    "Hyperparameters": {
+      "variant": "pro",
+      "steps": 60,
+      "cfg_scale": 10,
+      "seed": "Explore the visual of the 'cosmic vortex of power'."
+    }
+  }
+}

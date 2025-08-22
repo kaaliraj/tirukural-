@@ -1,0 +1,38 @@
+{
+  "Kural_Info": {
+    "Number": 238,
+    "Chapter": "புகழ் (Renown)",
+    "Tamil_Text": "வசையென்ப வையத்தார்க் கெல்லாம் இசையென்னும்எச்சம் பெறாஅ விடின்.",
+    "English_Meaning": "Not to beget fame will be esteemed a disgrace by the wise in this world."
+  },
+  "Flux_Optimized_Prompt": {
+    "Layered_Composition": {
+      "Foreground": "A person is shown at the end of their life.",
+      "Midground": "They have failed to leave behind a legacy of fame or a good reputation ('இசை என்னும் எச்சம் பெறாவிடின்'). This is visualized as the space behind them being completely empty and barren. They have left no positive trace on the world.",
+      "Background": "Because of this failure to create a worthy legacy, their entire life is judged to be a 'disgrace' ('வசை'). This is visualized by the entire world ('வையத்தார்') turning its back on them, and a permanent mark of shame appearing on their tombstone."
+    },
+    "Art_Direction": {
+      "Subject_and_Action": "For all the people of the world, a life that does not leave behind the legacy of a good name is considered a disgrace.",
+      "Symbolic_Motifs": "The legacy of fame as a tangible thing that is either present or absent is the key. The empty space behind the person is a powerful symbol of a life that made no positive impact. The world turning its back is the final verdict.",
+      "Mood_and_Emotion": "Disgraceful, empty, forgotten, cautionary.",
+      "Lighting_and_Color": "A bleak, grey, and forgettable light. The scene is desaturated to emphasize the lack of any glorious or memorable achievement. The mark of shame is a stark, ugly black.",
+      "Technical_Cues": {
+        "Camera": "A wide, lonely shot that emphasizes the empty space behind the person, symbolizing their lack of a legacy.",
+        "Resolution": "8K, ultra-realistic, conveying a powerful sense of emptiness and failure.",
+        "Lighting": "Flat, unforgiving light.",
+        "Art_Genre": "Tragic realism."
+      },
+      "Cultural_Anchors": [
+        "If one does not obtain the legacy of fame (இசை என்னும் எச்சம் பெறாவிடின்)",
+        "It is a disgrace (வசை)"
+      ]
+    },
+    "Negative_Prompt": "person leaving a great legacy, world cheering, text artifacts.",
+    "Hyperparameters": {
+      "variant": "dev",
+      "steps": 40,
+      "cfg_scale": 8,
+      "seed": "Explore the visual of the 'empty space of legacy'."
+    }
+  }
+}

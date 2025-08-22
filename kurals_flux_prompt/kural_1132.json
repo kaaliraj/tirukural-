@@ -1,0 +1,39 @@
+{
+  "Kural_Info": {
+    "Number": 1132,
+    "Chapter": "நாணுத்துறவுரைத்தல் (The Abandonment of Reserve)",
+    "Tamil_Text": "நோனா உடம்பும் உயிரும் மடலேறும்நாணினை நீக்கி நிறுத்து.",
+    "English_Meaning": "Having got rid of shame, the suffering body and soul save themselves on the palmyra horse."
+  },
+  "Flux_Optimized_Prompt": {
+    "Layered_Composition": {
+      "Foreground": "A lover is shown at a moment of decision. Their body ('உடம்பு') and soul ('உயிர்') are depicted as suffering, unable to bear the pain of love ('நோனா').",
+      "Midground": "They are performing a decisive act: a spectral, shimmering cloak representing 'Shame' or 'Reserve' ('நாண்') is being forcefully cast off and pushed aside ('நீக்கி நிறுத்து').",
+      "Background": "Having cast off shame, the now resolute figure is seen mounting the painful Palmyra Horse ('மடல் ஏறும்'). This act, though it abandons social grace, is framed as the only way to save their body and soul from the unbearable pain."
+    },
+    "Art_Direction": {
+      "Subject_and_Action": "The unbearable agony of both body and soul forces the lover to make a conscious choice to abandon their natural sense of shame in order to mount the Madal and seek resolution.",
+      "Symbolic_Motifs": "Shame as a physical cloak that must be cast off is the central metaphor. The act is not a gradual loss, but a decisive, conscious removal. Mounting the Madal is then shown as an act of desperate self-preservation.",
+      "Mood_and_Emotion": "Resolute, desperate, self-preservation, casting off inhibition.",
+      "Lighting_and_Color": "The scene is dark and filled with the painful colors of heartache. The cloak of shame is a shimmering, respectable silver. The act of casting it off is dramatic. The Madal is stark and uninviting.",
+      "Technical_Cues": {
+        "Camera": "A dynamic shot capturing the powerful moment the lover casts off the cloak of shame.",
+        "Resolution": "8K, ultra-realistic, with ethereal effects for the cloak and a focus on the pained but determined expression of the lover.",
+        "Lighting": "Dramatic, high-contrast lighting to highlight the inner conflict and decision.",
+        "Art_Genre": "Dramatic realism, with symbolic elements."
+      },
+      "Cultural_Anchors": [
+        "The suffering body and soul (நோனா உடம்பும் உயிரும்)",
+        "Removing and setting aside shame (நாணினை நீக்கி நிறுத்து)",
+        "Mounting the Madal (மடல் ஏறும்)"
+      ]
+    },
+    "Negative_Prompt": "lover keeping the cloak, happy expression, text artifacts.",
+    "Hyperparameters": {
+      "variant": "dev",
+      "steps": 45,
+      "cfg_scale": 9,
+      "seed": "Explore the visual of the 'cloak of shame' being cast off."
+    }
+  }
+}

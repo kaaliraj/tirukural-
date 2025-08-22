@@ -1,0 +1,39 @@
+{
+  "Kural_Info": {
+    "Number": 317,
+    "Chapter": "இன்னாசெய்யாமை (Not doing Evil)",
+    "Tamil_Text": "எனைத்தானும் எஞ்ஞான்றும் யார்க்கும் மனத்தானாம்மாணாசெய் யாமை தலை.",
+    "English_Meaning": "It is the chief of all virtues not knowingly to do any person evil, even in the lowest degree, and at any time."
+  },
+  "Flux_Optimized_Prompt": {
+    "Layered_Composition": {
+      "Foreground": "A person's mind ('மனத்தால்') is shown as the central focus.",
+      "Midground": "A tiny, insignificant, almost microscopic evil or harmful thought ('எனைத்தானும் மாணா') tries to form within the mind.",
+      "Background": "The person's will, which is committed to the chief virtue ('தலை'), is shown as a powerful, all-seeing guardian within the mind. This guardian instantly detects and extinguishes the tiny evil thought before it can even fully form ('செய்யாமை'). This act of supreme, constant vigilance is shown to apply to all people ('யார்க்கும்') at all times ('எஞ்ஞான்றும்')."
+    },
+    "Art_Direction": {
+      "Subject_and_Action": "The chief and foremost virtue is to maintain a state of mind where one does not commit any evil, to anyone, at any time, even in the smallest degree.",
+      "Symbolic_Motifs": "The microscopic scale of the evil thought is crucial to emphasize 'even in the lowest degree'. The guardian of the will represents the constant, sleepless vigilance required for this virtue. The act of extinguishing the thought is effortless and instantaneous, showing the person's mastery.",
+      "Mood_and_Emotion": "Supreme vigilance, ultimate purity, mastery of thought, foundational virtue.",
+      "Lighting_and_Color": "The mind is a space of pure, clear, white light. The evil thought is a tiny speck of blackness that is instantly vaporized by the light. The palette is one of absolute purity.",
+      "Technical_Cues": {
+        "Camera": "An extreme macro, surreal shot inside the landscape of the mind, showing the guardian of the will instantly destroying the nascent evil thought.",
+        "Resolution": "8K, ultra-realistic, with advanced particle effects for the destruction of the evil thought.",
+        "Lighting": "Brilliant, pure, and vigilant light.",
+        "Art_Genre": "Conceptual art, with sci-fi elements."
+      },
+      "Cultural_Anchors": [
+        "Not doing evil, even in the mind (மனத்தால் மாணா செய்யாமை)",
+        "Even in the smallest degree, at any time, to anyone (எனைத்தானும் எஞ்ஞான்றும் யார்க்கும்)",
+        "Is the chief virtue (தலை)"
+      ]
+    },
+    "Negative_Prompt": "mind full of evil thoughts, struggling guardian, text artifacts.",
+    "Hyperparameters": {
+      "variant": "pro",
+      "steps": 55,
+      "cfg_scale": 9,
+      "seed": "Explore the visual of the 'guardian of the will'."
+    }
+  }
+}

@@ -1,0 +1,38 @@
+{
+  "Kural_Info": {
+    "Number": 128,
+    "Chapter": "அடக்கமுடைமை (The Possession of Self-restraint)",
+    "Tamil_Text": "ஒன்றானுந் தீச்சொல் பொருட்பயன் உண்டாயின்நன்றாகா தாகி விடும்.",
+    "English_Meaning": "If a man's speech be productive of a single evil, all the good by him will be turned into evil."
+  },
+  "Flux_Optimized_Prompt": {
+    "Layered_Composition": {
+      "Foreground": "A person is shown having performed many good deeds. These are visualized as a beautiful, bountiful garden full of golden fruits, representing all the good they have accomplished.",
+      "Midground": "The person then utters a single evil word ('ஒன்றானும் தீச்சொல்'). This word is visualized as a single drop of black, corrosive poison.",
+      "Background": "The moment this single drop of poison touches the beautiful garden of their good deeds, a catastrophic chain reaction occurs. The entire garden instantly withers, turns black, and decays. All the accumulated good ('நன்று') is transformed into evil/ruin ('ஆகாதாகி விடும்') by that one evil word."
+    },
+    "Art_Direction": {
+      "Subject_and_Action": "Even a single evil word has the power to corrupt and nullify all the accumulated good a person has ever done.",
+      "Symbolic_Motifs": "The garden of good deeds being destroyed by a single drop of poison is the central metaphor. The transformation must be instant and total to convey the immense destructive power of a single evil word.",
+      "Mood_and_Emotion": "Catastrophic, destructive, tragic, cautionary.",
+      "Lighting_and_Color": "The scene begins with the warm, golden light of the beautiful garden. The drop of poison is stark black. Its impact instantly drains all color and light from the scene, leaving only a dark, decaying, monochromatic ruin.",
+      "Technical_Cues": {
+        "Camera": "A wide shot that captures the beautiful garden, the utterance of the single word, and the immediate, total destruction it causes.",
+        "Resolution": "8K, hyper-realistic, with advanced visual effects for the corrosive decay of the garden.",
+        "Lighting": "A dramatic and instantaneous shift from light to total darkness and decay.",
+        "Art_Genre": "Dark fantasy, allegorical art."
+      },
+      "Cultural_Anchors": [
+        "A single evil word (ஒன்றானும் தீச்சொல்)",
+        "All good becomes not-good (நன்றாகாதாகி விடும்)"
+      ]
+    },
+    "Negative_Prompt": "garden remaining beautiful, poison having no effect, text artifacts.",
+    "Hyperparameters": {
+      "variant": "pro",
+      "steps": 55,
+      "cfg_scale": 9,
+      "seed": "Explore the visual effect of the garden's instant decay."
+    }
+  }
+}

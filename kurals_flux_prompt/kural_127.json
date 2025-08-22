@@ -1,0 +1,39 @@
+{
+  "Kural_Info": {
+    "Number": 127,
+    "Chapter": "அடக்கமுடைமை (The Possession of Self-restraint)",
+    "Tamil_Text": "யாகாவா ராயினும் நாகாக்க காவாக்கால்சோகாப்பர் சொல்லிழுக்குப் பட்டு.",
+    "English_Meaning": "Whatever besides you leave unguarded, guard your tongue; otherwise errors of speech and the consequent misery will ensue."
+  },
+  "Flux_Optimized_Prompt": {
+    "Layered_Composition": {
+      "Foreground": "A person is shown with their primary focus on guarding their tongue ('நா காக்க'). This is visualized as them gently but firmly holding a lock over their own mouth.",
+      "Midground": "All around them, other aspects of their life are shown unguarded ('யா காவாராயினும்')—their wealth is exposed, their gates are open—but these are shown to be of secondary importance.",
+      "Background": "A contrasting vision shows the terrible consequence of failing to guard the tongue. A single 'slip of the tongue' ('சொல் இழுக்கு') is visualized as a serpent leaping from the mouth, which then turns back and bites the speaker, causing them to be overwhelmed by a dark cloud of sorrow and regret ('சோகாப்பர்')."
+    },
+    "Art_Direction": {
+      "Subject_and_Action": "The supreme importance of guarding one's tongue above all else, because a slip of the tongue results in immense misery.",
+      "Symbolic_Motifs": "The lock on the mouth is a direct symbol of control. The slip of the tongue as a self-biting serpent is a powerful metaphor for the self-inflicted nature of the resulting sorrow.",
+      "Mood_and_Emotion": "Vigilant, disciplined, cautionary, self-inflicted sorrow.",
+      "Lighting_and_Color": "The person guarding their tongue is in a clear, controlled light. The vision of the consequence is dark and chaotic, with the serpent and the cloud of sorrow depicted in sickly, poisonous colors.",
+      "Technical_Cues": {
+        "Camera": "A split-screen or a main shot with a clear 'vision bubble' to show both the disciplined act and the dire consequences of failing.",
+        "Resolution": "8K, ultra-realistic, with a focus on the controlled expression of the disciplined person versus the agonized expression of the one who failed.",
+        "Lighting": "Contrast between the clear light of control and the dark, chaotic light of regret.",
+        "Art_Genre": "Symbolic realism, allegorical art."
+      },
+      "Cultural_Anchors": [
+        "Guard the tongue (நா காக்க)",
+        "A slip of the tongue (சொல் இழுக்கு)",
+        "Overwhelmed by sorrow (சோகாப்பர்)"
+      ]
+    },
+    "Negative_Prompt": "person speaking freely and happily, friendly serpent, text artifacts.",
+    "Hyperparameters": {
+      "variant": "dev",
+      "steps": 45,
+      "cfg_scale": 9,
+      "seed": "Explore the design of the 'self-biting serpent'."
+    }
+  }
+}

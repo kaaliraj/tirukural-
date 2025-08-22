@@ -1,0 +1,39 @@
+{
+  "Kural_Info": {
+    "Number": 144,
+    "Chapter": "பிறனில் விழையாமை (Not coveting another's Wife)",
+    "Tamil_Text": "எனைத்துணையர் ஆயினும் என்னாம் தினைத்துணையும்தேரான் பிறனில் புகல்.",
+    "English_Meaning": "However great one may be, what does it avail if, without at all considering his guilt, he goes unto the wife of another ?"
+  },
+  "Flux_Optimized_Prompt": {
+    "Layered_Composition": {
+      "Foreground": "A man of immense greatness ('எனைத்துணையர்') is depicted. He is a powerful king, a great scholar, or a mighty warrior, surrounded by all the symbols of his greatness.",
+      "Midground": "He is shown committing the act of adultery, entering another's house ('பிறன் இல் புகல்'). This act is depicted as a tiny, foolish misstep, done without a millet-seed's worth of thought about the consequences ('தினைத்துணையும் தேரான்').",
+      "Background": "The moment he commits this 'small' act, all the symbols of his greatness are shown to instantly shatter and turn to dust. His crown cracks, his books burn, his sword breaks. The question is posed visually: 'What is the use of all that greatness now?' ('என்னாம்?')."
+    },
+    "Art_Direction": {
+      "Subject_and_Action": "No matter how great a person is in other respects, all their greatness is rendered worthless and is destroyed by the single, thoughtless act of adultery.",
+      "Symbolic_Motifs": "The catastrophic and instantaneous destruction of all symbols of his greatness is the key visual. The smallness and thoughtlessness of the act is contrasted with the totality of its consequence.",
+      "Mood_and_Emotion": "Catastrophic, self-destructive, total ruin, cautionary.",
+      "Lighting_and_Color": "The scene begins with the brilliant, golden light of his greatness. The moment of his transgression is a small act in the shadows, but it triggers an explosive reaction that plunges the entire scene into the darkness and dust of ruin.",
+      "Technical_Cues": {
+        "Camera": "A wide shot that establishes his greatness, then a swift, dramatic action as his single misstep causes everything to shatter.",
+        "Resolution": "8K, ultra-realistic, with advanced particle and destruction effects for the symbols of his greatness.",
+        "Lighting": "A sudden, catastrophic shift from bright glory to dark ruin.",
+        "Art_Genre": "Epic tragedy, symbolic fantasy."
+      },
+      "Cultural_Anchors": [
+        "However great one may be (எனைத்துணையர் ஆயினும்)",
+        "Entering another's house without a millet-seed of thought (தினைத்துணையும் தேரான் பிறன் இல் புகல்)",
+        "What is the use? (என்னாம்?)"
+      ]
+    },
+    "Negative_Prompt": "greatness remaining intact, happy adulterer, text artifacts.",
+    "Hyperparameters": {
+      "variant": "pro",
+      "steps": 55,
+      "cfg_scale": 9,
+      "seed": "Explore the visual of all symbols of greatness shattering at once."
+    }
+  }
+}

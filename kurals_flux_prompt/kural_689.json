@@ -1,0 +1,39 @@
+{
+  "Kural_Info": {
+    "Number": 689,
+    "Chapter": "தூது (The Envoy)",
+    "Tamil_Text": "விடுமாற்றம் வேந்தர்க்கு உரைப்பான் வடுமாற்றம் வாய்சோரா வன்க ணவன்",
+    "English_Meaning": "He alone is fit to communicate (his sovereign's) reply, who possesses the firmness not to utter even inadvertently what may reflect discredit (on the latter)."
+  },
+  "Flux_Optimized_Prompt": {
+    "Layered_Composition": {
+      "Foreground": "An envoy is delivering a critical final message or reply ('விடுமாற்றம்') to a foreign king.",
+      "Midground": "His mind is depicted as a fortress of resolve ('வன்கணவன்'). Shadowy, tempting words of disgrace or error ('வடுமாற்றம்') are trying to slip out of his mouth, but the fortress of his mind has a powerful gate that is firmly locked, preventing any slip of the tongue ('வாய்சோரா').",
+      "Background": "A tense court scene where a single wrong word could lead to disaster. The envoy's self-control is the only thing maintaining peace."
+    },
+    "Art_Direction": {
+      "Subject_and_Action": "The envoy fit to deliver the final word is one with the mental fortitude to never let a disgraceful or erroneous word slip from his mouth.",
+      "Symbolic_Motifs": "The mind as a locked fortress is the central metaphor for mental toughness. The shadowy, disgraceful words are the temptations he must control.",
+      "Mood_and_Emotion": "Controlled, disciplined, firm, mentally tough, reliable.",
+      "Lighting_and_Color": "A tense, dramatic lighting. The envoy's face is a mask of concentration. The shadowy words trying to escape his mouth have a sinister, smoky quality.",
+      "Technical_Cues": {
+        "Camera": "A tight close-up on the envoy's face, with a surreal overlay showing the fortress of his mind in action.",
+        "Resolution": "8K, cinematic, with a focus on the intense expression.",
+        "Lighting": "High-contrast, noir-style lighting.",
+        "Art_Genre": "Psychological realism, with surreal elements."
+      }
+    },
+    "Cultural_Anchors": [
+      "Mental Fortitude ('வன்கணவன்')",
+      "No slip of the tongue ('வாய்சோரா')",
+      "Avoiding disgraceful words ('வடுமாற்றம்')"
+    ]
+  },
+  "Negative_Prompt": "envoy misspeaking, weak-minded envoy, text artifacts, cartoonish.",
+  "Hyperparameters": {
+    "variant": "pro",
+    "steps": 50,
+    "cfg_scale": 9,
+    "seed": "Explore variations for the 'fortress of the mind'."
+  }
+}

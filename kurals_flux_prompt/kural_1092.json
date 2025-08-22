@@ -1,0 +1,38 @@
+{
+  "Kural_Info": {
+    "Number": 1092,
+    "Chapter": "குறிப்பறிதல் (Recognition of the Signs)",
+    "Tamil_Text": "கண்களவு கொள்ளும் சிறுநோக்கம் காமத்தில்செம்பாகம் அன்று பெரிது.",
+    "English_Meaning": "A single stolen glance of her eyes is more than half the pleasure (of sexual embrace)."
+  },
+  "Flux_Optimized_Prompt": {
+    "Layered_Composition": {
+      "Foreground": "A maiden casts a tiny, swift, stolen glance ('கண் களவு கொள்ளும் சிறு நோக்கம்') at her lover.",
+      "Midground": "This tiny glance is visualized as a single, incredibly potent, golden seed of light.",
+      "Background": "A symbolic scale of pleasure is shown. On one side is a representation of the full physical union of love. On the other side, the single golden seed of the stolen glance is placed, and the scale tips dramatically in its favor. It is not just 'half the pleasure' ('செம்பாகம் அன்று'), but far 'greater' ('பெரிது')."
+    },
+    "Art_Direction": {
+      "Subject_and_Action": "That one small, stolen glance from the beloved is not just half the pleasure of love, but something far greater and more potent.",
+      "Symbolic_Motifs": "The scale of pleasure is the central metaphor, visually proving the superiority of the glance. The glance as a small but incredibly heavy and potent seed of gold reinforces its immense value.",
+      "Mood_and_Emotion": "Potent, precious, exquisite, subtle.",
+      "Lighting_and_Color": "The scene is lit by the brilliant, golden flash of the stolen glance itself. It is a brief but overwhelmingly bright moment. The 'pleasure of union' on the scale is a lesser, more diffuse light.",
+      "Technical_Cues": {
+        "Camera": "A slow-motion, macro shot capturing the fleeting, stolen glance, emphasizing its significance.",
+        "Resolution": "8K, ultra-realistic, with a focus on the expressive power of the eyes.",
+        "Lighting": "The glance is a brilliant, momentary flash of light that illuminates everything.",
+        "Art_Genre": "Romantic realism, with symbolic elements."
+      },
+      "Cultural_Anchors": [
+        "The small glance that steals a look (கண் களவு கொள்ளும் சிறு நோக்கம்)",
+        "It is not half of love, but greater (காமத்தில் செம்பாகம் அன்று பெரிது)"
+      ]
+    },
+    "Negative_Prompt": "a long stare, scales being equal, text artifacts.",
+    "Hyperparameters": {
+      "variant": "pro",
+      "steps": 50,
+      "cfg_scale": 8,
+      "seed": "Explore the visual of the 'scale of pleasure'."
+    }
+  }
+}

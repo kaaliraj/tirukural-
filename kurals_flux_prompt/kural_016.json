@@ -1,0 +1,39 @@
+{
+  "Kural_Info": {
+    "Number": 16,
+    "Chapter": "வான்சிறப்பு (The Blessing of Rain)",
+    "Tamil_Text": "விசும்பின் துளிவீழின் அல்லால்மற் றாங்கேபசும்புல் தலைகாண்பு அரிது.",
+    "English_Meaning": "If no drop falls from the clouds, not even the green blade of grass will be seen."
+  },
+  "Flux_Optimized_Prompt": {
+    "Layered_Composition": {
+      "Foreground": "A macro shot focusing on a single, tiny, withered blade of grass struggling to emerge from a crack in sun-baked, barren earth.",
+      "Midground": "An endless expanse of the same desolate, cracked earth stretches to the horizon, emphasizing absolute barrenness.",
+      "Background": "A vast, empty, and cloudless sky ('Visumbu') hangs overhead, its starkness being the direct cause of the desolation below. The focus is on the absence of even a single drop ('துளி')."
+    },
+    "Art_Direction": {
+      "Subject_and_Action": "The profound and absolute dependence of even the humblest form of life—a single blade of grass—on the smallest unit of rain.",
+      "Symbolic_Motifs": "The single blade of grass represents all of terrestrial life. The vastness of the empty sky and barren land highlights the power held by a single, absent raindrop.",
+      "Mood_and_Emotion": "Desolate, fragile, profound dependence, absolute stillness.",
+      "Lighting_and_Color": "A harsh, overexposed light that washes out most colors, leaving a palette of pale ochre, dusty grey, and bleached-white sky. The only hint of color is the faint, dying green of the single blade of grass."
+    },
+    "Technical_Cues": {
+      "Camera": "Extreme macro shot on the grass blade with a very shallow depth of field, blurring the vast desolate landscape behind it.",
+      "Resolution": "8K, ultra-realistic, with microscopic detail on the grass blade and the texture of the cracked earth.",
+      "Lighting": "Single, harsh top-down light source simulating an unforgiving sun, creating sharp, tiny shadows.",
+      "Art_Genre": "Minimalist photorealism, nature macro photography style."
+    },
+    "Cultural_Anchors": [
+      "The power of a single drop (துளி)",
+      "The blade of grass (பசும்புல்) as a symbol of nascent life",
+      "The concept of absolute dependence on a higher natural force"
+    ]
+  },
+  "Negative_Prompt": "raining, forest, green fields, multiple plants, clouds, text artifacts, people, animals, oversaturated colors.",
+  "Hyperparameters": {
+    "variant": "pro",
+    "steps": 45,
+    "cfg_scale": 7,
+    "seed": "Explore variations for the texture and cracking pattern of the earth."
+  }
+}

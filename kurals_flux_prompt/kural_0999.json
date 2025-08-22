@@ -1,0 +1,33 @@
+{
+  "Kural_Info": {
+    "Number": 999,
+    "Chapter": "பண்புடைமை (Courtesy)",
+    "Tamil_Text": "நகல்வல்லர் அல்லார்க்கு மாயிரு ஞாலம்பகலும்பாற் பட்டன்று இருள்.",
+    "English_Meaning": "To him who knows not how to smile in kindly mirth, Darkness in daytime broods o'er all the vast and mighty earth."
+  },
+  "Flux_Optimized_Prompt": {
+    "Layered_Composition": {
+      "Foreground": "An individual who cannot interact with others with joy and harmony ('Nagalvallar Allar') stands alone, their face somber and joyless.",
+      "Midground": "The world around them ('Maayiru Gnaalam'), despite being in broad daylight ('Pagalum'), is depicted as a dark, colorless, and shadowy landscape ('Irul'). The sun is visible in the sky but its light seems unable to penetrate the gloom immediately surrounding the person.",
+      "Background": "In the far distance, outside of this person's sphere of gloom, the world is shown as it should be—bright, vibrant, and full of color, where other people are interacting joyfully."
+    },
+    "Art_Direction": {
+      "Subject_and_Action": "A surreal depiction of the internal world of a person who lacks social grace and friendliness. For them, even the bright world appears dark and joyless.",
+      "Symbolic_Motifs": "The personal sphere of darkness in broad daylight is the central metaphor. The contrast between their gloomy world and the bright world in the distance highlights what they are missing.",
+      "Mood_and_Emotion": "Melancholy, isolating, somber, bleak.",
+      "Lighting_and_Color": "A stark contrast between the dark, desaturated, monochromatic world of the protagonist and the vibrant, colorful world in the distance. The sunlight is visible but seems to have no effect on their immediate surroundings."
+    },
+    "Technical_Cues": {
+      "Camera": "Wide shot, with the protagonist off-center, emphasizing their isolation from the distant, joyful world.",
+      "Resolution": "8K, surreal realism, with a strong, painterly division between the dark and light areas.",
+      "Lighting": "Symbolic lighting, where the light fails to illuminate the subject, creating an unnatural pocket of darkness.",
+      "Art_Genre": "Surrealist landscape painting, expressing a psychological state through the environment."
+    },
+    "Cultural_Anchors": [
+      "நகல் வல்லமை (Ability to be joyful/friendly)",
+      "The darkness of a joyless soul",
+      "The connection between inner state and outer perception"
+    ]
+  },
+  "Negative_Prompt": "happy protagonist, a uniformly bright world, text artifacts, modern attire, blurry, cartoonish."
+}

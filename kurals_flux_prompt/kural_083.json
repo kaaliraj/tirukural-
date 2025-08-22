@@ -1,0 +1,39 @@
+{
+  "Kural_Info": {
+    "Number": 83,
+    "Chapter": "விருந்தோம்பல் (Hospitality)",
+    "Tamil_Text": "வருவிருந்து வைகலும் ஓம்புவான் வாழ்க்கைபருவந்து பாழ்படுதல் இன்று.",
+    "English_Meaning": "The domestic life of the man that daily entertains the guests who come to him shall not be laid waste by poverty."
+  },
+  "Flux_Optimized_Prompt": {
+    "Layered_Composition": {
+      "Foreground": "A householder joyfully welcomes a new guest ('வருவிருந்து') at his door, offering them food and comfort.",
+      "Midground": "Inside his home, we see that while he gives freely, his own stores (pots of grain, etc.) are magically replenishing themselves. A golden light of prosperity fills the home.",
+      "Background": "Outside, a dark, shadowy figure representing Poverty ('பருவந்து') attempts to approach the house, but it is repelled by the brilliant light of hospitality emanating from the doorway, unable to cross the threshold."
+    },
+    "Art_Direction": {
+      "Subject_and_Action": "The daily, continuous practice of hospitality acts as a divine shield that prevents poverty from ever ruining one's life.",
+      "Symbolic_Motifs": "The magical replenishment of the stores is a direct visualization of the Kural's promise. The light of hospitality is a tangible, protective force. Poverty is personified as a weak, shadowy creature that is powerless against the virtue of giving.",
+      "Mood_and_Emotion": "Prosperous, protected, blessed, magical abundance.",
+      "Lighting_and_Color": "A brilliant, warm, golden light radiates from the home and the act of giving. The figure of Poverty is a dark, insubstantial shadow. The palette is rich and prosperous, reinforcing the theme of abundance.",
+      "Technical_Cues": {
+        "Camera": "A wide, welcoming shot of the home's entrance, capturing the host, the guest, and the repelled figure of Poverty in a single narrative.",
+        "Resolution": "8K, ultra-realistic, with magical effects for the replenishing stores and the protective light.",
+        "Lighting": "The act of hospitality is the primary light source, creating a powerful, protective glow.",
+        "Art_Genre": "Magical realism, high fantasy art."
+      },
+      "Cultural_Anchors": [
+        "The coming guest (வருவிருந்து)",
+        "Daily hospitality (வைகலும் ஓம்புவான்)",
+        "Poverty not ruining (பருவந்து பாழ்படுதல் இன்று)"
+      ]
+    },
+    "Negative_Prompt": "poor host, poverty entering the house, sad guest, text artifacts, dark home.",
+    "Hyperparameters": {
+      "variant": "pro",
+      "steps": 50,
+      "cfg_scale": 8,
+      "seed": "Explore the design of the personified Poverty."
+    }
+  }
+}

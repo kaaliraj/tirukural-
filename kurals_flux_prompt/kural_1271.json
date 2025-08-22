@@ -1,0 +1,33 @@
+{
+  "Kural_Info": {
+    "Number": 1271,
+    "Chapter": "குறிப்பறிவுறுத்தல் (The Reading of the Signs)",
+    "Tamil_Text": "கரப்பினுங் கையிகந் தொல்லாநின் உண்கண்உரைக்கல் உறுவதொன் றுண்டு.",
+    "English_Meaning": "Though you would conceal (your feelings), your painted eyes would not, for, transgressing (their bounds), they tell (me) something."
+  },
+  "Flux_Optimized_Prompt": {
+    "Layered_Composition": {
+      "Foreground": "A close-up on a woman's face. She is trying to hide her feelings, perhaps with a neutral expression or by partially covering her face with a veil ('Karappinum').",
+      "Midground": "Despite her efforts, her kohl-rimmed eyes ('Unkan') are betraying her completely. They are literally overflowing ('Kaiyiganthu') with an emotion that she cannot contain. This emotion is visualized as a stream of luminous, readable script or symbols that flow out from her eyes.",
+      "Background": "Her lover is shown observing her, and he is able to read this stream of emotion flowing from her eyes, understanding the secret ('Uruvathonrundu') she is trying to hide."
+    },
+    "Art_Direction": {
+      "Subject_and_Action": "A lover tells his beloved that even though she tries to hide her feelings, her expressive eyes overflow and tell him a secret story of their own.",
+      "Symbolic_Motifs": "The eyes overflowing with readable, luminous script is the central metaphor for their expressiveness. Her attempt to hide is contrasted with the uncontrollable revelation of her eyes.",
+      "Mood_and_Emotion": "Intimate, revealing, a sense of being unable to hide true feelings.",
+      "Lighting_and_Color": "Soft, intimate lighting. The script flowing from her eyes glows with a warm, golden light, symbolizing the warmth of the feelings being revealed."
+    },
+    "Technical_Cues": {
+      "Camera": "An intense close-up on her eyes, capturing both her attempt at concealment and the magical revelation.",
+      "Resolution": "8K, mystical realism, with beautiful and legible glowing script effects.",
+      "Lighting": "The primary light source is the glowing script from her eyes, illuminating both her face and the lover who is reading it.",
+      "Art_Genre": "Romantic fantasy, where emotions are tangible."
+    },
+    "Cultural_Anchors": [
+      "உண்கண் (Kohl-rimmed/painted eyes)",
+      "The eyes as storytellers",
+      "The impossibility of concealing love"
+    ]
+  },
+  "Negative_Prompt": "emotionless eyes, a successful concealment, modern makeup, text artifacts, cartoonish."
+}

@@ -1,0 +1,38 @@
+{
+  "Kural_Info": {
+    "Number": 358,
+    "Chapter": "மெய்யுணர்தல் (Truth-Conciousness)",
+    "Tamil_Text": "பிறப்பென்னும் பேதைமை நீங்கச் சிறப்பென்னும்செம்பொருள் காண்பது அறிவு.",
+    "English_Meaning": "True knowledge consists in the removal of ignorance; which is (the cause of) births, and the perception of the True Being who is (the bestower of) heaven."
+  },
+  "Flux_Optimized_Prompt": {
+    "Layered_Composition": {
+      "Foreground": "A person is trapped in a dark, confusing labyrinth, representing the 'ignorance that is birth' ('பிறப்பு என்னும் பேதைமை').",
+      "Midground": "The act of 'Wisdom' ('அறிவு') is shown. This wisdom is a divine light that shines down from above, revealing the true path out of the labyrinth.",
+      "Background": "This path leads to one single destination: the vision of the 'Perfect Being' or 'Excellent True Substance' ('சிறப்பு என்னும் செம்பொருள்'), which is the source of all liberation and bliss. The image defines wisdom as the perception that leads one out of the trap of birth to the final goal of Truth."
+    },
+    "Art_Direction": {
+      "Subject_and_Action": "Wisdom is defined as the perception of the Supreme Being, which is the act that removes the ignorance that causes the cycle of rebirth.",
+      "Symbolic_Motifs": "The cycle of birth as a confusing labyrinth of ignorance is the key metaphor. Wisdom is the guiding light. The vision of the Supreme Being is the final destination and the exit from the maze.",
+      "Mood_and_Emotion": "Liberating, guiding, clarifying, enlightening.",
+      "Lighting_and_Color": "The labyrinth of birth is dark, grey, and confusing. The light of wisdom is a clear, guiding, white-gold beam. The final vision of the Supreme Being is a source of overwhelming, blissful, divine light.",
+      "Technical_Cues": {
+        "Camera": "A high-angle shot looking down on the labyrinth, showing the person, the guiding light of wisdom, and the path it reveals towards the glorious exit.",
+        "Resolution": "8K, ultra-realistic, with an intricate and confusing design for the labyrinth.",
+        "Lighting": "The light of wisdom and the final vision of Truth are the only sources of light in a dark world.",
+        "Art_Genre": "Symbolic fantasy, with an allegorical landscape."
+      },
+      "Cultural_Anchors": [
+        "To remove the ignorance called birth (பிறப்பு என்னும் பேதைமை நீங்க)",
+        "Wisdom is to see the Excellent True Substance (சிறப்பு என்னும் செம்பொருள் காண்பது அறிவு)"
+      ]
+    },
+    "Negative_Prompt": "person staying in the labyrinth, dark vision of truth, text artifacts.",
+    "Hyperparameters": {
+      "variant": "pro",
+      "steps": 55,
+      "cfg_scale": 8,
+      "seed": "Explore the design of the 'labyrinth of birth'."
+    }
+  }
+}

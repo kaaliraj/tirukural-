@@ -1,0 +1,39 @@
+{
+  "Kural_Info": {
+    "Number": 700,
+    "Chapter": "மன்னரைச் சேர்ந்தொழுதல் (Conduct in the Presence of the King)",
+    "Tamil_Text": "பழையம் எனக்கருதிப் பண்பல்ல செய்யுங் கெழுதகைமை கேடு தரும்.",
+    "English_Meaning": "The (foolish) claim with which a minister does unbecoming acts because of his (long) familiarity (with the king) will ensure his ruin."
+  },
+  "Flux_Optimized_Prompt": {
+    "Layered_Composition": {
+      "Foreground": "A long-serving, elderly minister is shown acting with improper familiarity towards a king. He is perhaps slapping the king on the back or speaking to him disrespectfully ('பண்பல்ல செய்யும்கெழுதகைமை'), thinking his old friendship ('பழையம்') gives him this right.",
+      "Midground": "This act of improper familiarity is shown to be a fatal mistake. The king's expression turns from friendship to cold authority. The bond of friendship between them, visualized as a golden chain, shatters.",
+      "Background": "The shattering of the bond leads to the minister's downfall ('கேடு தரும்'). He is shown being stripped of his office and led away from the court in disgrace."
+    },
+    "Art_Direction": {
+      "Subject_and_Action": "Presuming on an old friendship to act improperly towards a ruler will lead to one's own ruin.",
+      "Symbolic_Motifs": "The shattering golden chain of friendship is the key metaphor for the broken bond. The shift in the king's expression from warm to cold shows the consequence of the minister's presumption.",
+      "Mood_and_Emotion": "Presumptuous, disgraceful, tragic downfall, cautionary.",
+      "Lighting_and_Color": "The scene begins with a warm, friendly light that instantly turns cold and harsh when the minister commits the improper act. The shattering chain gives off a final, tragic spark.",
+      "Technical_Cues": {
+        "Camera": "A shot that focuses on the minister's foolish act and the king's immediate, cold reaction.",
+        "Resolution": "8K, with a focus on powerful facial expressions.",
+        "Lighting": "A dramatic shift in color temperature and lighting quality.",
+        "Art_Genre": "Historical drama."
+      }
+    },
+    "Cultural_Anchors": [
+      "Presuming on old friendship ('பழையம் எனக் கருதி')",
+      "Acting with improper familiarity ('பண்பல்ல செய்யுங் கெழுதகைமை')",
+      "Leading to ruin ('கேடு தரும்')"
+    ]
+  },
+  "Negative_Prompt": "king laughing at the minister's act, the bond remaining strong, text artifacts.",
+  "Hyperparameters": {
+    "variant": "pro",
+    "steps": 50,
+    "cfg_scale": 8,
+    "seed": "Explore variations for the shattering chain effect."
+  }
+}

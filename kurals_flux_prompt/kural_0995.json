@@ -1,0 +1,34 @@
+{
+  "Kural_Info": {
+    "Number": 995,
+    "Chapter": "பண்புடைமை (Courtesy)",
+    "Tamil_Text": "நகையுள்ளும் இன்னா திகழ்ச்சி பகையுள்ளும்பண்புள பாடறிவார் மாட்டு.",
+    "English_Meaning": "Contempt is evil though in sport. They who man's nature know, E'en in their wrath, a courteous mind will show."
+  },
+  "Flux_Optimized_Prompt": {
+    "Layered_Composition": {
+      "Foreground": "A dramatic scene of conflict between two ancient Tamil figures. One figure ('Paadari vaar') who possesses deep character ('Panbu') is visibly angry or opposed to the other.",
+      "Midground": "Despite their legitimate anger ('Pagai'), the virtuous person refrains from scorn ('Igazhchi'). Their restraint is visualized as a shield of light that stops their own harsh words from forming.",
+      "Background": "In a separate, smaller vignette, two people are shown joking ('Nagai'), but one's joke turns into a painful insult, causing visible hurt, illustrating the Kural's first point."
+    },
+    "Art_Direction": {
+      "Subject_and_Action": "Illustrating the profound character of someone who maintains courtesy and avoids contempt even in the face of enmity, and contrasting it with the harm of scorn even in jest.",
+      "Symbolic_Motifs": "The shield of light represents the conscious restraint and good character of the virtuous person. The pained expression in the background vignette highlights the harm of 'igazhchi'.",
+      "Mood_and_Emotion": "Dignified restraint, controlled anger, contrasting with casual cruelty.",
+      "Lighting_and_Color": "The main scene has dramatic, high-contrast lighting, highlighting the tension. The virtuous person has a calm, golden aura of control, while the background joke is in flat, mundane light."
+    },
+    "Technical_Cues": {
+      "Camera": "Medium close-up on the main virtuous figure, capturing the emotion of anger being actively controlled.",
+      "Resolution": "8K, photorealistic, with strong focus on facial expressions conveying complex emotions.",
+      "Lighting": "Rembrandt-style lighting (chiaroscuro) to create a powerful, dramatic mood.",
+      "Art_Genre": "Moralistic historical drama, with a focus on psychological depth."
+    },
+    "Cultural_Anchors": [
+      "பண்பு (Good Character)",
+      "இகழ்ச்சி (Contempt/Scorn)",
+      "பகை (Enmity)",
+      "The virtue of restraint in anger"
+    ]
+  },
+  "Negative_Prompt": "virtuous person yelling or insulting, happy person being insulted, modern setting, weapons, text artifacts, cartoonish."
+}

@@ -1,0 +1,39 @@
+{
+  "Kural_Info": {
+    "Number": 556,
+    "Chapter": "கொடுங்கோன்மை (The Cruel Sceptre)",
+    "Tamil_Text": "மன்னர்க்கு மன்னுதல் செங்கோன்மை அஃதின்றேல் மன்னாவாம் மன்னர்க் கொளி.",
+    "English_Meaning": "Righteous government gives permanence to (the fame of) kings; without that their fame will have no endurance."
+  },
+  "Flux_Optimized_Prompt": {
+    "Layered_Composition": {
+      "Foreground": "Two kings are depicted. The king on the left wields a perfectly straight, glowing sceptre of justice ('செங்கோன்மை'). A brilliant, eternal flame of glory ('ஒளி') burns brightly above his head, signifying enduring fame ('மன்னுதல்').",
+      "Midground": "The king on the right wields a crooked, dark sceptre. The flame of glory above his head is flickering, weak, and about to be extinguished, signifying fame that will not endure ('மன்னாவாம் ஒளி').",
+      "Background": "The background behind the just king is a timeless, majestic landscape. The background behind the unjust king is a decaying, forgotten ruin."
+    },
+    "Art_Direction": {
+      "Subject_and_Action": "A king's fame and legacy endure only if his rule is just. Without a just sceptre, his glory is fleeting.",
+      "Symbolic_Motifs": "The eternal flame versus the dying flame is the key visual contrast. The straight sceptre is linked to permanence, while the crooked sceptre is linked to impermanence.",
+      "Mood_and_Emotion": "Contrasting, eternal vs. fleeting, just vs. unjust, consequential.",
+      "Lighting_and_Color": "The left side is lit by the powerful, enduring light of the eternal flame. The right side is dark and shadowy, with the weak light of the dying flame casting flickering shadows."
+    },
+    "Technical_Cues": {
+      "Camera": "A balanced, symmetrical diptych composition, forcing the comparison between the two kings and their legacies.",
+      "Resolution": "8K, with high-quality fire and light effects.",
+      "Lighting": "High-contrast, symbolic lighting.",
+      "Art_Genre": "Allegorical portraiture."
+    },
+    "Cultural_Anchors": [
+      "Just Rule brings Permanence ('மன்னுதல் செங்கோன்மை')",
+      "Glory will not Endure ('மன்னாவாம் ஒளி')",
+      "The foundation of a lasting legacy."
+    ]
+  },
+  "Negative_Prompt": "just king with a dying flame, unjust king with an eternal flame, text artifacts, cartoonish.",
+  "Hyperparameters": {
+    "variant": "dev",
+    "steps": 40,
+    "cfg_scale": 8,
+    "seed": "Explore variations for the eternal flame effect."
+  }
+}

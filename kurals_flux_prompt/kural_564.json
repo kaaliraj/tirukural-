@@ -1,0 +1,39 @@
+{
+  "Kural_Info": {
+    "Number": 564,
+    "Chapter": "வெருவந்தசெய்யாமை (Absence of Terrorism)",
+    "Tamil_Text": "இறைகடியன் என்றுரைக்கும் இன்னாச்சொல் வேந்தன் உறைகடுகி ஒல்லைக் கெடும்.",
+    "English_Meaning": "The king who is spoken of as cruel will quickly perish; his life becoming shortened."
+  },
+  "Flux_Optimized_Prompt": {
+    "Layered_Composition": {
+      "Foreground": "A cruel king sits on his throne. The air around him is filled with the whispered curses of his people, visualized as dark, smoky words ('இன்னாச்சொல்') like 'Cruel Ruler!' ('இறைகடியன்').",
+      "Midground": "These smoky curses coalesce and form a spectral, ghostly figure of Death, which stands behind the king's throne.",
+      "Background": "The ghostly figure of Death is shown using a pair of shears to cut the king's lifeline, which is represented as a glowing golden thread. The thread is cut very short, symbolizing his lifespan being shortened ('உறைகடுகி') and his swift ruin ('ஒல்லைக் கெடும்')."
+    },
+    "Art_Direction": {
+      "Subject_and_Action": "A king who earns the reputation of being cruel will have his life shortened and will perish quickly.",
+      "Symbolic_Motifs": "The people's curses forming the figure of Death is a powerful metaphor. The act of cutting the king's short lifeline visually represents his lifespan being curtailed as a direct result of his reputation.",
+      "Mood_and_Emotion": "Cursed, doomed, ominous, fateful.",
+      "Lighting_and_Color": "A dark and sinister atmosphere. The king is lit by a cold, dying light. The smoky curses and the figure of Death are a ghostly, terrifying black and grey. The golden lifeline provides a single point of bright, vanishing color.",
+      "Technical_Cues": {
+        "Camera": "A shot from behind the throne, showing the king unaware of the figure of Death that his people's curses have summoned.",
+        "Resolution": "8K, with ethereal smoke and ghostly effects.",
+        "Lighting": "Low-key, horror-style lighting.",
+        "Art_Genre": "Dark fantasy, symbolic horror."
+      }
+    },
+    "Cultural_Anchors": [
+      "The reputation of being cruel ('இறைகடியன் என்றுரைக்கும்')",
+      "Shortened Lifespan ('உறைகடுகி')",
+      "Swift Ruin ('ஒல்லைக் கெடும்')"
+    ]
+  },
+  "Negative_Prompt": "king being praised, long lifeline, text on the smoke, cartoonish ghost.",
+  "Hyperparameters": {
+    "variant": "dev",
+    "steps": 45,
+    "cfg_scale": 9,
+    "seed": "Explore variations for the design of the ghostly Death figure."
+  }
+}

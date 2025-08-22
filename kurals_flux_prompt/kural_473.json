@@ -1,0 +1,39 @@
+{
+  "Kural_Info": {
+    "Number": 473,
+    "Chapter": "வலியறிதல் (The Knowledge of Power)",
+    "Tamil_Text": "உடைத்தம் வலியறியார் ஊக்கத்தின் ஊக்கி இடைக்கண் முரிந்தார் பலர்.",
+    "English_Meaning": "There are many who, ignorant of their (want of) power (to meet it), have haughtily set out to war, and broken down in the midst of it."
+  },
+  "Flux_Optimized_Prompt": {
+    "Layered_Composition": {
+      "Foreground": "A warrior, blindfolded to symbolize their ignorance of their own strength ('வலியறியார்'), is shown enthusiastically trying to bend a massive, impossibly thick bow made of stone.",
+      "Midground": "With a loud crack, the bow doesn't bend, but the warrior's own back breaks midway through the effort ('இடைக்கண் முரிந்தார்'). Their initial enthusiastic energy ('ஊக்கத்தின் ஊக்கி') leads directly to their ruin.",
+      "Background": "A field is littered with the broken forms of many others who have attempted the same foolish feat, emphasizing that this is a common fate ('பலர்')."
+    },
+    "Art_Direction": {
+      "Subject_and_Action": "A depiction of the common tragedy of those who, ignorant of their own limits, enthusiastically undertake tasks beyond their strength, only to break down midway.",
+      "Symbolic_Motifs": "The blindfold represents self-ignorance. The impossibly strong stone bow symbolizes a task beyond one's capability. The broken back is a literal and brutal metaphor for breaking down midway.",
+      "Mood_and_Emotion": "Tragic, foolish, overconfident, cautionary.",
+      "Lighting_and_Color": "Harsh, unforgiving light that highlights the strain and the moment of breaking. The color palette is gritty and somber, with greys and browns dominating.",
+      "Technical_Cues": {
+        "Camera": "A dramatic close-up on the warrior's back at the moment it breaks, capturing the consequence of their folly.",
+        "Resolution": "8K, with graphic detail to create a strong impact.",
+        "Lighting": "High-contrast lighting to emphasize the muscular strain and the sharp, breaking motion.",
+        "Art_Genre": "Gritty realism, tragic historical art."
+      }
+    },
+    "Cultural_Anchors": [
+      "Ignorance of one's own strength ('வலியறியார்')",
+      "Breaking down midway ('இடைக்கண் முரிந்தார்')",
+      "The danger of over-enthusiasm without self-assessment."
+    ]
+  },
+  "Negative_Prompt": "warrior succeeding, small wooden bow, happy ending, text artifacts, cartoonish.",
+  "Hyperparameters": {
+    "variant": "pro",
+    "steps": 50,
+    "cfg_scale": 8,
+    "seed": "Explore variations for the texture of the stone bow."
+  }
+}

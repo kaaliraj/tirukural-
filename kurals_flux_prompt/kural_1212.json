@@ -1,0 +1,33 @@
+{
+  "Kural_Info": {
+    "Number": 1212,
+    "Chapter": "கனவுநிலையுரைத்தல் (The Visions of the Night)",
+    "Tamil_Text": "கயலுண்கண் யானிரப்பத் துஞ்சிற் கலந்தார்க்குஉயலுண்மை சாற்றுவேன் மன்.",
+    "English_Meaning": "If my dark, carp-like eye will close in sleep, as I implore, The tale of my long-suffering life I'll tell my loved one o'er."
+  },
+  "Flux_Optimized_Prompt": {
+    "Layered_Composition": {
+      "Foreground": "A woman is pleading with her own beautiful, kohl-rimmed eyes ('Kayalunkan'), begging them to close and fall asleep ('Thunjil').",
+      "Midground": "Her hope is that if she can sleep, she will meet her lover in her dreams. In the dream world, she is visualized telling him the story of her suffering and survival ('Uyalunmai Saatruven') since he left.",
+      "Background": "A surreal landscape that is half waking world (where her eyes are stubbornly open) and half dream world (where she is finally able to communicate with her lover)."
+    },
+    "Art_Direction": {
+      "Subject_and_Action": "A lover begs her own eyes to grant her the gift of sleep, not for rest, but so she can meet her beloved in her dreams and tell him how she has been surviving without him.",
+      "Symbolic_Motifs": "The pleading with her own eyes. The split between the sleepless waking world and the communicative dream world.",
+      "Mood_and_Emotion": "Pleading, longing, a desperate need to communicate.",
+      "Lighting_and_Color": "The waking world is in the cool, lonely light of the moon. The dream world is lit with a warmer, more intimate, and magical light. The contrast highlights her desire to escape one for the other."
+    },
+    "Technical_Cues": {
+      "Camera": "A close-up on the woman's face, with a surreal effect showing the dream world she wants to enter reflected in her sleepless eyes.",
+      "Resolution": "8K, surreal realism, with a clear and beautiful distinction between the two worlds.",
+      "Lighting": "Contrasting light sources to define the waking and dreaming states.",
+      "Art_Genre": "Psychological surrealism, visualizing a deep desire."
+    },
+    "Cultural_Anchors": [
+      "கயல் உண் கண் (Carp-like kohl-rimmed eyes)",
+      "The dream as a place for true communication",
+      "Pleading with one's own body parts"
+    ]
+  },
+  "Negative_Prompt": "woman already sleeping peacefully, happy in the waking world, modern setting, text artifacts, cartoonish."
+}

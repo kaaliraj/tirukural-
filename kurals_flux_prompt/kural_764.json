@@ -1,0 +1,39 @@
+{
+  "Kural_Info": {
+    "Number": 764,
+    "Chapter": "படைமாட்சி (The Excellence of an Army)",
+    "Tamil_Text": "அழிவின்றி அறைபோகா தாகி வழிவந்தவன்க ணதுவே படை.",
+    "English_Meaning": "That indeed is an army which has stood firm of old without suffering destruction or deserting (to the enemy)."
+  },
+  "Flux_Optimized_Prompt": {
+    "Layered_Composition": {
+      "Foreground": "An army is shown standing firm on a battlefield. It is depicted as an ancient, unshakeable stone wall, symbolizing its long tradition and resilience.",
+      "Midground": "Two threats are shown failing to affect this wall-like army. On one side, a great, destructive wave representing 'destruction' ('அழிவு') crashes against the army but cannot break it ('அழிவின்றி'). On the other side, shadowy figures representing enemy recruiters are trying to lure soldiers away, but the soldiers remain firm, refusing to desert ('அறை போகாது').",
+      "Background": "The army's strength is shown to come from its deep, ancestral tradition ('வழி வந்த'). This is visualized as ancient roots growing from the soldiers' feet deep into the hallowed ground of their homeland."
+    },
+    "Art_Direction": {
+      "Subject_and_Action": "The true definition of a great army is one that is built on tradition, and is therefore immune to both external destruction and internal desertion.",
+      "Symbolic_Motifs": "The army as an ancient, rooted stone wall is the central metaphor. The two failed threats—the wave of destruction and the whispers of desertion—define its key qualities.",
+      "Mood_and_Emotion": "Indomitable, resilient, loyal, steadfast, unbreakable.",
+      "Lighting_and_Color": "A strong, timeless, and heroic light illuminates the army-wall. The colors are of solid rock and earth, conveying a sense of permanence. The wave and the shadows of desertion are dark, transient forces that fail against it.",
+      "Technical_Cues": {
+        "Camera": "A wide, static, low-angle shot that emphasizes the army's resemblance to an unbreakable fortress wall.",
+        "Resolution": "8K, ultra-realistic, with strong textural detail on the symbolic stone and roots.",
+        "Lighting": "Strong, dramatic lighting that highlights the army's resilience against the forces assailing it.",
+        "Art_Genre": "Symbolic realism, epic fantasy art."
+      },
+      "Cultural_Anchors": [
+        "Without destruction (அழிவின்றி)",
+        "Without desertion (அறை போகாதாகி)",
+        "Of ancient tradition (வழி வந்த)"
+      ]
+    },
+    "Negative_Prompt": "army crumbling, soldiers deserting, weak wall, text artifacts.",
+    "Hyperparameters": {
+      "variant": "dev",
+      "steps": 45,
+      "cfg_scale": 8,
+      "seed": "Explore the visual of the 'roots of tradition'."
+    }
+  }
+}

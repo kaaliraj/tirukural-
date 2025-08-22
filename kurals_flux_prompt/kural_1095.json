@@ -1,0 +1,38 @@
+{
+  "Kural_Info": {
+    "Number": 1095,
+    "Chapter": "குறிப்பறிதல் (Recognition of the Signs)",
+    "Tamil_Text": "குறிக்கொண்டு நோக்காமை அல்லால் ஒருகண்சிறக்கணித்தாள் போல நகும்.",
+    "English_Meaning": "She seemed to see me not; but yet the maid Her love, by smiling side-long glance, betrayed."
+  },
+  "Flux_Optimized_Prompt": {
+    "Layered_Composition": {
+      "Foreground": "A maiden and her lover are in a public space, perhaps with others around them.",
+      "Midground": "She is pretending not to look at him directly at all ('குறிக்கொண்டு நோக்காமை'). Her face is turned away.",
+      "Background": "However, she subtly and secretly turns just one eye ('ஒரு கண்') towards him in a swift, sideways glance. This glance is not a full look, but a slight 'squinting' or partial closing of the eye ('சிறக்கணித்தாள்'), and it is accompanied by a tiny, almost imperceptible smile ('நிரும்'). It is a secret, coded message of love."
+    },
+    "Art_Direction": {
+      "Subject_and_Action": "The beloved, while pretending to ignore her lover completely, sends a secret, smiling, sideways glance with just one eye, betraying her true feelings.",
+      "Symbolic_Motifs": "The subtlety of the action is paramount. It is a micro-expression, a secret communication that only the lover (and the viewer) can catch. The contrast between her overt posture of ignoring him and her covert glance is the essence of the scene.",
+      "Mood_and_Emotion": "Secretive, cunning, flirtatious, intimate code.",
+      "Lighting_and_Color": "Natural, public lighting. A special, tiny glint of light should catch her eye at the moment of the sideways glance, highlighting the secret communication.",
+      "Technical_Cues": {
+        "Camera": "An extreme close-up on the maiden's face, using slow-motion to capture the incredibly subtle and fleeting one-eyed, sideways glance and smile.",
+        "Resolution": "8K, hyper-realistic, focusing on micro-expressions.",
+        "Lighting": "Natural lighting, with a special 'glint' effect on the eye.",
+        "Art_Genre": "Psychological realism, intimate portraiture."
+      },
+      "Cultural_Anchors": [
+        "Not looking directly (குறிக்கொண்டு நோக்காமை)",
+        "With one eye, as if squinting (ஒரு கண் சிறக்கணித்தாள் போல)"
+      ]
+    },
+    "Negative_Prompt": "a full stare, no smile, text artifacts.",
+    "Hyperparameters": {
+      "variant": "pro",
+      "steps": 50,
+      "cfg_scale": 8,
+      "seed": "Capture the subtlety of the 'one-eyed sideways glance'."
+    }
+  }
+}

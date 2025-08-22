@@ -1,0 +1,39 @@
+{
+  "Kural_Info": {
+    "Number": 393,
+    "Chapter": "கல்வி (Learning)",
+    "Tamil_Text": "கண்ணுடையர் என்பவர் கற்றோர் முகத்திரண்டு புண்ணுடையர் கல்லா தவர்.",
+    "English_Meaning": "Men who learning gain have eyes, men say; Blockheads' faces pairs of sores display."
+  },
+  "Flux_Optimized_Prompt": {
+    "Layered_Composition": {
+      "Foreground": "A stark visual contrast between two figures. On the left stands a learned person ('கற்றோர்'). Their eyes are bright, clear, and radiate a gentle light of wisdom, allowing them to see the world in vibrant color and detail.",
+      "Midground": "On the right stands an unlearned person ('கல்லாதவர்'). Where their eyes should be, there are two ugly, raw sores ('புண்'), and their perception of the world is grey, blurry, and indistinct.",
+      "Background": "The background behind the learned person is a rich, detailed, and beautiful landscape. The background behind the unlearned person is a desolate, monochrome, and out-of-focus wasteland."
+    },
+    "Art_Direction": {
+      "Subject_and_Action": "A powerful and literal depiction of the idea that the learned possess true eyes, while the unlearned have but two sores on their face, blind to the richness of the world.",
+      "Symbolic_Motifs": "The radiant eyes of the learned versus the sores of the unlearned is the central, shocking metaphor. The contrast in the perceived worlds behind them reinforces the theme.",
+      "Mood_and_Emotion": "Stark, confronting, profound, emphasizing the tragedy of ignorance.",
+      "Lighting_and_Color": "The learned person's side is full of vibrant color and bright, clear light. The unlearned person's side is desaturated, grey, and dimly lit.",
+      "Technical_Cues": {
+        "Camera": "A side-by-side portrait shot, forcing the viewer to compare the two figures directly.",
+        "Resolution": "8K, ultra-realistic, with graphic detail on the sores to create a strong impact.",
+        "Lighting": "High-contrast split lighting. The learned person is lit beautifully, while the unlearned is lit harshly.",
+        "Art_Genre": "Hyperrealism, symbolic portraiture."
+      }
+    },
+    "Cultural_Anchors": [
+      "The Learned ('கற்றோர்') as having eyes ('கண்ணுடையர்')",
+      "The Unlearned ('கல்லாதவர்') as having sores ('புண்ணுடையர்')",
+      "The value of education as true perception."
+    ]
+  },
+  "Negative_Prompt": "unlearned person with normal eyes, learned person with sores, blurry figures, text artifacts, cartoonish.",
+  "Hyperparameters": {
+    "variant": "pro",
+    "steps": 50,
+    "cfg_scale": 9,
+    "seed": "Explore variations in the texture and color of the two backgrounds."
+  }
+}

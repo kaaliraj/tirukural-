@@ -1,0 +1,39 @@
+{
+  "Kural_Info": {
+    "Number": 1135,
+    "Chapter": "நாணுத்துறவுரைத்தல் (The Abandonment of Reserve)",
+    "Tamil_Text": "தொடலைக் குறுந்தொடி தந்தாள் மடலொடுமாலை உழக்கும் துயர்.",
+    "English_Meaning": "The maid that slender armlets wears, like flowers entwined, Has brought me 'horse of palm,' and pangs of eventide!."
+  },
+  "Flux_Optimized_Prompt": {
+    "Layered_Composition": {
+      "Foreground": "A lover is shown suffering from the pangs of lovesickness, his face a mask of sorrow.",
+      "Midground": "Two specific gifts from his beloved are shown to be the cause of his current state. A vision of her, with her small, flower-like bracelets ('தொடலைக் குறுந்தொடி'), represents the memory of her beauty.",
+      "Background": "This memory has given him two things: the grim resolve to mount the 'Madal' ('மடலொடு'), and the specific, agonizing sorrow that intensifies at twilight ('மாலை உழக்கும் துயர்'). The twilight sky is dark and menacing."
+    },
+    "Art_Direction": {
+      "Subject_and_Action": "The memory of the beloved, symbolized by her bracelets, is the direct source of both the lover's resolve to take desperate measures (the Madal) and his intense, evening-specific sorrow.",
+      "Symbolic_Motifs": "The bracelets are the focal point of the memory, the tangible detail that triggers the pain. The Madal and the sorrowful twilight are presented as the two bitter fruits that have grown from the sweet memory of her beauty.",
+      "Mood_and_Emotion": "Lovesick, sorrowful, determined, tormented.",
+      "Lighting_and_Color": "The lover is in the gloomy, dramatic light of twilight. The memory of the maiden and her bracelets is a bright, beautiful, but painful flashback. The vision of the Madal is stark and grim.",
+      "Technical_Cues": {
+        "Camera": "A close-up on the lover's sorrowful face, with his memories and his future resolve appearing as symbolic overlays or background visions.",
+        "Resolution": "8K, ultra-realistic, with a strong focus on the emotion of lovesickness.",
+        "Lighting": "Dramatic twilight lighting (chiaroscuro).",
+        "Art_Genre": "Romantic portraiture."
+      },
+      "Cultural_Anchors": [
+        "The small bracelets like a garland (தொடலைக் குறுந்தொடி)",
+        "The Madal (மடல்)",
+        "The sorrow of the evening (மாலை உழக்கும் துயர்)"
+      ]
+    },
+    "Negative_Prompt": "happy lover, text artifacts, bright daylight.",
+    "Hyperparameters": {
+      "variant": "dev",
+      "steps": 40,
+      "cfg_scale": 8,
+      "seed": "Explore the visual of the 'sorrowful twilight'."
+    }
+  }
+}

@@ -1,0 +1,39 @@
+{
+  "Kural_Info": {
+    "Number": 7,
+    "Chapter": "கடவுள் வாழ்த்து (The Praise of God)",
+    "Tamil_Text": "தனக்குவமை இல்லாதான் தாள்சேர்ந்தார்க் கல்லால்மனக்கவலை மாற்றல் அரிது.",
+    "English_Meaning": "Anxiety of mind cannot be removed, except from those who are united to the feet of Him who is incomparable."
+  },
+  "Flux_Optimized_Prompt": {
+    "Layered_Composition": {
+      "Foreground": "In the foreground, a person sits with their head in their hands, their body language conveying immense stress. Their mind is visualized as a turbulent, stormy sea contained within the outline of their head.",
+      "Midground": "The stormy 'sea of anxiety' is filled with dark, thorny vines representing worries. However, a single, powerful beam of golden light cuts through the storm, originating from a source outside the frame.",
+      "Background": "In the background, serene and bathed in calm light, are a pair of divine feet resting on the shore of a perfectly calm ocean, representing the 'incomparable' source of peace. The golden beam of light emanates from these feet."
+    },
+    "Art_Direction": {
+      "Subject_and_Action": "A person finds the only true antidote to their overwhelming mental anxiety by connecting to the divine, which is beyond all comparison.",
+      "Symbolic_Motifs": "As the golden light touches the thorny vines of worry within the mind-sea, they wither and dissolve into dust. The contrast between the chaotic, dark storm and the tranquil, golden shore is stark.",
+      "Mood_and_Emotion": "From despair to hope; chaotic anxiety contrasted with profound peace.",
+      "Lighting_and_Color": "The foreground is dominated by dark, chaotic blues and blacks. The background is a serene palette of golden light, soft whites, and calm cerulean, with the light beam creating a dramatic visual path from chaos to peace."
+    },
+    "Technical_Cues": {
+      "Camera": "Close-up profile shot of the person, shot on an 85mm lens to create a shallow depth of field, focusing on their inner turmoil.",
+      "Resolution": "8K, ultra-realistic, with surreal and painterly effects for the visualized mind-sea.",
+      "Lighting": "Dramatic chiaroscuro, with the primary light source being the divine glow that pierces the darkness.",
+      "Art_Genre": "Surrealist digital painting combined with photorealism."
+    },
+    "Cultural_Anchors": [
+      "Concept of 'Manakkavalai' (mental anxiety)",
+      "Divine as 'Tanakkuvamai Illathavan' (the incomparable one)",
+      "The feet of the divine as a source of refuge"
+    ]
+  },
+  "Negative_Prompt": "smiling person, calm sea in the mind, weak light beam, deformed limbs, text artifacts, non-Tamil physiognomy, cartoonish vines.",
+  "Hyperparameters": {
+    "variant": "dev",
+    "steps": 45,
+    "cfg_scale": 9,
+    "seed": "Explore variations for the storm's intensity."
+  }
+}

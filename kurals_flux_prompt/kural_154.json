@@ -1,0 +1,39 @@
+{
+  "Kural_Info": {
+    "Number": 154,
+    "Chapter": "பொறையுடைமை (The Possession of Patience, Forbearance)",
+    "Tamil_Text": "நிறையுடைமை நீங்காமை வேண்டின் பொற்யுடைமைபோற்றி யொழுகப் படும்.",
+    "English_Meaning": "If you desire that greatness should never leave you, preserve in your conduct the exercise of patience."
+  },
+  "Flux_Optimized_Prompt": {
+    "Layered_Composition": {
+      "Foreground": "A noble figure, like a king or a wise leader, is shown. They are adorned with a magnificent, glowing mantle of 'Greatness' ('நிறையுடைமை').",
+      "Midground": "The figure is actively practicing patience ('பொறையுடைமை போற்றி'). This is visualized by them calmly enduring a harsh storm (representing life's trials) without flinching.",
+      "Background": "The act of practicing patience is shown to be the very thing that fastens the mantle of Greatness to their shoulders, preventing it from being blown away by the storm winds ('நீங்காமை'). The clasps of the mantle are forged from the light of their patient endurance."
+    },
+    "Art_Direction": {
+      "Subject_and_Action": "The virtue of patience is the essential anchor that keeps the mantle of greatness from departing from a person.",
+      "Symbolic_Motifs": "Greatness as a precious, wearable mantle is the central metaphor. Patience is the active force (the clasps, the steadfast posture) that secures this mantle. The storm represents any and all challenges that might strip one of their honor or greatness.",
+      "Mood_and_Emotion": "Steadfast, enduring, regal, secure, principled.",
+      "Lighting_and_Color": "The mantle of Greatness glows with a steady, golden light. The storm is dark and chaotic, but the light from the mantle and the person's patient aura easily holds it back. The palette is one of noble gold against turbulent greys.",
+      "Technical_Cues": {
+        "Camera": "A dignified, medium portrait shot that captures the figure, their glowing mantle, and the storm they are enduring.",
+        "Resolution": "8K, ultra-realistic, with dynamic effects for the storm and ethereal effects for the mantle.",
+        "Lighting": "The primary light source is the glowing mantle, symbolizing that greatness is its own illumination.",
+        "Art_Genre": "Heroic portraiture, fantasy realism."
+      },
+      "Cultural_Anchors": [
+        "Greatness/Integrity (நிறையுடைமை)",
+        "Patience/Forbearance (பொறையுடைமை)",
+        "The idea of 'not leaving' (நீங்காமை)"
+      ]
+    },
+    "Negative_Prompt": "mantle flying away, person distressed by the storm, dark mantle, text artifacts.",
+    "Hyperparameters": {
+      "variant": "dev",
+      "steps": 45,
+      "cfg_scale": 8,
+      "seed": "Explore the design of the 'mantle of Greatness'."
+    }
+  }
+}

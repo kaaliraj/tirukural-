@@ -1,0 +1,33 @@
+{
+  "Kural_Info": {
+    "Number": 1276,
+    "Chapter": "குறிப்பறிவுறுத்தல் (The Reading of the Signs)",
+    "Tamil_Text": "பெரிதாற்றிப் பெட்பக் கலத்தல் அரிதாற்றிஅன்பின்மை சூழ்வ துடைத்து.",
+    "English_Meaning": "While lovingly embracing me, his heart is only grieved: It makes me think that I again shall live of love bereaved."
+  },
+  "Flux_Optimized_Prompt": {
+    "Layered_Composition": {
+      "Foreground": "A couple is shown in what should be a loving embrace ('Petpak Kalaththal'). The woman is joyful.",
+      "Midground": "However, the man's heart is visible and it is filled with a deep, hidden sorrow ('Arithaatri'). His embrace is loving on the surface, but his inner state is one of pain, likely due to an impending separation.",
+      "Background": "The woman begins to sense this hidden sorrow. Her own joy starts to fade as she perceives his inner lack of love or presence ('Anbinmai'), and she begins to anticipate the pain of being left alone again."
+    },
+    "Art_Direction": {
+      "Subject_and_Action": "From the woman's perspective: While we embrace lovingly, I can sense a deep sorrow in him. This makes me suspect his love is not fully present and foreshadows the pain of a future separation.",
+      "Symbolic_Motifs": "The man's sorrowful, visible heart during a loving embrace. The woman's expression changing from joy to dawning apprehension.",
+      "Mood_and_Emotion": "Bittersweet, apprehensive, a sense of foreboding, love tinged with sorrow.",
+      "Lighting_and_Color": "A warm light surrounds the couple, but a cool, sad, blue light emanates from the man's heart, slowly starting to tinge the edges of the warm scene."
+    },
+    "Technical_Cues": {
+      "Camera": "An intimate close-up on their faces during the embrace, capturing her subtle shift in emotion as she perceives his hidden pain.",
+      "Resolution": "8K, photorealistic, focusing on complex, layered emotions.",
+      "Lighting": "Dual lighting sources to represent the outer love and the inner sorrow.",
+      "Art_Genre": "Psychological romance, focused on subtle, non-verbal communication."
+    },
+    "Cultural_Anchors": [
+      "Reading the partner's hidden emotions",
+      "The sorrow of impending separation",
+      "அன்பின்மை (Lack of love/presence)"
+    ]
+  },
+  "Negative_Prompt": "both partners being joyful, a simple happy embrace, modern setting, text artifacts, cartoonish."
+}

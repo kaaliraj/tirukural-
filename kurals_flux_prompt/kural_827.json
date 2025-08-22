@@ -1,0 +1,39 @@
+{
+  "Kural_Info": {
+    "Number": 827,
+    "Chapter": "கூடாநட்பு (Unreal Friendship)",
+    "Tamil_Text": "சொல்வணக்கம் ஒன்னார்கண் கொள்ளற்க வில்வணக்கந் தீங்கு குறித்தமை யான்.",
+    "English_Meaning": "Since the bending of the bow bespeaks evil, one should not accept (as good) the humiliating speeches of one's foes."
+  },
+  "Flux_Optimized_Prompt": {
+    "Layered_Composition": {
+      "Foreground": "A split image. On the right, an enemy warrior is drawing a bow. The bending of the bow ('வில்வணக்கம்') is an obvious sign of a coming, harmful attack ('தீங்கு குறித்தமை').",
+      "Midground": "On the left, an enemy diplomat is bowing low and speaking with great humility and reverence ('சொல்வணக்கம்').",
+      "Background": "The image makes a direct parallel: the humble speech of the enemy is just like the bending of the bow. It is not a sign of respect, but a preparation for an attack. A wise person is shown observing this, refusing to trust the humble words ('கொள்ளற்க')."
+    },
+    "Art_Direction": {
+      "Subject_and_Action": "Do not trust the humble words of an enemy, for like the bending of a bow, they are merely a prelude to attack.",
+      "Symbolic_Motifs": "The direct visual comparison between the bowing diplomat and the bending bow is the central concept. It frames the diplomat's humility as a dangerous, martial act.",
+      "Mood_and_Emotion": "Dangerous, deceptive, threatening, cautionary.",
+      "Lighting_and_Color": "A tense, dramatic light. A sharp glint on the arrowhead of the bent bow is mirrored by a treacherous glint in the eye of the bowing diplomat.",
+      "Technical_Cues": {
+        "Camera": "A side-by-side composition that forces the viewer to see the equivalence of the two 'bendings'.",
+        "Resolution": "8K, with a focus on the tension in both scenes.",
+        "Lighting": "High-contrast lighting.",
+        "Art_Genre": "Historical thriller, symbolic realism."
+      },
+      "Cultural_Anchors": [
+        "The humility of an enemy's words ('சொல்வணக்கம்')",
+        "Like the bending of a bow ('வில்வணக்கம்')",
+        "A sign of intended harm ('தீங்கு குறித்தமை')"
+      ]
+    },
+    "Negative_Prompt": "a sincere diplomat, a friendly archer, text artifacts.",
+    "Hyperparameters": {
+      "variant": "pro",
+      "steps": 50,
+      "cfg_scale": 8,
+      "seed": "Explore variations for the enemy diplomat's expression."
+    }
+  }
+}

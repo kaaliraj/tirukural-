@@ -1,0 +1,33 @@
+{
+  "Kural_Info": {
+    "Number": 1275,
+    "Chapter": "குறிப்பறிவுறுத்தல் (The Reading of the Signs)",
+    "Tamil_Text": "செறிதொடி செய்திறந்த கள்ளம் உறுதுயர்தீர்க்கும் மருந்தொன்று உடைத்து.",
+    "English_Meaning": "The secret wiles of her with thronging armlets decked, Are medicines by which my raising grief is checked."
+  },
+  "Flux_Optimized_Prompt": {
+    "Layered_Composition": {
+      "Foreground": "A lover is shown suffering from the pangs of lovesickness ('Uruthuyar'). This pain is visualized as a dark, thorny vine around his heart.",
+      "Midground": "His beloved ('Serithodi' - she with the tight bracelets) has just performed some subtle, cunning act ('Seithirantha Kallam')—perhaps a quick, hidden glance or a subtle gesture. This act is visualized as a single drop of glowing, golden medicine.",
+      "Background": "This single drop of medicine falls onto the thorny vine of his sorrow, causing it to wither and dissolve instantly, providing him with a complete cure ('Theerkkum Marunthu')."
+    },
+    "Art_Direction": {
+      "Subject_and_Action": "The subtle, cunning signs of affection from his beloved act as a powerful medicine that can instantly cure the great sorrow of his lovesickness.",
+      "Symbolic_Motifs": "The lover's 'cunning act' as a single drop of magical medicine. The sorrow as a thorny vine that is instantly destroyed by the medicine.",
+      "Mood_and_Emotion": "Healing, magical, a sense of immense relief from a small gesture.",
+      "Lighting_and_Color": "The scene is initially dark and painful. The drop of medicine is the primary light source, and its golden light spreads and heals, transforming the scene to one of warmth and relief."
+    },
+    "Technical_Cues": {
+      "Camera": "A macro shot focusing on the drop of medicine falling on the thorny vine around the heart, showing the instant healing effect.",
+      "Resolution": "8K, mystical realism, with beautiful particle effects for the medicine and the dissolving thorns.",
+      "Lighting": "Transformative lighting that shifts from dark to light, symbolizing the cure.",
+      "Art_Genre": "Romantic fantasy, where gestures have magical, healing power."
+    },
+    "Cultural_Anchors": [
+      "கள்ளம் (Cunning/Wiles, used affectionately)",
+      "மருந்து (Medicine)",
+      "The healing power of a small sign of love"
+    ]
+  },
+  "Negative_Prompt": "an obvious gesture, a suffering that doesn't heal, modern medicine, text artifacts, cartoonish."
+}

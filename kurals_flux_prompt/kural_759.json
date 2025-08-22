@@ -1,0 +1,39 @@
+{
+  "Kural_Info": {
+    "Number": 759,
+    "Chapter": "பொருள்செயல்வகை (Way of Accumulating Wealth)",
+    "Tamil_Text": "செய்க பொருளைச் செறுநர் செருக்கறுக்கும் எஃகதனிற் கூரிய தில்.",
+    "English_Meaning": "Accumulate wealth; it will destroy the arrogance of (your) foes; there is no weapon sharper than it."
+  },
+  "Flux_Optimized_Prompt": {
+    "Layered_Composition": {
+      "Foreground": "A person is diligently and virtuously accumulating wealth, represented by forging a magnificent, glowing sword from pure gold ('செய்க பொருளை').",
+      "Midground": "In the distance, their arrogant enemies ('செறுநர்') are shown, puffed up with pride ('செருக்கு').",
+      "Background": "The person does not fight the enemies directly. Instead, they simply hold up their newly forged golden sword of wealth. The brilliant, sharp light from this 'weapon' of wealth alone is so powerful that it completely shatters the enemies' arrogance, which is visualized as a fragile glass armor around them. There is no sharper weapon ('எஃகதனிற் கூரியது இல்')."
+    },
+    "Art_Direction": {
+      "Subject_and_Action": "One must make wealth, for there is no sharper weapon to cut down the arrogance of one's enemies.",
+      "Symbolic_Motifs": "Wealth itself forged into a sharp, gleaming sword is the central metaphor. The enemy's pride as a fragile glass armor that shatters from the mere sight of this wealth shows its power.",
+      "Mood_and_Emotion": "Powerful, sharp, decisive, a strategic victory without a fight.",
+      "Lighting_and_Color": "A brilliant, sharp, golden light emanates from the sword of wealth, which is the primary light source. The shattering glass armor of pride creates a dramatic particle effect.",
+      "Technical_Cues": {
+        "Camera": "A shot that shows the connection between the forged sword and the shattering pride of the enemies.",
+        "Resolution": "8K, cinematic, with high-quality glowing and shattering effects.",
+        "Lighting": "The sword of wealth should cast a powerful, cutting light.",
+        "Art_Genre": "High-fantasy art, with a strong symbolic message."
+      },
+      "Cultural_Anchors": [
+        "Make Wealth ('செய்க பொருளை')",
+        "To cut down enemy arrogance ('செறுநர் செருக்கறுக்கும்')",
+        "Wealth as the sharpest weapon ('எஃகதனிற் கூரியது இல்')"
+      ]
+    },
+    "Negative_Prompt": "a normal sword, enemies not being affected, text artifacts, cartoonish.",
+    "Hyperparameters": {
+      "variant": "pro",
+      "steps": 50,
+      "cfg_scale": 9,
+      "seed": "Explore variations for the shattering glass armor."
+    }
+  }
+}

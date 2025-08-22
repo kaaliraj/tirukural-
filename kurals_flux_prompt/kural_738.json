@@ -1,0 +1,38 @@
+{
+  "Kural_Info": {
+    "Number": 738,
+    "Chapter": "நாடு (The Land)",
+    "Tamil_Text": "பிணியின்மை செல்வம் விளைவின்பம் ஏமம் அணியென்ப நாட்டிவ் வைந்து.",
+    "English_Meaning": "Freedom from epidemics, wealth, produce, happiness and protection (to subjects); these five, the learned, say, are the ornaments of a kingdom."
+  },
+  "Flux_Optimized_Prompt": {
+    "Layered_Composition": {
+      "Foreground": "A beautiful, personified figure of a Nation is shown.",
+      "Midground": "She is adorned with five magnificent jewels ('அணி'), each representing one of the five ornaments of a good country. A flawless pearl for Health ('பிணியின்மை'), a large diamond for Wealth ('செல்வம்'), a rich emerald for Produce ('விளைவு'), a radiant sunstone for Happiness ('இன்பம்'), and a strong shield-brooch for Security ('ஏமம்').",
+      "Background": "The nation-figure stands proudly, her beauty and strength coming from these five essential adornments."
+    },
+    "Art_Direction": {
+      "Subject_and_Action": "The five true ornaments of a nation are health, wealth, productivity, happiness, and security.",
+      "Symbolic_Motifs": "Personifying the nation and representing the five qualities as her jewels is the central metaphor. Each jewel has a character that matches the quality it represents.",
+      "Mood_and_Emotion": "Adorned, prosperous, happy, healthy, secure, ideal.",
+      "Lighting_and_Color": "A brilliant, celebratory light. Each of the five jewels glows with its own distinct, beautiful color, creating a radiant and harmonious effect.",
+      "Technical_Cues": {
+        "Camera": "A beautiful, regal portrait of the personified nation, focusing on her five jewels.",
+        "Resolution": "8K, with a high-fashion, haute couture aesthetic for the jewels and attire.",
+        "Lighting": "Soft, beautiful, studio-quality lighting.",
+        "Art_Genre": "Symbolic portraiture, high-fantasy fashion."
+      },
+      "Cultural_Anchors": [
+        "The Five Ornaments of a Nation ('நாட்டிற்கு அணி')",
+        "Health, Wealth, Produce, Happiness, Security."
+      ]
+    },
+    "Negative_Prompt": "a sickly or poor figure, missing jewels, text artifacts, cartoonish.",
+    "Hyperparameters": {
+      "variant": "pro",
+      "steps": 50,
+      "cfg_scale": 8,
+      "seed": "Explore variations for the design of the five jewels."
+    }
+  }
+}

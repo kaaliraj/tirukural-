@@ -1,0 +1,39 @@
+{
+  "Kural_Info": {
+    "Number": 481,
+    "Chapter": "காலமறிதல் (Knowing the fitting Time)",
+    "Tamil_Text": "பகல்வெல்லும் கூகையைக் காக்கை இகல்வெல்லும் வேந்தர்க்கு வேண்டும் பொழுது.",
+    "English_Meaning": "A crow will conquer an owl in the day time; so the king who would conquer his enemy must have (a suitable) time."
+  },
+  "Flux_Optimized_Prompt": {
+    "Layered_Composition": {
+      "Foreground": "A dramatic split-screen. On the left, it is broad daylight. A clever crow ('காக்கை') is shown decisively defeating a large, powerful owl ('கூகையைக்').",
+      "Midground": "On the right, it is deep night. The roles are reversed, and the owl is shown as the master of the darkness, easily dominating the crow. A wise king is observing this natural drama.",
+      "Background": "A large, celestial clock or sun dial, symbolizing the importance of the right time ('பொழுது') for any action, especially for a king who wants to win a battle ('இகல்வெல்லும்')."
+    },
+    "Art_Direction": {
+      "Subject_and_Action": "Just as a crow can defeat a stronger owl during the day, a king needs to choose the right time to ensure victory over his enemies.",
+      "Symbolic_Motifs": "The crow and owl conflict is the central analogy. The clear division between day and night visually represents the concept of opportune vs. inopportune times. The celestial clock reinforces the theme.",
+      "Mood_and_Emotion": "Strategic, wise, patient, opportunistic, naturalistic.",
+      "Lighting_and_Color": "The left side is lit with bright, harsh daylight. The right side is lit with dramatic, cool moonlight. The colors are strongly contrasted between the two scenes.",
+      "Technical_Cues": {
+        "Camera": "A dynamic composition that shows the two opposing battles in a balanced way.",
+        "Resolution": "8K, ultra-realistic depiction of the birds in action.",
+        "Lighting": "Strongly contrasting day and night lighting schemes.",
+        "Art_Genre": "Wildlife realism, with symbolic overtones."
+      }
+    },
+    "Cultural_Anchors": [
+      "The Crow and Owl Analogy",
+      "The Importance of the Right Time ('பொழுது')",
+      "Strategic waiting for victory ('இகல்வெல்லும்')"
+    ]
+  },
+  "Negative_Prompt": "owl winning in the day, crow winning at night, friendly birds, text artifacts, blurry.",
+  "Hyperparameters": {
+    "variant": "pro",
+    "steps": 50,
+    "cfg_scale": 8,
+    "seed": "Explore variations for the celestial clock design."
+  }
+}

@@ -1,0 +1,33 @@
+{
+  "Kural_Info": {
+    "Number": 1017,
+    "Chapter": "நாணுடைமை (Shame)",
+    "Tamil_Text": "நாணால் உயிரைத் துறப்பர் உயிர்ப்பொருட்டால்நாண்துறவார் நாணாள் பவர்.",
+    "English_Meaning": "The men of modest soul for shame would life an offering make, But ne'er abandon virtuous shame for life's dear sake."
+  },
+  "Flux_Optimized_Prompt": {
+    "Layered_Composition": {
+      "Foreground": "A person who embodies modesty ('Naanaal pavar') stands at a precipice, symbolizing a moment of ultimate choice.",
+      "Midground": "Two paths diverge before them. One path leads to safety and life ('Uyir'), but it requires them to pass through a dark, muddy gate representing the loss of shame ('Naan thuravaar'). The other path requires them to sacrifice their life ('Uyirai Thurappar'), but it is a path of pure light that preserves their honor.",
+      "Background": "The person is shown unhesitatingly choosing the path of light and honor, even though it means sacrificing their physical existence. Their soul is seen ascending from their body as they make the choice."
+    },
+    "Art_Direction": {
+      "Subject_and_Action": "A dramatic visualization of the principle that those who truly value modesty would rather die than abandon it for the sake of survival.",
+      "Symbolic_Motifs": "The diverging paths of life-with-dishonor versus death-with-honor. The muddy gate of shame versus the radiant path of integrity.",
+      "Mood_and_Emotion": "Heroic, principled, self-sacrificing, noble.",
+      "Lighting_and_Color": "The path of life is dark, shadowy, and colored with muddy browns and grays. The path of honor and death is brilliantly lit with pure, white and golden light. The lighting creates a stark moral choice."
+    },
+    "Technical_Cues": {
+      "Camera": "Dramatic low angle shot from behind the character, showing their resolute choice as they face the two paths.",
+      "Resolution": "8K, epic fantasy realism, with strong visual effects for the two paths.",
+      "Lighting": "High contrast, symbolic lighting that clearly delineates the moral options.",
+      "Art_Genre": "Epic allegorical art, depicting a moment of ultimate sacrifice for honor."
+    },
+    "Cultural_Anchors": [
+      "நாண் (Virtuous Shame/Honor)",
+      "உயிர் (Life)",
+      "The choice between life and honor"
+    ]
+  },
+  "Negative_Prompt": "character choosing the dishonorable path, scared expression, modern setting, text artifacts, cartoonish, blurry."
+}

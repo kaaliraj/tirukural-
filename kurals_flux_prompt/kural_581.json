@@ -1,0 +1,39 @@
+{
+  "Kural_Info": {
+    "Number": 581,
+    "Chapter": "ஒற்றாடல் (Detectives)",
+    "Tamil_Text": "ஒற்றும் உரைசான்ற நூலும் இவையிரண்டும் தெற்றென்க மன்னவன் கண்.",
+    "English_Meaning": "Let a king consider as his eyes these two things, a spy and a book (of laws) universally esteemed."
+  },
+  "Flux_Optimized_Prompt": {
+    "Layered_Composition": {
+      "Foreground": "A stylized, majestic portrait of a king's face.",
+      "Midground": "Instead of normal eyes, his two eyes are symbolic representations of his sources of information. The right eye is a wise, all-seeing human eye, representing the Spy ('ஒற்று'). The left eye is an ancient, glowing scroll, representing the esteemed Book of Law/Ethics ('உரைசான்ற நூல்').",
+      "Background": "Through these two 'eyes', the king perceives his kingdom with perfect clarity, ensuring its stability and justice."
+    },
+    "Art_Direction": {
+      "Subject_and_Action": "A king must consider his spies and the code of law as his two essential eyes for ruling effectively.",
+      "Symbolic_Motifs": "The literal replacement of the king's eyes with the spy and the scroll is the central metaphor. This visually equates espionage and established wisdom as the two vital components of a king's perception.",
+      "Mood_and_Emotion": "All-seeing, wise, informed, just.",
+      "Lighting_and_Color": "A clear, bright, regal light. The spy's eye is sharp and perceptive, while the scroll-eye glows with the steady light of ancient wisdom.",
+      "Technical_Cues": {
+        "Camera": "An iconic, centered close-up on the king's face, focusing on the surreal and symbolic nature of his eyes.",
+        "Resolution": "8K, with a mix of photorealism for the face and magical realism for the eyes.",
+        "Lighting": "Balanced lighting that gives equal importance to both symbolic eyes.",
+        "Art_Genre": "Surrealist portraiture, symbolic art."
+      }
+    },
+    "Cultural_Anchors": [
+      "The Spy ('ஒற்று') as an eye",
+      "The Book of Law ('நூல்') as an eye",
+      "The two eyes of a King."
+    ]
+  },
+  "Negative_Prompt": "king with normal eyes, blind king, text artifacts, blurry, cartoonish.",
+  "Hyperparameters": {
+    "variant": "pro",
+    "steps": 50,
+    "cfg_scale": 8,
+    "seed": "Explore variations for the glowing scroll-eye."
+  }
+}

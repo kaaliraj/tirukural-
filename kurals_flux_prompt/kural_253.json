@@ -1,0 +1,39 @@
+{
+  "Kural_Info": {
+    "Number": 253,
+    "Chapter": "புலான்மறுத்தல் (Abstinence from Flesh)",
+    "Tamil_Text": "படைகொண்டார் நெஞ்சம்போல் நன்னூக்காது ஒன்றன்உடல்சுவை உண்டார் மனம்.",
+    "English_Meaning": "Like the (murderous) mind of him who carries a weapon (in his hand), the mind of him who feasts with pleasure on the body of another (creature), has no regard for goodness."
+  },
+  "Flux_Optimized_Prompt": {
+    "Layered_Composition": {
+      "Foreground": "A split composition of two hearts.",
+      "Midground": "On the left is the heart of a killer holding a weapon ('படை கொண்டார் நெஞ்சம்'). It is depicted as a cold, hard, and dark object, incapable of any good impulse.",
+      "Background": "On the right is the heart of a person who enjoys eating the flesh of another creature ('உடல் சுவை உண்டார் மனம்'). This heart is shown to be of the exact same cold, hard, and dark nature. It is also shown as being incapable of producing any good thought ('நல் ஊக்காது'). The two hearts are morally and essentially identical."
+    },
+    "Art_Direction": {
+      "Subject_and_Action": "A stark comparison: the heart of a person who enjoys eating flesh is no different from the heart of a killer with a weapon in their hand; neither has any capacity for goodness.",
+      "Symbolic_Motifs": "The identical appearance of the two hearts is the central, shocking visual. The inability to produce 'good impulses' can be visualized as a barrenness—no light or flowers can grow from these hearts.",
+      "Mood_and_Emotion": "Condemnation, equivalence, moral judgment, dark.",
+      "Lighting_and_Color": "Both hearts are lit with a cold, cruel, and dark light. They are depicted in colors of lifelessness and malice—cold iron, dried blood, deep shadow.",
+      "Technical_Cues": {
+        "Camera": "A close-up, comparative shot of the two identical, barren hearts.",
+        "Resolution": "8K, hyper-realistic, with a focus on the cold, hard, and unliving texture of the hearts.",
+        "Lighting": "Cold, clinical, and judgmental lighting.",
+        "Art_Genre": "Dark symbolic art, surreal anatomy."
+      },
+      "Cultural_Anchors": [
+        "The mind of the flesh-eater (உடல் சுவை உண்டார் மனம்)",
+        "Is like the mind of one holding a weapon (படை கொண்டார் நெஞ்சம் போல்)",
+        "It does not tend towards good (நல் ஊக்காது)"
+      ]
+    },
+    "Negative_Prompt": "a kind heart, beautiful hearts, text artifacts.",
+    "Hyperparameters": {
+      "variant": "pro",
+      "steps": 55,
+      "cfg_scale": 9,
+      "seed": "Explore the texture and material of the 'killer's heart'."
+    }
+  }
+}

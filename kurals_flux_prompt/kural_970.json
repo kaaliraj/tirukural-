@@ -1,0 +1,39 @@
+{
+  "Kural_Info": {
+    "Number": 970,
+    "Chapter": "மானம் (Honour)",
+    "Tamil_Text": "இளிவரின் வாழாத மானம் உடையார்ஒளிதொழுது ஏத்தும் உலகு.",
+    "English_Meaning": "The world will (always) praise and adore the fame of the honourable who would rather die than suffer indignity."
+  },
+  "Flux_Optimized_Prompt": {
+    "Layered_Composition": {
+      "Foreground": "The memorial of an honorable person who chose death rather than disgrace ('இளிவரின் வாழாத மானம் உடையார்'). It could be a heroic statue or a beautifully inscribed memorial stone.",
+      "Midground": "This memorial is not just a stone; it emanates a brilliant, eternal flame or light ('ஒளி'). This light represents their unfading glory and fame.",
+      "Background": "The World ('உலகு'), represented by a vast crowd of people from all subsequent generations, is shown gathered around the memorial. They are not mourning, but are bowing in worship and praise ('தொழுது ஏத்தும்'), looking up to the eternal flame of honor as a guiding light."
+    },
+    "Art_Direction": {
+      "Subject_and_Action": "The world will forever worship the glorious fame of those honorable souls who chose death over a life of indignity.",
+      "Symbolic_Motifs": "The fame as an eternal flame on the memorial is the key visual. The act of the world is not just remembering, but actively worshipping ('தொழுது') this example of honor.",
+      "Mood_and_Emotion": "Glorious, revered, eternal, worshipful, exemplary.",
+      "Lighting_and_Color": "The primary light source is the brilliant, eternal flame of honor, which casts a golden, reverent glow on the faces of the worshipping crowd. The scene is timeless, suggesting this praise continues forever.",
+      "Technical_Cues": {
+        "Camera": "A low-angle shot from the perspective of the crowd, looking up in reverence at the glowing memorial.",
+        "Resolution": "8K, ultra-realistic, with powerful and eternal flame effects.",
+        "Lighting": "A single, powerful, and divine light source from the memorial.",
+        "Art_Genre": "Epic historical memorial scene."
+      },
+      "Cultural_Anchors": [
+        "The honorable who do not live with indignity (இளிவரின் வாழாத மானம் உடையார்)",
+        "Their glory/fame (ஒளி)",
+        "The world worships and praises (உலகு தொழுது ஏத்தும்)"
+      ]
+    },
+    "Negative_Prompt": "forgotten memorial, people desecrating the memorial, dim flame, text artifacts.",
+    "Hyperparameters": {
+      "variant": "pro",
+      "steps": 55,
+      "cfg_scale": 9,
+      "seed": "Explore the design of the 'memorial with the eternal flame'."
+    }
+  }
+}

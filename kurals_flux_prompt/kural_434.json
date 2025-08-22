@@ -1,0 +1,39 @@
+{
+  "Kural_Info": {
+    "Number": 434,
+    "Chapter": "குற்றங்கடிதல் (The Correction of Faults)",
+    "Tamil_Text": "குற்றமே காக்க பொருளாகக் குற்றமே அற்றந் த்ரூஉம் பகை.",
+    "English_Meaning": "Guard against faults as a treasure; for faults are a deadly enemy that bring destruction."
+  },
+  "Flux_Optimized_Prompt": {
+    "Layered_Composition": {
+      "Foreground": "A person is shown building a strong, ornate, treasure-like chest. However, inside the chest, they are locking away not jewels, but shadowy, monstrous figures representing their faults ('குற்றம்').",
+      "Midground": "From the un-guarded side, another shadowy monster—this one much larger and more menacing, representing Destruction ('அற்றம்')—is silently approaching, drawn by the smaller faults.",
+      "Background": "A serene landscape that is about to be shattered by the arrival of the monster of Destruction."
+    },
+    "Art_Direction": {
+      "Subject_and_Action": "The idea that one must guard against their own faults as if guarding a treasure, because those very faults are the enemy that will bring about one's ultimate destruction.",
+      "Symbolic_Motifs": "The act of guarding faults instead of treasures is a powerful ironic statement. The monster of Destruction is the personification of 'Arram', the fatal enemy ('பகை').",
+      "Mood_and_Emotion": "Ominous, cautionary, tense, impending doom.",
+      "Lighting_and_Color": "The scene is lit with a dramatic, foreboding light. The shadowy figures of faults and destruction are deep, menacing blacks and purples. The approaching doom casts a long shadow over the scene."
+    },
+    "Technical_Cues": {
+      "Camera": "Wide shot that shows the person guarding their faults and the approaching doom they are unaware of.",
+      "Resolution": "8K, with detailed textures and creature design for the monstrous faults.",
+      "Lighting": "Low-key, high-contrast lighting to create a suspenseful, horror-like atmosphere.",
+      "Art_Genre": "Dark fantasy, symbolic horror."
+    },
+    "Cultural_Anchors": [
+      "Guarding against Faults ('குற்றம் காக்க')",
+      "Fault as a Fatal Enemy ('குற்றமே பகை')",
+      "Faults bringing Destruction ('அற்றம்')"
+    ]
+  },
+  "Negative_Prompt": "person releasing faults, happy scene, friendly monster, text artifacts, cartoonish.",
+  "Hyperparameters": {
+    "variant": "dev",
+    "steps": 45,
+    "cfg_scale": 9,
+    "seed": "Explore variations for the design of the monster of Destruction."
+  }
+}

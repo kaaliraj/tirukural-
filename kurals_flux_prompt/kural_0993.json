@@ -1,0 +1,33 @@
+{
+  "Kural_Info": {
+    "Number": 993,
+    "Chapter": "பண்புடைமை (Courtesy)",
+    "Tamil_Text": "உறுப்பொத்தல் மக்களொப்பு அன்றால் வெறுத்தக்கபண்பொத்தல் ஒப்பதாம் ஒப்பு.",
+    "English_Meaning": "Men are not one because their members seem alike to outward view; Similitude of kindred quality makes likeness true."
+  },
+  "Flux_Optimized_Prompt": {
+    "Layered_Composition": {
+      "Foreground": "A group of people who look physically similar ('Uruppothal') stand together, but they are depicted as hollow, clay-like figures, emphasizing their superficial similarity.",
+      "Midground": "Among them, two individuals stand out. They may look physically different, but they are connected by a radiant light flowing between their hearts. This light represents their shared noble character ('Panpothal').",
+      "Background": "A neutral, abstract background that forces the viewer to focus on the contrast between physical and spiritual resemblance."
+    },
+    "Art_Direction": {
+      "Subject_and_Action": "A visual argument that true human likeness ('Oppu') comes not from shared physical form but from a shared resonance of good character.",
+      "Symbolic_Motifs": "The hollow, clay-like figures for physical similarity. The glowing light connecting the hearts for similarity of character is the central, powerful symbol.",
+      "Mood_and_Emotion": "Profound, insightful, spiritual, looking beyond the superficial.",
+      "Lighting_and_Color": "The clay figures are in muted, monochromatic grays. The two individuals with shared character are vividly colored, illuminated by the bright, warm light connecting them."
+    },
+    "Technical_Cues": {
+      "Camera": "Medium wide shot, focusing on the two connected figures as the clear subjects, with the others as background context.",
+      "Resolution": "8K, symbolic realism, with a mix of realistic human figures and stylized clay forms.",
+      "Lighting": "High contrast, with the light from the hearts being the primary source of illumination and color in the scene.",
+      "Art_Genre": "Surrealist or symbolic art, using visual metaphors to convey a deep philosophical idea."
+    },
+    "Cultural_Anchors": [
+      "பண்பொத்தல் (Similarity of character)",
+      "உறுப்பொத்தல் (Physical resemblance)",
+      "The concept of true kinship"
+    ]
+  },
+  "Negative_Prompt": "all figures looking identical in spirit, no glowing light, realistic background, text artifacts, cartoonish, blurry."
+}

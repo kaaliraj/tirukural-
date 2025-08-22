@@ -1,0 +1,39 @@
+{
+  "Kural_Info": {
+    "Number": 1236,
+    "Chapter": "உறுப்புநலனழிதல் (Wasting Away)",
+    "Tamil_Text": "தொடியொடு தோள்நெகிழ நோவல் அவரைக்கொடியர் எனக்கூறல் நொந்து.",
+    "English_Meaning": "I am greatly pained to hear you call him a cruel man, just because your shoulders are reduced and your bracelets loosened."
+  },
+  "Flux_Optimized_Prompt": {
+    "Layered_Composition": {
+      "Foreground": "A lovesick woman is talking to her lady-in-waiting or friend. The friend is pointing at the woman's loose bracelets ('தொடியொடு') and thin shoulders ('தோள் நெகிழ') and calling the absent lover 'cruel' ('கொடியர்').",
+      "Midground": "The lovesick woman's reaction is one of pain ('நோவல்'), but not at her own condition. She is pained to hear her lover criticized.",
+      "Background": "Her love is so absolute that even in her suffering, she defends him. Her expression shows that the pain of hearing him blamed is greater than the pain of her lovesickness itself."
+    },
+    "Art_Direction": {
+      "Subject_and_Action": "The maiden, despite her visible suffering caused by her lover's absence, feels more pain when her friend blames the lover for his cruelty.",
+      "Symbolic_Motifs": "The focus is on the woman's complex emotional reaction. She is suffering, yet her loyalty is unwavering. Her pain is not for herself, but for his reputation. This demonstrates the depth of her love.",
+      "Mood_and_Emotion": "Unwavering loyalty, paradoxical pain, selfless love.",
+      "Lighting_and_Color": "A soft, intimate, interior light. The scene is melancholic, but the woman's expression of pained loyalty should be the central focus. The colors are gentle and subdued.",
+      "Technical_Cues": {
+        "Camera": "An intimate two-shot, focusing on the conversation between the two women and capturing the complex, pained expression of the protagonist.",
+        "Resolution": "8K, ultra-realistic, with a strong emphasis on subtle, emotional acting.",
+        "Lighting": "Soft, dramatic lighting to highlight the emotional nuances.",
+        "Art_Genre": "Historical romantic drama, psychological realism."
+      },
+      "Cultural_Anchors": [
+        "I am pained (நோவல்)",
+        "By you calling him cruel (அவரைக் கொடியர் எனக் கூறல்)",
+        "Because my bracelets and shoulders have loosened (தொடியொடு தோள் நெகிழ)"
+      ]
+    },
+    "Negative_Prompt": "woman agreeing with the friend, angry woman, text artifacts.",
+    "Hyperparameters": {
+      "variant": "dev",
+      "steps": 45,
+      "cfg_scale": 8,
+      "seed": "Explore the complex, pained-but-loyal expression of the woman."
+    }
+  }
+}

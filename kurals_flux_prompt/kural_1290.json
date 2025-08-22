@@ -1,0 +1,38 @@
+{
+  "Kural_Info": {
+    "Number": 1290,
+    "Chapter": "புணர்ச்சிவிதும்பல் (Desire for Reunion)",
+    "Tamil_Text": "கண்ணின் துனித்தே கலங்கினாள் புல்லுதல்என்னினும் தான்விதுப் புற்று.",
+    "English_Meaning": "She once feigned dislike in her eyes, but the warmth of her embrace exceeded my own."
+  },
+  "Flux_Optimized_Prompt": {
+    "Layered_Composition": {
+      "Foreground": "A lover is shown embracing his beloved.",
+      "Midground": "A close-up on her eyes shows a flicker of feigned anger or pouting ('கண்ணின் துனித்தே'). Her eyes are momentarily 'troubled' ('கலங்கினாள்').",
+      "Background": "However, the action of her body contradicts her eyes completely. Her embrace ('புல்லுதல்') is shown to be incredibly passionate and eager, even more so than his ('என்னினும் தான் விதுப்புற்று'). Her body's desire has completely overpowered her mind's attempt to feign anger."
+    },
+    "Art_Direction": {
+      "Subject_and_Action": "The beloved's delightful contradiction: while her eyes try to maintain a show of pouting, her body betrays her with an embrace that is even more eager and passionate than her lover's.",
+      "Symbolic_Motifs": "The conflict between the expression in her eyes and the action of her arms is the key to the scene. Her eagerness is a happy surprise for the lover, revealing the true depth of her desire.",
+      "Mood_and_Emotion": "Passionate, eager, contradictory, loving.",
+      "Lighting_and_Color": "A warm, passionate, and intimate light fills the scene. The fleeting anger in her eyes is a tiny, cool spark that is instantly extinguished by the warm, golden glow of her passionate embrace.",
+      "Technical_Cues": {
+        "Camera": "An intimate close-up that captures the lover's surprised and happy reaction as he feels the true passion in her embrace, despite what her eyes are saying.",
+        "Resolution": "8K, ultra-realistic, focusing on the subtle, conflicting signals of her eyes and her body.",
+        "Lighting": "Warm, intimate, passionate lighting.",
+        "Art_Genre": "Romantic realism."
+      },
+      "Cultural_Anchors": [
+        "She was troubled with dislike in her eyes (கண்ணின் துனித்தே கலங்கினாள்)",
+        "But she was more eager than I in her embrace (புல்லுதல் என்னினும் தான் விதுப்புற்று)"
+      ]
+    },
+    "Negative_Prompt": "genuinely angry woman, weak embrace, text artifacts.",
+    "Hyperparameters": {
+      "variant": "dev",
+      "steps": 45,
+      "cfg_scale": 7,
+      "seed": "Explore the contrasting emotions in her expression."
+    }
+  }
+}

@@ -1,0 +1,33 @@
+{
+  "Kural_Info": {
+    "Number": 1196,
+    "Chapter": "தனிப்படர்மிகுதி (The Solitary Anguish)",
+    "Tamil_Text": "ஒருதலையான் இன்னாது காமம்காப் போலஇருதலை யானும் இனிது.",
+    "English_Meaning": "Lust, like the weight of the KAVADI, pains if it lies in one end only but pleases if it is in both."
+  },
+  "Flux_Optimized_Prompt": {
+    "Layered_Composition": {
+      "Foreground": "A split composition. On the left, a person is shown struggling to carry a 'Kaavadi' (a shoulder pole for carrying burdens) that is heavily weighted on only one side ('Oruthalaiyaan'). The pole is unbalanced, and the person is in pain ('Innaathu').",
+      "Midground": "On the right, two people are shown, each representing one end of the 'Kaavadi'. Their mutual love balances the pole perfectly ('Iruthalayaanum'). They carry the 'burden' of love effortlessly and with joy ('Inithu').",
+      "Background": "The background for the unbalanced person is a difficult, rocky path. The background for the balanced couple is a smooth, pleasant garden path."
+    },
+    "Art_Direction": {
+      "Subject_and_Action": "A direct metaphor comparing love to a Kaavadi. One-sided love is a painful, unbalanced burden, while mutual love is a perfectly balanced and pleasant experience.",
+      "Symbolic_Motifs": "The Kaavadi is the central, culturally specific metaphor. The contrast between the pained struggle and the joyful ease of carrying the pole.",
+      "Mood_and_Emotion": "Painful imbalance versus joyful harmony.",
+      "Lighting_and_Color": "Harsh, straining light and dark, gritty colors on the left. Soft, warm, harmonious light and a bright, pleasant palette on the right."
+    },
+    "Technical_Cues": {
+      "Camera": "A balanced, wide shot that clearly presents the two contrasting scenarios side-by-side.",
+      "Resolution": "8K, photorealistic, with accurate depiction of a traditional Kaavadi.",
+      "Lighting": "Contrasting lighting schemes to highlight the difference between pain and pleasure.",
+      "Art_Genre": "Allegorical realism, using a cultural object as a powerful metaphor."
+    },
+    "Cultural_Anchors": [
+      "காவடி (Kaavadi - shoulder pole)",
+      "ஒருதலைக் காமம் (One-sided love)",
+      "The importance of balance in a relationship"
+    ]
+  },
+  "Negative_Prompt": "a happy person with an unbalanced pole, a struggling couple, modern gym equipment, text artifacts, blurry."
+}

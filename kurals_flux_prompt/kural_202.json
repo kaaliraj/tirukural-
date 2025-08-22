@@ -1,0 +1,38 @@
+{
+  "Kural_Info": {
+    "Number": 202,
+    "Chapter": "தீவினையச்சம் (Dread of Evil Deeds)",
+    "Tamil_Text": "தீயவை தீய பயத்தலால் தீயவைதீயினும் அஞ்சப் படும்.",
+    "English_Meaning": "Because evil produces evil, therefore should evil be feared more than fire."
+  },
+  "Flux_Optimized_Prompt": {
+    "Layered_Composition": {
+      "Foreground": "A person is shown dropping a single, dark seed representing an evil act ('தீயவை') onto the ground.",
+      "Midground": "From this single seed, a monstrous, thorny, and poisonous vine instantly grows, multiplies, and spreads, representing evil producing more evil ('தீய பயத்தலால்'). This vine is more terrifying and entrapping than a simple fire.",
+      "Background": "In the background, for comparison, a fire ('தீ') is burning. While dangerous, it is contained and its threat seems less insidious than the rapidly spreading, self-replicating evil vine. A figure is shown recoiling in greater fear from the evil vine than from the fire."
+    },
+    "Art_Direction": {
+      "Subject_and_Action": "Evil deeds should be feared more than fire, because unlike fire which just consumes, evil actively self-replicates and produces more evil.",
+      "Symbolic_Motifs": "The evil act as a seed that grows into a monstrous vine is a powerful metaphor for karmic multiplication. The fire is a baseline for fear, which the fear of evil is shown to surpass.",
+      "Mood_and_Emotion": "Terrifying, cautionary, dread, self-propagating horror.",
+      "Lighting_and_Color": "The evil vine is a sickly, dark purple and black, and it seems to absorb light. The fire, in contrast, produces a natural, orange light. The scene is dominated by the terrifying shadow of the growing evil.",
+      "Technical_Cues": {
+        "Camera": "A dramatic wide shot that captures the initial act, the horrific growth, and the comparison with the fire.",
+        "Resolution": "8K, hyper-realistic, with advanced procedural generation for the growing thorny vine.",
+        "Lighting": "The fire provides one light source, but the growing evil creates an encroaching, supernatural darkness.",
+        "Art_Genre": "Dark fantasy, horror, allegorical art."
+      },
+      "Cultural_Anchors": [
+        "Evil producing evil (தீயவை தீய பயத்தலால்)",
+        "To be feared more than fire (தீயினும் அஞ்சப் படும்)"
+      ]
+    },
+    "Negative_Prompt": "beautiful vine, small fire, happy person, text artifacts, cartoonish.",
+    "Hyperparameters": {
+      "variant": "pro",
+      "steps": 55,
+      "cfg_scale": 9,
+      "seed": "Explore the design of the monstrous, self-replicating evil vine."
+    }
+  }
+}

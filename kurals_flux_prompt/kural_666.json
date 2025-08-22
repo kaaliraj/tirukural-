@@ -1,0 +1,38 @@
+{
+  "Kural_Info": {
+    "Number": 666,
+    "Chapter": "வினைத்திட்பம் (Power in Action)",
+    "Tamil_Text": "எண்ணிய எண்ணியாங்கு எய்து எண்ணியார்திண்ணியர் ஆகப் பெறின்.",
+    "English_Meaning": "If those who have planned (an undertaking) possess firmness (in executing it) they will obtain what they have desired even as they have desired it."
+  },
+  "Flux_Optimized_Prompt": {
+    "Layered_Composition": {
+      "Foreground": "A person ('எண்ணியார்') is shown with a crystal-clear vision of their desired goal in their mind. The vision is a perfect, detailed image of what they want to achieve ('எண்ணிய').",
+      "Midground": "The person is then shown executing their plan with absolute, unwavering firmness. Their physical form is depicted as solid and unshakeable as a mountain ('திண்ணியர்'), and their will is a powerful, straight beam of energy directed at the goal.",
+      "Background": "As a direct result of this firm execution, the envisioned goal materializes in reality, perfectly matching the mental image in every detail ('எண்ணியாங்கு எய்துப'). The real-world achievement is an exact copy of the initial thought."
+    },
+    "Art_Direction": {
+      "Subject_and_Action": "Those who possess unshakeable firmness of will can achieve their goals in the exact manner they first envisioned them.",
+      "Symbolic_Motifs": "The clarity of the initial vision and its perfect, one-to-one manifestation in reality is the key. The person's transformation into a mountain of resolve during the execution phase visualizes their inner firmness.",
+      "Mood_and_Emotion": "Determined, powerful will, manifestation, resolute, certain.",
+      "Lighting_and_Color": "The initial vision is a bright, ethereal blueprint. The person's form during execution glows with the intense, fiery light of their willpower. The final, manifested reality is solid, real, and bathed in the golden light of success.",
+      "Technical_Cues": {
+        "Camera": "A three-stage narrative shot: 1. The clear thought. 2. The firm action. 3. The perfect manifestation.",
+        "Resolution": "8K, hyper-realistic, with strong symbolic effects for the mental vision and the firmness of will.",
+        "Lighting": "The light of willpower is the driving force that transforms the ethereal idea into a solid reality.",
+        "Art_Genre": "Fantasy realism, motivational art."
+      },
+      "Cultural_Anchors": [
+        "Achieving as one has thought (எண்ணிய எண்ணியாங்கு எய்துப)",
+        "If the thinkers are firm (எண்ணியார் திண்ணியர் ஆகப் பெறின்)"
+      ]
+    },
+    "Negative_Prompt": "wavering person, goal manifesting differently, text artifacts, weak will.",
+    "Hyperparameters": {
+      "variant": "pro",
+      "steps": 55,
+      "cfg_scale": 9,
+      "seed": "Explore the visual of a person as a 'mountain of resolve'."
+    }
+  }
+}

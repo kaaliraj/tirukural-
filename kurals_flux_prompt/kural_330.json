@@ -1,0 +1,38 @@
+{
+  "Kural_Info": {
+    "Number": 330,
+    "Chapter": "கொல்லாமை (Not killing)",
+    "Tamil_Text": "உயிருடம்பின் நீக்கியா ரென்ப செயிருடம்பின்செல்லாத்தீ வாழ்க்கை யவர்",
+    "English_Meaning": "(The wise) will say that men of diseased bodies, who live in degradation and in poverty, are those who separated the life from the body of animals (in a former birth)."
+  },
+  "Flux_Optimized_Prompt": {
+    "Layered_Composition": {
+      "Foreground": "A person is shown in the present life, suffering from a combination of chronic disease ('செயிர் உடம்பு'), poverty, and a degraded life ('செல்லாத் தீ வாழ்க்கை').",
+      "Midground": "A ghostly, karmic flashback reveals the cause. In a past life, this same person is shown in the act of slaughtering an animal, separating its life from its body ('உயிர் உடம்பின் நீக்கியார்').",
+      "Background": "The wise are shown observing the present suffering and making the causal link to the past crime. The person's present miserable state is a direct and inescapable karmic consequence of their past violence."
+    },
+    "Art_Direction": {
+      "Subject_and_Action": "The wise say that those who suffer from disease and a degraded life in this birth are the very people who took lives in a past birth.",
+      "Symbolic_Motifs": "The karmic flashback is the key narrative device, directly linking the present suffering to the past sin. The 'diseased body' and 'degraded life' are not random misfortunes, but a just and specific punishment for the crime of killing.",
+      "Mood_and_Emotion": "Karmic retribution, just deserts, tragic, consequential.",
+      "Lighting_and_Color": "The present life is in bleak, sickly, and impoverished colors. The past-life scene of killing is lit with a violent, cruel, reddish light. The two scenes are linked by a dark, karmic thread.",
+      "Technical_Cues": {
+        "Camera": "A shot that shows the suffering person, with a clear, ghostly overlay of their past crime, making the karmic connection undeniable.",
+        "Resolution": "8K, ultra-realistic, with a strong focus on the diseased and degraded state of the subject.",
+        "Lighting": "Bleak and sorrowful lighting for the present, with a harsh, violent light for the past.",
+        "Art_Genre": "Tragic realism, with a karmic narrative."
+      },
+      "Cultural_Anchors": [
+        "Those with diseased bodies and a degraded life (செயிர் உடம்பின் செல்லாத் தீ வாழ்க்கை யவர்)",
+        "Are said to be those who separated life from body (உயிர் உடம்பின் நீக்கியார் என்ப)"
+      ]
+    },
+    "Negative_Prompt": "healthy person, happy past life, text artifacts.",
+    "Hyperparameters": {
+      "variant": "pro",
+      "steps": 50,
+      "cfg_scale": 9,
+      "seed": "Explore the visual of the 'karmic flashback'."
+    }
+  }
+}

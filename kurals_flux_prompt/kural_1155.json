@@ -1,0 +1,33 @@
+{
+  "Kural_Info": {
+    "Number": 1155,
+    "Chapter": "பிரிவாற்றாமை (Separation unendurable)",
+    "Tamil_Text": "ஓம்பின் அமைந்தார் பிரிவோம்பல் மற்றவர்நீங்கின் அரிதால் புணர்வு.",
+    "English_Meaning": "If you would guard my life, from going him restrain Who fills my life! If he depart, hardly we meet again."
+  },
+  "Flux_Optimized_Prompt": {
+    "Layered_Composition": {
+      "Foreground": "A woman is speaking urgently to her confidante. She points towards her lover who is about to depart.",
+      "Midground": "Her life force is visualized as a fragile, luminous thread connecting her heart to her lover. As he takes a step away, the thread stretches taut and begins to fray, threatening to snap.",
+      "Background": "The path ahead of the lover is depicted as vanishing into an impassable chasm or a dense, dark forest, symbolizing the finality of the separation ('Arithaal Punarvu' - reunion is difficult/rare)."
+    },
+    "Art_Direction": {
+      "Subject_and_Action": "A desperate plea to a friend: if you wish to protect me, don't just comfort me—stop him from leaving, because if he goes, the bond will break and reunion will be nearly impossible.",
+      "Symbolic_Motifs": "The luminous, fraying thread of life connecting the lovers is the central metaphor for their bond and her dependency on his presence.",
+      "Mood_and_Emotion": "Urgent, desperate, fragile, pleading for intervention.",
+      "Lighting_and_Color": "Dramatic lighting that highlights the glowing, fraying thread. The scene is cast in the cool, anxious light of dawn or dusk, the traditional time of departures."
+    },
+    "Technical_Cues": {
+      "Camera": "A dynamic shot that connects the pleading woman, the departing man, and the fraying thread between them.",
+      "Resolution": "8K, fantasy realism, with beautiful and delicate visual effects for the thread of life.",
+      "Lighting": "High-contrast lighting to create a sense of urgency and drama.",
+      "Art_Genre": "Romantic fantasy, with a strong element of magical realism."
+    },
+    "Cultural_Anchors": [
+      "பிரிவு (Separation)",
+      "The lover as the source of life",
+      "அரிதால் புணர்வு (The difficulty of reunion)"
+    ]
+  },
+  "Negative_Prompt": "a calm woman, a strong thread, a clear and easy path, text artifacts, modern clothing, cartoonish."
+}

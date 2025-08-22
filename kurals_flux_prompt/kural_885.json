@@ -1,0 +1,39 @@
+{
+  "Kural_Info": {
+    "Number": 885,
+    "Chapter": "உட்பகை (Enmity within)",
+    "Tamil_Text": "உறல்முறையான் உட்பகை தோன்றின் இறல்முறையான் ஏதம் பலவும் தரும்.",
+    "English_Meaning": "If there appears internal hatred in a (king's) family; it will lead to many a fatal crime."
+  },
+  "Flux_Optimized_Prompt": {
+    "Layered_Composition": {
+      "Foreground": "A royal family ('உறல்முறை') is depicted. Within this family, a secret enmity has taken root, shown as a serpent coiled around the family tree.",
+      "Midground": "This internal enmity is shown to beget fatal crimes. The serpent's influence causes family members to act against each other in deadly ways—one brother is shown poisoning another's cup, a sister is shown plotting with an enemy.",
+      "Background": "These acts lead to a cascade of fatal disasters ('இறல்முறையான் ஏதம் பலவும்') for the entire dynasty, culminating in its ruin. The family tree itself is shown withering and dying from the serpent's poison."
+    },
+    "Art_Direction": {
+      "Subject_and_Action": "If internal enmity arises within a ruling family, it will give birth to a chain reaction of fatal evils that will destroy the dynasty.",
+      "Symbolic_Motifs": "The serpent of internal enmity coiled around the family tree is the central metaphor. The various acts of betrayal and murder show the 'many fatal evils' that result.",
+      "Mood_and_Emotion": "Tragic, dynastic decay, treacherous, fatal.",
+      "Lighting_and_Color": "A dark, conspiratorial, and tragic light. The serpent has a venomous glow. The scenes are full of shadow and intrigue. The colors are those of royalty—golds and purples—but they are tarnished and decaying.",
+      "Technical_Cues": {
+        "Camera": "A multi-paneled narrative image, like a tapestry, showing the different fatal crimes stemming from the central enmity.",
+        "Resolution": "8K, with the rich but dark detail of a Shakespearean tragedy.",
+        "Lighting": "Low-key, dramatic lighting.",
+        "Art_Genre": "Historical tragedy, dark fantasy."
+      },
+      "Cultural_Anchors": [
+        "Internal enmity in a family ('உறல்முறையான் உட்பகை')",
+        "Leading to many fatal evils ('இறல்முறையான் ஏதம் பலவும்')",
+        "The theme of dynastic ruin from within."
+      ]
+    },
+    "Negative_Prompt": "a loving royal family, a healthy family tree, text artifacts.",
+    "Hyperparameters": {
+      "variant": "pro",
+      "steps": 50,
+      "cfg_scale": 9,
+      "seed": "Explore variations for the serpent design."
+    }
+  }
+}

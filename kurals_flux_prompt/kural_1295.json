@@ -1,0 +1,39 @@
+{
+  "Kural_Info": {
+    "Number": 1295,
+    "Chapter": "நெஞ்சொடுபுலத்தல் (Expostulation with Oneself)",
+    "Tamil_Text": "பெறாஅமை அஞ்சும் பெறின்பிரிவு அஞ்சும்அறாஅ இடும்பைத்தென் நெஞ்சு.",
+    "English_Meaning": "I fear I shall not gain, I fear to lose him when I gain; And thus my heart endures unceasing pain."
+  },
+  "Flux_Optimized_Prompt": {
+    "Layered_Composition": {
+      "Foreground": "A woman's heart ('என் நெஞ்சு') is depicted as being trapped between two giant, monstrous figures of Fear.",
+      "Midground": "The Fear monster on the left is the 'Fear of Not Gaining Him' ('பெறாஅமை அஞ்சும்'). It torments the heart with visions of loneliness and unrequited love.",
+      "Background": "The Fear monster on the right is the 'Fear of Losing Him After Gaining Him' ('பெறின் பிரிவு அஞ்சும்'). It torments the heart with visions of separation and future sorrow. The heart is caught in a state of ceaseless torment ('அறாஅ இடும்பை'), with no possible state of peace."
+    },
+    "Art_Direction": {
+      "Subject_and_Action": "The lover's heart is in a state of constant, inescapable sorrow, trapped between the fear of not attaining the beloved and the fear of losing them once attained.",
+      "Symbolic_Motifs": "The personification of the two fears as twin monsters crushing the heart between them is the central, powerful image. There is no escape, as both absence and presence are sources of fear.",
+      "Mood_and_Emotion": "Trapped, inescapable sorrow, tormented, anxious, hopeless.",
+      "Lighting_and_Color": "A dark, oppressive, and nightmarish light. The two fear monsters are made of dark shadows and project horrifying visions. The heart is a fragile, flickering light being crushed between them. The palette is one of deep anxiety and despair.",
+      "Technical_Cues": {
+        "Camera": "A claustrophobic close-up on the heart being crushed between the two looming, monstrous fears.",
+        "Resolution": "8K, ultra-realistic, with terrifying and surreal designs for the personified fears.",
+        "Lighting": "Dark, high-contrast, nightmarish lighting.",
+        "Art_Genre": "Dark fantasy, psychological horror."
+      },
+      "Cultural_Anchors": [
+        "Fears not getting (பெறாஅமை அஞ்சும்)",
+        "Fears separation if gotten (பெறின் பிரிவு அஞ்சும்)",
+        "My heart is in ceaseless sorrow (அறாஅ இடும்பைத்து என் நெஞ்சு)"
+      ]
+    },
+    "Negative_Prompt": "happy heart, no monsters, peaceful scene, text artifacts.",
+    "Hyperparameters": {
+      "variant": "pro",
+      "steps": 55,
+      "cfg_scale": 10,
+      "seed": "Explore the designs of the two 'Fear Monsters'."
+    }
+  }
+}

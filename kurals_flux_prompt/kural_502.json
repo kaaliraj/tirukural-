@@ -1,0 +1,39 @@
+{
+  "Kural_Info": {
+    "Number": 502,
+    "Chapter": "தெரிந்துதெளிதல் (Selection and Confidence)",
+    "Tamil_Text": "குடிப்பிறந்து குற்றத்தின் நீங்கி வடுப்பரியும் நாணுடையான் சுட்டே தெளிவு.",
+    "English_Meaning": "(The king's) choice should (fall) on him, who is of good family, who is free from faults, and who has the modesty which fears the wounds (of sin)."
+  },
+  "Flux_Optimized_Prompt": {
+    "Layered_Composition": {
+      "Foreground": "A noble individual stands for consideration. A pure, white light shines down on them, revealing no dark spots or faults ('குற்றத்தின் நீங்கி').",
+      "Midground": "Behind them stands the faint, dignified image of their noble ancestors, representing their good birth ('குடிப்பிறந்து'). They are holding a shield, which they use to protect themselves from even the slightest splash of mud, symbolizing their fear of disgrace ('வடுப்பரியும் நாண்').",
+      "Background": "This person is being chosen ('தெளிவு') by a discerning hand (representing the king), selected from a crowd of other less worthy candidates."
+    },
+    "Art_Direction": {
+      "Subject_and_Action": "The ideal person to be chosen for a role is one who comes from a good family, is free from faults, and possesses a deep-seated shame that makes them fear any form of disgrace.",
+      "Symbolic_Motifs": "The light revealing no faults shows their purity. The ancestral figures represent good birth. The shield against mud is a powerful metaphor for the fear of disgrace.",
+      "Mood_and_Emotion": "Noble, pure, conscientious, honorable, reliable.",
+      "Lighting_and_Color": "A bright, pure, and revealing light is cast upon the chosen individual. The color palette is clean, with whites, golds, and other noble colors."
+    },
+    "Technical_Cues": {
+      "Camera": "A portrait shot that highlights the character's noble bearing and symbolic attributes.",
+      "Resolution": "8K, with a classical, painterly quality.",
+      "Lighting": "A strong, clear key light that functions as a 'light of truth'.",
+      "Art_Genre": "Classical portraiture, allegorical art."
+    },
+    "Cultural_Anchors": [
+      "Good Birth ('குடிப்பிறப்பு')",
+      "Freedom from Faults ('குற்றத்தின் நீங்கி')",
+      "Shame that fears disgrace ('வடுப்பரியும் நாண்')"
+    ]
+  },
+  "Negative_Prompt": "person with many faults, dishonorable ancestors, person playing in the mud, text artifacts.",
+  "Hyperparameters": {
+    "variant": "dev",
+    "steps": 40,
+    "cfg_scale": 8,
+    "seed": "Explore variations for the ancestral figures."
+  }
+}

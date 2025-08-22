@@ -1,0 +1,39 @@
+{
+  "Kural_Info": {
+    "Number": 786,
+    "Chapter": "நட்பு (Friendship)",
+    "Tamil_Text": "முகநக நட்பது நட்பன்று நெஞ்சத்து அகநக நட்பது நட்பு.",
+    "English_Meaning": "The love that dwells (merely in the smiles of the face is not friendship; (but) that which dwells deep in the smiles of the heart is true friendship."
+  },
+  "Flux_Optimized_Prompt": {
+    "Layered_Composition": {
+      "Foreground": "A split portrait of a person showing two kinds of friendship.",
+      "Midground": "On the left side, the person is smiling broadly with their face ('முகநக'), but their heart is depicted as a cold, dark stone. This is not true friendship ('நட்பன்று'). On the right side, the person's face might be neutral or only gently smiling, but their heart is shown as a brilliantly glowing, warm sun, radiating joy ('அகநக'). This is true friendship ('நட்பு').",
+      "Background": "The background reflects the state of the heart: cold and empty on the left, warm and vibrant on the right."
+    },
+    "Art_Direction": {
+      "Subject_and_Action": "Friendship is not a smile on the face, but a smile in the heart.",
+      "Symbolic_Motifs": "The contrast between the external facial expression and the internal state of the heart is the central theme. The heart as a cold stone versus a warm sun is the key visual metaphor.",
+      "Mood_and_Emotion": "Contrasting, superficial vs. deep, false vs. true, sincere.",
+      "Lighting_and_Color": "The left side is lit with a cold, artificial light. The right side is illuminated by the warm, genuine, golden light from the smiling heart.",
+      "Technical_Cues": {
+        "Camera": "A close-up, surreal portrait with a see-through effect to show the heart.",
+        "Resolution": "8K, with a focus on the contrasting internal states.",
+        "Lighting": "High-contrast, symbolic lighting.",
+        "Art_Genre": "Surrealist portraiture."
+      }
+    },
+    "Cultural_Anchors": [
+      "The smiling face is not friendship ('முகநக நட்பது நட்பன்று')",
+      "The smiling heart is friendship ('அகநக நட்பது நட்பு')",
+      "The definition of sincere affection."
+    ]
+  },
+  "Negative_Prompt": "smiling face with a warm heart, neutral face with a cold heart, text artifacts.",
+  "Hyperparameters": {
+    "variant": "dev",
+    "steps": 45,
+    "cfg_scale": 8,
+    "seed": "Explore variations for the 'smiling heart'."
+  }
+}

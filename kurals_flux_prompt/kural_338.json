@@ -1,0 +1,39 @@
+{
+  "Kural_Info": {
+    "Number": 338,
+    "Chapter": "நிலையாமை (Instability)",
+    "Tamil_Text": "குடம்பை தனித்துஒழியப் புள்பறந் தற்றேஉடம்பொடு உயிரிடை நட்பு.",
+    "English_Meaning": "The love of the soul to the body is like (the love of) a bird to its egg which it flies away from and leaves empty."
+  },
+  "Flux_Optimized_Prompt": {
+    "Layered_Composition": {
+      "Foreground": "An empty, broken eggshell ('குடம்பை') is left alone in a nest. It is a beautiful but now useless container.",
+      "Midground": "From this broken shell, a beautiful, strong bird ('புள்'), representing the soul, is seen taking flight and soaring into the sky, leaving the shell behind without a backward glance.",
+      "Background": "The scene is a direct and powerful metaphor for the relationship between the body and the soul ('உடம்பொடு உயிர் இடை நட்பு'). The body is a temporary vessel, and the soul's nature is to leave it behind and fly free."
+    },
+    "Art_Direction": {
+      "Subject_and_Action": "The relationship between the soul and the body is as temporary as that of a bird to the eggshell it hatches from and abandons.",
+      "Symbolic_Motifs": "The brokenness of the shell is not tragic, but a sign of a successful transition. The bird is not sad to leave; it is fulfilling its nature by flying away. The 'friendship' is one of temporary utility, not permanent attachment.",
+      "Mood_and_Emotion": "Liberating, natural, transient, unsentimental.",
+      "Lighting_and_Color": "A bright, clear, morning light illuminates the scene, symbolizing a new beginning for the soul-bird. The empty shell is in the slight shadow of the nest, its purpose now fulfilled. The palette is natural and hopeful.",
+      "Technical_Cues": {
+        "Camera": "A shot from inside the nest, looking up past the broken shell at the bird soaring into the vast, open sky.",
+        "Resolution": "8K, hyper-realistic, with fine detail on the texture of the shell and the feathers of the bird.",
+        "Lighting": "Natural, beautiful morning light to create a sense of freedom and newness.",
+        "Art_Genre": "Nature realism, with a strong symbolic message."
+      },
+      "Cultural_Anchors": [
+        "The bird flying away (புள் பறந்தற்று)",
+        "Leaving the eggshell alone (குடம்பை தனித்து ஒழிய)",
+        "The friendship between body and soul (உடம்பொடு உயிர் இடை நட்பு)"
+      ]
+    },
+    "Negative_Prompt": "bird trying to get back in the shell, sad bird, whole egg, text artifacts.",
+    "Hyperparameters": {
+      "variant": "pro",
+      "steps": 50,
+      "cfg_scale": 7,
+      "seed": "Explore different species of beautiful birds for the soul."
+    }
+  }
+}

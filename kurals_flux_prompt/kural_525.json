@@ -1,0 +1,39 @@
+{
+  "Kural_Info": {
+    "Number": 525,
+    "Chapter": "சுற்றந்தழால் (Cherishing Kinsmen)",
+    "Tamil_Text": "கொடுத்தலும் இன்சொலும் ஆற்றின் அடுக்கிய சுற்றத்தால் சுற்றப் படும்.",
+    "English_Meaning": "He will be surrounded by numerous relatives who manifests generosity and affability."
+  },
+  "Flux_Optimized_Prompt": {
+    "Layered_Composition": {
+      "Foreground": "A person is shown performing two actions. With one hand, they are giving a gift ('கொடுத்தல்'). From their mouth, gentle, kind words are flowing, visualized as soft, glowing butterflies ('இன்சொல்').",
+      "Midground": "Attracted by both the gifts and the kind words, relatives and friends ('சுற்றம்') from all around are shown joyfully gathering around the person, forming a dense, supportive circle.",
+      "Background": "The circle of relatives grows larger and larger, layer upon layer ('அடுக்கிய சுற்றத்தால்'), creating a scene of immense love and community."
+    },
+    "Art_Direction": {
+      "Subject_and_Action": "A person who practices both generous giving and kind speech will naturally attract and be surrounded by a multitude of kinsmen.",
+      "Symbolic_Motifs": "The butterflies of kind words and the act of giving are the two causes. The resulting effect is the ever-growing circle of loving relatives.",
+      "Mood_and_Emotion": "Magnetic, charming, benevolent, loved, communal.",
+      "Lighting_and_Color": "A warm, magical light illuminates the scene. The glowing butterflies add a touch of enchantment. The colors are bright, cheerful, and inviting.",
+      "Technical_Cues": {
+        "Camera": "A slightly high-angle shot that shows the central person and the growing circle of people being drawn to them.",
+        "Resolution": "8K, with beautiful particle effects for the butterfly-words.",
+        "Lighting": "Soft, radiant lighting that creates a welcoming atmosphere.",
+        "Art_Genre": "Magical realism, fantasy illustration."
+      }
+    },
+    "Cultural_Anchors": [
+      "Giving ('கொடுத்தல்')",
+      "Pleasant Speech ('இன்சொல்')",
+      "Being surrounded by numerous kin ('அடுக்கிய சுற்றத்தால்')"
+    ]
+  },
+  "Negative_Prompt": "person being cruel or silent, people leaving, dark scene, text artifacts, moths instead of butterflies.",
+  "Hyperparameters": {
+    "variant": "dev",
+    "steps": 40,
+    "cfg_scale": 8,
+    "seed": "Explore variations for the butterfly-words effect."
+  }
+}

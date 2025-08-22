@@ -1,0 +1,39 @@
+{
+  "Kural_Info": {
+    "Number": 830,
+    "Chapter": "கூடாநட்பு (Unreal Friendship)",
+    "Tamil_Text": "பகைநட்பாம் காலம் வருங்கால் முகநட்டு அகநட்பு ஒரீஇ விடல்.",
+    "English_Meaning": "When one's foes begin to affect friendship, one should love them with one's looks, and, cherishing no love in the heart, give up (even the former)."
+  },
+  "Flux_Optimized_Prompt": {
+    "Layered_Composition": {
+      "Foreground": "An old enemy is now approaching with a smile, pretending to be a friend ('பகை நட்பாம் காலம்').",
+      "Midground": "A wise person is shown greeting them with a perfectly friendly and smiling face ('முகநட்டு'). However, a surreal view into their heart reveals that there is absolutely no bond of friendship there; the space is empty ('அகநட்பு ஒரீஇ').",
+      "Background": "The wise person is maintaining a peaceful facade while completely severing any possibility of true internal attachment, thus managing the dangerous situation with perfect control."
+    },
+    "Art_Direction": {
+      "Subject_and_Action": "When a time comes that an enemy pretends to be a friend, smile with your face, but completely abandon any friendship in your heart.",
+      "Symbolic_Motifs": "The smiling face with the empty heart is the central metaphor. It is a visual representation of maintaining a diplomatic exterior while having no internal illusions.",
+      "Mood_and_Emotion": "Guarded, cautious, diplomatic, emotionally detached.",
+      "Lighting_and_Color": "The external scene is lit with a neutral, pleasant light. The symbolic view of the heart is shown as a clean, empty, and perhaps even cold, void.",
+      "Technical_Cues": {
+        "Camera": "A close-up on the wise person's face, with a surreal overlay showing their empty heart.",
+        "Resolution": "8K, with a strong focus on the contrast between the smiling face and the empty interior.",
+        "Lighting": "A clean, clear light.",
+        "Art_Genre": "Symbolic portraiture."
+      },
+      "Cultural_Anchors": [
+        "When an enemy becomes a friend ('பகை நட்பாம் காலம்')",
+        "Friendship on the face ('முகநட்டு')",
+        "Abandoning friendship in the heart ('அகநட்பு ஒரீஇ')"
+      ]
+    },
+    "Negative_Prompt": "a genuine smile, a heart full of friendship, text artifacts, cartoonish.",
+    "Hyperparameters": {
+      "variant": "pro",
+      "steps": 50,
+      "cfg_scale": 8,
+      "seed": "Explore variations for the 'empty heart' void."
+    }
+  }
+}

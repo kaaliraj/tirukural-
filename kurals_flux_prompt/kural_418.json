@@ -1,0 +1,39 @@
+{
+  "Kural_Info": {
+    "Number": 418,
+    "Chapter": "கேள்வி (Hearing)",
+    "Tamil_Text": "கேட்பினுங் கேளாத் தகையவே கேள்வியால் தோட்கப் படாத செவி.",
+    "English_Meaning": "The ear which has not been bored by instruction, although it hears, is deaf."
+  },
+  "Flux_Optimized_Prompt": {
+    "Layered_Composition": {
+      "Foreground": "A close-up on a person's head. Soundwaves representing speech are shown entering their ear canal.",
+      "Midground": "However, the ear canal is blocked by a solid, stone-like wall, representing an ear that has not been 'bored' or opened by learning ('தோட்கப்படாத செவி'). The soundwaves simply bounce off this wall.",
+      "Background": "The person has a blank, uncomprehending expression, visually representing that though they are physically hearing, they are functionally deaf ('கேளாத் தகையவே') to the wisdom being imparted."
+    },
+    "Art_Direction": {
+      "Subject_and_Action": "A powerful, literal metaphor for an ear that has not been cultivated by listening to wisdom. It may physically hear sound, but it is deaf to meaning.",
+      "Symbolic_Motifs": "The stone wall inside the ear is the central metaphor for a mind closed to learning. The bouncing soundwaves clearly show the inability to absorb knowledge.",
+      "Mood_and_Emotion": "Ineffectual, deaf, blocked, ignorant.",
+      "Lighting_and_Color": "A neutral, clinical lighting that focuses on the anatomical and symbolic detail. The soundwaves can be a vibrant color, but they are clearly shown being rejected.",
+      "Technical_Cues": {
+        "Camera": "Extreme close-up, stylized cross-section of the human ear.",
+        "Resolution": "8K, with high detail on the textures.",
+        "Lighting": "Clear, focused lighting to illustrate the concept.",
+        "Art_Genre": "Surrealist anatomical illustration."
+      }
+    },
+    "Cultural_Anchors": [
+      "An ear not 'bored' by hearing wisdom ('கேள்வியால் தோட்கப்படாத செவி')",
+      "Functional deafness to knowledge",
+      "The importance of a receptive mind."
+    ]
+  },
+  "Negative_Prompt": "soundwaves passing through, happy expression, text artifacts, cartoonish.",
+  "Hyperparameters": {
+    "variant": "dev",
+    "steps": 40,
+    "cfg_scale": 8,
+    "seed": "Explore variations for the texture of the stone wall."
+  }
+}

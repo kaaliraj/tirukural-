@@ -1,0 +1,38 @@
+{
+  "Kural_Info": {
+    "Number": 192,
+    "Chapter": "பயனில சொல்லாமை (Against Vain Speaking)",
+    "Tamil_Text": "பயனில பல்லார்முன் சொல்லல் நயனிலநட்டார்கண் செய்தலிற் றீது.",
+    "English_Meaning": "To speak useless things in the presence of many is a greater evil than to do unkind things towards friends."
+  },
+  "Flux_Optimized_Prompt": {
+    "Layered_Composition": {
+      "Foreground": "A split composition illustrating a hierarchy of evil.",
+      "Midground": "On the left, a person is shown performing an ungracious or unkind act towards their own friends ('நயன் இல நட்டார் கண் செய்தல்'). This is depicted as a significant, dark stain of bad karma.",
+      "Background": "On the right, a person is shown speaking useless, vain words before a large assembly of good people ('பயனில பல்லார் முன் சொல்லல்'). This act is shown to produce a far larger, darker, and more terrible stain of bad karma. It is the 'greater evil' ('தீது')."
+    },
+    "Art_Direction": {
+      "Subject_and_Action": "Speaking vain words in a worthy assembly is a worse sin than being unkind to one's own friends.",
+      "Symbolic_Motifs": "The size and intensity of the karmic stain is the visual measure of the evil of the act. The waste of a worthy assembly's time is shown to be a more profound sin than a personal betrayal of friendship.",
+      "Mood_and_Emotion": "Hierarchical evil, cautionary, judgmental.",
+      "Lighting_and_Color": "Both scenes are cast in a dim, sinful light. However, the karmic stain on the right is a deeper, more menacing black and seems to spread further, indicating its greater evil.",
+      "Technical_Cues": {
+        "Camera": "A comparative shot that uses the symbolic karmic stains to visually weigh the two sins against each other.",
+        "Resolution": "8K, ultra-realistic, with ethereal effects for the karmic stains.",
+        "Lighting": "Symbolic lighting that visually represents the degree of sin.",
+        "Art_Genre": "Allegorical painting."
+      },
+      "Cultural_Anchors": [
+        "Speaking useless things before many (பயனில பல்லார் முன் சொல்லல்)",
+        "Is worse than doing ungracious things to friends (நயன் இல நட்டார் கண் செய்தலின் தீது)"
+      ]
+    },
+    "Negative_Prompt": "stains being equal, text artifacts, happy sinner.",
+    "Hyperparameters": {
+      "variant": "pro",
+      "steps": 50,
+      "cfg_scale": 9,
+      "seed": "Explore the visual difference between the two 'karmic stains'."
+    }
+  }
+}

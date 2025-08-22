@@ -1,0 +1,38 @@
+{
+  "Kural_Info": {
+    "Number": 222,
+    "Chapter": "ஈகை (Giving)",
+    "Tamil_Text": "நல்லாறு எனினும் கொளல்தீது மேலுலகம்இல்லெனினும் ஈதலே நன்று.",
+    "English_Meaning": "To beg is evil, even though it were said that it is a good path (to heaven). To give is good, even though it were said that those who do so cannot obtain heaven."
+  },
+  "Flux_Optimized_Prompt": {
+    "Layered_Composition": {
+      "Foreground": "A split composition illustrating two absolute moral stances.",
+      "Midground": "On the left, a person is shown a beautiful, easy, shining path to heaven ('நல்லாறு'), but the condition of taking it is that they must beg or receive ('கொளல்'). The person is shown resolutely turning their back on this path, because the act of receiving is inherently evil ('தீது').",
+      "Background": "On the right, a person is shown giving charity ('ஈதல்'). They are told that this act will lead to a place where there is no heaven ('மேல் உலகம் இல்'). Despite this, they continue to give with a joyful and determined expression, because the act of giving is inherently good ('நன்று'), regardless of any reward."
+    },
+    "Art_Direction": {
+      "Subject_and_Action": "A powerful declaration of deontological ethics: receiving is inherently bad, even if it leads to heaven. Giving is inherently good, even if it leads to no reward.",
+      "Symbolic_Motifs": "The key is the rejection of consequence in favor of the inherent nature of the act. The person on the left rejects a guaranteed heaven to avoid the evil of receiving. The person on the right embraces the good of giving even with a guaranteed lack of reward.",
+      "Mood_and_Emotion": "Principled, resolute, selfless, deontological.",
+      "Lighting_and_Color": "The 'path to heaven' for the beggar is a tempting but ultimately false gold. The act of giving on the right is illuminated by its own pure, white light of inherent goodness, which is shown to be a superior light.",
+      "Technical_Cues": {
+        "Camera": "A balanced diptych that presents the two difficult, principled choices.",
+        "Resolution": "8K, ultra-realistic, with a focus on the resolute expressions of the two figures.",
+        "Lighting": "Symbolic lighting that contrasts the false promise of a reward with the true light of an inherently good act.",
+        "Art_Genre": "High-concept allegorical painting."
+      },
+      "Cultural_Anchors": [
+        "Receiving is evil, even if it's a good path (நல்லாறு எனினும் கொளல் தீது)",
+        "Giving is good, even if there is no heaven (மேல் உலகம் இல் எனினும் ஈதலே நன்று)"
+      ]
+    },
+    "Negative_Prompt": "person happily begging to get to heaven, person stopping giving, text artifacts.",
+    "Hyperparameters": {
+      "variant": "pro",
+      "steps": 55,
+      "cfg_scale": 9,
+      "seed": "Explore the visual of 'the light of an inherently good act'."
+    }
+  }
+}

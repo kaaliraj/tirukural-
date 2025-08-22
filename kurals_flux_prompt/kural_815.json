@@ -1,0 +1,39 @@
+{
+  "Kural_Info": {
+    "Number": 815,
+    "Chapter": "தீ நட்பு (Evil Friendship)",
+    "Tamil_Text": "செய்தேமஞ் சாராச் சிறியவர் புன்கேண்மைஎய்தலின் எய்தாமை நன்று.",
+    "English_Meaning": "It is far better to avoid that to contract the evil friendship of the base who cannot protect (their friends) even when appointed to do so."
+  },
+  "Flux_Optimized_Prompt": {
+    "Layered_Composition": {
+      "Foreground": "A person is in peril, perhaps trapped at the edge of a cliff. They reach out for help.",
+      "Midground": "Their 'friend', who is a base and worthless person ('சிறியவர்'), is standing nearby. This friend is not malicious, but they are utterly weak and incapable of providing any real protection or help ('செய்து ஏமம் சாரா'). Their attempt to help is feeble and useless.",
+      "Background": "A vision shows the alternative: if the person in peril had never made this friendship in the first place ('எய்தாமை'), they would be alone, but they would be more focused and perhaps able to save themselves. The false hope provided by the useless friend is shown to be worse than having no hope at all. It is better ('நன்று') to have never had such a friend."
+    },
+    "Art_Direction": {
+      "Subject_and_Action": "It is better to have no friends at all than to have the friendship of base, incapable people who cannot offer any real protection in times of need.",
+      "Symbolic_Motifs": "The uselessness of the help is key. The friend is not evil, just weak and ineffective. The friendship itself is a 'poor/miserable' thing ('புன்கேண்மை') that offers a dangerous illusion of security.",
+      "Mood_and_Emotion": "Useless, weak, false hope, better to be alone.",
+      "Lighting_and_Color": "A dim, perilous light fills the scene. The weak friend is depicted in faded, unimpressive colors. The mood is one of pathetic failure.",
+      "Technical_Cues": {
+        "Camera": "A dramatic shot that captures the person in peril and the utter inadequacy of their so-called friend.",
+        "Resolution": "8K, ultra-realistic, with a focus on the expressions of peril and pathetic weakness.",
+        "Lighting": "Gloomy, dramatic lighting to emphasize the dangerous situation.",
+        "Art_Genre": "Dramatic realism."
+      },
+      "Cultural_Anchors": [
+        "The miserable friendship of the base (சிறியவர் புன்கேண்மை)",
+        "Who cannot provide protection (செய்து ஏமம் சாரா)",
+        "Not gaining it is better than gaining it (எய்தலின் எய்தாமை நன்று)"
+      ]
+    },
+    "Negative_Prompt": "strong friend, successful rescue, text artifacts.",
+    "Hyperparameters": {
+      "variant": "dev",
+      "steps": 40,
+      "cfg_scale": 8,
+      "seed": "Explore the body language of the 'useless' friend."
+    }
+  }
+}

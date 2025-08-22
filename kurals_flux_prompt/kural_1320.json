@@ -1,0 +1,39 @@
+{
+  "Kural_Info": {
+    "Number": 1320,
+    "Chapter": "புலவி நுணுக்கம் (Feigned Anger)",
+    "Tamil_Text": "நினைத்திருந்து நோக்கினும் காயும் அனைத்துநீர்யாருள்ளி நோக்கினீர் என்று.",
+    "English_Meaning": "Even when I look on her contemplating (her beauty), she is displeased and says, \"With whose thought have you (thus) looked on my person?\"."
+  },
+  "Flux_Optimized_Prompt": {
+    "Layered_Composition": {
+      "Foreground": "A lover is sitting in silent adoration, simply looking at his beloved ('நினைத்து இருந்து நோக்கினும்'). His gaze is full of love and appreciation of her beauty.",
+      "Midground": "She notices his intense, thoughtful gaze. Instead of being pleased, she becomes angry ('காயும்').",
+      "Background": "Her jealous accusation is visualized. She imagines that he is not actually seeing her, but is using her as a screen upon which he is projecting the memory of another woman. Her question appears as text: 'In whose memory are you looking at me like that?' ('யார் உள்ளி நோக்கினீர்?')."
+    },
+    "Art_Direction": {
+      "Subject_and_Action": "The ultimate expression of the beloved's creative jealousy: even when her lover silently adores her, she accuses him of using her as a stand-in for the memory of another woman.",
+      "Symbolic_Motifs": "The visual of him projecting another woman's image onto her is the key to understanding her seemingly insane accusation. His act of pure adoration is twisted into an act of betrayal by her ingenious jealousy.",
+      "Mood_and_Emotion": "Ultimate jealousy, ingenious suspicion, humorous, exasperated.",
+      "Lighting_and_Color": "A soft, adoring light emanates from the man's gaze. Her jealous mind creates a disturbing, ghostly overlay of another woman, which momentarily disrupts the romantic scene.",
+      "Technical_Cues": {
+        "Camera": "A shot from her perspective, where we see his adoring gaze, but then her jealous imagination causes the ghostly image of another woman to flicker over her own view of herself.",
+        "Resolution": "8K, ultra-realistic, with a focus on the surreal, psychological effect of her jealousy.",
+        "Lighting": "Soft romantic lighting disrupted by a surreal, ghostly visual effect.",
+        "Art_Genre": "Psychological romance, surrealism."
+      },
+      "Cultural_Anchors": [
+        "Even if I gaze on her in thought (நினைத்திருந்து நோக்கினும்)",
+        "She gets angry (காயும்)",
+        "Asking 'Thinking of whom do you look at me?' (யார் உள்ளி நோக்கினீர்?)"
+      ]
+    },
+    "Negative_Prompt": "woman enjoying the adoration, text artifacts.",
+    "Hyperparameters": {
+      "variant": "pro",
+      "steps": 50,
+      "cfg_scale": 8,
+      "seed": "Explore the surreal effect of the 'projected memory'."
+    }
+  }
+}

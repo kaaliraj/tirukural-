@@ -1,0 +1,38 @@
+{
+  "Kural_Info": {
+    "Number": 1232,
+    "Chapter": "உறுப்புநலனழிதல் (Wasting Away)",
+    "Tamil_Text": "நயந்தவர் நல்காமை சொல்லுவ போலும்பசந்து பனிவாரும் கண்.",
+    "English_Meaning": "The eye, with sorrow wan, all wet with dew of tears, As witness of the lover's lack of love appears."
+  },
+  "Flux_Optimized_Prompt": {
+    "Layered_Composition": {
+      "Foreground": "A close-up on a woman's eyes. The eyes have a pale, sallow hue around them ('பசந்து') and are overflowing with tears ('பனி வாரும்').",
+      "Midground": "The eyes are not just crying; they are depicted as if they are speaking. The tears themselves form into ghostly, accusing words that float in the air.",
+      "Background": "The words that the tear-filled, sallow eyes are speaking are: 'He who desired me does not show me grace' ('நயந்தவர் நல்காமை'). They are acting as a direct, public witness to the absent lover's unkindness."
+    },
+    "Art_Direction": {
+      "Subject_and_Action": "The woman's sallow, tear-filled eyes are themselves a silent testament, speaking out and proclaiming the unkindness of her beloved.",
+      "Symbolic_Motifs": "The eyes as a speaking witness is the central metaphor. The tears forming words makes this concept literal and powerful. The pallor around the eyes is part of their testimony.",
+      "Mood_and_Emotion": "Accusatory, sorrowful, testament, witness.",
+      "Lighting_and_Color": "A sad, melancholic light. The tears have a slight, glistening, ethereal quality, and the ghostly words they form are a pale, sorrowful blue. The sallow color around the eyes is a sickly yellow-green.",
+      "Technical_Cues": {
+        "Camera": "An extreme close-up on the eyes, capturing both the pallor and the tears, with the ethereal words materializing from them.",
+        "Resolution": "8K, ultra-realistic, with advanced particle and text effects for the tear-words.",
+        "Lighting": "Soft, sorrowful lighting.",
+        "Art_Genre": "Magical realism, emotional portraiture."
+      },
+      "Cultural_Anchors": [
+        "Sallow and tear-shedding eyes (பசந்து பனி வாரும் கண்)",
+        "They seem to speak of his unkindness (நல்காமை சொல்லுவ போலும்)"
+      ]
+    },
+    "Negative_Prompt": "dry eyes, happy expression, text artifacts, joyful words.",
+    "Hyperparameters": {
+      "variant": "pro",
+      "steps": 50,
+      "cfg_scale": 8,
+      "seed": "Explore the visual of tears forming into spectral words."
+    }
+  }
+}

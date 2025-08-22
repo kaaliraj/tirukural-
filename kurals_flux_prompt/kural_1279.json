@@ -1,0 +1,34 @@
+{
+  "Kural_Info": {
+    "Number": 1279,
+    "Chapter": "குறிப்பறிவுறுத்தல் (The Reading of the Signs)",
+    "Tamil_Text": "தொடிநோக்கி மென்தோளும் நோக்கி அடிநோக்கிஅஃதாண் டவள்செய் தது.",
+    "English_Meaning": "She viewed her tender arms, she viewed the armlets from them slid; She viewed her feet: all this the lady did."
+  },
+  "Flux_Optimized_Prompt": {
+    "Layered_Composition": {
+      "Foreground": "A woman is standing, her body language telling a story of unspoken sorrow and accusation. She is not speaking to her lover.",
+      "Midground": "Instead, she performs a sequence of three deliberate, meaningful glances: First, she looks at her loose bracelets ('Thodi Nokki'). Second, she looks at her now-thin shoulders ('Mentholum Nokki'). Third, she looks down at her own feet ('Adi Nokki'), as if contemplating the journey he is about to take.",
+      "Background": "Her lover is watching her, and he is meant to understand this sequence of glances as a powerful, silent accusation: 'Look what your impending departure has already done to me.'"
+    },
+    "Art_Direction": {
+      "Subject_and_Action": "A description of the silent, sign-language of a suffering lover, who uses a sequence of glances at her own pining body to communicate her sorrow and blame to her lover.",
+      "Symbolic_Motifs": "The sequence of three glances is the central narrative action. Each glance is a chapter in her silent complaint.",
+      "Mood_and_Emotion": "Subtle, accusatory, melancholic, a masterpiece of non-verbal communication.",
+      "Lighting_and_Color": "Soft, dramatic interior lighting that highlights her gestures and the objects of her gaze (the bracelets, her shoulders)."
+    },
+    "Technical_Cues": {
+      "Camera": "A slow, panning shot that follows her sequence of glances, allowing the viewer to decode the meaning along with her lover.",
+      "Resolution": "8K, photorealistic, with an intense focus on the subtlety of body language and eye movement.",
+      "Lighting": "Chiaroscuro or Rembrandt lighting to create a dramatic and intimate mood.",
+      "Art_Genre": "Cinematic realism, telling a story through pure action and expression."
+    },
+    "Cultural_Anchors": [
+      "Non-verbal communication in love (குறிப்பறிதல்)",
+      "The sequence of glances as a narrative",
+      "தொடி (Bracelets)",
+      "மென்தோள் (Tender/thin shoulders)"
+    ]
+  },
+  "Negative_Prompt": "a woman talking, a happy expression, modern clothing, text artifacts, cartoonish, blurry."
+}

@@ -1,0 +1,40 @@
+{
+  "Kural_Info": {
+    "Number": 682,
+    "Chapter": "தூது (The Envoy)",
+    "Tamil_Text": "அன்பறிவு ஆராய்ந்த சொல்வன்மை தூதுரைப்பார்க்கு இன்றி யமையாத மூன்று.",
+    "English_Meaning": "Love (to his sovereign), knowledge (of his affairs), and a discriminating power of speech (before other sovereigns) are the three sine qua non qualifications of an ambassador."
+  },
+  "Flux_Optimized_Prompt": {
+    "Layered_Composition": {
+      "Foreground": "An envoy stands before a foreign king, embodying three indispensable virtues.",
+      "Midground": "A steadfast, glowing loyalty to his own king is shown as a light in his heart ('அன்பு'). A brilliant light of knowledge about the matters at hand shines from his mind ('அறிவு'). His speech is visualized as a skillful hand carefully choosing the perfect, most effective words from a floating array of possibilities ('ஆராய்ந்த சொல்வன்மை').",
+      "Background": "A tense but successful diplomatic negotiation, where these three qualities are clearly leading to a favorable outcome."
+    },
+    "Art_Direction": {
+      "Subject_and_Action": "The three absolutely essential qualities of an envoy are loyalty, knowledge, and the power of discerning speech.",
+      "Symbolic_Motifs": "The glowing heart (loyalty), glowing mind (knowledge), and the skillful hand choosing words (discerning speech) are the three core visuals.",
+      "Mood_and_Emotion": "Intelligent, loyal, eloquent, indispensable.",
+      "Lighting_and_Color": "A clear, intellectual light. The three virtues glow with a confident and powerful light, showing their importance.",
+      "Technical_Cues": {
+        "Camera": "A medium shot focusing on the envoy and the visualization of his three key skills in action.",
+        "Resolution": "8K, with abstract and symbolic effects for the virtues.",
+        "Lighting": "The light from the three virtues illuminates the envoy, showing they are the source of his power.",
+        "Art_Genre": "Symbolic realism, with a touch of fantasy."
+      }
+    },
+    "Cultural_Anchors": [
+      "Loyalty ('அன்பு')",
+      "Knowledge ('அறிவு')",
+      "Discerning Speech ('ஆராய்ந்த சொல்வன்மை')",
+      "The three indispensable qualities."
+    ]
+  },
+  "Negative_Prompt": "disloyal envoy, ignorant envoy, clumsy speech, text artifacts.",
+  "Hyperparameters": {
+    "variant": "dev",
+    "steps": 45,
+    "cfg_scale": 8,
+    "seed": "Explore variations for the 'hand choosing words' effect."
+  }
+}

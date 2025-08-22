@@ -1,0 +1,38 @@
+{
+  "Kural_Info": {
+    "Number": 390,
+    "Chapter": "இறைமாட்சி (The Greatness of a King)",
+    "Tamil_Text": "கொடையளி செங்கோல் குடியோம்பல் நான்கும் உடையானாம் வேந்தர்க் கொளி.",
+    "English_Meaning": "Gifts, grace, right sceptre, care of people's weal; These four a light of dreaded kings reveal."
+  },
+  "Flux_Optimized_Prompt": {
+    "Layered_Composition": {
+      "Foreground": "A king stands as a radiant beacon of light ('ஒளி') in the center of his kingdom.",
+      "Midground": "Four distinct beams of light emanate from him, each illuminating a different scene: one beam shows him giving gifts ('கொடை'), another shows him expressing compassion ('அளி'), a third shows a perfectly balanced scale representing his just rule ('செங்கோல்'), and the fourth shows him protecting his people ('குடியோம்பல்').",
+      "Background": "The entire kingdom is bright, prosperous, and looks towards its king as the source of its light and stability."
+    },
+    "Art_Direction": {
+      "Subject_and_Action": "A king who possesses the four virtues of liberality, grace, justice, and care for his people is a shining light among all rulers.",
+      "Symbolic_Motifs": "The king as a literal source of light ('ஒளி') is the central metaphor. The four beams of light, each with a symbolic scene, represent the four essential virtues.",
+      "Mood_and_Emotion": "Illustrious, virtuous, radiant, benevolent, ideal.",
+      "Lighting_and_Color": "The entire scene is dominated by the brilliant, pure white light emanating from the king. Each of the four beams has a slightly different warm hue (e.g., golden for gifts, soft pink for grace, white for justice, green for protection)."
+    },
+    "Technical_Cues": {
+      "Camera": "High-angle shot, looking down slightly to show the king and the four beams illuminating his land.",
+      "Resolution": "8K, cinematic, with epic volumetric lighting and god ray effects.",
+      "Lighting": "The king is the primary light source, creating a powerful and divine atmosphere.",
+      "Art_Genre": "Mythical art, fantasy realism, allegorical painting."
+    },
+    "Cultural_Anchors": [
+      "The Four Virtues: 'Kodai' (Gifts), 'Ali' (Grace), 'Sengol' (Justice), 'Kudiyombal' (Care of People)",
+      "King as a Light ('வேந்தர்க்கு ஒளி')"
+    ]
+  },
+  "Negative_Prompt": "dark king, scenes of suffering, broken scales, text artifacts, blurry, modern imagery.",
+  "Hyperparameters": {
+    "variant": "pro",
+    "steps": 50,
+    "cfg_scale": 8,
+    "seed": "Explore variations in the scenes depicted by the four light beams."
+  }
+}

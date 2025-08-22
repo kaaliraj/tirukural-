@@ -1,0 +1,36 @@
+{
+  "Kural_Info": {
+    "Number": 983,
+    "Chapter": "சான்றாண்மை (Perfectness)",
+    "Tamil_Text": "அன்புநாண் ஒப்புரவு கண்ணோட்டம் வாய்மையொடுஐந்துசால் ஊன்றிய தூண்.",
+    "English_Meaning": "Love, modesty, beneficence, benignant grace, With truth, are pillars five of perfect virtue's resting-place."
+  },
+  "Flux_Optimized_Prompt": {
+    "Layered_Composition": {
+      "Foreground": "In the center, the concept of 'Saalbu' (Perfect Goodness) is visualized as a magnificent, floating celestial temple or a grand banyan tree.",
+      "Midground": "This central structure is held up not by one, but by five distinct, massive pillars ('Aindhu Thoon') that rise from the earth to support it. Each pillar is intricately carved with symbols of its respective virtue.",
+      "Background": "A serene, enlightened world stretches out from the base of the pillars, suggesting the stable and harmonious society that rests upon these virtues."
+    },
+    "Art_Direction": {
+      "Subject_and_Action": "An architectural metaphor for Perfect Goodness, showing it as a grand structure firmly supported by the five essential pillars of virtue.",
+      "Symbolic_Motifs": "Each pillar is a character: 1. 'Anbu' (Love) carved with images of compassion. 2. 'Naan' (Modesty) with symbols of humility. 3. 'Oppuravu' (Beneficence) with scenes of giving. 4. 'Kannottam' (Grace/Empathy) with depictions of kind eyes. 5. 'Vaimai' (Truth) with symbols of unwavering straightness.",
+      "Mood_and_Emotion": "Foundational, strong, noble, awe-inspiring, and stable.",
+      "Lighting_and_Color": "Divine, ethereal light shines down on the central structure. Each pillar glows with a soft, distinct color (e.g., pink for love, white for truth). The overall palette is bright and harmonious."
+    },
+    "Technical_Cues": {
+      "Camera": "Ultra-wide, low-angle cinematic shot to capture the immense scale and grandeur of the pillars and the structure they support.",
+      "Resolution": "8K, epic fantasy architecture, with hyper-detailed carvings on each pillar.",
+      "Lighting": "God rays from above, with each pillar having its own internal, soft volumetric glow.",
+      "Art_Genre": "Symbolic architectural concept art, blending mythological and realistic styles."
+    },
+    "Cultural_Anchors": [
+      "அன்பு (Love)",
+      "நாண் (Modesty)",
+      "ஒப்புரவு (Beneficence)",
+      "கண்ணோட்டம் (Benignant Grace)",
+      "வாய்மை (Truthfulness)",
+      "சான்றாண்மை (Perfect Goodness)"
+    ]
+  },
+  "Negative_Prompt": "cracked pillars, crumbling structure, small scale, modern architecture, dark and stormy background, text artifacts."
+}

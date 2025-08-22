@@ -1,0 +1,39 @@
+{
+  "Kural_Info": {
+    "Number": 916,
+    "Chapter": "வரைவின்மகளிர் (Wanton Women)",
+    "Tamil_Text": "தந்நலம் பாரிப்பார் தோயார் தகைசெருக்கிப் புன்னலம் பாரிப்பார் தோள்.",
+    "English_Meaning": "Those who would spread (the fame of) their own goodness will not desire the shoulders of those who rejoice in their accomplishments and bestow their despicable favours (on all who pay)."
+  },
+  "Flux_Optimized_Prompt": {
+    "Layered_Composition": {
+      "Foreground": "A virtuous person is shown cultivating their own goodness, which is visualized as a beautiful, radiant garden of light ('தந்நலம் பாரிப்பார்').",
+      "Midground": "They are tempted by the embrace of a courtesan, who is proud of her superficial beauty ('தகைசெருக்கி') and offers her base favors ('புன்னலம்'). Her embrace is shown as a thorny, dark vine.",
+      "Background": "The virtuous person is shown actively refusing this embrace ('தோயார்'), knowing that the thorny vine of base pleasure will ruin their beautiful garden of goodness. They are protecting their own virtue."
+    },
+    "Art_Direction": {
+      "Subject_and_Action": "Those who are concerned with cultivating their own true welfare and glory will not touch the embrace of those who sell their base favors.",
+      "Symbolic_Motifs": "The garden of goodness is the virtue to be protected. The thorny vine of the courtesan's embrace is the threat. The act of refusal is the protection of one's virtue.",
+      "Mood_and_Emotion": "Self-protective, virtuous, discerning.",
+      "Lighting_and_Color": "The garden of goodness is filled with a pure, white and golden light. The thorny vine is dark and menacing. The choice is between light and shadow.",
+      "Technical_Cues": {
+        "Camera": "A shot that shows the virtuous person standing protectively in front of their garden, warding off the encroaching thorny vine.",
+        "Resolution": "8K, with a beautiful contrast between the garden and the thorns.",
+        "Lighting": "High-contrast lighting.",
+        "Art_Genre": "Symbolic fantasy art."
+      },
+      "Cultural_Anchors": [
+        "Those who cultivate their own good ('தந்நலம் பாரிப்பார்')",
+        "Will not touch the shoulders of the proud seller of base favors.",
+        "Protecting one's virtue from corruption."
+      ]
+    },
+    "Negative_Prompt": "person embracing the thorns, a ruined garden, text artifacts.",
+    "Hyperparameters": {
+      "variant": "pro",
+      "steps": 50,
+      "cfg_scale": 8,
+      "seed": "Explore variations for the garden of goodness."
+    }
+  }
+}

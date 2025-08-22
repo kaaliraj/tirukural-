@@ -1,0 +1,33 @@
+{
+  "Kural_Info": {
+    "Number": 973,
+    "Chapter": "பெருமை (Greatness)",
+    "Tamil_Text": "மேலிருந்தும் மேலல்லார் மேலல்லர் கீழிருந்தும்கீழல்லார் கீழல் லவர்.",
+    "English_Meaning": "The men of lofty line, whose souls are mean, are never great. The men of lowly birth, when high of soul, are not of low estate."
+  },
+  "Flux_Optimized_Prompt": {
+    "Layered_Composition": {
+      "Foreground": "A dramatic juxtaposition. On a high pedestal, a richly adorned but spiritually hollow man ('Melirunthum Melallar') looks down with a vacant expression. At the base, a humble man in simple attire ('Keezhirunthum Keezhallar') radiates an inner light of integrity and wisdom.",
+      "Midground": "The shadow cast by the man on the pedestal is small and insignificant. In contrast, the shadow of the humble man at the base stretches out, long and noble, like that of a king.",
+      "Background": "A grand but cold and sterile marble hall for the 'high-born' man, and a simple but warm and vibrant natural setting for the 'low-born' man, emphasizing the true source of greatness."
+    },
+    "Art_Direction": {
+      "Subject_and_Action": "A visual argument that true greatness is not determined by social status but by inner worth and character.",
+      "Symbolic_Motifs": "The contrast in shadows is the central metaphor. The inner light from the humble man symbolizes his true nobility. The pedestal symbolizes superficial social status.",
+      "Mood_and_Emotion": "Profound, contemplative, subverting expectations of status and worth.",
+      "Lighting_and_Color": "Harsh, cold top-down lighting on the man on the pedestal, creating unflattering shadows. A warm, golden backlight for the humble man, creating a heroic silhouette and a long, noble shadow."
+    },
+    "Technical_Cues": {
+      "Camera": "Ultra-wide shot with a dramatic low angle, making the humble man's shadow feel immense and the man on the pedestal feel isolated.",
+      "Resolution": "8K, hyper-realistic, focusing on the textures and the emotional expressions of the subjects.",
+      "Lighting": "High-contrast chiaroscuro, volumetric light, strong shadow play.",
+      "Art_Genre": "Symbolic realism with strong allegorical elements."
+    },
+    "Cultural_Anchors": [
+      "True greatness vs. social status",
+      "Inner worth (அகச் சிறப்பு)",
+      "Subversion of caste or class hierarchy"
+    ]
+  },
+  "Negative_Prompt": "smiling figures, neutral lighting, modern attire, text artifacts, blurry, cartoonish, equal shadows."
+}

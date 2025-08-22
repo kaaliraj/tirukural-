@@ -1,0 +1,39 @@
+{
+  "Kural_Info": {
+    "Number": 69,
+    "Chapter": "மக்கட்பேறு (The Offspring)",
+    "Tamil_Text": "ஈன்ற பொழுதின் பெரிதுவக்கும் தன்மகனைச்சான்றோன் எனக்கேட்ட தாய்.",
+    "English_Meaning": "The mother who hears her son called \"a wise man\" will rejoice more than she did at his birth."
+  },
+  "Flux_Optimized_Prompt": {
+    "Layered_Composition": {
+      "Foreground": "A mother is shown listening as a respected messenger or elder speaks to her.",
+      "Midground": "The words from the messenger, 'Your son is a wise and perfect man' ('சான்றோன்'), manifest as glowing golden letters that float towards the mother and enter her heart.",
+      "Background": "A split-vision in the background. On one side, a flashback to the moment of childbirth ('ஈன்ற பொழுதின்'), depicted with a soft, happy light. On the other side, the mother's present reaction: a light of joy that is visibly far larger and more brilliant ('பெரிது உவக்கும்') than the light from the childbirth scene."
+    },
+    "Art_Direction": {
+      "Subject_and_Action": "The joy a mother feels upon hearing her son praised as a man of wisdom surpasses even the immense joy she felt at the moment of his birth.",
+      "Symbolic_Motifs": "The direct visual comparison of the two joys is crucial. This is represented by the size and intensity of the two lights of 'Uvappu' (joy). The words of praise are tangible and have the power to create this supreme happiness.",
+      "Mood_and_Emotion": "Supreme joy, fulfilling, ultimate maternal pride, profound.",
+      "Lighting_and_Color": "The scene is lit by the mother's own emotional reaction. The 'joy of praise' is a brilliant, overwhelming golden-white light. The 'joy of birth' is a beautiful but smaller, softer pinkish-gold light.",
+      "Technical_Cues": {
+        "Camera": "Close-up on the mother's face, capturing her sublime expression as she hears the news, with the symbolic background visions clearly visible.",
+        "Resolution": "8K, hyper-realistic, focusing on the subtle but powerful emotional transition on the mother's face.",
+        "Lighting": "Symbolic lighting originating from the mother's heart, with varying intensity to compare the two joys.",
+        "Art_Genre": "Emotional portraiture, magical realism."
+      },
+      "Cultural_Anchors": [
+        "The joy of childbirth (ஈன்ற பொழுதின்)",
+        "Hearing one's son called 'Saandron' (சான்றோன் எனக்கேட்ட)",
+        "The greater joy (பெரிது உவக்கும்)"
+      ]
+    },
+    "Negative_Prompt": "sad mother, arrogant son, unimpressive flashback, text artifacts, deformed baby.",
+    "Hyperparameters": {
+      "variant": "pro",
+      "steps": 50,
+      "cfg_scale": 8,
+      "seed": "Explore the mother's expression of supreme joy."
+    }
+  }
+}

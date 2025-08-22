@@ -1,0 +1,39 @@
+{
+  "Kural_Info": {
+    "Number": 129,
+    "Chapter": "அடக்கமுடைமை (The Possession of Self-restraint)",
+    "Tamil_Text": "தீயினாற் சுட்டபுண் உள்ளாறும் ஆறாதேநாவினாற் சுட்ட வடு.",
+    "English_Meaning": "The wound which has been burnt in by fire may heal, but a wound burnt in by the tongue will never heal."
+  },
+  "Flux_Optimized_Prompt": {
+    "Layered_Composition": {
+      "Foreground": "A split composition of a person's inner and outer self.",
+      "Midground": "On their physical arm, there is a burn wound from a fire ('தீயினால் சுட்ட புண்'). However, golden, healing light is flowing over it, and the wound is visibly closing and healing from within ('உள் ஆறும்').",
+      "Background": "In their heart or soul, there is another wound. This wound was created by a harsh word from a tongue ('நாவினால் சுட்ட வடு'). It is depicted as a black, festering, unhealing scar from which shadows emanate. No healing light can touch it; it is permanent ('ஆறாதே')."
+    },
+    "Art_Direction": {
+      "Subject_and_Action": "A powerful contrast between a physical burn and a verbal wound: the wound from fire will heal, but the scar left on the soul by a cruel tongue will never heal.",
+      "Symbolic_Motifs": "The contrast between the healing physical wound and the permanent soul-scar is the central visual. The tongue that spoke the word can be visualized as a fiery, branding iron that created the unhealing mark.",
+      "Mood_and_Emotion": "Permanent, scarring, painful, profound, cautionary.",
+      "Lighting_and_Color": "The physical wound is surrounded by the warm, golden light of healing. The soul-scar is a source of darkness, a black hole of pain that absorbs light.",
+      "Technical_Cues": {
+        "Camera": "A symbolic, cross-section shot that shows both the physical body and the inner soul, allowing for a direct comparison of the two wounds.",
+        "Resolution": "8K, ultra-realistic, with medical accuracy for the healing burn and symbolic, dark energy effects for the soul-scar.",
+        "Lighting": "Dualistic lighting to contrast healing and permanent affliction.",
+        "Art_Genre": "Surrealist medical illustration, symbolic art."
+      },
+      "Cultural_Anchors": [
+        "The wound from fire (தீயினால் சுட்ட புண்)",
+        "The scar from the tongue (நாவினால் சுட்ட வடு)",
+        "It will not heal (ஆறாதே)"
+      ]
+    },
+    "Negative_Prompt": "healing soul-scar, permanent physical wound, text artifacts, happy person.",
+    "Hyperparameters": {
+      "variant": "pro",
+      "steps": 50,
+      "cfg_scale": 9,
+      "seed": "Explore the visual design of the unhealing 'soul-scar'."
+    }
+  }
+}

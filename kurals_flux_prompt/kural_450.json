@@ -1,0 +1,39 @@
+{
+  "Kural_Info": {
+    "Number": 450,
+    "Chapter": "பெரியாரைத் துணைக்கோடல் (Seeking the Aid of Great Men)",
+    "Tamil_Text": "பல்லார் பகைகொளலிற் பத்தடுத்த தீமைத்தே நல்லார் தொடர்கை விடல்.",
+    "English_Meaning": "It is tenfold more injurious to abandon the friendship of the good, than to incur the hatred of the many."
+  },
+  "Flux_Optimized_Prompt": {
+    "Layered_Composition": {
+      "Foreground": "A central figure, a ruler, is making a choice. On one side, a huge, angry mob of many people ('பல்லார் பகை') glares at him.",
+      "Midground": "On the other side, a single, wise, and good friend ('நல்லார்') is being pushed away by the ruler. As the good friend is pushed away, a terrifying shadowy beast, ten times the size of the mob, emerges from the void created by the friend's departure. This beast represents the tenfold greater evil ('பத்தடுத்த தீமை').",
+      "Background": "The ruler's kingdom is shown, threatened more by the giant shadow beast than by the angry mob."
+    },
+    "Art_Direction": {
+      "Subject_and_Action": "A dramatic visualization that losing the friendship of one good person is ten times more harmful than making enemies of a multitude.",
+      "Symbolic_Motifs": "The angry mob represents 'the hatred of the many'. The giant shadow beast emerging from the absence of the good friend is the literal representation of the 'tenfold greater evil'.",
+      "Mood_and_Emotion": "Dramatic, cautionary, a terrible choice, profound loss.",
+      "Lighting_and_Color": "The mob is lit with angry reds and oranges. The good friend has a gentle, calming aura. The shadow beast is a terrifying, light-absorbing black, casting a pall over the entire kingdom."
+    },
+    "Technical_Cues": {
+      "Camera": "A wide, dynamic shot that captures the ruler's choice and the immediate, monstrous consequence.",
+      "Resolution": "8K, cinematic, with creature design for the shadow beast.",
+      "Lighting": "High-contrast, with the shadow beast creating the dominant mood of dread.",
+      "Art_Genre": "Dark fantasy, allegorical art."
+    },
+    "Cultural_Anchors": [
+      "Losing a good friend ('நல்லார் தொடர்கை விடல்')",
+      "Hatred of the many ('பல்லார் பகை')",
+      "The tenfold greater evil ('பத்தடுத்த தீமை')"
+    ]
+  },
+  "Negative_Prompt": "ruler embracing the good friend, small shadow beast, happy mob, text artifacts.",
+  "Hyperparameters": {
+    "variant": "pro",
+    "steps": 50,
+    "cfg_scale": 9,
+    "seed": "Explore variations for the design of the shadow beast."
+  }
+}

@@ -1,0 +1,39 @@
+{
+  "Kural_Info": {
+    "Number": 235,
+    "Chapter": "புகழ் (Renown)",
+    "Tamil_Text": "நத்தம்போல் கேடும் உளதாகும் சாக்காடும்வித்தகர்க் கல்லால் அரிது.",
+    "English_Meaning": "Prosperity to the body of fame, resulting in poverty to the body of flesh and the stability to the former arising from the death of the latter, are achievable only by the wise."
+  },
+  "Flux_Optimized_Prompt": {
+    "Layered_Composition": {
+      "Foreground": "A wise person ('வித்தகர்') is shown making a profound choice.",
+      "Midground": "They have two bodies: a physical, mortal body of flesh, and a second, ethereal body of Fame. They are shown deliberately allowing their physical body to endure ruin and loss ('கேடு') and even death ('சாக்காடு').",
+      "Background": "This sacrifice of the physical is shown to be a transfer of energy. As the physical body withers and dies, the ethereal body of Fame grows stronger, more solid, and more prosperous ('நத்தம் போல்'), becoming eternal. Only the wise can make this exchange."
+    },
+    "Art_Direction": {
+      "Subject_and_Action": "Only the wise understand the alchemy of sacrificing worldly prosperity and even life itself to achieve a flourishing and immortal life of fame.",
+      "Symbolic_Motifs": "The two bodies—one of flesh, one of fame—is the central metaphor. The key action is the transfer of energy from the mortal to the immortal. The 'loss' in the physical realm is a direct 'gain' in the realm of fame.",
+      "Mood_and_Emotion": "Alchemical, transcendent, sacrificial, wise.",
+      "Lighting_and_Color": "The physical body and its world are in fading, decaying colors. As they fade, their light and color are absorbed into the body of Fame, which becomes increasingly brilliant, solid, and golden.",
+      "Technical_Cues": {
+        "Camera": "A symbolic shot that shows the life-force draining from the physical body and being transfused into the ethereal body of Fame.",
+        "Resolution": "8K, ultra-realistic, with advanced ethereal effects for the body of Fame.",
+        "Lighting": "A dynamic transfer of light and energy from one form to another.",
+        "Art_Genre": "Symbolic realism, with magical elements."
+      },
+      "Cultural_Anchors": [
+        "A ruin that is a flourishing (நத்தம் போல் கேடு)",
+        "A death that is a becoming (உளதாகும் சாக்காடு)",
+        "Is rare except for the wise (வித்தகர்க்கு அல்லால் அரிது)"
+      ]
+    },
+    "Negative_Prompt": "body of fame dying, text artifacts, wise person looking sad.",
+    "Hyperparameters": {
+      "variant": "pro",
+      "steps": 55,
+      "cfg_scale": 8,
+      "seed": "Explore the visual of 'life-force transfer'."
+    }
+  }
+}

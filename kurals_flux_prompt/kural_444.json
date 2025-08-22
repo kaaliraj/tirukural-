@@ -1,0 +1,39 @@
+{
+  "Kural_Info": {
+    "Number": 444,
+    "Chapter": "பெரியாரைத் துணைக்கோடல் (Seeking the Aid of Great Men)",
+    "Tamil_Text": "தம்மிற் பெரியார் தமரா ஒழுகுதல் வன்மையு ளெல்லாந் தலை.",
+    "English_Meaning": "To live with men of greatness that their own excels, As cherished friends, is greatest power that with a monarch dwells."
+  },
+  "Flux_Optimized_Prompt": {
+    "Layered_Composition": {
+      "Foreground": "A king is shown walking alongside a group of wise elders who are clearly his superiors in wisdom and experience ('தம்மிற் பெரியார்'). He is not leading them, but walking with them as an equal, listening intently.",
+      "Midground": "From this act of respectful association, a powerful aura of strength and stability ('வன்மையுள் எல்லாம் தலை') emanates from the king, forming a protective dome over his entire kingdom.",
+      "Background": "Beneath this dome of power, the kingdom is shown to be strong, secure, and invincible."
+    },
+    "Art_Direction": {
+      "Subject_and_Action": "The greatest of all powers for a ruler is to associate with those greater than oneself as friends and allies.",
+      "Symbolic_Motifs": "The king walking as an equal, not a superior, shows his wisdom. The aura of power that springs from this association is the visual representation of the 'greatest strength'.",
+      "Mood_and_Emotion": "Powerful, wise, humble, secure, supreme strength.",
+      "Lighting_and_Color": "A brilliant, powerful light forms the dome of strength, emanating from the group of the king and his wise companions. The colors are regal and strong, signifying power and stability."
+    },
+    "Technical_Cues": {
+      "Camera": "A wide, epic shot that shows the king, his companions, the resulting aura of power, and the protected kingdom.",
+      "Resolution": "8K, cinematic, with impressive energy effects for the dome of power.",
+      "Lighting": "The primary light source is the group of wise individuals, showing that they are the source of the king's greatest power.",
+      "Art_Genre": "Epic fantasy art, mythological painting."
+    },
+    "Cultural_Anchors": [
+      "Associating with those greater than oneself ('தம்மிற் பெரியார் தமரா ஒழுகுதல்')",
+      "The Supreme Power ('வன்மையுள் எல்லாம் தலை')",
+      "The strength derived from humility and wise counsel."
+    ]
+  },
+  "Negative_Prompt": "king ignoring elders, weak aura, chaotic kingdom, text artifacts, cartoonish.",
+  "Hyperparameters": {
+    "variant": "pro",
+    "steps": 50,
+    "cfg_scale": 9,
+    "seed": "Explore variations for the design of the power dome."
+  }
+}

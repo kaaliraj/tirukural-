@@ -1,0 +1,39 @@
+{
+  "Kural_Info": {
+    "Number": 58,
+    "Chapter": "வாழ்க்கைத் துணைநலம் (The Worth of a Wife)",
+    "Tamil_Text": "பெற்றாற் பெறின்பெறுவர் பெண்டிர் பெருஞ்சிறப்புப்புத்தேளிர் வாழும் உலகு.",
+    "English_Meaning": "If women shew reverence to their husbands, they will obtain great excellence in the world where the gods flourish."
+  },
+  "Flux_Optimized_Prompt": {
+    "Layered_Composition": {
+      "Foreground": "On Earth, a wife is showing profound respect and care ('பெற்றாற் பெறின்') for her husband. This act of reverence creates a gentle, upward-flowing stream of golden light.",
+      "Midground": "The stream of light ascends to the celestial world of the gods ('புத்தேளிர் வாழும் உலகு').",
+      "Background": "In this celestial realm, the same woman is seen again, this time as an ethereal, divine figure. She is being welcomed with great honor ('பெருஞ்சிறப்பு') by the gods, who are offering her a seat of high distinction. Her earthly virtue is the direct cause of her heavenly glory."
+    },
+    "Art_Direction": {
+      "Subject_and_Action": "The reverence a wife shows to her husband on earth is transformed into great honor and a divine status for her in the world of the gods.",
+      "Symbolic_Motifs": "The cause-and-effect relationship is made explicit by the stream of light connecting the earthly act to the heavenly reward. Her celestial form is a more radiant and glorious version of her earthly self.",
+      "Mood_and_Emotion": "Divine reward, glorious, honored, transcendent.",
+      "Lighting_and_Color": "The earthly scene is lit with a warm, virtuous light. The celestial realm is overwhelmingly brilliant, filled with divine golds, whites, and blues. The connecting stream of light bridges the two palettes.",
+      "Technical_Cues": {
+        "Camera": "A vertical panoramic shot, showing the earthly scene at the bottom and the celestial reward at the top, emphasizing the ascension.",
+        "Resolution": "8K, ultra-realistic, with a clear distinction between the textures of the mortal and divine realms.",
+        "Lighting": "Dual lighting scheme emphasizing the transition from earthly warmth to celestial brilliance.",
+        "Art_Genre": "Mythological painting, epic fantasy art."
+      },
+      "Cultural_Anchors": [
+        "Reverence for the husband (பெற்றாற் பெறின்)",
+        "The world of the Gods (புத்தேளிர் வாழும் உலகு)",
+        "Great Excellence/Glory (பெருஞ்சிறப்பு)"
+      ]
+    },
+    "Negative_Prompt": "disrespectful wife, angry gods, dark heaven, text artifacts, modern setting.",
+    "Hyperparameters": {
+      "variant": "pro",
+      "steps": 50,
+      "cfg_scale": 8,
+      "seed": "Explore designs for the celestial realm of the 'Puththelir'."
+    }
+  }
+}

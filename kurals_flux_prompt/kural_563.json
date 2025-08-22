@@ -1,0 +1,39 @@
+{
+  "Kural_Info": {
+    "Number": 563,
+    "Chapter": "வெருவந்தசெய்யாமை (Absence of Terrorism)",
+    "Tamil_Text": "வெருவந்த செய்தொழுகும் வெங்கோல னாயின் ஒருவந்தம் ஒல்லைக் கெடும்.",
+    "English_Meaning": "The cruel-sceptred king, who acts so as to put his subjects in fear, will certainly and quickly come to ruin."
+  },
+  "Flux_Optimized_Prompt": {
+    "Layered_Composition": {
+      "Foreground": "A tyrannical king ('வெங்கோலன்') is shown ruling through terror. His presence causes his subjects to tremble in fear ('வெருவந்த செய்து').",
+      "Midground": "The very ground beneath his throne, which is built on the fear of his people, is shown to be unstable and is rapidly cracking and crumbling away.",
+      "Background": "The king, along with his throne, is seen plunging into a dark abyss that opens up beneath him. His ruin is depicted as being both certain ('ஒருவந்தம்') and swift ('ஒல்லைக் கெடும்')."
+    },
+    "Art_Direction": {
+      "Subject_and_Action": "A tyrant who rules by terrorizing his people will inevitably and quickly face complete ruin.",
+      "Symbolic_Motifs": "The foundation of the throne cracking and crumbling is a metaphor for a rule based on fear being unsustainable. The swift plunge into the abyss represents his quick and certain destruction.",
+      "Mood_and_Emotion": "Terrifying, unstable, inevitable collapse, swift justice.",
+      "Lighting_and_Color": "A dark, oppressive, and fearful atmosphere. The king is lit by a harsh, sinister light. The cracks in the ground glow with a hellish red light from the abyss below.",
+      "Technical_Cues": {
+        "Camera": "A low-angle shot that looks up at the tyrant, but then tilts down dramatically as the ground gives way beneath him.",
+        "Resolution": "8K, cinematic, with impressive destruction and particle effects.",
+        "Lighting": "Dramatic, high-contrast lighting to create a mood of terror and doom.",
+        "Art_Genre": "Dark fantasy, epic tragedy."
+      }
+    },
+    "Cultural_Anchors": [
+      "Rule by Terror ('வெருவந்த செய்தல்')",
+      "The Cruel Sceptre ('வெங்கோல்')",
+      "Certain and Swift Ruin ('ஒருவந்தம் ஒல்லைக் கெடும்')"
+    ]
+  },
+  "Negative_Prompt": "happy subjects, stable throne, kind king, text artifacts, cartoonish.",
+  "Hyperparameters": {
+    "variant": "pro",
+    "steps": 50,
+    "cfg_scale": 8,
+    "seed": "Explore variations for the crumbling ground and the abyss."
+  }
+}

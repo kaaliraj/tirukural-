@@ -1,0 +1,39 @@
+{
+  "Kural_Info": {
+    "Number": 397,
+    "Chapter": "கல்வி (Learning)",
+    "Tamil_Text": "யாதானும் நாடாமால் ஊராமால் என்னொருவன் சாந்துணையுங் கல்லாத வாறு.",
+    "English_Meaning": "The learned make each land their own, in every city find a home; Who, till they die, learn nought, along what weary ways they roam!."
+  },
+  "Flux_Optimized_Prompt": {
+    "Layered_Composition": {
+      "Foreground": "A learned scholar is shown welcomed warmly into a foreign, exotic city. The local people are offering them food and a place to stay. The scholar looks comfortable and at home.",
+      "Midground": "In stark contrast, an unlearned person is depicted as a lost, weary wanderer in a desolate, alien landscape, with no one to welcome them and no place to call home.",
+      "Background": "A world map is subtly embedded in the background, with all lands glowing welcomingly for the scholar, while the lands appear dark and closed off for the unlearned wanderer."
+    },
+    "Art_Direction": {
+      "Subject_and_Action": "A contrast between the learned person, for whom every country and town is their own, and the unlearned person, who is a stranger everywhere. It questions why anyone would choose not to learn until death.",
+      "Symbolic_Motifs": "The warm welcome symbolizes that knowledge makes one a citizen of the world ('நாடாமால் ஊராமால்'). The weary wandering of the other figure represents the alienation of ignorance.",
+      "Mood_and_Emotion": "Welcoming, universal, contrasting with alienation and weariness.",
+      "Lighting_and_Color": "The scholar's scene is warm, vibrant, and filled with the golden light of hospitality. The wanderer's scene is cold, desaturated, and cast in the bleak light of dusk."
+    },
+    "Technical_Cues": {
+      "Camera": "A split-screen or diptych composition to highlight the dramatic contrast between the two fates.",
+      "Resolution": "8K, photorealistic, with rich cultural details in the welcoming city.",
+      "Lighting": "Contrasting color temperatures and light quality between the two scenes.",
+      "Art_Genre": "Narrative realism, digital diptych."
+    },
+    "Cultural_Anchors": [
+      "Learning makes every land a home country ('யாதானும் நாடாமால் ஊராமால்')",
+      "The universality of knowledge",
+      "The tragedy of lifelong ignorance"
+    ]
+  },
+  "Negative_Prompt": "scholar being rejected, wanderer finding a home, modern cities, text artifacts, blurry.",
+  "Hyperparameters": {
+    "variant": "pro",
+    "steps": 45,
+    "cfg_scale": 8,
+    "seed": "Explore variations in the architecture of the welcoming city."
+  }
+}

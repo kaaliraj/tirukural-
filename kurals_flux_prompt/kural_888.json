@@ -1,0 +1,39 @@
+{
+  "Kural_Info": {
+    "Number": 888,
+    "Chapter": "உட்பகை (Enmity within)",
+    "Tamil_Text": "அரம்பொருத பொன்போலத் தேயும் உரம்பொருது உட்பகை உற்ற குடி.",
+    "English_Meaning": "A family subject to internal hatred will wear out and lose its strength like iron that has been filed away."
+  },
+  "Flux_Optimized_Prompt": {
+    "Layered_Composition": {
+      "Foreground": "A magnificent, solid gold ingot, representing the strength and wealth of a great family.",
+      "Midground": "An invisible, internal force, which is the family's own internal strife ('உட்பகை'), is acting like a harsh, sharp file ('அரம்'). This file is relentlessly grinding against the gold ingot from the inside out.",
+      "Background": "The ingot is shown being slowly but surely worn away into a pile of useless golden dust ('தேயும்'). Its strength and substance are being destroyed from within by its own internal conflict."
+    },
+    "Art_Direction": {
+      "Subject_and_Action": "A family with internal conflict will be worn down and destroyed from within, just like a piece of gold being ground away by a file.",
+      "Symbolic_Motifs": "The gold ingot is the family's strength. The invisible file is the internal enmity. The resulting pile of gold dust is the destruction of the family's substance.",
+      "Mood_and_Emotion": "Corrosive, abrasive, self-destructive, a slow decay.",
+      "Lighting_and_Color": "A harsh, grating light, as if in a workshop. The filing action creates painful-looking sparks. The gold loses its solid form and becomes a pile of worthless dust.",
+      "Technical_Cues": {
+        "Camera": "A close-up, macro shot of the filing process, showing the gold being worn away.",
+        "Resolution": "8K, with detailed metal textures and particle effects for the gold dust.",
+        "Lighting": "Harsh, industrial lighting.",
+        "Art_Genre": "Symbolic still life, with a strong sense of process and decay."
+      },
+      "Cultural_Anchors": [
+        "A family with internal strife ('உட்பகை உற்ற குடி')",
+        "Like gold ground by a file ('அரம்பொருத பொன்போலத் தேயும்')",
+        "The slow destruction from within."
+      ]
+    },
+    "Negative_Prompt": "a growing ingot of gold, a smooth ingot, text artifacts.",
+    "Hyperparameters": {
+      "variant": "pro",
+      "steps": 50,
+      "cfg_scale": 8,
+      "seed": "Explore variations for the gold dust effect."
+    }
+  }
+}

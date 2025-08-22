@@ -1,0 +1,39 @@
+{
+  "Kural_Info": {
+    "Number": 345,
+    "Chapter": "துறவு (Renunciation)",
+    "Tamil_Text": "மற்றும் தொடர்ப்பாடு எவன்கொல் பிறப்பறுக்கல்உற்றார்க்கு உடம்பும் மிகை.",
+    "English_Meaning": "What means the addition of other things those who are attempting to cut off (future) births, when even their body is too much (for them)."
+  },
+  "Flux_Optimized_Prompt": {
+    "Layered_Composition": {
+      "Foreground": "An ascetic is on a difficult journey, attempting to cross a raging river that represents the cycle of birth and death ('பிறப்பு அறுக்கல்').",
+      "Midground": "Their own body ('உடம்பு') is shown to be an incredibly heavy burden ('மிகை') that is already weighing them down and making the crossing almost impossible.",
+      "Background": "Despite this, other worldly attachments (wealth, relationships, fame), represented as even more heavy baggage, are shown trying to attach themselves to the ascetic. The image poses the rhetorical question, 'What is the point of these other attachments?' ('மற்றும் தொடர்ப்பாடு எவன் கொல்?'), when even the body itself is already too much of a burden."
+    },
+    "Art_Direction": {
+      "Subject_and_Action": "For the ascetic who is trying to sever the cycle of rebirth, even their own body is a great burden; what possible use, then, could they have for any other external attachments?",
+      "Symbolic_Motifs": "The body as a heavy burden is the first key visual. The other attachments as even more, superfluous baggage highlights the absurdity of a renunciant clinging to them. The difficult river crossing represents the great work of liberation.",
+      "Mood_and_Emotion": "Burdensome, superfluous, logical, focused.",
+      "Lighting_and_Color": "A stark, dramatic light. The river is a powerful, dangerous torrent. The burden of the body is a heavy, dark weight. The other attachments are depicted as ridiculous and unnecessary additions to this already difficult situation.",
+      "Technical_Cues": {
+        "Camera": "A wide shot that shows the ascetic's difficult struggle, emphasizing the weight of their body and the absurdity of the extra baggage trying to attach to them.",
+        "Resolution": "8K, ultra-realistic, with a focus on the strain and effort of the ascetic.",
+        "Lighting": "High-contrast, dramatic lighting.",
+        "Art_Genre": "Epic fantasy realism."
+      },
+      "Cultural_Anchors": [
+        "For those who would sever the chain of birth (பிறப்பு அறுக்கல் உற்றார்க்கு)",
+        "Even the body is a burden (உடம்பும் மிகை)",
+        "What then of other attachments? (மற்றும் தொடர்ப்பாடு எவன் கொல்?)"
+      ]
+    },
+    "Negative_Prompt": "ascetic with no body, easy river crossing, text artifacts.",
+    "Hyperparameters": {
+      "variant": "dev",
+      "steps": 45,
+      "cfg_scale": 9,
+      "seed": "Explore the visual of 'the body as a burden'."
+    }
+  }
+}

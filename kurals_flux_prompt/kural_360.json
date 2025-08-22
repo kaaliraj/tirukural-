@@ -1,0 +1,39 @@
+{
+  "Kural_Info": {
+    "Number": 360,
+    "Chapter": "மெய்யுணர்தல் (Truth-Conciousness)",
+    "Tamil_Text": "காமம் வெகுளி மயக்கம் இவ்மூன்றன்நாமம் கெடக்கெடும் நோய்.",
+    "English_Meaning": "If the very names of these three things, desire, anger, and confusion of mind, be destroyed, then will also perish the evils (which flow from them)."
+  },
+  "Flux_Optimized_Prompt": {
+    "Layered_Composition": {
+      "Foreground": "A wise person holds a divine, ethereal sword of knowledge.",
+      "Midground": "Before them are three great, monstrous kings, each on a dark throne. Their names are inscribed on their thrones: 'Lust' ('காமம்'), 'Anger' ('வெகுளி'), and 'Delusion' ('மயக்கம்').",
+      "Background": "With a single, powerful sweep of their sword, the wise person is shown not attacking the kings themselves, but utterly destroying their very 'names' ('நாமம் கெட'). As the names on the thrones shatter, the three great kings and their entire dark kingdom, which represents all the sorrows and afflictions of life ('நோய்'), instantly crumble into dust and vanish ('கெடும்')."
+    },
+    "Art_Direction": {
+      "Subject_and_Action": "All the afflictions of life will perish if one destroys the very names and conceptual existence of the three great evils: lust, anger, and delusion.",
+      "Symbolic_Motifs": "The destruction of the 'name' rather than the 'thing' is a profound philosophical concept. It means to destroy the very idea and category of the sin in one's mind. The shattering of the names leading to the instant collapse of the entire kingdom of evil is the key visual.",
+      "Mood_and_Emotion": "Ultimate liberation, profound, powerful, metaphysical victory.",
+      "Lighting_and_Color": "The three dark kings and their realm are in deep, corrupting shadow. The sword of knowledge is a blade of pure, white light. The act of destroying the names creates an explosion of this pure light that completely annihilates the darkness.",
+      "Technical_Cues": {
+        "Camera": "An epic, wide shot capturing the three dark kings on their thrones and the wise person's single, powerful act of destroying their names and thus their entire reality.",
+        "Resolution": "8K, hyper-realistic, with advanced text-shattering and kingdom-crumbling effects.",
+        "Lighting": "An explosive, purifying flash of light.",
+        "Art_Genre": "Epic high fantasy, with a strong philosophical bent."
+      },
+      "Cultural_Anchors": [
+        "Lust, Anger, Delusion (காமம், வெகுளி, மயக்கம்)",
+        "If the names of these three perish (இம் மூன்றன் நாமம் கெட)",
+        "The disease (of life's sorrows) will perish (கெடும் நோய்)"
+      ]
+    },
+    "Negative_Prompt": "kings winning, text artifacts, weak sword.",
+    "Hyperparameters": {
+      "variant": "pro",
+      "steps": 60,
+      "cfg_scale": 10,
+      "seed": "Explore the visual of 'destroying the names'."
+    }
+  }
+}

@@ -1,0 +1,39 @@
+{
+  "Kural_Info": {
+    "Number": 76,
+    "Chapter": "அன்புடைமை (The Possession of Love)",
+    "Tamil_Text": "அறத்திற்கே அன்புசார் பென்ப அறியார்மறத்திற்கும் அஃதே துணை.",
+    "English_Meaning": "The ignorant say that love is an ally to virtue only, but it is also a help to get out of vice."
+  },
+  "Flux_Optimized_Prompt": {
+    "Layered_Composition": {
+      "Foreground": "A warrior is shown in the midst of a righteous battle, defending the innocent. His strength and valor ('மறம்') are visibly amplified by a fiery, passionate aura of Love ('அன்பு') for his people and his cause.",
+      "Midground": "In contrast, a sage is shown performing an act of gentle virtue ('அறம்'), like healing the sick. His virtue is also powered by a calm, gentle aura of the same Love.",
+      "Background": "A single, divine source of Love is depicted in the heavens, from which two distinct streams of energy flow down—one fiery and powerful to the warrior, one calm and gentle to the sage, showing that Love is the common source for both kinds of righteous action."
+    },
+    "Art_Direction": {
+      "Subject_and_Action": "Love is not just an ally for gentle virtue, but is also the essential support and power behind righteous valor and the struggle against evil.",
+      "Symbolic_Motifs": "The two forms of love's expression—fiery and gentle—are key. For the warrior, the aura of love might form a protective shield or add power to his weapon. For the sage, it guides his healing hands. This demonstrates Love's versatility as a force for both 'Aram' and 'Maram'.",
+      "Mood_and_Emotion": "Powerful, versatile, righteous strength, fierce compassion.",
+      "Lighting_and_Color": "The warrior's scene is lit with dynamic, fiery reds and golds. The sage's scene is lit with soft, serene whites and golds. Both color schemes originate from the single, unified source of Love in the background.",
+      "Technical_Cues": {
+        "Camera": "A wide, split-composition shot, showing the warrior and the sage in parallel, with the divine source of love overarching both.",
+        "Resolution": "8K, ultra-realistic, with strong particle and energy effects.",
+        "Lighting": "Dualistic lighting to contrast the dynamic nature of valorous love and the serene nature of virtuous love.",
+        "Art_Genre": "Epic fantasy painting, mythological art."
+      },
+      "Cultural_Anchors": [
+        "Aram (அறம்) - Virtue",
+        "Maram (மறம்) - Valor/Bravery against evil",
+        "Anbu (அன்பு) as the common support (துணை) for both"
+      ]
+    },
+    "Negative_Prompt": "evil warrior, love only with the sage, text artifacts, dark source of love, mundane scene.",
+    "Hyperparameters": {
+      "variant": "pro",
+      "steps": 50,
+      "cfg_scale": 9,
+      "seed": "Explore the visual differences between the 'Aram' and 'Maram' auras."
+    }
+  }
+}

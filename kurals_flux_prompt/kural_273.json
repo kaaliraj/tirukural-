@@ -1,0 +1,38 @@
+{
+  "Kural_Info": {
+    "Number": 273,
+    "Chapter": "கூடா ஒழுக்கம் (Imposture)",
+    "Tamil_Text": "வலியில் நிலைமையான் வல்லுருவம் பெற்றம்புலியின்தோல் போர்த்துமேய்ந் தற்று.",
+    "English_Meaning": "The assumed appearance of power, by a man who has no power (to restrain his senses and perform austerity), is like a cow feeding on grass covered with a tiger's skin."
+  },
+  "Flux_Optimized_Prompt": {
+    "Layered_Composition": {
+      "Foreground": "A cow is shown, draped in a tiger's skin ('புலியின் தோல் போர்த்து'). It is trying to look fierce and powerful.",
+      "Midground": "However, its true, weak nature is revealed by its action: it is peacefully and foolishly grazing on grass ('மேய்ந்து'). Its actions completely betray its fearsome appearance.",
+      "Background": "This is presented as a direct and ridiculous simile for the impostor ascetic. This ascetic has the powerful outward appearance of a master ('வல் உருவம்'), but inwardly they lack the real strength and self-control to live up to it ('வலியில் நிலைமையான்')."
+    },
+    "Art_Direction": {
+      "Subject_and_Action": "A powerful but weak-willed impostor is as ridiculous as a cow that wears a tiger's skin but continues to eat grass.",
+      "Symbolic_Motifs": "The cow in the tiger skin is a classic, powerful, and slightly comical image of imposture. The fundamental contradiction between its appearance and its action is the entire point. The image should be absurd.",
+      "Mood_and_Emotion": "Absurd, ridiculous, hypocritical, comical.",
+      "Lighting_and_Color": "A bright, clear, natural light that reveals the absurdity of the scene without any ambiguity. The colors of the tiger skin are vibrant, which makes the cow's placid grass-eating even more ridiculous.",
+      "Technical_Cues": {
+        "Camera": "A clear, direct shot that captures the full absurdity of the cow in the tiger skin, grazing peacefully.",
+        "Resolution": "8K, hyper-realistic, focusing on the comical juxtaposition.",
+        "Lighting": "Bright, even lighting.",
+        "Art_Genre": "Satirical realism."
+      },
+      "Cultural_Anchors": [
+        "The weak-willed one assuming a powerful form (வலியில் நிலைமையான் வல் உருவம் பெற்றம்)",
+        "Is like a cow grazing while covered in a tiger's skin (புலியின் தோல் போர்த்து மேய்ந்தற்று)"
+      ]
+    },
+    "Negative_Prompt": "cow acting like a tiger, fierce cow, text artifacts.",
+    "Hyperparameters": {
+      "variant": "dev",
+      "steps": 40,
+      "cfg_scale": 7,
+      "seed": "Focus on the placid, cow-like expression on the tiger's 'face'."
+    }
+  }
+}

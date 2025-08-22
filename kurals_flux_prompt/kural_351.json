@@ -1,0 +1,38 @@
+{
+  "Kural_Info": {
+    "Number": 351,
+    "Chapter": "மெய்யுணர்தல் (Truth-Conciousness)",
+    "Tamil_Text": "பொருளல்ல வற்றைப் பொருளென்று உணரும்மருளானாம் மாணாப் பிறப்பு.",
+    "English_Meaning": "Inglorious births are produced by the confusion (of mind) which considers those things to be real which are not real."
+  },
+  "Flux_Optimized_Prompt": {
+    "Layered_Composition": {
+      "Foreground": "A person is shown in a state of delusion ('மருள்'). They are surrounded by things that are not real ('பொருள் அல்லவற்றை')—illusions like mirages, phantoms, and dream-images.",
+      "Midground": "Because of their delusion, they are perceiving these illusions as solid, real, and valuable things ('பொருள் என்று உணரும்'). They are trying to grasp the mist and build a house with shadows.",
+      "Background": "This fundamental error in perception is shown to be the direct cause of their being trapped in a cycle of low, ignoble, and inglorious births ('மாணாப் பிறப்பு'). A dark, repeating carousel of miserable life-scenes is shown, powered by their delusion."
+    },
+    "Art_Direction": {
+      "Subject_and_Action": "The mental confusion that mistakes the unreal for the real is the direct cause of being trapped in a cycle of ignoble births.",
+      "Symbolic_Motifs": "The world of illusions is key. The person's futile interaction with them demonstrates their delusion. The carousel of inglorious births is a powerful metaphor for the repetitive, meaningless cycle they are trapped in.",
+      "Mood_and_Emotion": "Deluded, futile, trapped, ignorant.",
+      "Lighting_and_Color": "A deceptive, shimmering, and unstable light, like a heat haze, fills the scene, reflecting the illusory nature of what is being perceived. The carousel of rebirth is dark, grimy, and repetitive.",
+      "Technical_Cues": {
+        "Camera": "A surreal shot that immerses the viewer in the person's deluded perception, with the karmic consequence of the carousel visible in the background.",
+        "Resolution": "8K, ultra-realistic, with strong surreal and illusory effects.",
+        "Lighting": "Unstable, deceptive lighting.",
+        "Art_Genre": "Surrealism, with a philosophical message."
+      },
+      "Cultural_Anchors": [
+        "The delusion of seeing the unreal as real (பொருள் அல்லவற்றைப் பொருள் என்று உணரும் மருள்)",
+        "Causes inglorious birth (ஆம் மாணாப் பிறப்பு)"
+      ]
+    },
+    "Negative_Prompt": "wise person seeing through illusions, text artifacts, beautiful rebirths.",
+    "Hyperparameters": {
+      "variant": "pro",
+      "steps": 50,
+      "cfg_scale": 8,
+      "seed": "Explore the visual of the 'carousel of inglorious births'."
+    }
+  }
+}

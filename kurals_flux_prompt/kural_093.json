@@ -1,0 +1,40 @@
+{
+  "Kural_Info": {
+    "Number": 93,
+    "Chapter": "இனியவை கூறல் (The Utterance of Pleasant Words)",
+    "Tamil_Text": "முகத்தான் அமர்ந்து இனிதுநோக்கி அகத்தானாம்இன்சொ லினதே அறம்.",
+    "English_Meaning": "Sweet speech, flowing from the heart (uttered) with a cheerful countenance and a sweet look, is true virtue."
+  },
+  "Flux_Optimized_Prompt": {
+    "Layered_Composition": {
+      "Foreground": "A person is speaking to another. Their face is a perfect picture of sincerity: a cheerful, welcoming smile ('முகத்தான் அமர்ந்து'), a kind and sweet gaze ('இனிது நோக்கி').",
+      "Midground": "A transparent view shows that the words they are speaking ('இன்சொல்') are originating directly from their heart, which glows with a warm, pure light ('அகத்தான் ஆம்').",
+      "Background": "The very act of speaking this way causes the space around them to subtly transform into a serene and virtuous place. The words themselves crystallize into beautiful, glowing forms that represent Virtue ('அறம்')."
+    },
+    "Art_Direction": {
+      "Subject_and_Action": "The definition of true virtue as the complete package: a sweet look, a cheerful face, and pleasant words that originate sincerely from the heart.",
+      "Symbolic_Motifs": "The glowing heart and the visible path of the words from heart to mouth are crucial to show the sincerity. The transformation of the environment shows that this act of speech is virtue itself, not just a precursor to it.",
+      "Mood_and_Emotion": "Sincere, virtuous, warm, pure, heartfelt.",
+      "Lighting_and_Color": "A warm, golden, and pure light emanates from the speaker's heart and illuminates their face from within, proving their sincerity. The entire scene is bathed in this gentle, virtuous glow.",
+      "Technical_Cues": {
+        "Camera": "An intimate medium close-up shot that captures the speaker's facial expression and the symbolic representation of their heart.",
+        "Resolution": "8K, hyper-realistic, with ethereal effects for the glowing heart and the path of the words.",
+        "Lighting": "Soft, internal, radiant lighting.",
+        "Art_Genre": "Symbolic portraiture, mystical realism."
+      },
+      "Cultural_Anchors": [
+        "Cheerful face (முகத்தான் அமர்ந்து)",
+        "Sweet look (இனிது நோக்கி)",
+        "From the heart (அகத்தான் ஆம்)",
+        "This itself is Virtue (இனதே அறம்)"
+      ]
+    },
+    "Negative_Prompt": "fake smile, empty heart, harsh words, text artifacts, dark background.",
+    "Hyperparameters": {
+      "variant": "pro",
+      "steps": 50,
+      "cfg_scale": 7,
+      "seed": "Explore the visual of words originating from a glowing heart."
+    }
+  }
+}

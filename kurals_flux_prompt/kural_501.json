@@ -1,0 +1,41 @@
+{
+  "Kural_Info": {
+    "Number": 501,
+    "Chapter": "தெரிந்துதெளிதல் (Selection and Confidence)",
+    "Tamil_Text": "அறம்பொருள் இன்பம் உயிரச்சம் நான்கின் திறந்தெரிந்து தேறப் படும்.",
+    "English_Meaning": "Let (a minister) be chosen, after he has been tried by means of these four things, viz,-his virtue, (love of) money, (love of) sexual pleasure, and tear of (losing) life."
+  },
+  "Flux_Optimized_Prompt": {
+    "Layered_Composition": {
+      "Foreground": "A candidate for a high office is shown passing through four symbolic trials, arranged like gateways.",
+      "Midground": "The first gateway tests Virtue ('அறம்'), perhaps by offering a chance to be unjust. The second tests their relationship with Wealth ('பொருள்'), offering a bribe. The third tests for improper Pleasure ('இன்பம்'), with temptations. The fourth tests their reaction to mortal danger ('உயிரச்சம்'), with a sudden threat.",
+      "Background": "A wise king is observing the candidate's reactions to all four trials on a mystical viewing screen, judging their true character before placing trust in them ('தேறப்படும்')."
+    },
+    "Art_Direction": {
+      "Subject_and_Action": "The process of thoroughly testing a person's character through the four great touchstones—virtue, wealth, pleasure, and fear of death—before selecting them for a position of trust.",
+      "Symbolic_Motifs": "The four gateways, each representing a different trial, form the narrative structure. The king's observation shows this is a deliberate process of selection.",
+      "Mood_and_Emotion": "Testing, discerning, judicious, comprehensive, wise.",
+      "Lighting_and_Color": "Each gateway has a distinct lighting and color scheme appropriate to the trial: righteous white for Virtue, greedy gold for Wealth, seductive reds for Pleasure, and stark, fearful shadows for Fear.",
+      "Technical_Cues": {
+        "Camera": "A sequence shot or composite image showing the person successfully navigating all four trials.",
+        "Resolution": "8K, with rich symbolic detail in each of the four trial scenes.",
+        "Lighting": "Varied and symbolic lighting for each gateway.",
+        "Art_Genre": "Allegorical fantasy art, narrative sequence."
+      }
+    },
+    "Cultural_Anchors": [
+      "The Four Tests of Character",
+      "Trial by Virtue ('அறம்')",
+      "Trial by Wealth ('பொருள்')",
+      "Trial by Pleasure ('இன்பம்')",
+      "Trial by Fear of Life ('உயிரச்சம்')"
+    ]
+  },
+  "Negative_Prompt": "candidate failing the tests, king not watching, text artifacts, blurry.",
+  "Hyperparameters": {
+    "variant": "pro",
+    "steps": 50,
+    "cfg_scale": 8,
+    "seed": "Explore variations for the design of the four gateways."
+  }
+}

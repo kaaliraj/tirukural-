@@ -1,0 +1,38 @@
+{
+  "Kural_Info": {
+    "Number": 123,
+    "Chapter": "அடக்கமுடைமை (The Possession of Self-restraint)",
+    "Tamil_Text": "செறிவறிந்து சீர்மை பயக்கும் அறிவறிந்துஆற்றின் அடங்கப் பெறின்.",
+    "English_Meaning": "Knowing that self-control is knowledge, if a man should control himself, in the prescribed course, such self-control will bring him distinction among the wise."
+  },
+  "Flux_Optimized_Prompt": {
+    "Layered_Composition": {
+      "Foreground": "A person is shown practicing self-control ('அடங்கப் பெறின்') not through brute force, but with deep understanding and wisdom ('அறிவு அறிந்து'). Their posture is one of calm, knowing mastery.",
+      "Midground": "This knowing self-control manifests as a beautiful, well-tended, and orderly garden around them, symbolizing the 'distinction' and 'excellence' ('சீர்மை பயக்கும்') it produces.",
+      "Background": "A group of wise sages are shown observing this person and their garden. They are nodding in approval, recognizing and honoring the person's achievement. This signifies that their distinction is acknowledged by the wise."
+    },
+    "Art_Direction": {
+      "Subject_and_Action": "If one understands that self-control is a form of wisdom and practices it correctly, that very practice will produce a recognized excellence and distinction.",
+      "Symbolic_Motifs": "The well-tended garden is a metaphor for a well-ordered life that results from self-control. The approval of the sages is the external validation of this inner state. The person's expression is one of serene confidence, not struggle.",
+      "Mood_and_Emotion": "Distinguished, excellent, serene, recognized wisdom.",
+      "Lighting_and_Color": "A clear, bright, and harmonious light fills the scene. The garden is vibrant with healthy greens and beautiful flowers, reflecting the excellence produced. The palette is calm and orderly.",
+      "Technical_Cues": {
+        "Camera": "A wide shot that includes the self-controlled person, their beautiful 'garden of life', and the approving sages in the background.",
+        "Resolution": "8K, ultra-realistic, with fine detail on the orderly garden and the wise faces of the sages.",
+        "Lighting": "Bright, clear daylight to symbolize the clarity and excellence of the subject.",
+        "Art_Genre": "Historical realism, with allegorical elements."
+      },
+      "Cultural_Anchors": [
+        "Knowing how to be self-controlled (ஆற்றின் அடங்கப் பெறின்)",
+        "It will yield excellence (சீர்மை பயக்கும்)"
+      ]
+    },
+    "Negative_Prompt": "struggling person, chaotic garden, disapproving sages, text artifacts.",
+    "Hyperparameters": {
+      "variant": "dev",
+      "steps": 40,
+      "cfg_scale": 8,
+      "seed": "Explore the design of the 'garden of excellence'."
+    }
+  }
+}

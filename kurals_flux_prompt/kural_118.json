@@ -1,0 +1,39 @@
+{
+  "Kural_Info": {
+    "Number": 118,
+    "Chapter": "நடுவு நிலைமை (Impartiality)",
+    "Tamil_Text": "சமன்செய்து சீர்தூக்குங் கோல்போல் அமைந்தொருபால்கோடாமை சான்றோர்க் கணி.",
+    "English_Meaning": "To incline to neither side, but to rest impartial as the even-fixed scale is the ornament of the wise."
+  },
+  "Flux_Optimized_Prompt": {
+    "Layered_Composition": {
+      "Foreground": "A wise judge or leader ('சான்றோர்') is shown. Their mind and posture perfectly emulate a traditional balance scale ('தூக்கு கோல்').",
+      "Midground": "Their arms are outstretched like the beam of the scale, and in each hand, they hold an identical, glowing orb representing the two opposing sides of a case. Their body is perfectly upright and still.",
+      "Background": "This perfect, living embodiment of balance ('சமன் செய்து', 'ஒருபால் கோடாமை') is their true ornament ('அணி'). Faintly behind them, physical crowns and jewels lie discarded, shown to be inferior to this inner state of perfect impartiality."
+    },
+    "Art_Direction": {
+      "Subject_and_Action": "The defining ornament of the wise is their ability to remain perfectly balanced and impartial, like a well-made scale, not leaning to either side.",
+      "Symbolic_Motifs": "The human figure as a literal balance scale is the central, powerful metaphor. The stillness and perfect symmetry of the pose are crucial. The inner state of impartiality is shown to be a beautiful and shining 'ornament'.",
+      "Mood_and_Emotion": "Balanced, impartial, just, serene, statuesque.",
+      "Lighting_and_Color": "A perfectly balanced, symmetrical lighting scheme. A clear, white, judicial light illuminates the figure, emphasizing their clarity and lack of bias. The palette is clean and balanced.",
+      "Technical_Cues": {
+        "Camera": "A frontal, perfectly centered, and static shot that mirrors the theme of balance and stability.",
+        "Resolution": "8K, ultra-realistic, with a focus on the perfect symmetry of the figure and the glowing orbs.",
+        "Lighting": "Even, high-key lighting to create a sense of clarity and truth.",
+        "Art_Genre": "Symbolic portraiture, classical allegorical art."
+      },
+      "Cultural_Anchors": [
+        "The balance scale (சீர் தூக்கும் கோல்)",
+        "Not leaning to one side (ஒருபால் கோடாமை)",
+        "Impartiality as an ornament (சான்றோர்க்கு அணி)"
+      ]
+    },
+    "Negative_Prompt": "unbalanced figure, tilted arms, emotional expression, text artifacts, dark and shadowy.",
+    "Hyperparameters": {
+      "variant": "pro",
+      "steps": 50,
+      "cfg_scale": 7,
+      "seed": "Explore the pose of the 'human scale'."
+    }
+  }
+}

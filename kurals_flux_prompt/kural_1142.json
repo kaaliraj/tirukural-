@@ -1,0 +1,33 @@
+{
+  "Kural_Info": {
+    "Number": 1142,
+    "Chapter": "அலரறிவுறுத்தல் (The Announcement of the Rumour)",
+    "Tamil_Text": "மலரன்ன கண்ணாள் அருமை அறியாதுஅலரெமக்கு ஈந்ததிவ் வூர்.",
+    "English_Meaning": "The village hath to us this rumour giv'n, that makes her mine; Unweeting all the rareness of the maid with flower-like eyne."
+  },
+  "Flux_Optimized_Prompt": {
+    "Layered_Composition": {
+      "Foreground": "A lover stands with a grateful, almost amused smile. He holds in his hands a glowing orb of light which represents the public rumor ('Alar').",
+      "Midground": "In the background, the townsfolk ('Ivvoor') are seen gossiping amongst themselves. They are depicted as simple, unaware figures who do not understand the profound consequence of their chatter.",
+      "Background": "The object of his affection, the maiden with flower-like eyes ('Malaranna Kannal'), is seen in the distance, her preciousness and rarity ('Arumai') highlighted by a gentle, unique aura that the gossiping villagers cannot see."
+    },
+    "Art_Direction": {
+      "Subject_and_Action": "A lover reflects on how the ignorant village, by spreading rumors, has unintentionally given him the very thing he desires (the public confirmation of their love), without realizing the preciousness of the woman involved.",
+      "Symbolic_Motifs": "The rumor as a gift ('Eenthathu') of glowing light. The contrast between the lover's knowing smile and the villagers' ignorant chatter. The special aura around the maiden.",
+      "Mood_and_Emotion": "Grateful, ironic, triumphant, affectionate.",
+      "Lighting_and_Color": "Warm, golden light emanates from the orb of rumor, illuminating the lover's happy face. The villagers are in plain, neutral daylight. The maiden in the distance has a soft, ethereal glow."
+    },
+    "Technical_Cues": {
+      "Camera": "Medium shot on the lover, with the village and the maiden visible in the background, creating a sense of layered understanding.",
+      "Resolution": "8K, photorealistic, with a focus on subtle expressions.",
+      "Lighting": "Symbolic lighting, where the rumor itself is the source of light for the protagonist.",
+      "Art_Genre": "Romantic realism with a touch of magic."
+    },
+    "Cultural_Anchors": [
+      "அலர் (Rumour)",
+      "அருமை (Preciousness/Rareness)",
+      "The unintentional help of the community"
+    ]
+  },
+  "Negative_Prompt": "angry lover, aware villagers, modern setting, text artifacts, cartoonish, blurry."
+}

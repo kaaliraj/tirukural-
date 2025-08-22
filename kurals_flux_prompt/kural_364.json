@@ -1,0 +1,39 @@
+{
+  "Kural_Info": {
+    "Number": 364,
+    "Chapter": "அவாவறுத்தல் (Curbing of Desire)",
+    "Tamil_Text": "தூஉய்மை என்பது அவாவின்மை மற்றது வாஅய்மை வேண்ட வரும்.",
+    "English_Meaning": "Desire's decease as purity men know; That, too, from yearning search for truth will grow."
+  },
+  "Flux_Optimized_Prompt": {
+    "Layered_Composition": {
+      "Foreground": "A person kneels before a pristine, clear pool of water, representing Purity ('தூஉய்மை'). Their reflection in the water is not their own face, but a radiant, golden Tamil letter 'மெய்' (Truth).",
+      "Midground": "Tendrils of dark smoke, symbolizing desire ('அவா'), rise from the ground around the pool but are repelled by the light emanating from the water, unable to touch the person or the pool.",
+      "Background": "A serene, minimalist landscape under a clear sky, suggesting clarity of mind and purpose."
+    },
+    "Art_Direction": {
+      "Subject_and_Action": "The attainment of inner purity through the extinguishing of desire, which is achieved by seeking Truth ('வாய்மை').",
+      "Symbolic_Motifs": "The clear water is Purity. The reflection of 'மெய்' signifies that purity is a reflection of Truth. The repelled smoke represents desire being overcome by this pursuit.",
+      "Mood_and_Emotion": "Pure, tranquil, contemplative, enlightening.",
+      "Lighting_and_Color": "Brilliant, pure white and golden light radiates from the pool of water. The surrounding landscape is in soft, natural tones. The smoke of desire is inky black and grey.",
+      "Technical_Cues": {
+        "Camera": "Eye-level medium shot, focusing on the interaction between the person and their reflection.",
+        "Resolution": "8K, ultra-realistic, with magical realism effects for the symbolic light and smoke.",
+        "Lighting": "Soft, diffused light with a strong, radiant glow from the water's surface.",
+        "Art_Genre": "Symbolic realism, mystical art."
+      }
+    },
+    "Cultural_Anchors": [
+      "Concept of 'Thooimai' (Purity)",
+      "Concept of 'Avavinmai' (Absence of Desire)",
+      "Pursuit of 'Vaimai' (Truth)"
+    ]
+  },
+  "Negative_Prompt": "muddy water, disturbed person, stormy sky, text artifacts, oversaturated, human figures in the background.",
+  "Hyperparameters": {
+    "variant": "dev",
+    "steps": 40,
+    "cfg_scale": 8,
+    "seed": "Explore variations for the reflection in the water."
+  }
+}

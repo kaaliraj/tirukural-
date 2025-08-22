@@ -1,0 +1,38 @@
+{
+  "Kural_Info": {
+    "Number": 251,
+    "Chapter": "புலான்மறுத்தல் (Abstinence from Flesh)",
+    "Tamil_Text": "தன்னூன் பெருக்கற்குத் தான்பிறிது ஊனுண்பான்எங்ஙனம் ஆளும் அருள்.",
+    "English_Meaning": "How can he be possessed of kindness, who to increase his own flesh, eats the flesh of other creatures."
+  },
+  "Flux_Optimized_Prompt": {
+    "Layered_Composition": {
+      "Foreground": "A man is shown eating meat ('பிறிது ஊன் உண்பான்'). As he eats, his own body ('தன் ஊன்') is shown unnaturally swelling and growing larger ('பெருக்கற்கு').",
+      "Midground": "A beautiful, radiant, divine figure representing Compassion ('அருள்') is shown watching him.",
+      "Background": "The divine figure of Compassion looks at the man's act with a sorrowful and disapproving expression, and then turns its back and walks away. The image poses the rhetorical question: How can such a person ever hope to possess or be ruled by Compassion? ('எங்ஙனம் ஆளும் அருள்?')."
+    },
+    "Art_Direction": {
+      "Subject_and_Action": "A visual rhetorical question showing the incompatibility of eating flesh and possessing compassion. The one who eats another's flesh to fatten his own is fundamentally abandoned by the virtue of Grace.",
+      "Symbolic_Motifs": "The unnatural swelling of the flesh-eater's body shows the grotesque nature of the act. The personification of Compassion as a divine being who actively rejects the flesh-eater makes the moral judgment clear.",
+      "Mood_and_Emotion": "Incompatible, rejected, sorrowful, condemnation.",
+      "Lighting_and_Color": "The flesh-eater's scene is lit with a harsh, gluttonous, slightly grotesque light. The figure of Compassion is a source of pure, gentle, white light. As it turns away, its light recedes, leaving the man in the darkness of his own cruelty.",
+      "Technical_Cues": {
+        "Camera": "A shot that captures the act of eating, the grotesque result, and the sorrowful departure of the divine figure of Compassion.",
+        "Resolution": "8K, ultra-realistic, with a beautiful design for the personified Compassion.",
+        "Lighting": "The departure of Compassion causes a dramatic shift from a potentially graceful scene to a dark and graceless one.",
+        "Art_Genre": "Allegorical painting, with mythological elements."
+      },
+      "Cultural_Anchors": [
+        "He who eats another's flesh to increase his own (தன்னூன் பெருக்கற்குத் தான் பிறிது ஊன் உண்பான்)",
+        "How can he possess compassion? (எங்ஙனம் ஆளும் அருள்?)"
+      ]
+    },
+    "Negative_Prompt": "compassion embracing the meat-eater, text artifacts, happy scene.",
+    "Hyperparameters": {
+      "variant": "pro",
+      "steps": 50,
+      "cfg_scale": 8,
+      "seed": "Explore the design of the personified 'Compassion'."
+    }
+  }
+}

@@ -1,0 +1,39 @@
+{
+  "Kural_Info": {
+    "Number": 588,
+    "Chapter": "ஒற்றாடல் (Detectives)",
+    "Tamil_Text": "ஒற்றொற்றித் தந்த பொருளையும் மற்றுமோர் ஒற்றினால் ஒற்றிக் கொளல்.",
+    "English_Meaning": "Let not a king receive the information which a spy has discovered and made known to him, until he has examined it by another spy."
+  },
+  "Flux_Optimized_Prompt": {
+    "Layered_Composition": {
+      "Foreground": "A king is seated in a dark intelligence room. A spy is delivering a report, visualized as a single, glowing piece of a jigsaw puzzle.",
+      "Midground": "The king does not immediately accept it. He waits as a second, different spy arrives and delivers their own report, which is a second glowing puzzle piece.",
+      "Background": "Only when a third spy arrives with a third piece, and all three pieces ('ஒற்றொற்றி', 'மற்றுமோர் ஒற்றினால்') fit together perfectly to form a clear and complete picture, does the king accept the intelligence as truth."
+    },
+    "Art_Direction": {
+      "Subject_and_Action": "A ruler must always verify the information received from one spy by cross-referencing it with the information from another spy.",
+      "Symbolic_Motifs": "The intelligence as puzzle pieces is the central metaphor. The need for multiple pieces from multiple sources to fit together perfectly illustrates the principle of verification.",
+      "Mood_and_Emotion": "Cautious, methodical, analytical, professional.",
+      "Lighting_and_Color": "A dark, shadowy room, typical of espionage. The only light comes from the glowing puzzle pieces of information. The final, complete picture glows the brightest.",
+      "Technical_Cues": {
+        "Camera": "A top-down shot of the table where the king is assembling the intelligence puzzle.",
+        "Resolution": "8K, with a focus on the glowing puzzle pieces and how they fit together.",
+        "Lighting": "Low-key lighting with the puzzle pieces as the key light sources.",
+        "Art_Genre": "Historical thriller, noir aesthetic."
+      }
+    },
+    "Cultural_Anchors": [
+      "Verifying one spy with another spy ('ஒற்றினால் ஒற்றிக் கொளல்')",
+      "The principle of intelligence confirmation.",
+      "Prudence in statecraft."
+    ]
+  },
+  "Negative_Prompt": "king accepting the first piece of info, puzzle pieces not fitting, text artifacts.",
+  "Hyperparameters": {
+    "variant": "pro",
+    "steps": 50,
+    "cfg_scale": 8,
+    "seed": "Explore variations for the image in the completed puzzle."
+  }
+}

@@ -1,0 +1,39 @@
+{
+  "Kural_Info": {
+    "Number": 847,
+    "Chapter": "புல்லறிவாண்மை (Ignorance)",
+    "Tamil_Text": "அருமறை சோரும் அறிவிலான் செய்யும்பெருமிறை தானே தனக்கு.",
+    "English_Meaning": "The fool who neglects precious counsel does, of his own accord, a great injury to himself."
+  },
+  "Flux_Optimized_Prompt": {
+    "Layered_Composition": {
+      "Foreground": "An ignorant person ('அறிவிலான்') is being given a precious, rare secret or piece of advice ('அருமறை'), visualized as a glowing, intricate key.",
+      "Midground": "Due to their carelessness, they let this precious key slip through their fingers ('சோரும்').",
+      "Background": "The key falls and locks a massive, heavy iron door that slams shut in front of them. The door represents a great and self-inflicted torment or imprisonment ('பெருமிறை'). Their own negligence has created their prison."
+    },
+    "Art_Direction": {
+      "Subject_and_Action": "The ignorant person who carelessly lets slip a rare piece of wisdom is, by that very act, inflicting a great and inescapable torment upon themselves.",
+      "Symbolic_Motifs": "The rare advice as a precious key is the central object. The act of letting it slip and thus locking oneself in prison is the key narrative. The imprisonment is self-inflicted.",
+      "Mood_and_Emotion": "Self-destructive, tragic, foolish, imprisoning.",
+      "Lighting_and_Color": "The key glows with a precious, hopeful light. As it is dropped, the scene becomes dark and claustrophobic as the iron door slams shut, plunging the fool into darkness.",
+      "Technical_Cues": {
+        "Camera": "A shot that follows the falling key and ends on the final, resounding slam of the great iron door.",
+        "Resolution": "8K, with a strong, fateful narrative.",
+        "Lighting": "A dramatic shift from a moment of opportunity (the glowing key) to a state of imprisonment (darkness).",
+        "Art_Genre": "Dark fantasy, with a strong symbolic message."
+      },
+      "Cultural_Anchors": [
+        "Letting slip a rare secret ('அருமறை சோரும்')",
+        "The ignorant one ('அறிவிலான்')",
+        "Inflicting a great torment on oneself ('பெருமிறை தானே தனக்கு')"
+      ]
+    },
+    "Negative_Prompt": "person holding the key, an open door, text artifacts, cartoonish.",
+    "Hyperparameters": {
+      "variant": "pro",
+      "steps": 50,
+      "cfg_scale": 9,
+      "seed": "Explore variations for the design of the iron door."
+    }
+  }
+}

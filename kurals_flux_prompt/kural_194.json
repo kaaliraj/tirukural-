@@ -1,0 +1,38 @@
+{
+  "Kural_Info": {
+    "Number": 194,
+    "Chapter": "பயனில சொல்லாமை (Against Vain Speaking)",
+    "Tamil_Text": "நயன்சாரா நன்மையின் நீக்கும் பயன்சாராப்பண்பில்சொல் பல்லா ரகத்து.",
+    "English_Meaning": "The words devoid of profit or pleasure which a man speaks will, being inconsistent with virtue, remove him from goodness."
+  },
+  "Flux_Optimized_Prompt": {
+    "Layered_Composition": {
+      "Foreground": "A person is shown speaking words that are without profit and without character ('பயன் சாராப் பண்பில் சொல்') in a large assembly.",
+      "Midground": "The person is standing on a beautiful, green path of 'Goodness' or 'Virtue' ('நன்மை', 'நயன்').",
+      "Background": "The useless words they speak are visualized as a powerful, unnatural wind that blows directly out of their own mouth. This self-generated wind is so strong that it literally pushes them off the path of goodness ('நன்மையின் நீக்கும்'), sending them tumbling into a barren wasteland."
+    },
+    "Art_Direction": {
+      "Subject_and_Action": "Speaking useless and characterless words in public is a self-destructive act that will physically remove a person from the path of goodness and justice.",
+      "Symbolic_Motifs": "The words as a self-generated, destructive wind is the key metaphor. The path of goodness is a stable place, but the person's own actions are what cause their expulsion from it. The fall is a direct result of their own speech.",
+      "Mood_and_Emotion": "Self-destructive, self-expulsion, foolish.",
+      "Lighting_and_Color": "The path of goodness is bright and verdant. The wind of useless words is a grey, dusty vortex. As the person is blown off the path, they are plunged from a world of color into a desolate, colorless wasteland.",
+      "Technical_Cues": {
+        "Camera": "A dynamic shot that shows the person speaking and the immediate, powerful effect of the 'wind of their own words' blowing them off the path.",
+        "Resolution": "8K, ultra-realistic, with strong particle and wind effects.",
+        "Lighting": "A dramatic shift from the bright light of the good path to the bleak light of the wasteland.",
+        "Art_Genre": "Symbolic fantasy art."
+      },
+      "Cultural_Anchors": [
+        "Profitless, characterless words (பயன் சாராப் பண்பில் சொல்)",
+        "Will remove one from justice and goodness (நயன் சாரா நன்மையின் நீக்கும்)"
+      ]
+    },
+    "Negative_Prompt": "words keeping the person on the path, text artifacts, beautiful wasteland.",
+    "Hyperparameters": {
+      "variant": "pro",
+      "steps": 50,
+      "cfg_scale": 9,
+      "seed": "Explore the visual of the 'self-destructive wind of words'."
+    }
+  }
+}

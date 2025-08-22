@@ -1,0 +1,39 @@
+{
+  "Kural_Info": {
+    "Number": 480,
+    "Chapter": "வலியறிதல் (The Knowledge of Power)",
+    "Tamil_Text": "உளவரை தூக்காத ஒப்புர வாண்மை வளவரை வல்லைக் கெடும்.",
+    "English_Meaning": "The measure of his wealth will quickly perish, whose liberality weighs not the measure of his property."
+  },
+  "Flux_Optimized_Prompt": {
+    "Layered_Composition": {
+      "Foreground": "A well-intentioned but foolishly generous person is giving away wealth. Their source of wealth is a large, beautifully woven basket ('வளவரை').",
+      "Midground": "They are giving away handfuls of golden grain without looking into the basket to check how much is left ('உளவரை தூக்காத'). As a result, they do not see that the bottom of the basket is already bare.",
+      "Background": "The basket, representing their wealth, is quickly and completely emptying ('வல்லைக் கெடும்'), and soon they will have nothing left to give or to live on."
+    },
+    "Art_Direction": {
+      "Subject_and_Action": "The wealth of someone whose benevolence is not measured against their resources will be swiftly destroyed.",
+      "Symbolic_Motifs": "The basket of wealth is the central object. The act of giving without looking into it represents unmeasured generosity. The visible bottom of the basket signifies the impending ruin.",
+      "Mood_and_Emotion": "Foolish generosity, impending ruin, cautionary, tragic.",
+      "Lighting_and_Color": "A bright, perhaps naively optimistic light at the start. As the basket empties, the light on the giver should dim, and shadows should lengthen, indicating their approaching poverty."
+    },
+    "Technical_Cues": {
+      "Camera": "A shot from an angle that allows the viewer to see inside the emptying basket, a fact hidden from the giver.",
+      "Resolution": "8K, with detailed textures on the woven basket and the golden grain.",
+      "Lighting": "Dynamic lighting that changes to reflect the diminishing wealth.",
+      "Art_Genre": "Narrative realism."
+    },
+    "Cultural_Anchors": [
+      "Benevolence without measure ('உளவரை தூக்காத ஒப்புரவாண்மை')",
+      "Swift destruction of wealth ('வல்லைக் கெடும்')",
+      "The folly of unsustainable charity."
+    ]
+  },
+  "Negative_Prompt": "giver looking into the basket, magical refilling basket, sad recipients, text artifacts.",
+  "Hyperparameters": {
+    "variant": "dev",
+    "steps": 40,
+    "cfg_scale": 8,
+    "seed": "Explore variations for the design of the basket."
+  }
+}

@@ -1,0 +1,39 @@
+{
+  "Kural_Info": {
+    "Number": 508,
+    "Chapter": "தெரிந்துதெளிதல் (Selection and Confidence)",
+    "Tamil_Text": "தேரான் பிறனைத் தெளிந்தான் வழிமுறை தீரா இடும்பை தரும்.",
+    "English_Meaning": "Sorrow that will not leave even his posterity will come upon him chooses a stranger whose character he has not known."
+  },
+  "Flux_Optimized_Prompt": {
+    "Layered_Composition": {
+      "Foreground": "A person is shown making a rash decision, placing a crown of high trust ('தெளிந்தான்') on the head of a stranger they have not investigated ('தேரான் பிறனை'). The stranger's face is a shadowy mask.",
+      "Midground": "From this single act of misplaced trust, a dark, malevolent, thorny vine ('தீரா இடும்பை') erupts from the ground.",
+      "Background": "This vine of sorrow does not only entangle the person who made the decision. It is shown stretching far back into the future, ensnaring ghostly, translucent figures of their children, grandchildren, and all their descendants ('வழிமுறை'), who are trapped in this inherited suffering."
+    },
+    "Art_Direction": {
+      "Subject_and_Action": "Trusting someone without investigation brings an unending sorrow that will afflict all of one's future generations.",
+      "Symbolic_Motifs": "The thorny vine of sorrow as a generational curse is the central, powerful image. It visually represents the long-lasting consequences of a single poor judgment.",
+      "Mood_and_Emotion": "Tragic, fateful, a generational curse, cautionary.",
+      "Lighting_and_Color": "The moment of the bad decision is lit with a naive, foolish light. As the vine erupts, the scene becomes dark, menacing, and tragic. The vine is a sickly, dark purple/black.",
+      "Technical_Cues": {
+        "Camera": "A wide shot with a deep depth of field, showing the initial act and the long chain of ghostly descendants being ensnared by the vine.",
+        "Resolution": "8K, cinematic, with ethereal effects for the future generations.",
+        "Lighting": "The light fades and becomes more oppressive as the vine spreads through time.",
+        "Art_Genre": "Dark fantasy, with a strong narrative of cause and effect."
+      }
+    },
+    "Cultural_Anchors": [
+      "Trusting the un-investigated ('தேரான் தெளிதல்')",
+      "Unending Sorrow ('தீரா இடும்பை')",
+      "Affecting one's posterity ('வழிமுறை')"
+    ]
+  },
+  "Negative_Prompt": "a trustworthy stranger, a broken vine, happy descendants, text artifacts.",
+  "Hyperparameters": {
+    "variant": "pro",
+    "steps": 50,
+    "cfg_scale": 9,
+    "seed": "Explore variations for the thorny vine of sorrow."
+  }
+}

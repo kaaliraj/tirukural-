@@ -1,0 +1,38 @@
+{
+  "Kural_Info": {
+    "Number": 184,
+    "Chapter": "புறங்கூறாமை (Not Backbiting)",
+    "Tamil_Text": "கண்ணின்று கண்ணறச் சொல்லினும் சொல்லற்கமுன்னின்று பின்நோக்காச் சொல்.",
+    "English_Meaning": "Though you speak without kindness before another's face speak not in his absence words which regard not the evil subsequently resulting from it."
+  },
+  "Flux_Optimized_Prompt": {
+    "Layered_Composition": {
+      "Foreground": "A split composition.",
+      "Midground": "On the left, a person is speaking harsh, unkind words directly to another's face ('கண்ணின்று கண் அறச் சொல்லினும்'). This is depicted as a direct, if unpleasant, confrontation.",
+      "Background": "On the right, the same person is shown speaking words about an absent person. These words are not necessarily hateful, but they are thoughtless, spoken without considering the future consequences ('பின் நோக்காச் சொல்'). These words are visualized as seeds that, once spoken, grow into a monstrous vine of unforeseen, disastrous consequences. This second act is presented as the one to be truly avoided ('சொல்லற்க')."
+    },
+    "Art_Direction": {
+      "Subject_and_Action": "It is better to be brutally honest to someone's face than to be thoughtless behind their back, because words spoken without foresight of their consequences can create immense evil.",
+      "Symbolic_Motifs": "The key is the consequence. The face-to-face insult is a contained event. The thoughtless gossip, however, grows into a monster of unforeseen ruin. This shows that the latter is the more dangerous and irresponsible act.",
+      "Mood_and_Emotion": "Cautionary, irresponsible, consequential.",
+      "Lighting_and_Color": "The confrontational scene is lit with a harsh, but direct and honest light. The scene of gossip is initially in a neutral light, but is quickly overwhelmed by the dark, monstrous shadow of the growing vine of consequence.",
+      "Technical_Cues": {
+        "Camera": "A comparative shot that shows the contained nature of the first evil and the uncontrollably growing nature of the second.",
+        "Resolution": "8K, ultra-realistic, with advanced procedural growth for the 'vine of consequence'.",
+        "Lighting": "The lighting should shift dramatically on the right side to show how a thoughtless word can lead to a dark outcome.",
+        "Art_Genre": "Symbolic realism, with horror elements."
+      },
+      "Cultural_Anchors": [
+        "Words spoken without looking behind (at the consequences) (பின் நோக்காச் சொல்)",
+        "Do not speak them (சொல்லற்க)"
+      ]
+    },
+    "Negative_Prompt": "gossip having no effect, text artifacts, monster being friendly.",
+    "Hyperparameters": {
+      "variant": "pro",
+      "steps": 50,
+      "cfg_scale": 9,
+      "seed": "Explore the design of the 'monstrous vine of unforeseen consequences'."
+    }
+  }
+}

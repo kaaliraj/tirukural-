@@ -1,0 +1,38 @@
+{
+  "Kural_Info": {
+    "Number": 1130,
+    "Chapter": "காதற்சிறப்புரைத்தல் (Declaration of Love's special Excellence)",
+    "Tamil_Text": "உவந்துறைவர் உள்ளத்துள் என்றும் இகந்துறைவர்ஏதிலர் என்னும்இவ் வூர்.",
+    "English_Meaning": "My lover dwells in my heart with perpetual delight; but the town says he is unloving and (therefore) dwells afar."
+  },
+  "Flux_Optimized_Prompt": {
+    "Layered_Composition": {
+      "Foreground": "A woman stands with a serene, secret smile.",
+      "Midground": "A transparent view into her heart ('உள்ளத்துள்') reveals the truth: her lover is dwelling there joyfully and constantly ('உவந்து உறைவர் என்றும்'). Their union is perfect and unbroken within her.",
+      "Background": "Outside, in the world of the town, the townspeople are gossiping. Their ignorant words are visualized: 'He has scorned her and lives far away; she is a stranger to him now' ('இகழ்ந்து உறைவர்; ஏதிலர் என்னும் இவ் ஊர்'). Their public perception is in complete contradiction to her inner reality."
+    },
+    "Art_Direction": {
+      "Subject_and_Action": "The woman's secret knowledge and joy, contrasted with the ignorant gossip of the town: they say he has scornfully abandoned her, but she knows he lives joyfully in her heart forever.",
+      "Symbolic_Motifs": "The contrast between the inner truth (joyful union in the heart) and the outer perception (gossip of abandonment) is the central theme. Her serene smile is the only outward sign of her secret knowledge.",
+      "Mood_and_Emotion": "Serene, secret joy, ironic, misunderstood.",
+      "Lighting_and_Color": "Her inner heart-space is bathed in a brilliant, warm, golden light of joyful union. The outer world of the gossiping town is in a duller, greyer, more mundane light. She is illuminated from within by her secret.",
+      "Technical_Cues": {
+        "Camera": "A portrait shot of the woman, with a symbolic, transparent view revealing the joyful scene within her heart, while the gossiping townspeople are visible but out of focus in the background.",
+        "Resolution": "8K, ultra-realistic, focusing on her secret, knowing smile.",
+        "Lighting": "The primary light source is the joyful union happening within her heart.",
+        "Art_Genre": "Symbolic realism, psychological portraiture."
+      },
+      "Cultural_Anchors": [
+        "He joyfully dwells forever in my heart (உவந்து உறைவர் உள்ளத்துள் என்றும்)",
+        "The town says he has scorned her and is a stranger (இகழ்ந்து உறைவர், ஏதிலர் என்னும் இவ் ஊர்)"
+      ]
+    },
+    "Negative_Prompt": "sad woman, empty heart, text artifacts.",
+    "Hyperparameters": {
+      "variant": "pro",
+      "steps": 50,
+      "cfg_scale": 7,
+      "seed": "Explore the visual of the 'joyful union within the heart'."
+    }
+  }
+}

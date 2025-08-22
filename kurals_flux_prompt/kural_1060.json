@@ -1,0 +1,39 @@
+{
+  "Kural_Info": {
+    "Number": 1060,
+    "Chapter": "இரவு (Mendicancy)",
+    "Tamil_Text": "இரப்பான் வெகுளாமை வேண்டும் நிரப்பிடும்பை தானேயும் சாலும் கரி.",
+    "English_Meaning": "He who begs ought not to be angry (at a refusal); for even the misery of (his own) poverty should be a sufficient reason (for so doing)."
+  },
+  "Flux_Optimized_Prompt": {
+    "Layered_Composition": {
+      "Foreground": "A beggar ('இரப்பான்') has been refused alms and is shown beginning to feel a flash of anger ('வெகுளி').",
+      "Midground": "At that moment, the beggar's own poverty and suffering ('நிரப்பிடும்பை') is personified as a ghostly, sorrowful figure that appears before them, acting as a mirror or a witness ('கரி').",
+      "Background": "Seeing the reflection of their own suffering in this ghostly witness, the beggar understands that the person who refused them might also be suffering. Their anger dissolves into a sad empathy, and they master their own anger ('வெகுளாமை வேண்டும்')."
+    },
+    "Art_Direction": {
+      "Subject_and_Action": "A beggar should not get angry when refused, because the mere existence of their own poverty is a sufficient witness to the possibility of hardship in others.",
+      "Symbolic_Motifs": "The personification of one's own poverty as a ghostly witness that teaches empathy is the central concept. The dissolving of anger is the key action.",
+      "Mood_and_Emotion": "Empathetic, self-aware, a difficult understanding, poignant.",
+      "Lighting_and_Color": "A somber, gritty light. The flash of anger is a hot red, which is immediately cooled and extinguished by the sad, grey, ethereal light of the poverty-ghost.",
+      "Technical_Cues": {
+        "Camera": "A close-up on the beggar's face, capturing the internal emotional journey from anger to understanding.",
+        "Resolution": "8K, with a strong psychological feel and ghostly effects.",
+        "Lighting": "A dynamic shift in colored light to represent the change in emotion.",
+        "Art_Genre": "Psychological realism with a supernatural element."
+      },
+      "Cultural_Anchors": [
+        "A beggar should not be angry ('இரப்பான் வெகுளாமை வேண்டும்')",
+        "One's own poverty is a sufficient witness ('நிரப்பிடும்பை சாலும் கரி')",
+        "Empathy born of shared suffering."
+      ]
+    },
+    "Negative_Prompt": "an angry beggar, a happy beggar, text artifacts, cartoonish ghost.",
+    "Hyperparameters": {
+      "variant": "pro",
+      "steps": 50,
+      "cfg_scale": 9,
+      "seed": "Explore variations for the ghostly witness."
+    }
+  }
+}

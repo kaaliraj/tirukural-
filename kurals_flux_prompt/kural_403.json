@@ -1,0 +1,39 @@
+{
+  "Kural_Info": {
+    "Number": 403,
+    "Chapter": "கல்லாமை (Ignorance)",
+    "Tamil_Text": "கல்லா தவரும் நனிநல்லர் கற்றார்முன் சொல்லா திருக்கப் பெறின்.",
+    "English_Meaning": "The unlearned also are very excellent men, if they know how to keep silence before the learned."
+  },
+  "Flux_Optimized_Prompt": {
+    "Layered_Composition": {
+      "Foreground": "An unlearned person ('கல்லாதவர்') sits respectfully and silently in an assembly of wise scholars. A gentle, approving light shines upon them.",
+      "Midground": "The learned scholars ('கற்றார்') are engaged in a deep discussion, but they occasionally glance towards the silent listener with expressions of respect and approval.",
+      "Background": "A grand, serene hall of learning. The atmosphere is one of mutual respect and the dignified pursuit of knowledge."
+    },
+    "Art_Direction": {
+      "Subject_and_Action": "The virtue and excellence of an unlearned person who understands the wisdom of remaining silent in the presence of those who are more knowledgeable.",
+      "Symbolic_Motifs": "The act of keeping silent ('சொல்லாது இருக்க') is portrayed not as weakness, but as a dignified and wise choice. The light of approval on the silent person is a key visual cue.",
+      "Mood_and_Emotion": "Dignified, respectful, wise, serene, virtuous.",
+      "Lighting_and_Color": "A warm, scholarly light, perhaps from candles or high windows, fills the hall. The silent person is touched by a particularly gentle ray of light, signifying their 'excellence' ('நனிநல்லர்')."
+    },
+    "Technical_Cues": {
+      "Camera": "Wide shot, showing the entire assembly to provide context. The composition should draw the eye to the quiet dignity of the silent individual.",
+      "Resolution": "8K, with the rich textures of a classical painting.",
+      "Lighting": "Soft, diffused lighting with a focused beam on the main subject.",
+      "Art_Genre": "Historical realism, classical painting in the style of Rembrandt."
+    },
+    "Cultural_Anchors": [
+      "The virtue of silence in the face of knowledge",
+      "Respect for the learned ('கற்றார் முன்')",
+      "The dignity of knowing one's limits."
+    ]
+  },
+  "Negative_Prompt": "unlearned person trying to speak, scholars mocking the person, dark or chaotic scene, text artifacts.",
+  "Hyperparameters": {
+    "variant": "dev",
+    "steps": 40,
+    "cfg_scale": 8,
+    "seed": "Explore variations for the scholars' expressions."
+  }
+}

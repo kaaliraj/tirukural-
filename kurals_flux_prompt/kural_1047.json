@@ -1,0 +1,39 @@
+{
+  "Kural_Info": {
+    "Number": 1047,
+    "Chapter": "நல்குரவு (Poverty)",
+    "Tamil_Text": "அறஞ்சாரா நல்குரவு ஈன்றதா யானும்பிறன்போல நோக்கப் படும்.",
+    "English_Meaning": "He that is reduced to absolute poverty will be regarded as a stranger even by his own mother."
+  },
+  "Flux_Optimized_Prompt": {
+    "Layered_Composition": {
+      "Foreground": "A young man is suffering from a poverty that is not associated with virtue ('அறம் சாரா நல்குரவு'). He is destitute and perhaps looks slightly disreputable.",
+      "Midground": "He approaches his own mother ('ஈன்ற தாய்') for help and comfort.",
+      "Background": "His mother looks at him not with the warmth and love of a parent, but with the cold, distant, and mistrustful gaze of a stranger ('பிறன் போல நோக்கப்படும்'). His dishonorable poverty has broken the most fundamental human bond."
+    },
+    "Art_Direction": {
+      "Subject_and_Action": "A person afflicted by a non-virtuous poverty will be looked upon as a stranger even by the very mother who gave birth to them.",
+      "Symbolic_Motifs": "The mother's cold, estranged gaze is the central and most heartbreaking element of the image. The distinction that this is a 'non-virtuous' poverty is important; it is not noble suffering, but the poverty that comes from vice, which is what severs the bond.",
+      "Mood_and_Emotion": "Heartbreaking, alienated, estranged, tragic.",
+      "Lighting_and_Color": "A cold, grey, unforgiving light. The mother and son are separated by an invisible wall of emotional distance. The palette is desaturated to emphasize the lack of familial warmth.",
+      "Technical_Cues": {
+        "Camera": "An intimate but cold two-shot, focusing on the lack of connection between the two faces. The emotional distance should be palpable.",
+        "Resolution": "8K, ultra-realistic, focusing on the subtle expressions of estrangement and pain.",
+        "Lighting": "Cold, alienating light.",
+        "Art_Genre": "Tragic realism."
+      },
+      "Cultural_Anchors": [
+        "Even by his own mother (ஈன்ற தாயானும்)",
+        "He will be looked upon as a stranger (பிறன் போல நோக்கப்படும்)",
+        "Poverty that is not connected to virtue (அறம் சாரா நல்குரவு)"
+      ]
+    },
+    "Negative_Prompt": "loving mother, happy son, text artifacts, warm scene.",
+    "Hyperparameters": {
+      "variant": "dev",
+      "steps": 45,
+      "cfg_scale": 9,
+      "seed": "Focus on the mother's cold, estranged expression."
+    }
+  }
+}

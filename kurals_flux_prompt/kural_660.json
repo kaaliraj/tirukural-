@@ -1,0 +1,39 @@
+{
+  "Kural_Info": {
+    "Number": 660,
+    "Chapter": "வினைத்தூய்மை (Purity in Action)",
+    "Tamil_Text": "சலத்தால் பொருள்செய்தே மார்த்தல் பசுமட் கலத்துள்நீர் பெய்திரீஇ யற்று.",
+    "English_Meaning": "To get wealth by deceitful means and to hoard it, is like putting water into an unburnt clay pot and trying to preserve it."
+  },
+  "Flux_Optimized_Prompt": {
+    "Layered_Composition": {
+      "Foreground": "A person is shown craftily acquiring wealth through deceit, represented by them pulling gold coins out of a shadowy, magical illusion.",
+      "Midground": "They then take this ill-gotten wealth and place it for safekeeping ('ஏமார்த்தல்') into a large, beautifully shaped, but clearly unfired, wet clay pot ('பசுமட் கலம்').",
+      "Background": "As soon as the wealth (and water, 'நீர்') is placed inside, the unburnt pot begins to dissolve and collapse, and all the wealth spills out and is lost in the mud. The attempt to preserve it has failed completely."
+    },
+    "Art_Direction": {
+      "Subject_and_Action": "Acquiring wealth by fraud and then trying to secure it is as futile as trying to store water in an unbaked clay pot.",
+      "Symbolic_Motifs": "The unbaked clay pot is the central, powerful metaphor for a foundation of deceit. Its inevitable dissolution when put to use demonstrates the futility of trying to build security on a fraudulent base.",
+      "Mood_and_Emotion": "Futile, self-defeating, inevitable collapse, impermanent.",
+      "Lighting_and_Color": "The scene of deceitful acquisition is dark and shadowy. The clay pot is a natural, earthy color. The moment of collapse is messy and tragic, with the gold being lost in the mud.",
+      "Technical_Cues": {
+        "Camera": "A shot that focuses on the beautiful but flawed pot and its inevitable, messy destruction.",
+        "Resolution": "8K, with realistic clay and water physics.",
+        "Lighting": "Natural light that highlights the flaws in the unburnt pot.",
+        "Art_Genre": "Hyperrealism, with a strong, clear metaphor."
+      }
+    },
+    "Cultural_Anchors": [
+      "Wealth through Deceit ('சலத்தால் பொருள்செய்து')",
+      "Like Water in an Unburnt Pot ('பசுமட் கலத்துள்நீர் பெய்திரீஇ யற்று')",
+      "The instability of ill-gotten gains."
+    ]
+  },
+  "Negative_Prompt": "pot holding the water, successful hoarding, text artifacts, cartoonish.",
+  "Hyperparameters": {
+    "variant": "dev",
+    "steps": 45,
+    "cfg_scale": 8,
+    "seed": "Explore variations for the dissolving pot effect."
+  }
+}

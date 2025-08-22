@@ -1,0 +1,39 @@
+{
+  "Kural_Info": {
+    "Number": 913,
+    "Chapter": "வரைவின்மகளிர் (Wanton Women)",
+    "Tamil_Text": "பொருட்பெண்டிர் பொய்ம்மை முயக்கம் இருட்டறையில் ஏதில் பிணந்தழீஇ அற்று.",
+    "English_Meaning": "The false embraces of wealth-loving women are like (hired men) embracing a strange corpse in a dark room."
+  },
+  "Flux_Optimized_Prompt": {
+    "Layered_Composition": {
+      "Foreground": "A man is shown embracing a beautiful courtesan who only desires his wealth ('பொருட்பெண்டிர்'). The embrace, however, is false ('பொய்ம்மை முயக்கம்').",
+      "Midground": "The scene is set in a dark, shadowy room ('இருட்டறை'). A surreal reveal shows the true nature of the act: the man is not embracing a living woman, but a cold, lifeless, strange corpse ('ஏதில் பிணம்').",
+      "Background": "The atmosphere is one of horror, disgust, and profound emptiness. The act, which should be one of passion, is revealed to be a sterile and macabre embrace of death."
+    },
+    "Art_Direction": {
+      "Subject_and_Action": "The false embrace of a prostitute is as empty and horrifying as embracing a stranger's corpse in a dark room.",
+      "Symbolic_Motifs": "The shocking reveal of the beautiful woman as a corpse is the central, powerful metaphor. The darkness of the room emphasizes the blindness and horror of the act.",
+      "Mood_and_Emotion": "Macabre, horrifying, empty, sterile, a critique of loveless passion.",
+      "Lighting_and_Color": "A very dark, low-key lighting. A single, harsh sliver of moonlight reveals the ghastly truth of the embrace. The colors are cold, deathly blues and greys.",
+      "Technical_Cues": {
+        "Camera": "A close-up on the man's face as his expression turns from passion to horror as he realizes what he is truly holding.",
+        "Resolution": "8K, with a gritty, hyper-realistic, and horrific quality.",
+        "Lighting": "Chiaroscuro, with deep, impenetrable shadows.",
+        "Art_Genre": "Gothic horror, with a strong symbolic message."
+      },
+      "Cultural_Anchors": [
+        "The false embrace of a courtesan ('பொருட்பெண்டிர் பொய்ம்மை முயக்கம்')",
+        "Like embracing a stranger's corpse in the dark.",
+        "The emptiness of mercenary love."
+      ]
+    },
+    "Negative_Prompt": "a loving embrace, a bright room, text artifacts, cartoonish.",
+    "Hyperparameters": {
+      "variant": "pro",
+      "steps": 50,
+      "cfg_scale": 9,
+      "seed": "Explore variations for the lighting to enhance the horror."
+    }
+  }
+}

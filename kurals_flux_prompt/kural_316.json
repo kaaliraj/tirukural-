@@ -1,0 +1,38 @@
+{
+  "Kural_Info": {
+    "Number": 316,
+    "Chapter": "இன்னாசெய்யாமை (Not doing Evil)",
+    "Tamil_Text": "இன்னா எனத்தான் உணர்ந்தவை துன்னாமைவேண்டும் பிறன்கண் செயல்.",
+    "English_Meaning": "Let not a man consent to do those things to another which, he knows, will cause sorrow."
+  },
+  "Flux_Optimized_Prompt": {
+    "Layered_Composition": {
+      "Foreground": "A person has a clear, painful memory of something that caused them sorrow ('இன்னா எனத் தான் உணர்ந்தவை'). This memory is a sharp, red, thorny object in their mind.",
+      "Midground": "They are now in a position where they have the opportunity to do the very same harmful act to another person ('பிறன்கண் செயல்').",
+      "Background": "Because of their own memory of the pain, they make a conscious and determined choice to not even approach that action ('துன்னாமை வேண்டும்'). They are shown building a wall between themselves and the harmful deed, using the very thorns of their own painful memory as the building blocks of their compassionate restraint."
+    },
+    "Art_Direction": {
+      "Subject_and_Action": "That which you have personally experienced as painful is the very thing you must resolve never to do to others.",
+      "Symbolic_Motifs": "The memory of pain as a thorny object is key. The use of these same thorns to build a wall of restraint is a powerful metaphor for turning one's own suffering into a source of empathy and virtue.",
+      "Mood_and_Emotion": "Empathetic, principled, compassionate, learning from suffering.",
+      "Lighting_and_Color": "A clear, thoughtful light. The memory of pain is a sharp, vivid red. The wall of restraint that is built from it is a complex but ultimately protective structure. The person's expression is one of deep, learned empathy.",
+      "Technical_Cues": {
+        "Camera": "A shot that visualizes the person's inner world, showing the memory of pain and the conscious act of using that memory to build a moral barrier.",
+        "Resolution": "8K, ultra-realistic, with a focus on the symbolic architecture of the 'wall of restraint'.",
+        "Lighting": "The painful memory is a harsh light, but the act of restraint transforms it into a softer, more virtuous glow.",
+        "Art_Genre": "Psychological realism, with symbolic elements."
+      },
+      "Cultural_Anchors": [
+        "The things one has known as painful (இன்னா எனத் தான் உணர்ந்தவை)",
+        "One must resolve not to do them to another (துன்னாமை வேண்டும் பிறன்கண் செயல்)"
+      ]
+    },
+    "Negative_Prompt": "person inflicting the same pain, happy person, text artifacts.",
+    "Hyperparameters": {
+      "variant": "dev",
+      "steps": 45,
+      "cfg_scale": 8,
+      "seed": "Explore the visual of the 'wall built from painful memories'."
+    }
+  }
+}

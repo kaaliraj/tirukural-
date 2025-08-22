@@ -1,0 +1,39 @@
+{
+  "Kural_Info": {
+    "Number": 1115,
+    "Chapter": "நலம்புனைந்துரைத்தல் (The Praise of her Beauty)",
+    "Tamil_Text": "அனிச்சப்பூக் கால்களையாள் பெய்தாள் நுகப்பிற்குநல்ல படாஅ பறை.",
+    "English_Meaning": "No merry drums will be beaten for the (tender) waist of her who has adorned herself with the anicham without having removed its stem."
+  },
+  "Flux_Optimized_Prompt": {
+    "Layered_Composition": {
+      "Foreground": "A maiden of incredible delicacy is shown. She has adorned her waist with a girdle of Anicham flowers.",
+      "Midground": "A close-up reveals a fatal mistake: she has forgotten to remove the tiny, almost weightless stems from the flowers ('கால் களையாள் பெய்தாள்').",
+      "Background": "Because her waist ('நுகப்பிற்கு') is so impossibly tender and delicate, even the weight of these tiny stems is too much for it. Her waist is shown breaking under this minuscule burden. As a result, the funeral drum ('படாஅ பறை'), not the wedding drum, will be beaten for her."
+    },
+    "Art_Direction": {
+      "Subject_and_Action": "An extreme hyperbole to praise the beloved's delicacy: her waist is so tender that if she wears an Anicham flower without removing its stem, the weight will break her, leading to her funeral.",
+      "Symbolic_Motifs": "The extreme fragility of the maiden is the key. The weight of the flower stems, something normally considered weightless, is treated as a fatal burden. The sound of the funeral drum is the shocking, hyperbolic consequence.",
+      "Mood_and_Emotion": "Hyperbolic, delicate, fragile, tragicomic.",
+      "Lighting_and_Color": "A very soft, delicate, and fragile light. The colors are beautiful pastels. The moment her waist 'breaks' is not gory, but a beautiful, tragic, shattering effect, like a fine porcelain doll cracking.",
+      "Technical_Cues": {
+        "Camera": "A shot that moves from a beautiful portrait to a macro close-up on the flower stems, and then to the surreal, tragic consequence.",
+        "Resolution": "8K, hyper-realistic, focusing on the extreme delicacy of her form.",
+        "Lighting": "Soft, ethereal lighting.",
+        "Art_Genre": "Surrealism, fantasy portraiture."
+      },
+      "Cultural_Anchors": [
+        "The Anicham flower (அனிச்சப்பூ)",
+        "Worn without removing the stem (கால் களையாள் பெய்தாள்)",
+        "The funeral drum will sound for her waist (நுகப்பிற்கு நல்ல படாஅ பறை)"
+      ]
+    },
+    "Negative_Prompt": "strong woman, heavy flowers, text artifacts.",
+    "Hyperparameters": {
+      "variant": "pro",
+      "steps": 55,
+      "cfg_scale": 7,
+      "seed": "Explore the visual of a waist 'breaking' like porcelain."
+    }
+  }
+}

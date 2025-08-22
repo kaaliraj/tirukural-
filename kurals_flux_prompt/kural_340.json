@@ -1,0 +1,38 @@
+{
+  "Kural_Info": {
+    "Number": 340,
+    "Chapter": "நிலையாமை (Instability)",
+    "Tamil_Text": "புக்கில் அமைந்தின்று கொல்லோ உடம்பினுள்துச்சில் இருந்த உயிர்க்கு.",
+    "English_Meaning": "It seems as if the soul, which takes a temporary shelter in a body, had not attained a home."
+  },
+  "Flux_Optimized_Prompt": {
+    "Layered_Composition": {
+      "Foreground": "A human body is visualized as a temporary, makeshift hut or shelter ('துச்சில்'). The structure is fragile and looks impermanent.",
+      "Midground": "Inside this hut, the soul ('உயிர்') is depicted as a weary, ethereal traveler, resting for a short while but not unpacking or settling down.",
+      "Background": "Through the open door of the hut, a vast, unknown, cosmic road stretches on, suggesting the soul's journey is far from over. The soul seems to be looking out at this road, knowing that this hut is not its final home ('புக்கில்')."
+    },
+    "Art_Direction": {
+      "Subject_and_Action": "A poignant question about the soul's existence within the body, suggesting that the body is merely a temporary lodging for a soul that has not yet found its true, permanent home.",
+      "Symbolic_Motifs": "The body as a fragile, temporary shelter is the central metaphor. The soul as a traveler who is just passing through emphasizes the theme of impermanence. The question 'Is there no home?' ('புக்கில் அமைந்தின்று கொல்லோ') is conveyed by the soul's weary but forward-looking gaze.",
+      "Mood_and_Emotion": "Poignant, transient, weary, searching, philosophical.",
+      "Lighting_and_Color": "The inside of the body-hut is dim and temporary. The true light comes from the ethereal soul itself and from the mysterious cosmic road outside, suggesting the soul's true home is elsewhere.",
+      "Technical_Cues": {
+        "Camera": "A shot from within the body-hut, looking past the resting soul and out towards the endless road, placing the viewer in the soul's perspective.",
+        "Resolution": "8K, ultra-realistic, with a strong contrast between the organic, fragile texture of the hut and the ethereal nature of the soul.",
+        "Lighting": "Atmospheric, melancholic lighting.",
+        "Art_Genre": "Symbolic surrealism, philosophical art."
+      },
+      "Cultural_Anchors": [
+        "The soul in the body's temporary hut (உடம்பினுள் துச்சில் இருந்த உயிர்)",
+        "The lack of a permanent home (புக்கில் அமைந்தின்று)"
+      ]
+    },
+    "Negative_Prompt": "soul building a permanent house, happy soul, text artifacts, cozy hut.",
+    "Hyperparameters": {
+      "variant": "pro",
+      "steps": 50,
+      "cfg_scale": 8,
+      "seed": "Explore the design of the 'cosmic road'."
+    }
+  }
+}

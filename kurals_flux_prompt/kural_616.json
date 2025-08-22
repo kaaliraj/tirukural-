@@ -1,0 +1,38 @@
+{
+  "Kural_Info": {
+    "Number": 616,
+    "Chapter": "ஆள்வினையுடைமை (Manly Effort)",
+    "Tamil_Text": "முயற்சி திருவினை ஆக்கும் முயற்றின்மைஇன்மை புகுத்தி விடும்.",
+    "English_Meaning": "Effort will lift a man to the heights of prosperity. Lack of effort will plunge him into the depths of poverty."
+  },
+  "Flux_Optimized_Prompt": {
+    "Layered_Composition": {
+      "Foreground": "A split, vertical composition. On the top half, a figure is engaged in strenuous, upward effort ('முயற்சி'). This is visualized as them determinedly climbing a steep, golden staircase that leads up into a realm of divine prosperity, presided over by the Goddess Lakshmi ('திரு').",
+      "Midground": "On the bottom half, the same figure is shown without effort ('முயற்றின்மை'). They are idle and still. As a result, the ground beneath them cracks and opens, and they are being pulled down into a dark, barren abyss of absolute poverty and nothingness ('இன்மை').",
+      "Background": "The background reflects the two destinies: the top is a bright, prosperous, celestial realm. The bottom is a dark, empty void."
+    },
+    "Art_Direction": {
+      "Subject_and_Action": "The absolute dichotomy of effort and inaction: effort actively creates prosperity and leads one upward, while lack of effort passively allows one to be consumed by poverty and ruin.",
+      "Symbolic_Motifs": "The upward staircase of effort versus the downward abyss of inaction is a clear and powerful metaphor. 'Thiru' is personified as the Goddess of Fortune, who is being actively reached by the climber. 'Inmai' (poverty/nothingness) is a consuming void.",
+      "Mood_and_Emotion": "Ascendant vs. descendant, constructive vs. destructive, dynamic vs. static.",
+      "Lighting_and_Color": "The top half is brilliant, warm, and golden, illuminated by the realm of 'Thiru'. The bottom half is dark, cold, and monochromatic, being consumed by the blackness of 'Inmai'.",
+      "Technical_Cues": {
+        "Camera": "A vertical panoramic shot that shows the two opposing destinies as a single, continuous choice.",
+        "Resolution": "8K, ultra-realistic, with ethereal effects for the celestial realm and dark, terrifying effects for the abyss.",
+        "Lighting": "Extreme high-contrast, top-and-bottom lighting scheme.",
+        "Art_Genre": "Epic fantasy art, symbolic diptych."
+      },
+      "Cultural_Anchors": [
+        "Effort (முயற்சி) creates prosperity (திருவினை ஆக்கும்)",
+        "Lack of effort (முயற்றின்மை) brings poverty (இன்மை புகுத்தி விடும்)"
+      ]
+    },
+    "Negative_Prompt": "effort leading down, inaction leading up, grey morality, text artifacts.",
+    "Hyperparameters": {
+      "variant": "pro",
+      "steps": 55,
+      "cfg_scale": 9,
+      "seed": "Explore the depiction of the abyss of 'Inmai'."
+    }
+  }
+}

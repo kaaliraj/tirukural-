@@ -1,0 +1,39 @@
+{
+  "Kural_Info": {
+    "Number": 573,
+    "Chapter": "கண்ணோட்டம் (Benignity)",
+    "Tamil_Text": "பண்என்னாம் பாடற்கு இயைபின்றேல் கண்என்னாம் கண்ணோட்டம் இல்லாத கண்.",
+    "English_Meaning": "Of what avail is a song if it be inconsistent with harmony ? what is the use of eyes which possess no kindliness."
+  },
+  "Flux_Optimized_Prompt": {
+    "Layered_Composition": {
+      "Foreground": "A surreal diptych. On the left panel, a beautiful musical instrument, like a harp or veena, is being played, but it produces a harsh, discordant noise (visualized as jagged, chaotic soundwaves) because it is out of tune with the song ('பண்என்னாம்').",
+      "Midground": "On the right panel, a pair of physically perfect, beautiful human eyes are shown. However, they are cold, hard, and stone-like, completely lacking any warmth or kindness ('கண்ணோட்டம் இல்லாத கண்'). They are useless.",
+      "Background": "Both scenes are presented as equally useless and meaningless, demonstrating the parallel failure. The listeners on the left are covering their ears; the people being looked at on the right are shivering from the cold gaze."
+    },
+    "Art_Direction": {
+      "Subject_and_Action": "A direct analogy: an eye without kindness is as useless as music without harmony.",
+      "Symbolic_Motifs": "The discordant soundwaves visualize the lack of harmony. The cold, stone-like texture of the eyes visualizes the lack of kindness. Both are presented as functional failures.",
+      "Mood_and_Emotion": "Useless, disharmonious, cold, meaningless.",
+      "Lighting_and_Color": "The left panel has harsh, chaotic colors to match the sound. The right panel is lit with a cold, sterile, blue-white light that emphasizes the lack of warmth.",
+      "Technical_Cues": {
+        "Camera": "A clean, side-by-side composition that makes the comparison immediate and clear.",
+        "Resolution": "8K, with abstract effects for the sound and detailed textures for the stone eyes.",
+        "Lighting": "Contrasting lighting schemes that evoke the appropriate feeling for each panel.",
+        "Art_Genre": "Surrealism, conceptual art."
+      }
+    },
+    "Cultural_Anchors": [
+      "Music without Harmony ('பண் இயைபின்றேல்')",
+      "Eyes without Kindness ('கண்ணோட்டம் இல்லாத கண்')",
+      "The necessity of inner quality for outer function."
+    ]
+  },
+  "Negative_Prompt": "harmonious music, kind eyes, happy people, text artifacts, blurry.",
+  "Hyperparameters": {
+    "variant": "pro",
+    "steps": 45,
+    "cfg_scale": 7,
+    "seed": "Explore variations for the stone-like eyes."
+  }
+}

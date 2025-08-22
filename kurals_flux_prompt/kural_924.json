@@ -1,0 +1,39 @@
+{
+  "Kural_Info": {
+    "Number": 924,
+    "Chapter": "கள்ளுண்ணாமை (Not Drinking Palm-Wine)",
+    "Tamil_Text": "நாண்என்னும் நல்லாள் புறங்கொடுக்கும் கள்ளென்னும் பேணாப் பெருங்குற்றத் தார்க்கு.",
+    "English_Meaning": "The fair maid of modesty will turn her back on those who are guilty of the great and abominable crime of drunkenness."
+  },
+  "Flux_Optimized_Prompt": {
+    "Layered_Composition": {
+      "Foreground": "A person is shown embracing the great crime of drunkenness ('கள் என்னும் பெருங்குற்றம்'). They are happily drinking from a large jug of wine.",
+      "Midground": "Behind them, the virtue of Modesty or Shamefacedness is personified as a beautiful, noble maiden ('நாண் என்னும் நல்லாள்').",
+      "Background": "Seeing the person commit this un-cherishable crime, the maiden of Modesty is shown turning her back in disgust ('புறங்கொடுக்கும்') and walking away, abandoning the drunkard forever."
+    },
+    "Art_Direction": {
+      "Subject_and_Action": "The good maiden of Modesty will turn her back and abandon anyone who commits the great crime of drunkenness.",
+      "Symbolic_Motifs": "The personification of Modesty as a noble maiden is key. The act of her physically turning her back and leaving is a powerful metaphor for the drunkard's loss of all shame.",
+      "Mood_and_Emotion": "Abandonment, shamelessness, a loss of virtue.",
+      "Lighting_and_Color": "The drunkard is in a dim, sordid light. The maiden of Modesty is initially surrounded by a pure, white light, which she takes with her as she leaves, plunging the drunkard into a deeper moral darkness.",
+      "Technical_Cues": {
+        "Camera": "A shot that shows the drunkard in the foreground and the departing maiden of Modesty in the background.",
+        "Resolution": "8K, with a strong allegorical narrative.",
+        "Lighting": "Dynamic lighting that changes as the maiden departs.",
+        "Art_Genre": "Classical allegorical painting."
+      },
+      "Cultural_Anchors": [
+        "The Good Maiden of Modesty ('நாண் என்னும் நல்லாள்')",
+        "Turning her back ('புறங்கொடுக்கும்')",
+        "On those who commit the great crime of drinking."
+      ]
+    },
+    "Negative_Prompt": "the maiden embracing the drunkard, text artifacts, cartoonish.",
+    "Hyperparameters": {
+      "variant": "pro",
+      "steps": 50,
+      "cfg_scale": 8,
+      "seed": "Explore variations for the design of the maiden of Modesty."
+    }
+  }
+}

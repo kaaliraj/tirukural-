@@ -1,0 +1,39 @@
+{
+  "Kural_Info": {
+    "Number": 699,
+    "Chapter": "மன்னரைச் சேர்ந்தொழுதல் (Conduct in the Presence of the King)",
+    "Tamil_Text": "கொளப்பட்டேம் என்றெண்ணிக் கொள்ளாத செய்யார் துளக்கற்ற காட்சி யவர்.",
+    "English_Meaning": "Those whose judgement is firm will not do what is disagreeable (to the sovereign) saying (within themselves) 'We are esteemed by the king'."
+  },
+  "Flux_Optimized_Prompt": {
+    "Layered_Composition": {
+      "Foreground": "A minister who enjoys the king's favor is shown. The king's favor is visualized as a warm, golden cloak of light around the minister ('கொளப்பட்டேம்').",
+      "Midground": "The minister is tempted to perform an act that is inappropriate or would displease the king ('கொள்ளாத'), thinking their favored status will protect them. However, their own clear, unwavering vision ('துளக்கற்ற காட்சி'), represented by a third eye of wisdom on their forehead, sees the danger and firmly restrains their hand.",
+      "Background": "A stable, harmonious court, where the minister maintains their favored position by never abusing it."
+    },
+    "Art_Direction": {
+      "Subject_and_Action": "Those with unwavering vision will not presume upon the king's favor to commit inappropriate acts.",
+      "Symbolic_Motifs": "The golden cloak of favor represents the minister's privileged position. The third eye of wisdom represents their clear sight that prevents them from abusing this privilege.",
+      "Mood_and_Emotion": "Self-restrained, wise, prudent, not presumptuous.",
+      "Lighting_and_Color": "The minister is bathed in the warm, golden light of the king's favor, but the third eye has a cool, clear, white light of wisdom that guides their actions.",
+      "Technical_Cues": {
+        "Camera": "A close-up on the minister at the moment of temptation, with their third eye actively restraining them.",
+        "Resolution": "8K, with a focus on the symbolic elements.",
+        "Lighting": "Dual lighting to represent favor and wisdom.",
+        "Art_Genre": "Symbolic portraiture, with fantasy elements."
+      }
+    },
+    "Cultural_Anchors": [
+      "Those of Unwavering Vision ('துளக்கற்ற காட்சியவர்')",
+      "Not presuming on being favored ('கொளப்பட்டேம் என்று எண்ணி')",
+      "Not doing what is inappropriate ('கொள்ளாத செய்யார்')"
+    ]
+  },
+  "Negative_Prompt": "minister misbehaving, king getting angry, text artifacts.",
+  "Hyperparameters": {
+    "variant": "dev",
+    "steps": 45,
+    "cfg_scale": 9,
+    "seed": "Explore variations for the third eye of wisdom."
+  }
+}

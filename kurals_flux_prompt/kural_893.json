@@ -1,0 +1,39 @@
+{
+  "Kural_Info": {
+    "Number": 893,
+    "Chapter": "பெரியாரைப் பிழையாமை (Not Offending the Great)",
+    "Tamil_Text": "கெடல்வேண்டின் கேளாது செய்க அடல்வேண்டின் ஆற்று பவர்கண் இழுக்கு.",
+    "English_Meaning": "If a person desires ruin, let him not listen to the righteous dictates of law, but commit crimes against those who are able to slay (other sovereigns)."
+  },
+  "Flux_Optimized_Prompt": {
+    "Layered_Composition": {
+      "Foreground": "A person is shown actively seeking their own destruction.",
+      "Midground": "They are shown committing a great offense or crime ('இழுக்கு') against a hugely powerful, god-like figure who has the power of destruction ('ஆற்றுபவர்'). This is the path they choose if they desire to be crushed ('அடல் வேண்டின்').",
+      "Background": "The powerful figure is about to unleash a devastating blow, ensuring the person's complete annihilation. The image is a portrait of someone choosing the fastest path to ruin."
+    },
+    "Art_Direction": {
+      "Subject_and_Action": "If you wish for your own utter destruction, the surest way is to commit an offense against the truly powerful.",
+      "Symbolic_Motifs": "The immense, disproportionate power of the great being versus the small, foolish offender is the key visual. The act of offense is shown to be a suicidal choice.",
+      "Mood_and_Emotion": "Suicidal folly, inevitable destruction, choosing ruin.",
+      "Lighting_and_Color": "A terrifying, divine power glows from the great being, casting the small offender in a shadow of impending doom. The colors are epic and full of dread.",
+      "Technical_Cues": {
+        "Camera": "A very low-angle shot, looking up from the offender's perspective at the colossal, wrathful being they have provoked.",
+        "Resolution": "8K, cinematic, with a sense of overwhelming scale and power.",
+        "Lighting": "The great being is the primary, terrifying light source.",
+        "Art_Genre": "Mythological art, epic fantasy."
+      },
+      "Cultural_Anchors": [
+        "If you desire ruin ('கெடல் வேண்டின்')",
+        "Commit an offense against the mighty ('ஆற்றுபவர்கண் இழுக்கு')",
+        "The surest path to destruction."
+      ]
+    },
+    "Negative_Prompt": "the mighty person forgiving the offender, a happy offender, text artifacts.",
+    "Hyperparameters": {
+      "variant": "pro",
+      "steps": 50,
+      "cfg_scale": 9,
+      "seed": "Explore variations for the god-like powerful figure."
+    }
+  }
+}

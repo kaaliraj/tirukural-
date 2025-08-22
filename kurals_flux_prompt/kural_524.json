@@ -1,0 +1,39 @@
+{
+  "Kural_Info": {
+    "Number": 524,
+    "Chapter": "சுற்றந்தழால் (Cherishing Kinsmen)",
+    "Tamil_Text": "சுற்றத்தால் சுற்றப் படஒழுகல் செல்வந்தான் பெற்றத்தால் பெற்ற பயன்.",
+    "English_Meaning": "To live surrounded by relatives, is the advantage to be derived from the acquisition of wealth."
+  },
+  "Flux_Optimized_Prompt": {
+    "Layered_Composition": {
+      "Foreground": "A wealthy person is shown not hoarding their riches, but using them to create a beautiful, welcoming garden estate.",
+      "Midground": "Because of their generosity and welcoming nature, they are shown happily surrounded by a large, joyful circle of their kinsmen ('சுற்றத்தால் சுற்றப்பட'). They are all celebrating and enjoying the prosperity together.",
+      "Background": "A central, magnificent tree in the garden bears golden fruit, symbolizing the wealth ('செல்வம்'). The image clearly shows that the true fruit, the real benefit ('பயன்'), of this wealth is the joy of being surrounded by loving family."
+    },
+    "Art_Direction": {
+      "Subject_and_Action": "The ultimate purpose and benefit of having wealth is to be able to live surrounded by the love and company of one's kinsmen.",
+      "Symbolic_Motifs": "The gathering of kin is the direct result of the person's welcoming use of their wealth. The scene portrays this gathering as the 'harvest' or 'fruit' of their riches.",
+      "Mood_and_Emotion": "Joyful, communal, prosperous, fulfilling, loving.",
+      "Lighting_and_Color": "Warm, celebratory, golden-hour lighting. The colors are rich, vibrant, and happy, reflecting a scene of perfect contentment and fulfillment.",
+      "Technical_Cues": {
+        "Camera": "A wide, cinematic shot that captures the entire joyful gathering in the beautiful estate.",
+        "Resolution": "8K, with rich details and expressive, happy faces.",
+        "Lighting": "Warm, inviting light that creates a sense of community and happiness.",
+        "Art_Genre": "Idealized realism, reminiscent of a grand family portrait in a beautiful setting."
+      }
+    },
+    "Cultural_Anchors": [
+      "Being surrounded by kin ('சுற்றத்தால் சுற்றப்பட')",
+      "The true benefit of wealth ('செல்வத்தின் பயன்')",
+      "The social purpose of prosperity."
+    ]
+  },
+  "Negative_Prompt": "wealthy person alone, sad family, dark garden, text artifacts, blurry.",
+  "Hyperparameters": {
+    "variant": "pro",
+    "steps": 50,
+    "cfg_scale": 7,
+    "seed": "Explore variations for the activities of the joyful family."
+  }
+}

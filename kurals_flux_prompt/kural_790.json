@@ -1,0 +1,39 @@
+{
+  "Kural_Info": {
+    "Number": 790,
+    "Chapter": "நட்பு (Friendship)",
+    "Tamil_Text": "இனையர் இவரெமக்கு இன்னம்யாம் என்று புனையினும் புல்லென்னும் நட்பு.",
+    "English_Meaning": "Though friends may praise one another saying, 'He is so intimate with us, and we so much (with him)'; (still) such friendship will appear mean."
+  },
+  "Flux_Optimized_Prompt": {
+    "Layered_Composition": {
+      "Foreground": "Two individuals are shown loudly and publicly proclaiming their friendship. Their words of praise for each other ('இனையர் இவரெமக்கு') are visualized as elaborate, beautiful, but ultimately fake and hollow golden ornaments ('புனையினும்').",
+      "Midground": "Despite the beauty of these proclaimed words, the actual bond of friendship between them is shown to be a thin, weak, and pathetic-looking thread ('புல்லென்னும்').",
+      "Background": "Onlookers are shown with expressions of pity or slight contempt, seeing through the hollow boasts to the meanness of the actual relationship."
+    },
+    "Art_Direction": {
+      "Subject_and_Action": "A friendship that needs to be constantly praised and defined in public is, in reality, a mean and worthless thing.",
+      "Symbolic_Motifs": "The contrast between the flashy, hollow golden ornaments of praise and the thin, weak thread of the actual bond is the key visual. This shows the superficiality of the relationship.",
+      "Mood_and_Emotion": "Superficial, boastful, hollow, mean, pathetic.",
+      "Lighting_and_Color": "A harsh, artificial light illuminates the fake golden ornaments, making them look gaudy. The actual thread of friendship is barely visible in the shadows.",
+      "Technical_Cues": {
+        "Camera": "A shot that focuses on the contrast between the loud proclamations and the weak reality of the bond.",
+        "Resolution": "8K, with a focus on the characters' insincere expressions.",
+        "Lighting": "High-contrast, theatrical lighting.",
+        "Art_Genre": "Symbolic realism, with a satirical edge."
+      },
+      "Cultural_Anchors": [
+        "Boasting about friendship ('புனையினும்')",
+        "A Mean Friendship ('புல்லென்னும் நட்பு')",
+        "The weakness of performative relationships."
+      ]
+    },
+    "Negative_Prompt": "a strong bond of friendship, silent friends, text artifacts, cartoonish.",
+    "Hyperparameters": {
+      "variant": "pro",
+      "steps": 50,
+      "cfg_scale": 8,
+      "seed": "Explore variations for the hollow golden ornaments."
+    }
+  }
+}

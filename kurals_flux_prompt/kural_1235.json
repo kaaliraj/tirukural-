@@ -1,0 +1,38 @@
+{
+  "Kural_Info": {
+    "Number": 1235,
+    "Chapter": "உறுப்புநலனழிதல் (Wasting Away)",
+    "Tamil_Text": "கொடியார் கொடுமை உரைக்கும் தொடியொடுதொல்கவின் வாடிய தோள்.",
+    "English_Meaning": "The (loosened) bracelets, and the shoulders from which the old beauty has faded, relate the cruelty of the pitiless one."
+  },
+  "Flux_Optimized_Prompt": {
+    "Layered_Composition": {
+      "Foreground": "A woman's shoulders, which have faded from their former beauty ('தொல் கவின் வாடிய தோள்'), and her loose bracelets ('தொடியொடு') are the central subjects.",
+      "Midground": "These two physical signs are personified. They are not just inert objects, but are actively speaking, acting as witnesses.",
+      "Background": "The words they are speaking are visualized, rising from them like a ghostly testimony: 'He is cruel!' ('கொடியார் கொடுமை'). They are directly narrating the cruelty of the lover who abandoned her."
+    },
+    "Art_Direction": {
+      "Subject_and_Action": "The woman's wasted shoulders and loose bracelets themselves become the storytellers, speaking out and testifying to the cruelty of her absent lover.",
+      "Symbolic_Motifs": "The personification of the body parts as speaking witnesses is the core concept. The visualized words make their testimony explicit. They are not just symptoms of sorrow; they are active accusers.",
+      "Mood_and_Emotion": "Accusatory, testifying, sorrowful, poetic justice.",
+      "Lighting_and_Color": "A dramatic, testimonial light, as if in a courtroom. The wasted shoulders and loose bracelets are the key evidence being presented. The ghostly words of accusation glow with a faint, angry light.",
+      "Technical_Cues": {
+        "Camera": "A close-up shot focusing on the shoulders and bracelets, with the spectral words of their testimony materializing around them.",
+        "Resolution": "8K, ultra-realistic, with ethereal effects for the visualized speech.",
+        "Lighting": "High-contrast, dramatic lighting (chiaroscuro).",
+        "Art_Genre": "Symbolic realism, with magical realist elements."
+      },
+      "Cultural_Anchors": [
+        "The shoulders, wasted of their old beauty, with their bracelets (தொடியொடு தொல் கவின் வாடிய தோள்)",
+        "They speak of the cruel one's cruelty (கொடியார் கொடுமை உரைக்கும்)"
+      ]
+    },
+    "Negative_Prompt": "beautiful shoulders, happy woman, text artifacts.",
+    "Hyperparameters": {
+      "variant": "pro",
+      "steps": 50,
+      "cfg_scale": 8,
+      "seed": "Explore the visual of the words materializing from the shoulders."
+    }
+  }
+}

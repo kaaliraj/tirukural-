@@ -1,0 +1,38 @@
+{
+  "Kural_Info": {
+    "Number": 342,
+    "Chapter": "துறவு (Renunciation)",
+    "Tamil_Text": "வேண்டின்உண் டாகத் துறக்க துறந்தபின்ஈண்டுஇயற் பால பல.",
+    "English_Meaning": "After a man has renounced (all things), there will still be many things in this world (which he may enjoy); if he should desire them, let him, while it is time abandon. (the world)."
+  },
+  "Flux_Optimized_Prompt": {
+    "Layered_Composition": {
+      "Foreground": "A person is shown decisively performing the act of renunciation ('துறக்க'). They are letting go of all their worldly attachments, which are depicted as heavy, burdensome baggage.",
+      "Midground": "The moment they have let go of everything ('துறந்த பின்'), a magical transformation occurs. The world, which previously seemed a place of burden, is now revealed to be full of simple, natural, and profound pleasures that were previously unseen ('இயற்பால பல').",
+      "Background": "These new pleasures are not possessions, but experiences: the beauty of a sunset, the taste of clean water, the warmth of the sun. The image suggests that true enjoyment is only possible after renouncing possessive desire."
+    },
+    "Art_Direction": {
+      "Subject_and_Action": "If one desires true happiness, one must first renounce attachment. After this renunciation, one will discover the many natural joys of this world that can be truly enjoyed.",
+      "Symbolic_Motifs": "The key is the paradox: renunciation of things leads to the true enjoyment of things. The baggage of attachment is a burden that blinds one to the simple joys. The transformation of the world from a place of burden to a place of beauty is the result of the inner change.",
+      "Mood_and_Emotion": "Liberating, joyful, appreciative, simple pleasures.",
+      "Lighting_and_Color": "The initial state with the baggage is in dull, heavy colors. The moment of renunciation is a flash of light. The subsequent state is bathed in a brilliant, beautiful, natural light. The palette becomes vibrant and full of life.",
+      "Technical_Cues": {
+        "Camera": "A shot that captures the person's transformation, showing the baggage drop and the world around them instantly transforming into a place of beauty.",
+        "Resolution": "8K, ultra-realistic, with a focus on the beauty of the natural world that is revealed.",
+        "Lighting": "A dramatic shift from a heavy, dull light to a bright, vibrant, natural light.",
+        "Art_Genre": "Magical realism, with a strong connection to nature."
+      },
+      "Cultural_Anchors": [
+        "Renounce, if you desire (true) being (வேண்டின் உண்டாகத் துறக்க)",
+        "After renouncing, there are many natural things to enjoy here (துறந்த பின் ஈண்டு இயற்பால பல)"
+      ]
+    },
+    "Negative_Prompt": "person clinging to baggage, sad after renouncing, text artifacts.",
+    "Hyperparameters": {
+      "variant": "pro",
+      "steps": 50,
+      "cfg_scale": 7,
+      "seed": "Explore the 'simple, natural pleasures' that are revealed."
+    }
+  }
+}

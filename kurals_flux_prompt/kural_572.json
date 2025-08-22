@@ -1,0 +1,39 @@
+{
+  "Kural_Info": {
+    "Number": 572,
+    "Chapter": "கண்ணோட்டம் (Benignity)",
+    "Tamil_Text": "கண்ணோட்டத் துள்ளது உலகியல் அஃதிலார் உண்மை நிலக்குப் பொறை.",
+    "English_Meaning": "The prosperity of the world springs from kindliness; the existence of those who have no (kindliness) is a burden to the earth."
+  },
+  "Flux_Optimized_Prompt": {
+    "Layered_Composition": {
+      "Foreground": "A split composition. On the left, a community of people are interacting with kindness and benignity ('கண்ணோட்டம்'). Their interactions create a vibrant, flourishing world ('உலகியல்') full of life and growth.",
+      "Midground": "On the right, a group of people who lack this quality ('அஃதிலார்') are shown. They are depicted as heavy, lifeless stone statues. Their mere existence is shown to be a great, crushing weight on the land.",
+      "Background": "The personified Earth is shown suffering under the weight of the stone people on the right, her back bent ('நிலக்குப் பொறை'), while on the left, she is happy and supports the flourishing community with ease."
+    },
+    "Art_Direction": {
+      "Subject_and_Action": "The way of the world depends on benignity. Those who lack it are nothing but a dead weight, a burden upon the earth.",
+      "Symbolic_Motifs": "The contrast between the vibrant, living community and the heavy stone statues is key. The suffering Earth-titan literally visualizes the concept of them being a 'burden'.",
+      "Mood_and_Emotion": "Contrasting, life-giving vs. burdensome, heavy, sterile.",
+      "Lighting_and_Color": "The left side is bright, warm, and full of life and color. The right side is grey, heavy, and desaturated, with a harsh, oppressive light.",
+      "Technical_Cues": {
+        "Camera": "A wide shot that clearly contrasts the two sides of existence.",
+        "Resolution": "8K, with detailed textures for the stone statues and the living community.",
+        "Lighting": "High-contrast, split lighting.",
+        "Art_Genre": "Symbolic realism, allegorical mural."
+      }
+    },
+    "Cultural_Anchors": [
+      "The World's Way is Benignity ('கண்ணோட்டத்து உள்ளது உலகியல்')",
+      "Those who lack it are a Burden ('நிலக்குப் பொறை')",
+      "The social necessity of kindness."
+    ]
+  },
+  "Negative_Prompt": "stone people being happy, living community being a burden, text artifacts, cartoonish.",
+  "Hyperparameters": {
+    "variant": "dev",
+    "steps": 45,
+    "cfg_scale": 8,
+    "seed": "Explore variations for the suffering Earth-titan."
+  }
+}

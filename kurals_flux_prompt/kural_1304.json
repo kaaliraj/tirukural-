@@ -1,0 +1,38 @@
+{
+  "Kural_Info": {
+    "Number": 1304,
+    "Chapter": "புலவி (Pouting)",
+    "Tamil_Text": "ஊடி யவரை உணராமை வாடியவள்ளி முதலரிந் தற்று.",
+    "English_Meaning": "Not to reconcile those who have feigned dislike is like cutting a faded creeper at its root."
+  },
+  "Flux_Optimized_Prompt": {
+    "Layered_Composition": {
+      "Foreground": "A lover is shown turning their back and walking away from their partner, who is in a state of feigned anger ('ஊடியவர்'). The lover is failing to appease them or understand their mood ('உணராமை').",
+      "Midground": "This act of neglect is mirrored in a powerful natural simile: the lover is shown holding a sharp sickle and cutting the very root ('முதல் அரிந்து') of a beautiful but delicate, slightly wilted creeper ('வாடிய வள்ளி').",
+      "Background": "The cut creeper is shown to be dying instantly and irrevocably. The image makes it clear that the failure to appease a pouting lover is not a small mistake, but a destructive act that kills the very root of the relationship."
+    },
+    "Art_Direction": {
+      "Subject_and_Action": "Failing to appease a pouting lover is an act as destructive as cutting the root of a wilted, delicate vine—it kills the relationship.",
+      "Symbolic_Motifs": "The direct parallel between the act of emotional neglect and the physical act of cutting the vine's root is the core of the image. The vine is 'wilted' to show that the relationship is in a delicate, vulnerable state where reconciliation is needed.",
+      "Mood_and_Emotion": "Destructive, fatal, irreversible, cautionary.",
+      "Lighting_and_Color": "A sad, melancholic light. The act of cutting the vine is stark and violent. The colors of the vine are shown fading to brown the moment it is cut.",
+      "Technical_Cues": {
+        "Camera": "A shot that shows the lover's act of neglect and the symbolic act of cutting the vine as a single, unified, destructive event.",
+        "Resolution": "8K, hyper-realistic, with a focus on the wilting texture of the vine and the finality of the cut.",
+        "Lighting": "Dramatic lighting that emphasizes the destructive nature of the act.",
+        "Art_Genre": "Symbolic realism, romantic tragedy."
+      },
+      "Cultural_Anchors": [
+        "Not appeasing the pouting one (ஊடியவரை உணராமை)",
+        "Is like cutting the root of a wilted creeper (வாடிய வள்ளி முதல் அரிந்தற்று)"
+      ]
+    },
+    "Negative_Prompt": "lover appeasing, happy couple, healthy vine, text artifacts.",
+    "Hyperparameters": {
+      "variant": "dev",
+      "steps": 45,
+      "cfg_scale": 8,
+      "seed": "Explore the visual of the vine instantly dying as its root is cut."
+    }
+  }
+}

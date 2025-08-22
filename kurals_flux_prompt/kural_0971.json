@@ -1,0 +1,33 @@
+{
+  "Kural_Info": {
+    "Number": 971,
+    "Chapter": "பெருமை (Greatness)",
+    "Tamil_Text": "ஒளிஒருவற்கு உள்ள வெறுக்கை இளிஒருவற்குஅஃதிறந்து வாழ்தும் எனல்.",
+    "English_Meaning": "The light of life is mental energy; disgrace is his Who says, 'I 'ill lead a happy life devoid of this.'"
+  },
+  "Flux_Optimized_Prompt": {
+    "Layered_Composition": {
+      "Foreground": "A stark contrast between two figures. On one side, a person whose heart radiates a brilliant, golden light ('Oli'), symbolizing their inner strength and courage ('Ulla Verukkai'). On the other, a figure sits in opulence but their form is shadowy and translucent, representing a disgraceful, empty existence ('Ilivu').",
+      "Midground": "The radiant figure stands on a rugged, challenging path, yet their light illuminates the way forward. The shadowy figure is surrounded by wilting luxuries and fading colors.",
+      "Background": "A vast, dramatic sky. On the side of the radiant figure, it is a hopeful dawn. On the side of the shadowy figure, it is a bleak, colorless dusk."
+    },
+    "Art_Direction": {
+      "Subject_and_Action": "A visual dichotomy between a life of honor derived from inner strength versus a life of disgrace from lacking that essential energy, regardless of external wealth.",
+      "Symbolic_Motifs": "The radiant heart is the symbol of 'Oli' (light/glory) and 'Ulla Verukkai' (mental energy). The translucent, shadowy form symbolizes 'Ilivu' (disgrace).",
+      "Mood_and_Emotion": "Heroic and inspiring on one side, hollow and pathetic on the other. A strong, contemplative contrast.",
+      "Lighting_and_Color": "Intense, warm, golden light emanating from the strong figure, contrasted with cool, dim, and desaturated colors surrounding the disgraceful one. High dynamic range."
+    },
+    "Technical_Cues": {
+      "Camera": "Ultra-wide cinematic shot, dramatic low angle, emphasizing the heroic stature of the radiant figure.",
+      "Resolution": "8K, ultra-realistic, with strong visual effects for the light and shadows.",
+      "Lighting": "God rays, volumetric lighting from the heart, contrasted with flat, lifeless lighting on the other side.",
+      "Art_Genre": "Symbolic fantasy realism, akin to a concept art piece for an epic film."
+    },
+    "Cultural_Anchors": [
+      "உள்ள வெறுக்கை (Mental Energy/Abundance of Spirit)",
+      "ஒளி (Inner Light/Glory)",
+      "இளிவு (Disgrace)"
+    ]
+  },
+  "Negative_Prompt": "neutral mood, cartoon, blurry, deformed figures, text artifacts, modern clothing, flat composition."
+}

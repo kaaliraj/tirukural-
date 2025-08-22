@@ -1,0 +1,39 @@
+{
+  "Kural_Info": {
+    "Number": 1139,
+    "Chapter": "நாணுத்துறவுரைத்தல் (The Abandonment of Reserve)",
+    "Tamil_Text": "அறிகிலார் எல்லாரும் என்றேஎன் காமம்மறுகின் மறுகும் மருண்டு.",
+    "English_Meaning": "My lust, feeling that it is not known by all, reels confused in the streets (of this town)."
+  },
+  "Flux_Optimized_Prompt": {
+    "Layered_Composition": {
+      "Foreground": "The emotion of a woman's love-longing ('என் காமம்') is personified as a distinct, ethereal figure that has separated from her.",
+      "Midground": "This figure is wandering confused and bewildered ('மருண்டு') in the public streets ('மறுகின்'). It is operating under the foolish delusion that 'nobody knows' or 'nobody will recognize it' ('அறிகிலார் எல்லாரும் என்று').",
+      "Background": "The people in the street are all shown looking at this wandering spirit, pointing, and whispering. It is completely obvious to everyone what it is. The spirit's belief in its own secrecy is shown to be a complete folly."
+    },
+    "Art_Direction": {
+      "Subject_and_Action": "The lover's passion, personified, foolishly wanders in public, thinking it is a secret, while in reality, it is completely obvious to everyone.",
+      "Symbolic_Motifs": "The personification of Kamam as a naive, deluded ghost is the key. The contrast between its belief in secrecy and the reality of public knowledge creates a scene of poignant, public embarrassment.",
+      "Mood_and_Emotion": "Deluded, obvious, public secret, poignant embarrassment.",
+      "Lighting_and_Color": "The personified love-longing might be slightly transparent or glowing, making it stand out. The public street is in a clear, revealing daylight. The crowd's expressions are a mix of amusement, pity, and gossip.",
+      "Technical_Cues": {
+        "Camera": "A shot that follows the confused, wandering spirit of love through the streets, showing the reactions of the onlookers.",
+        "Resolution": "8K, ultra-realistic, with a strong focus on the varied expressions of the crowd.",
+        "Lighting": "Bright, public, revealing daylight.",
+        "Art_Genre": "Psychological realism, with a supernatural element."
+      },
+      "Cultural_Anchors": [
+        "My love-longing (என் காமம்)",
+        "Wanders confused in the street (மறுகின் மறுகும் மருண்டு)",
+        "Thinking 'nobody knows' (அறிகிலார் எல்லாரும் என்று)"
+      ]
+    },
+    "Negative_Prompt": "secret staying hidden, crowd being oblivious, text artifacts.",
+    "Hyperparameters": {
+      "variant": "dev",
+      "steps": 45,
+      "cfg_scale": 8,
+      "seed": "Explore the 'confused' body language of the personified love-longing."
+    }
+  }
+}

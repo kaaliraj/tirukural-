@@ -1,0 +1,39 @@
+{
+  "Kural_Info": {
+    "Number": 934,
+    "Chapter": "சூது (Gambling)",
+    "Tamil_Text": "சிறுமை பலசெய்து சீரழக்கும் சூதின் வறுமை தருவதொன்று இல்.",
+    "English_Meaning": "There is nothing else that brings (us) poverty like gambling which causes many a misery and destroys (one's) reputation."
+  },
+  "Flux_Optimized_Prompt": {
+    "Layered_Composition": {
+      "Foreground": "A person is shown engaging in gambling ('சூது').",
+      "Midground": "As they gamble, two destructive processes are happening. First, the gambling is causing them to commit many mean and petty acts ('சிறுமை பலசெய்து'), visualized as their noble clothes turning to filthy rags. Second, their good name and reputation ('சீர்') is being destroyed, visualized as a shining halo above their head cracking and crumbling to dust.",
+      "Background": "The ultimate result of these two processes is shown: the person is left in a state of utter poverty and ruin ('வறுமை'), a state which no other single vice can bring about so effectively."
+    },
+    "Art_Direction": {
+      "Subject_and_Action": "There is nothing that brings poverty so surely as gambling, for it also forces one to commit many other small evils and destroys one's reputation.",
+      "Symbolic_Motifs": "The dual destruction of character (rags) and reputation (crumbling halo) are the key visuals that lead to the final poverty.",
+      "Mood_and_Emotion": "Degrading, destructive, ruinous.",
+      "Lighting_and_Color": "The scene starts with a hint of wealth, but progressively becomes darker, dirtier, and more pathetic as the gambling continues. The crumbling halo provides a tragic, fading light.",
+      "Technical_Cues": {
+        "Camera": "A shot that shows the process of degradation, from a respectable person to a ruined beggar.",
+        "Resolution": "8K, with a focus on the transformation of the character.",
+        "Lighting": "A light that fades and becomes more miserable.",
+        "Art_Genre": "Tragic realism."
+      },
+      "Cultural_Anchors": [
+        "Gambling causes many small evils ('சிறுமை பலசெய்து')",
+        "It destroys reputation ('சீரழக்கும்')",
+        "It is the surest path to poverty ('வறுமை தருவது')"
+      ]
+    },
+    "Negative_Prompt": "a successful gambler, a growing halo, text artifacts.",
+    "Hyperparameters": {
+      "variant": "pro",
+      "steps": 50,
+      "cfg_scale": 8,
+      "seed": "Explore variations for the crumbling halo."
+    }
+  }
+}

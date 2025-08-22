@@ -1,0 +1,38 @@
+{
+  "Kural_Info": {
+    "Number": 295,
+    "Chapter": "வாய்மை (Veracity)",
+    "Tamil_Text": "மனத்தொடு வாய்மை மொழியின் தவத்தொடுதானஞ்செய் வாரின் தலை.",
+    "English_Meaning": "He, who speaks truth with all his heart, is superior to those who make gifts and practise austerities."
+  },
+  "Flux_Optimized_Prompt": {
+    "Layered_Composition": {
+      "Foreground": "A simple person is shown speaking a truth that comes directly from their heart ('மனத்தொடு வாய்மை மொழியின்'). The act is simple, yet it radiates a brilliant, powerful light.",
+      "Midground": "On a lower level, two other figures are shown for comparison. One is an ascetic performing extreme penance ('தவம்'), and the other is a king giving away vast amounts of charity ('தானம்').",
+      "Background": "A divine scale or a celestial podium is shown, on which the simple, truthful person is placed at the highest position ('தலை'), visibly superior to both the ascetic and the king. Their simple act of heartfelt truth outweighs the great acts of penance and charity."
+    },
+    "Art_Direction": {
+      "Subject_and_Action": "The act of speaking truth with a sincere mind is a greater virtue and places one in a higher spiritual position than even the great acts of austerity and charity.",
+      "Symbolic_Motifs": "The hierarchy is the key visual element. The truthful person's act is small, but its resulting spiritual light is the greatest. The ascetic and the king are performing great, difficult acts, but their spiritual radiance is shown to be less intense.",
+      "Mood_and_Emotion": "Supreme virtue, simple power, superior, honest.",
+      "Lighting_and_Color": "The most powerful and pure light emanates from the simple act of speaking truth. The acts of penance and charity have their own light, but it is less brilliant and of a lower order.",
+      "Technical_Cues": {
+        "Camera": "A shot that uses composition and elevation (the podium) to clearly establish the spiritual hierarchy being described.",
+        "Resolution": "8K, ultra-realistic, with a focus on the contrasting expressions: the simple sincerity of the speaker vs. the effort of the others.",
+        "Lighting": "Symbolic lighting that visually grades the spiritual merit of the three actions.",
+        "Art_Genre": "Classical allegorical painting."
+      },
+      "Cultural_Anchors": [
+        "Speaking truth with the mind (மனத்தொடு வாய்மை மொழியின்)",
+        "Superior to those who do penance and charity (தவத்தொடு தானம் செய்வாரின் தலை)"
+      ]
+    },
+    "Negative_Prompt": "truthful person at the bottom, glowing ascetic, text artifacts.",
+    "Hyperparameters": {
+      "variant": "pro",
+      "steps": 50,
+      "cfg_scale": 8,
+      "seed": "Explore the visual hierarchy using a divine podium."
+    }
+  }
+}

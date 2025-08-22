@@ -1,0 +1,39 @@
+{
+  "Kural_Info": {
+    "Number": 586,
+    "Chapter": "ஒற்றாடல் (Detectives)",
+    "Tamil_Text": "துறந்தார் படிவத்த ராகி இறந்தாராய்ந்து என்செயினும் சோர்விலது ஒற்று.",
+    "English_Meaning": "He is a spy who, assuming the appearance of an ascetic, goes into (whatever place he wishes), examines into (all, that is needful), and never discovers himself, whatever may be done to him."
+  },
+  "Flux_Optimized_Prompt": {
+    "Layered_Composition": {
+      "Foreground": "A spy is shown disguised as a holy ascetic ('துறந்தார் படிவத்தர்'), allowing them access to a secret enemy location.",
+      "Midground": "They are shown undergoing extreme hardship or even torture ('என்செயினும்') by suspicious enemies who are trying to break them. However, their face remains serene and they do not falter or reveal their true identity ('சோர்விலது').",
+      "Background": "All the while, their mind is shown to be sharp and focused, continuing to gather and analyze information ('இறந்தாராய்ந்து') despite the physical torment."
+    },
+    "Art_Direction": {
+      "Subject_and_Action": "The ultimate spy can take on any disguise, investigate deeply, and maintain their cover without breaking, no matter what is done to them.",
+      "Symbolic_Motifs": "The ascetic disguise represents the ability to blend in and gain access. The contrast between the external torture and the internal, unbroken focus is the key visual element.",
+      "Mood_and_Emotion": "Indomitable, resilient, unbreakable, focused, professional.",
+      "Lighting_and_Color": "A dark, grim setting for the interrogation/torture. A harsh light is on the spy's body, but their face is lit with a serene, internal glow of resolve.",
+      "Technical_Cues": {
+        "Camera": "A powerful close-up on the spy's face, showing their unwavering resolve in the midst of suffering.",
+        "Resolution": "8K, with a gritty, realistic depiction of hardship.",
+        "Lighting": "High-contrast chiaroscuro to emphasize the drama and pain.",
+        "Art_Genre": "Historical thriller, dark realism."
+      },
+      "Cultural_Anchors": [
+        "Disguised as an Ascetic ('துறந்தார் படிவத்தர்')",
+        "Deep Investigation ('இறந்தாராய்ந்து')",
+        "Unbreakable under pressure ('சோர்விலது')"
+      ]
+    },
+    "Negative_Prompt": "spy breaking under torture, comfortable spy, text artifacts, cartoonish.",
+    "Hyperparameters": {
+      "variant": "pro",
+      "steps": 50,
+      "cfg_scale": 9,
+      "seed": "Explore variations for the expression of resolve."
+    }
+  }
+}

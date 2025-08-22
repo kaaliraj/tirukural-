@@ -1,0 +1,38 @@
+{
+  "Kural_Info": {
+    "Number": 165,
+    "Chapter": "అழுக்காறாமை (Not Envying)",
+    "Tamil_Text": "అழுக்காறு உடையார்க்கு அதுசாலும் ஒன்னார்வழுக்காயும் கேடீன் பது.",
+    "English_Meaning": "To those who cherish envy that is enough. Though free from enemies that (envy) will bring destruction."
+  },
+  "Flux_Optimized_Prompt": {
+    "Layered_Composition": {
+      "Foreground": "An envious person ('అழுக்காறு உடையார்') stands alone in a barren landscape.",
+      "Midground": "They have no external enemies; the land around them is empty of foes ('ஒன்னார் வழுக்காயும்').",
+      "Background": "However, their own envy is personified as a monstrous, shadowy serpent that lives within their own heart. This inner serpent is shown emerging and striking its own host, delivering a fatal, destructive poison ('கேடு ஈன்பது'). Their own envy is all the enemy they need to cause their ruin."
+    },
+    "Art_Direction": {
+      "Subject_and_Action": "For an envious person, their own envy is a sufficient enemy to guarantee their destruction, even if they have no other foes.",
+      "Symbolic_Motifs": "Envy as a self-destroying serpent within the heart is the central, powerful metaphor. The absence of external enemies highlights the fact that the destruction is entirely self-inflicted.",
+      "Mood_and_Emotion": "Self-destructive, self-poisoning, tragic, inevitable ruin.",
+      "Lighting_and_Color": "A bleak, lonely light. The envious person is cast in a sickly green-yellow glow. The serpent of envy is a creature of dark, venomous shadow. The scene is one of internal decay and self-destruction.",
+      "Technical_Cues": {
+        "Camera": "A surreal, symbolic shot that shows a cross-section of the person's chest, revealing the serpent of envy striking from within.",
+        "Resolution": "8K, ultra-realistic, with a terrifying and monstrous design for the personified envy.",
+        "Lighting": "The only significant light comes from the sickly glow of the envy itself.",
+        "Art_Genre": "Dark fantasy, body horror."
+      },
+      "Cultural_Anchors": [
+        "For the envious, that alone is enough (అழுக்காறு உடையார்க்கு அது சாலும்)",
+        "To bring ruin (கேடு ஈன்பது)"
+      ]
+    },
+    "Negative_Prompt": "happy envious person, friendly serpent, text artifacts.",
+    "Hyperparameters": {
+      "variant": "pro",
+      "steps": 55,
+      "cfg_scale": 9,
+      "seed": "Explore the design of the 'self-destroying serpent of envy'."
+    }
+  }
+}

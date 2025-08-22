@@ -1,0 +1,33 @@
+{
+  "Kural_Info": {
+    "Number": 1198,
+    "Chapter": "தனிப்படர்மிகுதி (The Solitary Anguish)",
+    "Tamil_Text": "வீழ்வாரின் இன்சொல் பெறாஅது உலகத்துவாழ்வாரின் வன்கணார் இல்.",
+    "English_Meaning": "Who hear from lover's lips no pleasant word from day to day, Yet in the world live out their life,- no braver souls than they!."
+  },
+  "Flux_Optimized_Prompt": {
+    "Layered_Composition": {
+      "Foreground": "A person is shown going about their daily life in a desolate, colorless world. This represents their internal state of living without hearing kind words from their beloved.",
+      "Midground": "Despite the bleakness, they are depicted with immense, quiet strength. Their heart is visible, and it is not broken, but forged of strong, resilient metal ('Vankannar').",
+      "Background": "In the background, other people are shown wilting and fading away from lesser sorrows, highlighting the incredible, almost inhuman, strength of the protagonist who continues to live without the emotional sustenance they crave."
+    },
+    "Art_Direction": {
+      "Subject_and_Action": "A tribute to the immense hard-heartedness or fortitude of those who manage to continue living without receiving a single kind word from the one they love.",
+      "Symbolic_Motifs": "The heart of forged metal is the key symbol for their unnatural strength ('Vankannar'). The colorless world represents the joylessness of their existence.",
+      "Mood_and_Emotion": "Stoic, resilient, strong, yet profoundly sad. A tribute to endurance.",
+      "Lighting_and_Color": "A bleak, gray, desaturated palette for the protagonist's world. The metal heart might catch a single, cold glint of light, emphasizing its hardness."
+    },
+    "Technical_Cues": {
+      "Camera": "Medium shot focusing on the protagonist's stoic expression and the metallic heart within their chest.",
+      "Resolution": "8K, surreal realism, with a beautiful and strong texture for the metal heart.",
+      "Lighting": "Flat, unforgiving light that gives no warmth or comfort, reinforcing the theme of emotional deprivation.",
+      "Art_Genre": "Symbolic portraiture, illustrating a state of extreme emotional endurance."
+    },
+    "Cultural_Anchors": [
+      "வன்கண்மை (Hard-heartedness/Fortitude)",
+      "இன்சொல் (Sweet/Kind Word)",
+      "The strength required to live without love's affirmation"
+    ]
+  },
+  "Negative_Prompt": "a happy protagonist, a weak or broken heart, a colorful world, modern setting, text artifacts, cartoonish."
+}

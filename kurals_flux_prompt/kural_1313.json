@@ -1,0 +1,39 @@
+{
+  "Kural_Info": {
+    "Number": 1313,
+    "Chapter": "புலவி நுணுக்கம் (Feigned Anger)",
+    "Tamil_Text": "கோட்டுப்பூச் சூடினும் காயும் ஒருத்தியைக்காட்டிய சூடினீர் என்று.",
+    "English_Meaning": "Even if I were adorned with a garland of branch-flowers, she would say I did so to show it to another woman."
+  },
+  "Flux_Optimized_Prompt": {
+    "Layered_Composition": {
+      "Foreground": "A man is shown wearing a simple, beautiful flower in his hair that he picked from a branch ('கோட்டுப்பூச் சூடினும்').",
+      "Midground": "His lover sees this, and her mind instantly creates a suspicious, jealous vision. The vision shows a shadowy 'other woman' ('ஒருத்தியை').",
+      "Background": "She then confronts her lover with her accusation, which materializes as text: 'For whose sake are you wearing that flower? You are showing off for her!' ('காட்டிய சூடினீர் என்று'). Her jealousy ('காயும்') is so creative that it can turn even the most innocent act into a sign of infidelity."
+    },
+    "Art_Direction": {
+      "Subject_and_Action": "The lover's humorous complaint about his beloved's extreme and creative jealousy: even if he wears a simple flower, she will accuse him of doing it to impress some other woman.",
+      "Symbolic_Motifs": "The jealous vision of the 'other woman' is the key. It's a creation of her own mind, not a reality. The innocence of the simple flower contrasts with the complexity of her accusation.",
+      "Mood_and_Emotion": "Jealous, humorous, creative suspicion, exasperated.",
+      "Lighting_and_Color": "A bright, innocent light surrounds the man and his flower. His lover's jealous thoughts cast a dark, suspicious shadow over the scene.",
+      "Technical_Cues": {
+        "Camera": "A shot that captures the man's innocent act and his lover's suspicious reaction, with her jealous vision shown as a ghostly overlay.",
+        "Resolution": "8K, ultra-realistic, with a focus on her comically jealous expression.",
+        "Lighting": "Contrast between the light of innocence and the shadow of jealousy.",
+        "Art_Genre": "Romantic comedy."
+      },
+      "Cultural_Anchors": [
+        "Even if I wear a branch-flower (கோட்டுப்பூச் சூடினும்)",
+        "She gets angry (காயும்)",
+        "Saying 'You wore it to show another woman' (ஒருத்தியைக் காட்டிய சூடினீர் என்று)"
+      ]
+    },
+    "Negative_Prompt": "lover not being jealous, real other woman, text artifacts.",
+    "Hyperparameters": {
+      "variant": "dev",
+      "steps": 40,
+      "cfg_scale": 8,
+      "seed": "Explore the shadowy design of the 'jealous vision'."
+    }
+  }
+}

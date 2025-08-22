@@ -1,0 +1,38 @@
+{
+  "Kural_Info": {
+    "Number": 1107,
+    "Chapter": "புணர்ச்சிமகிழ்தல் (Rejoicing in the Embrace)",
+    "Tamil_Text": "தம்மில் இருந்து தமதுபாத்து உண்டற்றால்அம்மா அரிவை முயக்கு.",
+    "English_Meaning": "The embraces of a gold-complexioned beautiful female are as pleasant as to dwell in one's own house and live by one's own (earnings) after distributing (a portion of it in charity)."
+  },
+  "Flux_Optimized_Prompt": {
+    "Layered_Composition": {
+      "Foreground": "A split composition illustrating a simile of the highest domestic pleasure.",
+      "Midground": "On the left, a person is shown in the perfect state of a householder's virtue: they are in their own home ('தம் இல் இருந்து'), eating food earned by their own labor ('தமது'), and sharing a portion of it with a needy person ('பாத்து உண்டு'). Their face is a picture of profound, righteous satisfaction.",
+      "Background": "On the right, a lover is shown in the embrace of his beautiful, golden-complexioned beloved ('அம்மா அரிவை முயக்கு'). His expression of bliss is shown to be of the exact same kind and intensity as the virtuous householder's. The two states are equated as the pinnacle of earned, righteous joy."
+    },
+    "Art_Direction": {
+      "Subject_and_Action": "The pleasure of embracing one's beautiful beloved is equated with the highest, most righteous pleasure a householder can know: the satisfaction of sharing one's own hard-earned food in one's own home.",
+      "Symbolic_Motifs": "The key is the identical expression of profound, earned bliss on the faces of both the householder and the lover. The embrace is not presented as a guilty or fleeting pleasure, but as a joy as deep and righteous as the highest domestic virtue.",
+      "Mood_and_Emotion": "Righteous pleasure, profound satisfaction, earned bliss, harmonious.",
+      "Lighting_and_Color": "Both scenes are bathed in the same warm, golden, and deeply satisfying light. The palette is one of contentment, security, and righteous joy.",
+      "Technical_Cues": {
+        "Camera": "A balanced diptych shot that invites the viewer to compare and equate the emotional states of the two protagonists.",
+        "Resolution": "8K, ultra-realistic, with a focus on capturing the specific emotion of 'righteous satisfaction'.",
+        "Lighting": "Warm, harmonious lighting across both panels.",
+        "Art_Genre": "Classical realism, allegorical painting."
+      },
+      "Cultural_Anchors": [
+        "The embrace of the beautiful woman (அம்மா அரிவை முயக்கு)",
+        "Is like sharing one's own food from one's own home (தம்மில் இருந்து தமது பாத்து உண்டற்றால்)"
+      ]
+    },
+    "Negative_Prompt": "sad lover, selfish householder, text artifacts.",
+    "Hyperparameters": {
+      "variant": "pro",
+      "steps": 50,
+      "cfg_scale": 7,
+      "seed": "Focus on capturing the specific expression of 'earned, righteous joy'."
+    }
+  }
+}

@@ -1,0 +1,39 @@
+{
+  "Kural_Info": {
+    "Number": 196,
+    "Chapter": "பயனில சொல்லாமை (Against Vain Speaking)",
+    "Tamil_Text": "பயனில்சொல் பாராட்டு வானை மகன்எனல்மக்கட் பதடி யெனல்.",
+    "English_Meaning": "Call not him a man who parades forth his empty words. Call him the chaff of men."
+  },
+  "Flux_Optimized_Prompt": {
+    "Layered_Composition": {
+      "Foreground": "A man is shown delighting in and praising his own useless speech ('பயனில் சொல் பாராட்டுவானை').",
+      "Midground": "A divine or wise judge is shown observing him. The judge holds two labels.",
+      "Background": "The first label says 'Man' ('மகன்'). The judge is shown decisively crossing this label out ('எனல்'). The second label says 'The Chaff of Humanity' ('மக்கட் பதடி'). The judge points this label directly at the speaker, defining his true nature. He is not a true grain, but the useless husk to be thrown away."
+    },
+    "Art_Direction": {
+      "Subject_and_Action": "A strong condemnation: the man who praises and delights in his own vain speech should not be called a man at all, but should be classified as the useless chaff separated from the true grain of humanity.",
+      "Symbolic_Motifs": "The act of re-labeling is a powerful visual judgment. The contrast between 'grain' (valuable humans) and 'chaff' (the vain speaker) is a classic, strong metaphor for worthlessness.",
+      "Mood_and_Emotion": "Judgmental, dismissive, worthless.",
+      "Lighting_and_Color": "A harsh, judgmental light on the vain speaker. The wise judge is in a clear, authoritative light. The 'chaff' label is stark and condemning.",
+      "Technical_Cues": {
+        "Camera": "A direct, confrontational shot that clearly shows the act of judgment and re-labeling.",
+        "Resolution": "8K, ultra-realistic, with a focus on the condemning gesture of the judge.",
+        "Lighting": "Harsh, revealing light.",
+        "Art_Genre": "Allegorical realism."
+      },
+      "Cultural_Anchors": [
+        "He who praises useless words (பயனில் சொல் பாராட்டுவானை)",
+        "Call him not a man (மகன் எனல்)",
+        "Call him the chaff of men (மக்கட் பதடி எனல்)"
+      ]
+    },
+    "Negative_Prompt": "speaker being praised, text artifacts, wise-looking speaker.",
+    "Hyperparameters": {
+      "variant": "dev",
+      "steps": 40,
+      "cfg_scale": 9,
+      "seed": "Explore the visual of 'chaff' versus 'grain'."
+    }
+  }
+}

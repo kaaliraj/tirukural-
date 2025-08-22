@@ -1,0 +1,39 @@
+{
+  "Kural_Info": {
+    "Number": 788,
+    "Chapter": "நட்பு (Friendship)",
+    "Tamil_Text": "உடுக்கை இழந்தவன் கைபோல ஆங்கே இடுக்கண் களைவதாம் நட்பு.",
+    "English_Meaning": "(True) friendship hastens to the rescue of the afflicted (as readily) as the hand of one whose garment is loosened (before an assembly)."
+  },
+  "Flux_Optimized_Prompt": {
+    "Layered_Composition": {
+      "Foreground": "A person is in a moment of crisis: their clothing ('உடுக்கை') has come loose, about to fall and cause them great shame.",
+      "Midground": "Instantly, and as a natural reflex, their own hand ('கை') flies to hold the garment in place, saving them from embarrassment. In a direct parallel action, a friend is shown in trouble ('இடுக்கண்').",
+      "Background": "A true friend is shown rushing to their aid with the same instantaneous, reflexive speed as the hand, immediately working to remove the trouble ('களைவது')."
+    },
+    "Art_Direction": {
+      "Subject_and_Action": "True friendship acts to relieve a friend's trouble with the same instinctive speed that a hand moves to secure a slipping garment.",
+      "Symbolic_Motifs": "The central analogy is the speed of the helping hand. The image juxtaposes the physical reflex with the emotional reflex of a true friend.",
+      "Mood_and_Emotion": "Instantaneous, reflexive, supportive, reliable, without a second thought.",
+      "Lighting_and_Color": "Bright, clear light to emphasize the speed and clarity of the action. The focus is on the motion.",
+      "Technical_Cues": {
+        "Camera": "A high-speed photography aesthetic, freezing the two parallel actions at the peak of their swiftness. Motion blur to emphasize the speed.",
+        "Resolution": "8K, with a dynamic and energetic feel.",
+        "Lighting": "Bright, high-key lighting.",
+        "Art_Genre": "Action realism, with a symbolic comparison."
+      },
+      "Cultural_Anchors": [
+        "Like the hand of one whose garment slips ('உடுக்கை இழந்தவன் கைபோல')",
+        "Instantly removing trouble ('ஆங்கே இடுக்கண் களைவது')",
+        "The reflex of friendship."
+      ]
+    },
+    "Negative_Prompt": "a slow-moving hand, a friend hesitating to help, text artifacts.",
+    "Hyperparameters": {
+      "variant": "pro",
+      "steps": 45,
+      "cfg_scale": 8,
+      "seed": "Explore variations for the motion blur effects."
+    }
+  }
+}

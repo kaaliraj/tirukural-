@@ -1,0 +1,39 @@
+{
+  "Kural_Info": {
+    "Number": 708,
+    "Chapter": "குறிப்பறிதல் (The Knowledge of Indications)",
+    "Tamil_Text": "முகம்நோக்கி நிற்க அமையும் அகம்நோக்கி உற்ற துணர்வார்ப் பெறின்.",
+    "English_Meaning": "If the king gets those who by looking into his mind can understand (and remove) what has occurred (to him) it is enough that he stand looking at their face."
+  },
+  "Flux_Optimized_Prompt": {
+    "Layered_Composition": {
+      "Foreground": "A king is shown standing before his wise minister. The king is troubled, but he says nothing. He simply looks at the minister ('முகம்நோக்கி நிற்க').",
+      "Midground": "The minister is so perceptive that by simply looking at the king's face, they can see into his mind ('அகம்நோக்கி') and understand the problem that troubles him ('உற்றது உணர்வார்'). This is visualized as the minister seeing a ghostly image of the king's trouble (e.g., a foreign threat, a famine) floating between them.",
+      "Background": "Because this perfect, unspoken communication is enough, the minister is shown already taking action to solve the problem. The simple act of looking at each other is sufficient for governance ('அமையும்')."
+    },
+    "Art_Direction": {
+      "Subject_and_Action": "If one has aides who can understand one's inner troubles just by looking at one's face, then simply standing before them and looking at them is sufficient.",
+      "Symbolic_Motifs": "The ghostly image of the problem that the minister perceives is the key visual. It shows their supernatural level of perception. The lack of any spoken words is crucial.",
+      "Mood_and_Emotion": "Perceptive, empathetic, efficient, perfect communication.",
+      "Lighting_and_Color": "A calm, intellectual light. The ghostly image of the trouble can have a slightly darker or more chaotic energy, which the minister's calm gaze is analyzing.",
+      "Technical_Cues": {
+        "Camera": "A shot focusing on the intense, silent eye contact between the king and the minister.",
+        "Resolution": "8K, with a focus on subtle expressions and the ethereal 'trouble-image'.",
+        "Lighting": "Soft, psychological lighting.",
+        "Art_Genre": "Historical fantasy, with a focus on psychic-like perception."
+      }
+    },
+    "Cultural_Anchors": [
+      "To stand and look is enough ('முகம்நோக்கி நிற்க அமையும்')",
+      "Those who can look inside and understand ('அகம்நோக்கி உணர்வார்')",
+      "The ideal of perfect, unspoken understanding."
+    ]
+  },
+  "Negative_Prompt": "king and minister talking, minister looking confused, text artifacts.",
+  "Hyperparameters": {
+    "variant": "pro",
+    "steps": 50,
+    "cfg_scale": 8,
+    "seed": "Explore variations for the 'trouble-image'."
+  }
+}

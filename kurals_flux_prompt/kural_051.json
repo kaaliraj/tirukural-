@@ -1,0 +1,39 @@
+{
+  "Kural_Info": {
+    "Number": 51,
+    "Chapter": "வாழ்க்கைத் துணைநலம் (The Worth of a Wife)",
+    "Tamil_Text": "மனைக்தக்க மாண்புடையள் ஆகித்தற் கொண்டான்வளத்தக்காள் வாழ்க்கைத் துணை.",
+    "English_Meaning": "She who has the excellence of home virtues, and can expend within the means of her husband, is a help in the domestic state."
+  },
+  "Flux_Optimized_Prompt": {
+    "Layered_Composition": {
+      "Foreground": "A woman stands with serene dignity in the center of her home. One hand rests on a small, modest pot of coins representing her husband's means ('வளத்தக்காள்').",
+      "Midground": "With her other hand, she gestures gracefully. This gesture manifests a vision of a perfectly managed, prosperous, and happy household around her, showcasing her great dignity and virtue ('மாண்புடையள்'). The home is clean, food is plentiful (but not extravagant), and the atmosphere is harmonious.",
+      "Background": "The husband ('தற் கொண்டான்') is seen in the background, working peacefully, his expression one of complete trust and contentment, knowing his efforts are being perfectly managed."
+    },
+    "Art_Direction": {
+      "Subject_and_Action": "The ideal wife as a 'life partner' ('வாழ்க்கைத் துணை'), whose virtue and skillful management of resources transform her husband's earnings into a flourishing and dignified home life.",
+      "Symbolic_Motifs": "The small pot of coins contrasts with the great prosperity of the home, emphasizing her skill in management, not the husband's wealth. Her dignified posture ('மாண்பு') is the source of the home's harmony.",
+      "Mood_and_Emotion": "Dignified, skillful, prosperous, harmonious, supportive.",
+      "Lighting_and_Color": "A warm, pleasant indoor light that feels both comforting and well-ordered. The palette is balanced and realistic, emphasizing natural materials and the quiet glow of a happy home.",
+      "Technical_Cues": {
+        "Camera": "Eye-level medium shot, focusing on the wife as the central, organizing force of the household.",
+        "Resolution": "8K, ultra-realistic, with fine details on the textures of the home and the woman's graceful expression.",
+        "Lighting": "Soft, diffused lighting, as if from an open courtyard, creating a gentle and realistic ambiance.",
+        "Art_Genre": "Historical realism, domestic genre painting."
+      },
+      "Cultural_Anchors": [
+        "Vaazhkkai Thunai (வாழ்க்கைத் துணை) - Life Partner/Helpmeet",
+        "Manaimaatchi (மனைமாட்சி) - Dignity/Excellence of the home, embodied by her",
+        "Living within one's means (வளத்தக்காள்)"
+      ]
+    },
+    "Negative_Prompt": "extravagant spending, messy house, unhappy husband, sad wife, text artifacts, modern appliances.",
+    "Hyperparameters": {
+      "variant": "dev",
+      "steps": 45,
+      "cfg_scale": 7,
+      "seed": "Explore variations in the details of the well-managed home."
+    }
+  }
+}

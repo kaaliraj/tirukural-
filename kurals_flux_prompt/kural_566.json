@@ -1,0 +1,39 @@
+{
+  "Kural_Info": {
+    "Number": 566,
+    "Chapter": "வெருவந்தசெய்யாமை (Absence of Terrorism)",
+    "Tamil_Text": "கடுஞ்சொல்லன் கண்ணிலன் ஆயின் நெடுஞ்செல்வம் நீடின்றி ஆங்கே கெடும்.",
+    "English_Meaning": "The abundant wealth of the king whose words are harsh and whose looks are void of kindness, will instantly perish instead of abiding long."
+  },
+  "Flux_Optimized_Prompt": {
+    "Layered_Composition": {
+      "Foreground": "A king with a cruel, merciless expression ('கண்ணிலன்') is shouting harsh words ('கடுஞ்சொல்லன்'), which are visualized as fiery sparks.",
+      "Midground": "The king is sitting on a massive pile of gold and treasures, representing his great wealth ('நெடுஞ்செல்வம்').",
+      "Background": "The fiery sparks from his harsh words are landing on his pile of wealth, causing it to instantly turn to ash and smoke. His great fortune is shown perishing swiftly ('நீடின்றி ஆங்கே கெடும்') as a direct result of his own cruelty."
+    },
+    "Art_Direction": {
+      "Subject_and_Action": "The vast wealth of a ruler who is harsh in speech and cruel in his gaze will not last long; it will perish instantly.",
+      "Symbolic_Motifs": "The harsh words as fiery sparks that burn his own wealth is the central metaphor. This visually connects his character flaws directly to his financial ruin.",
+      "Mood_and_Emotion": "Self-destructive, swift ruin, poetic justice, cruel.",
+      "Lighting_and_Color": "The scene is lit by the destructive fire of the king's own words. The colors are harsh reds, oranges, and blacks. The gold turning to ash is the primary visual effect."
+    },
+    "Technical_Cues": {
+      "Camera": "A dynamic shot that captures the king's angry face and the immediate destructive effect of his words on his wealth.",
+      "Resolution": "8K, cinematic, with high-quality fire and ash particle effects.",
+      "Lighting": "The fire provides a dramatic, flickering light source.",
+      "Art_Genre": "Fantasy art, with a strong narrative cause-and-effect."
+    },
+    "Cultural_Anchors": [
+      "Harsh in Speech ('கடுஞ்சொல்லன்')",
+      "Lacking Grace ('கண்ணிலன்')",
+      "Wealth perishing instantly ('நீடின்றி ஆங்கே கெடும்')"
+    ]
+  },
+  "Negative_Prompt": "kind king, gentle words, growing wealth, text artifacts, blurry.",
+  "Hyperparameters": {
+    "variant": "dev",
+    "steps": 45,
+    "cfg_scale": 9,
+    "seed": "Explore variations for the wealth-burning effect."
+  }
+}

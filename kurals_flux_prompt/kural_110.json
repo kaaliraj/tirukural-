@@ -1,0 +1,39 @@
+{
+  "Kural_Info": {
+    "Number": 110,
+    "Chapter": "செய்ந்நன்றி அறிதல் (Gratitude)",
+    "Tamil_Text": "எந்நன்றி கொன்றார்க்கும் உய்வுண்டாம் உய்வில்லைசெய்ந்நன்றி கொன்ற மகற்கு.",
+    "English_Meaning": "He who has killed every virtue may yet escape; there is no escape for him who has killed a benefit."
+  },
+  "Flux_Optimized_Prompt": {
+    "Layered_Composition": {
+      "Foreground": "Two figures are falling into a dark, bottomless abyss representing damnation.",
+      "Midground": "The first figure has destroyed all other virtues ('எந்நன்றி கொன்றார்')—their path is lined with the wreckage of truth, charity, etc. However, a single, thin thread of light offers them a chance to escape ('உய்வுண்டாம்').",
+      "Background": "The second figure has committed only one crime: they have 'killed a benefit'—betrayed a kindness done to them ('செய்ந்நன்றி கொன்ற). For them, there is no thread of light, no hope. The abyss swallows them completely, signifying there is no escape ('உய்வில்லை')."
+    },
+    "Art_Direction": {
+      "Subject_and_Action": "Ingratitude is presented as the ultimate, unforgivable sin, from which there is no escape, whereas there may yet be a chance of salvation for those who have destroyed all other virtues.",
+      "Symbolic_Motifs": "The single thread of hope for the first sinner contrasts with the absolute hopelessness of the second. The act of 'killing a benefit' is visualized as a dark, bleeding wound on the soul of the ungrateful one, dragging them down.",
+      "Mood_and_Emotion": "Absolute condemnation, ultimate sin, hopeless, cautionary.",
+      "Lighting_and_Color": "The scene is predominantly dark and terrifying. The only light is the single, thin thread of hope for the first figure. The space around the ungrateful figure is utterly black, signifying a complete absence of grace.",
+      "Technical_Cues": {
+        "Camera": "A dramatic, high-angle shot looking down into the abyss, capturing the different fates of the two sinners.",
+        "Resolution": "8K, ultra-realistic, with terrifying ethereal effects for the abyss and the sinner's plight.",
+        "Lighting": "Minimal, high-contrast lighting to create a scene of ultimate judgment and terror.",
+        "Art_Genre": "Dark fantasy art, allegorical depiction of damnation."
+      },
+      "Cultural_Anchors": [
+        "Killing a benefit / Ingratitude (செய்ந்நன்றி கொன்ற)",
+        "The possibility of escape (உய்வுண்டாம்)",
+        "No escape (உய்வில்லை)"
+      ]
+    },
+    "Negative_Prompt": "happy sinners, bright abyss, escape for the ungrateful, text artifacts, cartoonish demons.",
+    "Hyperparameters": {
+      "variant": "pro",
+      "steps": 60,
+      "cfg_scale": 10,
+      "seed": "Explore the visual of the bottomless abyss."
+    }
+  }
+}

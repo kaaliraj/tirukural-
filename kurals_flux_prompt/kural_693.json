@@ -1,0 +1,39 @@
+{
+  "Kural_Info": {
+    "Number": 693,
+    "Chapter": "மன்னரைச் சேர்ந்தொழுதல் (Conduct in the Presence of the King)",
+    "Tamil_Text": "போற்றின் அரியவை போற்றல் கடுத்தபின் தேற்றுதல் யார்க்கும் அரிது.",
+    "English_Meaning": "Ministers who would save themselves should avoid (the commission of) serious errors for if the king's suspicion is once roused, no one can remove it."
+  },
+  "Flux_Optimized_Prompt": {
+    "Layered_Composition": {
+      "Foreground": "A courtier is walking a tightrope towards a king's throne, symbolizing their precarious position.",
+      "Midground": "Along the tightrope are several large, obvious traps representing grave errors or offenses ('அரியவை'). The wise courtier is carefully and vigilantly avoiding them ('போற்றல்'). In the background, another courtier has fallen into one of the traps, representing a committed offense.",
+      "Background": "The king's eye is shown in the sky above. The eye looking at the careful courtier is neutral. But the eye looking at the fallen courtier has transformed into a stone-like, permanently suspicious gaze ('கடுத்தபின்'). A ghostly figure is trying to plead for the fallen courtier, but the stone eye is unmoving; trust, once broken, cannot be restored ('தேற்றுதல் அரிது')."
+    },
+    "Art_Direction": {
+      "Subject_and_Action": "If you want to protect yourself, be vigilant in avoiding major offenses. Once a ruler's suspicion is aroused, it is nearly impossible to clear it.",
+      "Symbolic_Motifs": "The tightrope walk is the career of a courtier. The traps are major faults. The king's eye turning to stone is the metaphor for permanent suspicion.",
+      "Mood_and_Emotion": "Precarious, dangerous, unforgiving, cautionary.",
+      "Lighting_and_Color": "A tense, high-contrast light on the tightrope. The stone eye of the king is cold and grey, casting a harsh, unforgiving light on the fallen courtier.",
+      "Technical_Cues": {
+        "Camera": "A dramatic shot that shows both the successful courtier and the doomed, fallen one, with the king's judging eye looming over all.",
+        "Resolution": "8K, with a surreal and symbolic composition.",
+        "Lighting": "Dramatic, symbolic lighting.",
+        "Art_Genre": "Surrealism, political allegory."
+      }
+    },
+    "Cultural_Anchors": [
+      "Guarding against great errors ('அரியவை போற்றல்')",
+      "Once suspicion is aroused ('கடுத்தபின்')",
+      "Clearing it is impossible ('தேற்றுதல் அரிது')"
+    ]
+  },
+  "Negative_Prompt": "king forgiving the fallen courtier, text artifacts, cartoonish.",
+  "Hyperparameters": {
+    "variant": "pro",
+    "steps": 50,
+    "cfg_scale": 9,
+    "seed": "Explore variations for the stone eye."
+  }
+}

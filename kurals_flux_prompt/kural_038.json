@@ -1,0 +1,39 @@
+{
+  "Kural_Info": {
+    "Number": 38,
+    "Chapter": "அறன் வலியுறுத்தல் (Assertion of the Strength of Virtue)",
+    "Tamil_Text": "வீழ்நாள் படாஅமை நன்றாற்றின் அஃதொருவன்வாழ்நாள் வழியடைக்கும் கல்.",
+    "English_Meaning": "If one allows no day to pass without some good being done, his conduct will be a stone to block up the passage to other births."
+  },
+  "Flux_Optimized_Prompt": {
+    "Layered_Composition": {
+      "Foreground": "A person is shown placing a large, luminous stone block ('கல்') onto a growing wall.",
+      "Midground": "The wall, built of many such luminous stones, is massive and impenetrable. It completely blocks the entrance to a dark, misty, and foreboding valley filled with ghostly figures, representing the cycle of rebirth ('வாழ்நாள் வழி').",
+      "Background": "Behind the person and the wall, a beautiful, sunlit, serene landscape representing liberation stretches into the distance. Each day ('நாள்'), another stone of good deeds ('நன்று') is added, making the wall stronger."
+    },
+    "Art_Direction": {
+      "Subject_and_Action": "The daily, unceasing practice of good deeds metaphorically builds a powerful wall that blocks the path to reincarnation and its associated sufferings.",
+      "Symbolic_Motifs": "Each stone in the wall represents a day not wasted ('வீழ்நாள் படாஅமை'), a good deed done. The darkness of the valley of rebirth contrasts sharply with the light of the liberated land and the glowing wall.",
+      "Mood_and_Emotion": "Purposeful, constructive, liberating, secure, powerful.",
+      "Lighting_and_Color": "The primary light source comes from the beautiful landscape of liberation and is reflected by the luminous stones of the wall. The valley of rebirth is shrouded in dark, cold mist and shadows.",
+      "Technical_Cues": {
+        "Camera": "Wide shot from a slightly low angle, positioned to show the scale of the wall and the clear choice it represents between the dark valley and the sunlit land.",
+        "Resolution": "8K, ultra-realistic textures on the stone wall and landscapes, with ethereal effects for the light and the misty valley.",
+        "Lighting": "High-contrast, symbolic lighting. Warm, golden light for liberation, cold, blue-grey light for the path of rebirth.",
+        "Art_Genre": "Epic fantasy digital matte painting, symbolic art."
+      },
+      "Cultural_Anchors": [
+        "Good deeds as a 'stone' (கல்)",
+        "Blocking the path of rebirth (வாழ்நாள் வழி அடைக்கும்)",
+        "Not letting a day fall (வீழ்நாள் படாஅமை)"
+      ]
+    },
+    "Negative_Prompt": "broken wall, person entering the dark valley, small stones, text artifacts, cartoonish ghosts, night scene.",
+    "Hyperparameters": {
+      "variant": "pro",
+      "steps": 50,
+      "cfg_scale": 8,
+      "seed": "Explore variations for the appearance of the ghostly figures in the valley."
+    }
+  }
+}

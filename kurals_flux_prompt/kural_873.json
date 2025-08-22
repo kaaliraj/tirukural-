@@ -1,0 +1,39 @@
+{
+  "Kural_Info": {
+    "Number": 873,
+    "Chapter": "பகைத்திறந்தெரிதல் (Knowing the Quality of Hate)",
+    "Tamil_Text": "ஏமுற் றவரினும் ஏழை தமியனாய்ப் பல்லார் பகைகொள் பவன்.",
+    "English_Meaning": "He who is alone and incurs the hatred of many is more infatuated than even mad men."
+  },
+  "Flux_Optimized_Prompt": {
+    "Layered_Composition": {
+      "Foreground": "A man stands alone on a small, isolated pillar ('தமியனாய்'). He is arrogantly provoking everyone around him, making many enemies ('பல்லார் பகை கொள்பவன்').",
+      "Midground": "Surrounding his pillar is a vast, angry mob of people, all glaring at him with hatred. Below him, for comparison, is a pit containing a gibbering madman ('ஏமுற்றவர்').",
+      "Background": "The man on the pillar is depicted as being in a far more dangerous and foolish position than the actual madman. His isolation and the universal hatred he has earned make him the poorer, more wretched figure of the two ('ஏழை')."
+    },
+    "Art_Direction": {
+      "Subject_and_Action": "The person who, while all alone, makes an enemy of everyone is more wretched and madder than a madman.",
+      "Symbolic_Motifs": "The man on the isolated pillar surrounded by a sea of hate is the central image. The comparison to the actual madman below serves to show who is in the worse, more foolish state.",
+      "Mood_and_Emotion": "Isolated, arrogant, foolish, in extreme danger.",
+      "Lighting_and_Color": "A harsh, lonely spotlight is on the man on the pillar. The surrounding mob is a sea of angry, red-tinged faces. The madman in the pit is in a dim, pathetic light.",
+      "Technical_Cues": {
+        "Camera": "A high-angle shot that emphasizes the man's isolation and the overwhelming number of his enemies.",
+        "Resolution": "8K, with a focus on the crowd's angry expressions.",
+        "Lighting": "Dramatic, isolating lighting.",
+        "Art_Genre": "Symbolic realism, with a sense of impending doom."
+      },
+      "Cultural_Anchors": [
+        "Alone, with many enemies ('தமியனாய்ப் பல்லார் பகை கொள்பவன்')",
+        "More wretched than a madman ('ஏமுற்றவரினும் ஏழை')",
+        "The folly of making universal enemies."
+      ]
+    },
+    "Negative_Prompt": "a popular man, a wise madman, text artifacts, cartoonish.",
+    "Hyperparameters": {
+      "variant": "dev",
+      "steps": 45,
+      "cfg_scale": 9,
+      "seed": "Explore variations for the angry mob."
+    }
+  }
+}

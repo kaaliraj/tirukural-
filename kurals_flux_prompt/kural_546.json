@@ -1,0 +1,39 @@
+{
+  "Kural_Info": {
+    "Number": 546,
+    "Chapter": "செங்கோன்மை (The Right Sceptre)",
+    "Tamil_Text": "வேலன்று வென்றி தருவது மன்னவன் கோலதூஉங் கோடா தெனின்.",
+    "English_Meaning": "It is not the javelin that gives victory, but the king's sceptre, if it do no injustice."
+  },
+  "Flux_Optimized_Prompt": {
+    "Layered_Composition": {
+      "Foreground": "A battlefield scene. On one side, an army has countless sharp spears and javelins ('வேல்'), but they are shown to be ineffective, shattering against an invisible barrier.",
+      "Midground": "On the other side, a king stands alone, holding not a weapon, but his royal sceptre ('கோல்'). The sceptre is perfectly straight ('கோடாது') and glows with an immense power of justice. This glow is the source of the protective barrier and the true reason for his victory.",
+      "Background": "The king's kingdom is peaceful and secure, his victory won not through violence but through the power of his righteousness."
+    },
+    "Art_Direction": {
+      "Subject_and_Action": "Victory is not achieved through weapons like the spear, but through the power of a king's sceptre, provided it is perfectly just and not crooked.",
+      "Symbolic_Motifs": "The shattering spears represent the failure of mere military might. The glowing, perfectly straight sceptre represents the supreme power of justice. The victory is shown as a moral and spiritual one.",
+      "Mood_and_Emotion": "Righteous victory, powerful, just, moral strength.",
+      "Lighting_and_Color": "A brilliant, divine light emanates from the just sceptre, overpowering the harsh, metallic glint of the enemy's weapons. The palette contrasts the pure light of justice with the dark steel of aggression."
+    },
+    "Technical_Cues": {
+      "Camera": "A dynamic shot that contrasts the lone, powerful king and his sceptre against the large but ineffective army.",
+      "Resolution": "8K, cinematic, with dramatic light and particle effects.",
+      "Lighting": "The glowing sceptre is the main light source, symbolizing the light of justice.",
+      "Art_Genre": "High-fantasy art, mythological battle."
+    },
+    "Cultural_Anchors": [
+      "Not the Spear ('வேல் அன்று')",
+      "The Just Sceptre gives Victory ('கோல் வென்றி தரும்')",
+      "The supremacy of justice over military force."
+    ]
+  },
+  "Negative_Prompt": "king losing, bent sceptre, spears winning, text artifacts, cartoonish.",
+  "Hyperparameters": {
+    "variant": "pro",
+    "steps": 50,
+    "cfg_scale": 9,
+    "seed": "Explore variations for the sceptre's glow."
+  }
+}

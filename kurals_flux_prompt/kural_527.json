@@ -1,0 +1,39 @@
+{
+  "Kural_Info": {
+    "Number": 527,
+    "Chapter": "சுற்றந்தழால் (Cherishing Kinsmen)",
+    "Tamil_Text": "காக்கை கரவா கரைந்துண்ணும் ஆக்கமும் அன்னநீ ரார்க்கே உள.",
+    "English_Meaning": "The crows do not conceal (their prey), but will call out for others (to share with them) while they eat it; wealth will be with those who show a similar disposition (towards their relatives)."
+  },
+  "Flux_Optimized_Prompt": {
+    "Layered_Composition": {
+      "Foreground": "A flock of crows ('காக்கை') has found food. Instead of hiding it ('கரவா'), one crow is cawing loudly ('கரைந்து'), calling all its kin to share the meal.",
+      "Midground": "In a parallel scene directly below, a prosperous person has come into wealth. Following the nature of the crow, they are not hoarding it but are joyfully calling their relatives to come and share in their good fortune.",
+      "Background": "The wealth and prosperity ('ஆக்கம்') of this person are shown to be stable and growing, blessed because of their crow-like nature of sharing with their kin."
+    },
+    "Art_Direction": {
+      "Subject_and_Action": "Prosperity stays with those who, like the crow, do not hide their gains but call their kin to share in them.",
+      "Symbolic_Motifs": "The direct, mirrored comparison between the sharing crows and the sharing human is the core of the image. This illustrates the 'crow-like nature' ('அன்ன நீரார்') that attracts wealth.",
+      "Mood_and_Emotion": "Communal, sharing, prosperous, wise, natural.",
+      "Lighting_and_Color": "A bright, clear, natural light. The scene is positive and heartwarming. The shared food and wealth can have a warm, inviting glow.",
+      "Technical_Cues": {
+        "Camera": "A split-screen or vertically stacked composition to make the analogy between the crows and the human explicit.",
+        "Resolution": "8K, with realistic details for both the birds and the human scene.",
+        "Lighting": "Natural daylight.",
+        "Art_Genre": "Naturalistic realism, with a strong narrative comparison."
+      }
+    },
+    "Cultural_Anchors": [
+      "The Crow's nature of sharing ('காக்கை கரைந்துண்ணும்')",
+      "Prosperity belongs to the sharer ('ஆக்கம் அன்னநீரார்க்கே உள')",
+      "The virtue of sharing with one's kin."
+    ]
+  },
+  "Negative_Prompt": "crow eating alone, person hoarding wealth, text artifacts, blurry.",
+  "Hyperparameters": {
+    "variant": "dev",
+    "steps": 40,
+    "cfg_scale": 8,
+    "seed": "Explore variations for the joyful expressions of the relatives."
+  }
+}

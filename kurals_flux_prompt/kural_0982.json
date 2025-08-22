@@ -1,0 +1,33 @@
+{
+  "Kural_Info": {
+    "Number": 982,
+    "Chapter": "சான்றாண்மை (Perfectness)",
+    "Tamil_Text": "குணநலம் சான்றோர் நலனே பிறநலம்எந்நலத்து உள்ளதூஉம் அன்று.",
+    "English_Meaning": "The good of inward excellence they claim, The perfect men; all other good is only good in name."
+  },
+  "Flux_Optimized_Prompt": {
+    "Layered_Composition": {
+      "Foreground": "A 'Saandror' (perfected one) stands calmly. Their physical form is simple and unadorned, but from their heart emanates a radiant, multi-hued light representing their inner virtue ('Guna Nalam').",
+      "Midground": "Surrounding them, various symbols of worldly success ('Pira Nalam')—piles of gold, fine silks, royal crowns—are depicted as translucent, ghost-like objects, fading into insignificance compared to the light of virtue.",
+      "Background": "A simple, timeless, and serene space, suggesting that true worth is independent of external circumstances."
+    },
+    "Art_Direction": {
+      "Subject_and_Action": "A powerful visual statement that the only true 'good' or 'wealth' for a perfected person is the goodness of their character; all external possessions are secondary and almost illusory.",
+      "Symbolic_Motifs": "The radiant light from the heart is the central symbol of 'Guna Nalam'. The fading, ghost-like worldly goods emphasize their superficiality.",
+      "Mood_and_Emotion": "Profound, serene, detached, prioritizing inner worth over outer wealth.",
+      "Lighting_and_Color": "The scene is lit entirely by the glowing light from the person's heart. The colors of this light are warm and vibrant, while the worldly goods are in muted, desaturated grays."
+    },
+    "Technical_Cues": {
+      "Camera": "Full body shot, centered, allowing the viewer to see the contrast between the solid, radiant person and the fading objects around them.",
+      "Resolution": "8K, mystical realism, with beautiful light and transparency effects.",
+      "Lighting": "Single-source, internal, volumetric lighting creating a powerful and symbolic chiaroscuro.",
+      "Art_Genre": "Allegorical portraiture, with a focus on spiritual symbolism."
+    },
+    "Cultural_Anchors": [
+      "குணநலம் (The goodness of character)",
+      "சான்றோர் (The Perfected Ones)",
+      "The concept of inner vs. outer wealth"
+    ]
+  },
+  "Negative_Prompt": "person grasping for wealth, solid and prominent worldly goods, dark background, text artifacts, arrogant expression."
+}

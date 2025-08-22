@@ -1,0 +1,39 @@
+{
+  "Kural_Info": {
+    "Number": 785,
+    "Chapter": "நட்பு (Friendship)",
+    "Tamil_Text": "புணர்ச்சி பழகுதல் வேண்டா உணர்ச்சிதான் நட்பாங் கிழமை தரும்.",
+    "English_Meaning": "Living together and holding frequent intercourse are not necessary (for friendship); (mutual) understanding can alone create a claim for it."
+  },
+  "Flux_Optimized_Prompt": {
+    "Layered_Composition": {
+      "Foreground": "Two individuals are shown standing far apart, on two separate mountain peaks. They have never met or spent time together ('புணர்ச்சி பழகுதல் வேண்டா').",
+      "Midground": "Despite the physical distance, a powerful, radiant bridge of pure light connects their minds/hearts. This bridge represents their shared feeling and mutual understanding ('உணர்ச்சி').",
+      "Background": "This bridge of understanding is shown to be the true foundation of their powerful friendship ('நட்பாங் கிழமை'), far stronger than any bond forged by mere physical proximity."
+    },
+    "Art_Direction": {
+      "Subject_and_Action": "Friendship is not created by physical closeness or long association, but by a deep, mutual understanding and similarity of feeling.",
+      "Symbolic_Motifs": "The bridge of light connecting two distant people is the central metaphor. It powerfully visualizes a bond based on understanding rather than physical contact.",
+      "Mood_and_Emotion": "Connected, empathetic, profound, beyond the physical.",
+      "Lighting_and_Color": "A beautiful, ethereal light. The bridge of understanding glows with a brilliant, pure light, connecting the two figures across the vast distance.",
+      "Technical_Cues": {
+        "Camera": "An epic, ultra-wide landscape shot that emphasizes the great distance between the two figures and the magical bridge that connects them.",
+        "Resolution": "8K, with a mythical, painterly quality.",
+        "Lighting": "The bridge of light is the primary source of illumination.",
+        "Art_Genre": "High-fantasy landscape, metaphysical art."
+      },
+      "Cultural_Anchors": [
+        "Friendship from understanding, not proximity ('உணர்ச்சிதான் நட்பாங் கிழமை தரும்')",
+        "Meeting and habit are not necessary.",
+        "A bond of kindred spirits."
+      ]
+    },
+    "Negative_Prompt": "broken bridge, people standing close but disconnected, text artifacts, cartoonish.",
+    "Hyperparameters": {
+      "variant": "pro",
+      "steps": 50,
+      "cfg_scale": 8,
+      "seed": "Explore variations for the bridge of light."
+    }
+  }
+}

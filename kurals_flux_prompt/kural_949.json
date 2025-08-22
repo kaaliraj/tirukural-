@@ -1,0 +1,39 @@
+{
+  "Kural_Info": {
+    "Number": 949,
+    "Chapter": "மருந்து (Medicine)",
+    "Tamil_Text": "உற்றான் அளவும் பிணியளவும் காலமும் கற்றான் கருதிச் செயல்.",
+    "English_Meaning": "The learned (physician) should ascertain the condition of his patient; the nature of his disease, and the season (of the year) and (then) proceed (with his treatment)."
+  },
+  "Flux_Optimized_Prompt": {
+    "Layered_Composition": {
+      "Foreground": "A learned physician ('கற்றான்') stands in contemplation before treating a patient.",
+      "Midground": "Before them, three glowing, translucent displays appear, representing the three factors they must consider. The first shows a diagram of the patient, their age, strength, and condition ('உற்றான் அளவு'). The second shows a detailed analysis of the disease itself, its severity and stage ('பிணியளவு'). The third shows the time of year and the current season ('காலம்').",
+      "Background": "Only after carefully considering and synthesizing the information from all three displays ('கருதிச் செயல்') does the physician choose the correct medicine from their bag."
+    },
+    "Art_Direction": {
+      "Subject_and_Action": "A learned physician must act only after considering three variables: the nature of the patient, the nature of the disease, and the nature of the time/season.",
+      "Symbolic_Motifs": "The three holographic-style displays are a modern metaphor for the three key diagnostic considerations. The act of synthesizing this information before choosing a remedy is the key action.",
+      "Mood_and_Emotion": "Holistic, analytical, learned, precise, careful.",
+      "Lighting_and_Color": "A clean, bright, medical/scientific light. The three displays glow with a clear, informational light.",
+      "Technical_Cues": {
+        "Camera": "A shot from over the physician's shoulder, allowing the viewer to see the three displays of information they are considering.",
+        "Resolution": "8K, with a futuristic, high-tech feel for the diagnostic displays.",
+        "Lighting": "The glowing displays are the main source of light.",
+        "Art_Genre": "Science fiction, medical illustration."
+      },
+      "Cultural_Anchors": [
+        "The measure of the patient ('உற்றான் அளவு')",
+        "The measure of the disease ('பிணியளவு')",
+        "The time/season ('காலம்')"
+      ]
+    },
+    "Negative_Prompt": "a physician acting rashly, text on the displays, cartoonish.",
+    "Hyperparameters": {
+      "variant": "dev",
+      "steps": 45,
+      "cfg_scale": 8,
+      "seed": "Explore variations for the diagnostic displays."
+    }
+  }
+}

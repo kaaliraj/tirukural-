@@ -1,0 +1,38 @@
+{
+  "Kural_Info": {
+    "Number": 63,
+    "Chapter": "மக்கட்பேறு (The Offspring)",
+    "Tamil_Text": "தம்பொருள் என்பதம் மக்கள் அவர்பொருள்தம்தம் வினையான் வரும்.",
+    "English_Meaning": "Men will call their sons their wealth, because it flows to them through the deeds which they (sons) perform on their behalf."
+  },
+  "Flux_Optimized_Prompt": {
+    "Layered_Composition": {
+      "Foreground": "Parents are shown looking proudly at their children.",
+      "Midground": "The children are engaged in virtuous and productive deeds ('தம் தம் வினையான்'). One is studying diligently, another is helping the community. From these actions, streams of golden light and tangible rewards (grain, gold coins, scrolls of honor) flow back towards the parents.",
+      "Background": "The parents' home is shown becoming more prosperous and radiant, directly nourished by the fruits of their children's actions. The children are clearly labeled as the parents' true 'wealth' ('தம் பொருள்')."
+    },
+    "Art_Direction": {
+      "Subject_and_Action": "Children are a parent's true wealth, not just by their existence, but because the family's fortune is built and flows from the good deeds performed by those children.",
+      "Symbolic_Motifs": "The flow of rewards from children to parents is a key visual. It's not the children giving money, but their *actions* (vinai) generating the prosperity that enriches the family.",
+      "Mood_and_Emotion": "Proud, prosperous, reciprocal, karmic wealth.",
+      "Lighting_and_Color": "A warm, golden light originates from the children's virtuous actions and flows towards the parents, illuminating them and their home. The palette is rich and prosperous.",
+      "Technical_Cues": {
+        "Camera": "Wide narrative shot that clearly connects the children's actions to the parents' prosperity.",
+        "Resolution": "8K, ultra-realistic, with painterly effects for the streams of rewards.",
+        "Lighting": "The children's deeds are the light source, symbolizing they are the engine of the family's fortune.",
+        "Art_Genre": "Narrative realism, with symbolic elements."
+      },
+      "Cultural_Anchors": [
+        "Children as wealth (தம் பொருள் என்ப தம் மக்கள்)",
+        "Wealth flowing from the children's deeds (அவர் பொருள் தம் தம் வினையான் வரும்)"
+      ]
+    },
+    "Negative_Prompt": "lazy children, poor parents, children taking from parents, text artifacts, dark scene.",
+    "Hyperparameters": {
+      "variant": "dev",
+      "steps": 40,
+      "cfg_scale": 8,
+      "seed": "Explore how to visually represent 'rewards flowing from deeds'."
+    }
+  }
+}

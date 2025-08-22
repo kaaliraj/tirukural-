@@ -1,0 +1,33 @@
+{
+  "Kural_Info": {
+    "Number": 1154,
+    "Chapter": "பிரிவாற்றாமை (Separation unendurable)",
+    "Tamil_Text": "அளித்தஞ்சல் என்றவர் நீப்பின் தெளித்தசொல்தேறியார்க்கு உண்டோ தவறு.",
+    "English_Meaning": "If he depart, who fondly said, 'Fear not,' what blame's incurred By those who trusted to his reassuring word?."
+  },
+  "Flux_Optimized_Prompt": {
+    "Layered_Composition": {
+      "Foreground": "A woman stands alone and heartbroken, her trust visibly shattered.",
+      "Midground": "A ghostly echo of her lover's words, 'அஞ்சல்' ('Anjal' - Fear not), floats in the air, now appearing hollow and transparent. The lover himself is shown departing in the distance.",
+      "Background": "The woman is standing on solid ground, representing her firm belief in his words ('Thetriyaarkku'). However, the ground where he now walks is crumbling away, showing his words have failed. She herself is shown as blameless."
+    },
+    "Art_Direction": {
+      "Subject_and_Action": "A rhetorical question in visual form: Is there any fault in one who believed the clear, reassuring words of a lover who then broke that promise by departing?",
+      "Symbolic_Motifs": "The hollow, transparent words symbolize the broken promise. The contrast between her solid ground (her faith) and his crumbling path (his broken word) places the fault squarely on him.",
+      "Mood_and_Emotion": "Vindicated sadness, a sense of blameless sorrow, questioning.",
+      "Lighting_and_Color": "The woman is lit by a clear, honest light, showing her innocence. The departing lover and the path he walks are in shadow and decay. The floating words have a faint, fading glow."
+    },
+    "Technical_Cues": {
+      "Camera": "Wide shot that establishes the relationship between the woman, the broken words, and the departing lover.",
+      "Resolution": "8K, ultra-realistic with symbolic effects for the words and the crumbling path.",
+      "Lighting": "Symbolic lighting that assigns moral weight, with light for the innocent and shadow for the one who broke the promise.",
+      "Art_Genre": "Allegorical realism, telling a story of trust and betrayal."
+    },
+    "Cultural_Anchors": [
+      "அஞ்சல் (Fear not - a word of assurance)",
+      "The sanctity of a lover's promise",
+      "Blamelessness of the trusting party (தவறு உண்டோ?)"
+    ]
+  },
+  "Negative_Prompt": "guilty-looking woman, heroic departing lover, modern setting, text artifacts, cartoonish, blurry."
+}

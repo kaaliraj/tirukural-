@@ -1,0 +1,39 @@
+{
+  "Kural_Info": {
+    "Number": 476,
+    "Chapter": "வலியறிதல் (The Knowledge of Power)",
+    "Tamil_Text": "நுனிக்கொம்பர் ஏறினார் அஃதிறந் தூக்கின் உயிர்க்கிறுதி ஆகி விடும்.",
+    "English_Meaning": "There will be an end to the life of him who, having climbed out to the end of a branch, ventures to go further."
+  },
+  "Flux_Optimized_Prompt": {
+    "Layered_Composition": {
+      "Foreground": "A person has climbed a tall tree and is already at the very tip of a thin branch ('நுனிக்கொம்பர்').",
+      "Midground": "Ignoring the danger and the fragility of their position, they are shown trying to take one more step beyond the end of the branch ('அஃதிறந்தூக்கின்'), reaching for something just out of reach.",
+      "Background": "The branch is cracking under their impossible effort, and they are beginning to fall towards a great, fatal drop below. The moment of disaster ('உயிர்க்கிறுதி') is imminent."
+    },
+    "Art_Direction": {
+      "Subject_and_Action": "A literal and dramatic depiction of the fatal consequences of pushing beyond one's absolute limits.",
+      "Symbolic_Motifs": "The tip of the branch represents the absolute limit of one's ability or position. The attempt to step beyond it into empty air symbolizes fatal overreach.",
+      "Mood_and_Emotion": "Tense, foolish, fatal, irreversible, cautionary.",
+      "Lighting_and_Color": "Harsh, dramatic lighting that highlights the cracking branch and the person's desperate but foolish expression. The ground far below is cast in shadow.",
+      "Technical_Cues": {
+        "Camera": "A dramatic shot from slightly below, looking up at the person and the breaking branch, emphasizing the height and the danger of the fall.",
+        "Resolution": "8K, cinematic, capturing the scene with a high-speed photography look to freeze the moment of crisis.",
+        "Lighting": "High-contrast lighting, possibly backlit by the sun to create a dramatic silhouette.",
+        "Art_Genre": "Dramatic realism, action shot."
+      }
+    },
+    "Cultural_Anchors": [
+      "Reaching the tip of the branch ('நுனிக்கொம்பர் ஏறுதல்')",
+      "The fatal overreach ('அஃதிறந்தூக்கின் உயிர்க்கிறுதி')",
+      "Knowing one's ultimate limits."
+    ]
+  },
+  "Negative_Prompt": "person being safe, thick branch, person flying, text artifacts, blurry.",
+  "Hyperparameters": {
+    "variant": "dev",
+    "steps": 45,
+    "cfg_scale": 9,
+    "seed": "Explore variations for the cracking branch."
+  }
+}

@@ -1,0 +1,39 @@
+{
+  "Kural_Info": {
+    "Number": 1137,
+    "Chapter": "நாணுத்துறவுரைத்தல் (The Abandonment of Reserve)",
+    "Tamil_Text": "கடலன்ன காமம் உழந்தும் மடலேறாப்பெண்ணின் பெருந்தக்க தில்.",
+    "English_Meaning": "There is nothing so noble as the womanly nature that would not ride the palmyra horse, though plunged a sea of lust."
+  },
+  "Flux_Optimized_Prompt": {
+    "Layered_Composition": {
+      "Foreground": "A woman is shown being tossed in a colossal, stormy sea of lovesickness ('கடல் அன்ன காமம் உழந்தும்').",
+      "Midground": "Despite her immense suffering, she is shown resolutely refusing to even look at a Madal horse that is offered to her as a way out. She is choosing to endure rather than abandon her feminine reserve ('மடல் ஏறாப் பெண்').",
+      "Background": "Because of this incredible act of endurance and dignity, a divine light shines down from the heavens, crowning her with an aura of supreme nobility. She is presented as having 'no greater' virtue ('பெருந்தக்கது இல்')."
+    },
+    "Art_Direction": {
+      "Subject_and_Action": "The supreme nobility and greatness of a woman who, even when suffering a sea of lovesickness, maintains her reserve and refuses to resort to the desperate public act of the Madal.",
+      "Symbolic_Motifs": "The sea of lust is a powerful, overwhelming force. Her refusal of the Madal is an act of immense inner strength and adherence to her nature. The divine crown is the universe's acknowledgment of her supreme virtue.",
+      "Mood_and_Emotion": "Noble, enduring, supreme dignity, powerful restraint.",
+      "Lighting_and_Color": "The sea is dark, chaotic, and stormy. The woman, however, is illuminated by a powerful, divine, golden light that emanates from her own unwavering resolve, which then intensifies as she is crowned from above.",
+      "Technical_Cues": {
+        "Camera": "An epic, heroic shot of the woman in the stormy sea, capturing her strength and dignity in the face of overwhelming emotional turmoil.",
+        "Resolution": "8K, hyper-realistic, with advanced ocean and storm effects.",
+        "Lighting": "A dramatic interplay between the darkness of the storm and the divine light of her virtue.",
+        "Art_Genre": "Epic mythological painting, heroic portraiture."
+      },
+      "Cultural_Anchors": [
+        "A woman who does not mount the Madal (மடல் ஏறாப் பெண்)",
+        "Even while suffering a sea of love-longing (கடல் அன்ன காமம் உழந்தும்)",
+        "There is nothing greater (பெருந்தக்கது இல்)"
+      ]
+    },
+    "Negative_Prompt": "woman riding the Madal, calm sea, text artifacts, weak figure.",
+    "Hyperparameters": {
+      "variant": "pro",
+      "steps": 55,
+      "cfg_scale": 9,
+      "seed": "Explore the visual of the stormy 'sea of love'."
+    }
+  }
+}

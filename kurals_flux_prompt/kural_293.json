@@ -1,0 +1,38 @@
+{
+  "Kural_Info": {
+    "Number": 293,
+    "Chapter": "வாய்மை (Veracity)",
+    "Tamil_Text": "தன்நெஞ் சறிவது பொய்யற்க பொய்த்தபின்தன்நெஞ்சே தன்னைச் சுடும்.",
+    "English_Meaning": "Let not a man knowingly tell a lie; for after he has told the lie, his mind will burn him (with the memory of his guilt)."
+  },
+  "Flux_Optimized_Prompt": {
+    "Layered_Composition": {
+      "Foreground": "A person is shown telling a lie which they know to be false ('தன் நெஞ்சு அறிவது பொய்யற்க').",
+      "Midground": "The moment the lie is spoken, their own conscience ('தன் நெஞ்சே') materializes behind them as a spectral, fiery figure of judgment.",
+      "Background": "This fiery conscience reaches out and touches the person's heart. From the point of contact, agonizing, ethereal flames erupt and begin to consume the person from within. This is the 'burning' of guilt ('தன்னைச் சுடும்')."
+    },
+    "Art_Direction": {
+      "Subject_and_Action": "To lie against one's own conscience results in an inescapable, internal torment, where one's own mind becomes the instrument of punishment.",
+      "Symbolic_Motifs": "The conscience as a fiery, judgmental figure is the central metaphor. The burning is internal, a fire of the soul, not a physical one. The person's expression should be one of agony and regret, tormented by their own inner self.",
+      "Mood_and_Emotion": "Torment, guilt, self-punishment, inescapable, burning regret.",
+      "Lighting_and_Color": "The scene is lit by the cruel, flickering, orange-red light of the inner fire of guilt. The palette is dark, hot, and full of anguish.",
+      "Technical_Cues": {
+        "Camera": "An intense, claustrophobic close-up on the person's face, showing their inner torment, with the fiery conscience visible as a spectral presence.",
+        "Resolution": "8K, hyper-realistic, with advanced, ethereal fire effects.",
+        "Lighting": "The primary light source is the agonizing fire of guilt, creating a hellish and dramatic effect.",
+        "Art_Genre": "Psychological horror, dark fantasy."
+      },
+      "Cultural_Anchors": [
+        "To lie against what one's mind knows (தன் நெஞ்சு அறிவது பொய்யற்க)",
+        "One's own mind will burn oneself (தன் நெஞ்சே தன்னைச் சுடும்)"
+      ]
+    },
+    "Negative_Prompt": "happy liar, cool and calm scene, external punishment, text artifacts.",
+    "Hyperparameters": {
+      "variant": "pro",
+      "steps": 50,
+      "cfg_scale": 9,
+      "seed": "Explore the design of the 'fiery conscience'."
+    }
+  }
+}

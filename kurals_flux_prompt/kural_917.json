@@ -1,0 +1,39 @@
+{
+  "Kural_Info": {
+    "Number": 917,
+    "Chapter": "வரைவின்மகளிர் (Wanton Women)",
+    "Tamil_Text": "நிறைநெஞ்சம் இல்லவர் தோய்வார் பிறநெஞ்சிற் பேணிப் புணர்பவர் தோள்.",
+    "English_Meaning": "Those who are destitute of a perfectly (reformed) mind will covet the shoulders of those who embrace (them) while their hearts covet other things."
+  },
+  "Flux_Optimized_Prompt": {
+    "Layered_Composition": {
+      "Foreground": "A courtesan is shown embracing a man. A see-through effect reveals her heart, which is not focused on the man she is with, but is instead looking out and desiring another, wealthier man in the distance ('பிறநெஞ்சிற் பேணிப் புணர்பவர்').",
+      "Midground": "The man she is embracing is shown to have a hollow or empty chest, symbolizing his lack of a full, controlled, and dignified mind ('நிறைநெஞ்சம் இல்லவர்'). Only such a person would be foolish enough to seek this false embrace.",
+      "Background": "A wise person with a full, solid heart is shown in the distance, observing this scene with pity and refusing to get involved."
+    },
+    "Art_Direction": {
+      "Subject_and_Action": "Only those who lack a complete and controlled mind will seek the embrace of a woman whose heart is elsewhere.",
+      "Symbolic_Motifs": "The courtesan's wandering heart and the man's hollow chest are the two key symbolic visuals. They show a meeting of two flawed individuals.",
+      "Mood_and_Emotion": "Hollow, deceptive, foolish, pathetic.",
+      "Lighting_and_Color": "A dim, sordid light. The courtesan's heart can have a greedy, wandering glow. The man's chest is a dark, empty void.",
+      "Technical_Cues": {
+        "Camera": "A close-up on the false embrace, with a surreal, transparent effect to show the inner states of both individuals.",
+        "Resolution": "8K, with a dark, psychological feel.",
+        "Lighting": "Low-key, moody lighting.",
+        "Art_Genre": "Surrealist realism."
+      },
+      "Cultural_Anchors": [
+        "Those who lack a complete mind ('நிறைநெஞ்சம் இல்லவர்')",
+        "Will embrace those whose hearts are elsewhere.",
+        "The folly of seeking empty affection."
+      ]
+    },
+    "Negative_Prompt": "a loving courtesan, a man with a full heart, text artifacts.",
+    "Hyperparameters": {
+      "variant": "pro",
+      "steps": 50,
+      "cfg_scale": 8,
+      "seed": "Explore variations for the 'wandering heart'."
+    }
+  }
+}

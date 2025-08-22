@@ -1,0 +1,39 @@
+{
+  "Kural_Info": {
+    "Number": 892,
+    "Chapter": "பெரியாரைப் பிழையாமை (Not Offending the Great)",
+    "Tamil_Text": "பெரியாரைப் பேணாது ஒழுகிற் பெரியாரால் பேரா இடும்பை தரும்.",
+    "English_Meaning": "To behave without respect for the great (rulers) will make them do (us) irremediable evils."
+  },
+  "Flux_Optimized_Prompt": {
+    "Layered_Composition": {
+      "Foreground": "A foolish person is shown acting disrespectfully towards a great and powerful person ('பெரியாரைப் பேணாது ஒழுகல்'). They are perhaps mocking them or ignoring them.",
+      "Midground": "The great person, who was initially calm, reacts to the disrespect. From them, a terrible, inescapable curse or sorrow ('பேரா இடும்பை') is unleashed. This is visualized as a wave of dark, thorny energy that flows from the great one.",
+      "Background": "The dark wave of sorrow completely engulfs the disrespectful person, trapping them in an unending, irremediable state of suffering from which there is no escape."
+    },
+    "Art_Direction": {
+      "Subject_and_Action": "Behaving disrespectfully towards the great will cause them to inflict upon you an inescapable and permanent sorrow.",
+      "Symbolic_Motifs": "The unleashing of the dark wave of sorrow from the great person is the key event. The final state of the victim, trapped in this thorny, dark energy, shows the inescapable nature of the consequence.",
+      "Mood_and_Emotion": "Consequential, inescapable, powerful, wrathful.",
+      "Lighting_and_Color": "The scene begins with a neutral light, which is then overpowered by the dark, malevolent energy of the curse. The sorrowful energy can be a sickly purple or black.",
+      "Technical_Cues": {
+        "Camera": "A shot that shows the cause (disrespect) and the immediate, powerful effect (the unleashed curse).",
+        "Resolution": "8K, with powerful and dramatic magical effects.",
+        "Lighting": "The unleashed curse becomes the main, sinister light source.",
+        "Art_Genre": "Dark fantasy art."
+      },
+      "Cultural_Anchors": [
+        "Disrespecting the Great ('பெரியாரைப் பேணாது ஒழுகல்')",
+        "Inescapable Sorrow ('பேரா இடும்பை')",
+        "The wrath of the powerful."
+      ]
+    },
+    "Negative_Prompt": "great person ignoring the disrespect, a happy fool, text artifacts.",
+    "Hyperparameters": {
+      "variant": "pro",
+      "steps": 50,
+      "cfg_scale": 8,
+      "seed": "Explore variations for the wave of sorrow."
+    }
+  }
+}

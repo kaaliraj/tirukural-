@@ -1,0 +1,39 @@
+{
+  "Kural_Info": {
+    "Number": 1074,
+    "Chapter": "கயமை (Baseness)",
+    "Tamil_Text": "அகப்பட்டி ஆவாரைக் காணின் அவரின்மிகப்பட்டுச் செம்மாக்கும் கீழ்.",
+    "English_Meaning": "The base feels proud when he sees persons whose acts meaner than his own."
+  },
+  "Flux_Optimized_Prompt": {
+    "Layered_Composition": {
+      "Foreground": "A base person ('கீழ்') is shown with a normal, sullen expression.",
+      "Midground": "They then witness another person committing a vile and wicked act ('அகப்பட்டி ஆவாரைக் காணின்').",
+      "Background": "Upon seeing someone even more wicked than themselves, the base person's demeanor instantly changes. They puff out their chest, a smug and superior smile spreading across their face. They feel a sense of pride and greatness by comparison ('மிகப் பட்டுச் செம்மாக்கும்')."
+    },
+    "Art_Direction": {
+      "Subject_and_Action": "The perverse nature of the base is that their sense of pride and self-esteem comes not from their own good deeds, but from witnessing the even greater wickedness of others.",
+      "Symbolic_Motifs": "The sudden transformation in the base person's posture and expression is the key narrative element. Their pride is based on a downward comparison, not an upward aspiration. The other wicked person acts as a mirror that reflects a distorted, flattering image back at them.",
+      "Mood_and_Emotion": "Perverse, smug, comparative evil, proud of wickedness.",
+      "Lighting_and_Color": "A dim, sordid light illuminates the scene. When the base person feels their perverse pride, a sickly, false glow of self-satisfaction might briefly appear around them.",
+      "Technical_Cues": {
+        "Camera": "A close-up on the base person's face, capturing their subtle but significant shift in expression from sullenness to smug pride.",
+        "Resolution": "8K, ultra-realistic, with a focus on nuanced, character-revealing facial expressions.",
+        "Lighting": "Low-key, character-driven lighting.",
+        "Art_Genre": "Psychological realism, dark character study."
+      },
+      "Cultural_Anchors": [
+        "The base (கீழ்)",
+        "Seeing a wicked person (அகப்பட்டி ஆவாரைக் காணின்)",
+        "They feel superior and proud (மிகப் பட்டுச் செம்மாக்கும்)"
+      ]
+    },
+    "Negative_Prompt": "base person feeling shame, text artifacts, happy scene.",
+    "Hyperparameters": {
+      "variant": "dev",
+      "steps": 45,
+      "cfg_scale": 8,
+      "seed": "Explore the subtle shift in the base person's expression."
+    }
+  }
+}

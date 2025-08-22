@@ -1,0 +1,39 @@
+{
+  "Kural_Info": {
+    "Number": 644,
+    "Chapter": "சொல்வன்மை (Power of Speech)",
+    "Tamil_Text": "திறனறிந்து சொல்லுக சொல்லை அறனும் பொருளும் அதனினூஉங்கு இல்.",
+    "English_Meaning": "Understand the qualities (of your hearers) and (then) make your speech; for superior to it, there is neither virtue nor wealth."
+  },
+  "Flux_Optimized_Prompt": {
+    "Layered_Composition": {
+      "Foreground": "A speaker is shown before three different audiences: a group of wise scholars, a group of simple farmers, and a group of hostile warriors.",
+      "Midground": "The speaker's words are visualized as keys. They are skillfully choosing a different, perfectly shaped key for each audience, demonstrating their ability to know their audience's nature and adapt their speech ('திறனறிந்து சொல்லுக').",
+      "Background": "By using the right 'key' for each group, the speaker is shown unlocking great treasures. From the scholars, they gain Virtue ('அறன்'). From the farmers, they gain Wealth ('பொருள்'). From the warriors, they gain peace. This shows that there is no greater source of virtue and wealth than this skill."
+    },
+    "Art_Direction": {
+      "Subject_and_Action": "To speak with a deep understanding of the audience's nature is a skill that yields greater returns than any other virtue or wealth.",
+      "Symbolic_Motifs": "The different audiences represent the need for adaptation. The words as different keys for different locks is the central metaphor. The treasures unlocked represent the resulting virtue and wealth.",
+      "Mood_and_Emotion": "Adaptable, skillful, perceptive, effective.",
+      "Lighting_and_Color": "A clear, intelligent light. Each audience has a distinct character, and the keys glow as they are being used successfully. The unlocked treasures are radiant.",
+      "Technical_Cues": {
+        "Camera": "A triptych composition, showing the speaker successfully addressing each of the three different audiences.",
+        "Resolution": "8K, with detailed character design for the diverse audiences.",
+        "Lighting": "Clean, clear lighting to emphasize the intellectual nature of the skill.",
+        "Art_Genre": "Symbolic illustration, narrative art."
+      }
+    },
+    "Cultural_Anchors": [
+      "Knowing the nature of the audience ('திறனறிந்து')",
+      "The supremacy of adapted speech over Virtue and Wealth.",
+      "The art of effective communication."
+    ]
+  },
+  "Negative_Prompt": "speaker using the wrong key, audience looking angry or bored, text on keys.",
+  "Hyperparameters": {
+    "variant": "dev",
+    "steps": 45,
+    "cfg_scale": 9,
+    "seed": "Explore variations for the design of the symbolic keys."
+  }
+}

@@ -1,0 +1,38 @@
+{
+  "Kural_Info": {
+    "Number": 467,
+    "Chapter": "தெரிந்துசெயல்வகை (Acting after due Consideration)",
+    "Tamil_Text": "எண்ணித் துணிக கருமம் துணிந்தபின்எண்ணுவம் என்பது இழுக்கு.",
+    "English_Meaning": "Consider, and then undertake a matter; after having undertaken it, to say \"We will consider,\" is folly."
+  },
+  "Flux_Optimized_Prompt": {
+    "Layered_Composition": {
+      "Foreground": "A person is standing before a great chasm. Before they act, they are shown in deep thought, meticulously planning ('எண்ணி'). A bridge of solid light is forming before them, a product of their careful consideration.",
+      "Midground": "Once the bridge of thought is complete, they step onto it with decisive confidence ('துணிக').",
+      "Background": "In contrast, another figure is shown who has impulsively leaped into the chasm ('துணிந்தபின்'). Mid-air, they are now trying to think of a plan ('எண்ணுவம்'), but it is too late. This is shown to be a foolish and disgraceful act ('இழுக்கு')."
+    },
+    "Art_Direction": {
+      "Subject_and_Action": "A clear depiction of the correct order of action: think first, then act decisively. To act first and think later is a disgraceful folly.",
+      "Symbolic_Motifs": "The chasm represents the undertaking. The bridge of light is the plan created by prior thought, ensuring safe passage. The foolish leaper is a direct visualization of the disastrous alternative.",
+      "Mood_and_Emotion": "Decisive, confident, prudent vs. foolish, disgraceful.",
+      "Lighting_and_Color": "The scene of the planner is lit with a clear, bright, intellectual light. The bridge they create is solid and reliable. The scene of the leaper is chaotic and dark, highlighting their panic and the disgrace of their situation.",
+      "Technical_Cues": {
+        "Camera": "A split-screen or sequential shot that contrasts the wise person's successful crossing with the fool's disastrous leap.",
+        "Resolution": "8K, ultra-realistic, with strong visual effects for the light-bridge and the depiction of the falling fool.",
+        "Lighting": "Contrasting lighting to emphasize the difference between prudence and folly.",
+        "Art_Genre": "Symbolic realism, with action elements."
+      },
+      "Cultural_Anchors": [
+        "Think, then dare (எண்ணித் துணிக)",
+        "Thinking after daring is a disgrace (துணிந்தபின் எண்ணுவம் என்பது இழுக்கு)"
+      ]
+    },
+    "Negative_Prompt": "leaper succeeding, planner hesitating, text artifacts.",
+    "Hyperparameters": {
+      "variant": "pro",
+      "steps": 50,
+      "cfg_scale": 9,
+      "seed": "Explore the design of the 'bridge of light'."
+    }
+  }
+}

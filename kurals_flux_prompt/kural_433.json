@@ -1,0 +1,39 @@
+{
+  "Kural_Info": {
+    "Number": 433,
+    "Chapter": "குற்றங்கடிதல் (The Correction of Faults)",
+    "Tamil_Text": "தினைத்துணையாங் குற்றம் வரினும் பனைத்துணையாக் கொள்வர் பழிநாணு வார்.",
+    "English_Meaning": "Though small as millet-seed the fault men deem; As palm tree vast to those who fear disgrace 'twill seem."
+  },
+  "Flux_Optimized_Prompt": {
+    "Layered_Composition": {
+      "Foreground": "A person of impeccable character, who fears disgrace ('பழிநாணுவார்'), stands looking at their own hand with a look of deep concern.",
+      "Midground": "On their hand is a tiny, almost invisible speck, like a single grain of millet ('தினைத்துணையாம் குற்றம்'). However, this tiny speck casts a colossal, terrifying shadow on the wall behind them, a shadow the size and shape of a giant palm tree ('பனைத்துணையா').",
+      "Background": "A simple, clean, and well-ordered room, indicating the person's normally faultless nature, which makes the shadow of the tiny fault all the more dramatic."
+    },
+    "Art_Direction": {
+      "Subject_and_Action": "A visual representation of how a person who is deeply conscious of honor perceives even the tiniest fault as a monumental failure.",
+      "Symbolic_Motifs": "The tiny millet seed vs. the giant palm tree shadow is the central, powerful metaphor. The person's concerned expression shows their deep fear of disgrace.",
+      "Mood_and_Emotion": "Conscientious, sensitive to honor, dramatic, introspective.",
+      "Lighting_and_Color": "A single, strong light source is positioned to create the disproportionately large and menacing shadow. The color palette is minimalist, focusing on the person, the speck, and its shadow."
+    },
+    "Technical_Cues": {
+      "Camera": "Medium shot that captures the person, their hand with the speck, and the massive shadow on the wall.",
+      "Resolution": "8K, cinematic, with a sharp focus to keep both the speck and the shadow clear.",
+      "Lighting": "High-contrast, dramatic lighting (chiaroscuro) to maximize the impact of the shadow.",
+      "Art_Genre": "Film noir aesthetic, symbolic realism."
+    },
+    "Cultural_Anchors": [
+      "Fear of Disgrace ('பழிநாணுவார்')",
+      "A tiny fault ('தினைத்துணையாம் குற்றம்')",
+      "Perceiving it as huge ('பனைத்துணையா')"
+    ]
+  },
+  "Negative_Prompt": "person ignoring the fault, small shadow, happy expression, cluttered room, text artifacts.",
+  "Hyperparameters": {
+    "variant": "pro",
+    "steps": 50,
+    "cfg_scale": 9,
+    "seed": "Explore variations for the shape and texture of the shadow."
+  }
+}

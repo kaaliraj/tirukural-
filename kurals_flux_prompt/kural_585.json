@@ -1,0 +1,39 @@
+{
+  "Kural_Info": {
+    "Number": 585,
+    "Chapter": "ஒற்றாடல் (Detectives)",
+    "Tamil_Text": "கடாஅ உருவொடு கண்ணஞ்சாது யாண்டும் உகாஅமை வல்லதே ஒற்று.",
+    "English_Meaning": "A spy is one who is able to assume an appearance which may create no suspicion (in the minds of others), who fears no man's face, and who never reveals (his purpose)."
+  },
+  "Flux_Optimized_Prompt": {
+    "Layered_Composition": {
+      "Foreground": "A master spy is shown in a hostile environment, like an enemy court. Their appearance is completely unremarkable and raises no suspicion ('கடாஅ உருவொடு').",
+      "Midground": "They are being stared at intensely by menacing guards, but their own eyes are fearless and show no hint of being intimidated ('கண்ணஞ்சாது'). A surreal effect shows magical attempts to read their mind, but their thoughts are a perfect, impenetrable blank slate, revealing nothing ('உகாஅமை').",
+      "Background": "The spy is successfully gathering critical information, completely undetected, demonstrating their ultimate skill ('வல்லதே ஒற்று')."
+    },
+    "Art_Direction": {
+      "Subject_and_Action": "The ideal spy has three qualities: an unsuspicious appearance, fearlessness in the face of scrutiny, and the unbreakable ability to never reveal their secrets.",
+      "Symbolic_Motifs": "The unremarkable disguise shows the first quality. The fearless eyes show the second. The impenetrable mind (the blank slate) is a powerful visual for the third quality of never revealing secrets.",
+      "Mood_and_Emotion": "Inconspicuous, fearless, impenetrable, masterful, professional.",
+      "Lighting_and_Color": "The lighting is naturalistic to fit the scene, but a subtle inner light in the spy's eyes can hint at their hidden strength. The mind-reading attempt can be a brief, failed magical effect.",
+      "Technical_Cues": {
+        "Camera": "A medium close-up on the spy's face, capturing their calm, fearless expression under the intense scrutiny of the guards.",
+        "Resolution": "8K, with a focus on subtle facial expressions and the surreal mind-shield effect.",
+        "Lighting": "Dramatic lighting to create a tense atmosphere.",
+        "Art_Genre": "Historical thriller, with a touch of fantasy."
+      }
+    },
+    "Cultural_Anchors": [
+      "Unsuspicious Appearance ('கடாஅ உரு')",
+      "Fearless Gaze ('கண்ணஞ்சாது')",
+      "Never Revealing Secrets ('உகாஅமை')"
+    ]
+  },
+  "Negative_Prompt": "spy looking scared, suspicious-looking spy, spy revealing secrets, text artifacts, cartoonish guards.",
+  "Hyperparameters": {
+    "variant": "pro",
+    "steps": 50,
+    "cfg_scale": 9,
+    "seed": "Explore variations for the impenetrable mind effect."
+  }
+}

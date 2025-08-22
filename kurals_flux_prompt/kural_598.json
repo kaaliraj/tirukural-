@@ -1,0 +1,39 @@
+{
+  "Kural_Info": {
+    "Number": 598,
+    "Chapter": "ஊக்கமுடைமை (Energy)",
+    "Tamil_Text": "உள்ளம் இலாதவர் எய்தார் உலகத்து வள்ளியம் என்னுஞ் செருக்கு.",
+    "English_Meaning": "Those who have no (greatness of) mind, will not acquire the joy of saying in the world, 'we have excercised liaberality'."
+  },
+  "Flux_Optimized_Prompt": {
+    "Layered_Composition": {
+      "Foreground": "A person without mental energy ('உள்ளம் இல்லாதவர்') is shown with a hollow chest, where a strong heart or will should be. They are surrounded by wealth.",
+      "Midground": "They see a person in need, but they are unable to perform the act of giving. Their hands seem paralyzed, unable to reach for their gold to give it away.",
+      "Background": "Because they cannot perform this act, they can never experience the noble pride and joy ('வள்ளியம் என்னுஞ் செருக்கு') that comes from being a generous benefactor. This joy is depicted as a radiant, golden laurel wreath that remains floating in the air, unattainable by them."
+    },
+    "Art_Direction": {
+      "Subject_and_Action": "Those who lack the greatness of mind (energy) can never achieve the sublime pride that comes from being truly generous.",
+      "Symbolic_Motifs": "The hollow chest represents the lack of will or heart. The paralyzed hands show the inability to be generous. The unattainable laurel wreath is the noble pride of generosity they can never win.",
+      "Mood_and_Emotion": "Incapable, weak-willed, pathetic, a missed opportunity for greatness.",
+      "Lighting_and_Color": "The person is in a dim, shadowed light, despite their wealth. The laurel wreath of pride glows with a brilliant, warm light that they cannot reach.",
+      "Technical_Cues": {
+        "Camera": "A medium shot focusing on the person's internal conflict and paralysis, with the unattainable wreath in the background.",
+        "Resolution": "8K, with a focus on the symbolic hollowness of the figure.",
+        "Lighting": "High-contrast lighting to differentiate the person's state from the prize they cannot claim.",
+        "Art_Genre": "Symbolic realism, psychological portraiture."
+      }
+    },
+    "Cultural_Anchors": [
+      "Those who lack Heart/Will ('உள்ளம் இல்லாதவர்')",
+      "The Noble Pride of Generosity ('வள்ளியம் என்னுஞ் செருக்கு')",
+      "The connection between will-power and beneficence."
+    ]
+  },
+  "Negative_Prompt": "person giving freely, happy expression, text artifacts, cartoonish.",
+  "Hyperparameters": {
+    "variant": "dev",
+    "steps": 40,
+    "cfg_scale": 8,
+    "seed": "Explore variations for the laurel wreath."
+  }
+}

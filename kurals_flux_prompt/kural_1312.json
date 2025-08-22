@@ -1,0 +1,38 @@
+{
+  "Kural_Info": {
+    "Number": 1312,
+    "Chapter": "புலவி நுணுக்கம் (Feigned Anger)",
+    "Tamil_Text": "ஊடி இருந்தேமாத் தும்மினார் யாம்தம்மைநீடுவாழ் கென்பாக் கறிந்து.",
+    "English_Meaning": "When I continued to be sulky he sneezed and thought I would (then) wish him a long life."
+  },
+  "Flux_Optimized_Prompt": {
+    "Layered_Composition": {
+      "Foreground": "A woman is shown in a state of feigned anger, turned away from her lover ('ஊடி இருந்தேம்').",
+      "Midground": "Her lover, looking clever and strategic, deliberately fakes a sneeze ('தும்மினார்').",
+      "Background": "A thought-bubble above the lover's head reveals his cunning plan: he knows ('அறிந்து') that social custom will compel her to break her silence to say the obligatory 'Live long!' ('நீடு வாழ்க'), thus ending her pout. The sneeze is a strategic move in the game of love."
+    },
+    "Art_Direction": {
+      "Subject_and_Action": "The lover recounts her partner's clever trick to break her feigned anger: he sneezed deliberately, knowing that she would be forced by custom to speak and wish him a long life.",
+      "Symbolic_Motifs": "The cunning expression on the man's face and the thought-bubble revealing his strategy are key. The sneeze is not a random event but a calculated chess move. The woman's expression is one of slight exasperation at being so cleverly outmaneuvered.",
+      "Mood_and_Emotion": "Clever, strategic, playful, outmaneuvered.",
+      "Lighting_and_Color": "A warm, intimate, interior light. The scene is playful and lighthearted. The palette is warm and romantic.",
+      "Technical_Cues": {
+        "Camera": "A two-shot that captures her feigned anger, his cunning sneeze, and the thought-bubble that explains the whole delightful trick.",
+        "Resolution": "8K, ultra-realistic, with a focus on the subtle, playful, and strategic expressions.",
+        "Lighting": "Soft, warm, interior lighting.",
+        "Art_Genre": "Romantic comedy."
+      },
+      "Cultural_Anchors": [
+        "He sneezed while I was pouting (ஊடி இருந்தேம் ஆத் தும்மினார்)",
+        "Knowing that I would say 'Live long' (நீடு வாழ்க என்று என்பாக்கு அறிந்து)"
+      ]
+    },
+    "Negative_Prompt": "real anger, real sneeze, woman not responding, text artifacts.",
+    "Hyperparameters": {
+      "variant": "dev",
+      "steps": 40,
+      "cfg_scale": 7,
+      "seed": "Explore the lover's cunning expression."
+    }
+  }
+}

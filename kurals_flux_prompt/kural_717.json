@@ -1,0 +1,38 @@
+{
+  "Kural_Info": {
+    "Number": 717,
+    "Chapter": "அவையறிதல் (The Knowledge of the Council Chamber)",
+    "Tamil_Text": "கற்றறிந்தார் கல்வி விளங்கும் கசடறச்சொல்தெரிதல் வல்லார் அகத்து.",
+    "English_Meaning": "The learning of those who have read and understood (much) will shine in the assembly of those who faultlessly examine (the nature of) words."
+  },
+  "Flux_Optimized_Prompt": {
+    "Layered_Composition": {
+      "Foreground": "A learned scholar ('கற்றறிந்தார்') is speaking. Their knowledge ('கல்வி') is visualized as a lamp they are holding.",
+      "Midground": "In a dark or dimly lit room, the lamp appears to give off only a modest light. Then, they enter an assembly of true experts, those who can flawlessly analyze words ('கசடறச் சொல் தெரிதல் வல்லார்').",
+      "Background": "The moment they are in the presence of these experts, the experts' keen attention acts like a series of mirrors. These mirrors catch the light from the scholar's lamp and reflect it, amplifying it a thousand times until the entire hall is brilliantly illuminated ('விளங்கும்')."
+    },
+    "Art_Direction": {
+      "Subject_and_Action": "True learning only reveals its full brilliance and shines forth when it is presented to an audience of experts who have the skill to appreciate and analyze it perfectly.",
+      "Symbolic_Motifs": "The audience of experts as amplifying mirrors is the key metaphor. The learning (the lamp) has inherent light, but its true potential to illuminate is only realized in the right environment.",
+      "Mood_and_Emotion": "Brilliant, appreciative, resonant, illuminating.",
+      "Lighting_and_Color": "The scene transitions from a dim light to a brilliant, dazzling display of reflected and amplified light. The palette is one of intellectual brilliance—bright whites, golds, and crystalline reflections.",
+      "Technical_Cues": {
+        "Camera": "A shot that follows the scholar as they enter the assembly, capturing the dramatic transformation of their light from a simple flame to a dazzling beacon.",
+        "Resolution": "8K, ultra-realistic, with advanced ray-tracing and reflection effects for the 'mirrors of the experts'.",
+        "Lighting": "A dramatic increase in ambient and key lighting, triggered by the interaction between the speaker and the expert audience.",
+        "Art_Genre": "Conceptual art, with advanced lighting effects."
+      },
+      "Cultural_Anchors": [
+        "Learning will shine (கல்வி விளங்கும்)",
+        "In the presence of those skilled in analyzing words (சொல் தெரிதல் வல்லார் அகத்து)"
+      ]
+    },
+    "Negative_Prompt": "dim light in the expert assembly, experts ignoring the speaker, text artifacts.",
+    "Hyperparameters": {
+      "variant": "pro",
+      "steps": 55,
+      "cfg_scale": 8,
+      "seed": "Explore the visual of the 'amplifying mirrors'."
+    }
+  }
+}

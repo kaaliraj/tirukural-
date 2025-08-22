@@ -1,0 +1,39 @@
+{
+  "Kural_Info": {
+    "Number": 937,
+    "Chapter": "சூது (Gambling)",
+    "Tamil_Text": "பழகிய செல்வமும் பண்பும் கெடுக்கும் கழகத்துக் காலை புகின்.",
+    "English_Meaning": "To waste time at the place of gambling will destroy inherited wealth and goodness of character."
+  },
+  "Flux_Optimized_Prompt": {
+    "Layered_Composition": {
+      "Foreground": "A person is shown entering the dark, smoky doorway of a gambling den ('கழகத்துக் காலை புகின்') at the start of the day.",
+      "Midground": "As they enter, two of their most precious possessions are shown being stripped from them. Their ancestral wealth ('பழகிய செல்வம்'), visualized as a cloak of golden coins, is torn from their shoulders and dissolves into dust. Their good character ('பண்பு'), visualized as a pure white lotus in their heart, withers and turns black.",
+      "Background": "The interior of the gambling den is a place of ruin and moral decay, which is the cause of this twofold destruction."
+    },
+    "Art_Direction": {
+      "Subject_and_Action": "Entering a gambling den will destroy both one's ancestral wealth and one's good character.",
+      "Symbolic_Motifs": "The golden cloak dissolving into dust is the loss of wealth. The white lotus turning black is the corruption of character. The doorway is the portal to this destruction.",
+      "Mood_and_Emotion": "Destructive, corrupting, a loss of inheritance and virtue.",
+      "Lighting_and_Color": "The outside world is bright. The doorway to the gambling den is a portal of darkness. The symbolic cloak and lotus undergo a dramatic, tragic transformation.",
+      "Technical_Cues": {
+        "Camera": "A shot from behind the person, showing them entering the dark doorway and the immediate, destructive consequences.",
+        "Resolution": "8K, with high-quality particle and transformation effects.",
+        "Lighting": "A strong contrast between the light outside and the darkness within.",
+        "Art_Genre": "Symbolic realism, with a dark, cautionary tone."
+      },
+      "Cultural_Anchors": [
+        "Entering the gambling den ('கழகத்துப் புகின்')",
+        "Destroys ancestral wealth ('பழகிய செல்வம் கெடுக்கும்')",
+        "Destroys character ('பண்பும் கெடுக்கும்')"
+      ]
+    },
+    "Negative_Prompt": "person becoming rich in the den, a white lotus blooming, text artifacts.",
+    "Hyperparameters": {
+      "variant": "dev",
+      "steps": 45,
+      "cfg_scale": 8,
+      "seed": "Explore variations for the withering lotus."
+    }
+  }
+}

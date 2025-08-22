@@ -1,0 +1,38 @@
+{
+  "Kural_Info": {
+    "Number": 1110,
+    "Chapter": "புணர்ச்சிமகிழ்தல் (Rejoicing in the Embrace)",
+    "Tamil_Text": "அறிதோறு அறியாமை கண்டற்றால் காமம்செறிதோறும் சேயிழை மாட்டு.",
+    "English_Meaning": "As (one's) ignorance is discovered the more one learns, so does repeated intercourse with a well-adorned female (only create a desire for more)."
+  },
+  "Flux_Optimized_Prompt": {
+    "Layered_Composition": {
+      "Foreground": "A split composition illustrating a profound simile.",
+      "Midground": "On the left, a great scholar is studying a vast, cosmic library. The more they learn ('அறிதோறு'), the more they become aware of the infinite ocean of knowledge that they still do not possess. Their own ignorance ('அறியாமை') appears vaster than ever before.",
+      "Background": "On the right, a lover is in the company of his beautifully-adorned beloved ('சேயிழை மாட்டு'). The more he experiences her love and beauty ('செறிதோறும்'), the more he realizes the infinite depths of her charm that he has yet to explore. His desire ('காமம்') for her grows, rather than being sated."
+    },
+    "Art_Direction": {
+      "Subject_and_Action": "The experience of love is like the pursuit of knowledge: the more one experiences it, the more one realizes how much more there is to experience, leading to an ever-increasing desire rather than satisfaction.",
+      "Symbolic_Motifs": "The parallel between the infinite library of knowledge and the infinite depths of the beloved's charm is the key. In both cases, exploration does not lead to an end, but to the revelation of a greater vastness.",
+      "Mood_and_Emotion": "Infinite, ever-deepening, insatiable, profound.",
+      "Lighting_and_Color": "Both scenes are lit with a light of wonder and awe. The library of knowledge is a vast, cosmic space. The aura around the beloved is equally vast and mysterious, a universe of charm to be explored.",
+      "Technical_Cues": {
+        "Camera": "A diptych shot that visually equates the scholar's quest for knowledge with the lover's exploration of his beloved.",
+        "Resolution": "8K, hyper-realistic, with epic, cosmic visuals for both the library and the beloved's aura.",
+        "Lighting": "A sense of infinite depth and mystery in both scenes.",
+        "Art_Genre": "Cosmic art, symbolic realism."
+      },
+      "Cultural_Anchors": [
+        "The more one knows, the more one sees one's ignorance (அறிதோறும் அறியாமை கண்டற்றால்)",
+        "So it is with love, the closer one gets (காமம் செறிதோறும்)"
+      ]
+    },
+    "Negative_Prompt": "bored scholar, satisfied lover, text artifacts.",
+    "Hyperparameters": {
+      "variant": "pro",
+      "steps": 60,
+      "cfg_scale": 9,
+      "seed": "Explore the visual of the 'infinite library' and the 'infinite aura of charm'."
+    }
+  }
+}

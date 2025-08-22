@@ -1,0 +1,39 @@
+{
+  "Kural_Info": {
+    "Number": 877,
+    "Chapter": "பகைத்திறந்தெரிதல் (Knowing the Quality of Hate)",
+    "Tamil_Text": "நோவற்க நொந்தது அறியார்க்கு மேவற்க மென்மை பகைவர் அகத்து.",
+    "English_Meaning": "Relate not your suffering even to friends who are ignorant of it, nor refer to your weakness in the presence of your foes."
+  },
+  "Flux_Optimized_Prompt": {
+    "Layered_Composition": {
+      "Foreground": "A split composition illustrating two rules of discretion.",
+      "Midground": "On the left, a person is in pain, but they are not complaining to their friend, because the friend is depicted with their ears closed, unable to understand the suffering ('நொந்தது அறியார்'). The person wisely keeps their sorrow to themselves ('நோவற்க'). On the right, the same person is in the presence of their enemy. They are hiding a weakness, such as a wound, under their cloak, refusing to reveal it ('மேவற்க மென்மை').",
+      "Background": "In both cases, the person is practicing strategic silence, protecting themselves from the futility of complaining to the uncomprehending and the danger of revealing weakness to the hostile."
+    },
+    "Art_Direction": {
+      "Subject_and_Action": "Do not complain of your troubles to those who cannot understand them, and do not reveal your weaknesses to your enemies.",
+      "Symbolic_Motifs": "The friend with closed ears represents the futility of complaining. The act of hiding the wound from the enemy represents prudent concealment of weakness.",
+      "Mood_and_Emotion": "Discreet, prudent, self-reliant, strategic silence.",
+      "Lighting_and_Color": "A somber, intimate light for the scene with the friend. A tense, high-contrast light for the scene with the enemy.",
+      "Technical_Cues": {
+        "Camera": "A diptych that clearly contrasts the two different situations and the single, wise principle of discretion.",
+        "Resolution": "8K, with a focus on the body language of concealment and restraint.",
+        "Lighting": "Contrasting lighting to match the two moods.",
+        "Art_Genre": "Psychological realism."
+      },
+      "Cultural_Anchors": [
+        "Do not complain to the uncomprehending ('நோவற்க நொந்தது அறியார்க்கு')",
+        "Do not reveal weakness to an enemy ('மேவற்க மென்மை பகைவர் அகத்து')",
+        "The wisdom of strategic silence."
+      ]
+    },
+    "Negative_Prompt": "person complaining to the friend, person showing their wound to the enemy, text artifacts.",
+    "Hyperparameters": {
+      "variant": "pro",
+      "steps": 50,
+      "cfg_scale": 8,
+      "seed": "Explore variations for the 'closed ears' of the friend."
+    }
+  }
+}

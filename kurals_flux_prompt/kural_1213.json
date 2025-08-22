@@ -1,0 +1,33 @@
+{
+  "Kural_Info": {
+    "Number": 1213,
+    "Chapter": "கனவுநிலையுரைத்தல் (The Visions of the Night)",
+    "Tamil_Text": "நனவினால் நல்கா தவரைக் கனவினால்காண்டலின் உண்டென் உயிர்.",
+    "English_Meaning": "Him, who in waking hour no kindness shows, In dreams I see; and so my lifetime goes!."
+  },
+  "Flux_Optimized_Prompt": {
+    "Layered_Composition": {
+      "Foreground": "A woman is shown in her waking life ('Nanavinaal'). Her world is gray, desolate, and her lover is absent or ignoring her ('Nalkaa Thavarai'). Her life force is a dim, flickering candle.",
+      "Midground": "At night, in her dream ('Kanavinaal'), she sees him vividly. The dream world is colorful and joyful. Each time she sees him in a dream, the candle of her life force is shown being replenished, its flame growing stronger.",
+      "Background": "A timeline effect shows this cycle repeating: the life force gained in the dream is what allows her to survive the sorrow of the next waking day."
+    },
+    "Art_Direction": {
+      "Subject_and_Action": "My life is sustained only because I can see in my dreams the lover who is absent and unkind to me in my waking hours.",
+      "Symbolic_Motifs": "The life force as a candle that is extinguished by day and rekindled by night's dream is the central metaphor.",
+      "Mood_and_Emotion": "Bittersweet survival, sustained by dreams, a cycle of sorrow and solace.",
+      "Lighting_and_Color": "A stark contrast between the colorless, gray waking world and the vibrant, richly colored dream world."
+    },
+    "Technical_Cues": {
+      "Camera": "A narrative shot that shows the cycle—the dream replenishing the life that the waking day drains.",
+      "Resolution": "8K, surreal realism, with clear visual distinction between the two states.",
+      "Lighting": "Contrasting lighting: bleak and flat for the day, magical and warm for the dream.",
+      "Art_Genre": "Symbolic narrative art, telling a story of emotional survival."
+    },
+    "Cultural_Anchors": [
+      "நனவு (Waking state)",
+      "கனவு (Dream state)",
+      "Dreams as a source of life-force"
+    ]
+  },
+  "Negative_Prompt": "a happy waking life, nightmares, modern technology, text artifacts, cartoonish."
+}

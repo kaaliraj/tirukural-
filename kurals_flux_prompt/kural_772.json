@@ -1,0 +1,39 @@
+{
+  "Kural_Info": {
+    "Number": 772,
+    "Chapter": "படைச்செருக்கு (Military Spirit)",
+    "Tamil_Text": "கான முயலெய்த அம்பினில் யானை பிழைத்தவேல் ஏந்தல் இனிது.",
+    "English_Meaning": "It is more pleasant to hold the dart that has missed an elephant than that which has hit hare in the forest."
+  },
+  "Flux_Optimized_Prompt": {
+    "Layered_Composition": {
+      "Foreground": "A split composition showing two hunters. The hunter on the right has successfully shot and killed a small rabbit ('முயல் எய்த அம்பினில்'). Their achievement is minor.",
+      "Midground": "The hunter on the left has aimed at a colossal, magnificent elephant ('யானை'). Their powerful spear has missed its mark ('பிழைத்த வேல்').",
+      "Background": "Despite the 'failure', the hunter who aimed at the elephant is depicted as being far more noble, proud, and glorious ('இனிது'). Their act of aiming high, even in failure, is shown to be superior to the petty success of the other hunter."
+    },
+    "Art_Direction": {
+      "Subject_and_Action": "It is more glorious to have failed in a great endeavor (hunting an elephant) than to have succeeded in a trivial one (hunting a rabbit).",
+      "Symbolic_Motifs": "The massive scale and majesty of the elephant versus the small, common rabbit is the key visual contrast that establishes the difference in the nobility of the two goals.",
+      "Mood_and_Emotion": "Noble, ambitious, valuing high aims over petty success.",
+      "Lighting_and_Color": "The hunter who aimed at the elephant is bathed in a heroic, golden light, despite their 'failure'. The successful rabbit hunter is in a plain, mundane, neutral light.",
+      "Technical_Cues": {
+        "Camera": "A composition that places the two hunters side-by-side, forcing the viewer to compare the glory of their respective actions.",
+        "Resolution": "8K, with a majestic, powerful elephant.",
+        "Lighting": "Symbolic lighting that equates glory with the ambition of the attempt, not the success of the outcome.",
+        "Art_Genre": "Historical realism, with a strong philosophical message."
+      },
+      "Cultural_Anchors": [
+        "Aiming at an Elephant vs. a Rabbit",
+        "The glory of noble failure",
+        "The importance of high ambition."
+      ]
+    },
+    "Negative_Prompt": "sad elephant hunter, glorious rabbit hunter, text artifacts, cartoonish animals.",
+    "Hyperparameters": {
+      "variant": "pro",
+      "steps": 50,
+      "cfg_scale": 8,
+      "seed": "Explore variations for the elephant's design."
+    }
+  }
+}

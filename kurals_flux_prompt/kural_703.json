@@ -1,0 +1,39 @@
+{
+  "Kural_Info": {
+    "Number": 703,
+    "Chapter": "குறிப்பறிதல் (The Knowledge of Indications)",
+    "Tamil_Text": "குறிப்பிற் குறிப்புணர் வாரை உறுப்பினுள் யாது கொடுத்தும் கொளல்.",
+    "English_Meaning": "The king should ever give whatever (is asked) of his belongings and secure him who, by the indications (of his own mind) is able to read those of another."
+  },
+  "Flux_Optimized_Prompt": {
+    "Layered_Composition": {
+      "Foreground": "A person is shown with a subtle expression or a slight gesture—a minor sign ('குறிப்பு').",
+      "Midground": "A second person, a master of perception, sees this small sign and instantly understands the deep, hidden meaning behind it. This act of deep comprehension ('குறிப்புணர்') is visualized as them seeing a complex, hidden world of thought behind the first person's simple expression.",
+      "Background": "A king is observing this master of perception. So great is this skill that the king is shown willing to give anything, even one of his own limbs ('உறுப்பினுள் யாது கொடுத்தும்'), to secure this person as a member of his council."
+    },
+    "Art_Direction": {
+      "Subject_and_Action": "A person who can understand the hidden meaning behind a subtle sign is so valuable that a king should be willing to give up anything to acquire their services.",
+      "Symbolic_Motifs": "The 'hidden world of thought' behind the simple expression visualizes the master's deep perception. The king offering one of his own limbs is a powerful, literal interpretation of 'giving anything' to hire them.",
+      "Mood_and_Emotion": "Invaluable, perceptive, profound, desirable skill.",
+      "Lighting_and_Color": "The scene is lit with a clear, intelligent light. The 'hidden world of thought' can be a beautiful, complex, and colorful nebula of ideas.",
+      "Technical_Cues": {
+        "Camera": "A shot that focuses on the master of perception, with a surreal effect showing what they see.",
+        "Resolution": "8K, with a focus on contrasting the simple external sign with the complex internal meaning.",
+        "Lighting": "Dramatic lighting to emphasize the value of the perceptive individual.",
+        "Art_Genre": "Surrealism, symbolic realism."
+      }
+    },
+    "Cultural_Anchors": [
+      "Understanding the meaning within a sign ('குறிப்பிற் குறிப்புணர்')",
+      "Acquiring them at any cost ('யாது கொடுத்தும் கொளல்')",
+      "The immense value of perceptive advisors."
+    ]
+  },
+  "Negative_Prompt": "person misinterpreting the sign, king ignoring the person, text artifacts, cartoonish.",
+  "Hyperparameters": {
+    "variant": "pro",
+    "steps": 50,
+    "cfg_scale": 9,
+    "seed": "Explore variations for the 'hidden world of thought'."
+  }
+}

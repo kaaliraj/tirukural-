@@ -1,0 +1,39 @@
+{
+  "Kural_Info": {
+    "Number": 1080,
+    "Chapter": "கயமை (Baseness)",
+    "Tamil_Text": "எற்றிற் குரியர் கயவரொன்று உற்றக்கால்விற்றற்கு உரியர் விரைந்து.",
+    "English_Meaning": "The base will hasten to sell themselves as soon as a calamity has befallen them. For what else are they fitted?."
+  },
+  "Flux_Optimized_Prompt": {
+    "Layered_Composition": {
+      "Foreground": "A base person ('கயவர்') is shown at the very moment a calamity strikes them ('ஒன்று உற்றக்கால்'). A storm cloud of misfortune appears above them.",
+      "Midground": "Instantly, without any hesitation or thought of resistance ('விரைந்து'), the base person puts a price tag on themselves and puts themselves up for sale ('விற்றற்கு உரியர்'). They are immediately ready to sell their loyalty, principles, and self-respect to the highest bidder to escape the trouble.",
+      "Background": "The scene visually asks the rhetorical question, 'For what else are they fit?' ('எற்றிற்கு உரியர்'). Their immediate readiness to sell themselves is presented as their one defining, instinctual talent."
+    },
+    "Art_Direction": {
+      "Subject_and_Action": "The one thing the base are truly fit for is to quickly sell themselves out at the first sign of trouble.",
+      "Symbolic_Motifs": "The price tag appearing on the person is a stark, satirical metaphor for their lack of integrity. Their speed ('விரைந்து') in doing so shows that this is their primary, ingrained response to adversity.",
+      "Mood_and_Emotion": "Mercenary, cowardly, without integrity, pathetic.",
+      "Lighting_and_Color": "A dramatic, stormy light illuminates the scene of calamity. The base person is lit with the cheap, transactional light of a slave auction. The palette is cynical and dark.",
+      "Technical_Cues": {
+        "Camera": "A stark, sudden shot that captures the calamity and the person's immediate, shameless reaction to it.",
+        "Resolution": "8K, ultra-realistic, with a focus on the pathetic and mercenary expression on the person's face.",
+        "Lighting": "Harsh, dramatic lighting.",
+        "Art_Genre": "Dark satire, social commentary."
+      },
+      "Cultural_Anchors": [
+        "When a calamity strikes (ஒன்று உற்றக்கால்)",
+        "They are fit for selling (விற்றற்கு உரியர்)",
+        "The base (கயவர்)"
+      ]
+    },
+    "Negative_Prompt": "person fighting back, person showing dignity, text artifacts.",
+    "Hyperparameters": {
+      "variant": "dev",
+      "steps": 40,
+      "cfg_scale": 9,
+      "seed": "Explore the visual of the 'price tag' appearing."
+    }
+  }
+}

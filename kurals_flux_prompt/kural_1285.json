@@ -1,0 +1,38 @@
+{
+  "Kural_Info": {
+    "Number": 1285,
+    "Chapter": "புணர்ச்சிவிதும்பல் (Desire for Reunion)",
+    "Tamil_Text": "எழுதுங்கால் கோல்காணாக் கண்ணேபோல் கொண்கன்பழிகாணேன் கண்ட இடத்து.",
+    "English_Meaning": "Like the eyes which see not the pencil that paints it, I cannot see my husband's fault (just) when I meet him."
+  },
+  "Flux_Optimized_Prompt": {
+    "Layered_Composition": {
+      "Foreground": "A split composition.",
+      "Midground": "On the left, an extreme close-up of an eye being lined with kohl. The eye can see everything else, but it cannot see the very kohl pencil that is touching it ('எழுதுங்கால் கோல் காணாக் கண்ணே போல்').",
+      "Background": "On the right, a woman is looking at her husband ('கொண்கன்'). He has faults, which are visualized as small, dark smudges on his form. However, because she is so close to him and so filled with love, her eyes are completely blind to these faults. She sees only him, perfectly ('பழி காணேன் கண்ட இடத்து')."
+    },
+    "Art_Direction": {
+      "Subject_and_Action": "A beautiful simile for the blindness of love: just as the eye cannot see the kohl pencil that is right against it, a lover cannot see the faults of their beloved when they are in their presence.",
+      "Symbolic_Motifs": "The parallel blindness is the key. The kohl pencil is too close to be focused on. The lover's faults are rendered invisible by the overwhelming emotional proximity. The smudges of fault are visible to the viewer, but clearly not to her.",
+      "Mood_and_Emotion": "Love is blind, adoring, forgiving, intimate.",
+      "Lighting_and_Color": "A soft, intimate, and warm light illuminates both scenes. The focus is on the act of seeing and not seeing. The palette is gentle and romantic.",
+      "Technical_Cues": {
+        "Camera": "A diptych of two extreme close-up shots: one on the eye and the kohl pencil, the other on the woman's adoring, 'blind' eyes as she looks at her husband.",
+        "Resolution": "8K, hyper-realistic, capturing the fine details of the eye and the subtle emotion of adoration.",
+        "Lighting": "Soft, intimate lighting.",
+        "Art_Genre": "Symbolic realism, intimate portraiture."
+      },
+      "Cultural_Anchors": [
+        "Like the eye that sees not the kohl-pencil while it paints (எழுதுங்கால் கோல் காணாக் கண்ணே போல்)",
+        "I do not see my husband's faults when I see him (கொண்கன் பழி காணேன் கண்ட இடத்து)"
+      ]
+    },
+    "Negative_Prompt": "woman seeing faults, eye seeing the pencil, text artifacts.",
+    "Hyperparameters": {
+      "variant": "pro",
+      "steps": 50,
+      "cfg_scale": 7,
+      "seed": "Explore the visual of the 'smudges of fault' that she cannot see."
+    }
+  }
+}

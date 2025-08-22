@@ -1,0 +1,38 @@
+{
+  "Kural_Info": {
+    "Number": 193,
+    "Chapter": "பயனில சொல்லாமை (Against Vain Speaking)",
+    "Tamil_Text": "நயனிலன் என்பது சொல்லும் பயனிலபாரித் துரைக்கும் உரை.",
+    "English_Meaning": "That conversation in which a man utters forth useless things will say of him \"he is without virtue\"."
+  },
+  "Flux_Optimized_Prompt": {
+    "Layered_Composition": {
+      "Foreground": "A person is speaking at great length, elaborating on a useless and trivial topic ('பயனில பாரித்து உரைக்கும்').",
+      "Midground": "The words themselves are personified. As they leave the speaker's mouth, they do not talk about the trivial subject matter. Instead, they turn back and point at the speaker.",
+      "Background": "The personified words are shown to be speaking a single, clear judgment about their own creator. The judgment, which materializes in the air, is: 'This man is without virtue or goodness' ('நயன் இலன் என்பது'). The man's own speech testifies against his character."
+    },
+    "Art_Direction": {
+      "Subject_and_Action": "A person's long-winded and elaborate speech on a useless topic is itself a direct proclamation that the speaker lacks virtue.",
+      "Symbolic_Motifs": "The personification of the words as witnesses against their own speaker is the central, surreal concept. The speech becomes a self-indictment. The length and elaboration of the speech ('பாரித்து') make the indictment even stronger.",
+      "Mood_and_Emotion": "Self-incriminating, ironic, revealing, foolish.",
+      "Lighting_and_Color": "A neutral, observational light. The surreal event of the words turning back to testify is the main focus. The visualized words of judgment might have a cold, judgmental glow.",
+      "Technical_Cues": {
+        "Camera": "A shot that follows the words from the speaker's mouth and then shows them turning around to point back and deliver their verdict.",
+        "Resolution": "8K, ultra-realistic, with advanced effects for the personified, speaking words.",
+        "Lighting": "The speech itself should be lit in a way that reveals its empty character.",
+        "Art_Genre": "Surrealism, conceptual art."
+      },
+      "Cultural_Anchors": [
+        "Speech that elaborates on useless things (பயனில பாரித்து உரைக்கும் உரை)",
+        "Will say, 'He is without virtue' (நயன் இலன் என்பது சொல்லும்)"
+      ]
+    },
+    "Negative_Prompt": "words praising the speaker, text artifacts.",
+    "Hyperparameters": {
+      "variant": "dev",
+      "steps": 45,
+      "cfg_scale": 8,
+      "seed": "Explore the visual of 'words as witnesses'."
+    }
+  }
+}

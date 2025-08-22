@@ -1,0 +1,39 @@
+{
+  "Kural_Info": {
+    "Number": 884,
+    "Chapter": "உட்பகை (Enmity within)",
+    "Tamil_Text": "மனமாணா உட்பகை தோன்றின் இனமாணா ஏதம் பலவும் தரும்.",
+    "English_Meaning": "If secret enmity of a person whose mind in unreformed will lead to many evils causing disaffection among (one's) relations."
+  },
+  "Flux_Optimized_Prompt": {
+    "Layered_Composition": {
+      "Foreground": "A single person is shown with a dark, unreformed mind, nurturing a secret hatred ('மனமாணா உட்பகை'). This is visualized as a dark, thorny plant growing within their chest.",
+      "Midground": "The thorns from this one person's inner plant are shown spreading outwards like a disease, infecting their entire family or group ('இனம்').",
+      "Background": "These thorns cause discord and strife among the family members, who are now shown arguing and turning away from each other. This creates many new and unforeseen evils and sorrows ('மாணா ஏதம் பலவும்') for the entire group, all stemming from one person's inner hatred."
+    },
+    "Art_Direction": {
+      "Subject_and_Action": "If internal enmity arises in even one person of a group, it will spread and cause many unforeseen evils and disunity among the whole group.",
+      "Symbolic_Motifs": "The thorny plant of hatred growing in one person and then spreading to infect the whole family is the central metaphor. It shows how a single person's inner state can corrupt a collective.",
+      "Mood_and_Emotion": "Infectious, corrupting, divisive, tragic.",
+      "Lighting_and_Color": "A sickly, dark light emanates from the person with the internal enmity. The thorny vines are a venomous, dark purple or black, which spreads and chokes the warmth and light of the family.",
+      "Technical_Cues": {
+        "Camera": "A shot that starts on the single person's dark heart and then pulls out to show the devastating effect on their entire family.",
+        "Resolution": "8K, with a dark, corrupting visual effect for the spreading thorns.",
+        "Lighting": "The primary light source is the sickly glow from the inner hatred.",
+        "Art_Genre": "Dark fantasy, with a psychological theme."
+      },
+      "Cultural_Anchors": [
+        "Internal enmity in one person ('மனமாணா உட்பகை')",
+        "Causing many evils for the group ('இனமாணா ஏதம் பலவும்')",
+        "The social consequences of individual hatred."
+      ]
+    },
+    "Negative_Prompt": "a person with a loving heart, a happy family, text artifacts, cartoonish.",
+    "Hyperparameters": {
+      "variant": "dev",
+      "steps": 45,
+      "cfg_scale": 9,
+      "seed": "Explore variations for the spreading thorny plant."
+    }
+  }
+}

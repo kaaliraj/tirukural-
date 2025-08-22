@@ -1,0 +1,39 @@
+{
+  "Kural_Info": {
+    "Number": 798,
+    "Chapter": "நட்பாராய்தல் (Investigation in forming Friendships)",
+    "Tamil_Text": "உள்ளற்க உள்ளம் சிறுகுவ கொள்ளற்க அல்லற்கண் ஆற்றறுப்பார் நட்பு.",
+    "English_Meaning": "Do not think of things that discourage your mind, nor contract friendship with those who would forsake you in adversity."
+  },
+  "Flux_Optimized_Prompt": {
+    "Layered_Composition": {
+      "Foreground": "A person is shown guarding the gateway to their mind. They are actively stopping dark, thorny, shrinking thoughts ('உள்ளம் சிறுகுவ') from entering.",
+      "Midground": "At the same time, they are shown refusing to shake hands with or accept a fair-weather friend. This friend is depicted as a person who is solid and present in a sunny landscape, but becomes a disappearing, ghostly figure in a stormy landscape representing adversity ('அல்லற்கண் ஆற்றறுப்பார்').",
+      "Background": "A strong, healthy, and expansive mind-scape, protected by these two acts of refusal."
+    },
+    "Art_Direction": {
+      "Subject_and_Action": "A twofold instruction for mental health: do not entertain thoughts that diminish your spirit, and do not accept the friendship of those who will abandon you in trouble.",
+      "Symbolic_Motifs": "The guardian at the gate of the mind is a metaphor for mental discipline. The disappearing friend who cannot stand the storm is a clear visual for a false friend.",
+      "Mood_and_Emotion": "Self-protective, discerning, disciplined, strong-willed.",
+      "Lighting_and_Color": "The guarded mind-scape is bright and positive. The diminishing thoughts are dark and thorny. The false friend's scene transitions from bright and sunny to dark and stormy.",
+      "Technical_Cues": {
+        "Camera": "A split composition showing the two acts of refusal—one internal (against thoughts) and one external (against false friends).",
+        "Resolution": "8K, with surreal effects for the thoughts and the disappearing friend.",
+        "Lighting": "Symbolic lighting to differentiate between the good and bad elements.",
+        "Art_Genre": "Symbolic surrealism."
+      }
+    },
+    "Cultural_Anchors": [
+      "Do not think diminishing thoughts ('உள்ளற்க உள்ளம் சிறுகுவ')",
+      "Do not accept friends who abandon you in sorrow ('கொள்ளற்க அல்லற்கண் ஆற்றறுப்பார் நட்பு')",
+      "Principles of mental and social self-preservation."
+    ]
+  },
+  "Negative_Prompt": "person accepting dark thoughts, person embracing the false friend, text artifacts.",
+  "Hyperparameters": {
+    "variant": "pro",
+    "steps": 50,
+    "cfg_scale": 8,
+    "seed": "Explore variations for the disappearing friend effect."
+  }
+}

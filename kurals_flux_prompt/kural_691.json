@@ -1,0 +1,39 @@
+{
+  "Kural_Info": {
+    "Number": 691,
+    "Chapter": "மன்னரைச் சேர்ந்தொழுதல் (Conduct in the Presence of the King)",
+    "Tamil_Text": "அகலாது அணுகாது தீக்காய்வார் போல்க இகல்வேந்தர்ச் சேர்ந்தொழுகு வார்.",
+    "English_Meaning": "Ministers who serve under fickle-minded monarchs should, like those who warm themselves at the fire, be neither (too) far, nor (too) near."
+  },
+  "Flux_Optimized_Prompt": {
+    "Layered_Composition": {
+      "Foreground": "A wise courtier is shown interacting with a powerful, intimidating king who is represented as a blazing bonfire.",
+      "Midground": "The courtier is skillfully maintaining a perfect distance from the fire-king. They are not too far away to feel no warmth (being irrelevant - 'அகலாது'), but not so close that they get burned (incurring wrath - 'அணுகாது').",
+      "Background": "Other, less skillful courtiers are shown either shivering in the cold distance or being singed by the flames, demonstrating the difficulty and importance of the wise courtier's balanced position."
+    },
+    "Art_Direction": {
+      "Subject_and_Action": "Those who serve a powerful king must act like someone warming themselves at a fire: maintaining a perfect distance to get the benefit without being harmed.",
+      "Symbolic_Motifs": "The king as a powerful, dangerous fire is the central metaphor. The courtier's careful positioning represents the delicate balance required in the relationship.",
+      "Mood_and_Emotion": "Prudent, cautious, skillful, balanced, dangerous.",
+      "Lighting_and_Color": "The fire-king is the primary light source, casting a powerful, flickering, and dangerous orange glow. The wise courtier is perfectly illuminated, while the failed courtiers are either in shadow or being burned.",
+      "Technical_Cues": {
+        "Camera": "A wide shot that shows the relationship and distances between the fire-king and the various courtiers.",
+        "Resolution": "8K, with realistic and intimidating fire effects.",
+        "Lighting": "Dramatic, high-contrast lighting from the fire.",
+        "Art_Genre": "Fantasy realism, with a strong symbolic core."
+      }
+    },
+    "Cultural_Anchors": [
+      "Like one warming at a fire ('தீக்காய்வார் போல்க')",
+      "Neither too far ('அகலாது') nor too near ('அணுகாது')",
+      "The art of serving a powerful ruler."
+    ]
+  },
+  "Negative_Prompt": "courtier touching the fire, courtier far away in the dark, text artifacts, cartoonish fire.",
+  "Hyperparameters": {
+    "variant": "pro",
+    "steps": 50,
+    "cfg_scale": 8,
+    "seed": "Explore variations for the fire-king's appearance."
+  }
+}

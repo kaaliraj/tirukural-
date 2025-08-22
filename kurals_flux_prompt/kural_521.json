@@ -1,0 +1,39 @@
+{
+  "Kural_Info": {
+    "Number": 521,
+    "Chapter": "சுற்றந்தழால் (Cherishing Kinsmen)",
+    "Tamil_Text": "பற்றற்ற கண்ணும் பழைமைபா ராட்டுதல் சுற்றத்தார் கண்ணே உள.",
+    "English_Meaning": "Even when (a man's) property is all gone, relatives will act towards him with their accustomed (kindness)."
+  },
+  "Flux_Optimized_Prompt": {
+    "Layered_Composition": {
+      "Foreground": "A man who has lost all his wealth ('பற்றற்ற கண்ணும்') is shown sitting alone amidst the ruins of his former prosperity. His fine clothes are now rags.",
+      "Midground": "Despite his ruin, his true kinsmen ('சுற்றத்தார்') are approaching him not with scorn, but with warmth and compassion. They are bringing him food and offering a comforting hand, remembering their old relationship ('பழைமை பாராட்டுதல்').",
+      "Background": "Fair-weather friends are shown walking away in the distance, emphasizing that only true kin remain in times of adversity."
+    },
+    "Art_Direction": {
+      "Subject_and_Action": "The unique quality of true kinsmen is that they continue to show affection and honor the old relationship, even when one has lost everything.",
+      "Symbolic_Motifs": "The contrast between the departing false friends and the approaching true family is key. The warm expressions of the family members show their unwavering affection.",
+      "Mood_and_Emotion": "Supportive, compassionate, loyal, enduring, heartwarming.",
+      "Lighting_and_Color": "The ruined man is in a somber, grey light. A warm, golden light surrounds the approaching family, symbolizing the hope and comfort they bring.",
+      "Technical_Cues": {
+        "Camera": "A medium shot focusing on the emotional reunion between the ruined man and his loyal family.",
+        "Resolution": "8K, with a strong focus on heartfelt facial expressions.",
+        "Lighting": "Symbolic lighting that contrasts despair with hope.",
+        "Art_Genre": "Narrative realism, with a sentimental and emotional tone."
+      }
+    },
+    "Cultural_Anchors": [
+      "Cherishing old ties ('பழைமை பாராட்டுதல்')",
+      "Loyalty of Kinsmen ('சுற்றத்தார்')",
+      "Support in times of ruin ('பற்றற்ற கண்ணும்')"
+    ]
+  },
+  "Negative_Prompt": "family abandoning the man, ruined man being happy, text artifacts, blurry.",
+  "Hyperparameters": {
+    "variant": "pro",
+    "steps": 45,
+    "cfg_scale": 7,
+    "seed": "Explore variations for the expressions of the family members."
+  }
+}

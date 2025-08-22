@@ -1,0 +1,39 @@
+{
+  "Kural_Info": {
+    "Number": 697,
+    "Chapter": "மன்னரைச் சேர்ந்தொழுதல் (Conduct in the Presence of the King)",
+    "Tamil_Text": "வேட்பன சொல்லி வினையில எஞ்ஞான்றும் கேட்பினும் சொல்லா விடல்.",
+    "English_Meaning": "Ministers should (always) give agreeable advice but on no occasion recommend useless actions, though requested (to do so)."
+  },
+  "Flux_Optimized_Prompt": {
+    "Layered_Composition": {
+      "Foreground": "A wise minister is in conversation with a king.",
+      "Midground": "On one hand, the minister is offering the king a scroll with a pleasing and beneficial plan ('வேட்பன சொல்லி'). On the other hand, the king is asking for advice on a clearly useless and foolish project ('வினையில'), represented by a plan to build a tower of sand. The minister is shown respectfully but firmly shaking their head and refusing to endorse this useless plan ('சொல்லா விடல்'), even though the king is asking for it.",
+      "Background": "A well-run kingdom, which is the result of the minister's integrity in promoting only beneficial actions and refusing to endorse foolish ones."
+    },
+    "Art_Direction": {
+      "Subject_and_Action": "A good minister speaks of what is beneficial and pleasing, but will refuse to speak in support of useless actions, even if the king asks them to.",
+      "Symbolic_Motifs": "The contrast between the good plan and the foolish plan (tower of sand) is key. The minister's firm refusal to endorse the bad plan, despite the king's request, demonstrates their integrity.",
+      "Mood_and_Emotion": "Principled, honest, discerning, integral.",
+      "Lighting_and_Color": "Clear, bright light. The good plan can have a positive glow, while the plan for the sand tower is depicted as foolish and unstable.",
+      "Technical_Cues": {
+        "Camera": "A shot that captures the moment of the minister's principled refusal.",
+        "Resolution": "8K, with a focus on the expressions of integrity (minister) and perhaps slight annoyance (king).",
+        "Lighting": "Clear, honest lighting.",
+        "Art_Genre": "Historical realism."
+      }
+    },
+    "Cultural_Anchors": [
+      "Speaking of what is pleasing/beneficial ('வேட்பன சொல்லி')",
+      "Refusing to endorse useless actions ('வினையில சொல்லா விடல்')",
+      "The integrity of a good counselor."
+    ]
+  },
+  "Negative_Prompt": "minister agreeing to the foolish plan, text on scrolls, cartoonish.",
+  "Hyperparameters": {
+    "variant": "pro",
+    "steps": 45,
+    "cfg_scale": 8,
+    "seed": "Explore variations for the foolish sand tower plan."
+  }
+}

@@ -1,0 +1,39 @@
+{
+  "Kural_Info": {
+    "Number": 132,
+    "Chapter": "ஒழுக்கமுடைமை (The Possession of Decorum)",
+    "Tamil_Text": "பரிந்தோம்பிக் காக்க ஒழுக்கம் தெரிந்தோம்பித்தேரினும் அஃதே துணை.",
+    "English_Meaning": "Let propriety of conduct be laboriously preserved and guarded; though one know and practise and excel in many virtues, that will be an eminent aid."
+  },
+  "Flux_Optimized_Prompt": {
+    "Layered_Composition": {
+      "Foreground": "A person is shown on a difficult journey. They are surrounded by many helpful tools and guides, representing all other virtues and knowledge ('தெரிந்து ஓம்பித் தேரினும்').",
+      "Midground": "However, the person is shown dedicating all their primary effort to protecting one single, most precious possession: a radiant, glowing compass, which represents Decorum ('ஒழுக்கம்'). They are guarding it with intense care ('பரிந்து ஓம்பிக் காக்க').",
+      "Background": "It is shown that this single compass of Decorum is their most essential and eminent aid ('அஃதே துணை'). While the other virtues are helpful, the compass is what truly keeps them on the correct path and ensures they do not get lost in the wilderness of life."
+    },
+    "Art_Direction": {
+      "Subject_and_Action": "Even for a person who has mastered all other knowledge and virtues, Decorum must be guarded with the most painstaking care, as it is the ultimate and most essential guide.",
+      "Symbolic_Motifs": "Decorum as the one true compass is the central metaphor. The other virtues are useful tools, but the compass provides the fundamental direction. The act of guarding it above all else shows its supreme importance.",
+      "Mood_and_Emotion": "Essential, foundational, guiding, precious.",
+      "Lighting_and_Color": "The compass of Decorum emits a steady, guiding, golden light. This light is clearer and more reliable than the light from the other surrounding virtues. It illuminates the correct path forward.",
+      "Technical_Cues": {
+        "Camera": "A shot that focuses on the person's intense care in guarding the compass, while showing the other virtues as secondary but also present.",
+        "Resolution": "8K, ultra-realistic, with a beautiful, intricate design for the 'compass of Decorum'.",
+        "Lighting": "The compass is the primary, directional light source in the scene.",
+        "Art_Genre": "Fantasy realism, allegorical art."
+      },
+      "Cultural_Anchors": [
+        "Guard Decorum with painstaking care (பரிந்து ஓம்பிக் காக்க ஒழுக்கம்)",
+        "Even after mastering all else (தெரிந்து ஓம்பித் தேரினும்)",
+        "It is the (true) aid (அஃதே துணை)"
+      ]
+    },
+    "Negative_Prompt": "person discarding the compass, broken compass, text artifacts.",
+    "Hyperparameters": {
+      "variant": "dev",
+      "steps": 45,
+      "cfg_scale": 8,
+      "seed": "Explore the design of the 'compass of Decorum'."
+    }
+  }
+}

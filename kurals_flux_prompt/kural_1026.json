@@ -1,0 +1,38 @@
+{
+  "Kural_Info": {
+    "Number": 1026,
+    "Chapter": "குடிசெயல்வகை (The Way of Maintaining the Family)",
+    "Tamil_Text": "நல்லாண்மை என்பது ஒருவற்குத் தான்பிறந்தஇல்லாண்மை ஆக்கிக் கொளல்.",
+    "English_Meaning": "A man's true manliness consists in making himself the head and benefactor of his family."
+  },
+  "Flux_Optimized_Prompt": {
+    "Layered_Composition": {
+      "Foreground": "A man stands before the humble house in which he was born.",
+      "Midground": "Through his effort and virtue, he is shown transforming this simple house into a strong, prosperous, and leading household. He is not abandoning his origins, but elevating them. This act is the definition of 'Good Manliness' ('நல்லாண்மை').",
+      "Background": "He is shown becoming the master and supporter ('இல்லாண்மை') of this now-great house, taking on the responsibility for its prosperity and the well-being of all who live there. His manliness is defined by this constructive act of leadership."
+    },
+    "Art_Direction": {
+      "Subject_and_Action": "True manliness is not about conquest or aggression, but about taking on the responsibility to elevate and lead the very family and house from which one originated.",
+      "Symbolic_Motifs": "The transformation of the house is a direct metaphor for the elevation of the family. The man's role as a constructive leader and benefactor, rather than a mere resident, is key. He is building, not just inheriting.",
+      "Mood_and_Emotion": "Constructive, responsible, leadership, dignified.",
+      "Lighting_and_Color": "The scene starts with the humble, earthy colors of his original home. As he works, a golden light of prosperity and leadership begins to infuse the structure, transforming it into a noble and strong edifice.",
+      "Technical_Cues": {
+        "Camera": "A shot that shows the man's connection to his ancestral home and his active role in transforming it for the better.",
+        "Resolution": "8K, ultra-realistic, with a focus on the architectural transformation of the house.",
+        "Lighting": "The man's own effort should be the source of the transformative light.",
+        "Art_Genre": "Historical realism, with a narrative of growth."
+      },
+      "Cultural_Anchors": [
+        "Good Manliness (நல்லாண்மை)",
+        "Making oneself the master/benefactor of the house of one's birth (தான் பிறந்த இல்லாண்மை ஆக்கிக் கொளல்)"
+      ]
+    },
+    "Negative_Prompt": "man abandoning his home, house falling into ruin, text artifacts.",
+    "Hyperparameters": {
+      "variant": "dev",
+      "steps": 45,
+      "cfg_scale": 8,
+      "seed": "Explore the visual transformation of the house."
+    }
+  }
+}

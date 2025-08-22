@@ -1,0 +1,38 @@
+{
+  "Kural_Info": {
+    "Number": 1315,
+    "Chapter": "புலவி நுணுக்கம் (Feigned Anger)",
+    "Tamil_Text": "இம்மைப் பிறப்பில் பிரியலம் என்றேனாக்கண்நிறை நீர்கொண் டனள்.",
+    "English_Meaning": "When I said, 'In this birth we shall not be parted,' her eyes filled with tears."
+  },
+  "Flux_Optimized_Prompt": {
+    "Layered_Composition": {
+      "Foreground": "A lover is tenderly saying to his beloved, 'We will not be separated in this birth' ('இம்மைப் பிறப்பில் பிரியலம்').",
+      "Midground": "He means this as a profound declaration of lifelong love.",
+      "Background": "However, her reaction is not joy. Her eyes instantly fill with tears ('கண் நிறை நீர் கொண்டனள்'). A thought-bubble reveals her tragic interpretation: by specifying 'in *this* birth', he has implied that they might be separated in the next, and this thought of a future, cosmic separation is enough to make her weep now."
+    },
+    "Art_Direction": {
+      "Subject_and_Action": "The beloved's extreme sensitivity and desire for eternal union: when her lover promises not to leave her in this life, she weeps at the implied possibility of being separated in the next.",
+      "Symbolic_Motifs": "The tears are not of joy, but of a profound, far-reaching sorrow. The thought-bubble showing a vision of a future life where they are apart is key to explaining her reaction. His well-intentioned words have accidentally caused a cosmic-scale pain.",
+      "Mood_and_Emotion": "Profound love, sensitive, melancholic, bittersweet.",
+      "Lighting_and_Color": "A very soft, tender, and romantic light. The tears in her eyes should catch this light, making them look like beautiful, tragic jewels. The mood is one of deep, almost sorrowful love.",
+      "Technical_Cues": {
+        "Camera": "An intimate close-up on the beloved's face, capturing the exact moment her expression shifts from love to sorrow and her eyes fill with tears.",
+        "Resolution": "8K, hyper-realistic, capturing the liquid quality of the tears and her subtle, heartbreaking expression.",
+        "Lighting": "Soft, romantic lighting.",
+        "Art_Genre": "Romantic tragedy, emotional portraiture."
+      },
+      "Cultural_Anchors": [
+        "When I said 'We will not part in this birth' (இம்மைப் பிறப்பில் பிரியலம் என்றேன்)",
+        "Her eyes filled with tears (கண் நிறை நீர் கொண்டனள்)"
+      ]
+    },
+    "Negative_Prompt": "woman smiling, happy reaction, text artifacts.",
+    "Hyperparameters": {
+      "variant": "pro",
+      "steps": 50,
+      "cfg_scale": 7,
+      "seed": "Focus on capturing the beautiful tragedy of her tears."
+    }
+  }
+}

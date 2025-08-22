@@ -1,0 +1,39 @@
+{
+  "Kural_Info": {
+    "Number": 726,
+    "Chapter": "அவையஞ்சாமை (Not to dread the Council)",
+    "Tamil_Text": "வாளொடென் வன்கண்ணர் அல்லார்க்கு நூலொடென் நுண்ணவை அஞ்சு பவர்க்கு.",
+    "English_Meaning": "What have they to do with a sword who are not valiant, or they with learning who are afraid of an intelligent assembly ?."
+  },
+  "Flux_Optimized_Prompt": {
+    "Layered_Composition": {
+      "Foreground": "A split composition showing two parallel futilities. On the left, a timid, trembling coward is trying to hold a magnificent, heavy sword ('வாள்'), but is clearly terrified of it.",
+      "Midground": "On the right, a scholar who is terrified of intelligent debate ('நுண்ணவை அஞ்சுபவர்') is holding a profound book of knowledge ('நூல்'), but is cowering and hiding behind it, afraid to speak.",
+      "Background": "Both the sword and the book are shown to be powerful tools, but they are completely useless in the hands of those who lack the necessary courage—physical courage for the sword, and intellectual courage for the book."
+    },
+    "Art_Direction": {
+      "Subject_and_Action": "A sword is useless to a coward, and a book is useless to someone who fears a learned assembly.",
+      "Symbolic_Motifs": "The direct visual parallel between the cowardly warrior and the timid scholar is the central point. In both cases, a powerful tool is rendered useless by the user's fear.",
+      "Mood_and_Emotion": "Useless, impotent, cowardly, a waste of potential.",
+      "Lighting_and_Color": "A dim, pathetic light on both figures. The sword and the book can have a faint, powerful glow that the users are unable to wield.",
+      "Technical_Cues": {
+        "Camera": "A balanced diptych composition.",
+        "Resolution": "8K, with a strong focus on the fearful expressions and postures.",
+        "Lighting": "Low-key lighting to emphasize the failure and fear.",
+        "Art_Genre": "Symbolic realism."
+      }
+    },
+    "Cultural_Anchors": [
+      "A sword to a coward ('வாளொடென் வன்கண்ணர் அல்லார்க்கு')",
+      "A book to one who fears the assembly ('நூலொடென் நுண்ணவை அஞ்சுபவர்க்கு')",
+      "The necessity of courage to wield any tool."
+    ]
+  },
+  "Negative_Prompt": "brave warrior, confident scholar, text artifacts.",
+  "Hyperparameters": {
+    "variant": "dev",
+    "steps": 40,
+    "cfg_scale": 8,
+    "seed": "Explore variations for the cowards' postures."
+  }
+}

@@ -1,0 +1,38 @@
+{
+  "Kural_Info": {
+    "Number": 1031,
+    "Chapter": "உழவு (Farming)",
+    "Tamil_Text": "சுழன்றும்ஏர்ப் பின்னது உலகம் அதனால்உழந்தும் உழவே தலை.",
+    "English_Meaning": "Agriculture, though laborious, is the most excellent (form of labour); for people, though they go about (in search of various employments), have at last to resort to the farmer."
+  },
+  "Flux_Optimized_Prompt": {
+    "Layered_Composition": {
+      "Foreground": "A strong, dignified farmer is shown guiding a plough ('ஏர்') pulled by sturdy oxen. This act of farming is the central, foundational point of the image.",
+      "Midground": "The entire world ('உலகம்'), represented by figures from all other professions—kings, merchants, soldiers, scholars—is shown revolving in a great circle ('சுழன்றும்') around the farmer. They all ultimately follow behind the plough ('ஏர்ப் பின்னது').",
+      "Background": "Despite the hardships of the work ('உழந்தும்'), the farmer's profession is crowned with a celestial light, declaring it the 'chief' or 'head' of all labours ('உழவே தலை')."
+    },
+    "Art_Direction": {
+      "Subject_and_Action": "No matter where humanity wanders or what other professions it pursues, the world ultimately revolves around and depends on the farmer, making agriculture the most essential and chief of all labors.",
+      "Symbolic_Motifs": "The world revolving around the farmer is the key visual metaphor. The farmer is the stable, central axis upon which all of society turns. The divine crown on the plough shows the supreme status of this profession.",
+      "Mood_and_Emotion": "Foundational, essential, primary, dignified labor.",
+      "Lighting_and_Color": "A strong, honest, earthy light. The farmer and their work are depicted with a noble dignity. The surrounding world is vibrant but clearly dependent and secondary. The palette is dominated by the rich browns of the soil and the golden tones of the harvest.",
+      "Technical_Cues": {
+        "Camera": "A high-angle shot looking down, showing the farmer as the central point with the rest of the world revolving around them in a great, circular motion.",
+        "Resolution": "8K, ultra-realistic, with a focus on the strength and dignity of the farmer.",
+        "Lighting": "The farmer and their plough are illuminated by a special, noble light.",
+        "Art_Genre": "Social realism, with a symbolic, cosmic structure."
+      },
+      "Cultural_Anchors": [
+        "The world revolves behind the plough (சுழன்றும் ஏர்ப் பின்னது உலகம்)",
+        "Farming is chief (உழவே தலை)"
+      ]
+    },
+    "Negative_Prompt": "farmer following the king, unimportant farmer, text artifacts, modern tractor.",
+    "Hyperparameters": {
+      "variant": "pro",
+      "steps": 50,
+      "cfg_scale": 8,
+      "seed": "Explore the visual of the 'world revolving around the farmer'."
+    }
+  }
+}

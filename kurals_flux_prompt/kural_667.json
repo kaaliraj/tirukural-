@@ -1,0 +1,39 @@
+{
+  "Kural_Info": {
+    "Number": 667,
+    "Chapter": "வினைத்திட்பம் (Power in Action)",
+    "Tamil_Text": "உருவுகண்டு எள்ளாமை வேண்டும் உருள்பெருந்தேர்க்குஅச்சாணி அன்னார் உடைத்து.",
+    "English_Meaning": "Despise not men of modest bearing; Look not at form, but what men are: For some there live, high functions sharing, Like linch-pin of the mighty car!."
+  },
+  "Flux_Optimized_Prompt": {
+    "Layered_Composition": {
+      "Foreground": "A massive, magnificent, and ornate war chariot ('உருள் பெருந்தேர்') thunders across a field. It is a symbol of immense power and complexity.",
+      "Midground": "A close-up, cutaway view reveals the single, small, unadorned, but absolutely essential linchpin ('அச்சாணி') that holds the great wheel to the axle. Without this small part, the entire chariot would collapse.",
+      "Background": "In a parallel scene, a great king is shown dismissing a person of small, unassuming physical stature ('உருவு கண்டு எள்ளாமை'). The image implies that this small person is like the linchpin—their unassuming form hides an essential, critical function that holds the entire kingdom together."
+    },
+    "Art_Direction": {
+      "Subject_and_Action": "A powerful simile warning against judging by appearances: one should not despise people for their small size, because some hold a power as crucial as the small linchpin that secures the wheel of a great chariot.",
+      "Symbolic_Motifs": "The contrast in scale between the massive chariot and the tiny linchpin is the central visual element. The parallel drawn to the king and the unassuming person makes the moral clear.",
+      "Mood_and_Emotion": "Cautionary, discerning, profound, hidden power.",
+      "Lighting_and_Color": "The chariot is ornate and colorful. The linchpin is a simple, strong, metallic object. The lighting should focus on the critical stress point where the linchpin does its vital work, highlighting its importance despite its size.",
+      "Technical_Cues": {
+        "Camera": "A dynamic shot that moves from the epic scale of the chariot to an extreme macro close-up of the linchpin, then dissolves to the parallel scene in the king's court.",
+        "Resolution": "8K, hyper-realistic, with a strong focus on the mechanical detail of the chariot wheel and axle.",
+        "Lighting": "Dramatic lighting to emphasize the crucial role of the small, unassuming part.",
+        "Art_Genre": "Historical realism, with symbolic cross-cutting."
+      },
+      "Cultural_Anchors": [
+        "The great rolling chariot (உருள் பெருந்தேர்)",
+        "The linchpin (அச்சாணி)",
+        "Not despising based on form (உருவு கண்டு எள்ளாமை)"
+      ]
+    },
+    "Negative_Prompt": "chariot without a linchpin, king honoring the small person, text artifacts.",
+    "Hyperparameters": {
+      "variant": "dev",
+      "steps": 45,
+      "cfg_scale": 8,
+      "seed": "Explore the intricate design of the war chariot."
+    }
+  }
+}

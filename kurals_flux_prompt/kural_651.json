@@ -1,0 +1,39 @@
+{
+  "Kural_Info": {
+    "Number": 651,
+    "Chapter": "வினைத்தூய்மை (Purity in Action)",
+    "Tamil_Text": "துணைநலம் ஆக்கம் த்ருஉம் வினைநலம் வேண்டிய எல்லாந் தரும்.",
+    "English_Meaning": "The efficacy of support will yield (only) wealth; (but) the efficacy of action will yield all that is desired."
+  },
+  "Flux_Optimized_Prompt": {
+    "Layered_Composition": {
+      "Foreground": "A split composition. On the left, a person is being helped by a powerful ally ('துணைநலம்'). This help results in a single, large pile of gold coins (Wealth - 'ஆக்கம்').",
+      "Midground": "On the right, a person is acting with perfect purity and excellence on their own ('வினைநலம்'). Their action causes a magical tree to grow, and on its branches are not just gold, but all desired things—love, wisdom, health, peace, represented by glowing symbols.",
+      "Background": "The image clearly shows that while good allies bring wealth, a good action itself brings everything one could possibly desire ('வேண்டிய எல்லாம்')."
+    },
+    "Art_Direction": {
+      "Subject_and_Action": "Good allies can bring you wealth, but purity and excellence in your own actions can bring you everything you desire.",
+      "Symbolic_Motifs": "The pile of gold represents the limited outcome of relying on others. The magical tree with diverse fruits represents the unlimited outcome of one's own pure actions.",
+      "Mood_and_Emotion": "Contrasting, empowering, limitless potential.",
+      "Lighting_and_Color": "The left side has a simple, golden light from the coins. The right side is illuminated by the magical, multi-colored glow of the diverse fruits on the tree of pure action.",
+      "Technical_Cues": {
+        "Camera": "A balanced, side-by-side shot to compare the two outcomes.",
+        "Resolution": "8K, with magical realism effects for the tree.",
+        "Lighting": "Contrasting light sources to show the difference in the quality of the rewards.",
+        "Art_Genre": "Symbolic fantasy art."
+      }
+    },
+    "Cultural_Anchors": [
+      "Good Allies bring Wealth ('துணைநலம் ஆக்கம் தரும்')",
+      "Good Actions bring Everything ('வினைநலம் வேண்டிய எல்லாம் தரும்')",
+      "The supremacy of self-action over external support."
+    ]
+  },
+  "Negative_Prompt": "tree with only gold, person with allies getting everything, text artifacts.",
+  "Hyperparameters": {
+    "variant": "pro",
+    "steps": 50,
+    "cfg_scale": 8,
+    "seed": "Explore variations for the symbols on the tree."
+  }
+}

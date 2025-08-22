@@ -1,0 +1,38 @@
+{
+  "Kural_Info": {
+    "Number": 719,
+    "Chapter": "அவையறிதல் (The Knowledge of the Council Chamber)",
+    "Tamil_Text": "புல்லவையுள் பொச்சாந்தும் சொல்லற்க நல்லவையுள்நன்குசலச் சொல்லு வார்.",
+    "English_Meaning": "Those who are able to speak good things impressively in an assembly of the good should not even forgetfully speak them in that of the low."
+  },
+  "Flux_Optimized_Prompt": {
+    "Layered_Composition": {
+      "Foreground": "A master orator, who is known for speaking brilliantly in assemblies of the good, is shown approaching an assembly of the ignorant ('புல்லவை').",
+      "Midground": "The assembly of the ignorant is visualized as a barren field of stone and dust, incapable of bearing fruit.",
+      "Background": "The orator is carrying precious, glowing seeds, representing their good and potent words. Even though they seem to forget themselves for a moment ('பொச்சாந்தும்'), they instinctively stop themselves from casting these precious seeds onto the barren ground, knowing it would be a complete waste. They hold their words back ('சொல்லற்க')."
+    },
+    "Art_Direction": {
+      "Subject_and_Action": "Even in a moment of carelessness, a great speaker who is effective in a worthy assembly should refrain from speaking their valuable words in an unworthy assembly.",
+      "Symbolic_Motifs": "The ignorant assembly as a barren field and the valuable words as precious seeds is the central metaphor. The act of withholding the seeds is a conscious act of preserving their value. Wasting them would be the folly.",
+      "Mood_and_Emotion": "Discerning, prudent, withholding, cautionary.",
+      "Lighting_and_Color": "The orator and their seeds glow with a golden light of wisdom. The ignorant assembly and the barren field are depicted in dull, sterile, grey and brown tones.",
+      "Technical_Cues": {
+        "Camera": "A shot that focuses on the orator's moment of decision, as they look at the barren field and wisely decide to withhold their precious seeds.",
+        "Resolution": "8K, ultra-realistic, with a strong textural contrast between the glowing seeds and the sterile ground.",
+        "Lighting": "The orator is the source of light, and they are choosing not to waste it on the surrounding darkness.",
+        "Art_Genre": "Symbolic realism."
+      },
+      "Cultural_Anchors": [
+        "In an ignorant assembly (புல்லவையுள்)",
+        "Do not speak, even forgetfully (பொச்சாந்தும் சொல்லற்க)"
+      ]
+    },
+    "Negative_Prompt": "orator throwing seeds, barren field blooming, happy ignorant audience, text artifacts.",
+    "Hyperparameters": {
+      "variant": "dev",
+      "steps": 45,
+      "cfg_scale": 8,
+      "seed": "Explore the visual of the 'precious, glowing seeds'."
+    }
+  }
+}

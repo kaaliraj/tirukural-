@@ -1,0 +1,38 @@
+{
+  "Kural_Info": {
+    "Number": 1032,
+    "Chapter": "உழவு (Farming)",
+    "Tamil_Text": "உழுவார் உலகத்தார்க்கு ஆணிஅஃ தாற்றாதுஎழுவாரை எல்லாம் பொறுத்து.",
+    "English_Meaning": "Agriculturists are (as it were) the linch-pin of the world for they support all other workers who cannot till the soil."
+  },
+  "Flux_Optimized_Prompt": {
+    "Layered_Composition": {
+      "Foreground": "A massive, intricate chariot wheel representing 'The World' ('உலகம்') is shown.",
+      "Midground": "The wheel is laden with representatives of all other professions who cannot farm ('எழுவாரை எல்லாம்')—scholars, kings, merchants, artisans. The wheel is turning and functioning because of one single component.",
+      "Background": "A close-up reveals that the linchpin holding this entire wheel of society together ('ஆணி') is a humble farmer ('உழவார்'). Their strength is what bears the weight of everyone else ('பொறுத்து') and allows the world to move forward."
+    },
+    "Art_Direction": {
+      "Subject_and_Action": "The farmer is the essential linchpin of the world, bearing the weight and supporting all other professions that cannot till the soil themselves.",
+      "Symbolic_Motifs": "The world as a great chariot wheel and the farmer as its indispensable linchpin is the central, powerful metaphor. The image emphasizes that without this small but crucial part, the entire grand structure would collapse.",
+      "Mood_and_Emotion": "Essential, foundational, supportive, indispensable.",
+      "Lighting_and_Color": "A strong, heroic light shines on the farmer-linchpin, highlighting their critical importance. The rest of the wheel is grand and ornate, but its functionality is clearly dependent on this one humble component.",
+      "Technical_Cues": {
+        "Camera": "A shot that moves from a wide view of the magnificent world-wheel to an extreme close-up on the farmer-linchpin, revealing them as the secret to its function.",
+        "Resolution": "8K, hyper-realistic, with a strong focus on the mechanical stress being successfully borne by the linchpin.",
+        "Lighting": "Dramatic lighting to emphasize the crucial role of the farmer.",
+        "Art_Genre": "Symbolic realism, with mechanical and fantasy elements."
+      },
+      "Cultural_Anchors": [
+        "Farmers are the linchpin for the world (உழுவார் உலகத்தார்க்கு ஆணி)",
+        "Because they support all those who cannot do it (எழுவாரை எல்லாம் பொறுத்து)"
+      ]
+    },
+    "Negative_Prompt": "broken linchpin, collapsing wheel, text artifacts, unimportant farmer.",
+    "Hyperparameters": {
+      "variant": "pro",
+      "steps": 55,
+      "cfg_scale": 9,
+      "seed": "Explore the design of the 'world-chariot wheel'."
+    }
+  }
+}

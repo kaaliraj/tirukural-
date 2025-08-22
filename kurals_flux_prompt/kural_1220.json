@@ -1,0 +1,33 @@
+{
+  "Kural_Info": {
+    "Number": 1220,
+    "Chapter": "கனவுநிலையுரைத்தல் (The Visions of the Night)",
+    "Tamil_Text": "நனவினால் நம்நீத்தார் என்பர் கனவினால்காணார்கொல் இவ்வூ ரவர்.",
+    "English_Meaning": "They say, that he in waking hours has left me lone; In dreams they surely see him not,- these people of the town."
+  },
+  "Flux_Optimized_Prompt": {
+    "Layered_Composition": {
+      "Foreground": "A woman stands with a secret, knowing smile, while the townspeople ('Ivvooravar') are shown gossiping and pointing at her, saying her lover has abandoned her ('Nam Neethaar Enbar').",
+      "Midground": "Her secret is revealed to the viewer: at night, her lover visits her faithfully in her dreams. This dream-visitation is depicted as a beautiful, luminous, and very real-looking interaction.",
+      "Background": "The townspeople are shown to be blind to this magical, nocturnal reality ('Kaanaarkol'). They can only see the lonely reality of her waking hours, not the fulfilled reality of her dreams."
+    },
+    "Art_Direction": {
+      "Subject_and_Action": "A lover's private knowledge that mocks the town's gossip. They say he has left me, but that's only because they cannot see him visiting me every night in my dreams.",
+      "Symbolic_Motifs": "The contrast between the public perception (gossip) and the private reality (the dream). The townspeople are visually depicted as being unable to see the magical dream world.",
+      "Mood_and_Emotion": "Secretly triumphant, knowing, slightly scornful of the ignorant gossip.",
+      "Lighting_and_Color": "The waking world of the townspeople is in plain, harsh daylight. The dream world is in a secret, magical, beautiful twilight or moonlight."
+    },
+    "Technical_Cues": {
+      "Camera": "A shot that shows the woman in the foreground with her secret smile, while behind her, we see both the gossiping town and the hidden reality of her dream.",
+      "Resolution": "8K, fantasy realism, with a beautiful and distinct look for the dream world.",
+      "Lighting": "A clear visual separation between the lighting of the real world and the dream world.",
+      "Art_Genre": "Romantic fantasy, where the protagonist has access to a reality hidden from others."
+    },
+    "Cultural_Anchors": [
+      "The private truth versus public rumor",
+      "The reality of dreams",
+      "The ignorance of the masses"
+    ]
+  },
+  "Negative_Prompt": "a sad protagonist, townspeople who know the secret, no dream sequence, modern town, text artifacts, blurry."
+}

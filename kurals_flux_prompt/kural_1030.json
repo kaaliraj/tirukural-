@@ -1,0 +1,38 @@
+{
+  "Kural_Info": {
+    "Number": 1030,
+    "Chapter": "குடிசெயல்வகை (The Way of Maintaining the Family)",
+    "Tamil_Text": "இடுக்கண்கால் கொன்றிட வீழும் அடுத்தூன்றும்நல்லாள் இலாத குடி.",
+    "English_Meaning": "If there are none to prop up and maintain a family (in distress), it will fall at the stroke of the axe of misfortune."
+  },
+  "Flux_Optimized_Prompt": {
+    "Layered_Composition": {
+      "Foreground": "A great, ancient family is visualized as a magnificent banyan tree ('குடி').",
+      "Midground": "A colossal, spectral axe, representing a great misfortune or calamity ('இடுக்கண்'), is shown swinging and striking the base of the tree's trunk ('கால் கொன்றிட').",
+      "Background": "Because this family has no strong, capable person to support it from the next generation ('அடுத்து ஊன்றும் நல்லாள் இலாத'), there is nothing to stop the fall. The great tree is shown toppling over and crashing to the ground in ruin ('வீழும்')."
+    },
+    "Art_Direction": {
+      "Subject_and_Action": "A family, no matter how great, will inevitably fall and be destroyed by the axe of misfortune if there is no capable member to support it and carry it forward.",
+      "Symbolic_Motifs": "The family as a great tree and misfortune as a giant axe are the central metaphors. The key element is the absence of a 'prop' or 'support' ('ஊன்றும் நல்லாள்'), which is why the single blow of the axe is fatal.",
+      "Mood_and_Emotion": "Catastrophic, tragic, ruin, lack of support.",
+      "Lighting_and_Color": "A dark, stormy, and tragic light. The axe of misfortune glows with a cold, malevolent energy. The fall of the great tree is a moment of immense, dusty, and destructive chaos.",
+      "Technical_Cues": {
+        "Camera": "A dynamic, wide shot that captures the swing of the giant axe and the catastrophic, slow-motion fall of the magnificent family tree.",
+        "Resolution": "8K, hyper-realistic, with advanced physics and destruction effects for the falling tree.",
+        "Lighting": "Dramatic, tragic lighting.",
+        "Art_Genre": "Epic disaster painting, symbolic art."
+      },
+      "Cultural_Anchors": [
+        "A family without a good person to support it (அடுத்து ஊன்றும் நல்லாள் இலாத குடி)",
+        "Will fall when the foot of misfortune strikes (இடுக்கண் கால் கொன்றிட வீழும்)"
+      ]
+    },
+    "Negative_Prompt": "strong person supporting the tree, tree withstanding the axe, text artifacts.",
+    "Hyperparameters": {
+      "variant": "pro",
+      "steps": 55,
+      "cfg_scale": 9,
+      "seed": "Explore the visual of the great tree crashing down."
+    }
+  }
+}

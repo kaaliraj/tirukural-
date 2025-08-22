@@ -1,0 +1,38 @@
+{
+  "Kural_Info": {
+    "Number": 711,
+    "Chapter": "அவையறிதல் (The Knowledge of the Council Chamber)",
+    "Tamil_Text": "அவையறிநது ஆராய்ந்து சொல்லுக சொல்லின்தொகையறிந்த தூய்மை யவர்.",
+    "English_Meaning": "Let the pure who know the arrangement of words speak with deliberation after ascertaining (the nature of) the court (then assembled)."
+  },
+  "Flux_Optimized_Prompt": {
+    "Layered_Composition": {
+      "Foreground": "A wise and pure speaker ('தூய்மையவர்') stands before a council. They are not speaking yet, but are in a state of deep analysis ('ஆராய்ந்து').",
+      "Midground": "Their mind is visualized as a master weaver at a loom. They possess a vast collection of colorful threads, representing their complete mastery of language ('சொல்லின் தொகை அறிந்த'). They are carefully selecting the precise threads that are appropriate for the specific audience before them ('அவை அறிந்து').",
+      "Background": "The council itself is diverse—some members are scholarly, some are aggressive, some are simple. The weaver in the speaker's mind is choosing a different pattern and color of thread for each section of the audience, creating a perfectly tailored tapestry of speech."
+    },
+    "Art_Direction": {
+      "Subject_and_Action": "The pure of heart who have mastered language should first analyze the nature of their audience and only then weave their words, carefully chosen and arranged to be most effective.",
+      "Symbolic_Motifs": "The mind as a master weaver at a loom is the central metaphor. This portrays speech not as a spontaneous outburst, but as a deliberate, skillful craft. The different threads for different audience members shows the act of tailoring the message.",
+      "Mood_and_Emotion": "Discerning, skillful, analytical, masterful, articulate.",
+      "Lighting_and_Color": "A clear, intellectual light illuminates the scene. The threads of language are a vibrant array of colors, but the ones being chosen are specific and harmonious for the intended purpose. The speaker is calm and in control.",
+      "Technical_Cues": {
+        "Camera": "A symbolic shot that gives a transparent view into the speaker's mind, showing the weaver at work as they assess the council before them.",
+        "Resolution": "8K, ultra-realistic, with intricate detail on the loom and the threads of language.",
+        "Lighting": "Focused, intelligent lighting that highlights the process of deliberation.",
+        "Art_Genre": "Symbolic realism, conceptual art."
+      },
+      "Cultural_Anchors": [
+        "Knowing the assembly (அவை அறிந்து)",
+        "Those pure ones who know the classes of words (சொல்லின் தொகை அறிந்த தூய்மையவர்)"
+      ]
+    },
+    "Negative_Prompt": "speaker shouting randomly, tangled threads, angry council, text artifacts.",
+    "Hyperparameters": {
+      "variant": "pro",
+      "steps": 50,
+      "cfg_scale": 8,
+      "seed": "Explore the visual of the 'loom of the mind'."
+    }
+  }
+}

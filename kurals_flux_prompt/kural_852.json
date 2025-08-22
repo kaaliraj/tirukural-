@@ -1,0 +1,39 @@
+{
+  "Kural_Info": {
+    "Number": 852,
+    "Chapter": "இகல் (Hostility)",
+    "Tamil_Text": "பகல்கருதிப் பற்றா செயினும் இகல்கருதி இன்னாசெய் யாமை தலை.",
+    "English_Meaning": "Though men disunion plan, and do thee much despite, 'Tis best no enmity to plan, nor evil deeds requite."
+  },
+  "Flux_Optimized_Prompt": {
+    "Layered_Composition": {
+      "Foreground": "A person has been wronged by another. The wrongdoer is shown actively trying to create division and separation ('பகல் கருதி').",
+      "Midground": "The wronged person has a choice. A dark, shadowy thought bubble of revenge and hostility ('இகல் கருதி இன்னா செயல்') appears, tempting them to retaliate.",
+      "Background": "However, the person makes the superior choice ('தலை'). They are shown actively shattering the dark thought bubble of revenge, choosing not to plan any hostility in return, even though they have a reason to."
+    },
+    "Art_Direction": {
+      "Subject_and_Action": "Even if someone tries to create division with you, the highest virtue is to not even think of hostility in return.",
+      "Symbolic_Motifs": "The dark thought bubble of revenge is the temptation. The act of shattering it is the virtuous choice. This visualizes the internal struggle and the correct moral outcome.",
+      "Mood_and_Emotion": "Principled, non-retaliatory, self-controlled, superior virtue.",
+      "Lighting_and_Color": "The scene is lit by the bright, clear light of the person's virtuous choice as they shatter the dark thought bubble.",
+      "Technical_Cues": {
+        "Camera": "A close-up on the person's face at the moment of their decision, showing their resolve.",
+        "Resolution": "8K, with a focus on the symbolic thought bubble and its destruction.",
+        "Lighting": "Dramatic lighting that highlights the moral choice.",
+        "Art_Genre": "Symbolic realism."
+      }
+    },
+    "Cultural_Anchors": [
+      "Not thinking of hostility in return ('இகல் கருதி இன்னா செய்யாமை')",
+      "The highest virtue ('தலை')",
+      "The principle of non-retaliation."
+    ]
+  },
+  "Negative_Prompt": "person choosing revenge, text artifacts, cartoonish.",
+  "Hyperparameters": {
+    "variant": "dev",
+    "steps": 45,
+    "cfg_scale": 9,
+    "seed": "Explore variations for the shattering thought bubble."
+  }
+}

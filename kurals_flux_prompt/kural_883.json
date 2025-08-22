@@ -1,0 +1,39 @@
+{
+  "Kural_Info": {
+    "Number": 883,
+    "Chapter": "உட்பகை (Enmity within)",
+    "Tamil_Text": "உட்பகை அஞ்சித்தற் காக்க உலைவிடத்து மட்பகையின் மாணத் தெறும்.",
+    "English_Meaning": "Fear internal enmity and guard yourself; (if not) it will destroy (you) in an evil hour, as surely as the tool which cuts the potter's clay."
+  },
+  "Flux_Optimized_Prompt": {
+    "Layered_Composition": {
+      "Foreground": "A person is shown trying to live their life, but they are unaware of a hidden internal enemy ('உட்பகை').",
+      "Midground": "This internal enmity is visualized as a tiny, almost invisible crack forming inside the very foundation of their being. In a parallel image, a potter's cutting tool ('மட்பகை') is shown easily slicing through a block of wet clay.",
+      "Background": "At a moment of crisis or ruin ('உலைவிடத்து'), the tiny, ignored crack of internal enmity suddenly and catastrophically shatters the person's entire being, just as the potter's tool cuts the clay. The destruction is swift, precise, and total ('மாணத் தெறும்')."
+    },
+    "Art_Direction": {
+      "Subject_and_Action": "One must fear and guard against internal enmity, because at a moment of crisis, it will destroy you with the same ease that a potter's tool cuts clay.",
+      "Symbolic_Motifs": "The analogy of the potter's tool cutting clay is made literal and parallel to the person's own destruction. The tiny crack that leads to total shattering shows the danger of ignoring internal problems.",
+      "Mood_and_Emotion": "Inescapable, precise destruction, a fatal flaw.",
+      "Lighting_and_Color": "A tense, ominous light. The crack can glow with a menacing, destructive energy just before it shatters the person.",
+      "Technical_Cues": {
+        "Camera": "A slow zoom into the tiny crack, followed by a dramatic, high-speed shot of the person shattering.",
+        "Resolution": "8K, with high-quality shattering and cracking effects.",
+        "Lighting": "High-contrast lighting to highlight the moment of destruction.",
+        "Art_Genre": "Surreal horror, with a strong symbolic message."
+      },
+      "Cultural_Anchors": [
+        "Fear internal enmity ('உட்பகை அஞ்சி')",
+        "Like a potter's cutting tool ('மட்பகையின்')",
+        "It will destroy you in a time of ruin."
+      ]
+    },
+    "Negative_Prompt": "a person without a crack, a tool that cannot cut the clay, text artifacts.",
+    "Hyperparameters": {
+      "variant": "pro",
+      "steps": 50,
+      "cfg_scale": 9,
+      "seed": "Explore variations for the shattering effect."
+    }
+  }
+}

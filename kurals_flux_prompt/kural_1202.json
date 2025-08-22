@@ -1,0 +1,33 @@
+{
+  "Kural_Info": {
+    "Number": 1202,
+    "Chapter": "நினைந்தவர்புலம்பல் (Sad Memories)",
+    "Tamil_Text": "எனைத்தொனறு இனிதேகாண் காமம்தாம் வீழ்வார்நினைப்ப வருவதொன்று ஏல்.",
+    "English_Meaning": "How great is love! Behold its sweetness past belief! Think on the lover, and the spirit knows no grief."
+  },
+  "Flux_Optimized_Prompt": {
+    "Layered_Composition": {
+      "Foreground": "A person is shown in a state of sorrow, surrounded by shadowy representations of their grief.",
+      "Midground": "A single thought of their beloved ('Ninaippa Varuvathonru') appears in their mind, visualized as a seed of brilliant light.",
+      "Background": "Instantly, this seed of light blossoms and grows, pushing back the shadows and transforming the entire scene into a beautiful, sweet, and joyful landscape. The sorrow is completely vanquished by this one memory."
+    },
+    "Art_Direction": {
+      "Subject_and_Action": "Even a single, fleeting thought of one's beloved is enough to completely dispel grief and bring immense sweetness and joy.",
+      "Symbolic_Motifs": "The thought as a seed of light that transforms a landscape of sorrow into one of joy is the central metaphor.",
+      "Mood_and_Emotion": "Transformative, joyful, sweet, powerful, a sense of instant relief.",
+      "Lighting_and_Color": "The image captures a dramatic shift from dark, cool, and shadowy colors to bright, warm, and vibrant ones as the thought blossoms."
+    },
+    "Technical_Cues": {
+      "Camera": "A dynamic shot that shows the transformation in progress, with the light of memory pushing back the darkness.",
+      "Resolution": "8K, fantasy realism, with spectacular light and growth effects.",
+      "Lighting": "A shift from low-key, somber lighting to high-key, magical lighting.",
+      "Art_Genre": "Mystical fantasy art, illustrating the power of memory."
+    },
+    "Cultural_Anchors": [
+      "The power of memory in love",
+      "நினைப்பு (Thought/Memory)",
+      "காமம் (Love)"
+    ]
+  },
+  "Negative_Prompt": "a memory that increases sorrow, a dark seed of light, modern setting, text artifacts, cartoonish."
+}

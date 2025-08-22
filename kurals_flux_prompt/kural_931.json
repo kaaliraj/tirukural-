@@ -1,0 +1,39 @@
+{
+  "Kural_Info": {
+    "Number": 931,
+    "Chapter": "சூது (Gambling)",
+    "Tamil_Text": "வேண்டற்க வென்றிடினும் சூதினை வென்றதூஉம் தூண்டிற்பொன் மீன்விழுங்கி அற்று.",
+    "English_Meaning": "Seek not the gamester's play; though you should win, Your gain is as the baited hook the fish takes in."
+  },
+  "Flux_Optimized_Prompt": {
+    "Layered_Composition": {
+      "Foreground": "A fish is shown joyfully swallowing a beautiful, gleaming golden bait ('தூண்டிற்பொன்').",
+      "Midground": "However, hidden within the beautiful golden bait is a sharp, cruel hook. The very act of swallowing the 'win' has caused the fish to be caught and doomed.",
+      "Background": "In a direct parallel, a gambler is shown celebrating a win at a game of dice ('வென்றிடினும் சூதினை'). His winnings are the golden bait. But this very win is shown to be the thing that hooks him, ensuring his future ruin and addiction."
+    },
+    "Art_Direction": {
+      "Subject_and_Action": "Do not desire to gamble, even if you win. For that win is like a fish swallowing a baited hook; it is the very thing that will destroy you.",
+      "Symbolic_Motifs": "The direct, powerful analogy of the baited hook is the central theme. The initial 'win' is shown to be the actual cause of the final, tragic loss.",
+      "Mood_and_Emotion": "A trap, deceptive, fatal victory, cautionary.",
+      "Lighting_and_Color": "The golden bait and the initial winnings have a bright, alluring glow. The hook and the subsequent ruin are dark and menacing.",
+      "Technical_Cues": {
+        "Camera": "A split composition or a shot that morphs from the gambler winning to the fish being hooked.",
+        "Resolution": "8K, with a strong, clear narrative.",
+        "Lighting": "Deceptive lighting that turns from bright to dark.",
+        "Art_Genre": "Symbolic realism."
+      },
+      "Cultural_Anchors": [
+        "Do not desire gambling, even in victory",
+        "A win is like a fish swallowing a baited hook",
+        "The addictive nature of gambling."
+      ]
+    },
+    "Negative_Prompt": "a fish escaping the hook, a happy gambler, text artifacts.",
+    "Hyperparameters": {
+      "variant": "pro",
+      "steps": 50,
+      "cfg_scale": 9,
+      "seed": "Explore variations for the golden bait."
+    }
+  }
+}

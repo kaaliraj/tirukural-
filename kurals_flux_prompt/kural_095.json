@@ -1,0 +1,40 @@
+{
+  "Kural_Info": {
+    "Number": 95,
+    "Chapter": "இனியவை கூறல் (The Utterance of Pleasant Words)",
+    "Tamil_Text": "பணிவுடையன் இன்சொலன் ஆதல் ஒருவற்குஅணியல்ல மற்றுப் பிற.",
+    "English_Meaning": "Humility and sweetness of speech are the ornaments of man; all others are not (ornaments)."
+  },
+  "Flux_Optimized_Prompt": {
+    "Layered_Composition": {
+      "Foreground": "A person stands with a humble posture ('பணிவுடையன்') and is speaking a pleasant word ('இன்சொலன்').",
+      "Midground": "Instead of wearing physical jewelry, their humility manifests as a beautiful, glowing circlet of soft white light around their head, and their pleasant words form a necklace of sparkling, golden light around their neck. These are their true ornaments ('அணி').",
+      "Background": "In the background, piles of discarded physical jewelry—gold chains, crowns, gem-studded rings ('மற்றுப் பிற')—lie on the ground, looking dull, lifeless, and unimportant in comparison."
+    },
+    "Art_Direction": {
+      "Subject_and_Action": "Humility and pleasant speech are declared to be the only true ornaments for a person; all material jewelry is worthless in comparison.",
+      "Symbolic_Motifs": "The virtues are literalized as ornaments of light, which are far more beautiful and radiant than the physical jewelry. The discarded pile of gold and gems emphasizes their secondary, non-essential nature.",
+      "Mood_and_Emotion": "Authentic beauty, virtuous adornment, inner worth over outer show.",
+      "Lighting_and_Color": "The person is illuminated by the soft, beautiful light of their own virtuous ornaments. The physical jewelry in the background is dimly lit and lacks any sparkle or radiance.",
+      "Technical_Cues": {
+        "Camera": "A dignified portrait shot, focusing on the person and their ornaments of light.",
+        "Resolution": "8K, ultra-realistic, with ethereal light effects for the virtuous adornments.",
+        "Lighting": "The subject is self-illuminated by their virtues, creating a divine and noble effect.",
+        "Art_Genre": "Symbolic portraiture, fantasy realism."
+      },
+      "Cultural_Anchors": [
+        "Humility (பணிவு)",
+        "Pleasant Speech (இன்சொல்)",
+        "True Ornaments (அணி)",
+        "The worthlessness of other (material) things (மற்றுப் பிற)"
+      ]
+    },
+    "Negative_Prompt": "arrogant person, ugly light ornaments, prominent physical jewelry, text artifacts, dark scene.",
+    "Hyperparameters": {
+      "variant": "pro",
+      "steps": 50,
+      "cfg_scale": 7,
+      "seed": "Explore the designs of the 'circlet of humility' and 'necklace of sweet words'."
+    }
+  }
+}

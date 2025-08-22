@@ -1,0 +1,39 @@
+{
+  "Kural_Info": {
+    "Number": 643,
+    "Chapter": "சொல்வன்மை (Power of Speech)",
+    "Tamil_Text": "கேட்டார்ப் பிணிக்கும் தகையவாய்க் கேளாரும் வேட்ப மொழிவதாம் சொல்.",
+    "English_Meaning": "The (minister's) speech is that which seeks (to express) elements as bind his friends (to himself) and is so delivered as to make even his enemies desire (his friendship)."
+  },
+  "Flux_Optimized_Prompt": {
+    "Layered_Composition": {
+      "Foreground": "A great orator is speaking. Their words are visualized as magical, golden threads of light.",
+      "Midground": "These golden threads are shown doing two things simultaneously. They are wrapping around the listeners who are already present ('கேட்டார்'), binding them with fascination and loyalty ('பிணிக்கும்'). The threads are also stretching out into the distance.",
+      "Background": "In the distance, people who were not listening before ('கேளார்') are now being gently drawn in by these threads of light, their faces showing a newfound desire to hear what is being said ('வேட்ப மொழிவது'). Even enemies are shown lowering their weapons, captivated."
+    },
+    "Art_Direction": {
+      "Subject_and_Action": "Ideal speech has a dual power: it captivates and binds those who are listening, and it also creates a desire to listen in those who were not.",
+      "Symbolic_Motifs": "The golden threads of light are the words. Their dual function—binding the present audience and attracting the absent ones—is the key visual narrative.",
+      "Mood_and_Emotion": "Captivating, magnetic, enchanting, persuasive, irresistible.",
+      "Lighting_and_Color": "A magical, golden light emanates from the orator and their words, illuminating both the captivated audience and those being drawn in from afar. The palette is warm and enchanting.",
+      "Technical_Cues": {
+        "Camera": "A wide, cinematic shot that captures the orator, the immediate audience, and the distant people being drawn in.",
+        "Resolution": "8K, with beautiful, ethereal light thread effects.",
+        "Lighting": "Radiant, magical lighting.",
+        "Art_Genre": "High-fantasy art, with a focus on magical effects."
+      }
+    },
+    "Cultural_Anchors": [
+      "Binding the listeners ('கேட்டார்ப் பிணிக்கும்')",
+      "Making others desire to hear ('கேளாரும் வேட்ப மொழிவது')",
+      "The magnetic power of eloquent speech."
+    ]
+  },
+  "Negative_Prompt": "boring speaker, people leaving, broken threads, text artifacts.",
+  "Hyperparameters": {
+    "variant": "pro",
+    "steps": 50,
+    "cfg_scale": 8,
+    "seed": "Explore variations for the golden threads of light."
+  }
+}

@@ -1,0 +1,39 @@
+{
+  "Kural_Info": {
+    "Number": 822,
+    "Chapter": "கூடாநட்பு (Unreal Friendship)",
+    "Tamil_Text": "இனம்போன்று இனமல்லார் கேண்மை மகளிர்மனம்போல வேறு படும்.",
+    "English_Meaning": "The friendship of those who seem to be friends while they are not, will change like the love of women."
+  },
+  "Flux_Optimized_Prompt": {
+    "Layered_Composition": {
+      "Foreground": "A false friend ('இனமல்லார்') is shown. Their bond of friendship is not a steady light, but a flickering, shape-shifting, and unpredictable flame.",
+      "Midground": "The nature of this flame is compared directly to the mind of a courtesan ('மகளிர் மனம்'). Her mind is also depicted as a constantly changing, mercurial substance, never the same from one moment to the next.",
+      "Background": "The friendship is shown rapidly changing its form—one moment it is a warm, inviting fire, the next it is a cold, distant wisp, and the next a raging, destructive blaze ('வேறுபடும்')."
+    },
+    "Art_Direction": {
+      "Subject_and_Action": "The friendship of those who are not true kin is as changeable and unreliable as the mind of a courtesan.",
+      "Symbolic_Motifs": "The friendship as a flickering, shape-shifting flame is the key metaphor. The direct visual comparison to the equally mercurial mind of the courtesan makes the meaning clear.",
+      "Mood_and_Emotion": "Changeable, unreliable, fickle, mercurial.",
+      "Lighting_and_Color": "The lighting of the scene is constantly and erratically changing, reflecting the unstable nature of the friendship. The colors shift from warm to cold to fiery without warning.",
+      "Technical_Cues": {
+        "Camera": "A shot that captures the unstable, flickering nature of the friendship, perhaps using a time-lapse or morphing effect.",
+        "Resolution": "8K, with high-quality, dynamic fire and energy effects.",
+        "Lighting": "Flickering, unstable lighting.",
+        "Art_Genre": "Surrealism, with a dynamic, animated feel."
+      }
+    },
+    "Cultural_Anchors": [
+      "Friends who are not true kin ('இனம்போன்று இனமல்லார்')",
+      "Changes like a courtesan's mind ('மகளிர் மனம்போல வேறுபடும்')",
+      "The fickle nature of false friendship."
+    ]
+  },
+  "Negative_Prompt": "a steady flame, a loyal friend, text artifacts, cartoonish.",
+  "Hyperparameters": {
+    "variant": "dev",
+    "steps": 45,
+    "cfg_scale": 8,
+    "seed": "Explore variations for the shape-shifting flame."
+  }
+}

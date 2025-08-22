@@ -1,0 +1,32 @@
+{
+  "Kural_Info": {
+    "Number": 1204,
+    "Chapter": "நினைந்தவர்புலம்பல் (Sad Memories)",
+    "Tamil_Text": "யாமும் உளேங்கொல் அவர்நெஞ்சத்து எந்நெஞ்சத்துஓஒ உளரே அவர்.",
+    "English_Meaning": "Am I in his heart too? O, he is ever in my heart."
+  },
+  "Flux_Optimized_Prompt": {
+    "Layered_Composition": {
+      "Foreground": "A woman is shown with her hand over her heart. Her heart ('En Nenjam') is depicted as a luminous, transparent sphere, inside which a clear, perfect image of her lover resides ('Ularē Avar').",
+      "Midground": "She is looking towards her distant lover. His heart ('Avar Nenju') is also shown as a sphere, but it is opaque and mysterious from her perspective. She is questioning if her image is inside ('Yaamum Ulēngol?').",
+      "Background": "A vast, empty space separates them, emphasizing the distance and her uncertainty about his feelings, in contrast to the certainty of her own."
+    },
+    "Art_Direction": {
+      "Subject_and_Action": "A lover's poignant question: He is always present in my heart, but am I also present in his?",
+      "Symbolic_Motifs": "The transparent heart revealing the lover's image versus the opaque heart of the lover. This visualizes the asymmetry of knowledge in her longing.",
+      "Mood_and_Emotion": "Longing, questioning, uncertain, devoted.",
+      "Lighting_and_Color": "A warm, golden light emanates from her transparent heart, illuminating her. Her lover and his opaque heart are in cooler, more distant light. The palette reflects her warmth and his perceived distance."
+    },
+    "Technical_Cues": {
+      "Camera": "A shot that frames both figures, using depth of field to keep her and her transparent heart in sharp focus, while he remains distant and slightly out of focus.",
+      "Resolution": "8K, surreal realism, with beautiful glass and light effects for the hearts.",
+      "Lighting": "Symbolic lighting that highlights her certainty and his mystery.",
+      "Art_Genre": "Mystical romantic art."
+    },
+    "Cultural_Anchors": [
+      "The heart as a container for the beloved (நெஞ்சில் இருத்தல்)",
+      "The uncertainty of a lover's feelings"
+    ]
+  },
+  "Negative_Prompt": "both hearts transparent, both hearts opaque, a modern setting, text artifacts, cartoonish, blurry."
+}

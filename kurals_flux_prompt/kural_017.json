@@ -1,0 +1,39 @@
+{
+  "Kural_Info": {
+    "Number": 17,
+    "Chapter": "வான்சிறப்பு (The Blessing of Rain)",
+    "Tamil_Text": "நெடுங்கடலும் தன்நீர்மை குன்றும் தடிந்தெழிலிதான்நல்கா தாகி விடின்.",
+    "English_Meaning": "Even the wealth of the wide sea will be diminished, if the cloud that has drawn its waters up gives them not back again (in rain)."
+  },
+  "Flux_Optimized_Prompt": {
+    "Layered_Composition": {
+      "Foreground": "The shoreline of a vast ocean ('நெடுங்கடல்'), but the water has receded unnaturally, exposing coral reefs and the seabed. The ocean's usual vibrant blue is faded and dull.",
+      "Midground": "The surface of the ocean appears diminished and lacks its characteristic swell and power, symbolizing its loss of nature ('தன்நீர்மை குன்றும்').",
+      "Background": "In the sky, colossal clouds ('எழிலி') are seen drawing up huge waterspouts from the ocean, but they are moving away without releasing any of it back as rain, breaking the natural cycle."
+    },
+    "Art_Direction": {
+      "Subject_and_Action": "The mighty ocean itself losing its essential quality and diminishing in stature because the clouds fail to return the water they have taken, thus breaking the fundamental cycle of nature.",
+      "Symbolic_Motifs": "The clouds are depicted as selfish hoarders, taking from the sea without giving back. The exposed seabed is littered with the treasures of the deep, now rendered dull and lifeless out of the water.",
+      "Mood_and_Emotion": "Cosmic imbalance, unnatural, depletion, cyclical failure.",
+      "Lighting_and_Color": "A strange, surreal light. The ocean is a muted, sickly teal instead of a vibrant blue. The clouds are dark and heavy, but lit in a way that shows they are full of hoarded water. The overall palette is desaturated and unsettling."
+    },
+    "Technical_Cues": {
+      "Camera": "Ultra-wide cinematic vista, low angle from the exposed shoreline to emphasize the unnatural scale of the receding ocean.",
+      "Resolution": "8K, hyper-realistic, with detailed textures for the exposed coral and the water surface.",
+      "Lighting": "Eerie, surreal ambient light. Volumetric effects showing the water being drawn up into the clouds.",
+      "Art_Genre": "Surrealist landscape painting, epic fantasy digital art."
+    },
+    "Cultural_Anchors": [
+      "The great ocean (நெடுங்கடல்) as a symbol of immensity",
+      "The natural water cycle as a metaphor for cosmic law and duty",
+      "The concept of 'Than-neermai' (its own nature) being lost"
+    ]
+  },
+  "Negative_Prompt": "raining, full ocean, high tide, vibrant colors, healthy marine life, small lake, text artifacts, cartoonish clouds.",
+  "Hyperparameters": {
+    "variant": "pro",
+    "steps": 50,
+    "cfg_scale": 8,
+    "seed": "Explore variations for the appearance of the waterspouts."
+  }
+}

@@ -1,0 +1,38 @@
+{
+  "Kural_Info": {
+    "Number": 1124,
+    "Chapter": "காதற்சிறப்புரைத்தல் (Declaration of Love's special Excellence)",
+    "Tamil_Text": "வாழ்தல் உயிர்க்கன்னள் ஆயிழை சாதல்அதற்கன்னள் நீங்கும் இடத்து.",
+    "English_Meaning": "My fair-jewelled one resembles the living soul (when she is in union with me), the dying soul when she leaves me."
+  },
+  "Flux_Optimized_Prompt": {
+    "Layered_Composition": {
+      "Foreground": "A split composition of a lover's state.",
+      "Midground": "On the left, his bejeweled beloved ('ஆயிழை') is with him. In this state, she is equated with his very life-force; she is a radiant, golden, vibrant soul ('உயிர்க்கு அன்னள்') that makes his world one of life ('வாழ்தல்').",
+      "Background": "On the right, she is shown departing ('நீங்கும் இடத்து'). In this state, she is equated with the act of dying; she becomes a fading, grey, departing soul, and her absence plunges his world into the state of death ('சாதல்')."
+    },
+    "Art_Direction": {
+      "Subject_and_Action": "The beloved is the lover's very life: her presence is life itself, and her departure is death itself.",
+      "Symbolic_Motifs": "The direct equation of her presence with a vibrant soul and her absence with a dying soul is the core of the image. The world around the lover should reflect these two states: one is a flourishing garden, the other is a desolate wasteland.",
+      "Mood_and_Emotion": "Absolute dependence, life and death, dramatic.",
+      "Lighting_and_Color": "The 'life' scene is bathed in a warm, vibrant, golden light of life. The 'death' scene is a cold, fading, monochromatic grey of despair.",
+      "Technical_Cues": {
+        "Camera": "A stark diptych that shows the two absolute states, life and death, as being solely dependent on her presence or absence.",
+        "Resolution": "8K, ultra-realistic, with strong ethereal effects for the 'soul's' appearance in both states.",
+        "Lighting": "Strongly contrasting dual lighting to represent life and death.",
+        "Art_Genre": "Symbolic realism, allegorical art."
+      },
+      "Cultural_Anchors": [
+        "In life, she is like the soul (வாழ்தல் உயிர்க்கு அன்னள்)",
+        "In separation, she is like death (சாதல் அதற்கன்னள்)"
+      ]
+    },
+    "Negative_Prompt": "lover being fine with her departure, text artifacts.",
+    "Hyperparameters": {
+      "variant": "pro",
+      "steps": 50,
+      "cfg_scale": 9,
+      "seed": "Explore the visual difference between the 'living soul' and 'dying soul'."
+    }
+  }
+}

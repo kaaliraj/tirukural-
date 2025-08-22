@@ -1,0 +1,38 @@
+{
+  "Kural_Info": {
+    "Number": 220,
+    "Chapter": "ஒப்புரவறிதல் (Duty to Society)",
+    "Tamil_Text": "ஒப்புரவி னால்வரும் கேடெனின் அஃதொருவன்விற்றுக்கோள் தக்க துடைத்து.",
+    "English_Meaning": "If it be said that loss will result from benevolence, such loss is worth being procured even by the sale of one's self."
+  },
+  "Flux_Optimized_Prompt": {
+    "Layered_Composition": {
+      "Foreground": "A person is shown deliberately selling themselves into servitude ('விற்றுக் கோள்').",
+      "Midground": "The money they receive from this act is not for themselves. They are immediately using it to perform a great act of benevolence that results in a great material loss for them ('ஒப்புரவினால் வரும் கேடு').",
+      "Background": "Despite the personal loss and servitude, this action is shown to be of the highest worth ('தக்கதுடைத்து'). The person's face is not one of sadness, but of profound and noble purpose. They have judged this 'ruin' to be a worthy price to pay for the virtue of benevolence."
+    },
+    "Art_Direction": {
+      "Subject_and_Action": "A ruin that comes as a result of practicing benevolence is so worthy that it is worth selling oneself to acquire.",
+      "Symbolic_Motifs": "The act of self-sale is a powerful metaphor for the ultimate sacrifice. The key is that this sacrifice is made *in order to be benevolent*. They are not selling themselves out of desperation, but as a proactive choice to fund their charity.",
+      "Mood_and_Emotion": "Noble sacrifice, supreme virtue, ultimate generosity, profound.",
+      "Lighting_and_Color": "The scene of self-sale and material ruin is in stark, harsh colors. However, the person themselves and the act of benevolence they perform are bathed in a brilliant, divine, golden light of supreme virtue. This light shows the true worth of their action.",
+      "Technical_Cues": {
+        "Camera": "A dramatic shot that captures the act of self-sale and the immediate, noble use of its proceeds, showing the entire virtuous transaction.",
+        "Resolution": "8K, hyper-realistic, focusing on the noble and determined expression of the protagonist.",
+        "Lighting": "The act of benevolence is the source of a powerful, divine light that overcomes the darkness of the personal sacrifice.",
+        "Art_Genre": "Heroic realism, allegorical painting."
+      },
+      "Cultural_Anchors": [
+        "The ruin that comes from benevolence (ஒப்புரவினால் வரும் கேடு)",
+        "Is worthy of being procured by selling oneself (ஒருவன் விற்றுக் கோள் தக்கதுடைத்து)"
+      ]
+    },
+    "Negative_Prompt": "person regretting the act, sad person, text artifacts.",
+    "Hyperparameters": {
+      "variant": "pro",
+      "steps": 55,
+      "cfg_scale": 9,
+      "seed": "Explore the visual of the 'noble sacrifice'."
+    }
+  }
+}

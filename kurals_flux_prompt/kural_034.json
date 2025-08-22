@@ -1,0 +1,39 @@
+{
+  "Kural_Info": {
+    "Number": 34,
+    "Chapter": "அறன் வலியுறுத்தல் (Assertion of the Strength of Virtue)",
+    "Tamil_Text": "மனத்துக்கண் மாசிலன் ஆதல் அனைத்தறன்ஆகுல நீர பிற.",
+    "English_Meaning": "Let him who does virtuous deeds be of spotless mind; to that extent is virtue; all else is vain show."
+  },
+  "Flux_Optimized_Prompt": {
+    "Layered_Composition": {
+      "Foreground": "A meditating figure whose heart is a brilliantly glowing, flawless crystal, representing a 'spotless mind' ('மனத்துக்கண் மாசிலன்').",
+      "Midground": "Around this central figure, other individuals are engaged in elaborate and loud public rituals and charities. However, these figures are depicted as translucent, hollow glass shells, symbolizing their lack of inner substance ('ஆகுல நீர பிற').",
+      "Background": "A simple, serene, natural setting, reinforcing that true virtue requires no grand stage, only inner purity."
+    },
+    "Art_Direction": {
+      "Subject_and_Action": "The absolute primacy of a pure mind as the only true measure of virtue, contrasted with external acts which, without it, are mere empty show.",
+      "Symbolic_Motifs": "The crystal heart radiates a pure, white light that is calm and steady. The 'showy' acts of the glass figures create loud but meaningless flashes of colored light, like fireworks.",
+      "Mood_and_Emotion": "Serene introspection vs. hollow ostentation; purity, authenticity, contemplative.",
+      "Lighting_and_Color": "The central figure is lit from within by the pure, white light of their heart. The surrounding glass figures are lit externally, reflecting the light but having no source of their own. The palette contrasts the pure white with flashy, insubstantial colors.",
+      "Technical_Cues": {
+        "Camera": "Centered medium shot with a shallow depth of field, focusing intensely on the figure with the crystal heart while the ostentatious figures in the background are slightly blurred.",
+        "Resolution": "8K, ultra-realistic, with advanced ray tracing for the crystal and glass effects.",
+        "Lighting": "High contrast between the soft, internal light of the main subject and the harsh, external lights on the others.",
+        "Art_Genre": "Symbolic realism, allegorical digital painting."
+      },
+      "Cultural_Anchors": [
+        "Manathukkan Maasilan (மனத்துக்கண் மாசிலன்) - Spotless Mind",
+        "The core of Aram (அறன்) as internal purity",
+        "Aakula neera (ஆகுல நீர) - The nature of mere noisy show"
+      ]
+    },
+    "Negative_Prompt": "glowing glass figures, dark crystal heart, chaotic meditation, text artifacts, deformed limbs, gaudy background.",
+    "Hyperparameters": {
+      "variant": "pro",
+      "steps": 50,
+      "cfg_scale": 7,
+      "seed": "Explore variations for the appearance of the hollow glass figures."
+    }
+  }
+}

@@ -1,0 +1,38 @@
+{
+  "Kural_Info": {
+    "Number": 310,
+    "Chapter": "வெகுளாமை (Restraining Anger)",
+    "Tamil_Text": "இறந்தார் இறந்தார் அனையர் சினத்தைத்துறந்தார் துறந்தார் துணை.",
+    "English_Meaning": "Those, who give way to excessive anger, are no better than dead men; but those, who are freed from it, are equal to those who are freed (from death)."
+  },
+  "Flux_Optimized_Prompt": {
+    "Layered_Composition": {
+      "Foreground": "A split composition.",
+      "Midground": "On the left, a person is in the grip of excessive anger. They are shown as a walking corpse or a zombie ('இறந்தார் அனையர்'), their body grey and decaying, their eyes lifeless. Their anger has killed their spirit.",
+      "Background": "On the right, a person has completely renounced anger ('சினத்தைத் துறந்தார்'). They are shown to be the equal of a great ascetic who has renounced the world and conquered death ('துறந்தார் துணை'). Both the man free from anger and the ascetic are depicted as radiant, immortal beings, glowing with a divine light."
+    },
+    "Art_Direction": {
+      "Subject_and_Action": "A stark contrast between the two fates determined by anger: those who are full of rage are the living dead, while those who have renounced rage are the equals of the immortal sages.",
+      "Symbolic_Motifs": "The angry man as a literal zombie is a powerful metaphor for spiritual death. The man free from anger being visually identical to the immortal sage shows that this single act of renunciation is enough to achieve an enlightened state.",
+      "Mood_and_Emotion": "Living death vs. immortality, damned vs. enlightened.",
+      "Lighting_and_Color": "The left side is a dark, decaying, and morbid scene of grey and sickly green. The right side is bathed in the brilliant, pure, white-gold light of immortality and enlightenment.",
+      "Technical_Cues": {
+        "Camera": "A diptych that starkly contrasts the living death of anger with the radiant immortality of non-anger.",
+        "Resolution": "8K, hyper-realistic, with grotesque decaying effects for the angry man and beautiful ethereal effects for the enlightened figures.",
+        "Lighting": "Extreme high-contrast lighting to represent the two opposing states of being.",
+        "Art_Genre": "Dark fantasy vs. high fantasy."
+      },
+      "Cultural_Anchors": [
+        "The wrathful are like the dead (இறந்தார் இறந்தார் அனையர்)",
+        "Those who renounce anger are the companions of the renounced (immortals) (சினத்தைத் துறந்தார் துறந்தார் துணை)"
+      ]
+    },
+    "Negative_Prompt": "happy angry man, sad sage, text artifacts.",
+    "Hyperparameters": {
+      "variant": "pro",
+      "steps": 55,
+      "cfg_scale": 9,
+      "seed": "Explore the visual of the 'angry man as a walking corpse'."
+    }
+  }
+}

@@ -1,0 +1,38 @@
+{
+  "Kural_Info": {
+    "Number": 339,
+    "Chapter": "நிலையாமை (Instability)",
+    "Tamil_Text": "உறங்கு வதுபோலுஞ் சாக்காடு உறங்கிவிழிப்பது போலும் பிறப்பு.",
+    "English_Meaning": "Death is like sleeping, and birth is like waking from it."
+  },
+  "Flux_Optimized_Prompt": {
+    "Layered_Composition": {
+      "Foreground": "A diptych or split-screen composition.",
+      "Midground": "On the left side, a person is shown peacefully lying down to sleep ('உறங்குவது'). This state is labeled 'Death' ('சாக்காடு'). The scene is calm and transitional, not terrifying.",
+      "Background": "On the right side, the same person is shown waking up refreshed and opening their eyes ('விழிப்பது'). This state is labeled 'Birth' ('பிறப்பு'). The scene is one of a new beginning."
+    },
+    "Art_Direction": {
+      "Subject_and_Action": "A profound re-framing of death and birth, stripping them of their terror and finality. Death is presented as nothing more than falling asleep, and birth is nothing more than waking up.",
+      "Symbolic_Motifs": "The continuity of the person is key—it is the same soul undergoing the process. The peacefulness of both sleeping and waking removes the usual fear associated with these events. The imagery should be serene and cyclical.",
+      "Mood_and_Emotion": "Serene, cyclical, peaceful, transitional, unafraid.",
+      "Lighting_and_Color": "The 'death/sleep' scene is in the calm, cool, peaceful tones of deep night or twilight. The 'birth/waking' scene is in the bright, fresh, hopeful colors of dawn.",
+      "Technical_Cues": {
+        "Camera": "A calm, static, and balanced shot that presents the two states as a natural and equal pair.",
+        "Resolution": "8K, ultra-realistic, with a focus on the peaceful expressions of the person in both states.",
+        "Lighting": "A clear transition from the soft darkness of sleep to the bright clarity of waking.",
+        "Art_Genre": "Symbolic realism, philosophical illustration."
+      },
+      "Cultural_Anchors": [
+        "Death is like sleep (உறங்குவது போலும் சாக்காடு)",
+        "Birth is like waking (விழிப்பது போலும் பிறப்பு)"
+      ]
+    },
+    "Negative_Prompt": "terrifying death, painful birth, different people, text artifacts.",
+    "Hyperparameters": {
+      "variant": "dev",
+      "steps": 40,
+      "cfg_scale": 7,
+      "seed": "Explore the transition between the twilight and dawn color palettes."
+    }
+  }
+}

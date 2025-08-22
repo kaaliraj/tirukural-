@@ -1,0 +1,33 @@
+{
+  "Kural_Info": {
+    "Number": 1194,
+    "Chapter": "தனிப்படர்மிகுதி (The Solitary Anguish)",
+    "Tamil_Text": "வீழப் படுவார் கெழீஇயிலர் தாம்வீழ்வார்வீழப் படாஅர் எனின்.",
+    "English_Meaning": "Those well-beloved will luckless prove, Unless beloved by those they love."
+  },
+  "Flux_Optimized_Prompt": {
+    "Layered_Composition": {
+      "Foreground": "A person is shown who is admired and loved by many ('Veezhap Paduvaar'). A crowd of admirers is visible in the background.",
+      "Midground": "However, the one person that they truly love ('Thaam Veezhvaar') is shown turning away, not returning their affection ('Veezhap Padaar').",
+      "Background": "Because of this one-sided love, the protagonist is depicted as being fundamentally alone and without true companionship ('Kezheeiyilar'), despite being surrounded by admirers. Their world is gray and colorless, while the world of the admirers is vibrant."
+    },
+    "Art_Direction": {
+      "Subject_and_Action": "A person may be loved by the whole world, but if they are not loved back by the one person they love, they remain without true, meaningful companionship.",
+      "Symbolic_Motifs": "The contrast between the adoring crowd and the single, rejecting lover. The protagonist's personal world being gray and joyless despite the adoration of others.",
+      "Mood_and_Emotion": "Lonely, tragic, ironic, a sense of profound and specific emotional poverty.",
+      "Lighting_and_Color": "A spotlight of cold, gray light on the protagonist, isolating them. The adoring crowd and the rejecting lover are in a different, warmer light, emphasizing that the protagonist is cut off from true joy."
+    },
+    "Technical_Cues": {
+      "Camera": "Medium shot on the protagonist, capturing their lonely expression, with the background elements clearly telling the story of their situation.",
+      "Resolution": "8K, photorealistic, with a strong focus on emotional storytelling.",
+      "Lighting": "Symbolic use of color and light to isolate the protagonist from their surroundings.",
+      "Art_Genre": "Psychological realism."
+    },
+    "Cultural_Anchors": [
+      "The pain of one-sided love",
+      "The difference between admiration and mutual love",
+      "கெழீஇயிலர் (Without true intimacy/companionship)"
+    ]
+  },
+  "Negative_Prompt": "a happy protagonist, the lover returning affection, modern setting, text artifacts, cartoonish."
+}

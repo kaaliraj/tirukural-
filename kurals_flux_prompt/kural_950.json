@@ -1,0 +1,41 @@
+{
+  "Kural_Info": {
+    "Number": 950,
+    "Chapter": "மருந்து (Medicine)",
+    "Tamil_Text": "உற்றவன் தீர்ப்பான் மருந்துழைச் செல்வானென்று அப்பால் நாற்கூற்றே மருந்து.",
+    "English_Meaning": "Medical science consists of four parts, viz., patient, physician, medicine and compounder; and each of these (again) contains four sub-divisions."
+  },
+  "Flux_Optimized_Prompt": {
+    "Layered_Composition": {
+      "Foreground": "A central scene of healing is depicted, but it is shown to be a collaboration of four essential parts.",
+      "Midground": "The four parts are: the Patient ('உற்றவன்'), who is receptive to treatment; the Physician ('தீர்ப்பான்'), who diagnoses and prescribes; the Medicine ('மருந்து') itself, which is potent and correct; and the skilled Nurse or attendant who cares for the patient and administers the medicine ('உழைச் செல்வான்').",
+      "Background": "These four components are shown working together in perfect harmony, like four pillars supporting a temple of health. The image shows that medicine ('மருந்து') is not a single thing, but this fourfold system ('நாற்கூற்று')."
+    },
+    "Art_Direction": {
+      "Subject_and_Action": "Medicine is a system composed of four parts: the patient, the doctor, the medicine, and the caregiver.",
+      "Symbolic_Motifs": "The four figures working in harmony is the key. The 'four pillars of health' analogy can be a powerful visual structure.",
+      "Mood_and_Emotion": "Collaborative, holistic, systematic, healing.",
+      "Lighting_and_Color": "A bright, clean, and hopeful light. The colors are calm and healing, such as soft greens, blues, and whites.",
+      "Technical_Cues": {
+        "Camera": "A wide, balanced shot that gives equal importance to all four components of the medical system.",
+        "Resolution": "8K, with a clean, orderly, and positive aesthetic.",
+        "Lighting": "Bright, healing light.",
+        "Art_Genre": "Idealized realism, with a symbolic composition."
+      },
+      "Cultural_Anchors": [
+        "The Four Parts of Medicine:",
+        "The Patient ('உற்றவன்')",
+        "The Healer ('தீர்ப்பான்')",
+        "The Medicine ('மருந்து')",
+        "The Caregiver ('உழைச் செல்வான்')"
+      ]
+    },
+    "Negative_Prompt": "a missing part, an unhappy patient, text artifacts, cartoonish.",
+    "Hyperparameters": {
+      "variant": "pro",
+      "steps": 50,
+      "cfg_scale": 8,
+      "seed": "Explore variations for the poses of the four figures."
+    }
+  }
+}

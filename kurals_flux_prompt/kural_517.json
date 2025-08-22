@@ -1,0 +1,39 @@
+{
+  "Kural_Info": {
+    "Number": 517,
+    "Chapter": "தெரிந்துவினையாடல் (Selection and Employment)",
+    "Tamil_Text": "இதனை இதனால் இவன்முடிக்கும் என்றாய்ந்து அதனை அவன்கண் விடல்.",
+    "English_Meaning": "After having considered, 'this man can accomplish this, by these means', let (the king) leave with him the discharge of that duty."
+  },
+  "Flux_Optimized_Prompt": {
+    "Layered_Composition": {
+      "Foreground": "A king is shown in the first phase of a diptych. He is deeply analyzing a situation, with three glowing icons in his mind: a person ('இவன்'), a task ('இதனை'), and a set of tools ('இதனால்'). He is fitting them together like puzzle pieces.",
+      "Midground": "In the second phase of the diptych, having completed his analysis, the king is shown turning his back completely and walking away. He has fully entrusted the task to the chosen person ('அதனை அவன்கண் விடல்').",
+      "Background": "In the background of the second panel, the chosen person is shown successfully and independently completing the task, proving the king's judgment and trust were well-placed."
+    },
+    "Art_Direction": {
+      "Subject_and_Action": "The two-step process of effective delegation: first, thoroughly analyze who can do what with which means; second, having decided, entrust the task completely without interference.",
+      "Symbolic_Motifs": "The mental puzzle pieces represent the analysis. The king physically turning his back and walking away is a powerful symbol of complete entrustment.",
+      "Mood_and_Emotion": "Analytical, then trusting. Confident, delegatory, efficient.",
+      "Lighting_and_Color": "The analysis phase is lit with a cool, intellectual light. The entrustment and success phase is lit with a warm, confident light.",
+      "Technical_Cues": {
+        "Camera": "A two-panel composition that clearly tells the 'before' and 'after' of the delegation process.",
+        "Resolution": "8K, with clear symbolic graphics for the analysis phase.",
+        "Lighting": "Shifting light scheme to match the two stages of the process.",
+        "Art_Genre": "Narrative illustration, conceptual art."
+      }
+    },
+    "Cultural_Anchors": [
+      "Analysis of Person, Task, and Means ('இதனை இதனால் இவன் முடிக்கும்')",
+      "Complete Entrustment ('அதனை அவன்கண் விடல்')",
+      "The art of delegation."
+    ]
+  },
+  "Negative_Prompt": "king interfering, person failing the task, text artifacts, blurry.",
+  "Hyperparameters": {
+    "variant": "pro",
+    "steps": 45,
+    "cfg_scale": 8,
+    "seed": "Explore variations for the puzzle piece icons."
+  }
+}

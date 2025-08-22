@@ -1,0 +1,39 @@
+{
+  "Kural_Info": {
+    "Number": 882,
+    "Chapter": "உட்பகை (Enmity within)",
+    "Tamil_Text": "வாள்போல பகைவரை அஞ்சற்க அஞ்சுக கேள்போல் பகைவர் தொடர்பு.",
+    "English_Meaning": "Fear not foes (who are) like a sword; (but) fear the friendship of foes (who seem) like relations."
+  },
+  "Flux_Optimized_Prompt": {
+    "Layered_Composition": {
+      "Foreground": "A hero stands between two threats. On the left is an open enemy, brandishing a sharp, gleaming sword ('வாள்போல பகைவர்'). The hero faces this enemy with caution but not terror.",
+      "Midground": "On the right is a secret enemy who is disguised as a loving, trusted relative ('கேள்போல் பகைவர்'). This false kinsman is offering the hero an embrace.",
+      "Background": "The hero is shown turning their gaze with true fear ('அஞ்சுக') towards the false kinsman, not the open enemy with the sword. The true danger is the hidden one."
+    },
+    "Art_Direction": {
+      "Subject_and_Action": "Fear not the enemy who is obvious like a sword; fear the enemy who pretends to be a friend or kinsman.",
+      "Symbolic_Motifs": "The open threat of the sword is contrasted with the hidden threat of the false embrace. The hero's gaze, directed with fear at the 'friend', tells the viewer where the real danger lies.",
+      "Mood_and_Emotion": "Deceptive, treacherous, a warning about hidden enemies.",
+      "Lighting_and_Color": "The open enemy is in a clear, confrontational light. The false kinsman is lit with a warm, deceptive light, but their shadow could be monstrous or threatening.",
+      "Technical_Cues": {
+        "Camera": "A shot that focuses on the hero's expression of fear, which is directed at the seemingly friendly figure.",
+        "Resolution": "8K, with a strong psychological and thriller-like atmosphere.",
+        "Lighting": "Dramatic lighting to create a threatening shadow for the false friend.",
+        "Art_Genre": "Historical fantasy, with a focus on intrigue."
+      },
+      "Cultural_Anchors": [
+        "An enemy like a sword ('வாள்போல பகைவர்')",
+        "An enemy like a kinsman ('கேள்போல் பகைவர்')",
+        "The greater fear of the hidden foe."
+      ]
+    },
+    "Negative_Prompt": "hero fearing the sword, a true kinsman, text artifacts.",
+    "Hyperparameters": {
+      "variant": "pro",
+      "steps": 50,
+      "cfg_scale": 9,
+      "seed": "Explore variations for the false friend's shadow."
+    }
+  }
+}

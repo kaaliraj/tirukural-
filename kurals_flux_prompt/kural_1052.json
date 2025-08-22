@@ -1,0 +1,33 @@
+{
+  "Kural_Info": {
+    "Number": 1052,
+    "Chapter": "இரவு (Mendicancy)",
+    "Tamil_Text": "இன்பம் ஒருவற்கு இரத்தல் இரந்தவைதுன்பம் உறாஅ வரின்.",
+    "English_Meaning": "Even to beg is a pleasure, when what is begged for is obtained without pain (to the giver)."
+  },
+  "Flux_Optimized_Prompt": {
+    "Layered_Composition": {
+      "Foreground": "A person is giving alms to another. The giver's face is filled with genuine joy and warmth, showing no sign of pain or reluctance ('Thunbam Uraa').",
+      "Midground": "The act of receiving the alms ('Iraththal') is depicted not as a moment of shame, but as a moment of shared joy ('Inbam'). A warm, pleasant light connects the giver's hand and the receiver's hand.",
+      "Background": "A harmonious and pleasant environment, suggesting that such joyful transactions create a better world for everyone."
+    },
+    "Art_Direction": {
+      "Subject_and_Action": "The act of asking and receiving can itself be a joyful experience, provided that the giving is done willingly and without causing any strain or sorrow to the giver.",
+      "Symbolic_Motifs": "The shared light between the hands represents the mutual joy. The happy and willing expression of the giver is crucial. The receiver is shown with gratitude, not shame.",
+      "Mood_and_Emotion": "Joyful, harmonious, mutually respectful, warm.",
+      "Lighting_and_Color": "A warm, golden, benevolent light illuminates the scene. The color palette is bright and cheerful, filled with warm tones to emphasize the feeling of 'Inbam' (joy)."
+    },
+    "Technical_Cues": {
+      "Camera": "Close-up on the hands and faces of the two individuals to capture the mutual emotion of the moment.",
+      "Resolution": "8K, photorealistic, with a focus on conveying sincere emotion.",
+      "Lighting": "Soft, warm key lighting that creates a gentle and pleasant atmosphere.",
+      "Art_Genre": "Humanistic realism, capturing a moment of pure, positive human connection."
+    },
+    "Cultural_Anchors": [
+      "இன்பம் (Joy/Pleasure)",
+      "இரத்தல் (Asking/Receiving)",
+      "துன்பம் உறாமை (Without causing pain)"
+    ]
+  },
+  "Negative_Prompt": "reluctant or pained giver, ashamed receiver, dark background, modern money, text artifacts, blurry."
+}

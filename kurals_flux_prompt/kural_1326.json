@@ -1,0 +1,38 @@
+{
+  "Kural_Info": {
+    "Number": 1326,
+    "Chapter": "ஊடலுவகை (The Pleasures of Temporary Variance)",
+    "Tamil_Text": "உணலினும் உண்டது அறல்இனிது காமம்புணர்தலின் ஊடல் இனிது.",
+    "English_Meaning": "The digestion of what has been eaten is more pleasant than the eating; so is the dislike (of lovers) more pleasant than their intercourse."
+  },
+  "Flux_Optimized_Prompt": {
+    "Layered_Composition": {
+      "Foreground": "A split composition illustrating a simile about pleasure.",
+      "Midground": "On the left, a person is shown first eating a delicious meal ('உணல்'). Then, in a subsequent scene, they are shown resting with a look of deep, serene satisfaction. This feeling of peaceful digestion ('உண்டது அறல்') is shown to be the 'sweeter' pleasure.",
+      "Background": "On the right, a couple is first shown in a passionate embrace ('புணர்தல்'). Then, in a subsequent scene, they are engaged in a playful, witty lover's pout ('ஊடல்'). The pleasure on their faces during this pout—the anticipation, the sweet tension—is shown to be even more delightful and 'sweeter' ('இனிது') than the pleasure of the embrace itself."
+    },
+    "Art_Direction": {
+      "Subject_and_Action": "A sophisticated comparison of pleasure: just as the peaceful satisfaction after a meal is sweeter than the act of eating, the playful tension of a lover's pout is sweeter than the act of union itself.",
+      "Symbolic_Motifs": "The hierarchy of pleasure is the key. In both cases, the state of longing and anticipation (pouting) or peaceful aftermath (digestion) is elevated above the moment of direct consummation (eating/union).",
+      "Mood_and_Emotion": "Sophisticated pleasure, anticipation, sweet tension, serene satisfaction.",
+      "Lighting_and_Color": "The lighting should reflect the quality of the pleasure. The act of eating/union is in a bright, passionate light. The state of digestion/pouting is in a deeper, more satisfying, and perhaps more golden, serene light.",
+      "Technical_Cues": {
+        "Camera": "A comparative diptych, showing the two parallel hierarchies of pleasure.",
+        "Resolution": "8K, ultra-realistic, with a focus on the subtle differences in the expressions of pleasure.",
+        "Lighting": "Contrasting lighting to differentiate between active pleasure and the 'sweeter' pleasure of its prelude/aftermath.",
+        "Art_Genre": "Symbolic realism, philosophical art."
+      },
+      "Cultural_Anchors": [
+        "Pouting is sweeter than union (புணர்தலின் ஊடல் இனிது)",
+        "Just as digesting is sweeter than eating (உணலினும் உண்டது அறல் இனிது)"
+      ]
+    },
+    "Negative_Prompt": "painful digestion, real argument, text artifacts.",
+    "Hyperparameters": {
+      "variant": "pro",
+      "steps": 50,
+      "cfg_scale": 7,
+      "seed": "Explore the visual difference between the two 'sweeter' pleasures."
+    }
+  }
+}

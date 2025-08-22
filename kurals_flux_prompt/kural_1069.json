@@ -1,0 +1,38 @@
+{
+  "Kural_Info": {
+    "Number": 1069,
+    "Chapter": "இரவச்சம் (The Dread of Mendicancy)",
+    "Tamil_Text": "இரவுள்ள உள்ளம் உருகும் கரவுள்ளஉள்ளதூஉம் இன்றிக் கெடும்.",
+    "English_Meaning": "To think of (the evil of) begging is enough to melt one's heart; but to think of refusal is enough to break it."
+  },
+  "Flux_Optimized_Prompt": {
+    "Layered_Composition": {
+      "Foreground": "A split composition focusing on the heart of a sensitive person.",
+      "Midground": "On the left, the person is merely thinking about the act of having to beg ('இரவு உள்ள'). In response to this thought, their heart is visualized as made of wax, which begins to gently melt with shame and sorrow ('உள்ளம் உருகும்').",
+      "Background": "On the right, the person is now thinking about the possibility of being refused ('கரவு உள்ள'). At this thought, their melting heart instantly shatters into a thousand pieces, as if made of brittle glass. It is not just melted, but completely destroyed ('இன்றிக் கெடும்')."
+    },
+    "Art_Direction": {
+      "Subject_and_Action": "A visual depiction of the two levels of pain associated with begging: the thought of begging melts the heart with shame, but the thought of being refused utterly shatters it.",
+      "Symbolic_Motifs": "The heart transforming from wax (melting) to glass (shattering) is the key metaphor. This shows the escalating scale of pain. The first pain is a sorrowful process; the second is a catastrophic event.",
+      "Mood_and_Emotion": "Sorrowful, shattering, heartbreaking, empathetic.",
+      "Lighting_and_Color": "The 'melting' scene is lit with a soft, sad, warm light. The 'shattering' scene is lit by a sudden, harsh, cold flash of light at the moment of impact. The colors go from a sad, warm hue to a cold, fragmented spectrum.",
+      "Technical_Cues": {
+        "Camera": "An extreme close-up on the symbolic heart, capturing both the process of melting and the sudden, violent act of shattering.",
+        "Resolution": "8K, hyper-realistic, with advanced material effects for melting wax and shattering glass.",
+        "Lighting": "A dynamic shift in lighting to match the two different states of pain.",
+        "Art_Genre": "Symbolic medical illustration, emotional conceptual art."
+      },
+      "Cultural_Anchors": [
+        "The heart melts at the thought of begging (இரவுள்ள உள்ளம் உருகும்)",
+        "The heart breaks at the thought of refusal (கரவுள்ள உள்ளம் கெடும்)"
+      ]
+    },
+    "Negative_Prompt": "stone heart, happy person, text artifacts.",
+    "Hyperparameters": {
+      "variant": "pro",
+      "steps": 55,
+      "cfg_scale": 9,
+      "seed": "Explore the visual of the heart shattering like glass."
+    }
+  }
+}

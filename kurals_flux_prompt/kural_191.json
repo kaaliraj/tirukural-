@@ -1,0 +1,38 @@
+{
+  "Kural_Info": {
+    "Number": 191,
+    "Chapter": "பயனில சொல்லாமை (Against Vain Speaking)",
+    "Tamil_Text": "பல்லார் முனியப் பயனில சொல்லுவான்எல்லாரும் எள்ளப் படும்.",
+    "English_Meaning": "He who to the disgust of many speaks useless things will be despised by all."
+  },
+  "Flux_Optimized_Prompt": {
+    "Layered_Composition": {
+      "Foreground": "A speaker is in the middle of a council of wise and serious people ('பல்லார்').",
+      "Midground": "He is speaking a stream of useless, nonsensical, and irrelevant words ('பயனில'). These words are visualized as a cloud of annoying, buzzing flies or meaningless fluff.",
+      "Background": "The entire council ('எல்லாரும்') is shown reacting with a universal expression of disgust, annoyance ('முனிய'), and scorn ('எள்ளப்படும்'). They are not listening, but are actively despising the speaker for wasting their time."
+    },
+    "Art_Direction": {
+      "Subject_and_Action": "The person who speaks useless words that annoy a large group will be universally despised by them.",
+      "Symbolic_Motifs": "The useless words as buzzing flies or fluff is a clear metaphor for their annoying and insubstantial nature. The unified, collective expression of scorn on the faces of the audience is the key emotional focus.",
+      "Mood_and_Emotion": "Annoying, despised, scornful, foolish.",
+      "Lighting_and_Color": "A serious, respectable light illuminates the council. The foolish speaker and his cloud of useless words are an irritating visual and auditory intrusion. The colors are jarring and annoying.",
+      "Technical_Cues": {
+        "Camera": "A wide shot that captures the speaker and the unanimous, negative reaction of the entire assembly.",
+        "Resolution": "8K, ultra-realistic, with a strong focus on the varied but unified expressions of contempt on the faces of the audience.",
+        "Lighting": "The speaker is lit in a way that makes them look foolish and out of place.",
+        "Art_Genre": "Social satire, realism."
+      },
+      "Cultural_Anchors": [
+        "Speaking useless things that many dislike (பல்லார் முனியப் பயனில சொல்லுவான்)",
+        "Will be despised by all (எல்லாரும் எள்ளப்படும்)"
+      ]
+    },
+    "Negative_Prompt": "audience listening intently, speaker looking wise, text artifacts.",
+    "Hyperparameters": {
+      "variant": "dev",
+      "steps": 40,
+      "cfg_scale": 8,
+      "seed": "Explore the visual of 'words as buzzing flies'."
+    }
+  }
+}

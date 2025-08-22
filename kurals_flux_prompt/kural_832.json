@@ -1,0 +1,39 @@
+{
+  "Kural_Info": {
+    "Number": 832,
+    "Chapter": "பேதைமை (Folly)",
+    "Tamil_Text": "பேதைமையுள் எல்லாம் பேதைமை காதன்மைக் கையல்ல தன்கட் செயல்.",
+    "English_Meaning": "The greatest folly is that which leads one to take delight in doing what is forbidden."
+  },
+  "Flux_Optimized_Prompt": {
+    "Layered_Composition": {
+      "Foreground": "A foolish person is shown joyfully and lovingly ('காதன்மை') performing an act that is clearly harmful and improper ('கையல்லது'). This could be drinking poison from a beautiful chalice, or happily sawing off the branch they are sitting on.",
+      "Midground": "This single act of finding pleasure in a forbidden/harmful act is depicted as the absolute peak of foolishness. It is the 'folly of follies' ('பேதைமையுள் எல்லாம் பேதைமை').",
+      "Background": "The inevitable, disastrous consequence of their action is shown about to happen—the branch is about to snap, the poison is about to take effect."
+    },
+    "Art_Direction": {
+      "Subject_and_Action": "The greatest folly of all is to desire and take pleasure in actions that are forbidden or harmful to oneself.",
+      "Symbolic_Motifs": "The joyful expression while performing a self-destructive act is the key visual paradox. This highlights the extreme irrationality being described.",
+      "Mood_and_Emotion": "Perverse, irrational, self-destructive, the ultimate folly.",
+      "Lighting_and_Color": "A bright, almost manically happy light on the fool's face, which contrasts starkly with the dark and dangerous nature of their action.",
+      "Technical_Cues": {
+        "Camera": "A shot that captures both the fool's delight and the impending doom in a single, tense frame.",
+        "Resolution": "8K, with a focus on the crazed, joyful expression.",
+        "Lighting": "High-contrast, ironic lighting.",
+        "Art_Genre": "Dark comedy, tragicomedy."
+      }
+    },
+    "Cultural_Anchors": [
+      "The Folly of Follies ('பேதைமையுள் எல்லாம் பேதைமை')",
+      "Loving to do the improper ('காதன்மை கையல்லது செயல்')",
+      "Perverse desire."
+    ]
+  },
+  "Negative_Prompt": "a person looking sad while doing something harmful, text artifacts.",
+  "Hyperparameters": {
+    "variant": "dev",
+    "steps": 45,
+    "cfg_scale": 9,
+    "seed": "Explore the 'sawing the branch' metaphor."
+  }
+}

@@ -1,0 +1,39 @@
+{
+  "Kural_Info": {
+    "Number": 395,
+    "Chapter": "கல்வி (Learning)",
+    "Tamil_Text": "உடையார்முன் இல்லார்போல் ஏக்கற்றுங் கற்றார் கடையரே கல்லா தவர்.",
+    "English_Meaning": "With soul submiss they stand, as paupers front a rich man's face; Yet learned men are first; th'unlearned stand in lowest place."
+  },
+  "Flux_Optimized_Prompt": {
+    "Layered_Composition": {
+      "Foreground": "A learned scholar ('கற்றார்') is shown humbly bowing before a great master, eagerly seeking more knowledge, much like a poor person ('இல்லார்போல்') before a wealthy one.",
+      "Midground": "In contrast, an arrogant unlearned person ('கல்லாதவர்') stands with their back turned, arms crossed, refusing to learn. A subtle shadow of ignorance looms over them.",
+      "Background": "A grand stairway leading up to a radiant temple of knowledge. The humble scholar is at the first step, ready to ascend. The unlearned person is at the very bottom ('கடையர்'), refusing to even begin the climb."
+    },
+    "Art_Direction": {
+      "Subject_and_Action": "The true learned are those who humbly seek more knowledge, making them the highest among people. The unlearned, in their arrogance, remain the lowest.",
+      "Symbolic_Motifs": "The humble posture of the scholar symbolizes the humility required for learning. The stairway represents the path of knowledge. The unlearned person's position at the bottom signifies their low status.",
+      "Mood_and_Emotion": "Humble, respectful (for the scholar), arrogant, ignorant (for the unlearned), contrasting.",
+      "Lighting_and_Color": "A bright, divine light shines down from the temple of knowledge, illuminating the scholar. The unlearned person is in a dimmer, shadowed area.",
+      "Technical_Cues": {
+        "Camera": "Wide shot that clearly shows the contrast in posture and position of the two figures relative to the stairway of knowledge.",
+        "Resolution": "8K, ultra-realistic, with detailed expressions conveying humility and arrogance.",
+        "Lighting": "High-contrast lighting to emphasize the spiritual difference between the two.",
+        "Art_Genre": "Allegorical realism, classical composition."
+      }
+    },
+    "Cultural_Anchors": [
+      "Humility in Learning",
+      "The Learned ('கற்றார்') as the highest",
+      "The Unlearned ('கல்லாதவர்') as the lowest ('கடையர்')"
+    ]
+  },
+  "Negative_Prompt": "arrogant scholar, humble unlearned person, modern setting, text artifacts, blurry.",
+  "Hyperparameters": {
+    "variant": "pro",
+    "steps": 50,
+    "cfg_scale": 8,
+    "seed": "Explore variations for the design of the temple of knowledge."
+  }
+}

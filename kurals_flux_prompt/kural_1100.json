@@ -1,0 +1,38 @@
+{
+  "Kural_Info": {
+    "Number": 1100,
+    "Chapter": "குறிப்பறிதல் (Recognition of the Signs)",
+    "Tamil_Text": "கண்ணொடு கண்இணை நோக்கொக்கின் வாய்ச்சொற்கள்என்ன பயனும் இல.",
+    "English_Meaning": "The words of the mouths are of no use whatever, when there is perfect agreement between the eyes (of lovers)."
+  },
+  "Flux_Optimized_Prompt": {
+    "Layered_Composition": {
+      "Foreground": "Two lovers are looking deeply into each other's eyes. Their gazes are perfectly matched and in complete unison ('கண்ணொடு கண் இணை நோக்கு ஒக்கின்').",
+      "Midground": "A powerful, silent communication is happening between their eyes, visualized as a beautiful, solid bridge of pure light connecting them.",
+      "Background": "One of them begins to speak ('வாய்ச் சொற்கள்'). However, the spoken words are shown to be unnecessary and meaningless. They are visualized as flimsy, insubstantial bubbles that simply float away and pop, having no purpose or effect ('என்ன பயனும் இல'). The communication of the eyes has already made them completely redundant."
+    },
+    "Art_Direction": {
+      "Subject_and_Action": "When two lovers' gazes meet in perfect, unified understanding, spoken words become completely superfluous and without any use.",
+      "Symbolic_Motifs": "The bridge of light from the eyes represents the deep, perfect, silent communication. The words as flimsy, popping bubbles represent their complete uselessness in this context. The contrast between the solid bridge and the empty bubbles is key.",
+      "Mood_and_Emotion": "Perfect union, complete understanding, silent communication, transcendent.",
+      "Lighting_and_Color": "The primary light source is the powerful, radiant bridge of light connecting their eyes. This divine light of understanding makes the whole scene glow. The word-bubbles are transparent and colorless.",
+      "Technical_Cues": {
+        "Camera": "An intimate close-up on the two faces, focusing on their locked gaze and the symbolic bridge of light, with the useless word-bubbles floating by unnoticed.",
+        "Resolution": "8K, ultra-realistic, with strong ethereal effects for the bridge of light.",
+        "Lighting": "The light from their shared gaze should be the dominant, magical light source.",
+        "Art_Genre": "High-romance portraiture, magical realism."
+      },
+      "Cultural_Anchors": [
+        "When eye matches with eye in a unified gaze (கண்ணொடு கண் இணை நோக்கு ஒக்கின்)",
+        "Words from the mouth have no use (வாய்ச் சொற்கள் என்ன பயனும் இல)"
+      ]
+    },
+    "Negative_Prompt": "lovers talking happily, text artifacts, miscommunication.",
+    "Hyperparameters": {
+      "variant": "pro",
+      "steps": 55,
+      "cfg_scale": 8,
+      "seed": "Explore the design of the 'bridge of light' between their eyes."
+    }
+  }
+}

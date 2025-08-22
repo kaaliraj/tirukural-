@@ -1,0 +1,39 @@
+{
+  "Kural_Info": {
+    "Number": 1294,
+    "Chapter": "நெஞ்சொடுபுலத்தல் (Expostulation with Oneself)",
+    "Tamil_Text": "இனிஅன்ன நின்னொடு சூழ்வார்யார் நெஞ்சேதுனிசெய்து துவ்வாய்காண் மற்று.",
+    "English_Meaning": "O my soul! you would not first seem sulky and then enjoy (him); who then would in future consult you about such things?."
+  },
+  "Flux_Optimized_Prompt": {
+    "Layered_Composition": {
+      "Foreground": "A woman is shown with her lover, who has just returned. Her heart ('நெஞ்சே') had a plan: to first show dislike and pout ('துனி செய்து'), and then later to enjoy his company ('துவ்வாய்').",
+      "Midground": "However, the heart is shown failing at this plan. It is so overwhelmed with joy that it is unable to perform the first part (pouting) and rushes straight to the second part (enjoyment).",
+      "Background": "The woman's intellect, personified as a separate, slightly exasperated version of herself, is shown chiding her heart. The intellect's words appear: 'Since you can't even follow a simple plan, who will ever consult with you again?' ('நின்னொடு சூழ்வார் யார்?'). The heart is shown to be too emotional and impulsive for strategic games of love."
+    },
+    "Art_Direction": {
+      "Subject_and_Action": "The woman's intellect scolds her impulsive heart for being unable to carry out the strategic plan of feigning anger before enjoying reunion, thus proving itself a poor counselor for the future.",
+      "Symbolic_Motifs": "The split between the rational, strategic 'intellect' and the impulsive, emotional 'heart' is the key. The heart's failure is a happy one, but it's a failure of discipline nonetheless. The scene is a humorous self-reproach.",
+      "Mood_and_Emotion": "Humorous, self-reproach, impulsive, failure of strategy.",
+      "Lighting_and_Color": "A warm, joyful, and slightly chaotic light. The heart glows with uncontrolled happiness. The personified intellect has a more serious, thoughtful expression.",
+      "Technical_Cues": {
+        "Camera": "A shot that captures the woman and her lover, with her 'intellect' and 'heart' shown as two small, shoulder-angel-like figures, arguing with each other.",
+        "Resolution": "8K, ultra-realistic, with a focus on the humorous and affectionate nature of the scene.",
+        "Lighting": "Warm, romantic lighting.",
+        "Art_Genre": "Romantic comedy, with symbolic personifications."
+      },
+      "Cultural_Anchors": [
+        "O Heart (நெஞ்சே)",
+        "You create dislike, but then you don't enjoy it (துனி செய்து துவ்வாய்)",
+        "Who will consult with you now? (நின்னொடு சூழ்வார் யார்?)"
+      ]
+    },
+    "Negative_Prompt": "heart successfully pouting, angry woman, text artifacts.",
+    "Hyperparameters": {
+      "variant": "dev",
+      "steps": 40,
+      "cfg_scale": 7,
+      "seed": "Explore the interaction between the 'intellect' and the 'heart'."
+    }
+  }
+}

@@ -1,0 +1,39 @@
+{
+  "Kural_Info": {
+    "Number": 336,
+    "Chapter": "நிலையாமை (Instability)",
+    "Tamil_Text": "நெருநல் உளனொருவன் இன்றில்லை என்னும்பெருமை உடைத்துஇவ் வுலகு.",
+    "English_Meaning": "This world possesses the greatness that one who yesterday was is not today."
+  },
+  "Flux_Optimized_Prompt": {
+    "Layered_Composition": {
+      "Foreground": "On the left side of the composition, a vibrant, living person is shown on 'yesterday' ('நெருநல்'). They are engaged in worldly activities, full of life.",
+      "Midground": "On the right side of the composition, the same space is shown on 'today' ('இன்று'). The person is gone. A profound and sudden emptiness fills the space where they were. All that remains is their faint, fading afterimage.",
+      "Background": "The World is personified as a vast, impassive, and majestic cosmic being, observing this sudden disappearance. Its expression is not cruel, but one of profound, unchanging majesty, possessing this awesome and terrifying power of erasure ('பெருமை உடைத்து')."
+    },
+    "Art_Direction": {
+      "Subject_and_Action": "The terrifying 'greatness' of the world is its power to make someone who existed yesterday utterly cease to exist today. This is presented as a fundamental, awe-inspiring, and impersonal law of nature.",
+      "Symbolic_Motifs": "The sudden emptiness is the key visual. The contrast between the living person and their absence is stark and immediate. The personified World's impassive grandeur emphasizes that this is not a personal tragedy, but a cosmic rule.",
+      "Mood_and_Emotion": "Awe-inspiring, terrifying, impersonal, majestic, profound.",
+      "Lighting_and_Color": "The 'yesterday' scene is in warm, vibrant colors of life. The 'today' scene is in cool, empty, silent colors. The cosmic World-figure is lit with a majestic, neutral, stellar light.",
+      "Technical_Cues": {
+        "Camera": "A static, wide diptych shot, presenting 'yesterday' and 'today' side-by-side to emphasize the instantaneous and complete change.",
+        "Resolution": "8K, ultra-realistic, with ethereal effects for the fading afterimage.",
+        "Lighting": "Dramatic dual lighting to contrast life and its sudden absence.",
+        "Art_Genre": "Cosmic surrealism, philosophical art."
+      },
+      "Cultural_Anchors": [
+        "Here yesterday (நெருநல் உளன்)",
+        "Not here today (இன்று இல்லை)",
+        "The 'Greatness' of the World (பெருமை உடைத்து இவ்வுலகு)"
+      ]
+    },
+    "Negative_Prompt": "person still there today, happy world, text artifacts, cartoonish figures.",
+    "Hyperparameters": {
+      "variant": "pro",
+      "steps": 55,
+      "cfg_scale": 9,
+      "seed": "Explore the design of the majestic, personified World."
+    }
+  }
+}

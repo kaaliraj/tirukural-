@@ -1,0 +1,39 @@
+{
+  "Kural_Info": {
+    "Number": 1319,
+    "Chapter": "புலவி நுணுக்கம் (Feigned Anger)",
+    "Tamil_Text": "தன்னை உணர்த்தினும் காயும் பிறர்க்கும்நீர்இந்நீரர் ஆகுதிர் என்று.",
+    "English_Meaning": "Even when I try to remove her dislike, she is displeased and says, \"This is the way you behave towards (other women).\""
+  },
+  "Flux_Optimized_Prompt": {
+    "Layered_Composition": {
+      "Foreground": "A lover is trying to appease his pouting beloved with sweet words and gentle flattery ('தன்னை உணர்த்தினும்').",
+      "Midground": "Instead of being placated, she becomes even more angry ('காயும்').",
+      "Background": "Her new accusation is visualized. She imagines him using the exact same sweet words and flattering techniques on a host of other shadowy women ('பிறர்க்கும்'). Her thought, appearing in script, is: 'Ah, so this is the charming way you act with all your other women too!' ('இந் நீரர் ஆகுதிர்')."
+    },
+    "Art_Direction": {
+      "Subject_and_Action": "The lover complains that even his attempts to soothe his beloved's anger backfire, as she takes his skill at flattery as proof that he must use it on many other women.",
+      "Symbolic_Motifs": "His skill at reconciliation becomes the very evidence used against him. The vision of him charming other women is a product of her jealous imagination, sparked by his own attempts to please her.",
+      "Mood_and_Emotion": "Ironic, no-win situation, clever jealousy, exasperated.",
+      "Lighting_and_Color": "A romantic interior setting. The man's attempts to soothe are shown as a warm, golden light. Her jealous mind twists this light and uses it to illuminate her vision of his supposed infidelities.",
+      "Technical_Cues": {
+        "Camera": "A shot that captures the man's earnest attempt at reconciliation and, in a thought-bubble or overlay, the jealous scenario she constructs from it.",
+        "Resolution": "8K, ultra-realistic, focusing on her expression of clever, renewed anger.",
+        "Lighting": "The light of his affection is twisted into the light of her suspicion.",
+        "Art_Genre": "Romantic comedy."
+      },
+      "Cultural_Anchors": [
+        "Even when I try to appease her (தன்னை உணர்த்தினும்)",
+        "She gets angry (காயும்)",
+        "Saying 'You act this way with others too' (பிறர்க்கும் நீர் இந் நீரர் ஆகுதிர்)"
+      ]
+    },
+    "Negative_Prompt": "woman being appeased, happy couple, text artifacts.",
+    "Hyperparameters": {
+      "variant": "dev",
+      "steps": 45,
+      "cfg_scale": 8,
+      "seed": "Explore the visual of his flattery being 'used as evidence'."
+    }
+  }
+}

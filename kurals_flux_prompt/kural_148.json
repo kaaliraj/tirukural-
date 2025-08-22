@@ -1,0 +1,38 @@
+{
+  "Kural_Info": {
+    "Number": 148,
+    "Chapter": "பிறனில் விழையாமை (Not coveting another's Wife)",
+    "Tamil_Text": "பிறன்மனை நோக்காத பேராண்மை சான்றோர்க்குஅறனொன்றோ ஆன்ற வொழுக்கு.",
+    "English_Meaning": "That noble manliness which looks not at the wife of another is the virtue and dignity of the great."
+  },
+  "Flux_Optimized_Prompt": {
+    "Layered_Composition": {
+      "Foreground": "A great, noble man ('சான்றோர்') is shown. His 'great manliness' ('பேராண்மை') is visualized as a powerful, majestic lion that walks beside him as his companion.",
+      "Midground": "This man and his lion companion are shown walking past a beautiful woman who is another's wife ('பிறன் மனை'). The man does not even look at her ('நோக்காத'). In perfect sync, his lion of manliness also does not look, keeping its noble gaze fixed straight ahead.",
+      "Background": "This single act of not looking is shown to be the source of two great qualities that adorn him: a glowing crown of Virtue ('அறன்') and a noble, radiant robe of Dignity/Decorum ('ஆன்ற ஒழுக்கு')."
+    },
+    "Art_Direction": {
+      "Subject_and_Action": "For the truly great, the manliness of not coveting another's wife is not just one virtue among many; it is the very definition of both their virtue and their dignified conduct.",
+      "Symbolic_Motifs": "The 'great manliness' as a loyal, disciplined lion is a powerful metaphor. The simultaneous adornment with the crown of Virtue and the robe of Decorum shows that this one act is the source of both.",
+      "Mood_and_Emotion": "Noble, dignified, powerful, self-controlled, majestic.",
+      "Lighting_and_Color": "A bright, noble, and heroic light. The man and his lion companion radiate a golden aura of power and control. The crown and robe are made of pure, divine light.",
+      "Technical_Cues": {
+        "Camera": "A heroic, tracking shot that follows the great man and his lion companion as they walk with disciplined grace past the potential temptation.",
+        "Resolution": "8K, ultra-realistic, with a majestic and powerful rendering of the lion.",
+        "Lighting": "Heroic, statuesque lighting.",
+        "Art_Genre": "High fantasy realism, symbolic portraiture."
+      },
+      "Cultural_Anchors": [
+        "The great manliness that does not look at another's wife (பிறன் மனை நோக்காத பேராண்மை)",
+        "Is it just virtue? No, it is also perfect decorum (அறன் ஒன்றோ, ஆன்ற ஒழுக்கு)"
+      ]
+    },
+    "Negative_Prompt": "man staring at the woman, lion looking wild, text artifacts.",
+    "Hyperparameters": {
+      "variant": "pro",
+      "steps": 55,
+      "cfg_scale": 8,
+      "seed": "Explore the majestic design of the 'lion of manliness'."
+    }
+  }
+}

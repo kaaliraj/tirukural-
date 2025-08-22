@@ -1,0 +1,39 @@
+{
+  "Kural_Info": {
+    "Number": 947,
+    "Chapter": "மருந்து (Medicine)",
+    "Tamil_Text": "தீயள வன்றித் தெரியான் பெரிதுண்ணின் நோயள வின்றிப் படும்.",
+    "English_Meaning": "He will be afflicted with numberless diseases, who eats immoderately, ignorant (of the rules of health)."
+  },
+  "Flux_Optimized_Prompt": {
+    "Layered_Composition": {
+      "Foreground": "A person is shown eating a massive, excessive meal ('பெரிதுண்ணின்'). They are ignorant of the 'fire of digestion' within them ('தீயளவு தெரியான்').",
+      "Midground": "Their digestive fire, visualized as a small, struggling flame in their stomach, is being overwhelmed and extinguished by the sheer volume of food.",
+      "Background": "Because their digestive fire is put out, the undigested food is shown to be breeding a countless horde of monstrous, small diseases ('நோயளவின்றி'). These disease-creatures are swarming out and attacking the person's body from within."
+    },
+    "Art_Direction": {
+      "Subject_and_Action": "The one who eats excessively, without considering the capacity of their digestive fire, will suffer from innumerable diseases.",
+      "Symbolic_Motifs": "The digestive fire being extinguished by the food is a key visual. The countless disease-monsters being born from the undigested food is a powerful metaphor for the consequences.",
+      "Mood_and_Emotion": "Overwhelming, sickening, a self-inflicted plague.",
+      "Lighting_and_Color": "A sickly, gluttonous light. The disease-monsters are grotesque and have unpleasant colors. The small digestive fire is a pathetic, dying light.",
+      "Technical_Cues": {
+        "Camera": "A surreal, cross-section view of the person's body, showing the entire disastrous internal process.",
+        "Resolution": "8K, with a dark, grotesque, and fantastical aesthetic.",
+        "Lighting": "The primary light source is the sickly food and the swarming diseases.",
+        "Art_Genre": "Surreal horror, medical allegory."
+      },
+      "Cultural_Anchors": [
+        "Ignorant of the digestive fire's measure ('தீயளவு தெரியான்')",
+        "Eating excessively ('பெரிதுண்ணின்')",
+        "Suffering countless diseases ('நோயளவின்றி')"
+      ]
+    },
+    "Negative_Prompt": "a healthy person, a strong digestive fire, text artifacts.",
+    "Hyperparameters": {
+      "variant": "pro",
+      "steps": 50,
+      "cfg_scale": 9,
+      "seed": "Explore variations for the disease-monsters."
+    }
+  }
+}

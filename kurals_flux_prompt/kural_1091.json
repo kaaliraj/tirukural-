@@ -1,0 +1,39 @@
+{
+  "Kural_Info": {
+    "Number": 1091,
+    "Chapter": "குறிப்பறிதல் (Recognition of the Signs)",
+    "Tamil_Text": "இருநோக்கு இவளுண்கண் உள்ளது ஒருநோக்குநோய்நோக்கொன் றந்நோய் மருந்து.",
+    "English_Meaning": "There are two looks in the dyed eyes of this (fair one); one causes pain, and the other is the cure thereof."
+  },
+  "Flux_Optimized_Prompt": {
+    "Layered_Composition": {
+      "Foreground": "A close-up on a maiden's beautiful, kohl-lined eyes ('உண்கண்').",
+      "Midground": "Her gaze has a dual, paradoxical quality ('இரு நோக்கு'). One of her eyes shoots a tiny, sharp, painful dart of lovesickness ('நோய் நோக்கு') at the viewer/lover. The other eye simultaneously sends out a gentle, healing, golden beam of light that is the 'remedy' for that very pain ('அந்நோய் மருந்து').",
+      "Background": "The lover is shown caught between these two opposing forces—simultaneously wounded and healed by the same glance, trapping them in a state of beautiful, exquisite torment and bliss."
+    },
+    "Art_Direction": {
+      "Subject_and_Action": "The beloved's single gaze contains a contradictory duality: one part of it inflicts the pain of lovesickness, while the other part provides the only cure for it.",
+      "Symbolic_Motifs": "The two different effects emanating from each eye is the key visual. The dart of pain and the beam of healing are clear metaphors for the two sensations she inspires. The lover's expression should be a complex mix of pain and pleasure.",
+      "Mood_and_Emotion": "Paradoxical, bittersweet, captivating, wounding and healing.",
+      "Lighting_and_Color": "A magical, romantic light. The dart is a sharp, painful red or blue. The healing beam is a warm, soothing gold. The two colors mix around the lover, creating a complex, iridescent effect.",
+      "Technical_Cues": {
+        "Camera": "An extreme close-up on the eyes, with special effects to visualize the two opposing forces emanating from them.",
+        "Resolution": "8K, ultra-realistic, with a focus on the magical quality of her gaze.",
+        "Lighting": "The eyes are the dual light sources, one causing a sharp, painful glint, the other a soft, healing glow.",
+        "Art_Genre": "High fantasy romance, magical realism."
+      },
+      "Cultural_Anchors": [
+        "Two looks in her eyes (இரு நோக்கு இவள் உண்கண் உள்ளது)",
+        "One look is the disease (ஒரு நோக்கு நோய் நோக்கு)",
+        "The other look is the medicine (ஒன்று அந்நோய் மருந்து)"
+      ]
+    },
+    "Negative_Prompt": "eyes having one effect, text artifacts, simple expression.",
+    "Hyperparameters": {
+      "variant": "pro",
+      "steps": 55,
+      "cfg_scale": 8,
+      "seed": "Explore the visual of the 'painful dart' and the 'healing beam'."
+    }
+  }
+}

@@ -1,0 +1,39 @@
+{
+  "Kural_Info": {
+    "Number": 694,
+    "Chapter": "மன்னரைச் சேர்ந்தொழுதல் (Conduct in the Presence of the King)",
+    "Tamil_Text": "செவிச்சொல்லும் சேர்ந்த நகையும் அவித்தொழுகல் ஆன்ற பெரியா ரகத்து.",
+    "English_Meaning": "While in the presence of the sovereign, ministers should neither whisper to nor smile at others."
+  },
+  "Flux_Optimized_Prompt": {
+    "Layered_Composition": {
+      "Foreground": "Two courtiers are standing in the presence of a great ruler ('ஆன்ற பெரியார்').",
+      "Midground": "One of the courtiers leans in to whisper a secret ('செவிச்சொல்') to the other. At the same time, they share a private smile ('சேர்ந்த நகை').",
+      "Background": "These two actions are shown to be grave mistakes. The whisper is visualized as a wisp of suspicious smoke, and the smile as a sharp, treacherous glint of light, both of which travel directly to the ruler's eye, causing his expression to turn cold and distrustful."
+    },
+    "Art_Direction": {
+      "Subject_and_Action": "In the presence of the great, one must completely avoid whispering secrets or sharing private jokes with others.",
+      "Symbolic_Motifs": "The whisper as suspicious smoke and the private smile as a treacherous glint are the key visuals, showing how these seemingly small actions are interpreted as signs of conspiracy in a royal court.",
+      "Mood_and_Emotion": "Inappropriate, suspicious, dangerous, a breach of decorum.",
+      "Lighting_and_Color": "The court is formally lit. The smoke of the whisper and the glint of the smile are subtle but sinister effects that draw the ruler's sharp, disapproving gaze.",
+      "Technical_Cues": {
+        "Camera": "A shot from the ruler's perspective, seeing the two courtiers whispering and smiling, making the viewer feel the ruler's suspicion.",
+        "Resolution": "8K, focusing on the subtle but meaningful actions and reactions.",
+        "Lighting": "Formal, high-contrast lighting to create a tense atmosphere.",
+        "Art_Genre": "Historical drama, with a focus on courtly intrigue."
+      }
+    },
+    "Cultural_Anchors": [
+      "Avoiding whispering ('செவிச்சொல் அவித்து')",
+      "Avoiding shared smiles ('நகை அவித்து')",
+      "Proper conduct before the great."
+    ]
+  },
+  "Negative_Prompt": "ruler laughing along with the courtiers, text artifacts, cartoonish.",
+  "Hyperparameters": {
+    "variant": "dev",
+    "steps": 40,
+    "cfg_scale": 8,
+    "seed": "Explore variations for the 'whisper smoke'."
+  }
+}

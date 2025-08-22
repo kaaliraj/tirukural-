@@ -1,0 +1,39 @@
+{
+  "Kural_Info": {
+    "Number": 77,
+    "Chapter": "அன்புடைமை (The Possession of Love)",
+    "Tamil_Text": "என்பி லதனை வெயில்போலக் காயுமேஅன்பி லதனை அறம்.",
+    "English_Meaning": "Virtue will burn up the soul which is without love, even as the sun burns up the creature which is without bone, ie worms."
+  },
+  "Flux_Optimized_Prompt": {
+    "Layered_Composition": {
+      "Foreground": "A harsh, barren landscape under a blazing sun ('வெயில்'). On the cracked earth, tiny, boneless creatures like worms ('என்பிலதனை') are shown withering and drying up under the intense heat.",
+      "Midground": "In a parallel metaphysical space, a human figure who is 'loveless' ('அன்பிலதனை') is shown. They are not being burned by a sun, but by a pure, intense, white light of Virtue ('அறம்'). This light is causing their form to wither and fade away.",
+      "Background": "The source of the light of Virtue is a vast, radiant, celestial sun, establishing a direct parallel with the physical sun that burns the worms."
+    },
+    "Art_Direction": {
+      "Subject_and_Action": "A powerful simile: Just as the physical sun scorches and destroys boneless creatures, the spiritual law of Virtue scorches and destroys souls that lack the 'backbone' of Love.",
+      "Symbolic_Motifs": "The loveless soul is depicted as weak and insubstantial, much like a worm. The light of Virtue is not portrayed as evil or punishing, but as a pure, natural force whose intensity cannot be borne by those without the essential structure of Love.",
+      "Mood_and_Emotion": "Harsh reality, inevitable consequence, natural law, intense.",
+      "Lighting_and_Color": "The physical scene is dominated by the harsh, yellow-white light of the sun. The metaphysical scene is dominated by the pure, piercing, white light of Virtue. Both convey an intense, unbearable heat.",
+      "Technical_Cues": {
+        "Camera": "Split-screen or juxtaposed composition to make the simile immediate and clear.",
+        "Resolution": "8K, hyper-realistic, with detailed textures of the sun-baked earth and the withering forms.",
+        "Lighting": "Intense, overexposed, glaring light effects to convey the scorching power of both the sun and virtue.",
+        "Art_Genre": "Surrealist allegorical painting."
+      },
+      "Cultural_Anchors": [
+        "The boneless creature (என்பிலது)",
+        "The loveless soul (அன்பிலது)",
+        "Virtue (அறம்) as a powerful, scorching force like the sun (வெயில்)"
+      ]
+    },
+    "Negative_Prompt": "happy worm, happy loveless person, gentle sun, gentle light of virtue, text artifacts.",
+    "Hyperparameters": {
+      "variant": "dev",
+      "steps": 45,
+      "cfg_scale": 9,
+      "seed": "Explore the visual effect of a soul being 'scorched' by pure virtue."
+    }
+  }
+}

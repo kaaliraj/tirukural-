@@ -1,0 +1,33 @@
+{
+  "Kural_Info": {
+    "Number": 1153,
+    "Chapter": "பிரிவாற்றாமை (Separation unendurable)",
+    "Tamil_Text": "அரிதரோ தேற்றம் அறிவுடையார் கண்ணும்பிரிவோ ரிடத்துண்மை யான்.",
+    "English_Meaning": "To trust henceforth is hard, if ever he depart, E'en he, who knows his promise and my breaking heart."
+  },
+  "Flux_Optimized_Prompt": {
+    "Layered_Composition": {
+      "Foreground": "A wise and understanding lover ('Arivudaiyar') is shown preparing to depart, his face showing conflict and sorrow, as he knows the pain he is causing.",
+      "Midground": "His beloved is watching him, her heart is visualized as a beautiful crystal vessel that is beginning to crack. This represents her loss of confidence ('Thetram Arithu').",
+      "Background": "The path of departure is shrouded in mist and uncertainty, symbolizing the difficulty of trusting in a future reunion when the present act of separation is so real and painful."
+    },
+    "Art_Direction": {
+      "Subject_and_Action": "The profound difficulty of holding onto confidence and trust when even a knowledgeable and loving partner confirms the reality of separation by their actions.",
+      "Symbolic_Motifs": "The cracking crystal heart is the central metaphor for broken trust. The sorrowful expression of the 'wise' departing lover shows that his knowledge doesn't prevent the painful act.",
+      "Mood_and_Emotion": "Heartbreaking, doubtful, uncertain, a sense of betrayal by reality itself.",
+      "Lighting_and_Color": "Cool, melancholic lighting, like a misty morning. The colors are desaturated and soft, creating a mood of sadness and uncertainty. The cracks in the crystal heart catch the light with a sharp, painful glint."
+    },
+    "Technical_Cues": {
+      "Camera": "Split-focus shot, capturing both the departing lover's pained face and the beloved's cracking heart.",
+      "Resolution": "8K, photorealistic, with beautiful and detailed glass refraction and cracking effects.",
+      "Lighting": "Soft, diffused lighting that enhances the misty, uncertain atmosphere.",
+      "Art_Genre": "Romantic realism with strong symbolic and psychological elements."
+    },
+    "Cultural_Anchors": [
+      "தேற்றம் (Confidence/Trust)",
+      "பிரிவு (Separation)",
+      "The pain of knowing a loved one must leave"
+    ]
+  },
+  "Negative_Prompt": "happy couple, angry departing lover, modern setting, text artifacts, cartoonish, unbreakable heart."
+}

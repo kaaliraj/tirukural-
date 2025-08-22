@@ -1,0 +1,39 @@
+{
+  "Kural_Info": {
+    "Number": 777,
+    "Chapter": "படைச்செருக்கு (Military Spirit)",
+    "Tamil_Text": "சுழலும் இசைவேண்டி வேண்டா உயிரார்கழல்யாப்புக் காரிகை நீர்த்து.",
+    "English_Meaning": "The fastening of an ankle-ring by those who disire a world-wide renown and not (the safety of) their lives is like adorning (themselves)."
+  },
+  "Flux_Optimized_Prompt": {
+    "Layered_Composition": {
+      "Foreground": "A young, heroic warrior is preparing for battle. They are shown to care nothing for their own life ('வேண்டா உயிர்'), seeking only world-circling fame ('சுழலும் இசை').",
+      "Midground": "Instead of putting on armor for protection, they are joyfully and carefully fastening a hero's anklet ('கழல்') onto their leg. This act is depicted not as a preparation for war, but as an act of adornment, like putting on a beautiful jewel.",
+      "Background": "The anklet itself is not just metal; it glows with the light of future glory, showing that for this hero, the symbol of their commitment to battle is the most beautiful ornament they can wear."
+    },
+    "Art_Direction": {
+      "Subject_and_Action": "For those who desire fame above life, the act of putting on the hero's anklet for battle is not a grim duty, but a joyful act of self-adornment.",
+      "Symbolic_Motifs": "The focus on the anklet as a beautiful ornament ('காரிகை நீர்த்து'), rather than a piece of wargear, is the central concept. The hero's joyful expression while putting it on is key.",
+      "Mood_and_Emotion": "Glorious, fearless, celebratory of honor, beautiful.",
+      "Lighting_and_Color": "A heroic, golden light focuses on the hero and the glowing anklet. The palette is rich and noble.",
+      "Technical_Cues": {
+        "Camera": "A close-up on the act of fastening the anklet, capturing the hero's proud and joyful expression.",
+        "Resolution": "8K, with a focus on the ornate details of the anklet.",
+        "Lighting": "Warm, heroic lighting.",
+        "Art_Genre": "Idealized historical realism, with a touch of fantasy."
+      }
+    },
+    "Cultural_Anchors": [
+      "Desiring Fame over Life ('இசை வேண்டி வேண்டா உயிர்')",
+      "The Hero's Anklet ('கழல்')",
+      "The anklet-tying as an act of adornment ('காரிகை நீர்த்து')"
+    ]
+  },
+  "Negative_Prompt": "scared warrior, ugly anklet, text artifacts, cartoonish.",
+  "Hyperparameters": {
+    "variant": "pro",
+    "steps": 50,
+    "cfg_scale": 8,
+    "seed": "Explore variations for the design of the glowing anklet."
+  }
+}

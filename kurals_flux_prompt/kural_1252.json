@@ -1,0 +1,33 @@
+{
+  "Kural_Info": {
+    "Number": 1252,
+    "Chapter": "நிறையழிதல் (Reserve Overcome)",
+    "Tamil_Text": "காமம் எனவொன்றோ கண்ணின்றென் நெஞ்சத்தையாமத்தும் ஆளும் தொழில்.",
+    "English_Meaning": "What men call love is the one thing of merciless power; It gives my soul no rest, e'en in the midnight hour."
+  },
+  "Flux_Optimized_Prompt": {
+    "Layered_Composition": {
+      "Foreground": "A woman is shown trying to rest at midnight ('Yaamaththum'). Her heart ('Nenjam') is visible in her chest.",
+      "Midground": "The force of Love ('Kaamam') is personified as a relentless, merciless ('Kannindru') taskmaster or ruler. This figure is shown actively commanding and ruling over her heart, giving it no peace.",
+      "Background": "The world outside is dark and asleep, but her internal world is a place of ceaseless activity and torment, entirely under the dominion of the personified Love."
+    },
+    "Art_Direction": {
+      "Subject_and_Action": "A lament that love is a merciless force that rules the heart and gives it no rest, even in the dead of night.",
+      "Symbolic_Motifs": "Love as a merciless, sleepless ruler. The heart as its unwilling subject. The contrast between the sleeping outer world and the tormented inner world.",
+      "Mood_and_Emotion": "Relentless, merciless, tormenting, a sense of being controlled by an overwhelming force.",
+      "Lighting_and_Color": "The scene is dark, befitting midnight. The only light comes from the tyrannical figure of Love, which might cast a harsh, demanding glow on the suffering heart."
+    },
+    "Technical_Cues": {
+      "Camera": "A surreal close-up that shows the inside of the woman's chest, where the drama between Love and the heart is unfolding.",
+      "Resolution": "8K, dark fantasy realism, with a powerful and expressive design for the personified Love.",
+      "Lighting": "Low-key, dramatic lighting to create a feeling of nocturnal torment.",
+      "Art_Genre": "Symbolic surrealism, visualizing an emotional state as a scene of domination."
+    },
+    "Cultural_Anchors": [
+      "காமம் (Love/Lust)",
+      "கண்ணின்மை (Mercilessness)",
+      "யாமம் (Midnight)"
+    ]
+  },
+  "Negative_Prompt": "a gentle Love figure, a peaceful heart, daytime, a sleeping woman, text artifacts, cartoonish."
+}

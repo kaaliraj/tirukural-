@@ -1,0 +1,39 @@
+{
+  "Kural_Info": {
+    "Number": 928,
+    "Chapter": "கள்ளுண்ணாமை (Not Drinking Palm-Wine)",
+    "Tamil_Text": "களித்தறியேன் என்பது கைவிடுக நெஞ்சத்து ஒளித்ததூஉம் ஆங்கே மிகும்.",
+    "English_Meaning": "Let (the drunkard) give up saying 'I have never drunk'; (for) the moment (he drinks) he will simply betray his former attempt to conceal."
+  },
+  "Flux_Optimized_Prompt": {
+    "Layered_Composition": {
+      "Foreground": "A person is shown trying to lie, saying 'I have never been drunk' ('களித்தறியேன் என்பது'). Their words are a fragile mask.",
+      "Midground": "The moment they take a drink, the mask shatters. All the secrets and thoughts that were hidden deep inside their heart ('நெஞ்சத்து ஒளித்தது') are shown bursting out of them uncontrollably, like a flood of revealing images and symbols.",
+      "Background": "The lie is instantly exposed by the reality of their intoxication. The act of drinking makes the very thing they tried to hide—their previous drunkenness—obvious to all."
+    },
+    "Art_Direction": {
+      "Subject_and_Action": "One should stop lying about being drunk, because the moment one drinks, all the secrets one has hidden in one's heart will come pouring out, revealing the lie.",
+      "Symbolic_Motifs": "The fragile mask of denial shattering is the key moment. The flood of hidden secrets bursting forth is the consequence of intoxication.",
+      "Mood_and_Emotion": "Revealing, self-betraying, futile denial.",
+      "Lighting_and_Color": "The lighting is normal, but explodes with chaotic color and light as the secrets burst forth.",
+      "Technical_Cues": {
+        "Camera": "A close-up on the person's face as the mask shatters and the secrets are revealed.",
+        "Resolution": "8K, with complex particle effects for the flood of secrets.",
+        "Lighting": "A sudden, chaotic burst of light.",
+        "Art_Genre": "Surrealism, psychological art."
+      },
+      "Cultural_Anchors": [
+        "Stop saying 'I have never been drunk'",
+        "What is hidden in the heart will come out",
+        "The self-betrayal of the drunkard."
+      ]
+    },
+    "Negative_Prompt": "a successful lie, secrets remaining hidden, text artifacts.",
+    "Hyperparameters": {
+      "variant": "dev",
+      "steps": 45,
+      "cfg_scale": 9,
+      "seed": "Explore variations for the flood of secrets."
+    }
+  }
+}

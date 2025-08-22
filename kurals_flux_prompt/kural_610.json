@@ -1,0 +1,39 @@
+{
+  "Kural_Info": {
+    "Number": 610,
+    "Chapter": "மடியின்மை (Unsluggishness)",
+    "Tamil_Text": "மடியிலா மன்னவன் எய்தும் அடியளந்தான் தாஅய தெல்லாம் ஒருங்கு.",
+    "English_Meaning": "The king who never gives way to idleness will obtain entire possession of (the whole earth) measured by the foot (of Vishnu)."
+  },
+  "Flux_Optimized_Prompt": {
+    "Layered_Composition": {
+      "Foreground": "A king who is free from idleness ('மடியிலா மன்னவன்') is depicted as a figure of immense energy and constant motion. He is not seated, but actively striding across his lands.",
+      "Midground": "As he strides forward, the entire world, visualized as a vast map, unfurls before him. His single footstep covers entire continents, in a direct visual echo of the great Trivikrama avatar of Vishnu who measured the world ('அடியளந்தான்').",
+      "Background": "The king is shown effortlessly gaining dominion over the entire world ('தாஅய தெல்லாம் ஒருங்கு') as a direct result of his tireless energy."
+    },
+    "Art_Direction": {
+      "Subject_and_Action": "The king who is free from laziness will conquer and possess the entire world, just as Vishnu once measured it all in a single step.",
+      "Symbolic_Motifs": "The king's stride mirroring the mythical stride of Vishnu's avatar is the central, epic metaphor. The world map unfurling before him represents his easy conquest.",
+      "Mood_and_Emotion": "Epic, divine, powerful, energetic, boundless.",
+      "Lighting_and_Color": "A brilliant, cosmic, and divine light illuminates the king. His footsteps leave a trail of golden energy. The palette is grand and mythological.",
+      "Technical_Cues": {
+        "Camera": "An ultra-wide, epic low-angle shot that captures the immense scale of the king's stride and his dominion over the world.",
+        "Resolution": "8K, cinematic, with mythical and cosmic visual effects.",
+        "Lighting": "God rays and divine, radiant lighting.",
+        "Art_Genre": "Mythological painting, epic fantasy art."
+      },
+      "Cultural_Anchors": [
+        "The King free from Idleness ('மடியிலா மன்னவன்')",
+        "He who measured the world with his foot (Vishnu - 'அடியளந்தான்')",
+        "Gaining the entire world ('தாஅய தெல்லாம்')"
+      ]
+    },
+    "Negative_Prompt": "lazy king, small footsteps, text artifacts, cartoonish.",
+    "Hyperparameters": {
+      "variant": "pro",
+      "steps": 50,
+      "cfg_scale": 9,
+      "seed": "Explore variations for the cosmic unfurling map."
+    }
+  }
+}

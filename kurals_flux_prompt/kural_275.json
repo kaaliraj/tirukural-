@@ -1,0 +1,38 @@
+{
+  "Kural_Info": {
+    "Number": 275,
+    "Chapter": "கூடா ஒழுக்கம் (Imposture)",
+    "Tamil_Text": "பற்றற்றேம் என்பார் படிற்றொழுக்கம் எற்றெற்றென்றுஏதம் பலவுந் தரும்.",
+    "English_Meaning": "The false conduct of those who say they have renounced all desire will one day bring them sorrows that will make them cry out, \"Oh! what have we done, what have we done\"."
+  },
+  "Flux_Optimized_Prompt": {
+    "Layered_Composition": {
+      "Foreground": "A false ascetic is shown in the present, enjoying the fruits of his deceitful conduct ('படிற்று ஒழுக்கம்'). He falsely claims to have renounced all attachments ('பற்றற்றேம் என்பார்').",
+      "Midground": "A flash-forward vision of his future appears.",
+      "Background": "In this future vision, his hypocrisy has been exposed, and he is overwhelmed by a multitude of sorrows and disasters ('ஏதம் பலவும்'). He is shown tearing at his hair and clothes, crying out in an agony of regret, 'What have I done! What have I done!' ('எற்று எற்று என்று')."
+    },
+    "Art_Direction": {
+      "Subject_and_Action": "The deceitful life of a false ascetic who claims to be free from attachment will inevitably lead to a future state of immense sorrow and agonized regret.",
+      "Symbolic_Motifs": "The contrast between the smug, deceitful present and the agonizing, regretful future is the key. The cry of 'What have I done!' is the ultimate, self-inflicted punishment. The 'many sorrows' can be visualized as a swarm of tormenting spirits.",
+      "Mood_and_Emotion": "Inevitable regret, self-destruction, tragic, agonizing.",
+      "Lighting_and_Color": "The present is lit with a false, smug light. The future vision is a dark, stormy, and chaotic scene of pure agony and despair. The colors shift from false peace to true torment.",
+      "Technical_Cues": {
+        "Camera": "A shot that shows the impostor in the present, with the terrifying vision of his future self's agony appearing behind him like a looming ghost.",
+        "Resolution": "8K, ultra-realistic, with a powerful focus on the expression of ultimate, agonized regret in the future vision.",
+        "Lighting": "A dramatic contrast between the lighting of the present and the future.",
+        "Art_Genre": "Dark fantasy, with a moralistic tone."
+      },
+      "Cultural_Anchors": [
+        "The deceitful conduct of those who say 'we are without attachment' (பற்றற்றேம் என்பார் படிற்று ஒழுக்கம்)",
+        "Will bring many sorrows, making them cry 'What have I done!' (எற்று எற்று என்று ஏதம் பலவும் தரும்)"
+      ]
+    },
+    "Negative_Prompt": "happy future for the impostor, text artifacts.",
+    "Hyperparameters": {
+      "variant": "pro",
+      "steps": 55,
+      "cfg_scale": 9,
+      "seed": "Explore the visual of the 'agonized cry of regret'."
+    }
+  }
+}

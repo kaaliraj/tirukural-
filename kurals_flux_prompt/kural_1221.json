@@ -1,0 +1,33 @@
+{
+  "Kural_Info": {
+    "Number": 1221,
+    "Chapter": "பொழுதுகண்டிரங்கல் (Lamentations at Eventide)",
+    "Tamil_Text": "மாலையோ அல்லை மணந்தார் உயிருண்ணும்வேலைநீ வாழி பொழுது.",
+    "English_Meaning": "Thou art not evening, but a spear that doth devour The souls of brides; farewell, thou evening hour!."
+  },
+  "Flux_Optimized_Prompt": {
+    "Layered_Composition": {
+      "Foreground": "A lone woman, a bride separated from her husband, is watching the sunset with a look of terror.",
+      "Midground": "The evening ('Maalai') is personified not as a gentle time of day, but as a menacing, shadowy figure. This figure wields a formidable spear ('Vel') that is aimed at the woman's heart.",
+      "Background": "The setting sun casts long, blood-red shadows, turning the peaceful landscape into a place of dread, a battlefield where the evening itself is the enemy that 'devours souls' ('Uyirunnum')."
+    },
+    "Art_Direction": {
+      "Subject_and_Action": "A lover's lament, accusing the evening of not being a time of day but a cruel, soul-devouring weapon, especially for separated lovers.",
+      "Symbolic_Motifs": "The personification of Evening as a spear-wielding warrior or demon. The sunset colors mimicking blood. The evening is not a time, but a hostile force.",
+      "Mood_and_Emotion": "Dread, terror, pain, personification of sorrow.",
+      "Lighting_and_Color": "Dominated by the dramatic, ominous reds and dark oranges of a sunset. The personified Evening is a figure of deep shadow and menace."
+    },
+    "Technical_Cues": {
+      "Camera": "A dramatic low-angle shot that makes the personified Evening figure seem large and threatening.",
+      "Resolution": "8K, dark fantasy realism, with a powerful and terrifying design for the Evening entity.",
+      "Lighting": "Strong, dramatic backlighting from the setting sun, creating silhouettes and a sense of doom.",
+      "Art_Genre": "Gothic romance, with strong elements of dark fantasy."
+    },
+    "Cultural_Anchors": [
+      "மாலை (Evening) as a time of increased sorrow for lovers",
+      "Personification of natural phenomena",
+      "உயிர் உண்ணுதல் (Devouring the soul)"
+    ]
+  },
+  "Negative_Prompt": "a peaceful evening, a happy woman, a normal sunset, modern setting, text artifacts, cartoonish."
+}

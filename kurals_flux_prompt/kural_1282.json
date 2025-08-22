@@ -1,0 +1,38 @@
+{
+  "Kural_Info": {
+    "Number": 1282,
+    "Chapter": "புணர்ச்சிவிதும்பல் (Desire for Reunion)",
+    "Tamil_Text": "தினைத்துணையும் ஊடாமை வேண்டும் பனைத்துணையும்காமம் நிறைய வரின்.",
+    "English_Meaning": "If women have a lust that exceeds even the measure of the palmyra fruit, they will not desire (to feign) dislike even as much as the millet."
+  },
+  "Flux_Optimized_Prompt": {
+    "Layered_Composition": {
+      "Foreground": "A lover is overwhelmed by an immense, powerful feeling of desire for her beloved. This desire ('காமம்') is visualized as a colossal, towering wave the size of a Palmyra tree ('பனைத்துணையும்'), about to crash down.",
+      "Midground": "In her mind, the thought of feigning anger or dislike ('ஊடல்') is shown as a tiny, insignificant millet seed ('தினைத்துணையும்').",
+      "Background": "The colossal wave of desire is so powerful that it completely sweeps away and obliterates the tiny seed of potential coyness. The image shows the absolute impossibility of even the smallest feigned anger in the face of such overwhelming love."
+    },
+    "Art_Direction": {
+      "Subject_and_Action": "When desire is as overwhelmingly large as a palmyra tree, the desire for even a millet-seed-sized moment of pouting or feigned anger is completely impossible.",
+      "Symbolic_Motifs": "The dramatic and disproportionate scale between the palmyra-sized wave of love and the millet-sized seed of coyness is the entire point of the image. The wave is an unstoppable force of nature.",
+      "Mood_and_Emotion": "Overwhelming, all-consuming, powerful desire.",
+      "Lighting_and_Color": "The wave of love is depicted with the powerful, dramatic colors of a massive ocean wave at sunset, full of deep blues, purples, and fiery oranges. The tiny seed is a simple speck, instantly lost in the grandeur of the wave.",
+      "Technical_Cues": {
+        "Camera": "An epic, low-angle shot that emphasizes the colossal, overwhelming scale of the wave of desire as it is about to crash down.",
+        "Resolution": "8K, hyper-realistic, with advanced fluid dynamics for the massive wave.",
+        "Lighting": "Dramatic, epic lighting from a setting sun, illuminating the wave.",
+        "Art_Genre": "Epic fantasy realism, romantic catastrophe."
+      },
+      "Cultural_Anchors": [
+        "Love as large as a palmyra tree (பனைத்துணையும் காமம்)",
+        "Not wanting even a millet-seed of coyness (தினைத்துணையும் ஊடாமை வேண்டும்)"
+      ]
+    },
+    "Negative_Prompt": "small wave, large seed, woman pouting, text artifacts.",
+    "Hyperparameters": {
+      "variant": "pro",
+      "steps": 55,
+      "cfg_scale": 9,
+      "seed": "Explore the visual of the colossal 'wave of love'."
+    }
+  }
+}

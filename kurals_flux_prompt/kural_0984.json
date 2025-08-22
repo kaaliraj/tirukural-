@@ -1,0 +1,34 @@
+{
+  "Kural_Info": {
+    "Number": 984,
+    "Chapter": "சான்றாண்மை (Perfectness)",
+    "Tamil_Text": "கொல்லா நலத்தது நோன்மை பிறர்தீமைசொல்லா நலத்தது சால்பு.",
+    "English_Meaning": "The type of 'penitence' is virtuous good that nothing slays; To speak no ill of other men is perfect virtue's praise."
+  },
+  "Flux_Optimized_Prompt": {
+    "Layered_Composition": {
+      "Foreground": "A split image. On the left, a sage practicing 'Nonmai' (asceticism/penitence) is shown gently preventing a hunter's arrow from hitting a deer, embodying 'Kolla Nalam' (the goodness of not killing).",
+      "Midground": "On the right, a person of 'Saalbu' (perfect goodness) is shown with their finger to their lips, actively choosing not to participate in gossip as others speak ill ('Pirar Theemai Solla'), embodying 'Solla Nalam' (the goodness of not speaking ill).",
+      "Background": "A peaceful, harmonious natural environment that reflects the positive outcomes of both virtues—non-violence and kind speech."
+    },
+    "Art_Direction": {
+      "Subject_and_Action": "A comparative depiction of two high virtues: defining asceticism by non-violence and defining perfect goodness by the refusal to speak ill of others.",
+      "Symbolic_Motifs": "The stopped arrow symbolizes non-killing. The 'hushing' gesture symbolizes not speaking ill. The contrast shows two different but equally profound forms of goodness.",
+      "Mood_and_Emotion": "Compassionate, restrained, virtuous, peaceful.",
+      "Lighting_and_Color": "Soft, natural, morning light bathes both scenes, creating a serene and pure atmosphere. The color palette is gentle, with earthy greens, soft browns, and light blues."
+    },
+    "Technical_Cues": {
+      "Camera": "Dual medium shot, balanced composition, inviting contemplation on the two virtues.",
+      "Resolution": "8K, ultra-realistic, with detailed expressions of compassion and restraint.",
+      "Lighting": "Gentle, diffused lighting to create a calm and non-dramatic mood.",
+      "Art_Genre": "Narrative realism, in the style of a classical moral painting."
+    },
+    "Cultural_Anchors": [
+      "நோன்மை (Penitence/Asceticism)",
+      "சால்பு (Perfect Goodness)",
+      "கொல்லாமை (Non-killing)",
+      "புறங்கூறாமை (Not speaking ill of others)"
+    ]
+  },
+  "Negative_Prompt": "violent imagery, person gossiping happily, dark background, modern clothing, text artifacts, blurry, cartoonish."
+}

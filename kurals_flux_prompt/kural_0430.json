@@ -1,0 +1,39 @@
+{
+  "Kural_Info": {
+    "Number": 430,
+    "Chapter": "அறிவுடைமை (The Possession of Knowledge)",
+    "Tamil_Text": "அறிவுடையார் எல்லா முடையார் அறிவிலார் என்னுடைய ரேனும் இலர்.",
+    "English_Meaning": "Those who possess wisdom, possess every thing; those who have not wisdom, whatever they may possess, have nothing."
+  },
+  "Flux_Optimized_Prompt": {
+    "Layered_Composition": {
+      "Foreground": "A split composition. On the left, a wise person ('அறிவுடையார்') stands in an empty space, holding only a single, glowing seed of knowledge. From this one seed, an entire, vibrant, prosperous universe is shown sprouting and growing around them. They possess all things ('எல்லாமுடையார்').",
+      "Midground": "On the right, an unwise person ('அறிவிலார்') sits in a vault filled to the ceiling with gold, jewels, and countless material possessions ('என்னுடையரேனும்').",
+      "Background": "Despite their material wealth, the unwise person's vault is shown to be a dark, lifeless, and empty void. Their possessions are crumbling into dust, revealing that they truly possess nothing of substance ('இலர்')."
+    },
+    "Art_Direction": {
+      "Subject_and_Action": "The wise possess everything because they have the source of all things (knowledge). The fool possesses nothing, because their material wealth is without substance.",
+      "Symbolic_Motifs": "The seed of knowledge creating a universe is the metaphor for possessing everything. The crumbling treasure in a void is the metaphor for possessing nothing.",
+      "Mood_and_Emotion": "Paradoxical, profound, contrasting true wealth with material illusion.",
+      "Lighting_and_Color": "The wise person's side is full of vibrant color and the life-giving light from the sprouting universe. The fool's side is dark, with the cold, dead glint of metal turning to grey dust.",
+      "Technical_Cues": {
+        "Camera": "A balanced, diptych shot that presents the stark contrast between the two states of being.",
+        "Resolution": "8K, with magical realism effects for the sprouting universe and crumbling gold.",
+        "Lighting": "High-contrast, symbolic lighting.",
+        "Art_Genre": "Metaphysical art, surrealism."
+      }
+    },
+    "Cultural_Anchors": [
+      "The Wise Possess All ('அறிவுடையார் எல்லாமுடையார்')",
+      "The Unwise Possess Nothing ('அறிவிலார் இலர்')",
+      "Wisdom as the ultimate possession."
+    ]
+  },
+  "Negative_Prompt": "a sad wise person, a happy fool, solid gold, text artifacts, cartoonish.",
+  "Hyperparameters": {
+    "variant": "pro",
+    "steps": 50,
+    "cfg_scale": 8,
+    "seed": "Explore variations for the sprouting universe."
+  }
+}

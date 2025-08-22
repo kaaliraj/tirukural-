@@ -1,0 +1,39 @@
+{
+  "Kural_Info": {
+    "Number": 100,
+    "Chapter": "இனியவை கூறல் (The Utterance of Pleasant Words)",
+    "Tamil_Text": "இனிய உளவாக இன்னாத கூறல்கனிஇருப்பக் காய்கவர்ந் தற்று.",
+    "English_Meaning": "To say disagreeable things when agreeable are at hand is like eating unripe fruit when there is ripe."
+  },
+  "Flux_Optimized_Prompt": {
+    "Layered_Composition": {
+      "Foreground": "A person stands before a magnificent, fruit-laden tree. On one branch hang beautiful, ripe, luscious, glowing fruits ('கனி'). On another branch hang sour, unripe, thorny, unappealing fruits ('காய்').",
+      "Midground": "The person deliberately reaches past the ripe fruit to pluck and eat the unripe one, their face contorting with the sour taste.",
+      "Background": "The tree represents the possibilities of speech. The ripe fruit is labeled 'Iniya' (pleasant words), and the unripe fruit is labeled 'Innatha' (unpleasant words)."
+    },
+    "Art_Direction": {
+      "Subject_and_Action": "A direct and vivid simile: choosing to speak harsh words when sweet ones are available is as foolish and self-punishing as choosing to eat sour, unripe fruit when ripe fruit is readily available.",
+      "Symbolic_Motifs": "The ripe fruit is depicted as almost magically delicious and life-giving. The unripe fruit is not just green, but actively unpleasant-looking. The person's choice is clearly irrational and leads to immediate negative consequences (the sour expression).",
+      "Mood_and_Emotion": "Foolish, illogical, self-punishing, irrational choice.",
+      "Lighting_and_Color": "The side of the tree with the ripe fruit is bathed in a warm, golden, delicious light. The side with the unripe fruit is in a cooler, less appealing light. The colors clearly distinguish between the appealing and unappealing choices.",
+      "Technical_Cues": {
+        "Camera": "A clear, illustrative shot that captures the tree, the two types of fruit, and the person making the foolish choice.",
+        "Resolution": "8K, hyper-realistic, with a strong focus on the textures that make the ripe fruit look delicious and the unripe fruit look sour.",
+        "Lighting": "Naturalistic but symbolic lighting to guide the viewer's interpretation of the choices.",
+        "Art_Genre": "Allegorical realism, still life with narrative elements."
+      },
+      "Cultural_Anchors": [
+        "Pleasant (words) available (இனிய உளவாக)",
+        "Speaking harsh (words) (இன்னாத கூறல்)",
+        "Ripe fruit (கனி) vs. Unripe fruit (காய்)"
+      ]
+    },
+    "Negative_Prompt": "person enjoying the unripe fruit, rotten ripe fruit, text artifacts, ambiguous choice.",
+    "Hyperparameters": {
+      "variant": "pro",
+      "steps": 50,
+      "cfg_scale": 8,
+      "seed": "Explore the visual details that make the ripe fruit irresistible."
+    }
+  }
+}

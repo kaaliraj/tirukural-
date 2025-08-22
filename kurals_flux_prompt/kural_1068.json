@@ -1,0 +1,39 @@
+{
+  "Kural_Info": {
+    "Number": 1068,
+    "Chapter": "இரவச்சம் (The Dread of Mendicancy)",
+    "Tamil_Text": "இரவென்னும் ஏமாப்பில் தோணி கரவென்னும்பார்தாக்கப் பக்கு விடும்.",
+    "English_Meaning": "The unsafe raft of begging will split when it strikes on the rock of refusal."
+  },
+  "Flux_Optimized_Prompt": {
+    "Layered_Composition": {
+      "Foreground": "A person is trying to cross a turbulent sea of poverty. Their vessel is a fragile, poorly-made raft, representing the 'unsafe boat of begging' ('இரவு என்னும் ஏமாப்பில் தோணி').",
+      "Midground": "Looming directly in the raft's path is a massive, sharp, black rock representing 'refusal' or 'unwilling giving' ('கரவு என்னும் பார்').",
+      "Background": "The fragile raft is shown striking the rock and instantly shattering into pieces ('பக்கு விடும்'), throwing the beggar into the merciless sea. The journey was doomed from the start due to the unreliability of the vessel."
+    },
+    "Art_Direction": {
+      "Subject_and_Action": "A powerful simile: relying on begging to navigate the sea of poverty is like using an unsafe raft, which will inevitably be destroyed when it hits the rock of refusal.",
+      "Symbolic_Motifs": "The raft of begging is inherently unsafe ('ஏமாப்பு இல்'). The rock of refusal is a hard, merciless, and unavoidable reality. The shipwreck is a metaphor for the devastating and soul-crushing effect of being refused.",
+      "Mood_and_Emotion": "Perilous, doomed, fragile, destructive.",
+      "Lighting_and_Color": "A dark and stormy sea. The raft is made of flimsy, grey wood. The rock is a menacing, sharp, obsidian black. The scene is lit by a flash of lightning at the moment of impact.",
+      "Technical_Cues": {
+        "Camera": "A dramatic, low-angle shot that captures the terrifying moment of the raft striking the rock and shattering.",
+        "Resolution": "8K, ultra-realistic, with advanced water and particle effects for the shipwreck.",
+        "Lighting": "Stormy, high-contrast lighting.",
+        "Art_Genre": "Seascape disaster painting."
+      },
+      "Cultural_Anchors": [
+        "The unsafe boat of begging (இரவு என்னும் ஏமாப்பில் தோணி)",
+        "The rock of refusal (கரவு என்னும் பார்)",
+        "It will split apart (பக்கு விடும்)"
+      ]
+    },
+    "Negative_Prompt": "sturdy raft, small rock, successful journey, text artifacts.",
+    "Hyperparameters": {
+      "variant": "pro",
+      "steps": 50,
+      "cfg_scale": 9,
+      "seed": "Explore the visual of the raft shattering on the rock."
+    }
+  }
+}

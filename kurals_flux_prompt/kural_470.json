@@ -1,0 +1,38 @@
+{
+  "Kural_Info": {
+    "Number": 470,
+    "Chapter": "தெரிந்துசெயல்வகை (Acting after due Consideration)",
+    "Tamil_Text": "எள்ளாத எண்ணிச் செயல்வேண்டும் தம்மோடுகொள்ளாத கொள்ளாது உலகு.",
+    "English_Meaning": "Let a man reflect, and do things which bring no reproach; the world will not approve, with him, of things which do not become of his position to adopt."
+  },
+  "Flux_Optimized_Prompt": {
+    "Layered_Composition": {
+      "Foreground": "A king is shown carefully considering an action ('எண்ணிச் செயல் வேண்டும்'). The action he is considering is something lowly or inappropriate for a king, like personally engaging in petty street brawling.",
+      "Midground": "He has a vision of the world's reaction. The World ('உலகு'), personified by his subjects and other nobles, is shown not just disapproving, but looking away in shame and refusing to accept or associate with this act ('கொள்ளாது உலகு').",
+      "Background": "Because he is wise and considers this outcome, the king refrains from the act. He chooses a course of action that will not be reproached ('எள்ளாத'), thus preserving his dignity and the world's respect."
+    },
+    "Art_Direction": {
+      "Subject_and_Action": "One must always consider and perform only those actions that will not bring reproach, because the world will not accept or approve of actions that are inconsistent with one's station and dignity.",
+      "Symbolic_Motifs": "The vision of the 'world's judgment' is the key preventative element. The world's refusal to 'accept' the action is a powerful social force that guides the wise person's choices.",
+      "Mood_and_Emotion": "Dignified, prudent, self-aware, considerate of reputation.",
+      "Lighting_and_Color": "A clear, regal light illuminates the king as he makes his wise decision. The vision of the inappropriate act is cast in a shameful, lowly light.",
+      "Technical_Cues": {
+        "Camera": "A close-up on the king's face, showing his process of consideration and his wise decision, with the vision of the world's reaction appearing as an overlay.",
+        "Resolution": "8K, ultra-realistic, capturing the king's regal bearing and thoughtful expression.",
+        "Lighting": "Noble, thoughtful lighting.",
+        "Art_Genre": "Historical portraiture with symbolic elements."
+      },
+      "Cultural_Anchors": [
+        "Thinking of what will not be reproached (எள்ளாத எண்ணி)",
+        "The world will not accept (கொள்ளாது உலகு)"
+      ]
+    },
+    "Negative_Prompt": "king enjoying the brawl, world cheering him on, text artifacts, modern setting.",
+    "Hyperparameters": {
+      "variant": "dev",
+      "steps": 45,
+      "cfg_scale": 8,
+      "seed": "Explore how to personify 'the world's judgment'."
+    }
+  }
+}

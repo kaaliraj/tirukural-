@@ -1,0 +1,39 @@
+{
+  "Kural_Info": {
+    "Number": 655,
+    "Chapter": "வினைத்தூய்மை (Purity in Action)",
+    "Tamil_Text": "எற்றென்று இரங்குவ செய்யற்க செய்வானேல் மற்றன்ன செய்யாமை நன்று.",
+    "English_Meaning": "Let a minister never do acts of which he would have to grieve saying, 'what is this I have done'; (but) should he do (them), it were good that he grieved not."
+  },
+  "Flux_Optimized_Prompt": {
+    "Layered_Composition": {
+      "Foreground": "A person is shown standing before a dark, ominous-looking door, which represents a regrettable action. Their hand is hovering, about to open it.",
+      "Midground": "A ghostly image of their future self appears, weeping and crying out 'What have I done?' ('எற்றென்று இரங்குவ'), warning them not to proceed.",
+      "Background": "The image also suggests the second part of the kural: if the act is already done, it is better to move on without the self-destructive grief. This can be shown by a separate small scene where the person, having gone through the door, resolutely walks away from it, not looking back ('செய்யாமை நன்று')."
+    },
+    "Art_Direction": {
+      "Subject_and_Action": "First, do not commit acts that you will later regret. Second, if you have already committed such an act, it is better not to repeat it.",
+      "Symbolic_Motifs": "The dark door is the regrettable act. The weeping future self is the personified regret. The final act of walking away without looking back shows the wisdom of not repeating the mistake.",
+      "Mood_and_Emotion": "Cautionary, regretful, then resolute.",
+      "Lighting_and_Color": "The scene with the dark door is ominous and full of shadows. The weeping ghost is ethereal and tragic. The final scene of walking away is lit with a more neutral, determined light."
+    },
+    "Technical_Cues": {
+      "Camera": "A narrative composition that shows the moment of choice and the potential consequence.",
+      "Resolution": "8K, with ghostly and ethereal effects for the future self.",
+      "Lighting": "Dramatic, foreboding lighting.",
+      "Art_Genre": "Psychological thriller, with supernatural elements."
+    },
+    "Cultural_Anchors": [
+      "Not doing acts that cause regret ('இரங்குவ செய்யற்க')",
+      "If done, not repeating them ('மற்றன்ன செய்யாமை நன்று')",
+      "The wisdom of foresight and resolution."
+    ]
+  },
+  "Negative_Prompt": "person happily opening the door, text artifacts, cartoonish ghost.",
+  "Hyperparameters": {
+    "variant": "dev",
+    "steps": 45,
+    "cfg_scale": 8,
+    "seed": "Explore variations for the ghostly future self."
+  }
+}

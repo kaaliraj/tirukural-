@@ -1,0 +1,38 @@
+{
+  "Kural_Info": {
+    "Number": 1311,
+    "Chapter": "புலவி நுணுக்கம் (Feigned Anger)",
+    "Tamil_Text": "பெண்ணியலார் எல்லாரும் கண்ணின் பொதுஉண்பர்நண்ணேன் பரத்தநின் மார்பு.",
+    "English_Meaning": "You are given to prostitution; all those who are born as womankind enjoy you with their eyes in an ordinary way. I will not embrace you."
+  },
+  "Flux_Optimized_Prompt": {
+    "Layered_Composition": {
+      "Foreground": "A woman is shown turning away from her lover with a look of clever, feigned anger.",
+      "Midground": "Her accusation is visualized: her lover's chest ('நின் மார்பு') is depicted as a public feast or a common property ('பொது'). A crowd of diverse women ('பெண்ணியலார் எல்லாரும்') are shown 'devouring' his handsomeness with their eyes ('கண்ணின் உண்பர்').",
+      "Background": "Because he allows his charm to be a public spectacle, she declares she will not approach his chest ('நண்ணேன்'). Her pout is a witty protest against his being universally attractive."
+    },
+    "Art_Direction": {
+      "Subject_and_Action": "A lover's witty and nuanced pouting, where she accuses her lover of being a 'libertine' whose handsomeness is publicly consumed by the eyes of all women, and therefore refuses to embrace him.",
+      "Symbolic_Motifs": "The chest as a 'public feast' for the eyes is the central, playful metaphor. The women are not physically touching him, but their gazes are depicted as tangible acts of consumption.",
+      "Mood_and_Emotion": "Witty, jealous, playful, clever, sophisticated.",
+      "Lighting_and_Color": "A romantic, intimate setting. The light from the women's gazes is shown as multiple beams converging on the man's chest, making it the center of attention. The main subject's expression is one of clever, feigned annoyance.",
+      "Technical_Cues": {
+        "Camera": "A shot that captures the woman's witty expression and the surreal, symbolic vision of her lover's chest being consumed by the eyes of all women.",
+        "Resolution": "8K, ultra-realistic, with a focus on sophisticated and playful emotions.",
+        "Lighting": "Soft, romantic lighting with symbolic light beams representing the gazes.",
+        "Art_Genre": "Romantic comedy, with surreal elements."
+      },
+      "Cultural_Anchors": [
+        "All women consume him with their eyes as a common thing (பெண்ணியலார் எல்லாரும் கண்ணின் பொது உண்பர்)",
+        "O libertine, I will not approach your chest (நண்ணேன் பரத்த நின் மார்பு)"
+      ]
+    },
+    "Negative_Prompt": "real anger, sad woman, text artifacts.",
+    "Hyperparameters": {
+      "variant": "dev",
+      "steps": 45,
+      "cfg_scale": 7,
+      "seed": "Explore the visual of 'gazes as consumption'."
+    }
+  }
+}

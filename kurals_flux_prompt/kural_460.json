@@ -1,0 +1,39 @@
+{
+  "Kural_Info": {
+    "Number": 460,
+    "Chapter": "சிற்றினஞ்சேராமை (Avoiding mean Associations)",
+    "Tamil_Text": "நல்லினத்தி னூங்குந் துணையில்லை தீயினத்தின் அல்லற் படுப்பதூஉம் இல்.",
+    "English_Meaning": "There is no greater help than the company of the good; there is no greater source of sorrow than the company of the wicked."
+  },
+  "Flux_Optimized_Prompt": {
+    "Layered_Composition": {
+      "Foreground": "A dramatic split composition. On the left side, a person is climbing a difficult mountain. They are being helped and pulled up by a group of strong, supportive, good companions ('நல்லினம்'). This is the greatest support ('துணை').",
+      "Midground": "On the right side, a person is being dragged down into a dark, thorny abyss by a group of shadowy, wicked companions ('தீயினம்'). This is the greatest source of sorrow ('அல்லல்').",
+      "Background": "The sky on the left is bright and hopeful. The sky on the right is dark, stormy, and full of despair."
+    },
+    "Art_Direction": {
+      "Subject_and_Action": "A powerful visual dichotomy illustrating that good company is the greatest support, and bad company is the greatest cause of suffering.",
+      "Symbolic_Motifs": "The upward climb represents progress and support. The downward pull into the abyss represents ruin and sorrow. The contrast between the companions—supportive vs. destructive—is the core of the image.",
+      "Mood_and_Emotion": "Starkly contrasting, supportive vs. destructive, hopeful vs. tragic.",
+      "Lighting_and_Color": "Left side: Bright, hopeful, warm colors. Right side: Dark, despairing, cold colors with deep shadows.",
+      "Technical_Cues": {
+        "Camera": "A symmetrical wide shot that presents the two scenarios as two sides of the same coin.",
+        "Resolution": "8K, cinematic and highly expressive.",
+        "Lighting": "Strongly contrasted split lighting.",
+        "Art_Genre": "Allegorical realism, dramatic narrative art."
+      }
+    },
+    "Cultural_Anchors": [
+      "Good Company as the Greatest Support ('நல்லினம்... துணை')",
+      "Bad Company as the Greatest Sorrow ('தீயினம்... அல்லல்')",
+      "The ultimate importance of association."
+    ]
+  },
+  "Negative_Prompt": "good companions pushing down, bad companions helping up, neutral lighting, text artifacts.",
+  "Hyperparameters": {
+    "variant": "dev",
+    "steps": 45,
+    "cfg_scale": 9,
+    "seed": "Explore variations for the thorny abyss."
+  }
+}

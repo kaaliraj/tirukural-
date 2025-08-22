@@ -1,0 +1,39 @@
+{
+  "Kural_Info": {
+    "Number": 24,
+    "Chapter": "நீத்தார் பெருமை (The Greatness of Ascetics)",
+    "Tamil_Text": "உரனென்னும் தோட்டியான் ஓரைந்தும் காப்பான்வரனென்னும் வைப்பிற்கோர் வித்தது.",
+    "English_Meaning": "He who guides his five senses by the hook of wisdom will be a seed in the world of heaven."
+  },
+  "Flux_Optimized_Prompt": {
+    "Layered_Composition": {
+      "Foreground": "A sage sits in perfect meditative stillness. In his ethereal hand, he holds a glowing hook of pure light, representing Wisdom ('உரன் என்னும் தோட்டியான்').",
+      "Midground": "Five powerful, ethereal beasts—an elephant (touch), a horse (sight), a serpent (taste), a moth (smell), and a deer (sound)—are gently but firmly tethered by lines of light extending from the hook. They are calm and controlled ('ஓரைந்தும் காப்பான்').",
+      "Background": "From the sage's heart, a single, incandescent seed of light ('வித்து') ascends towards a blissful, heavenly realm of soft clouds and celestial light ('வரன் என்னும் வைப்பு')."
+    },
+    "Art_Direction": {
+      "Subject_and_Action": "An ascetic's inner power of wisdom tames the five powerful senses, transforming their very being into a seed destined for the heavens.",
+      "Symbolic_Motifs": "The hook is not a weapon of force, but a tool of gentle, firm guidance, made of light. The animals represent the wild nature of the senses, now pacified by wisdom. The ascending seed is the ultimate outcome of this inner mastery.",
+      "Mood_and_Emotion": "Controlled power, profound inner peace, spiritual ascension, mastery.",
+      "Lighting_and_Color": "A golden, divine light radiates from the hook of wisdom and the ascending seed. The sage and the pacified animals are bathed in this serene glow. The heavenly realm is a soft, welcoming palette of celestial whites, golds, and blues."
+    },
+    "Technical_Cues": {
+      "Camera": "Centered medium shot, focusing on the sage and the symbolic elements, creating a balanced and powerful composition.",
+      "Resolution": "8K, ultra-realistic sage, with mystical and painterly effects for the beasts, hook, and seed.",
+      "Lighting": "Soft, volumetric lighting, strong internal glow from the symbolic objects.",
+      "Art_Genre": "Symbolic fantasy art, mystical realism."
+    },
+    "Cultural_Anchors": [
+      "Wisdom as a 'hook' or 'goad' (தோட்டியான்)",
+      "The five senses as powerful forces to be controlled (ஓரைந்து)",
+      "Becoming a 'seed' for heaven (வைப்பிற்கோர் வித்து)"
+    ]
+  },
+  "Negative_Prompt": "violent control of animals, physical hook, struggling sage, dark background, deformed limbs, chaotic scene, text artifacts.",
+  "Hyperparameters": {
+    "variant": "dev",
+    "steps": 45,
+    "cfg_scale": 8,
+    "seed": "Explore variations for the ethereal forms of the five beasts."
+  }
+}

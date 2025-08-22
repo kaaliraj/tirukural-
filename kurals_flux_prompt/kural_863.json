@@ -1,0 +1,41 @@
+{
+  "Kural_Info": {
+    "Number": 863,
+    "Chapter": "பகைமாட்சி (The Might of Hatred)",
+    "Tamil_Text": "அஞ்சும் அறியான் அமைவிலன் ஈகலான்தஞ்சம் எளியன் பகைக்கு.",
+    "English_Meaning": "In the estimation of foes miserably weak is he, who is timid, ignorant, unsociable and niggardly."
+  },
+  "Flux_Optimized_Prompt": {
+    "Layered_Composition": {
+      "Foreground": "A ruler is shown cowering on his throne, radiating an aura of incompetence. He is an easy target for his enemies ('தஞ்சம் எளியன் பகைக்கு').",
+      "Midground": "His four fatal flaws are visualized around him as spectral chains that bind him. A shadowy chain of Fear ('அஞ்சும்'). A dark chain of Ignorance ('அறியான்'), perhaps blinding his eyes. A chaotic chain of Unsociability ('அமைவிலன்'), pushing people away. A grasping, tight chain of Niggardliness ('ஈகலான்'), closing his hands.",
+      "Background": "Enemy soldiers are shown laughing as they approach, seeing how utterly helpless and vulnerable this ruler has made himself through his own character flaws."
+    },
+    "Art_Direction": {
+      "Subject_and_Action": "A ruler who is defined by cowardice, ignorance, unsociability, and miserliness becomes an laughably easy and vulnerable target for any enemy.",
+      "Symbolic_Motifs": "The four character flaws as magical, binding chains is the central metaphor. Each chain has a design that reflects the flaw it represents. The enemies' laughter emphasizes the ruler's pathetic state, not his tragedy.",
+      "Mood_and_Emotion": "Pathetic, vulnerable, incompetent, self-defeating.",
+      "Lighting_and_Color": "A dim, unflattering light illuminates the pathetic ruler. The spectral chains glow with sickly, corrupt colors—fearful grey, ignorant black, chaotic red, and miserly green. The approaching enemies are in strong, confident colors.",
+      "Technical_Cues": {
+        "Camera": "A low-angle shot that looks up at the approaching enemies, making them seem powerful, while the ruler on the throne appears small and pathetic despite his high seat.",
+        "Resolution": "8K, ultra-realistic, with ethereal effects for the binding chains.",
+        "Lighting": "The ruler is trapped in the dim light of his own flaws, while the enemies advance in a confident light.",
+        "Art_Genre": "Dark fantasy, political satire."
+      },
+      "Cultural_Anchors": [
+        "Timid (அஞ்சும்)",
+        "Ignorant (அறியான்)",
+        "Unsociable (அமைவிலன்)",
+        "Niggardly (ஈகலான்)",
+        "An easy refuge for his enemies (தஞ்சம் எளியன் பகைக்கு)"
+      ]
+    },
+    "Negative_Prompt": "brave ruler, wise ruler, text artifacts, strong chains.",
+    "Hyperparameters": {
+      "variant": "dev",
+      "steps": 45,
+      "cfg_scale": 9,
+      "seed": "Explore the designs of the four spectral chains."
+    }
+  }
+}

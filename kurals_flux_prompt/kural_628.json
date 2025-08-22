@@ -1,0 +1,39 @@
+{
+  "Kural_Info": {
+    "Number": 628,
+    "Chapter": "இடுக்கணழியாமை (Hopefulness in Trouble)",
+    "Tamil_Text": "இன்பம் விழையான் இடும்பை இயல்பென்பான் துன்பம் உறுதல் இலன்.",
+    "English_Meaning": "That man never experiences sorrow, who does not seek for pleasure, and who considers distress to be natural (to man)."
+  },
+  "Flux_Optimized_Prompt": {
+    "Layered_Composition": {
+      "Foreground": "A wise person is walking a long road, which represents life. The road is naturally composed of two types of paving stones: smooth, pleasant, golden stones (Pleasure) and rough, difficult, grey stones (Hardship).",
+      "Midground": "The person does not actively seek out and jump only on the golden stones ('இன்பம் விழையான்'). They also accept the rough stones as a natural part of the road ('இடும்பை இயல்பென்பான்').",
+      "Background": "Because they walk on both with equal acceptance and without craving for one or aversion to the other, their journey is smooth and their face is serene. They experience no true suffering ('துன்பம் உறுதல் இலன்')."
+    },
+    "Art_Direction": {
+      "Subject_and_Action": "The one who does not chase pleasure and accepts hardship as natural will never experience true suffering.",
+      "Symbolic_Motifs": "The road paved with alternating stones of pleasure and pain is the central metaphor. The person's steady, accepting walk across both types of stones demonstrates their wisdom.",
+      "Mood_and_Emotion": "Equanimous, accepting, serene, wise, untroubled.",
+      "Lighting_and_Color": "A balanced, neutral light covers the entire scene. The golden stones of pleasure have a gentle warmth, but the grey stones of hardship are not menacing or dark, just neutral and factual.",
+      "Technical_Cues": {
+        "Camera": "A tracking shot that follows the person's steady walk along the road.",
+        "Resolution": "8K, with a calm, meditative quality.",
+        "Lighting": "Soft, even lighting to promote a sense of peace and acceptance.",
+        "Art_Genre": "Symbolic realism, allegorical landscape."
+      },
+      "Cultural_Anchors": [
+        "Not seeking Pleasure ('இன்பம் விழையான்')",
+        "Accepting Hardship as Natural ('இடும்பை இயல்பென்பான்')",
+        "Freedom from Suffering ('துன்பம் உறுதல் இலன்')"
+      ]
+    },
+    "Negative_Prompt": "person jumping from gold stone to gold stone, person stumbling on grey stones, text artifacts.",
+    "Hyperparameters": {
+      "variant": "dev",
+      "steps": 40,
+      "cfg_scale": 7,
+      "seed": "Explore variations for the design of the paving stones."
+    }
+  }
+}

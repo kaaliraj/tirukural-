@@ -1,0 +1,39 @@
+{
+  "Kural_Info": {
+    "Number": 381,
+    "Chapter": "இறைமாட்சி (The Greatness of a King)",
+    "Tamil_Text": "படைகுடி கூழ்அமைச்சு நட்பரண் ஆறும் உடையான் அரசருள் ஏறு.",
+    "English_Meaning": "An army, people, wealth, a minister, friends, fort: six things- Who owns them all, a lion lives amid the kings."
+  },
+  "Flux_Optimized_Prompt": {
+    "Layered_Composition": {
+      "Foreground": "A majestic, powerful king, visualized as a lion among men ('அரசருள் ஏறு'), sits confidently on a throne.",
+      "Midground": "Surrounding his throne are six radiant, glowing symbols representing the six essential elements of a kingdom: a Sword (Army - படை), a crowd of people (Subjects - குடி), a sheaf of golden grain (Wealth/Food - கூழ்), a wise scroll (Ministry - அமைச்சு), two clasped hands (Allies - நட்பு), and a strong fortress tower (Fortification - அரண்).",
+      "Background": "A prosperous and sprawling kingdom under a golden sun, showing the result of possessing these six elements."
+    },
+    "Art_Direction": {
+      "Subject_and_Action": "A powerful king who possesses all six essential elements of statecraft, making him a formidable and complete ruler, a 'lion among kings'.",
+      "Symbolic_Motifs": "The six glowing symbols are the core visual metaphor. The king's leonine aura or features subtly reinforce the 'lion among kings' idea.",
+      "Mood_and_Emotion": "Majestic, powerful, complete, prosperous, secure.",
+      "Lighting_and_Color": "A radiant, golden light emanates from the king and the six symbols, bathing the scene in a regal and prosperous glow. The palette is dominated by golds, royal blues, and rich reds."
+    },
+    "Technical_Cues": {
+      "Camera": "Centered, low-angle wide shot, emphasizing the king's majesty and the importance of the six elements surrounding him.",
+      "Resolution": "8K, ultra-realistic with painterly effects for the symbols to give them a divine quality.",
+      "Lighting": "Volumetric lighting, radiant glow, strong but warm key light on the king.",
+      "Art_Genre": "Epic fantasy art, historical realism with symbolic elements."
+    },
+    "Cultural_Anchors": [
+      "The six elements of a kingdom",
+      "Concept of 'Arasarul Eru' (Lion among Kings)",
+      "Idealized ancient Tamil kingship"
+    ]
+  },
+  "Negative_Prompt": "weak king, missing symbols, dark or stormy background, modern attire, text artifacts, cartoonish.",
+  "Hyperparameters": {
+    "variant": "pro",
+    "steps": 50,
+    "cfg_scale": 8,
+    "seed": "Explore variations for the design of the six glowing symbols."
+  }
+}

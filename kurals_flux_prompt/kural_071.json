@@ -1,0 +1,39 @@
+{
+  "Kural_Info": {
+    "Number": 71,
+    "Chapter": "அன்புடைமை (The Possession of Love)",
+    "Tamil_Text": "அன்பிற்கும் உண்டோ அடைக்குந்தாழ் ஆர்வலர்புன்கணீர் பூசல் தரும்.",
+    "English_Meaning": "Is there any fastening that can shut in love? Tears of the affectionate will publish the love that is within."
+  },
+  "Flux_Optimized_Prompt": {
+    "Layered_Composition": {
+      "Foreground": "A person with a stoic, restrained expression, desperately trying to conceal their powerful love for someone nearby.",
+      "Midground": "A single, tiny tear ('புன்கணீர்') escapes their eye. The moment it appears, it explodes into a brilliant, undeniable wave of golden light that flows towards the object of their affection.",
+      "Background": "Behind the person, a massive, bolted vault door ('அடைக்குந்தாழ்'), symbolizing their attempt at concealment, is shown to be utterly irrelevant and powerless against the force of the revealed love."
+    },
+    "Art_Direction": {
+      "Subject_and_Action": "The irrepressible nature of true love, which cannot be locked away and will inevitably reveal itself through a small, involuntary sign like a single tear.",
+      "Symbolic_Motifs": "The tear is not a sign of sadness, but a powerful, revelatory force. The wave of light is the 'loud proclamation' ('பூசல் தரும்') of their inner feelings. The vault door is dark and mundane, while the love is luminous and divine.",
+      "Mood_and_Emotion": "Irrepressible, revelatory, powerful emotion, futile concealment.",
+      "Lighting_and_Color": "The scene is lit with dramatic chiaroscuro. The person and the vault are in shadow, while the single tear and the resulting explosion of golden light are the primary, brilliant light source.",
+      "Technical_Cues": {
+        "Camera": "Intense close-up on the person's eye, capturing the single tear at the moment of its 'explosion' of light.",
+        "Resolution": "8K, ultra-realistic, with advanced particle and light effects for the manifestation of love.",
+        "Lighting": "High-contrast, with the tear acting as a radiant, explosive light source.",
+        "Art_Genre": "Symbolic realism, emotional portraiture."
+      },
+      "Cultural_Anchors": [
+        "Love as an unstoppable force (அன்பு)",
+        "The revealing tear (புன்கணீர்)",
+        "The futility of the bolt/bar (அடைக்குந்தாழ்)"
+      ]
+    },
+    "Negative_Prompt": "wailing, crying loudly, emotionless face, deformed features, blurry, text artifacts, broken vault door.",
+    "Hyperparameters": {
+      "variant": "pro",
+      "steps": 50,
+      "cfg_scale": 9,
+      "seed": "Explore variations for the light wave emanating from the tear."
+    }
+  }
+}

@@ -1,0 +1,39 @@
+{
+  "Kural_Info": {
+    "Number": 825,
+    "Chapter": "கூடாநட்பு (Unreal Friendship)",
+    "Tamil_Text": "மனத்தின் அமையா தவரை எனைத்தொன்றும் சொல்லினால் தேறற்பாற்று அன்று.",
+    "English_Meaning": "In nothing whatever is it proper to rely on the words of those who do not love with their heart."
+  },
+  "Flux_Optimized_Prompt": {
+    "Layered_Composition": {
+      "Foreground": "A person whose heart is not in harmony with their words ('மனத்தின் அமையாதவர்') is speaking.",
+      "Midground": "Their words are visualized as beautifully crafted, ornate, but completely hollow glass bridges. They look strong and reliable.",
+      "Background": "A wise person is shown refusing to put any trust or weight on these glass bridges ('சொல்லினால் தேறற்பாற்று அன்று'). They can see the hollowness and fragility, and they know the bridges will shatter under the slightest pressure. They refuse to cross."
+    },
+    "Art_Direction": {
+      "Subject_and_Action": "It is never wise to trust the words of someone whose heart is not aligned with them.",
+      "Symbolic_Motifs": "The words as beautiful but hollow glass bridges are the central metaphor. They represent promises that look good but have no substance. The wise person's refusal to step on them shows their good judgment.",
+      "Mood_and_Emotion": "Untrustworthy, fragile, hollow, discerning.",
+      "Lighting_and_Color": "The glass bridges sparkle with a deceptive light. The wise person stands in a clear, analytical light that allows them to see the flaws in the glass.",
+      "Technical_Cues": {
+        "Camera": "A shot that shows the beautiful but flawed bridges from the wise person's discerning perspective.",
+        "Resolution": "8K, with high-quality glass and refraction effects.",
+        "Lighting": "Clear, revealing light.",
+        "Art_Genre": "Surrealism, conceptual art."
+      },
+      "Cultural_Anchors": [
+        "Those whose hearts are not in accord ('மனத்தின் அமையாதவர்')",
+        "Not to be trusted by their words ('சொல்லினால் தேறற்பாற்று அன்று')",
+        "The unreliability of insincere speech."
+      ]
+    },
+    "Negative_Prompt": "solid bridges, a person happily crossing, text artifacts, cartoonish.",
+    "Hyperparameters": {
+      "variant": "dev",
+      "steps": 45,
+      "cfg_scale": 8,
+      "seed": "Explore variations for the hollow glass bridges."
+    }
+  }
+}

@@ -1,0 +1,39 @@
+{
+  "Kural_Info": {
+    "Number": 864,
+    "Chapter": "பகைமாட்சி (The Might of Hatred)",
+    "Tamil_Text": "நீங்கான் வெகுளி நிறையிலன் எஞ்ஞான்றும்யாங்கணும் யார்க்கும் எளிது.",
+    "English_Meaning": "He who neither refrains from anger nor keeps his secrets will at all times and in all places be easily conquered by all."
+  },
+  "Flux_Optimized_Prompt": {
+    "Layered_Composition": {
+      "Foreground": "A flawed individual is shown. A fiery aura of ceaseless anger ('நீங்கான் வெகுளி') surrounds his head. His heart is depicted as an open book, revealing all his secrets for everyone to see ('நிறையிலன்').",
+      "Midground": "Because of these two weaknesses, he is shown being effortlessly defeated ('எளிது') in a variety of situations and places ('எஞ்ஞான்றும் யாங்கணும்').",
+      "Background": "In the background, a montage of his defeats: a tiny child outsmarts him in a game, a simple merchant cheats him in a deal, a weak enemy overpowers him in a fight. He is vulnerable to everyone ('யார்க்கும்')."
+    },
+    "Art_Direction": {
+      "Subject_and_Action": "The person who cannot control their anger and cannot keep a secret makes themselves universally vulnerable, easily defeated by anyone, anywhere, at any time.",
+      "Symbolic_Motifs": "The fiery aura of anger and the open book of the heart are direct visualizations of his flaws. The montage of defeats by a wide range of 'enemies' emphasizes the universality of his weakness.",
+      "Mood_and_Emotion": "Vulnerable, weak, exposed, universally incompetent.",
+      "Lighting_and_Color": "The fiery anger provides a chaotic and unstable light. The overall palette is one of exposure and weakness. His defeats are shown in quick, almost comical succession.",
+      "Technical_Cues": {
+        "Camera": "A central portrait of the flawed individual, surrounded by smaller vignettes that illustrate his universal and easy defeat.",
+        "Resolution": "8K, ultra-realistic, with symbolic effects for the anger-aura and the open-book-heart.",
+        "Lighting": "Unstable, flickering light to reflect the subject's lack of control.",
+        "Art_Genre": "Symbolic portraiture, with narrative elements."
+      },
+      "Cultural_Anchors": [
+        "Incessant anger (நீங்கான் வெகுளி)",
+        "Lacking secrecy/fullness (நிறையிலன்)",
+        "Easy for anyone, anywhere (யாங்கணும் யார்க்கும் எளிது)"
+      ]
+    },
+    "Negative_Prompt": "calm person, person with secrets, victorious person, text artifacts.",
+    "Hyperparameters": {
+      "variant": "dev",
+      "steps": 40,
+      "cfg_scale": 8,
+      "seed": "Explore the visual of the 'heart as an open book'."
+    }
+  }
+}

@@ -1,0 +1,38 @@
+{
+  "Kural_Info": {
+    "Number": 113,
+    "Chapter": "நடுவு நிலைமை (Impartiality)",
+    "Tamil_Text": "நன்றே தரினும் நடுவிகந்தாம் ஆக்கத்தைஅன்றே யொழிய விடல்.",
+    "English_Meaning": "Forsake in the very moment (of acquisition) that gain which, though it should bring advantage, is without equity."
+  },
+  "Flux_Optimized_Prompt": {
+    "Layered_Composition": {
+      "Foreground": "A person is being offered a magnificent treasure—a large, glowing, golden chest representing a great gain ('நன்றே தரினும்').",
+      "Midground": "However, the path upon which the treasure arrived is shown to be crooked and unjust ('நடுவு இகந்து'). It is a dark, thorny path that comes from a place of shadow.",
+      "Background": "The person, with a look of firm resolve, is shown pushing the golden chest away with their hands, rejecting it in the very moment it arrives ('அன்றே ஒழிய விடல்'). The chest begins to crumble into dust as it is rejected."
+    },
+    "Art_Direction": {
+      "Subject_and_Action": "The moral imperative to instantly reject any gain, no matter how beneficial it seems, if it is acquired through unjust or inequitable means.",
+      "Symbolic_Motifs": "The contrast between the beautiful, alluring treasure and the ugly, crooked path it came from is key. The act of rejection is not hesitant but immediate and decisive. The treasure's disintegration upon rejection shows its illusory and corrupt nature.",
+      "Mood_and_Emotion": "Resolute, principled, discerning, incorruptible.",
+      "Lighting_and_Color": "The treasure chest glows with a tempting but sickly, unnatural golden light. The crooked path is shrouded in darkness. The person of integrity is illuminated by a clear, pure, white light of their own conscience.",
+      "Technical_Cues": {
+        "Camera": "A dramatic medium shot capturing the moment of rejection, focusing on the person's determined expression.",
+        "Resolution": "8K, ultra-realistic, with strong visual effects for the glowing treasure and its subsequent disintegration.",
+        "Lighting": "High-contrast lighting, with the person's inner light of integrity pushing back against the corrupt glow of the unjust gain.",
+        "Art_Genre": "Symbolic realism, allegorical painting."
+      },
+      "Cultural_Anchors": [
+        "Unjust gain (நடுவு இகந்தாம் ஆக்கம்)",
+        "Forsaking it on the spot (அன்றே ஒழிய விடல்)"
+      ]
+    },
+    "Negative_Prompt": "person accepting the treasure, straight and beautiful path, text artifacts, happy person with unjust gain.",
+    "Hyperparameters": {
+      "variant": "dev",
+      "steps": 45,
+      "cfg_scale": 9,
+      "seed": "Explore the visual effect of the treasure crumbling to dust."
+    }
+  }
+}

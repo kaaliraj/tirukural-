@@ -1,0 +1,38 @@
+{
+  "Kural_Info": {
+    "Number": 143,
+    "Chapter": "பிறனில் விழையாமை (Not coveting another's Wife)",
+    "Tamil_Text": "விளிந்தாரின் வேறல்லர் மன்ற தெளிந்தாரில்தீமை புரிந்துதொழுகு வார்.",
+    "English_Meaning": "Certainly they are no better than dead men who desire evil towards the wife of those who undoubtingly confide in them."
+  },
+  "Flux_Optimized_Prompt": {
+    "Layered_Composition": {
+      "Foreground": "A man is shown plotting evil ('தீமை புரிந்து') towards the wife of a trusting friend.",
+      "Midground": "The trusting friend ('தெளிந்தார் இல்') is shown with an open, friendly posture, his heart completely open and unguarded, showing his absolute trust.",
+      "Background": "As the man plots his betrayal, his own body is shown to be decaying and turning into a corpse. He is becoming a 'dead man' ('விளிந்தாரின் வேறல்லர்') at the very moment of his treachery. His spiritual and moral life has ended."
+    },
+    "Art_Direction": {
+      "Subject_and_Action": "A man who betrays the trust of a friend by plotting against his wife is considered to be no different from a corpse; he is morally and spiritually dead.",
+      "Symbolic_Motifs": "The physical decay and transformation into a corpse is a powerful, literal visualization of his moral death. The contrast with the trusting, open-hearted friend highlights the depravity of the betrayal.",
+      "Mood_and_Emotion": "Walking dead, corrupt, treacherous, morally bankrupt.",
+      "Lighting_and_Color": "A sickly, deathly pale green light begins to envelop the betrayer as he plots. His skin turns grey and his eyes become lifeless. The trusting friend remains in a warm, naive, healthy light.",
+      "Technical_Cues": {
+        "Camera": "A dramatic shot that captures the betrayer's evil thought and the simultaneous, horrifying physical transformation into a living corpse.",
+        "Resolution": "8K, ultra-realistic, with advanced visual effects for the process of decay.",
+        "Lighting": "The light should seem to drain out of the betrayer as he becomes morally dead.",
+        "Art_Genre": "Horror, psychological thriller."
+      },
+      "Cultural_Anchors": [
+        "Doing evil to the wife of a trusting friend (தெளிந்தார் இல் தீமை புரிந்து ஒழுகுவார்)",
+        "They are no different from the dead (விளிந்தாரின் வேறல்லர்)"
+      ]
+    },
+    "Negative_Prompt": "happy betrayer, successful betrayal, text artifacts.",
+    "Hyperparameters": {
+      "variant": "pro",
+      "steps": 55,
+      "cfg_scale": 9,
+      "seed": "Explore the visual process of his transformation into a corpse."
+    }
+  }
+}

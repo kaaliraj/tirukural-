@@ -1,0 +1,39 @@
+{
+  "Kural_Info": {
+    "Number": 590,
+    "Chapter": "ஒற்றாடல் (Detectives)",
+    "Tamil_Text": "சிறப்பறிய ஒற்றின்கண் செய்யற்க செய்யின் புறப்படுத்தான் ஆகும் மறை.",
+    "English_Meaning": "Let (the king) not confer public honours on a spy; if he does, he will betray his own secret."
+  },
+  "Flux_Optimized_Prompt": {
+    "Layered_Composition": {
+      "Foreground": "A king is shown publicly rewarding a spy with a medal in a crowded court. The spy, who should be secret, is now in the spotlight.",
+      "Midground": "As the light of public recognition ('சிறப்பு') shines on the spy, their secret identity and all the secret information they possess are projected like a movie onto the wall behind them for all to see ('புறப்படுத்தான் ஆகும் மறை').",
+      "Background": "Enemy agents in the crowd are shown watching this projection with glee, learning all the king's secrets. The king's act of public reward has led to a catastrophic intelligence breach."
+    },
+    "Art_Direction": {
+      "Subject_and_Action": "A king must never publicly honor a spy. Doing so is equivalent to revealing one's own deepest secrets to the world.",
+      "Symbolic_Motifs": "The public spotlight projecting the spy's secrets onto the wall is a direct and powerful metaphor for the consequence of this foolish act.",
+      "Mood_and_Emotion": "Foolish, catastrophic, revelatory (in a bad way), cautionary.",
+      "Lighting_and_Color": "A harsh, public spotlight is the main light source. The projected secrets are a ghostly, incriminating light. The enemy agents are lurking in the shadows of the crowd.",
+      "Technical_Cues": {
+        "Camera": "A shot from the crowd's perspective, showing the spy being honored and the secrets being projected behind them.",
+        "Resolution": "8K, with a cinematic feel and a ghostly projection effect.",
+        "Lighting": "Dramatic spotlight effect.",
+        "Art_Genre": "Historical thriller, cautionary tale."
+      }
+    },
+    "Cultural_Anchors": [
+      "No public honors for a spy ('சிறப்பு செய்யற்க')",
+      "Revealing one's own secret ('புறப்படுத்தான் ஆகும் மறை')",
+      "The importance of discretion in espionage."
+    ]
+  },
+  "Negative_Prompt": "spy being rewarded in secret, happy king, text in the projection, cartoonish.",
+  "Hyperparameters": {
+    "variant": "pro",
+    "steps": 50,
+    "cfg_scale": 8,
+    "seed": "Explore variations for the projected secrets."
+  }
+}

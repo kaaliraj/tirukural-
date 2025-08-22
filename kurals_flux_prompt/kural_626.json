@@ -1,0 +1,39 @@
+{
+  "Kural_Info": {
+    "Number": 626,
+    "Chapter": "இடுக்கணழியாமை (Hopefulness in Trouble)",
+    "Tamil_Text": "அற்றேமென்று அல்லற் படுபவோ பெற்றேமென்று ஓம்புதல் தேற்றா தவர்.",
+    "English_Meaning": "Will those men ever cry out in sorrow, 'we are destitute' who, (in their prosperity), give not way to (undue desire) to keep their wealth."
+  },
+  "Flux_Optimized_Prompt": {
+    "Layered_Composition": {
+      "Foreground": "A split-panel image. On the right side, during a time of prosperity, a wise person is shown with a light and open-handed approach to their wealth. They are not desperately clinging to it or hoarding it ('ஓம்புதல் தேற்றாதவர்').",
+      "Midground": "On the left side, a time of adversity has come, and the same person has lost their wealth ('அற்றேம்'). However, because they were never overly attached to it, their expression is not one of sorrow or despair ('அல்லற் படுபவோ'). They remain serene and composed.",
+      "Background": "The background shows that their inner state of peace is constant, regardless of the external circumstances of wealth or poverty."
+    },
+    "Art_Direction": {
+      "Subject_and_Action": "Those who are not attached to hoarding their wealth when they have it, will not suffer from sorrow when they lose it.",
+      "Symbolic_Motifs": "The open hands in times of wealth symbolize non-attachment. The serene face in times of poverty is the result. The contrast between the two external situations and the single, constant internal state is the key.",
+      "Mood_and_Emotion": "Detached, serene, equanimous, wise.",
+      "Lighting_and_Color": "The lighting on the person's face remains constant and serene in both panels, even as the background changes from prosperous gold to humble grey, showing that their peace is internal.",
+      "Technical_Cues": {
+        "Camera": "A diptych portrait, focusing on the unchanged expression of the wise person across two different circumstances.",
+        "Resolution": "8K, with a focus on subtle emotion.",
+        "Lighting": "The background lighting changes dramatically, but the key light on the person's face remains soft and constant.",
+        "Art_Genre": "Philosophical portraiture, conceptual realism."
+      }
+    },
+    "Cultural_Anchors": [
+      "Non-attachment to hoarding wealth ('ஓம்புதல் தேற்றாதவர்')",
+      "Not suffering at its loss ('அற்றேம் என்று அல்லற் படுபவோ')",
+      "The virtue of equanimity."
+    ]
+  },
+  "Negative_Prompt": "person hoarding wealth, person crying when poor, text artifacts, cartoonish.",
+  "Hyperparameters": {
+    "variant": "dev",
+    "steps": 40,
+    "cfg_scale": 8,
+    "seed": "Explore variations for the prosperous background."
+  }
+}

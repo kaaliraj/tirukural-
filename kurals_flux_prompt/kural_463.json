@@ -1,0 +1,39 @@
+{
+  "Kural_Info": {
+    "Number": 463,
+    "Chapter": "தெரிந்துசெயல்வகை (Acting after due Consideration)",
+    "Tamil_Text": "ஆக்கம் கருதி முதலிழக்கும் செய்வினைஊக்கார் அறிவுடை யார்.",
+    "English_Meaning": "The wise men will not, in the hopes of profit, undertake works that will consume their principal."
+  },
+  "Flux_Optimized_Prompt": {
+    "Layered_Composition": {
+      "Foreground": "A wise person ('அறிவுடையார்') is shown standing before a tempting opportunity.",
+      "Midground": "The opportunity is visualized as a magical tree. Its high branches bear a few, large golden apples representing potential 'profit' ('ஆக்கம்'). However, the trunk of the tree, representing the 'principal investment' ('முதல்'), is made of brittle, cracking glass.",
+      "Background": "The wise person, seeing the fragile trunk, refuses to climb the tree ('ஊக்கார்'). They understand that the act of climbing to get the profit will shatter the principal, bringing the whole thing crashing down. In the background, a foolish person is shown attempting to climb a similar tree, which is shattering beneath them."
+    },
+    "Art_Direction": {
+      "Subject_and_Action": "The wise do not undertake actions where the potential profit comes at the risk of losing the initial capital investment.",
+      "Symbolic_Motifs": "The tree with the glass trunk is a direct and powerful metaphor for a risky venture that consumes the principal. The wise person's refusal is an act of foresight and prudence, not cowardice.",
+      "Mood_and_Emotion": "Prudent, wise, risk-averse, discerning.",
+      "Lighting_and_Color": "The golden apples of profit glow with a tempting light, but the glass trunk is lit in a way that reveals its dangerous cracks and instability. The wise person stands in a clear, steady light of good judgment.",
+      "Technical_Cues": {
+        "Camera": "A shot that clearly shows the wise person's discerning gaze as they analyze the entire tree, from the tempting fruit to the fatal flaw in its trunk.",
+        "Resolution": "8K, ultra-realistic, with advanced glass and fracture effects.",
+        "Lighting": "Symbolic lighting that contrasts the tempting glow of the profit with the dangerous glint of the risk.",
+        "Art_Genre": "Allegorical realism."
+      },
+      "Cultural_Anchors": [
+        "Hoping for profit (ஆக்கம் கருதி)",
+        "Losing the principal (முதல் இழக்கும்)",
+        "The wise will not attempt (ஊக்கார் அறிவுடையார்)"
+      ]
+    },
+    "Negative_Prompt": "wise person climbing the tree, solid trunk, text artifacts, cartoonish.",
+    "Hyperparameters": {
+      "variant": "dev",
+      "steps": 45,
+      "cfg_scale": 8,
+      "seed": "Explore the visual of the glass trunk shattering."
+    }
+  }
+}

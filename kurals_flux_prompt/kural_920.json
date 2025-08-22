@@ -1,0 +1,39 @@
+{
+  "Kural_Info": {
+    "Number": 920,
+    "Chapter": "வரைவின்மகளிர் (Wanton Women)",
+    "Tamil_Text": "இருமனப் பெண்டிரும் கள்ளும் கவறும் திருநீக்கப் பட்டார் தொடர்பு.",
+    "English_Meaning": "Treacherous women, liquor, and gambling are the associates of such as have forsaken by Fortune."
+  },
+  "Flux_Optimized_Prompt": {
+    "Layered_Composition": {
+      "Foreground": "A person who has been abandoned by Fortune ('திருநீக்கப்பட்டார்') is shown sitting alone in a dark, ruined hall. They look wretched and cursed.",
+      "Midground": "They are not truly alone. Three ghostly, corrupting companions have now joined them. These are their new associates ('தொடர்பு').",
+      "Background": "The three companions are personifications of the three great vices: a two-faced woman representing the deceitful woman ('இருமனப்பெண்டிர்'), a dark spirit offering an overflowing goblet of wine ('கள்'), and a skeletal figure rattling a set of dice ('கவறு'). These three are the only company for the one abandoned by Fortune."
+    },
+    "Art_Direction": {
+      "Subject_and_Action": "Deceitful women, drink, and dice are the companions of those whom Fortune has abandoned.",
+      "Symbolic_Motifs": "The personification of the three vices as the new, grim companions of the ruined man is the key visual. The absence of the Goddess of Fortune, and her replacement by these three, tells the story.",
+      "Mood_and_Emotion": "Cursed, corrupt, abandoned, the company of ruin.",
+      "Lighting_and_Color": "A dark, gloomy, and decadent atmosphere. The three vices have a sickly, corrupting glow about them. The colors are dark and suggest decay.",
+      "Technical_Cues": {
+        "Camera": "A wide shot of the ruined man and his three new, terrible companions in the desolate hall.",
+        "Resolution": "8K, with a dark, gothic aesthetic.",
+        "Lighting": "Low-key, sinister lighting.",
+        "Art_Genre": "Dark fantasy, allegorical painting."
+      },
+      "Cultural_Anchors": [
+        "Those abandoned by Fortune ('திருநீக்கப்பட்டார்')",
+        "Their companions are: Two-faced women, Liquor, and Dice.",
+        "The trinity of vice."
+      ]
+    },
+    "Negative_Prompt": "a prosperous person, virtuous companions, text artifacts, cartoonish.",
+    "Hyperparameters": {
+      "variant": "pro",
+      "steps": 50,
+      "cfg_scale": 9,
+      "seed": "Explore variations for the three personified vices."
+    }
+  }
+}

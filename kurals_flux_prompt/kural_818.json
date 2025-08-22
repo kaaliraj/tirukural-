@@ -1,0 +1,39 @@
+{
+  "Kural_Info": {
+    "Number": 818,
+    "Chapter": "தீ நட்பு (Evil Friendship)",
+    "Tamil_Text": "ஒல்லும் கருமம் உடற்று பவர்கேண்மைசொல்லாடார் சோர விடல்.",
+    "English_Meaning": "Gradually abandon without revealing (beforehand) the friendship of those who pretend inability to carry out what they (really) could do."
+  },
+  "Flux_Optimized_Prompt": {
+    "Layered_Composition": {
+      "Foreground": "A person is shown needing help with a manageable task ('ஒல்லும் கருமம்'), like lifting a heavy stone.",
+      "Midground": "Their 'friend' is shown feigning weakness and making excuses, actively thwarting the task ('உடற்றுபவர்'). The friend is capable but unwilling.",
+      "Background": "The protagonist, realizing this, does not confront them or argue ('சொல்லாடார்'). Instead, they are shown subtly and quietly letting the rope of friendship slip through their fingers, letting the connection fade away on its own ('சோர விடல்')."
+    },
+    "Art_Direction": {
+      "Subject_and_Action": "One should quietly and gradually abandon the friendship of those who obstruct achievable tasks, without making a scene.",
+      "Symbolic_Motifs": "The rope of friendship slipping away is a clear and silent metaphor for the abandonment of the relationship. The lack of confrontation is key—it is a silent, internal decision.",
+      "Mood_and_Emotion": "Disengagement, quiet withdrawal, discerning, subtle.",
+      "Lighting_and_Color": "A neutral, realistic light. The scene is not dramatic, but one of quiet, personal decision. The focus is on the subtle action of letting the rope slip.",
+      "Technical_Cues": {
+        "Camera": "A close-up on the protagonist's hands as they silently let the symbolic rope of friendship slide away.",
+        "Resolution": "8K, ultra-realistic, focusing on the quiet determination in the protagonist's expression.",
+        "Lighting": "Naturalistic, undramatic lighting.",
+        "Art_Genre": "Psychological realism."
+      },
+      "Cultural_Anchors": [
+        "Those who obstruct a possible deed (ஒல்லும் கருமம் உடற்றுபவர்)",
+        "Without speaking (சொல்லாடார்)",
+        "Let it slip away (சோர விடல்)"
+      ]
+    },
+    "Negative_Prompt": "angry confrontation, helpful friend, text artifacts.",
+    "Hyperparameters": {
+      "variant": "dev",
+      "steps": 40,
+      "cfg_scale": 7,
+      "seed": "Explore the subtle expression of quiet decision-making."
+    }
+  }
+}

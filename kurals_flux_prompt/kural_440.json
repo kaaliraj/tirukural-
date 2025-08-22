@@ -1,0 +1,39 @@
+{
+  "Kural_Info": {
+    "Number": 440,
+    "Chapter": "குற்றங்கடிதல் (The Correction of Faults)",
+    "Tamil_Text": "காதல காதல் அறியாமை உய்க்கிற்பின் ஏதில ஏதிலார் நூல்.",
+    "English_Meaning": "If (a king) enjoys, privately the things which he desires, the designs of his enemies will be useless."
+  },
+  "Flux_Optimized_Prompt": {
+    "Layered_Composition": {
+      "Foreground": "A king is shown in his private chambers, enjoying a simple pleasure (like reading a book or listening to music) in a quiet, concealed manner ('காதல் அறியாமை'). A thick, ornate curtain is drawn, hiding him from view.",
+      "Midground": "Outside the curtain, enemy spies ('ஏதிலார்') are shown listening intently, but their expressions are confused. The plans and schemes in their hands, represented by scrolls with complex diagrams ('நூல்'), are shown turning to dust, becoming useless because they can find no fault or weakness to exploit.",
+      "Background": "The world outside the king's private chambers is depicted as a complex web of intrigue and plotting, which is being rendered harmless by the king's discreet conduct."
+    },
+    "Art_Direction": {
+      "Subject_and_Action": "A king who indulges his personal desires discreetly and without public display makes the schemes of his enemies completely ineffective.",
+      "Symbolic_Motifs": "The curtain represents discretion and privacy. The spies' scrolls turning to dust is the key metaphor for the foiling of their plans. The king's simple, private pleasure contrasts with the public's perception of him.",
+      "Mood_and_Emotion": "Discreet, strategic, wise, secure, private.",
+      "Lighting_and_Color": "The king's private space is lit with warm, soft, intimate light. The area where the spies are is lit with a colder, harsher light. The scrolls turning to dust have a magical, disintegrating effect.",
+      "Technical_Cues": {
+        "Camera": "A cross-section view, showing the king in his private room on one side and the spies outside on the other.",
+        "Resolution": "8K, with rich textures on the curtain and a particle effect for the disintegrating scrolls.",
+        "Lighting": "Contrasting interior and exterior lighting.",
+        "Art_Genre": "Narrative realism, historical intrigue."
+      }
+    },
+    "Cultural_Anchors": [
+      "Discreet indulgence ('காதல் அறியாமை')",
+      "Foiling enemy plans ('ஏதிலார் நூல் ஏதில')",
+      "The strategic value of privacy for a ruler."
+    ]
+  },
+  "Negative_Prompt": "king enjoying pleasures publicly, spies succeeding, torn curtain, text on scrolls, cartoonish spies.",
+  "Hyperparameters": {
+    "variant": "pro",
+    "steps": 50,
+    "cfg_scale": 8,
+    "seed": "Explore variations for the spies' scrolls turning to dust."
+  }
+}

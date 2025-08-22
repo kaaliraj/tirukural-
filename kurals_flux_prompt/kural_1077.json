@@ -1,0 +1,38 @@
+{
+  "Kural_Info": {
+    "Number": 1077,
+    "Chapter": "கயமை (Baseness)",
+    "Tamil_Text": "ஈர்ங்கை விதிரார் கயவர் கொடிறுடைக்கும்கூன்கையர் அல்லா தவர்க்கு.",
+    "English_Meaning": "The mean will not (even) shake off (what sticks to) their hands (soon after a meal) to any but those who would break their jaws with their clenched fists."
+  },
+  "Flux_Optimized_Prompt": {
+    "Layered_Composition": {
+      "Foreground": "A base person ('கயவர்') has just finished eating. Their wet hands ('ஈர்ங்கை') have a few grains of rice sticking to them. A hungry, gentle person is looking at them hopefully.",
+      "Midground": "The base person refuses to even flick their wet hands to shake off the few grains for the hungry person ('விதிரார்'). Their stinginess is absolute.",
+      "Background": "In a contrasting vision, a powerful, intimidating figure with a clenched, crooked fist ('கூன்கையர்') appears. This figure threatens to break the base person's jaw ('கொடிறுடைக்கும்'). Only at this direct threat of extreme violence does the base person fearfully shake the grains from their hand."
+    },
+    "Art_Direction": {
+      "Subject_and_Action": "The extreme stinginess of the base: they will not give even the most worthless crumb unless compelled by the direct threat of brutal physical violence.",
+      "Symbolic_Motifs": "The tiny grains of rice on the wet hand represent the most insignificant, worthless amount of charity possible. The refusal to give even this, except under duress, defines the character of the base.",
+      "Mood_and_Emotion": "Miserly, cowardly, pathetic, compelled by violence.",
+      "Lighting_and_Color": "A pathetic, dim light for the initial scene of refusal. A harsh, terrifying light appears with the threatening figure, forcing the base person's action.",
+      "Technical_Cues": {
+        "Camera": "A close-up on the hands and faces to capture the drama: the hope of the hungry, the refusal of the base, and the terror inspired by the violent threat.",
+        "Resolution": "8K, ultra-realistic, with a strong focus on the expressions of stinginess and fear.",
+        "Lighting": "Dramatic, threatening lighting.",
+        "Art_Genre": "Gritty realism."
+      },
+      "Cultural_Anchors": [
+        "They won't even shake their wet hands (ஈர்ங்கை விதிரார்)",
+        "Except to one with a crooked fist who will break their jaw (கொடிறுடைக்கும் கூன்கையர்)"
+      ]
+    },
+    "Negative_Prompt": "generous base person, person giving freely, text artifacts.",
+    "Hyperparameters": {
+      "variant": "dev",
+      "steps": 45,
+      "cfg_scale": 9,
+      "seed": "Explore the intimidating design of the 'man with the crooked fist'."
+    }
+  }
+}

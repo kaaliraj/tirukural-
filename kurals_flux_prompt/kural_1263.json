@@ -1,0 +1,33 @@
+{
+  "Kural_Info": {
+    "Number": 1263,
+    "Chapter": "அவர்வயின்விதும்பல் (Mutual Desire)",
+    "Tamil_Text": "உரன்நசைஇ உள்ளம் துணையாகச் சென்றார்வரல்நசைஇ இன்னும் உளேன்.",
+    "English_Meaning": "On victory intent, His mind sole company he went; And I yet life sustain! And long to see his face again!."
+  },
+  "Flux_Optimized_Prompt": {
+    "Layered_Composition": {
+      "Foreground": "A woman stands waiting, her gaze fixed on the distant horizon. Her life force is a steady, resilient flame within her chest ('Innum Ulen').",
+      "Midground": "The cause of her waiting is shown in a semi-transparent overlay: her lover is depicted as a heroic warrior, marching off to battle, his only companion being his own resolute heart and desire for victory ('Uran Nasai'i, Ullam Thunaiyaaga').",
+      "Background": "The reason she can endure is her powerful hope for his return ('Varal Nasai'i'), which is visualized as the fuel that keeps her flame of life burning."
+    },
+    "Art_Direction": {
+      "Subject_and_Action": "My lover went off to war, seeking victory with only his own strong heart as his companion. I am still alive only because of my intense hope for his return.",
+      "Symbolic_Motifs": "The lover as a heroic, self-reliant warrior. Her life as a steady flame. Her hope as the fuel for that flame.",
+      "Mood_and_Emotion": "Enduring, hopeful, patient, proud of her lover's strength yet longing for his return.",
+      "Lighting_and_Color": "The scene is lit by the warm, hopeful glow of her own inner flame. The vision of the warrior is heroic, with strong, dramatic lighting. The palette is one of resilient warmth against a vast, lonely landscape."
+    },
+    "Technical_Cues": {
+      "Camera": "A powerful, static wide shot, emphasizing her steadfast waiting.",
+      "Resolution": "8K, photorealistic, with a painterly, epic quality to the vision of the warrior.",
+      "Lighting": "A combination of internal, symbolic light and natural, epic landscape light.",
+      "Art_Genre": "Epic historical romance."
+    },
+    "Cultural_Anchors": [
+      "The duty of a warrior to seek victory (உரன்)",
+      "The waiting beloved",
+      "Hope as a life-sustaining force (வரல் நசை)"
+    ]
+  },
+  "Negative_Prompt": "a dying flame, a fearful warrior, a modern war, text artifacts, cartoonish, blurry."
+}

@@ -1,0 +1,38 @@
+{
+  "Kural_Info": {
+    "Number": 255,
+    "Chapter": "புலான்மறுத்தல் (Abstinence from Flesh)",
+    "Tamil_Text": "உண்ணாமை உள்ளது உயிர்நிலை ஊனுண்ணஅண்ணாத்தல் செய்யாது அளறு.",
+    "English_Meaning": "Not to eat flesh contributes to the continuance of life; therefore if a man eat flesh, hell will not open its mouth (to let him escape out, after he has once fallen in)."
+  },
+  "Flux_Optimized_Prompt": {
+    "Layered_Composition": {
+      "Foreground": "A split composition.",
+      "Midground": "On the right, a person is shown abstaining from eating flesh ('உண்ணாமை'). This act is shown to support and strengthen the state of life; a great, healthy, flourishing tree of life ('உயிர் நிலை') grows beside them.",
+      "Background": "On the left, a person is shown eating flesh ('ஊன் உண்ண'). As they do so, a terrifying, monstrous, living Hell-mouth ('அளறு') opens in the ground beneath them and swallows them. The mouth of Hell is shown to be a one-way gate; it does not open again to let them out ('அண்ணாத்தல் செய்யாது')."
+    },
+    "Art_Direction": {
+      "Subject_and_Action": "Abstaining from flesh-eating supports life. Indulging in it leads to a one-way trip to a hell that will not release its victims.",
+      "Symbolic_Motifs": "The Tree of Life versus the consuming Hell-mouth is a stark and powerful contrast. The one-way nature of the Hell-mouth—it swallows but does not spit out—is the key terrifying element.",
+      "Mood_and_Emotion": "Life vs. eternal damnation, horrifying, inescapable doom.",
+      "Lighting_and_Color": "The right side is bathed in the warm, vibrant, life-giving light of the Tree of Life. The left side is lit by the terrifying, hellish, red and orange glow from within the monstrous Hell-mouth.",
+      "Technical_Cues": {
+        "Camera": "A dramatic diptych showing the two opposing fates.",
+        "Resolution": "8K, hyper-realistic, with a beautiful design for the Tree of Life and a terrifying, grotesque design for the living Hell-mouth.",
+        "Lighting": "Strong dualistic lighting: one side heavenly, the other hellish.",
+        "Art_Genre": "Epic dark fantasy, with mythological elements."
+      },
+      "Cultural_Anchors": [
+        "Not eating flesh supports the state of life (உண்ணாமை உள்ளது உயிர்நிலை)",
+        "For the flesh-eater, hell will not open its mouth (to let them out) (ஊன் உண்ண அண்ணாத்தல் செய்யாது அளறு)"
+      ]
+    },
+    "Negative_Prompt": "dying tree, person escaping hell, text artifacts, friendly hell-mouth.",
+    "Hyperparameters": {
+      "variant": "pro",
+      "steps": 60,
+      "cfg_scale": 10,
+      "seed": "Explore the grotesque design of the 'living Hell-mouth'."
+    }
+  }
+}

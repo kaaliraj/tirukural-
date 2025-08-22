@@ -1,0 +1,38 @@
+{
+  "Kural_Info": {
+    "Number": 300,
+    "Chapter": "வாய்மை (Veracity)",
+    "Tamil_Text": "யாமெய்யாக் கண்டவற்றுள் இல்லை எனைத்தொன்றும்வாய்மையின் நல்ல பிற.",
+    "English_Meaning": "Amidst all that we have seen (described) as real (excellence), there is nothing so good as truthfulness."
+  },
+  "Flux_Optimized_Prompt": {
+    "Layered_Composition": {
+      "Foreground": "A figure representing the poet Thiruvalluvar, or a universal wise sage, stands as if giving a final testimony.",
+      "Midground": "Before them, a vast, cosmic tapestry displays all the good and excellent things that have ever been known or seen in the universe ('யாம் மெய்யாக் கண்டவற்றுள்'): great acts of charity, profound wisdom, divine powers, immense beauty, perfect love.",
+      "Background": "The sage points to one single, shining thread in this vast tapestry: the thread of Truthfulness ('வாய்மையின்'). This single thread is shown to be brighter, stronger, and more fundamental than all the other magnificent things woven into the tapestry. It is declared that there is 'nothing better' ('நல்ல பிற இல்லை')."
+    },
+    "Art_Direction": {
+      "Subject_and_Action": "The ultimate and final declaration based on all possible experience and knowledge: among all the things known to be good, nothing is superior to truthfulness.",
+      "Symbolic_Motifs": "The cosmic tapestry of all known good is the central metaphor. Truthfulness is not a separate object, but the foundational thread that gives the entire tapestry its strength and coherence. The sage's gesture is one of final, conclusive judgment.",
+      "Mood_and_Emotion": "Conclusive, ultimate, supreme, foundational, definitive.",
+      "Lighting_and_Color": "The entire tapestry is beautiful and glowing, but the thread of truth has a supreme, brilliant, white-gold radiance that serves as the backbone of the entire composition. The sage is illuminated by the light of this one thread.",
+      "Technical_Cues": {
+        "Camera": "An epic, cosmic shot that shows the sage, their gesture, and the vast, intricate tapestry of all known good.",
+        "Resolution": "8K, hyper-realistic, with incredibly detailed and varied textures within the cosmic tapestry.",
+        "Lighting": "The thread of truth is the primary and most powerful light source in the universe.",
+        "Art_Genre": "Epic cosmic art, philosophical illustration."
+      },
+      "Cultural_Anchors": [
+        "Of all that we have seen as truth/goodness (யாம் மெய்யாக் கண்டவற்றுள்)",
+        "Nothing is better than truthfulness (வாய்மையின் நல்ல பிற இல்லை)"
+      ]
+    },
+    "Negative_Prompt": "dull thread of truth, other things being brighter, text artifacts, confused sage.",
+    "Hyperparameters": {
+      "variant": "pro",
+      "steps": 60,
+      "cfg_scale": 9,
+      "seed": "Explore the intricate design of the 'cosmic tapestry of all good'."
+    }
+  }
+}

@@ -1,0 +1,34 @@
+{
+  "Kural_Info": {
+    "Number": 1014,
+    "Chapter": "நாணுடைமை (Shame)",
+    "Tamil_Text": "அணிஅன்றோ நாணுடைமை சான்றோர்க்கு அஃதின்றேல்பிணிஅன்றோ பீடு நடை.",
+    "English_Meaning": "And is not shame an ornament to men of dignity? Without it step of stately pride is piteous thing to see."
+  },
+  "Flux_Optimized_Prompt": {
+    "Layered_Composition": {
+      "Foreground": "A stark contrast. On one side, a 'Saandror' (dignified person) walks with a stately gait ('Peedu Nadai'). They are adorned with a beautiful, glowing piece of jewelry representing 'Naan' (modesty), which completes their noble appearance.",
+      "Midground": "On the other side, another person attempts the same stately walk, but they lack the ornament of modesty. Their proud walk ('Peedu Nadai') appears awkward, grotesque, and painful, as if they are afflicted with a disease ('Pini'). Their limbs are subtly twisted and unnatural.",
+      "Background": "A grand, respectful hall that admires the first person's walk, but looks away with pity and discomfort from the second."
+    },
+    "Art_Direction": {
+      "Subject_and_Action": "Modesty is presented as the essential ornament that makes a dignified bearing beautiful; without it, that same prideful walk becomes a pitiful affliction.",
+      "Symbolic_Motifs": "Modesty as a literal, beautiful ornament ('Ani'). The lack of it causing a graceful walk to become a diseased limp ('Pini').",
+      "Mood_and_Emotion": "Graceful dignity contrasted with pitiful arrogance.",
+      "Lighting_and_Color": "The modest person is bathed in a warm, flattering light. The shameless person is lit with a harsh, clinical light that exposes the ugliness of their gait. A palette of noble golds vs. sickly greens."
+    },
+    "Technical_Cues": {
+      "Camera": "Wide shot that captures the full movement and gait of both figures, allowing for a clear comparison.",
+      "Resolution": "8K, ultra-realistic, with a subtle surrealism in the depiction of the 'diseased' walk.",
+      "Lighting": "Contrasting lighting setups to differentiate between what is admirable and what is pitiful.",
+      "Art_Genre": "Allegorical realism, using physical form to represent moral states."
+    },
+    "Cultural_Anchors": [
+      "நாணுடைமை (Possession of Shame/Modesty)",
+      "பீடு நடை (Stately/Proud Walk)",
+      "அணி (Ornament)",
+      "பிணி (Disease/Affliction)"
+    ]
+  },
+  "Negative_Prompt": "both figures looking graceful, modern setting, text artifacts, cartoonish, blurry details."
+}

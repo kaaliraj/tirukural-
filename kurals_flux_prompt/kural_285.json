@@ -1,0 +1,39 @@
+{
+  "Kural_Info": {
+    "Number": 285,
+    "Chapter": "கள்ளாமை (The Absence of Fraud)",
+    "Tamil_Text": "அருள்கருதி அன்புடைய ராதல் பொருள்கருதிப்பொச்சாப்புப் பார்ப்பார்கண் இல்.",
+    "English_Meaning": "The study of kindness and the exercise of benevolence is not with those who watch for another's forgetfulness, though desire of his property."
+  },
+  "Flux_Optimized_Prompt": {
+    "Layered_Composition": {
+      "Foreground": "A deceitful person is shown hiding in the shadows, their eyes keenly fixed on another person's purse of gold. They are waiting for a moment of forgetfulness to steal it ('பொருள் கருதி பொச்சாப்புப் பார்ப்பார்').",
+      "Midground": "The deceitful person's heart is visualized as a barren, rocky wasteland, completely devoid of two specific, beautiful plants.",
+      "Background": "In a contrasting vision of a virtuous heart, the two missing plants are shown flourishing: one is a radiant flower representing Grace/Compassion ('அருள்'), and the other is a strong tree representing Love ('அன்பு'). The fraudulent mind is shown to be inherently incapable of cultivating these qualities."
+    },
+    "Art_Direction": {
+      "Subject_and_Action": "Those whose minds are preoccupied with waiting for an opportunity to fraudulently acquire wealth are fundamentally incapable of possessing the virtues of grace and love.",
+      "Symbolic_Motifs": "The heart as a garden is the central metaphor. The fraudulent mind is a barren desert where grace and love cannot grow. The act of 'watching for forgetfulness' is depicted as a predatory, dishonorable act.",
+      "Mood_and_Emotion": "Barren, loveless, graceless, predatory.",
+      "Lighting_and_Color": "The fraudulent person and their barren heart-scape are in dark, cold, shadowy light. The vision of the virtuous heart is bathed in the warm, life-giving light of the glowing flower and tree.",
+      "Technical_Cues": {
+        "Camera": "A shot that focuses on the deceitful person, with a symbolic cutaway or overlay showing the state of their barren heart.",
+        "Resolution": "8K, ultra-realistic, with a strong textural contrast between the barren and fertile heart-scapes.",
+        "Lighting": "High-contrast lighting to differentiate the state of the two souls.",
+        "Art_Genre": "Symbolic realism, allegorical art."
+      },
+      "Cultural_Anchors": [
+        "Considering Grace (அருள் கருதி)",
+        "Possessing Love (அன்புடையர் ஆதல்)",
+        "Watching for forgetfulness for the sake of property (பொருள் கருதி பொச்சாப்புப் பார்ப்பார்)"
+      ]
+    },
+    "Negative_Prompt": "loving thief, lush garden in the fraudulent heart, text artifacts.",
+    "Hyperparameters": {
+      "variant": "dev",
+      "steps": 45,
+      "cfg_scale": 8,
+      "seed": "Explore the designs for the 'flower of Grace' and 'tree of Love'."
+    }
+  }
+}

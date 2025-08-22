@@ -1,0 +1,34 @@
+{
+  "Kural_Info": {
+    "Number": 1147,
+    "Chapter": "அலரறிவுறுத்தல் (The Announcement of the Rumour)",
+    "Tamil_Text": "ஊரவர் கெளவை எருவாக அன்னைசொல்நீராக நீளும்இந் நோய்.",
+    "English_Meaning": "My anguish grows apace: the town's report Manures it; my mother's word doth water it."
+  },
+  "Flux_Optimized_Prompt": {
+    "Layered_Composition": {
+      "Foreground": "The young woman's love-sickness ('Innoi') is visualized as a single, rapidly growing, thorny vine that is wrapped around her.",
+      "Midground": "The gossip of the townspeople ('Ooravar Kavvai') is depicted as rich, dark fertilizer ('Eru') being spread at the base of the vine, making it grow thicker and stronger.",
+      "Background": "Her mother ('Annai') is shown with a watering can, but instead of water, her harsh words ('Annai Sol') flow out as a stream of liquid ('Neer') that nourishes the thorny vine, making it grow even faster."
+    },
+    "Art_Direction": {
+      "Subject_and_Action": "A powerful agricultural metaphor where the lover's sickness is a plant, nourished and made to grow by the fertilizer of town gossip and the water of her mother's scolding.",
+      "Symbolic_Motifs": "The love-sickness as a thorny vine. Gossip as fertilizer. Mother's scolding as water. The combination shows how external pressures are paradoxically feeding the internal emotion.",
+      "Mood_and_Emotion": "Painful, trapped, overwhelming, with a sense of ironic growth.",
+      "Lighting_and_Color": "A sickly, unnatural light. The vine has a dark, unhealthy green color. The fertilizer is black and the mother's 'water' is a murky, dark liquid, showing that this growth is not joyous."
+    },
+    "Technical_Cues": {
+      "Camera": "Medium shot focused on the woman, showing her being entangled by the vine as the external forces act upon it.",
+      "Resolution": "8K, surreal realism, with detailed textures for the thorny vine and the symbolic elements.",
+      "Lighting": "Dramatic, high-contrast lighting that makes the scene feel oppressive and claustrophobic.",
+      "Art_Genre": "Symbolic surrealism, illustrating a psychological state through a powerful, cohesive metaphor."
+    },
+    "Cultural_Anchors": [
+      "காம நோய் (Love-sickness)",
+      "கௌவை (Gossip)",
+      "The mother's role in traditional Tamil society",
+      "The metaphor of love as a growing plant"
+    ]
+  },
+  "Negative_Prompt": "a beautiful, flowering vine, happy mother and villagers, modern setting, text artifacts, cartoonish, blurry."
+}

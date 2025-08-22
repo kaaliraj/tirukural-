@@ -1,0 +1,33 @@
+{
+  "Kural_Info": {
+    "Number": 1007,
+    "Chapter": "நன்றியில்செல்வம் (Wealth without Benefaction)",
+    "Tamil_Text": "அற்றார்க்கொன்று ஆற்றாதான் செல்வம் மிகநலம்பெற்றாள் தமியள்மூத் தற்று.",
+    "English_Meaning": "Like woman fair in lonelihood who aged grows, Is wealth of him on needy men who nought bestows."
+  },
+  "Flux_Optimized_Prompt": {
+    "Layered_Composition": {
+      "Foreground": "In a grand, beautifully decorated but empty chamber, a woman of exquisite beauty and wealth ('Miga Nalam Petraal') sits utterly alone ('Thamiyal').",
+      "Midground": "The scene subtly transitions, showing her aging over time—her youth fading, gray streaks in her hair, the decorations in the room gathering dust—while she remains alone. Her beauty and wealth are unused and unappreciated.",
+      "Background": "Outside the window, a world of community and connection passes by, highlighting her isolation. A needy person ('Attrar') is seen outside, but the door to her chamber remains firmly shut."
+    },
+    "Art_Direction": {
+      "Subject_and_Action": "A poignant metaphor comparing the useless wealth of a non-giver to a beautiful woman who grows old in solitude, her beauty and potential wasted.",
+      "Symbolic_Motifs": "The aging, isolated beautiful woman is the central figure. The locked door and the view of the outside world emphasize the theme of sterile, self-imposed isolation.",
+      "Mood_and_Emotion": "Melancholy, tragic, a sense of wasted potential and loneliness.",
+      "Lighting_and_Color": "The lighting inside the chamber is soft but grows dimmer and cooler as she ages. The colors of her attire and the room fade over time. The world outside is always shown in warm, vibrant light."
+    },
+    "Technical_Cues": {
+      "Camera": "A static, poignant medium shot, almost like a portrait, where only the subject subtly ages, emphasizing the passage of time and her unchanging solitude.",
+      "Resolution": "8K, photorealistic, with a painterly quality, focusing on the emotional weight of her loneliness.",
+      "Lighting": "Soft, window-lit, with the light changing from a warm morning glow to a cool evening twilight to represent aging.",
+      "Art_Genre": "Symbolic portraiture, with a strong narrative of time and waste."
+    },
+    "Cultural_Anchors": [
+      "Wasted beauty metaphor",
+      "அற்றார்க்கு ஆற்றாமை (Not helping the destitute)",
+      "The social purpose of wealth"
+    ]
+  },
+  "Negative_Prompt": "happy, social woman, a bustling room, modern setting, text artifacts, cartoonish, blurry."
+}

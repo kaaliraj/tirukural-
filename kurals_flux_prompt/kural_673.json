@@ -1,0 +1,39 @@
+{
+  "Kural_Info": {
+    "Number": 673,
+    "Chapter": "வினைசெயல்வகை (Modes of Action)",
+    "Tamil_Text": "ஒல்லும்வா யெல்லாம் வினைநன்றே ஒல்லாக்கால் செல்லும்வாய் நோக்கிச் செயல்.",
+    "English_Meaning": "Whenever it is possible (to overcome your enemy) the act (of fighting) is certainly good; if not, endeavour to employ some more successful method."
+  },
+  "Flux_Optimized_Prompt": {
+    "Layered_Composition": {
+      "Foreground": "A warrior is facing an enemy. The direct path to the enemy is open and clear. The warrior is taking this direct path, engaging in battle, as this is the best option ('ஒல்லும்வாய் எல்லாம் வினைநன்றே').",
+      "Midground": "In a parallel scenario, the same warrior is facing the same enemy, but this time the direct path is blocked by an insurmountable wall. The warrior is not foolishly trying to break through the wall ('ஒல்லாக்கால்').",
+      "Background": "Instead, the warrior is wisely looking for and taking an alternative, winding path around the obstacle to reach their goal ('செல்லும்வாய் நோக்கிச் செயல்')."
+    },
+    "Art_Direction": {
+      "Subject_and_Action": "Action is good wherever it is possible. Where it is not possible, one must find another way to succeed.",
+      "Symbolic_Motifs": "The open path versus the blocked path represents the two different situations. The choice to fight directly in one, and to find an alternative route in the other, demonstrates tactical flexibility.",
+      "Mood_and_Emotion": "Pragmatic, strategic, flexible, wise.",
+      "Lighting_and_Color": "Clear, direct lighting for both scenes to emphasize that this is a matter of logical strategy, not magic. The colors are those of a realistic battlefield.",
+      "Technical_Cues": {
+        "Camera": "A top-down, strategic view that allows the viewer to see the two scenarios and the different paths chosen.",
+        "Resolution": "8K, with the feel of a tactical map brought to life.",
+        "Lighting": "Clear, even lighting.",
+        "Art_Genre": "Historical realism, with a strategic, map-like composition."
+      }
+    },
+    "Cultural_Anchors": [
+      "Act where it is possible ('ஒல்லும்வாய் வினைநன்றே')",
+      "If not possible, find another way ('ஒல்லாக்கால் செல்லும்வாய் நோக்கி')",
+      "The importance of tactical flexibility."
+    ]
+  },
+  "Negative_Prompt": "warrior giving up, warrior banging his head against the wall, text artifacts.",
+  "Hyperparameters": {
+    "variant": "dev",
+    "steps": 40,
+    "cfg_scale": 8,
+    "seed": "Explore variations for the insurmountable wall."
+  }
+}

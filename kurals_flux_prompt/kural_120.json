@@ -1,0 +1,38 @@
+{
+  "Kural_Info": {
+    "Number": 120,
+    "Chapter": "நடுவு நிலைமை (Impartiality)",
+    "Tamil_Text": "வாணிகம் செய்வார்க்கு வாணிகம் பேணிப்பிறவும் தமபோல் செயின்.",
+    "English_Meaning": "The true merchandize of merchants is to guard and do by the things of others as they do by their own."
+  },
+  "Flux_Optimized_Prompt": {
+    "Layered_Composition": {
+      "Foreground": "An ancient Tamil merchant ('வாணிகன்') is shown at his stall in a bustling marketplace.",
+      "Midground": "He is engaged in two parallel actions. In one hand, he is carefully polishing and protecting his own goods for sale ('தம போல்'). In the other hand, with the exact same care and attention, he is guarding the goods of another merchant who is temporarily away ('பிறவும்').",
+      "Background": "A divine, ethereal balance scale hovers above his head. His equal care for his own and others' property keeps the scale in perfect balance. This balanced state is labeled 'True Commerce' ('வாணிகம்')."
+    },
+    "Art_Direction": {
+      "Subject_and_Action": "The essence of good and just commerce is defined as protecting the interests and property of others with the same diligence as one protects one's own.",
+      "Symbolic_Motifs": "The equal, parallel action is the key visual. The divine scale confirms that this impartiality is the highest form of business virtue. The merchant's expression is one of serene integrity, not of calculation.",
+      "Mood_and_Emotion": "Integrity, fairness, trustworthy, just commerce.",
+      "Lighting_and_Color": "A clear, honest, daylight setting. The divine scale glows with a pure, white light, signifying that this form of commerce is a virtue.",
+      "Technical_Cues": {
+        "Camera": "An eye-level medium shot that clearly captures the merchant's dual, parallel actions of care.",
+        "Resolution": "8K, ultra-realistic, with rich details of the marketplace goods and the merchant's sincere expression.",
+        "Lighting": "Natural, clear lighting to convey honesty and transparency.",
+        "Art_Genre": "Historical realism."
+      },
+      "Cultural_Anchors": [
+        "Vaanigam (வாணிகம்) - Commerce",
+        "Protecting others' (goods) as one's own (பிறவும் தம போல் செயின்)"
+      ]
+    },
+    "Negative_Prompt": "merchant cheating, ignoring others' goods, unbalanced scale, text artifacts, modern market.",
+    "Hyperparameters": {
+      "variant": "dev",
+      "steps": 40,
+      "cfg_scale": 7,
+      "seed": "Explore the details of the ancient Tamil marketplace."
+    }
+  }
+}

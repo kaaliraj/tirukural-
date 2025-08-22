@@ -1,0 +1,39 @@
+{
+  "Kural_Info": {
+    "Number": 522,
+    "Chapter": "சுற்றந்தழால் (Cherishing Kinsmen)",
+    "Tamil_Text": "விருப்பறாச் சுற்றம் இயையின் அருப்பறா ஆக்கம் பலவும் தரும்.",
+    "English_Meaning": "If (a king) possesses a body of relatives who will not leave him, it will be the means of securing for him every kind of prosperity."
+  },
+  "Flux_Optimized_Prompt": {
+    "Layered_Composition": {
+      "Foreground": "A central figure, a leader, is surrounded by a circle of loving, loyal kinsmen ('விருப்பறாச் சுற்றம்'). Their hands are linked, forming an unbroken circle of support.",
+      "Midground": "From this unbroken circle of kinship, a mighty, magical tree is growing. The tree's branches are laden with an endless variety of fruits, jewels, and symbols of prosperity, representing unfailing and diverse wealth ('அருப்பறா ஆக்கம் பலவும்').",
+      "Background": "A bright and prosperous kingdom, nourished by the fruits of this magical tree of kinship."
+    },
+    "Art_Direction": {
+      "Subject_and_Action": "A circle of loving and inseparable kinsmen is the source from which all forms of unfailing prosperity will grow.",
+      "Symbolic_Motifs": "The unbroken circle of linked hands represents the inseparable kinship. The magical tree growing from this circle, bearing all kinds of wealth, is the central metaphor.",
+      "Mood_and_Emotion": "Prosperous, supportive, magical, abundant, secure.",
+      "Lighting_and_Color": "A brilliant, warm, golden light emanates from the circle of kinsmen and the tree. The colors are rich and vibrant, symbolizing endless abundance."
+    },
+    "Technical_Cues": {
+      "Camera": "A slightly high-angle shot that shows the circle of relatives and the magnificent tree growing from their unity.",
+      "Resolution": "8K, cinematic, with magical effects for the tree and its fruits.",
+      "Lighting": "Radiant, magical lighting.",
+      "Art_Genre": "High-fantasy art, symbolic illustration."
+    },
+    "Cultural_Anchors": [
+      "Inseparable Kinship ('விருப்பறாச் சுற்றம்')",
+      "Unfailing Prosperity ('அருப்பறா ஆக்கம்')",
+      "The strength of family bonds."
+    ]
+  },
+  "Negative_Prompt": "broken circle, withered tree, poor kingdom, text artifacts, cartoonish.",
+  "Hyperparameters": {
+    "variant": "pro",
+    "steps": 50,
+    "cfg_scale": 8,
+    "seed": "Explore variations for the fruits on the magical tree."
+  }
+}

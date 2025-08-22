@@ -1,0 +1,38 @@
+{
+  "Kural_Info": {
+    "Number": 177,
+    "Chapter": "வெஃகாமை (Not Coveting)",
+    "Tamil_Text": "வேண்டற்க வெஃகியாம் ఆక్కம் விளைவயின்மாண்டற் கரிதாம் பயன்.",
+    "English_Meaning": "Desire not the gain of covetousness. In the enjoyment of its fruits there is no glory."
+  },
+  "Flux_Optimized_Prompt": {
+    "Layered_Composition": {
+      "Foreground": "A person is shown having successfully acquired wealth through covetousness ('வெஃகியாம் ఆక్కம்'). The wealth is a pile of gold coins.",
+      "Midground": "They begin to 'enjoy' the fruits of this gain. However, the fruits are depicted as beautiful on the outside but filled with ash and dust on the inside. The enjoyment is hollow and without glory ('మాండற்கு அரிதாம் பயன்').",
+      "Background": "The person is shown eating this 'fruit of ash', and their own form becomes grey, lifeless, and devoid of honor. The very act of enjoying the ill-gotten gains destroys their own greatness. A sign in the background warns, 'Desire not this!' ('வேண்டற்க')."
+    },
+    "Art_Direction": {
+      "Subject_and_Action": "Do not desire the wealth that comes from covetousness, because the enjoyment of its fruits is hollow and destructive to one's own honor and greatness.",
+      "Symbolic_Motifs": "The fruit filled with ash is a powerful metaphor for glorious-seeming but ultimately worthless enjoyment. The person turning grey and lifeless shows that this enjoyment is a form of self-destruction.",
+      "Mood_and_Emotion": "Hollow, worthless, self-destructive, cautionary.",
+      "Lighting_and_Color": "The ill-gotten wealth has a bright but fake, superficial gleam. The act of enjoying it drains the color and life from the person, turning them into a monochrome, ashen figure.",
+      "Technical_Cues": {
+        "Camera": "A close-up on the person's face as they bite into the fruit, capturing their expression changing from triumph to a horrifying realization of its worthlessness.",
+        "Resolution": "8K, ultra-realistic, with particle effects for the ash-filled fruit.",
+        "Lighting": "A lighting effect where the person's own life-force and color are 'drained' by the fruit they eat.",
+        "Art_Genre": "Dark fantasy, symbolic horror."
+      },
+      "Cultural_Anchors": [
+        "Do not desire the wealth from covetousness (வேண்டற்க வெஃகியாம் ఆక్కம்)",
+        "The fruit of its enjoyment lacks greatness (விளைவயின் మాండற்கு அரிதாம் பயன்)"
+      ]
+    },
+    "Negative_Prompt": "person enjoying the fruit, colorful scene, text artifacts.",
+    "Hyperparameters": {
+      "variant": "dev",
+      "steps": 45,
+      "cfg_scale": 9,
+      "seed": "Explore the visual of the 'fruit of ash'."
+    }
+  }
+}

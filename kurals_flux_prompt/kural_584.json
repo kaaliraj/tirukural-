@@ -1,0 +1,39 @@
+{
+  "Kural_Info": {
+    "Number": 584,
+    "Chapter": "ஒற்றாடல் (Detectives)",
+    "Tamil_Text": "வினைசெய்வார் தம்சுற்றம் வேண்டாதார் என்றாங்கு அனைவரையும் ஆராய்வது ஒற்று.",
+    "English_Meaning": "A spy is one who watches all men, to wit, those who are in the king's employment, his relatives, and his enemies."
+  },
+  "Flux_Optimized_Prompt": {
+    "Layered_Composition": {
+      "Foreground": "A shadowy, indistinct figure of a spy ('ஒற்று') is shown at the center.",
+      "Midground": "From the spy's perspective, we see their objects of scrutiny. They have three 'eyes' or viewing portals open simultaneously. One portal shows the king's own officials at work ('வினைசெய்வார்'). The second portal shows the king's own family and relatives ('தம் சுற்றம்'). The third portal shows the king's declared enemies ('வேண்டாதார்').",
+      "Background": "The spy is shown to be investigating all three groups with equal, impartial intensity ('அனைவரையும் ஆராய்வது'), highlighting the comprehensive nature of their duty."
+    },
+    "Art_Direction": {
+      "Subject_and_Action": "The duty of a spy is to investigate everyone without exception: the king's own servants, his relatives, and his enemies.",
+      "Symbolic_Motifs": "The three viewing portals showing the three distinct groups are the key visual. This illustrates the spy's wide-ranging and impartial mandate.",
+      "Mood_and_Emotion": "Vigilant, impartial, comprehensive, secretive.",
+      "Lighting_and_Color": "A dark, mysterious atmosphere. The spy is a silhouette. The only light comes from the three portals, each with a slightly different color tone to distinguish the groups.",
+      "Technical_Cues": {
+        "Camera": "A shot from behind the spy, looking over their shoulder at the three portals of information.",
+        "Resolution": "8K, with a cinematic, high-tech surveillance aesthetic (but in a historical context).",
+        "Lighting": "The scene is lit only by the screens/portals, creating a dark, focused mood.",
+        "Art_Genre": "Historical noir, with a touch of fantasy."
+      }
+    },
+    "Cultural_Anchors": [
+      "Spying on Officials ('வினைசெய்வார்')",
+      "Spying on Relatives ('தம் சுற்றம்')",
+      "Spying on Enemies ('வேண்டாதார்')"
+    ]
+  },
+  "Negative_Prompt": "spy only watching enemies, spy sleeping, text artifacts, cartoonish.",
+  "Hyperparameters": {
+    "variant": "dev",
+    "steps": 40,
+    "cfg_scale": 8,
+    "seed": "Explore variations for the scenes within the three portals."
+  }
+}

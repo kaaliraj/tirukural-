@@ -1,0 +1,38 @@
+{
+  "Kural_Info": {
+    "Number": 322,
+    "Chapter": "கொல்லாமை (Not killing)",
+    "Tamil_Text": "பகுத்துண்டு பல்லுயிர் ஓம்புதல் நூலோர்தொகுத்தவற்றுள் எல்லாந் தலை.",
+    "English_Meaning": "The chief of all (the virtues) which authors have summed up, is the partaking of food that has been shared with others, and the preservation of the mainfold life of other creatures."
+  },
+  "Flux_Optimized_Prompt": {
+    "Layered_Composition": {
+      "Foreground": "A person is shown performing two simultaneous acts of virtue. With one hand, they are sharing their food with other people ('பகுத்துண்டு'). With the other hand, they are protecting and nurturing all forms of life ('பல் உயிர் ஓம்புதல்')—animals, birds, and even plants.",
+      "Midground": "These two combined virtues are shown to be the pinnacle of all ethical teachings.",
+      "Background": "Behind them, a vast, celestial library containing all the sacred books and scriptures of the world ('நூலோர் தொகுத்தவற்றுள்') is shown. From all of these countless books, a single, supreme crown of light emerges and places itself upon the head of the person in the foreground. Their action is the 'chief of all' virtues ('எல்லாம் தலை')."
+    },
+    "Art_Direction": {
+      "Subject_and_Action": "The combined act of sharing one's food and protecting all life is the single, chief, and ultimate virtue extolled in all the world's scriptures.",
+      "Symbolic_Motifs": "The crown of light emerging from the entire library of world scriptures is a powerful metaphor for the ultimate consensus of all wisdom. The two acts of sharing and protecting are shown to be the joint cause of this supreme honor.",
+      "Mood_and_Emotion": "Supreme virtue, ultimate, compassionate, protective, harmonious.",
+      "Lighting_and_Color": "A brilliant, divine, golden light emanates from the person's virtuous acts and the resulting celestial crown. The scene is bathed in a warm, harmonious glow, showing a world in perfect balance.",
+      "Technical_Cues": {
+        "Camera": "A shot that frames the virtuous person in the foreground, with the vast library behind them and the celestial crown descending as a result of their actions.",
+        "Resolution": "8K, ultra-realistic, with majestic details for the celestial library and the crown of light.",
+        "Lighting": "The act of virtue is the source of the divine light that illuminates the scene.",
+        "Art_Genre": "Mythological painting, epic fantasy art."
+      },
+      "Cultural_Anchors": [
+        "Sharing food and protecting all life (பகுத்துண்டு பல் உயிர் ஓம்புதல்)",
+        "Is the chief of all things summed up by the authors of scriptures (நூலோர் தொகுத்தவற்றுள் எல்லாம் தலை)"
+      ]
+    },
+    "Negative_Prompt": "person hoarding food, harming animals, text artifacts.",
+    "Hyperparameters": {
+      "variant": "pro",
+      "steps": 55,
+      "cfg_scale": 9,
+      "seed": "Explore the design of the 'celestial library'."
+    }
+  }
+}

@@ -1,0 +1,39 @@
+{
+  "Kural_Info": {
+    "Number": 578,
+    "Chapter": "கண்ணோட்டம் (Benignity)",
+    "Tamil_Text": "கருமம் சிதையாமல் கண்ணோட வல்லார்க்கு உரிமை உடைத்திவ் வுலகு.",
+    "English_Meaning": "The world is theirs (kings) who are able to show kindness, without injury to their affairs, (administration of justice)."
+  },
+  "Flux_Optimized_Prompt": {
+    "Layered_Composition": {
+      "Foreground": "A wise ruler is depicted balancing two symbolic objects. In one hand, they hold a flawlessly operating set of intricate gears, representing Duty ('கருமம்'). In the other, they hold a gentle, glowing dove, representing Benignity ('கண்ணோட்டம்').",
+      "Midground": "Because the ruler maintains this perfect balance—showing kindness without letting duty fail—the world, visualized as a glowing, celestial globe ('இவ்வுலகு'), is shown willingly offering itself to them, acknowledging their rightful ownership.",
+      "Background": "A prosperous and orderly kingdom that functions perfectly, a testament to the ruler's balanced approach."
+    },
+    "Art_Direction": {
+      "Subject_and_Action": "The world belongs to those who can exercise benignity without compromising their essential duties.",
+      "Symbolic_Motifs": "The gears of duty and the dove of kindness are the two balanced elements. The world offering itself as a possession ('உரிமை உடைத்து') is the result of this mastery.",
+      "Mood_and_Emotion": "Balanced, competent, masterful, rightful, harmonious.",
+      "Lighting_and_Color": "A clear, bright light of wisdom illuminates the scene. The gears and the dove have their own distinct but harmonious glows. The globe of the world shines with a willing, golden light.",
+      "Technical_Cues": {
+        "Camera": "A centered, medium shot that emphasizes the act of balancing the two symbolic objects.",
+        "Resolution": "8K, with a clean, majestic aesthetic and detailed symbolic objects.",
+        "Lighting": "Balanced, high-key lighting to symbolize clarity and order.",
+        "Art_Genre": "Symbolic realism, allegorical portraiture."
+      }
+    },
+    "Cultural_Anchors": [
+      "Benignity without harming Duty ('கருமம் சிதையாமல் கண்ணோட')",
+      "Ownership of the World ('உரிமை உடைத்து இவ்வுலகு')",
+      "The balance of compassion and responsibility."
+    ]
+  },
+  "Negative_Prompt": "ruler dropping the gears or the dove, a chaotic kingdom, a resisting world, text artifacts.",
+  "Hyperparameters": {
+    "variant": "dev",
+    "steps": 45,
+    "cfg_scale": 9,
+    "seed": "Explore variations for the glowing globe."
+  }
+}

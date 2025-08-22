@@ -1,0 +1,39 @@
+{
+  "Kural_Info": {
+    "Number": 767,
+    "Chapter": "படைமாட்சி (The Excellence of an Army)",
+    "Tamil_Text": "தார்தாங்கிச் செல்வது தானை தலைவந்தபோர்தாங்கும் தன்மை அறிந்து.",
+    "English_Meaning": "That is an army which knowing the art of warding off an impending struggle, can bear against the dust-van (of a hostile force)."
+  },
+  "Flux_Optimized_Prompt": {
+    "Layered_Composition": {
+      "Foreground": "An army ('தானை') is advancing in a perfect, disciplined formation.",
+      "Midground": "A massive, terrifying dust cloud ('தார்') kicked up by the vanguard of an approaching enemy army is rolling towards them. This represents the initial shock and terror of an attack.",
+      "Background": "The army, because it knows the art of war ('தன்மை அறிந்து'), does not break or falter. Instead, it transforms its formation into a solid, immovable wedge that expertly bears the brunt of the dust cloud ('தார் தாங்கி'), weathers the initial shock, and continues its advance ('செல்வது') undeterred."
+    },
+    "Art_Direction": {
+      "Subject_and_Action": "A truly great army is one that has the knowledge and discipline to withstand the initial shock and awe of an enemy's advance and continue its own mission.",
+      "Symbolic_Motifs": "The dust cloud of the enemy vanguard is a metaphor for the psychological shock of battle. The army's ability to 'bear' this and pass through it demonstrates its superior discipline and knowledge, not just brute force.",
+      "Mood_and_Emotion": "Disciplined, strategic, unshakeable, knowledgeable.",
+      "Lighting_and_Color": "The approaching dust cloud is a chaotic, menacing brown and grey. The disciplined army is in solid, unified colors, and is lit with a clear, confident light. They cut through the dust cloud, which parts before them.",
+      "Technical_Cues": {
+        "Camera": "A dynamic shot from a low angle, showing the terrifying dust cloud approaching and the disciplined army expertly meeting and piercing through it.",
+        "Resolution": "8K, hyper-realistic, with advanced particle and dust cloud simulations.",
+        "Lighting": "Dramatic lighting that contrasts the chaotic, blinding dust with the disciplined clarity of the army.",
+        "Art_Genre": "Epic military realism."
+      },
+      "Cultural_Anchors": [
+        "The dust-van of an enemy force (தார்)",
+        "Bearing the onslaught (தாங்கிச் செல்வது)",
+        "Knowing the nature of battle (போர் தாங்கும் தன்மை அறிந்து)"
+      ]
+    },
+    "Negative_Prompt": "army scattering, dust cloud overwhelming them, text artifacts, fear.",
+    "Hyperparameters": {
+      "variant": "pro",
+      "steps": 50,
+      "cfg_scale": 9,
+      "seed": "Explore the visual of the army formation piercing the dust cloud."
+    }
+  }
+}

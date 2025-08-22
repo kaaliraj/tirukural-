@@ -1,0 +1,39 @@
+{
+  "Kural_Info": {
+    "Number": 116,
+    "Chapter": "நடுவு நிலைமை (Impartiality)",
+    "Tamil_Text": "கெடுவல்யான் என்பது அறிகதன் நெஞ்சம்நடுவொரீஇ அல்ல செயின்.",
+    "English_Meaning": "Let him whose mind departing from equity commits sin well consider thus within himself, \"I shall perish.\""
+  },
+  "Flux_Optimized_Prompt": {
+    "Layered_Composition": {
+      "Foreground": "A person is shown at a moment of temptation, about to commit an unjust act. Their mind ('நெஞ்சம்') is depicted as a landscape.",
+      "Midground": "In this mind-scape, the path of justice ('நடுவு') is a straight, solid bridge. The person is choosing to step off this bridge ('ஒரீஇ') onto a treacherous, crumbling cliff edge representing the unjust act ('அல்ல செயின்').",
+      "Background": "The moment they make this choice, a vision of their own future ruin ('கெடுவல் யான்') appears before them like a terrifying prophecy: their future self is seen falling into a dark abyss as the cliff edge gives way. This is the knowledge ('அறிக') that should stop them."
+    },
+    "Art_Direction": {
+      "Subject_and_Action": "The internal monologue of a person on the brink of injustice: if their mind swerves from the path of equity, they should know with certainty that they are choosing their own destruction.",
+      "Symbolic_Motifs": "The mind as a landscape with a 'path of justice' is the key metaphor. The prophetic vision of ruin is the literal interpretation of 'அறிக' (know this). The cause (stepping off the path) and effect (falling into ruin) are shown in a single, dramatic moment of choice.",
+      "Mood_and_Emotion": "Cautionary, moment of truth, self-awareness, impending doom.",
+      "Lighting_and_Color": "The bridge of justice is bathed in a clear, safe light. The crumbling cliff edge and the vision of ruin are shrouded in dark, menacing shadows and reds.",
+      "Technical_Cues": {
+        "Camera": "A dramatic close-up on the person's face, showing their internal struggle, with the symbolic mind-scape and vision visible around them.",
+        "Resolution": "8K, ultra-realistic, with strong emotional acting and detailed landscape effects.",
+        "Lighting": "High-contrast, dramatic lighting to emphasize the moral choice.",
+        "Art_Genre": "Psychological thriller poster style, surrealist art."
+      },
+      "Cultural_Anchors": [
+        "Swerve from justice (நடுவு ஒரீஇ)",
+        "I will perish (கெடுவல் யான்)",
+        "The mind (நெஞ்சம்) as the scene of the moral battle"
+      ]
+    },
+    "Negative_Prompt": "happy person committing injustice, safe cliff, beautiful abyss, text artifacts.",
+    "Hyperparameters": {
+      "variant": "pro",
+      "steps": 50,
+      "cfg_scale": 9,
+      "seed": "Explore the visual of the prophetic 'vision of ruin'."
+    }
+  }
+}

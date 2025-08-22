@@ -1,0 +1,39 @@
+{
+  "Kural_Info": {
+    "Number": 914,
+    "Chapter": "வரைவின்மகளிர் (Wanton Women)",
+    "Tamil_Text": "பொருட்பொருளார் புன்னலந் தோயார் அருட்பொருள் ஆயும் அறிவி னவர்.",
+    "English_Meaning": "The wise who seek the wealth of grace will not desire the base favours of those who regard wealth (and not pleasure) as (their) riches."
+  },
+  "Flux_Optimized_Prompt": {
+    "Layered_Composition": {
+      "Foreground": "A wise person is shown on a path. Their goal is a beautiful, celestial city in the distance, representing the 'wealth of Grace' ('அருட்பொருள்').",
+      "Midground": "Along the path, they are tempted by a courtesan ('பொருட்பொருளார்'), whose only goal is material wealth. Her 'base favors' ('புன்னலம்') are shown as a dirty, muddy pool by the side of the road.",
+      "Background": "The wise person, whose gaze is fixed on the higher goal of Grace, completely ignores and walks past the muddy pool of base pleasure, refusing to touch it ('தோயார்')."
+    },
+    "Art_Direction": {
+      "Subject_and_Action": "Those whose wisdom seeks the higher wealth of Grace will not stoop to touch the base pleasures offered by those who value only material wealth.",
+      "Symbolic_Motifs": "The celestial city of Grace vs. the muddy pool of base pleasure is the central contrast. The wise person's unwavering gaze on the higher goal shows their discerning choice.",
+      "Mood_and_Emotion": "Discerning, pure, aspirational, wise.",
+      "Lighting_and_Color": "The city of Grace is brilliantly lit with a divine, golden light. The muddy pool is dark, stagnant, and uninviting. The wise person walks in the light of their higher goal.",
+      "Technical_Cues": {
+        "Camera": "A shot from behind the wise person, showing their perspective as they ignore the lower temptation and focus on the higher goal.",
+        "Resolution": "8K, with a beautiful, idealized vision of the city of Grace.",
+        "Lighting": "Symbolic lighting that contrasts the two goals.",
+        "Art_Genre": "Allegorical landscape, spiritual art."
+      },
+      "Cultural_Anchors": [
+        "The wise who seek the wealth of Grace",
+        "Will not touch the base favors of the mercenary",
+        "The choice between spiritual and base pleasures."
+      ]
+    },
+    "Negative_Prompt": "wise person jumping in the mud, a dark city of Grace, text artifacts.",
+    "Hyperparameters": {
+      "variant": "pro",
+      "steps": 50,
+      "cfg_scale": 8,
+      "seed": "Explore variations for the celestial city of Grace."
+    }
+  }
+}

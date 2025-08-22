@@ -1,0 +1,39 @@
+{
+  "Kural_Info": {
+    "Number": 31,
+    "Chapter": "அறன் வலியுறுத்தல் (Assertion of the Strength of Virtue)",
+    "Tamil_Text": "சிறப்புஈனும் செல்வமும் ஈனும் அறத்தினூஉங்குஆக்கம் எவனோ உயிர்க்கு.",
+    "English_Meaning": "Virtue will confer heaven and wealth; what greater source of happiness can man possess ?"
+  },
+  "Flux_Optimized_Prompt": {
+    "Layered_Composition": {
+      "Foreground": "A serene individual performs a simple act of virtue (giving water to a thirsty traveler). From this act, two luminous, ethereal paths emerge and stretch forward.",
+      "Midground": "One path ascends towards a celestial, heavenly realm representing 'distinction' or 'heaven' (சிறப்பு). The other path leads to a beautiful, prosperous, and thriving landscape, representing 'wealth' (செல்வம்).",
+      "Background": "A vast, epic landscape representing life's journey, showing that all true prosperity and honor originate from the single point of a virtuous act."
+    },
+    "Art_Direction": {
+      "Subject_and_Action": "The foundational power of a single virtuous act ('அறம்') to generate both worldly prosperity and spiritual merit, proving it is the greatest gain ('ஆக்கம்') for a soul.",
+      "Symbolic_Motifs": "The water being given glows with a soft, golden light, indicating its virtuous nature. The two paths are made of the same light, visually linking the outcomes directly to the cause.",
+      "Mood_and_Emotion": "Profound, foundational, hopeful, cause-and-effect.",
+      "Lighting_and_Color": "The scene is bathed in a warm, benevolent light originating from the act of virtue itself. The celestial path is a brilliant white-gold, and the worldly path is a rich, verdant green interwoven with gold."
+    },
+    "Technical_Cues": {
+      "Camera": "Wide cinematic shot, positioned behind the virtuous person to follow the two branching paths towards their glorious destinations.",
+      "Resolution": "8K, ultra-realistic, with painterly, ethereal effects for the paths of light.",
+      "Lighting": "Volumetric lighting, radiant glow, god rays.",
+      "Art_Genre": "Symbolic realism, fantasy matte painting."
+    },
+    "Cultural_Anchors": [
+      "Aram (அறம்) as the ultimate source of gain",
+      "Sirappu (சிறப்பு) - honor/heaven",
+      "Selvam (செல்வம்) - wealth/prosperity"
+    ]
+  },
+  "Negative_Prompt": "dark scene, evil acts, punishment, struggling figures, dead landscape, text artifacts, deformed limbs.",
+  "Hyperparameters": {
+    "variant": "pro",
+    "steps": 50,
+    "cfg_scale": 8,
+    "seed": "Explore variations for the visual representation of the two paths."
+  }
+}

@@ -1,0 +1,39 @@
+{
+  "Kural_Info": {
+    "Number": 951,
+    "Chapter": "குடிமை (Nobility)",
+    "Tamil_Text": "இற்பிறந்தார் கண்அல்லது இல்லை இயல்பாகச் செப்பமும் நாணும் ஒருங்கு.",
+    "English_Meaning": "Consistency (of thought, word and deed) and fear (of sin) are conjointly natural only to the high-born."
+  },
+  "Flux_Optimized_Prompt": {
+    "Layered_Composition": {
+      "Foreground": "A noble-born person ('இற்பிறந்தார்') is depicted. Two essential qualities are shown to be an innate part of their being.",
+      "Midground": "From their mind, word, and deed comes a single, straight, unwavering beam of pure white light, representing their perfect uprightness and consistency ('செப்பம்'). At the same time, they are surrounded by a gentle, protective aura that recoils from anything dark or shameful, representing their innate modesty and fear of sin ('நாணம்').",
+      "Background": "These two qualities are shown to be naturally and effortlessly combined ('ஒருங்கு') in them, like two harmonious notes in a single chord. In the background, a common person is shown struggling to possess even one of these qualities."
+    },
+    "Art_Direction": {
+      "Subject_and_Action": "Only in the truly noble-born are the qualities of uprightness and modesty found together naturally and effortlessly.",
+      "Symbolic_Motifs": "The straight beam of light for uprightness and the protective aura for modesty are the two key visual symbols. The effortless way the noble person possesses them is contrasted with the struggle of others.",
+      "Mood_and_Emotion": "Innate, natural, noble, graceful, virtuous.",
+      "Lighting_and_Color": "A pure, noble, white and golden light. The two symbolic qualities are shown to be in perfect harmony.",
+      "Technical_Cues": {
+        "Camera": "A dignified portrait of the noble person, with ethereal effects to visualize their two innate qualities.",
+        "Resolution": "8K, with a classical, painterly aesthetic.",
+        "Lighting": "Soft, noble lighting.",
+        "Art_Genre": "Idealized portraiture, with symbolic elements."
+      },
+      "Cultural_Anchors": [
+        "Of Noble Birth ('இற்பிறந்தார்')",
+        "Uprightness ('செப்பம்') and Modesty ('நாணம்') together ('ஒருங்கு')",
+        "Innate virtue."
+      ]
+    },
+    "Negative_Prompt": "a crooked beam of light, a shameless noble, text artifacts.",
+    "Hyperparameters": {
+      "variant": "pro",
+      "steps": 50,
+      "cfg_scale": 8,
+      "seed": "Explore variations for the aura of modesty."
+    }
+  }
+}

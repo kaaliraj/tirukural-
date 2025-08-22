@@ -1,0 +1,38 @@
+{
+  "Kural_Info": {
+    "Number": 302,
+    "Chapter": "வெகுளாமை (Restraining Anger)",
+    "Tamil_Text": "செல்லா இடத்துச் சினந்தீது செல்லிடத்தும்இல்அதனின் தீய பிற.",
+    "English_Meaning": "Anger is bad, even when it cannot injure; when it can injure; there is no greater evil."
+  },
+  "Flux_Optimized_Prompt": {
+    "Layered_Composition": {
+      "Foreground": "A split composition illustrating a hierarchy of evil.",
+      "Midground": "On the left, a person is shown being angry where they are powerless ('செல்லா இடத்து'). Their anger is depicted as a self-consuming, dark fire that harms only themselves. This is shown to be 'evil' ('தீது').",
+      "Background": "On the right, the same person is shown being angry where they have power ('செல்லிடத்தும்'). Their anger is depicted as a raging, destructive inferno that spreads outwards, burning and destroying everything and everyone around them. This is shown to be the ultimate evil, with 'nothing more evil than it' ('அதனின் தீய பிற இல்')."
+    },
+    "Art_Direction": {
+      "Subject_and_Action": "While anger is always bad, anger coupled with power is the greatest and most destructive evil of all.",
+      "Symbolic_Motifs": "The key is the difference in the effect of the fire of anger. In one case, it's a self-harming, contained fire. In the other, it's a world-destroying conflagration. This visually establishes the hierarchy of evil.",
+      "Mood_and_Emotion": "Destructive, catastrophic, evil, cautionary.",
+      "Lighting_and_Color": "The left scene is lit with a dim, self-destructive, smoky light. The right scene is a terrifying inferno of destructive, hellish red and orange light.",
+      "Technical_Cues": {
+        "Camera": "A comparative shot that shows the two types of anger, using the scale and effect of the fire to communicate their relative evil.",
+        "Resolution": "8K, hyper-realistic, with advanced and distinct fire effects for both scenarios.",
+        "Lighting": "The fire of anger is the primary, destructive light source in both scenes.",
+        "Art_Genre": "Dark fantasy, allegorical art."
+      },
+      "Cultural_Anchors": [
+        "Anger is evil where it is powerless (செல்லா இடத்துச் சினம் தீது)",
+        "Where it has power, there is no greater evil (செல்லிடத்தும் இல் அதனின் தீய பிற)"
+      ]
+    },
+    "Negative_Prompt": "happy angry person, constructive anger, text artifacts.",
+    "Hyperparameters": {
+      "variant": "pro",
+      "steps": 55,
+      "cfg_scale": 9,
+      "seed": "Explore the visual of the 'world-destroying inferno of anger'."
+    }
+  }
+}

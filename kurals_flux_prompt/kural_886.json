@@ -1,0 +1,39 @@
+{
+  "Kural_Info": {
+    "Number": 886,
+    "Chapter": "உட்பகை (Enmity within)",
+    "Tamil_Text": "ஒன்றாமை ஒன்றியார் கட்படின் எஞ்ஞான்றும் பொன்றாமை ஒன்றல் அரிது.",
+    "English_Meaning": "If disunion arises among united kinsmen, it is rarely that they can be saved from destruction."
+  },
+  "Flux_Optimized_Prompt": {
+    "Layered_Composition": {
+      "Foreground": "A group of people who were once perfectly united ('ஒன்றியார்') are shown. Their unity is visualized as them being part of a single, strong, perfectly crafted porcelain vase.",
+      "Midground": "A tiny, dark crack of disunity ('ஒன்றாமை') appears on the vase. This single crack rapidly spreads, shattering the entire vase into a thousand pieces.",
+      "Background": "The shattered pieces of the vase are shown to be impossible to put back together. The destruction is final and complete. It is almost impossible to escape this ruin ('பொன்றாமை ஒன்றல் அரிது')."
+    },
+    "Art_Direction": {
+      "Subject_and_Action": "If disunity appears among those who were once united, their destruction is almost certain and inescapable.",
+      "Symbolic_Motifs": "The united group as a single, perfect porcelain vase is the central metaphor. The single crack of disunity leading to the complete and irreversible shattering of the vase shows the fragility of unity and the finality of its loss.",
+      "Mood_and_Emotion": "Fragile, tragic, irreversible, complete destruction.",
+      "Lighting_and_Color": "The initial vase is beautiful and lit with a pure, white light. The crack is a dark, spreading line. The shattering moment is a dramatic explosion of fragments.",
+      "Technical_Cues": {
+        "Camera": "A high-speed, slow-motion shot that captures the crack spreading and the vase exploding.",
+        "Resolution": "8K, with beautiful and realistic shattering physics.",
+        "Lighting": "Dramatic lighting that highlights the moment of fracture.",
+        "Art_Genre": "High-speed photography aesthetic, with a symbolic subject."
+      },
+      "Cultural_Anchors": [
+        "Disunity among the united ('ஒன்றாமை ஒன்றியார் கட்படின்')",
+        "Escape from destruction is rare ('பொன்றாமை ஒன்றல் அரிது')",
+        "The fragility of unity."
+      ]
+    },
+    "Negative_Prompt": "a crack that heals, a metal vase, text artifacts, cartoonish.",
+    "Hyperparameters": {
+      "variant": "pro",
+      "steps": 50,
+      "cfg_scale": 8,
+      "seed": "Explore variations for the shattering vase."
+    }
+  }
+}

@@ -1,0 +1,39 @@
+{
+  "Kural_Info": {
+    "Number": 908,
+    "Chapter": "பெண்வழிச்சேறல் (Being led by Women)",
+    "Tamil_Text": "நட்டார் குறைமுடியார் நன்றாற்றார் நன்னுதலாள் பெட்டாங்கு ஒழுகு பவர்.",
+    "English_Meaning": "Those who yield to the wishes of their wives will neither relieve the wants of (their) friends nor perform virtuous deeds."
+  },
+  "Flux_Optimized_Prompt": {
+    "Layered_Composition": {
+      "Foreground": "A man who lives to please his wife ('பெட்டாங்கு ஒழுகுபவர்') is shown focusing all his attention and resources on her.",
+      "Midground": "Because of this, he is shown failing in his other duties. On one side, his friend ('நட்டார்') is in dire need, but the man turns his back on him, unable to help ('குறைமுடியார்'). On the other side, a great opportunity for a virtuous, charitable act ('நன்றாற்றார்') is presented, but he ignores it, his resources being spent only on his wife.",
+      "Background": "A narrow, constricted world, where the man's entire existence has shrunk to the single point of pleasing his wife, at the cost of his friendships and his virtue."
+    },
+    "Art_Direction": {
+      "Subject_and_Action": "The man who is devoted only to fulfilling his wife's wishes will fail both his friends and his duty to do good.",
+      "Symbolic_Motifs": "The man turning his back on both his needy friend and the opportunity for virtue is the key visual. This shows the twofold failure of his social and moral life.",
+      "Mood_and_Emotion": "Neglectful, constrained, a failure in duty.",
+      "Lighting_and_Color": "A soft, perhaps overly sweet, light envelops the man and his wife. His friend and the virtuous opportunity are in the neglected shadows.",
+      "Technical_Cues": {
+        "Camera": "A wide shot that shows the central couple and the two duties they are neglecting on either side.",
+        "Resolution": "8K, with a strong narrative composition.",
+        "Lighting": "Symbolic lighting that shows where the man's priorities lie.",
+        "Art_Genre": "Narrative realism."
+      },
+      "Cultural_Anchors": [
+        "He who lives as his wife wishes",
+        "Cannot help his friends ('நட்டார் குறைமுடியார்')",
+        "Cannot do good deeds ('நன்றாற்றார்')"
+      ]
+    },
+    "Negative_Prompt": "the man helping his friend, the man doing charity, text artifacts.",
+    "Hyperparameters": {
+      "variant": "pro",
+      "steps": 50,
+      "cfg_scale": 8,
+      "seed": "Explore variations for the opportunity for virtue."
+    }
+  }
+}

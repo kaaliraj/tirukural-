@@ -1,0 +1,33 @@
+{
+  "Kural_Info": {
+    "Number": 1170,
+    "Chapter": "படர்மெலிந்திரங்கல் (Complainings)",
+    "Tamil_Text": "உள்ளம்போன்று உள்வழிச் செல்கிற்பின் வெள்ளநீர்நீந்தல மன்னோஎன் கண்.",
+    "English_Meaning": "Could mine eyes travel like my thoughts to the abode (of my absent lord), they would not swim in this flood of tears."
+  },
+  "Flux_Optimized_Prompt": {
+    "Layered_Composition": {
+      "Foreground": "A woman sits weeping, her eyes overflowing with a literal flood of tears ('Vellaneer') that pools around her.",
+      "Midground": "From her mind ('Ullam'), a luminous, ethereal projection of herself is shown traveling swiftly and effortlessly across a vast distance to where her lover is.",
+      "Background": "Her physical eyes are shown looking longingly after this ethereal projection, unable to follow, and this inability is the source of the flood of tears."
+    },
+    "Art_Direction": {
+      "Subject_and_Action": "A lament that if her eyes could only travel as freely as her thoughts to see her beloved, they wouldn't have to suffer by weeping a flood of tears.",
+      "Symbolic_Motifs": "The ethereal, traveling thought-self. The physical eyes weeping a literal flood. The contrast between the freedom of the mind and the limitation of the body.",
+      "Mood_and_Emotion": "Longing, frustrated, sorrowful, imaginative.",
+      "Lighting_and_Color": "The physical world is in melancholic, watery blues and grays. The traveling thought-self is a brilliant, fast-moving streak of golden light, representing the speed and freedom of thought."
+    },
+    "Technical_Cues": {
+      "Camera": "A dynamic shot that shows the stationary, weeping woman, the fast-moving thought-projection, and the vast distance it travels.",
+      "Resolution": "8K, fantasy realism, with beautiful effects for the light-form and the tear-flood.",
+      "Lighting": "Contrasting light—the melancholic ambient light versus the bright, magical light of the thought-form.",
+      "Art_Genre": "Mystical realism, blending a real-world emotional state with a magical concept."
+    },
+    "Cultural_Anchors": [
+      "The mind's journey (உள்ளம் செல்லுதல்)",
+      "A flood of tears (கண்ணீர் வெள்ளம்)",
+      "The separation of mind and body in longing"
+    ]
+  },
+  "Negative_Prompt": "woman traveling physically, dry eyes, modern transport, text artifacts, cartoonish, blurry."
+}

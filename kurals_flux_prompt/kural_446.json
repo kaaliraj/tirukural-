@@ -1,0 +1,39 @@
+{
+  "Kural_Info": {
+    "Number": 446,
+    "Chapter": "பெரியாரைத் துணைக்கோடல் (Seeking the Aid of Great Men)",
+    "Tamil_Text": "தக்கா ரினத்தனாய்த் தானொழுக வல்லானைச் செற்றார் செயக்கிடந்த தில்.",
+    "English_Meaning": "There will be nothing left for enemies to do, against him who has the power of acting (so as to secure) the fellowship of worthy men."
+  },
+  "Flux_Optimized_Prompt": {
+    "Layered_Composition": {
+      "Foreground": "A powerful king is surrounded by a circle of worthy, wise, and strong companions ('தக்காரினம்'). This circle forms a living, impenetrable fortress of light.",
+      "Midground": "Outside this fortress of allies, frustrated enemies ('செற்றார்') are shown trying to find a way to attack, but there are no weaknesses. Their arrows and siege weapons dissolve into smoke as they approach the light.",
+      "Background": "A secure and prosperous kingdom, completely safe due to the strength of the king's fellowship."
+    },
+    "Art_Direction": {
+      "Subject_and_Action": "A ruler who surrounds themselves with worthy people becomes completely invulnerable, leaving their enemies with no course of action.",
+      "Symbolic_Motifs": "The circle of worthy companions as a living fortress of light is the main visual. The dissolving weapons of the enemy represent their utter helplessness.",
+      "Mood_and_Emotion": "Invincible, secure, united, powerful, respected.",
+      "Lighting_and_Color": "A brilliant, protective light emanates from the king and his circle of friends. The enemies are in the dark shadows outside this circle of light. The palette shows a stark contrast between security and frustrated malice."
+    },
+    "Technical_Cues": {
+      "Camera": "High-angle shot looking down, showing the perfect, impenetrable circle of allies and the futile efforts of the enemies outside.",
+      "Resolution": "8K, cinematic, with powerful light and particle effects.",
+      "Lighting": "The fortress of light is the main light source, casting the enemies in shadow.",
+      "Art_Genre": "High-fantasy art, epic battle scene (of wills)."
+    },
+    "Cultural_Anchors": [
+      "Fellowship of the Worthy ('தக்காரினத்தன்')",
+      "Making enemies powerless ('செற்றார் செயக்கிடந்தது இல்')",
+      "Strength in good company."
+    ]
+  },
+  "Negative_Prompt": "king alone, weak companions, enemies breaking through, text artifacts, cartoonish.",
+  "Hyperparameters": {
+    "variant": "pro",
+    "steps": 50,
+    "cfg_scale": 8,
+    "seed": "Explore variations for the light fortress effect."
+  }
+}

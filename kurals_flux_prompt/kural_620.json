@@ -1,0 +1,38 @@
+{
+  "Kural_Info": {
+    "Number": 620,
+    "Chapter": "ஆள்வினையுடைமை (Manly Effort)",
+    "Tamil_Text": "ஊழையும் உப்பக்கம் காண்பர் உலைவின்றித்தாழாது உஞற்று பவர்.",
+    "English_Meaning": "They who labour on, without fear and without fainting will see even fate (put) behind their back."
+  },
+  "Flux_Optimized_Prompt": {
+    "Layered_Composition": {
+      "Foreground": "A powerful, determined figure is shown pushing forward with relentless, unfainting effort ('உலைவின்றித் தாழாது உஞற்றுபவர்').",
+      "Midground": "Before them stands a colossal, intimidating, god-like figure representing Fate ('ஊழ்'), who is trying to block their path.",
+      "Background": "Through sheer, continuous effort, the determined person is shown pushing right past the figure of Fate, forcing it behind them. They have not destroyed Fate, but they have overtaken it and left it in their wake ('உப்பக்கம் காண்பர்')."
+    },
+    "Art_Direction": {
+      "Subject_and_Action": "Those who persevere with ceaseless and undaunted effort have the power to overcome and surpass even the decrees of fate, leaving it behind them.",
+      "Symbolic_Motifs": "The physical act of pushing past the personified Fate is the key visual. This is a contest of will and endurance. Fate is large and powerful, but the persevering human is ultimately stronger and more determined.",
+      "Mood_and_Emotion": "Triumphant, powerful, determined, indomitable will.",
+      "Lighting_and_Color": "The figure of Fate is large and dark, casting a great shadow. The persevering person glows with a fiery, indomitable light of pure willpower. As they push past Fate, their light overcomes its shadow.",
+      "Technical_Cues": {
+        "Camera": "A dynamic, low-angle shot that captures the heroic struggle and the ultimate triumph of the human figure over the personified Fate.",
+        "Resolution": "8K, ultra-realistic, with a focus on the immense strain and ultimate breakthrough.",
+        "Lighting": "A dramatic struggle between the shadow of Fate and the inner light of the determined person.",
+        "Art_Genre": "Epic fantasy art, heroic realism."
+      },
+      "Cultural_Anchors": [
+        "To see fate behind their back (ஊழையும் உப்பக்கம் காண்பர்)",
+        "Those who strive without fainting or delay (உலைவின்றித் தாழாது உஞற்றுபவர்)"
+      ]
+    },
+    "Negative_Prompt": "person being defeated by fate, weak person, friendly fate, text artifacts.",
+    "Hyperparameters": {
+      "variant": "pro",
+      "steps": 60,
+      "cfg_scale": 10,
+      "seed": "Explore the design of the colossal figure of Fate."
+    }
+  }
+}

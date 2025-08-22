@@ -1,0 +1,33 @@
+{
+  "Kural_Info": {
+    "Number": 1269,
+    "Chapter": "அவர்வயின்விதும்பல் (Mutual Desire)",
+    "Tamil_Text": "ஒருநாள் எழுநாள்போல் செல்லும்சேண் சென்றார்வருநாள்வைத்து ஏங்கு பவர்க்கு.",
+    "English_Meaning": "One day will seem like seven to those who watch and yearn For that glad day when wanderers from afar return."
+  },
+  "Flux_Optimized_Prompt": {
+    "Layered_Composition": {
+      "Foreground": "A woman is shown waiting. In front of her, a single day is represented by a sun slowly moving across the sky.",
+      "Midground": "However, due to her intense longing, this single sun is surrealistically multiplied into seven suns ('Ezhunaal pol'), all moving in a slow, agonizing procession across the sky. The day feels unnaturally long.",
+      "Background": "She is yearning for the day of her distant lover's return ('Varunaal'), and this intense yearning is what is causing the distortion of time. The landscape is stretched and elongated, reflecting the stretched time."
+    },
+    "Art_Direction": {
+      "Subject_and_Action": "For those who are waiting and yearning for the return of a loved one from a great distance, a single day feels as long and torturous as seven days.",
+      "Symbolic_Motifs": "The seven suns in the sky for a single day is the central, powerful surrealist image representing the subjective stretching of time.",
+      "Mood_and_Emotion": "Yearning, agonizingly slow, a sense of distorted time.",
+      "Lighting_and_Color": "A bright, harsh, and unrelenting light from the seven suns, making the wait feel oppressive. The colors are stark and bleached, as if overexposed by the prolonged daylight."
+    },
+    "Technical_Cues": {
+      "Camera": "An ultra-wide, surreal shot that captures the woman and the impossible arc of the seven suns above her.",
+      "Resolution": "8K, surreal realism, inspired by the works of Salvador Dalí.",
+      "Lighting": "Harsh, multi-source lighting from the seven suns to create a feeling of oppression and timelessness.",
+      "Art_Genre": "Surrealist art, visualizing a psychological experience of time."
+    },
+    "Cultural_Anchors": [
+      "The subjective experience of time in longing",
+      "ஏங்குதல் (Yearning)",
+      "The pain of waiting"
+    ]
+  },
+  "Negative_Prompt": "a single sun, a fast-moving day, a happy woman, nighttime, text artifacts, cartoonish."
+}

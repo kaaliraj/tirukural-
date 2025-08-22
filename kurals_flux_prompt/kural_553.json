@@ -1,0 +1,39 @@
+{
+  "Kural_Info": {
+    "Number": 553,
+    "Chapter": "கொடுங்கோன்மை (The Cruel Sceptre)",
+    "Tamil_Text": "நாடொறும் நாடி முறைசெய்யா மன்னவன் நாடொறும் நாடு கெடும்.",
+    "English_Meaning": "The country of the king who does not daily examine into the wrongs done and distribute justice, will daily fall to ruin."
+  },
+  "Flux_Optimized_Prompt": {
+    "Layered_Composition": {
+      "Foreground": "A magnificent kingdom is depicted, but it is shown in a state of progressive decay, like a time-lapse of ruin.",
+      "Midground": "The cause of the decay is shown to be the king. Each day ('நாடொறும்'), he is depicted ignoring his duties—feasting instead of judging, sleeping instead of investigating ('நாடி முறைசெய்யா'). With each passing 'day' in the image, the kingdom crumbles a little more.",
+      "Background": "The final stage of the time-lapse shows the once-great kingdom completely ruined and desolate ('நாடு கெடும்'), a direct consequence of the king's daily negligence."
+    },
+    "Art_Direction": {
+      "Subject_and_Action": "A kingdom ruled by a king who neglects his daily duty of investigating wrongs and dispensing justice will itself decay day by day until it is completely ruined.",
+      "Symbolic_Motifs": "The time-lapse effect of the crumbling kingdom is the central visual device. Each stage of decay is linked to an act of negligence by the king.",
+      "Mood_and_Emotion": "Decaying, tragic, neglectful, consequential.",
+      "Lighting_and_Color": "The lighting and color of the kingdom fade and desaturate with each passing 'day' of neglect, moving from a golden age to a grey ruin.",
+      "Technical_Cues": {
+        "Camera": "A static wide shot that allows the viewer to observe the progressive decay of the kingdom over time.",
+        "Resolution": "8K, with detailed architectural decay and aging effects.",
+        "Lighting": "Dynamic lighting that fades over the course of the implied time-lapse.",
+        "Art_Genre": "Narrative art, using a time-lapse concept within a single frame."
+      }
+    },
+    "Cultural_Anchors": [
+      "Neglecting Daily Justice ('நாடொறும் முறைசெய்யா')",
+      "The Country Perishes Daily ('நாடொறும் நாடு கெடும்')",
+      "The consequences of a ruler's negligence."
+    ]
+  },
+  "Negative_Prompt": "a diligent king, a thriving kingdom, text artifacts, cartoonish.",
+  "Hyperparameters": {
+    "variant": "pro",
+    "steps": 50,
+    "cfg_scale": 8,
+    "seed": "Explore variations for the stages of the kingdom's decay."
+  }
+}

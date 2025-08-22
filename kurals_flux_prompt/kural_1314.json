@@ -1,0 +1,38 @@
+{
+  "Kural_Info": {
+    "Number": 1314,
+    "Chapter": "புலவி நுணுக்கம் (Feigned Anger)",
+    "Tamil_Text": "யாரினும் காதலம் என்றேனா ஊடினாள்யாரினும் யாரினும் என்று.",
+    "English_Meaning": "When I said I loved her more than any other woman, she said \"more than others, yes, more than others,\" and remained sulky."
+  },
+  "Flux_Optimized_Prompt": {
+    "Layered_Composition": {
+      "Foreground": "A lover is earnestly telling his beloved, 'I love you more than anyone' ('யாரினும் காதலம்').",
+      "Midground": "Instead of being pleased, she instantly starts to pout ('ஊடினாள்').",
+      "Background": "Her jealous thought process is visualized. The phrase 'more than anyone' has, in her mind, conjured up a vast, shadowy crowd of all the other women in the world that he could possibly be comparing her to. She repeatedly and angrily thinks, 'More than whom? More than WHOM?' ('யாரினும்? யாரினும்?'), turning his compliment into an insult by focusing on the comparison itself."
+    },
+    "Art_Direction": {
+      "Subject_and_Action": "The lover's humorous exasperation at his beloved's hyper-logical jealousy: when he says he loves her more than anyone, she gets angry by focusing on the very idea of 'others' and demanding to know who they are.",
+      "Symbolic_Motifs": "The crowd of shadowy rival women that she herself conjures is the key visual. This shows that her jealousy is not based on a real rival, but on the logical implication of his own compliment. It is a witty, intellectual form of pouting.",
+      "Mood_and_Emotion": "Witty, jealous, humorous, hyper-logical.",
+      "Lighting_and_Color": "An intimate, romantic setting. The man's words are sincere. Her jealous thoughts, however, conjure a dark, shadowy crowd that momentarily darkens the mood of the scene.",
+      "Technical_Cues": {
+        "Camera": "A close-up on the couple, capturing his earnest expression and her sudden shift to a witty, accusatory pout, with the crowd of her imagination appearing behind him.",
+        "Resolution": "8K, ultra-realistic, with a focus on the comedic timing of her reaction.",
+        "Lighting": "The romantic lighting is briefly interrupted by the 'shadow' of her jealous thoughts.",
+        "Art_Genre": "Romantic comedy, sophisticated humor."
+      },
+      "Cultural_Anchors": [
+        "I said 'I love you more than any' (யாரினும் காதலம் என்றேன்)",
+        "She pouted, 'Than who? Than who?' (ஊடினாள், யாரினும்? யாரினும்?)"
+      ]
+    },
+    "Negative_Prompt": "she being happy with the compliment, text artifacts.",
+    "Hyperparameters": {
+      "variant": "dev",
+      "steps": 45,
+      "cfg_scale": 8,
+      "seed": "Explore the visual of the 'conjured crowd of rivals'."
+    }
+  }
+}

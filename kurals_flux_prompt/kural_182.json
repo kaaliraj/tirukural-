@@ -1,0 +1,38 @@
+{
+  "Kural_Info": {
+    "Number": 182,
+    "Chapter": "புறங்கூறாமை (Not Backbiting)",
+    "Tamil_Text": "அறனழீஇ அல்லவை செய்தலின் தீதேபுறனழீஇப் பொய்த்து நகை.",
+    "English_Meaning": "To smile deceitfully (in another's presence) after having reviled him to his destruction (behind his back) is a greater evil than the commission of (every other) sin and the destruction of (every) virtue."
+  },
+  "Flux_Optimized_Prompt": {
+    "Layered_Composition": {
+      "Foreground": "A split composition illustrating a hierarchy of evil.",
+      "Midground": "On the left, a figure is shown committing all other sins. They are destroying a temple representing Virtue ('அறன் அழிஇ') and performing various evil deeds ('அல்லவை செய்தல்'). This is depicted as a great evil.",
+      "Background": "On the right, a hypocrite is shown. First, they are seen stabbing a friend in the back ('புறன் அழிஇ'). Then, they turn around and meet that same friend with a false, deceitful smile ('பொய்த்து நகை'). This act is depicted as generating a far more intense, concentrated, and horrifying darkness than all the other sins on the left. It is 'the greater evil' ('தீதே')."
+    },
+    "Art_Direction": {
+      "Subject_and_Action": "The act of backstabbing someone and then smiling to their face is a greater and more profound evil than all other sins and the destruction of virtue combined.",
+      "Symbolic_Motifs": "The hierarchy of evil is the key. The general destruction of virtue is bad, but the specific, personal betrayal of the false smile is presented as the pinnacle of wickedness. The deceitful smile should be a grotesque, terrifying mask.",
+      "Mood_and_Emotion": "Supreme evil, hypocrisy, treacherous, horrifying.",
+      "Lighting_and_Color": "The scene of general sin is dark and chaotic. The scene of the false smile is lit with a sickly, deceptive light that reveals the horrifying darkness in the hypocrite's heart. The color of this specific evil is a deeper, more profound black.",
+      "Technical_Cues": {
+        "Camera": "A diptych that visually weighs the two evils, showing the hypocrisy to be heavier and more terrible.",
+        "Resolution": "8K, hyper-realistic, with a focus on the terrifying, insincere smile.",
+        "Lighting": "The false smile should be lit in a way that is deeply unsettling and reveals the evil beneath.",
+        "Art_Genre": "Dark surrealism, horror."
+      },
+      "Cultural_Anchors": [
+        "Worse than destroying virtue and doing evil (அறன் அழிஇ அல்லவை செய்தலின் தீதே)",
+        "Is to destroy someone behind their back and then smile falsely (புறன் அழிஇப் பொய்த்து நகை)"
+      ]
+    },
+    "Negative_Prompt": "sincere smile, general sin being worse, text artifacts.",
+    "Hyperparameters": {
+      "variant": "pro",
+      "steps": 60,
+      "cfg_scale": 10,
+      "seed": "Explore the design of the 'terrifyingly false smile'."
+    }
+  }
+}

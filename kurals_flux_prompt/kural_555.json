@@ -1,0 +1,39 @@
+{
+  "Kural_Info": {
+    "Number": 555,
+    "Chapter": "கொடுங்கோன்மை (The Cruel Sceptre)",
+    "Tamil_Text": "அல்லற்பட்டு ஆற்றாது அழுதகண் ணீரன்றே செல்வத்தைத் தேய்க்கும் படை.",
+    "English_Meaning": "Are not the tears, shed by a people who cannot endure the oppression which they suffer (from their king), a sharp weapon to waste away his wealth?."
+  },
+  "Flux_Optimized_Prompt": {
+    "Layered_Composition": {
+      "Foreground": "A close-up on the crying face of an oppressed citizen. A single, large tear ('கண்ணீர்') falls from their eye.",
+      "Midground": "As the tear falls, it transforms into a sharp, gleaming, formidable battle-axe ('படை'). This axe then flies towards the king's treasury.",
+      "Background": "The battle-axe is shown striking the king's vast pile of wealth ('செல்வம்'), causing it to shatter and wear away ('தேய்க்கும்') with every impact. The source of the destruction is explicitly shown to be the people's sorrow."
+    },
+    "Art_Direction": {
+      "Subject_and_Action": "The tears of an oppressed people are not powerless; they become a powerful weapon that actively destroys the wealth of the tyrant.",
+      "Symbolic_Motifs": "The transformation of a tear into a battle-axe is the central, powerful metaphor. This visualizes the destructive power of popular sorrow.",
+      "Mood_and_Emotion": "Vengeful, powerful, tragic, just retribution.",
+      "Lighting_and_Color": "The scene is dark and sorrowful. The only bright objects are the tear and the axe it becomes, which glow with a cold, vengeful light. The wealth shatters with each hit.",
+      "Technical_Cues": {
+        "Camera": "A slow-motion sequence shot, following the tear as it transforms and flies towards its target.",
+        "Resolution": "8K, cinematic, with high-quality liquid and weapon effects.",
+        "Lighting": "Dramatic, high-contrast lighting.",
+        "Art_Genre": "Dark fantasy, symbolic realism."
+      }
+    },
+    "Cultural_Anchors": [
+      "The Tears of the Oppressed ('அழுத கண்ணீர்')",
+      "A Weapon that Destroys Wealth ('செல்வத்தைத் தேய்க்கும் படை')",
+      "The curse of a suffering populace."
+    ]
+  },
+  "Negative_Prompt": "happy citizen, tear turning into a flower, wealth growing, text artifacts, cartoonish.",
+  "Hyperparameters": {
+    "variant": "pro",
+    "steps": 50,
+    "cfg_scale": 8,
+    "seed": "Explore variations for the design of the tear-axe."
+  }
+}

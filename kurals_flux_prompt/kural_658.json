@@ -1,0 +1,39 @@
+{
+  "Kural_Info": {
+    "Number": 658,
+    "Chapter": "வினைத்தூய்மை (Purity in Action)",
+    "Tamil_Text": "கடிந்த கடிந்தொரார் செய்தார்க்கு அவைதாம் முடிந்தாலும் பீழை தரும்.",
+    "English_Meaning": "The actions of those, who have not desisted from doing deeds forbidden (by the great), will, even if they succeed, cause them sorrow."
+  },
+  "Flux_Optimized_Prompt": {
+    "Layered_Composition": {
+      "Foreground": "A person is shown successfully completing a forbidden act ('கடிந்த கடிந்தொரார்'). They are reaching their goal, which is a beautiful, tempting, but poisoned apple.",
+      "Midground": "As they successfully grasp the apple ('முடிந்தாலும்'), the very act of touching it causes a terrible transformation. The apple's poison flows up their arm, causing them to wither and decay in terrible pain.",
+      "Background": "The success is revealed to be a trap. The beautiful apple was bait, and achieving the goal only brings about the inevitable sorrow and ruin ('பீழை தரும்')."
+    },
+    "Art_Direction": {
+      "Subject_and_Action": "Even if one succeeds in performing an act that is forbidden by the wise, that very success will ultimately bring nothing but sorrow.",
+      "Symbolic_Motifs": "The poisoned apple represents the successful but forbidden deed. The painful decay upon touching it is the inevitable sorrow that success brings.",
+      "Mood_and_Emotion": "Tragic irony, Pyrrhic victory, painful, cautionary.",
+      "Lighting_and_Color": "The apple has a beautiful, seductive glow. As the person touches it, a sickly, poisonous green or purple light spreads through their body, and the scene becomes dark and horrific.",
+      "Technical_Cues": {
+        "Camera": "A close-up shot that captures the moment of 'success' and the immediate, horrific transformation.",
+        "Resolution": "8K, with high-quality visual effects for the poison spreading.",
+        "Lighting": "A dramatic shift in lighting from seductive to horrific.",
+        "Art_Genre": "Dark fantasy, body horror."
+      }
+    },
+    "Cultural_Anchors": [
+      "Doing the Forbidden ('கடிந்த செய்தல்')",
+      "Success brings Sorrow ('முடிந்தாலும் பீழை தரும்')",
+      "The concept of a hollow victory."
+    ]
+  },
+  "Negative_Prompt": "person being happy after touching the apple, healthy person, text artifacts, cartoonish.",
+  "Hyperparameters": {
+    "variant": "dev",
+    "steps": 45,
+    "cfg_scale": 9,
+    "seed": "Explore variations for the poison effect."
+  }
+}

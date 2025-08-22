@@ -1,0 +1,38 @@
+{
+  "Kural_Info": {
+    "Number": 294,
+    "Chapter": "வாய்மை (Veracity)",
+    "Tamil_Text": "உள்ளத்தாற் பொய்யா தொழுகின் உலகத்தார்உள்ளத்து ளெல்லாம் உளன்.",
+    "English_Meaning": "He who, in his conduct, preserves a mind free from deceit, will dwell in the minds of all men."
+  },
+  "Flux_Optimized_Prompt": {
+    "Layered_Composition": {
+      "Foreground": "A person is shown living their life with a mind free from falsehood ('உள்ளத்தால் பொய்யாது ஒழுகின்'). Their heart is visualized as a pure, clear, radiant crystal.",
+      "Midground": "The light from this crystal heart radiates outwards in all directions.",
+      "Background": "This light touches the hearts of all the people of the world ('உலகத்தார் உள்ளத்துள்'). In the heart of every person—king, farmer, child, elder—a perfect, luminous image of the truthful individual is shown to be enshrined ('எல்லாம் உளன்')."
+    },
+    "Art_Direction": {
+      "Subject_and_Action": "The person who lives with a heart free from deceit earns a permanent and cherished place in the hearts and minds of all people.",
+      "Symbolic_Motifs": "The heart as a radiant crystal is a symbol of purity. The light radiating outwards and creating images in others' hearts is a powerful metaphor for earning a place in their esteem and memory.",
+      "Mood_and_Emotion": "Respected, cherished, universal esteem, beloved.",
+      "Lighting_and_Color": "A brilliant, pure, white-gold light emanates from the central figure's heart, connecting them to everyone else. The scene is filled with a warm, unifying glow.",
+      "Technical_Cues": {
+        "Camera": "An epic, cosmic shot that starts with the individual and pulls back to show their light and image spreading to enshrine itself in the hearts of all humanity across the globe.",
+        "Resolution": "8K, ultra-realistic, with beautiful, ethereal light and transparency effects.",
+        "Lighting": "The truthful heart is the single light source that illuminates the entire world.",
+        "Art_Genre": "Mystical realism, symbolic art."
+      },
+      "Cultural_Anchors": [
+        "To live with a truthful heart (உள்ளத்தால் பொய்யாது ஒழுகின்)",
+        "To be in the hearts of all the world's people (உலகத்தார் உள்ளத்துள் எல்லாம் உளன்)"
+      ]
+    },
+    "Negative_Prompt": "lonely truthful person, dark heart, text artifacts, people ignoring him.",
+    "Hyperparameters": {
+      "variant": "pro",
+      "steps": 55,
+      "cfg_scale": 8,
+      "seed": "Explore the visual of the person's image being enshrined in others' hearts."
+    }
+  }
+}

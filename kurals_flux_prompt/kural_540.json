@@ -1,0 +1,39 @@
+{
+  "Kural_Info": {
+    "Number": 540,
+    "Chapter": "பொச்சாவாமை (Unforgetfulness)",
+    "Tamil_Text": "உள்ளியது எய்தல் எளிதுமன் மற்றுந்தான் உள்ளியது உள்ளப் பெறின்.",
+    "English_Meaning": "It is easy for one to obtain whatever one has thought of, if one can but again think of it."
+  },
+  "Flux_Optimized_Prompt": {
+    "Layered_Composition": {
+      "Foreground": "A person is shown with a single, brilliant idea or goal, visualized as a glowing, intricate crystal floating before them ('உள்ளியது').",
+      "Midground": "The path to achieving this goal is long and filled with distractions, represented by confusing side-paths and foggy illusions.",
+      "Background": "The person succeeds ('எய்தல் எளிது') because they possess the ability to constantly recall and refocus on their original goal. This is visualized as a steady beam of light connecting their mind to the crystal, never breaking, allowing them to navigate the distractions without fail ('உள்ளியது உள்ளப்பெறின்')."
+    },
+    "Art_Direction": {
+      "Subject_and_Action": "Attaining a goal is easy, provided one possesses the mental discipline to constantly keep that goal in mind without forgetting it.",
+      "Symbolic_Motifs": "The glowing crystal is the goal. The distractions are the obstacles. The unwavering beam of light connecting the mind to the goal is the key—the act of sustained thought and unforgetfulness.",
+      "Mood_and_Emotion": "Focused, determined, clear, disciplined, successful.",
+      "Lighting_and_Color": "The primary light source is the beam of focus and the glowing goal itself. It cuts through the murky, distracting environment. The palette emphasizes the clarity and power of focus.",
+      "Technical_Cues": {
+        "Camera": "A shot from behind the person, following the beam of light from their mind all the way to the goal, showing the clear path it creates.",
+        "Resolution": "8K, cinematic, with beautiful light beam and particle effects.",
+        "Lighting": "A strong, directional beam of light that acts as a narrative device.",
+        "Art_Genre": "Conceptual art, motivational fantasy."
+      },
+      "Cultural_Anchors": [
+        "Attaining what is thought of ('உள்ளியது எய்தல்')",
+        "The power of sustained thought ('உள்ளியது உள்ளப்பெறின்')",
+        "The discipline of unforgetfulness."
+      ]
+    },
+    "Negative_Prompt": "person being distracted, broken beam of light, text artifacts, cartoonish.",
+    "Hyperparameters": {
+      "variant": "pro",
+      "steps": 50,
+      "cfg_scale": 8,
+      "seed": "Explore variations for the visual distractions."
+    }
+  }
+}

@@ -1,0 +1,39 @@
+{
+  "Kural_Info": {
+    "Number": 500,
+    "Chapter": "இடனறிதல் (Knowing the Place)",
+    "Tamil_Text": "காலாழ் களரில் நரியடும் கண்ணஞ்சா வேலாள் முகத்த களிறு.",
+    "English_Meaning": "The jackal slays, in miry paths of foot-betraying fen, The elephant of fearless eye and tusks transfixing armed men."
+  },
+  "Flux_Optimized_Prompt": {
+    "Layered_Composition": {
+      "Foreground": "A magnificent, powerful war elephant ('களிறு'), that would normally be fearless ('கண்ணஞ்சா'), is shown hopelessly stuck with its feet sinking deep into a muddy swamp ('காலாழ் களரில்').",
+      "Midground": "Taking advantage of the elephant's immobility and vulnerability, a small, cunning jackal ('நரி'), which would normally flee in terror, is shown boldly attacking and defeating the mighty beast.",
+      "Background": "A treacherous swampy landscape that highlights how the wrong place can completely neutralize even the greatest strength."
+    },
+    "Art_Direction": {
+      "Subject_and_Action": "In the wrong place, like a swamp that traps its feet, even a mighty and fearless war elephant can be defeated by a lowly jackal. Place determines power.",
+      "Symbolic_Motifs": "The powerful elephant stuck in the mud is the central, tragic image. The opportunistic jackal represents how a weaker foe can triumph when the strong are out of their element.",
+      "Mood_and_Emotion": "Tragic, humbling, ironic, a complete reversal of power.",
+      "Lighting_and_Color": "A gloomy, misty, and oppressive atmosphere. The colors are dominated by murky browns, greens, and greys of the swamp. The lighting is dim and adds to the sense of hopelessness.",
+      "Technical_Cues": {
+        "Camera": "A low-angle shot that emphasizes the elephant's stuck position and the jackal's surprising dominance.",
+        "Resolution": "8K, with hyper-realistic mud and water textures.",
+        "Lighting": "Misty, diffused lighting typical of a swamp.",
+        "Art_Genre": "Gritty wildlife realism, with a strong narrative element."
+      }
+    },
+    "Cultural_Anchors": [
+      "The Elephant and Jackal Analogy",
+      "Feet stuck in mud ('காலாழ் களரில்')",
+      "How the wrong place can neutralize great strength."
+    ]
+  },
+  "Negative_Prompt": "elephant easily walking through the mud, jackal running away, sunny day, text artifacts.",
+  "Hyperparameters": {
+    "variant": "pro",
+    "steps": 50,
+    "cfg_scale": 8,
+    "seed": "Explore variations for the elephant's expression of distress."
+  }
+}

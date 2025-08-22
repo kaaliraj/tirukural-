@@ -1,0 +1,38 @@
+{
+  "Kural_Info": {
+    "Number": 1300,
+    "Chapter": "நெஞ்சொடுபுலத்தல் (Expostulation with Oneself)",
+    "Tamil_Text": "தஞ்சம் தமரல்லர் ஏதிலார் தாமுடையநெஞ்சம் தமரல் வழி.",
+    "English_Meaning": "When one's own heart is not in friendship with oneself, strangers will not be relations (to give help)."
+  },
+  "Flux_Optimized_Prompt": {
+    "Layered_Composition": {
+      "Foreground": "A person is shown in a state of internal conflict. Their own heart ('நெஞ்சம்') is depicted as a hostile stranger, turning its back on them ('தமர் அல் வழி'). They are not friends with themselves.",
+      "Midground": "Because of this internal disunity, the external world mirrors their state. They are seeking for refuge or help ('தஞ்சம்').",
+      "Background": "They approach strangers ('ஏதிலார்'), hoping for support. However, these strangers remain as cold and distant as strangers; they do not become like family ('தமர் அல்லர்'). The person's lack of inner friendship has made it impossible to find true, familial support from the outside world."
+    },
+    "Art_Direction": {
+      "Subject_and_Action": "If a person is not at peace or in friendship with their own heart, they cannot expect strangers to act with the kindness and support of family.",
+      "Symbolic_Motifs": "The internal state is the cause of the external reality. The heart as a hostile stranger is the root problem. The external strangers' refusal to help is simply a reflection of this inner turmoil. You cannot find refuge outside if you have no refuge inside.",
+      "Mood_and_Emotion": "Alienated, disunified, internal conflict leading to external isolation.",
+      "Lighting_and_Color": "A cold, alienating light fills the scene. The palette is one of isolation and emotional distance, with cool blues and greys. There is no warmth of kinship to be found, either within or without.",
+      "Technical_Cues": {
+        "Camera": "A shot that shows the person being rejected by their own heart in the foreground, which then leads to their rejection by the strangers in the background.",
+        "Resolution": "8K, ultra-realistic, with a focus on the theme of alienation.",
+        "Lighting": "Cold, isolating lighting.",
+        "Art_Genre": "Psychological realism."
+      },
+      "Cultural_Anchors": [
+        "When one's own heart is not kin (நெஞ்சம் தமர் அல் வழி)",
+        "Strangers will not be kin (ஏதிலார் தமர் அல்லர்)"
+      ]
+    },
+    "Negative_Prompt": "person at peace with themselves, strangers helping, text artifacts.",
+    "Hyperparameters": {
+      "variant": "dev",
+      "steps": 45,
+      "cfg_scale": 8,
+      "seed": "Explore the visual of 'the heart as a hostile stranger'."
+    }
+  }
+}

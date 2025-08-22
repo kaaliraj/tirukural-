@@ -1,0 +1,39 @@
+{
+  "Kural_Info": {
+    "Number": 909,
+    "Chapter": "பெண்வழிச்சேறல் (Being led by Women)",
+    "Tamil_Text": "அறவினையும் ஆன்ற பொருளும் பிறவினையும் பெண்ஏவல் செய்வார்கண் இல்.",
+    "English_Meaning": "From those who obey the commands of their wives are to be expected neither deeds of virtue, nor those of wealth nor (even) those of pleasure."
+  },
+  "Flux_Optimized_Prompt": {
+    "Layered_Composition": {
+      "Foreground": "A man who is completely subservient to his wife's commands ('பெண்ஏவல் செய்வார்') is shown on his knees before her.",
+      "Midground": "Because of his subservience, the three great pursuits of life are shown to be absent from his world. Three great, fruitful trees that should be in his garden are shown withered and dead.",
+      "Background": "One dead tree is labeled 'Virtue' ('அறவினை'), the second is labeled 'Wealth' ('ஆன்ற பொருள்'), and the third is labeled 'Other Deeds/Pleasures' ('பிறவினை'). His subservience has made it impossible for any of these to flourish."
+    },
+    "Art_Direction": {
+      "Subject_and_Action": "No great achievements in virtue, wealth, or pleasure can be found in the life of a man who simply obeys his wife's commands.",
+      "Symbolic_Motifs": "The three dead trees representing the three failed life-goals are the central metaphor. This clearly and tragically shows the barrenness of such a life.",
+      "Mood_and_Emotion": "Barren, fruitless, subservient, a complete failure in life.",
+      "Lighting_and_Color": "A bleak, grey, and lifeless light. The colors are desaturated, and the dead trees are skeletal and tragic.",
+      "Technical_Cues": {
+        "Camera": "A wide, tragic shot of the subservient man in his dead garden.",
+        "Resolution": "8K, with a desolate, melancholic atmosphere.",
+        "Lighting": "Bleak, overcast lighting.",
+        "Art_Genre": "Symbolic realism, with a tragic tone."
+      },
+      "Cultural_Anchors": [
+        "He who obeys his wife's commands ('பெண்ஏவல் செய்வார்')",
+        "Will have no Virtue, Wealth, or other achievements.",
+        "The triad of Aram, Porul, Inbam."
+      ]
+    },
+    "Negative_Prompt": "flourishing trees, a proud man, text artifacts, cartoonish.",
+    "Hyperparameters": {
+      "variant": "pro",
+      "steps": 50,
+      "cfg_scale": 8,
+      "seed": "Explore variations for the dead trees."
+    }
+  }
+}

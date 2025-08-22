@@ -1,0 +1,39 @@
+{
+  "Kural_Info": {
+    "Number": 806,
+    "Chapter": "பழைமை (Familiarity)",
+    "Tamil_Text": "எல்லைக்கண் நின்றார் துறவார் தொலைவிடத்தும் தொல்லைக்கண் நின்றார் தொடர்பு.",
+    "English_Meaning": "Those who stand within the limits (of true friendship) will not even in adversity give up the intimacy of long-standing friends."
+  },
+  "Flux_Optimized_Prompt": {
+    "Layered_Composition": {
+      "Foreground": "Two old friends stand together. They have reached the boundary or limit of their lives or fortunes, represented by them standing on the very edge of a cliff ('எல்லைக்கண்').",
+      "Midground": "A great disaster strikes, trying to push one of them off the cliff ('தொலைவிடத்தும்'). However, the other friend does not abandon them. They hold on firmly, refusing to forsake the bond of their long and troubled history together ('தொல்லைக்கண் நின்றார் தொடர்பு துறவார்').",
+      "Background": "Their shared history is visualized as an unbreakable, ancient chain of light that binds them together, which holds firm even at the brink of destruction."
+    },
+    "Art_Direction": {
+      "Subject_and_Action": "Those who are true friends will not abandon the bond of their shared history, even when they face ruin and are at their absolute limit.",
+      "Symbolic_Motifs": "The cliff edge represents the 'limit'. The unbreakable chain of light is their shared, long-standing bond. The act of holding on despite the disaster is the ultimate test of loyalty.",
+      "Mood_and_Emotion": "Loyal, unshakeable, enduring, supportive until the very end.",
+      "Lighting_and_Color": "A dramatic, stormy light from the disaster. The chain of friendship glows with a powerful, defiant light that pushes back against the darkness.",
+      "Technical_Cues": {
+        "Camera": "A dramatic shot at the cliff's edge, capturing the tension and the powerful act of loyalty.",
+        "Resolution": "8K, cinematic and epic in scale.",
+        "Lighting": "High-contrast, stormy lighting.",
+        "Art_Genre": "Epic fantasy art."
+      },
+      "Cultural_Anchors": [
+        "Friends of shared history ('தொல்லைக்கண் நின்றார்')",
+        "Not forsaking, even at the limit ('எல்லைக்கண் துறவார்')",
+        "The ultimate loyalty."
+      ]
+    },
+    "Negative_Prompt": "friend pushing the other off the cliff, a broken chain, text artifacts.",
+    "Hyperparameters": {
+      "variant": "pro",
+      "steps": 50,
+      "cfg_scale": 9,
+      "seed": "Explore variations for the chain of light."
+    }
+  }
+}

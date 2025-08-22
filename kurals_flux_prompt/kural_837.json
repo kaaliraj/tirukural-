@@ -1,0 +1,39 @@
+{
+  "Kural_Info": {
+    "Number": 837,
+    "Chapter": "பேதைமை (Folly)",
+    "Tamil_Text": "ஏதிலார் ஆரத் தமர்பசிப்பர் பேதை பெருஞ்செல்வம் உற்றக் கடை.",
+    "English_Meaning": "If a fool happens to get an immense fortune, his neighbours will enjoy it while his relations starve."
+  },
+  "Flux_Optimized_Prompt": {
+    "Layered_Composition": {
+      "Foreground": "A foolish person ('பேதை') has come into a great fortune ('பெருஞ்செல்வம்'). They are sitting in the middle of a grand hall, confused and oblivious.",
+      "Midground": "On one side of the hall, strangers and flatterers ('ஏதிலார்') are shown feasting lavishly on the fool's wealth, their plates overflowing ('ஆர'). On the other side, the fool's own true family and relatives ('தமர்') are shown starving, with empty plates, looking on in sorrow ('பசிப்பர்').",
+      "Background": "The fool is unable to distinguish between true kin and strangers, and so their wealth flows to the undeserving while their own family suffers."
+    },
+    "Art_Direction": {
+      "Subject_and_Action": "When a fool gets great wealth, strangers feast while their own family starves.",
+      "Symbolic_Motifs": "The stark contrast between the feasting strangers and the starving family is the central narrative. The fool's oblivious expression in the middle is key to showing the cause is their folly.",
+      "Mood_and_Emotion": "Tragic, unjust, foolish, a critique of poor judgment.",
+      "Lighting_and_Color": "The strangers' side of the hall is bright, loud, and lavishly colored. The family's side is dark, silent, and cast in sad, grey tones.",
+      "Technical_Cues": {
+        "Camera": "A wide, symmetrical shot that captures the fool in the center and the two contrasting groups on either side.",
+        "Resolution": "8K, with rich details in the feast and the expressions of the characters.",
+        "Lighting": "High-contrast split lighting.",
+        "Art_Genre": "Historical realism, with a strong narrative and moral message."
+      },
+      "Cultural_Anchors": [
+        "A fool with great wealth ('பேதை பெருஞ்செல்வம் உற்றக்கடை')",
+        "Strangers feast ('ஏதிலார் ஆர')",
+        "Family starves ('தமர் பசிப்பர்')"
+      ]
+    },
+    "Negative_Prompt": "family feasting, strangers being turned away, text artifacts, cartoonish.",
+    "Hyperparameters": {
+      "variant": "pro",
+      "steps": 50,
+      "cfg_scale": 8,
+      "seed": "Explore variations for the contrast between the two groups."
+    }
+  }
+}

@@ -1,0 +1,39 @@
+{
+  "Kural_Info": {
+    "Number": 599,
+    "Chapter": "ஊக்கமுடைமை (Energy)",
+    "Tamil_Text": "பரியது கூர்ங்கோட்டது ஆயினும் யானை வெரூஉம் புலிதாக் குறின்.",
+    "English_Meaning": "Although the elephant has a large body, and a sharp tusk, yet it fears the attack of the tiger."
+  },
+  "Flux_Optimized_Prompt": {
+    "Layered_Composition": {
+      "Foreground": "A dramatic confrontation. A massive, powerful elephant ('யானை'), with a huge body ('பரியது') and sharp tusks ('கூர்ங்கோட்டது'), is shown recoiling in fear.",
+      "Midground": "The source of its fear is a much smaller but incredibly energetic and ferocious tiger ('புலி'). The tiger is mid-leap, a blur of focused energy and deadly intent, about to attack ('தாக்குறின்').",
+      "Background": "A dense, primal jungle setting that emphasizes the raw nature of this conflict, where energetic ferocity overcomes sheer size."
+    },
+    "Art_Direction": {
+      "Subject_and_Action": "A powerful demonstration that energetic drive and focused ferocity (represented by the tiger) can overcome massive size and brute strength (represented by the elephant).",
+      "Symbolic_Motifs": "The size and power difference between the two animals is key. The tiger's dynamic, energetic pose contrasts with the elephant's fearful, retreating posture.",
+      "Mood_and_Emotion": "Energetic, ferocious, powerful, a triumph of energy over mass.",
+      "Lighting_and_Color": "Dappled, dramatic jungle light. The tiger's stripes provide a dynamic visual texture. The focus is on the explosive energy of the tiger's attack.",
+      "Technical_Cues": {
+        "Camera": "A low-angle, dynamic action shot that captures the intensity of the tiger's leap.",
+        "Resolution": "8K, with high-speed photography effects like motion blur on the tiger to convey speed and power.",
+        "Lighting": "High-contrast lighting that highlights the muscle and tension in both animals.",
+        "Art_Genre": "Hyper-realistic wildlife action photography."
+      }
+    },
+    "Cultural_Anchors": [
+      "The Elephant and Tiger Analogy",
+      "Energy (Tiger) vs. Size (Elephant)",
+      "The power of focused, energetic attack."
+    ]
+  },
+  "Negative_Prompt": "elephant attacking the tiger, scared tiger, text artifacts, cartoonish animals.",
+  "Hyperparameters": {
+    "variant": "pro",
+    "steps": 50,
+    "cfg_scale": 9,
+    "seed": "Explore variations for the tiger's leap."
+  }
+}

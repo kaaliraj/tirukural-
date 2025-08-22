@@ -1,0 +1,39 @@
+{
+  "Kural_Info": {
+    "Number": 702,
+    "Chapter": "குறிப்பறிதல் (The Knowledge of Indications)",
+    "Tamil_Text": "ஐயப் படாஅது அகத்தது உணர்வானைத் தெய்வத்தோ டொப்பக் கொளல்.",
+    "English_Meaning": "He is to be esteemed a god who is able to ascertain without a doubt what is within (one's mind)."
+  },
+  "Flux_Optimized_Prompt": {
+    "Layered_Composition": {
+      "Foreground": "A person with an extraordinary gift is shown looking at another person.",
+      "Midground": "The gifted person's perception is visualized: they can see directly into the other person's mind ('அகத்தது உணர்வான்'), which is depicted as a clear, transparent sphere containing their thoughts and feelings. There is no doubt or guesswork ('ஐயப்படாது').",
+      "Background": "Because of this incredible, unerring ability, the gifted person is depicted with a subtle but definite divine aura or a halo, signifying that they should be regarded as a deity ('தெய்வத்தோடு ஒப்பக் கொளல்')."
+    },
+    "Art_Direction": {
+      "Subject_and_Action": "One who can understand what is in another's mind without any doubt should be considered equal to a god.",
+      "Symbolic_Motifs": "The ability to see into the 'mind-sphere' of another is the visual representation of this skill. The divine halo is the symbol of the esteem they deserve.",
+      "Mood_and_Emotion": "Divine, omniscient, perceptive, god-like.",
+      "Lighting_and_Color": "A soft, divine, golden light emanates from the perceptive person. The mind-sphere is clear and easy to read. The palette is ethereal and sacred.",
+      "Technical_Cues": {
+        "Camera": "A shot that focuses on the perceptive person, with a surreal effect showing their unique mode of sight.",
+        "Resolution": "8K, with a blend of realism and metaphysical imagery.",
+        "Lighting": "Beatific, divine lighting.",
+        "Art_Genre": "Spiritual art, magical realism."
+      }
+    },
+    "Cultural_Anchors": [
+      "Knowing what is within without doubt ('ஐயப்படாது அகத்தது உணர்வான்')",
+      "To be considered as a god ('தெய்வத்தோடு ஒப்பக் கொளல்')",
+      "The divinity of perfect empathy/perception."
+    ]
+  },
+  "Negative_Prompt": "person looking confused, an opaque mind-sphere, text artifacts, cartoonish.",
+  "Hyperparameters": {
+    "variant": "dev",
+    "steps": 45,
+    "cfg_scale": 8,
+    "seed": "Explore variations for the contents of the mind-sphere."
+  }
+}

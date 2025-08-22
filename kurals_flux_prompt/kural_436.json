@@ -1,0 +1,39 @@
+{
+  "Kural_Info": {
+    "Number": 436,
+    "Chapter": "குற்றங்கடிதல் (The Correction of Faults)",
+    "Tamil_Text": "தன்குற்றம் நீக்கிப் பிறர்குற்றங் காண்கிற்பின் என்குற்ற மாகும் இறைக்கு.",
+    "English_Meaning": "What fault will remain in the king who has put away his own evils, and looks after the evils of others."
+  },
+  "Flux_Optimized_Prompt": {
+    "Layered_Composition": {
+      "Foreground": "A king stands before a large, ornate mirror. He is shown actively polishing away a dark stain ('தன் குற்றம் நீக்கி') from his own reflection.",
+      "Midground": "Once his reflection is perfectly clean and radiant, he turns his gaze outwards. The mirror now reflects the world behind him, and with his clear sight, he can easily spot and point out the smaller dark stains on others ('பிறர் குற்றம் காண்கிற்பின்').",
+      "Background": "A just and well-ordered kingdom, which is the result of this leader's self-correction and subsequent fair judgment."
+    },
+    "Art_Direction": {
+      "Subject_and_Action": "A ruler who first removes their own faults before looking for faults in others will themselves become faultless.",
+      "Symbolic_Motifs": "The mirror is the tool of self-reflection. The act of cleaning one's own reflection first is the central action. The ability to then see others' faults clearly is the result of self-purification.",
+      "Mood_and_Emotion": "Self-aware, just, righteous, exemplary, clear-sighted.",
+      "Lighting_and_Color": "The scene is lit by the clear, bright light radiating from the polished mirror. The king's reflection, once cleaned, glows with a pure white light.",
+      "Technical_Cues": {
+        "Camera": "Medium shot, focusing on the king's interaction with the mirror.",
+        "Resolution": "8K, ultra-realistic, with high-quality reflection effects.",
+        "Lighting": "Clean, high-key lighting to symbolize purity and justice.",
+        "Art_Genre": "Symbolic realism, classical painting."
+      }
+    },
+    "Cultural_Anchors": [
+      "Removing one's own fault first ('தன் குற்றம் நீக்கி')",
+      "Judging others after self-correction",
+      "The path to becoming a faultless leader."
+    ]
+  },
+  "Negative_Prompt": "king ignoring his own stain, broken mirror, dark and unjust kingdom, text artifacts.",
+  "Hyperparameters": {
+    "variant": "dev",
+    "steps": 40,
+    "cfg_scale": 8,
+    "seed": "Explore variations for the appearance of the 'stains' or faults."
+  }
+}

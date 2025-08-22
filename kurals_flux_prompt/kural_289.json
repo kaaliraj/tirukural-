@@ -1,0 +1,39 @@
+{
+  "Kural_Info": {
+    "Number": 289,
+    "Chapter": "கள்ளாமை (The Absence of Fraud)",
+    "Tamil_Text": "அளவல்ல செய்தாங்கே வீவர் களவல்லமற்றைய தேற்றா தவர்.",
+    "English_Meaning": "Those, who are acquainted with nothing but fraud, will perish in the very commission of transgression."
+  },
+  "Flux_Optimized_Prompt": {
+    "Layered_Composition": {
+      "Foreground": "A person whose entire knowledge consists only of fraud ('களவு அல்ல மற்றைய தேற்றாதவர்') is shown committing an unmeasured, excessive act of transgression ('அளவு அல்ல செய்து').",
+      "Midground": "The very moment they commit the act ('ஆங்கே'), a catastrophic consequence is triggered. The ground beneath their feet, which is made of the brittle substance of their own deceit, shatters and collapses.",
+      "Background": "The person is shown falling into an abyss of immediate ruin ('வீவர்'), destroyed by the very nature of their own singular, unbalanced knowledge."
+    },
+    "Art_Direction": {
+      "Subject_and_Action": "Those who know nothing beyond the art of fraud will find that their transgressions lead to immediate and catastrophic self-destruction.",
+      "Symbolic_Motifs": "The ground made of deceit is a metaphor for their unstable and unreliable worldview. The ruin is not a future punishment but an immediate result of their action, highlighting the inherent instability of a life based only on fraud.",
+      "Mood_and_Emotion": "Immediate ruin, self-destruction, catastrophic, inevitable.",
+      "Lighting_and_Color": "A harsh, chaotic light illuminates the scene. The moment of collapse is marked by a flash of destructive energy. The palette is dark and violent.",
+      "Technical_Cues": {
+        "Camera": "A dynamic high-angle shot that captures the transgression and the immediate collapse of the ground beneath.",
+        "Resolution": "8K, hyper-realistic, with dramatic particle and destruction effects.",
+        "Lighting": "Chaotic, high-contrast lighting to create a sense of catastrophic failure.",
+        "Art_Genre": "Action sequence, dark fantasy."
+      },
+      "Cultural_Anchors": [
+        "Those who know nothing but fraud (களவு அல்ல மற்றைய தேற்றாதவர்)",
+        "Committing unmeasured acts (அளவல்ல செய்து)",
+        "Perishing on the spot (ஆங்கே வீவர்)"
+      ]
+    },
+    "Negative_Prompt": "successful crime, person getting away, stable ground, text artifacts.",
+    "Hyperparameters": {
+      "variant": "pro",
+      "steps": 50,
+      "cfg_scale": 9,
+      "seed": "Explore the visual of the 'ground of deceit' shattering."
+    }
+  }
+}

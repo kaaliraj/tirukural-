@@ -1,0 +1,39 @@
+{
+  "Kural_Info": {
+    "Number": 945,
+    "Chapter": "மருந்து (Medicine)",
+    "Tamil_Text": "மாறுபாடு இல்லாத உண்டி மறுத்துண்ணின் ஊறுபாடு இல்லை உயிர்க்கு.",
+    "English_Meaning": "There will be no disaster to one's life if one eats with moderation, food that is not disagreeable."
+  },
+  "Flux_Optimized_Prompt": {
+    "Layered_Composition": {
+      "Foreground": "A person is eating a meal that is perfectly in harmony with their body; it is not disagreeable ('மாறுபாடு இல்லாத உண்டி').",
+      "Midground": "They are shown practicing moderation. Even though the food is good, they are shown stopping before they are completely full, refusing the last portion ('மறுத்துண்ணின்').",
+      "Background": "Because of these two practices, their life-force ('உயிர்') is shown to be a strong, steady, and unharmed flame. There is no harm or danger to it ('ஊறுபாடு இல்லை')."
+    },
+    "Art_Direction": {
+      "Subject_and_Action": "If one eats agreeable food in moderation, there will be no harm to one's life.",
+      "Symbolic_Motifs": "The act of refusing the last portion of food is the visual for moderation. The life-force as a strong, steady flame is the symbol for a healthy life.",
+      "Mood_and_Emotion": "Harmonious, moderate, disciplined, healthy.",
+      "Lighting_and_Color": "A warm, gentle light. The food is wholesome. The flame of life is a bright, steady, golden color.",
+      "Technical_Cues": {
+        "Camera": "A medium shot that captures the person's act of moderation and the resulting strong flame of their life.",
+        "Resolution": "8K, with a warm and healthy aesthetic.",
+        "Lighting": "Soft, life-affirming light.",
+        "Art_Genre": "Symbolic realism."
+      },
+      "Cultural_Anchors": [
+        "Agreeable Food ('மாறுபாடு இல்லாத உண்டி')",
+        "Eating with Restraint ('மறுத்துண்ணின்')",
+        "No Harm to Life ('ஊறுபாடு இல்லை உயிர்க்கு')"
+      ]
+    },
+    "Negative_Prompt": "person overeating, a flickering flame of life, text artifacts.",
+    "Hyperparameters": {
+      "variant": "pro",
+      "steps": 50,
+      "cfg_scale": 8,
+      "seed": "Explore variations for the flame of life."
+    }
+  }
+}

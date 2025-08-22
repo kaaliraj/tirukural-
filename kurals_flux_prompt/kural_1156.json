@@ -1,0 +1,33 @@
+{
+  "Kural_Info": {
+    "Number": 1156,
+    "Chapter": "பிரிவாற்றாமை (Separation unendurable)",
+    "Tamil_Text": "பிரிவுரைக்கும் வன்கண்ணர் ஆயின் அரிதவர்நல்குவர் என்னும் நசை.",
+    "English_Meaning": "To cherish longing hope that he should ever gracious be, Is hard, when he could stand, and of departure speak to me."
+  },
+  "Flux_Optimized_Prompt": {
+    "Layered_Composition": {
+      "Foreground": "A lover ('Vankannar') is shown speaking the words of departure ('Pirivuraikkum'). His words are visualized as sharp, icy shards that fly towards his beloved.",
+      "Midground": "His beloved stands there, her heart exposed. A delicate, hopeful plant representing her hope for his kindness ('Nalkuvar ennum Nasai') is growing from it. The icy shards of his words are striking the plant, causing it to wither and freeze.",
+      "Background": "A cold, desolate landscape that reflects the emotional chill of the moment of announcing separation."
+    },
+    "Art_Direction": {
+      "Subject_and_Action": "The cruel act of announcing separation directly kills the hope for future kindness. The person capable of such cruelty is unlikely to show grace later.",
+      "Symbolic_Motifs": "The words of departure as icy shards. The hope for kindness as a delicate, freezing plant. The act of speaking becomes an act of killing hope.",
+      "Mood_and_Emotion": "Cruel, heartbreaking, hopeless, cold.",
+      "Lighting_and_Color": "Harsh, cold, blue-toned lighting. The icy shards have a sharp, painful glint. The withering plant turns from green to a frosty, dead white."
+    },
+    "Technical_Cues": {
+      "Camera": "Close-up on the beloved's heart, showing the hopeful plant being destroyed by the icy words.",
+      "Resolution": "8K, surreal realism, with detailed ice and plant texture effects.",
+      "Lighting": "Cold, directional light that creates harsh shadows and a feeling of emotional frost.",
+      "Art_Genre": "Dark romantic fantasy, symbolizing emotional pain with natural elements."
+    },
+    "Cultural_Anchors": [
+      "வன்கண்மை (Cruelty/Hard-heartedness)",
+      "பிரிவுரைத்தல் (Announcing separation)",
+      "நசை (Hope/Desire)"
+    ]
+  },
+  "Negative_Prompt": "a gentle departure, a thriving plant, a warm setting, text artifacts, cartoonish, blurry."
+}

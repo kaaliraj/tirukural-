@@ -1,0 +1,39 @@
+{
+  "Kural_Info": {
+    "Number": 570,
+    "Chapter": "வெருவந்தசெய்யாமை (Absence of Terrorism)",
+    "Tamil_Text": "கல்லார்ப் பிணிக்கும் கடுங்கோல் அதுவல்லது இல்லை நிலக்குப் பொறை.",
+    "English_Meaning": "A cruel sceptre binds only the ignorant to it; besides that, there is no greater burden for the earth."
+  },
+  "Flux_Optimized_Prompt": {
+    "Layered_Composition": {
+      "Foreground": "A tyrant king with a cruel, crooked sceptre ('கடுங்கோல்') is shown. The only people who are drawn to him and support him are a crowd of foolish, ignorant, and base individuals ('கல்லார்'). They are bound to him with shadowy chains.",
+      "Midground": "This entire group—the tyrant and his ignorant followers—are depicted as a massive, impossibly heavy weight that is causing the very earth beneath them to crack and groan under the strain.",
+      "Background": "The personified Earth is shown as a titan-like figure, struggling to bear this immense burden ('நிலக்குப் பொறை'), her face etched with pain. The image implies there is no heavier, more useless burden she must carry."
+    },
+    "Art_Direction": {
+      "Subject_and_Action": "A tyrannical government attracts only the ignorant as its supporters, and this combination of tyranny and ignorance is the greatest possible burden for the world to bear.",
+      "Symbolic_Motifs": "The chains binding the ignorant to the tyrant show their unhealthy alliance. The cracking earth and the struggling Earth-titan literally visualize the concept of the 'burden on the land'.",
+      "Mood_and_Emotion": "Burdensome, oppressive, ignorant, tragic for the world.",
+      "Lighting_and_Color": "A heavy, oppressive, sickly light hangs over the scene. The colors are drab, earthy, and strained.",
+      "Technical_Cues": {
+        "Camera": "A very low-angle shot, from the perspective of the cracking earth, looking up at the immense, crushing weight of the tyrant and his followers.",
+        "Resolution": "8K, with detailed textures of cracking earth and expressive faces.",
+        "Lighting": "Oppressive, heavy lighting that conveys a sense of immense weight.",
+        "Art_Genre": "Mythological art, symbolic fantasy."
+      }
+    },
+    "Cultural_Anchors": [
+      "The Cruel Sceptre ('கடுங்கோல்')",
+      "Binding the Ignorant ('கல்லார்ப் பிணிக்கும்')",
+      "The Greatest Burden for the Earth ('நிலக்குப் பொறை')"
+    ]
+  },
+  "Negative_Prompt": "wise people following the king, light burden, happy Earth, text artifacts.",
+  "Hyperparameters": {
+    "variant": "dev",
+    "steps": 45,
+    "cfg_scale": 9,
+    "seed": "Explore variations for the personification of the Earth."
+  }
+}

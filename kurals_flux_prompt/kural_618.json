@@ -1,0 +1,38 @@
+{
+  "Kural_Info": {
+    "Number": 618,
+    "Chapter": "ஆள்வினையுடைமை (Manly Effort)",
+    "Tamil_Text": "பொறியின்மை யார்க்கும் பழியன்று அறிவறிந்துஆள்வினை இன்மை பழி.",
+    "English_Meaning": "Adverse fate is no disgrace to any one; to be without exertion and without knowing what should be known, is disgrace."
+  },
+  "Flux_Optimized_Prompt": {
+    "Layered_Composition": {
+      "Foreground": "A split composition.",
+      "Midground": "On the left, a person is shown dealing with an adverse fate ('பொறியின்மை'). This is visualized as a terrible storm raging around them. However, they are standing strong, fighting the storm with all their might. This is shown to be NOT a disgrace ('பழியன்று').",
+      "Background": "On the right, the weather is perfectly calm, but the person is shown sitting idly ('ஆள்வினை இன்மை'), making no effort. They are ignoring a scroll of knowledge lying at their feet ('அறிவு அறிந்து'). This inaction, despite the favorable conditions, is depicted as a true and deep disgrace ('பழி'), visualized as a dark stain of shame spreading on the ground around them."
+    },
+    "Art_Direction": {
+      "Subject_and_Action": "There is no shame in facing bad luck or adverse fate. The real disgrace is the failure to make an effort and use one's knowledge when one has the opportunity.",
+      "Symbolic_Motifs": "The contrast between the honorable struggle and the disgraceful inaction is key. The storm of fate is an external challenge, while the lack of effort is an internal, moral failure. The stain of shame is a direct result of this internal failure.",
+      "Mood_and_Emotion": "Honorable struggle vs. disgraceful inaction, noble vs. base.",
+      "Lighting_and_Color": "The stormy scene on the left is dark and chaotic, but the person fighting it is illuminated by a heroic inner light. The calm scene on the right is in flat, boring light, and the spreading stain of shame is a stark, ugly black.",
+      "Technical_Cues": {
+        "Camera": "A comparative diptych shot that contrasts the two situations.",
+        "Resolution": "8K, ultra-realistic, with dynamic storm effects and symbolic stain effects.",
+        "Lighting": "Contrasting lighting to show that honor is not about external conditions but internal response.",
+        "Art_Genre": "Allegorical painting, symbolic realism."
+      },
+      "Cultural_Anchors": [
+        "Adverse fate is no disgrace (பொறியின்மை பழியன்று)",
+        "Lack of effort is a disgrace (ஆள்வினை இன்மை பழி)"
+      ]
+    },
+    "Negative_Prompt": "person giving up in the storm, diligent idle person, text artifacts.",
+    "Hyperparameters": {
+      "variant": "dev",
+      "steps": 45,
+      "cfg_scale": 9,
+      "seed": "Explore the visual of the spreading 'stain of shame'."
+    }
+  }
+}

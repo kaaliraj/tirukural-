@@ -1,0 +1,39 @@
+{
+  "Kural_Info": {
+    "Number": 857,
+    "Chapter": "இகல் (Hostility)",
+    "Tamil_Text": "மிகல்மேவல் மெய்ப்பொருள் காணார் இகல்மேவல் இன்னா அறிவி னவர்.",
+    "English_Meaning": "Those whose judgement brings misery through its connection with hatred cannot understand the triumphant nature of truth."
+  },
+  "Flux_Optimized_Prompt": {
+    "Layered_Composition": {
+      "Foreground": "A person whose mind is clouded by hostility and a love of conflict ('இகல்மேவல் இன்னா அறிவினவர்'). Their eyes are covered by a dark, thorny veil of hatred.",
+      "Midground": "Before them stands the ultimate truth ('மெய்ப்பொருள்'), visualized as a magnificent, radiant, multifaceted crystal that embodies victory and greatness ('மிகல்').",
+      "Background": "Because their vision is obscured by the veil of hatred, they are completely unable to see or comprehend the brilliant truth standing right in front of them ('மெய்ப்பொருள் காணார்'). They perceive only darkness and threat."
+    },
+    "Art_Direction": {
+      "Subject_and_Action": "Those whose intelligence is based on hostility and causing misery are blind to the true nature of victorious truth.",
+      "Symbolic_Motifs": "The dark, thorny veil of hatred over the eyes is the central metaphor for how hostility blinds a person. The brilliant crystal of truth represents the objective reality they cannot perceive.",
+      "Mood_and_Emotion": "Blind, ignorant, self-defeating, tragic.",
+      "Lighting_and_Color": "The only source of light is the magnificent crystal of truth. However, the person is in darkness because their own veil of hatred blocks this light from reaching them.",
+      "Technical_Cues": {
+        "Camera": "A shot from the person's perspective, showing their view of the world as dark and obscured by thorns, with only a faint, distorted glimmer of the brilliant crystal they cannot truly see.",
+        "Resolution": "8K, with a strong, subjective feel.",
+        "Lighting": "High-contrast, with the light source being obscured from the subject's point of view.",
+        "Art_Genre": "Symbolic surrealism."
+      }
+    },
+    "Cultural_Anchors": [
+      "Those of hostile intelligence ('இகல்மேவல் இன்னா அறிவினவர்')",
+      "Cannot see the true nature of victory/truth ('மிகல்மேவல் மெய்ப்பொருள் காணார்')",
+      "Hatred as a source of blindness."
+    ]
+  },
+  "Negative_Prompt": "person seeing the crystal clearly, text artifacts, cartoonish.",
+  "Hyperparameters": {
+    "variant": "pro",
+    "steps": 50,
+    "cfg_scale": 8,
+    "seed": "Explore variations for the crystal of truth."
+  }
+}

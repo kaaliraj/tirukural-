@@ -1,0 +1,33 @@
+{
+  "Kural_Info": {
+    "Number": 1148,
+    "Chapter": "அலரறிவுறுத்தல் (The Announcement of the Rumour)",
+    "Tamil_Text": "நெய்யால் எரிநுதுப்பேம் என்றற்றால் கெளவையால்காமம் நுதுப்பேம் எனல்.",
+    "English_Meaning": "With butter-oil extinguish fire! 'Twill prove Harder by scandal to extinguish love."
+  },
+  "Flux_Optimized_Prompt": {
+    "Layered_Composition": {
+      "Foreground": "A roaring bonfire represents 'Kaamam' (love/passion).",
+      "Midground": "A person, representing society or family, is trying to extinguish this fire ('Nuthuppem'). However, instead of water, they are pouring a pot of ghee or oil ('Neyyaal') onto the flames.",
+      "Background": "As the oil hits the fire, the flames, instead of dying down, erupt with even greater intensity, reaching higher and burning brighter, showing the counterproductive effect of the action."
+    },
+    "Art_Direction": {
+      "Subject_and_Action": "A direct, vivid metaphor: trying to extinguish love with the fuel of scandal is as foolish and counterproductive as trying to put out a fire with ghee.",
+      "Symbolic_Motifs": "The fire of love. The ghee/oil of scandal ('Kavvai'). The resulting explosion of flames is the central, dramatic moment.",
+      "Mood_and_Emotion": "Ironic, intense, explosive, demonstrating a fundamental misunderstanding of emotion.",
+      "Lighting_and_Color": "The entire scene is dominated by the intense, fiery light of the bonfire. The colors are hot and vibrant—deep oranges, fiery reds, and bright yellows. The person pouring the oil is silhouetted against the erupting flames."
+    },
+    "Technical_Cues": {
+      "Camera": "Dynamic low-angle shot, making the fire seem immense and powerful.",
+      "Resolution": "8K, hyper-realistic, with spectacular and detailed fire effects and fluid dynamics for the oil.",
+      "Lighting": "The fire is the primary and most dramatic light source, casting flickering, intense shadows.",
+      "Art_Genre": "Action-oriented symbolic realism."
+    },
+    "Cultural_Anchors": [
+      "நெய்யால் எரி அவித்தல் (Extinguishing fire with ghee)",
+      "காமம் (Love/Passion)",
+      "கௌவை (Scandal/Rumour)"
+    ]
+  },
+  "Negative_Prompt": "fire being extinguished, person using water, calm, text artifacts, cartoonish, blurry."
+}

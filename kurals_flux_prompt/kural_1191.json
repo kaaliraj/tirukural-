@@ -1,0 +1,33 @@
+{
+  "Kural_Info": {
+    "Number": 1191,
+    "Chapter": "தனிப்படர்மிகுதி (The Solitary Anguish)",
+    "Tamil_Text": "தாம்வீழ்வார் தம்வீழப் பெற்றவர் பெற்றாரேகாமத்துக் காழில் கனி.",
+    "English_Meaning": "The bliss to be beloved by those they love who gains, Of love the stoneless, luscious fruit obtains."
+  },
+  "Flux_Optimized_Prompt": {
+    "Layered_Composition": {
+      "Foreground": "A couple is shown in a state of perfect mutual love. They are gazing at each other with equal affection ('Thaam Veezhvaar Tham Veezhap Pettavar').",
+      "Midground": "Between them, or perhaps held jointly in their hands, is the ultimate fruit of love ('Kaamathu Kani'). This fruit is depicted as a beautiful, exotic, glowing piece of fruit that has no hard seed or stone inside ('Kaazhil'), making it perfectly and wholly enjoyable.",
+      "Background": "A utopian, paradise-like garden, an Eden, representing the perfect world created by their mutual love."
+    },
+    "Art_Direction": {
+      "Subject_and_Action": "The supreme happiness of mutual love is compared to obtaining a perfect, stoneless fruit—a sweet reward that has no difficult or bitter part.",
+      "Symbolic_Motifs": "The stoneless, glowing fruit of love is the central metaphor. The equal, adoring gaze of the lovers signifies their mutual affection.",
+      "Mood_and_Emotion": "Blissful, perfect, sweet, harmonious, and fulfilling.",
+      "Lighting_and_Color": "A warm, magical, golden light that emanates from the fruit and envelops the couple. The color palette is rich, lush, and vibrant, like a paradise."
+    },
+    "Technical_Cues": {
+      "Camera": "Medium shot of the couple, focusing on their mutual gaze and the symbolic fruit they share.",
+      "Resolution": "8K, fantasy realism, with a beautiful and imaginative design for the fruit of love.",
+      "Lighting": "Soft, romantic, and magical lighting.",
+      "Art_Genre": "High-fantasy romance, depicting an idealized state of love."
+    },
+    "Cultural_Anchors": [
+      "Mutual love (தம்வீழ்வார் தம்வீழப் பெறுதல்)",
+      "காமத்துக் கனி (The fruit of love)",
+      "The ideal of a perfect, effortless reward"
+    ]
+  },
+  "Negative_Prompt": "one-sided love, a fruit with a large stone, a desolate background, sad expressions, text artifacts, modern clothing."
+}

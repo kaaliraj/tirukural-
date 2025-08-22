@@ -1,0 +1,39 @@
+{
+  "Kural_Info": {
+    "Number": 332,
+    "Chapter": "நிலையாமை (Instability)",
+    "Tamil_Text": "கூத்தாட்டு அவைக்குழாத் தற்றே பெருஞ்செல்வம்போக்கும் அதுவிளிந் தற்று.",
+    "English_Meaning": "The acquisition of wealth is like the gathering together of an assembly for a theatre; its expenditure is like the breaking up of that assembly."
+  },
+  "Flux_Optimized_Prompt": {
+    "Layered_Composition": {
+      "Foreground": "A split-screen or time-lapse composition. On the left, a large, vibrant crowd ('அவைக்குழாம்') is eagerly gathering in an ancient Tamil theatre for a dance performance ('கூத்தாட்டு'). This represents the 'acquisition of great wealth' ('பெருஞ்செல்வம்').",
+      "Midground": "On the right, the performance is over. The same crowd is now dispersing in all directions, leaving the theatre empty and silent. This represents the 'expenditure or departure of wealth' ('போக்கும்').",
+      "Background": "The theatre stage itself represents the individual's life. It is briefly filled with the 'crowd' of wealth, and then just as quickly, it is left empty again."
+    },
+    "Art_Direction": {
+      "Subject_and_Action": "A powerful simile for the transient nature of wealth, comparing its arrival and departure to the gathering and dispersing of a crowd at a theatre.",
+      "Symbolic_Motifs": "The crowd is a single entity representing 'wealth'. The key is the dynamic of gathering and dispersing, showing how quickly and completely wealth can come and go. The joy of the gathering crowd contrasts with the quiet emptiness after they leave.",
+      "Mood_and_Emotion": "Transient, ephemeral, inevitable change, observational.",
+      "Lighting_and_Color": "The 'gathering' scene is filled with the warm, exciting colors and light of a festival. The 'dispersing' scene is in the cool, quiet, blue tones of twilight, emphasizing the end of the event.",
+      "Technical_Cues": {
+        "Camera": "A high-angle, static shot that observes the entire process of the crowd gathering and then leaving, emphasizing the temporary nature of their presence.",
+        "Resolution": "8K, ultra-realistic, with detailed depiction of a large crowd in an ancient theatre setting.",
+        "Lighting": "A clear time-of-day shift from the bright excitement of the gathering to the quiet melancholy of the dispersal.",
+        "Art_Genre": "Historical realism, narrative diptych."
+      },
+      "Cultural_Anchors": [
+        "The theatre crowd (கூத்தாட்டு அவைக்குழாம்)",
+        "Great wealth (பெருஞ்செல்வம்)",
+        "Its departure (போக்கும்)"
+      ]
+    },
+    "Negative_Prompt": "empty theatre on the left, full theatre on the right, static crowd, text artifacts, modern theatre.",
+    "Hyperparameters": {
+      "variant": "dev",
+      "steps": 45,
+      "cfg_scale": 8,
+      "seed": "Explore the costumes and architecture of the ancient Tamil theatre."
+    }
+  }
+}

@@ -1,0 +1,39 @@
+{
+  "Kural_Info": {
+    "Number": 387,
+    "Chapter": "இறைமாட்சி (The Greatness of a King)",
+    "Tamil_Text": "இன்சொலால் ஈத்தளிக்க வல்லார்க்குத் தன்சொலால் தான்கண்டனைத்திவ் வுலகு.",
+    "English_Meaning": "With pleasant speech, who gives and guards with powerful liberal hand, He sees the world obedient all to his command."
+  },
+  "Flux_Optimized_Prompt": {
+    "Layered_Composition": {
+      "Foreground": "A powerful and benevolent king stands on a high vantage point overlooking his kingdom.",
+      "Midground": "With pleasant words (visualized as gentle, glowing ripples of light emanating from him), he gives gifts and offers protection. In response, the entire world (visualized as a miniature, glowing globe) willingly and obediently offers itself into his hand.",
+      "Background": "A vast and loyal world, united and peaceful under his command, stretches to the horizon."
+    },
+    "Art_Direction": {
+      "Subject_and_Action": "A ruler who combines gentle speech ('இன்சொல்') with generous giving and protection ('ஈத்தளித்தல்') will find the entire world obeying his will.",
+      "Symbolic_Motifs": "The glowing ripples represent the power of pleasant speech. The miniature globe in his hand symbolizes the world's willing obedience ('தன்சொலால் தான்கண்டனைத்து').",
+      "Mood_and_Emotion": "Commanding, benevolent, powerful, harmonious, respected.",
+      "Lighting_and_Color": "A majestic, divine light illuminates the king. The world-globe glows with a willing, warm light. The palette is grand and epic, with celestial golds and deep royal blues."
+    },
+    "Technical_Cues": {
+      "Camera": "Epic low-angle shot, making the king appear larger than life, a master of his domain.",
+      "Resolution": "8K, cinematic, with high-quality visual effects for the light ripples and glowing globe.",
+      "Lighting": "Strong, radiant lighting that gives the scene a mythical quality.",
+      "Art_Genre": "High-fantasy art, epic mythological painting."
+    },
+    "Cultural_Anchors": [
+      "Power of 'Insol' (Pleasant Speech)",
+      "Benevolent Giving and Protection ('ஈத்தளித்தல்')",
+      "Willing Obedience of the World"
+    ]
+  },
+  "Negative_Prompt": "angry king, forced obedience, dark world, text artifacts, blurry, weak posture.",
+  "Hyperparameters": {
+    "variant": "pro",
+    "steps": 50,
+    "cfg_scale": 9,
+    "seed": "Explore variations for the visual effect of the pleasant speech."
+  }
+}

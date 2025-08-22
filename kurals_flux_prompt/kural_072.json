@@ -1,0 +1,39 @@
+{
+  "Kural_Info": {
+    "Number": 72,
+    "Chapter": "அன்புடைமை (The Possession of Love)",
+    "Tamil_Text": "அன்பிலார் எல்லாம் தமக்குரியர் அன்புடையார்என்பும் உரியர் பிறர்க்கு.",
+    "English_Meaning": "Those who are destitute of love appropriate all they have to themselves; but those who possess love consider even their bones to belong to others."
+  },
+  "Flux_Optimized_Prompt": {
+    "Layered_Composition": {
+      "Foreground": "A split composition. On the left, a loveless person ('அன்பிலார்') is shown hoarding possessions, clutching them tightly. Their body is slowly turning to cold, hard stone, symbolizing their self-containment.",
+      "Midground": "On the right, a loving person ('அன்புடையார்') is shown freely giving to others. Their physical body is depicted as becoming translucent and ethereal, revealing their glowing bones ('என்பும் உரியர்'), signifying ultimate selflessness.",
+      "Background": "The background for the loveless person is a dark, closed vault. The background for the loving person is an open, sunlit field, with the gifts they give blossoming into flowers."
+    },
+    "Art_Direction": {
+      "Subject_and_Action": "The fundamental difference between the loveless, who claim everything for themselves, and the loving, who would give away even their very bones for the sake of others.",
+      "Symbolic_Motifs": "The transformation into stone represents the death of the spirit in selfishness. The translucent body and glowing bones represent the highest form of charity and the liberation of the spirit.",
+      "Mood_and_Emotion": "Stark contrast, selfishness vs. selflessness, coldness vs. warmth.",
+      "Lighting_and_Color": "The left side is dark, shadowy, and monochromatic. The right side is filled with a warm, radiant, golden light, emanating from the loving person's glowing form.",
+      "Technical_Cues": {
+        "Camera": "Wide shot, using a clear dividing line to emphasize the stark contrast between the two figures.",
+        "Resolution": "8K, ultra-realistic, with strong textural contrast between stone and ethereal light.",
+        "Lighting": "Dualistic lighting scheme: harsh, cold light on the left; soft, warm, internal light on the right.",
+        "Art_Genre": "Allegorical painting, symbolic diptych."
+      },
+      "Cultural_Anchors": [
+        "The loveless (அன்பிலார்)",
+        "The loving (அன்புடையார்)",
+        "Giving even one's bones (என்பும் உரியர் பிறர்க்கு)"
+      ]
+    },
+    "Negative_Prompt": "happy selfish person, sad giving person, ambiguous actions, text artifacts, deformed bones.",
+    "Hyperparameters": {
+      "variant": "pro",
+      "steps": 50,
+      "cfg_scale": 9,
+      "seed": "Explore the visual effect of the translucent body and glowing bones."
+    }
+  }
+}

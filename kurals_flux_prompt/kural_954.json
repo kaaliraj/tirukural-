@@ -1,0 +1,39 @@
+{
+  "Kural_Info": {
+    "Number": 954,
+    "Chapter": "குடிமை (Nobility)",
+    "Tamil_Text": "அடுக்கிய கோடி பெறினும் குடிப்பிறந்தார் குன்றுவ செய்தல் இலர்.",
+    "English_Meaning": "Though blessed with immense wealth, the noble will never do anything unbecoming."
+  },
+  "Flux_Optimized_Prompt": {
+    "Layered_Composition": {
+      "Foreground": "A noble-born person ('குடிப்பிறந்தார்') stands before a choice.",
+      "Midground": "On one side, a mountain of gold, representing a billion coins ('அடுக்கிய கோடி'), is offered to them. However, to get it, they must perform a demeaning or low act ('குன்றுவ'), such as bowing to a vile creature or stepping into mud.",
+      "Background": "The noble person is shown refusing the mountain of gold, choosing to maintain their dignity and honor rather than commit a demeaning act. They stand tall, unwilling to stoop ('குன்றுவ செய்தல் இலர்')."
+    },
+    "Art_Direction": {
+      "Subject_and_Action": "The truly noble-born will not commit a demeaning act, even if it would gain them a billion coins.",
+      "Symbolic_Motifs": "The mountain of gold represents the ultimate material temptation. The demeaning act is the price. The noble person's refusal is the testament to their character.",
+      "Mood_and_Emotion": "Principled, dignified, honorable, incorruptible.",
+      "Lighting_and_Color": "A bright, clear light of integrity shines on the noble person. The mountain of gold has a tempting but ultimately hollow gleam. The demeaning act is associated with darkness or dirt.",
+      "Technical_Cues": {
+        "Camera": "A shot that captures the moment of refusal, focusing on the noble person's proud and unwavering posture.",
+        "Resolution": "8K, with a strong, dignified composition.",
+        "Lighting": "High-contrast lighting to emphasize the moral choice.",
+        "Art_Genre": "Historical realism."
+      },
+      "Cultural_Anchors": [
+        "Even for a billion coins ('அடுக்கிய கோடி பெறினும்')",
+        "The noble-born will not do demeaning acts ('குடிப்பிறந்தார் குன்றுவ செய்தல் இலர்')",
+        "The price of honor."
+      ]
+    },
+    "Negative_Prompt": "noble person taking the gold, happy to be demeaning, text artifacts.",
+    "Hyperparameters": {
+      "variant": "pro",
+      "steps": 50,
+      "cfg_scale": 8,
+      "seed": "Explore variations for the demeaning act."
+    }
+  }
+}

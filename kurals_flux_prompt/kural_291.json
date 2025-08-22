@@ -1,0 +1,38 @@
+{
+  "Kural_Info": {
+    "Number": 291,
+    "Chapter": "வாய்மை (Veracity)",
+    "Tamil_Text": "வாய்மை எனப்படுவது யாதெனின் யாதொன்றும்தீமை இலாத சொலல்.",
+    "English_Meaning": "Truth is the speaking of such words as are free from the least degree of evil (to others)."
+  },
+  "Flux_Optimized_Prompt": {
+    "Layered_Composition": {
+      "Foreground": "A person is speaking. The words ('சொலல்') that emerge from their mouth are visualized as a stream of pure, clean, white light.",
+      "Midground": "This stream of light flows out into the world and interacts with various beings—a person, an animal, a plant. The light touches them gently and causes no harm whatsoever; in fact, it seems to bless them.",
+      "Background": "For contrast, a dark, thorny word representing a harmful lie ('தீமை') is shown off to the side, withering a flower upon contact. This highlights the defining quality of the truthful words: their complete lack of any harmful quality ('தீமை இலாத'). This harmlessness is defined as 'Veracity' ('வாய்மை')."
+    },
+    "Art_Direction": {
+      "Subject_and_Action": "The definition of truthfulness is not about factual accuracy alone, but about the quality of speech that is completely free from any capacity to cause harm to any being.",
+      "Symbolic_Motifs": "Truth as pure, harmless light is the central metaphor. The effect of the words on other beings is the test of their truthfulness. The contrasting image of the harmful word provides the definition by negation.",
+      "Mood_and_Emotion": "Pure, harmless, benevolent, gentle, truthful.",
+      "Lighting_and_Color": "A pure, clean, white light emanates from the truthful words, creating a serene and safe atmosphere. The harmful word is a shard of darkness. The palette is dominated by pure white and gentle, natural colors.",
+      "Technical_Cues": {
+        "Camera": "A shot that follows the path of the truthful words, showing their benevolent and harmless interaction with the world.",
+        "Resolution": "8K, ultra-realistic, with beautiful, soft light effects for the words.",
+        "Lighting": "The words of truth are the primary light source, illuminating the scene with their purity.",
+        "Art_Genre": "Symbolic realism, mystical art."
+      },
+      "Cultural_Anchors": [
+        "Veracity (வாய்மை)",
+        "Speaking words free from evil/harm (தீமை இலாத சொலல்)"
+      ]
+    },
+    "Negative_Prompt": "harmful light, dark words of truth, text artifacts, people being hurt.",
+    "Hyperparameters": {
+      "variant": "pro",
+      "steps": 50,
+      "cfg_scale": 7,
+      "seed": "Explore the visual of 'words as harmless light'."
+    }
+  }
+}

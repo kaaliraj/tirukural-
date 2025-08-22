@@ -1,0 +1,38 @@
+{
+  "Kural_Info": {
+    "Number": 1063,
+    "Chapter": "இரவச்சம் (The Dread of Mendicancy)",
+    "Tamil_Text": "இன்மை இடும்பை இரந்துதீர் வாமென்னும்வன்மையின் வன்பாட்ட தில்.",
+    "English_Meaning": "There is no greater folly than the boldness with which one seeks to remedy the evils of poverty by begging (rather than by working)."
+  },
+  "Flux_Optimized_Prompt": {
+    "Layered_Composition": {
+      "Foreground": "A person is suffering in the grip of poverty ('இன்மை இடும்பை').",
+      "Midground": "Instead of choosing the path of hard work, they choose the path of begging ('இரந்து தீர்வாம்'). This choice is depicted not as a weakness, but as a kind of foolish, hard-headed boldness ('வன்மை'). They are shown arrogantly holding out an empty bowl.",
+      "Background": "This act of choosing to beg instead of work is portrayed as the ultimate act of foolish hardness ('வன்மையின் வன்பாட்டது இல்'). It is visualized as the person deliberately encasing themselves in a shell of solid, unbreakable rock, ensuring they can never escape their plight through their own efforts. There is no greater self-imposed prison."
+    },
+    "Art_Direction": {
+      "Subject_and_Action": "The mindset that decides to solve poverty through begging is the hardest, most foolish and self-defeating form of stubbornness that exists.",
+      "Symbolic_Motifs": "The key is to portray the choice to beg not as a sign of weakness, but as a misguided form of 'strength' or 'boldness'. The self-imprisonment in rock shows that this choice, born of folly, is the very thing that prevents any real escape from poverty.",
+      "Mood_and_Emotion": "Foolish, stubborn, self-defeating, trapped.",
+      "Lighting_and_Color": "A harsh, bleak light illuminates the scene. The rock of folly is a dark, oppressive grey. The mood is one of static, self-inflicted misery.",
+      "Technical_Cues": {
+        "Camera": "A claustrophobic shot that emphasizes the person's self-imprisonment within the rock of their own foolish decision.",
+        "Resolution": "8K, ultra-realistic, with a strong focus on the texture of the rock and the foolishly bold expression of the beggar.",
+        "Lighting": "Stark, high-contrast lighting to create a prison-like atmosphere.",
+        "Art_Genre": "Symbolic realism."
+      },
+      "Cultural_Anchors": [
+        "The misery of poverty (இன்மை இடும்பை)",
+        "The hardness/folly of thinking 'we'll solve it by begging' (இரந்து தீர்வாம் என்னும் வன்மை)"
+      ]
+    },
+    "Negative_Prompt": "successful beggar, person working hard, text artifacts.",
+    "Hyperparameters": {
+      "variant": "dev",
+      "steps": 45,
+      "cfg_scale": 9,
+      "seed": "Explore the visual of the 'rock of folly'."
+    }
+  }
+}

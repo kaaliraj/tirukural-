@@ -1,0 +1,40 @@
+{
+  "Kural_Info": {
+    "Number": 290,
+    "Chapter": "கள்ளாமை (The Absence of Fraud)",
+    "Tamil_Text": "கள்வார்க்குத் தள்ளும் உயிர்நிலை கள்வார்க்குத்தள்ளாது புத்தே ளுளகு.",
+    "English_Meaning": "Even their body will fail the fraudulent; but even the world of the gods will not fail those who are free from fraud."
+  },
+  "Flux_Optimized_Prompt": {
+    "Layered_Composition": {
+      "Foreground": "A split composition. On the left, a fraudulent person ('கள்வார்க்கு') is shown. Their own physical body ('உயிர்நிலை') is failing them, depicted as their form becoming transparent, weak, and fading away ('தள்ளும்').",
+      "Midground": "On the right, a person free from fraud ('கள்ளார்க்கு') is shown. They stand strong and solid. The entire world of the gods ('புத்தேள் உலகு'), represented by a beautiful, celestial city in the heavens, is shown to be a solid, reliable, and supportive foundation beneath their feet ('தள்ளாது').",
+      "Background": "The fraudulent person stands on a crumbling, disappearing path. The honest person stands on a solid path of celestial light that extends down from the divine world to support them."
+    },
+    "Art_Direction": {
+      "Subject_and_Action": "The ultimate contrast of fates: the fraudulent will be failed even by their own bodies, while the honest will find unwavering support from the very world of the gods.",
+      "Symbolic_Motifs": "The failing body of the thief contrasts with the solid, supportive celestial city for the honest. The world of the gods is not just a future destination but an active, present support for the virtuous.",
+      "Mood_and_Emotion": "Contrasting fates, ultimate ruin vs. ultimate support, divine justice.",
+      "Lighting_and_Color": "The left side is dark, fading, and desaturated. The right side is bathed in the brilliant, unwavering, golden light of the celestial world.",
+      "Technical_Cues": {
+        "Camera": "A wide, epic, comparative shot that clearly displays the two opposing destinies.",
+        "Resolution": "8K, ultra-realistic, with ethereal effects for the failing body and the celestial city.",
+        "Lighting": "Strong dualistic lighting: fading darkness vs. constant divine light.",
+        "Art_Genre": "Epic fantasy art, mythological painting."
+      },
+      "Cultural_Anchors": [
+        "The fraudulent (கள்வர்)",
+        "The non-fraudulent (கள்ளார்)",
+        "The failing body (உயிர்நிலை தள்ளும்)",
+        "The unfailing world of the gods (தள்ளாது புத்தேள் உலகு)"
+      ]
+    },
+    "Negative_Prompt": "healthy thief, unsupported honest person, text artifacts, dark heaven.",
+    "Hyperparameters": {
+      "variant": "pro",
+      "steps": 55,
+      "cfg_scale": 8,
+      "seed": "Explore the design of the supportive 'celestial city'."
+    }
+  }
+}

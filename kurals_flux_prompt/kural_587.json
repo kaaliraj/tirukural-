@@ -1,0 +1,39 @@
+{
+  "Kural_Info": {
+    "Number": 587,
+    "Chapter": "ஒற்றாடல் (Detectives)",
+    "Tamil_Text": "மறைந்தவை கேட்கவற் றாகி அறிந்தவை ஐயப்பாடு இல்லதே ஒற்று.",
+    "English_Meaning": "A spy is one who is able to discover what is hidden and who retains no doubt concerning what he has known."
+  },
+  "Flux_Optimized_Prompt": {
+    "Layered_Composition": {
+      "Foreground": "A spy is shown in a shadowy room, listening to a secret conversation happening behind a wall. They are able to hear what is hidden ('மறைந்தவை கேட்கவற்று').",
+      "Midground": "The information they hear is visualized as a complex, tangled knot of threads.",
+      "Background": "The spy's mind is then shown to be a loom of pure light. As the tangled knot of information enters their mind, it is instantly and perfectly woven into a clear, simple, and undeniable tapestry of truth. There are no loose threads or confusing parts, symbolizing the complete absence of doubt ('ஐயப்பாடு இல்லதே')."
+    },
+    "Art_Direction": {
+      "Subject_and_Action": "A true spy has two abilities: to uncover hidden secrets, and to process that information into a state of absolute, doubtless certainty.",
+      "Symbolic_Motifs": "The ability to hear through walls represents uncovering secrets. The mind as a loom that turns tangled knots into a clear tapestry is a metaphor for processing information into doubtless certainty.",
+      "Mood_and_Emotion": "Certain, clear, insightful, analytical, definitive.",
+      "Lighting_and_Color": "The scene is dark and secretive, but the loom of the spy's mind glows with a brilliant, white light of clarity, which illuminates the final, perfect tapestry.",
+      "Technical_Cues": {
+        "Camera": "A shot that follows the information from its tangled source to its final, clear form within the spy's mind.",
+        "Resolution": "8K, with surreal and abstract effects for the information processing.",
+        "Lighting": "The main light source is the spy's own intellect.",
+        "Art_Genre": "Symbolic surrealism, with a noir aesthetic."
+      }
+    },
+    "Cultural_Anchors": [
+      "Hearing what is hidden ('மறைந்தவை கேட்கவற்று')",
+      "Absence of doubt in what is known ('அறிந்தவை ஐயப்பாடு இல்லதே')",
+      "The process of intelligence analysis."
+    ]
+  },
+  "Negative_Prompt": "spy looking confused, a tangled tapestry, text artifacts, cartoonish.",
+  "Hyperparameters": {
+    "variant": "dev",
+    "steps": 45,
+    "cfg_scale": 8,
+    "seed": "Explore variations for the mind-loom."
+  }
+}

@@ -1,0 +1,39 @@
+{
+  "Kural_Info": {
+    "Number": 541,
+    "Chapter": "செங்கோன்மை (The Right Sceptre)",
+    "Tamil_Text": "ஓர்ந்துகண் ணோடாது இறைபுரிந்து யார்மாட்டும் தேர்ந்துசெய் வஃதே முறை.",
+    "English_Meaning": "To examine into (the crimes which may be committed), to show no favour (to any one), to desire to act with impartiality towards all, and to inflict (such punishments) as may be wisely resolved on, constitute rectitude."
+  },
+  "Flux_Optimized_Prompt": {
+    "Layered_Composition": {
+      "Foreground": "A wise ruler sits in judgment. Their eyes are blindfolded with a cloth of pure white, symbolizing impartiality and the refusal to show favor based on sight ('கண்ணோடாது').",
+      "Midground": "Before the ruler are two individuals, a rich noble and a poor commoner. The ruler is using a perfectly balanced scale ('தேர்ந்து செய்வது') to weigh the evidence, which is represented by simple, identical blocks for both parties.",
+      "Background": "The throne room is depicted as a place of ultimate justice ('முறை'), where status and appearance have no bearing on the outcome. The architecture is symmetrical and balanced."
+    },
+    "Art_Direction": {
+      "Subject_and_Action": "True justice involves impartial investigation, showing no favor, applying the same standard to all, and delivering a well-considered verdict.",
+      "Symbolic_Motifs": "The blindfold represents impartiality ('கண்ணோடாது'). The balanced scales represent fair examination ('தேர்ந்து செய்வது'). The equal treatment of the rich and poor figures demonstrates justice for all ('யார்மாட்டும்').",
+      "Mood_and_Emotion": "Just, impartial, fair, righteous, balanced.",
+      "Lighting_and_Color": "A clear, bright, and even light fills the scene, symbolizing the clarity of justice. The color palette is composed of whites, golds, and stone greys, emphasizing solemnity and fairness."
+    },
+    "Technical_Cues": {
+      "Camera": "A centered, symmetrical shot that emphasizes the balance and impartiality of the scene.",
+      "Resolution": "8K, with the rich texture of a classical painting.",
+      "Lighting": "High-key, even lighting to avoid dramatic shadows and suggest transparency.",
+      "Art_Genre": "Classical allegory, historical realism."
+    },
+    "Cultural_Anchors": [
+      "Impartial Justice ('கண்ணோடாது')",
+      "Fair Examination ('தேர்ந்து செய்வது')",
+      "The essence of Rectitude ('முறை')"
+    ]
+  },
+  "Negative_Prompt": "ruler peeking from under the blindfold, unbalanced scales, text artifacts, cartoonish.",
+  "Hyperparameters": {
+    "variant": "pro",
+    "steps": 50,
+    "cfg_scale": 8,
+    "seed": "Explore variations for the design of the throne room."
+  }
+}

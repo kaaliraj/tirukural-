@@ -1,0 +1,39 @@
+{
+  "Kural_Info": {
+    "Number": 439,
+    "Chapter": "குற்றங்கடிதல் (The Correction of Faults)",
+    "Tamil_Text": "வியவற்க எஞ்ஞான்றும் தன்னை நயவற்க நன்றி பயவா வினை.",
+    "English_Meaning": "Never indulge in self-admiration, nor desire to do profitless deeds."
+  },
+  "Flux_Optimized_Prompt": {
+    "Layered_Composition": {
+      "Foreground": "A figure stands between two temptations. On one side is a mirror that shows a grotesquely flattering, god-like reflection, representing self-admiration ('வியவற்க தன்னை'). The figure is actively turning away from it.",
+      "Midground": "On the other side is a path leading to a grand but ultimately useless and barren monument, representing fruitless action ('நன்றி பயவா வினை'). The figure is also turning away from this path.",
+      "Background": "The figure is instead choosing a third, simpler path that leads towards a humble but fruitful garden, representing modest, beneficial action."
+    },
+    "Art_Direction": {
+      "Subject_and_Action": "A depiction of the twofold advice: do not admire yourself, and do not desire actions that yield no good.",
+      "Symbolic_Motifs": "The flattering mirror symbolizes self-conceit. The barren monument represents useless, glory-seeking acts. The simple, fruitful garden represents humble, beneficial work.",
+      "Mood_and_Emotion": "Wise, self-aware, humble, discerning, purposeful.",
+      "Lighting_and_Color": "The mirror and the barren monument are lit with a harsh, artificial light. The path to the fruitful garden is bathed in warm, natural sunlight.",
+      "Technical_Cues": {
+        "Camera": "A shot from behind the figure, emphasizing the choice being made between the three paths/options.",
+        "Resolution": "8K, ultra-realistic, with a clear contrast between the three visual elements.",
+        "Lighting": "Contrasting lighting to differentiate between the false paths and the true one.",
+        "Art_Genre": "Allegorical realism."
+      }
+    },
+    "Cultural_Anchors": [
+      "Avoiding self-admiration ('வியவற்க')",
+      "Avoiding fruitless actions ('நன்றி பயவா வினை')",
+      "The wisdom of humility and purpose."
+    ]
+  },
+  "Negative_Prompt": "figure looking in the mirror, walking towards the monument, dark garden, text artifacts.",
+  "Hyperparameters": {
+    "variant": "dev",
+    "steps": 40,
+    "cfg_scale": 8,
+    "seed": "Explore variations for the design of the barren monument."
+  }
+}

@@ -1,0 +1,38 @@
+{
+  "Kural_Info": {
+    "Number": 662,
+    "Chapter": "வினைத்திட்பம் (Power in Action)",
+    "Tamil_Text": "ஊறொரால் உற்றபின் ஒல்காமை இவ்விரண்டின்ஆறென்பர் ஆய்ந்தவர் கோள்.",
+    "English_Meaning": "Not to perform a ruinous act, and not to be discouraged by the ruinous termination of an act, are the two maxims which, the wise say, form the principles of those who have investigated the subject."
+  },
+  "Flux_Optimized_Prompt": {
+    "Layered_Composition": {
+      "Foreground": "A split composition illustrating the two core principles of wise action.",
+      "Midground": "On the left, a person is shown at a crossroads. They see that one path leads to certain ruin ('ஊறு'). With firm resolve, they avoid it entirely ('ஓரால்').",
+      "Background": "On the right, another person has undertaken a task, and it has ended in failure ('உற்றபின்'). Despite the setback (a collapsed bridge they were building), they are not discouraged ('ஒல்காமை'). Instead, they are shown calmly picking up the first stone to begin rebuilding, their spirit unbroken."
+    },
+    "Art_Direction": {
+      "Subject_and_Action": "The two great principles of powerful action are defined: first, the wisdom to avoid a disastrous undertaking from the start, and second, the resilience to not be discouraged by failure if it occurs.",
+      "Symbolic_Motifs": "The avoidance of the ruinous path is an act of foresight. The resilience after failure is an act of indomitable will. Both are presented as equal pillars of a wise person's code ('ஆய்ந்தவர் கோள்').",
+      "Mood_and_Emotion": "Prudent, resilient, unwavering, wise, determined.",
+      "Lighting_and_Color": "The left scene (avoidance) is lit with the clear light of foresight. The right scene (resilience) is set amidst the grey rubble of failure, but the figure is illuminated by a warm, golden light of their own inner resolve.",
+      "Technical_Cues": {
+        "Camera": "A balanced diptych shot, presenting the two principles as complementary aspects of a single, powerful philosophy of action.",
+        "Resolution": "8K, ultra-realistic, capturing the details of the ruinous path and the collapsed bridge.",
+        "Lighting": "Symbolic lighting that highlights the wisdom of avoidance and the inner strength of resilience.",
+        "Art_Genre": "Allegorical painting, narrative realism."
+      },
+      "Cultural_Anchors": [
+        "Avoiding ruin (ஊறு ஓரால்)",
+        "Not being discouraged after it happens (உற்றபின் ஒல்காமை)"
+      ]
+    },
+    "Negative_Prompt": "person choosing the ruinous path, person crying in despair, text artifacts.",
+    "Hyperparameters": {
+      "variant": "dev",
+      "steps": 45,
+      "cfg_scale": 8,
+      "seed": "Explore the visual of the person's undiscouraged expression amidst the rubble."
+    }
+  }
+}

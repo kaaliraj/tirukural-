@@ -1,0 +1,33 @@
+{
+  "Kural_Info": {
+    "Number": 1280,
+    "Chapter": "குறிப்பறிவுறுத்தல் (The Reading of the Signs)",
+    "Tamil_Text": "பெண்ணினால் பெண்மை உடைத்தென்ப கண்ணினால்காமநோய் சொல்லி இரவு.",
+    "English_Meaning": "To show by eye the pain of love, and for relief to pray, Is womanhood's most womanly device, men say."
+  },
+  "Flux_Optimized_Prompt": {
+    "Layered_Composition": {
+      "Foreground": "A close-up on a woman's eyes. The eyes are masterfully conveying two distinct messages at once.",
+      "Midground": "One layer of expression in her eyes clearly communicates her deep suffering from lovesickness ('Kaamanoi Solli'). The second layer is a subtle, unspoken plea for his presence and affection as a cure ('Iravu').",
+      "Background": "This act of communicating such complex emotions solely through her eyes is depicted as the pinnacle of her feminine grace and power ('Penninaal Penmai Udaithu'). A soft, admiring light surrounds her."
+    },
+    "Art_Direction": {
+      "Subject_and_Action": "The ultimate expression of femininity is the ability to communicate both the pain of love and the plea for its cure simultaneously and wordlessly, through the eyes alone.",
+      "Symbolic_Motifs": "The layered expression in her eyes is the central focus. It is not just sadness, but sadness and a request combined.",
+      "Mood_and_Emotion": "Subtle, powerful, expressive, the peak of feminine grace.",
+      "Lighting_and_Color": "A soft, beautiful, portrait light that focuses entirely on her eyes and face. The lighting should feel almost divine, elevating her expression to an art form."
+    },
+    "Technical_Cues": {
+      "Camera": "An extreme close-up on the eyes, a true 'portrait of the soul' shot.",
+      "Resolution": "8K, hyper-realistic, capable of capturing the most subtle and complex micro-expressions.",
+      "Lighting": "Classic portrait lighting (like a Vermeer painting) that sculpts the face and makes the eyes the undeniable focal point.",
+      "Art_Genre": "Hyper-realistic portraiture."
+    },
+    "Cultural_Anchors": [
+      "பெண்மை (Femininity/Womanhood)",
+      "The expressive power of the eyes in love",
+      "சொல்லாமல் சொல்லுதல் (Saying without saying)"
+    ]
+  },
+  "Negative_Prompt": "a man's eyes, a vacant expression, verbal communication, text artifacts, modern makeup, cartoonish."
+}

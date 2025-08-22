@@ -1,0 +1,39 @@
+{
+  "Kural_Info": {
+    "Number": 923,
+    "Chapter": "கள்ளுண்ணாமை (Not Drinking Palm-Wine)",
+    "Tamil_Text": "ஈன்றாள் முகத்தேயும் இன்னாதால் என்மற்றுச் சான்றோர் முகத்துக் களி.",
+    "English_Meaning": "The drunkard's joy is sorrow to his mother's eyes; What must it be in presence of the truly wise?."
+  },
+  "Flux_Optimized_Prompt": {
+    "Layered_Composition": {
+      "Foreground": "A drunkard is shown in a state of foolish, giddy joy ('களி').",
+      "Midground": "His own mother ('ஈன்றாள்') is looking at him, and her face is a mask of deep pain and sorrow ('இன்னாது'). Her heart is breaking at the sight of her son's degradation.",
+      "Background": "In the background, a group of wise sages ('சான்றோர்') are also witnessing this scene. Their faces show an even greater level of disapproval and intellectual pain, as they understand the full depth of the folly and waste. The image poses the question: if it pains his mother this much, how much more must it pain the wise?"
+    },
+    "Art_Direction": {
+      "Subject_and_Action": "If the joy of a drunkard brings pain even to his own mother's face, how much more painful must it be to the face of the wise?",
+      "Symbolic_Motifs": "The contrast between the drunkard's foolish joy and his mother's deep sorrow is the emotional core. The greater, more profound disapproval of the wise in the background elevates the critique from a personal tragedy to a philosophical one.",
+      "Mood_and_Emotion": "Tragic, shameful, a contrast of emotions.",
+      "Lighting_and_Color": "The drunkard is lit with a chaotic, unstable light. A single, sad, soft light illuminates the mother's pained face. The wise are in a clear, judgmental light.",
+      "Technical_Cues": {
+        "Camera": "A deep focus shot that keeps the drunkard, his mother, and the wise men in the background all in clear view, allowing the viewer to compare their reactions.",
+        "Resolution": "8K, with a strong focus on emotional expressions.",
+        "Lighting": "Multi-point lighting to create the different emotional zones.",
+        "Art_Genre": "Dramatic realism."
+      },
+      "Cultural_Anchors": [
+        "Painful to the mother's face ('ஈன்றாள் முகத்தேயும் இன்னாது')",
+        "How much more so to the face of the wise ('சான்றோர் முகத்து')",
+        "The shame of drunkenness."
+      ]
+    },
+    "Negative_Prompt": "a happy mother, approving wise men, text artifacts.",
+    "Hyperparameters": {
+      "variant": "pro",
+      "steps": 50,
+      "cfg_scale": 8,
+      "seed": "Explore variations for the mother's expression of sorrow."
+    }
+  }
+}

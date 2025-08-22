@@ -1,0 +1,38 @@
+{
+  "Kural_Info": {
+    "Number": 226,
+    "Chapter": "ஈகை (Giving)",
+    "Tamil_Text": "அற்றார் அழிபசி தீர்த்தல் அஃதொருவன்பெற்றான் பொருள்வைப் புழி.",
+    "English_Meaning": "The removal of the killing hunger of the poor is the place for one to lay up his wealth."
+  },
+  "Flux_Optimized_Prompt": {
+    "Layered_Composition": {
+      "Foreground": "A wealthy person is shown with a large amount of treasure ('பெற்றான் பொருள்'). They are looking for a safe place to store it.",
+      "Midground": "They are presented with two options. One is a strong, locked, but ultimately dead and sterile treasure vault. The other is the open, empty hands of the desperately hungry poor ('அற்றார் அழி பசி').",
+      "Background": "The wise person makes the correct choice. They place their wealth into the hands of the poor. This act of charity ('தீர்த்தல்') is revealed to be the ultimate, most secure treasure house ('வைப் புழி'). As they place the gold in the hands of the poor, a divine, unbreakable vault of light forms around the act, showing it is the safest possible investment."
+    },
+    "Art_Direction": {
+      "Subject_and_Action": "The best and most secure place to store one's wealth is in the act of appeasing the desperate hunger of the poor.",
+      "Symbolic_Motifs": "The contrast between the dead, physical vault and the living, divine vault of charity is the key. The 'killing hunger' of the poor is shown as a desperate, consuming need. The act of giving is an act of 'storing' for the future, not of losing.",
+      "Mood_and_Emotion": "Wise investment, true security, compassionate.",
+      "Lighting_and_Color": "The physical vault is dark and cold. The act of charity creates a brilliant, warm, golden light that forms the divine vault. This light represents the spiritual interest that accrues from such an investment.",
+      "Technical_Cues": {
+        "Camera": "A shot that shows the wealthy person choosing the hands of the poor over the physical vault, and the subsequent magical formation of the divine treasury.",
+        "Resolution": "8K, ultra-realistic, with ethereal effects for the 'vault of light'.",
+        "Lighting": "The act of charity is the primary, radiant light source.",
+        "Art_Genre": "Magical realism, with a strong moral message."
+      },
+      "Cultural_Anchors": [
+        "Appeasing the killing hunger of the destitute (அற்றார் அழிபசி தீர்த்தல்)",
+        "Is the place one stores one's wealth (பொருள் வைப்புழி)"
+      ]
+    },
+    "Negative_Prompt": "person choosing the physical vault, unhappy poor people, text artifacts.",
+    "Hyperparameters": {
+      "variant": "pro",
+      "steps": 50,
+      "cfg_scale": 8,
+      "seed": "Explore the design of the 'divine vault of light'."
+    }
+  }
+}

@@ -1,0 +1,39 @@
+{
+  "Kural_Info": {
+    "Number": 57,
+    "Chapter": "வாழ்க்கைத் துணைநலம் (The Worth of a Wife)",
+    "Tamil_Text": "சிறைகாக்கும் காப்பெவன் செய்யும் மகளிர்நிறைகாக்கும் காப்பே தலை.",
+    "English_Meaning": "What avails the guard of a prison? The chief guard of a woman is her chastity."
+  },
+  "Flux_Optimized_Prompt": {
+    "Layered_Composition": {
+      "Foreground": "A woman stands serene and free in an open, sunlit field. She is protected by her own powerful, internal aura of chastity ('நிறை'), which manifests as a beautiful but unbreakable dome of light around her.",
+      "Midground": "In the distance, another woman is shown locked inside a formidable, dark, physical prison ('சிறை'). However, the bars of this prison are shown to be weak and easily broken from the outside, symbolizing the ineffectiveness of external guards.",
+      "Background": "A bright, open sky for the virtuous woman, suggesting freedom. A dark, oppressive sky hangs over the physical prison, suggesting confinement is not a true protection."
+    },
+    "Art_Direction": {
+      "Subject_and_Action": "The superiority of a woman's own inner virtue (chastity) as her ultimate protection, compared to the complete futility of any external prison or guard.",
+      "Symbolic_Motifs": "The 'guard of chastity' ('நிறைகாக்கும் காப்பு') is a beautiful, self-generated field of light, not a confining wall. The physical prison ('சிறை காக்கும் காப்பு') is dark, oppressive, and ultimately ineffective. The contrast is between inner strength and external force.",
+      "Mood_and_Emotion": "Freedom in virtue vs. confinement in weakness; powerful, self-possessed, secure.",
+      "Lighting_and_Color": "The virtuous woman is bathed in her own radiant light. The prison scene is dark, shadowy, and claustrophobic. The color palette contrasts vibrant, open freedom with dark, oppressive confinement.",
+      "Technical_Cues": {
+        "Camera": "Wide shot that captures both scenes, using composition to place the free, virtuous woman in the dominant, foreground position.",
+        "Resolution": "8K, ultra-realistic, with a strong contrast in textures between the natural landscape and the cold stone of the prison.",
+        "Lighting": "Symbolic lighting: radiant, inner light versus dark, external shadow.",
+        "Art_Genre": "Allegorical painting, symbolic realism."
+      },
+      "Cultural_Anchors": [
+        "Nirai (நிறை) - Chastity/Self-control as the true guard",
+        "Sirai (சிறை) - Prison/External confinement as a useless guard",
+        "The concept of inner virtue being the only real protection."
+      ]
+    },
+    "Negative_Prompt": "woman trying to escape the light dome, happy woman in prison, text artifacts, cartoonish prison bars.",
+    "Hyperparameters": {
+      "variant": "dev",
+      "steps": 40,
+      "cfg_scale": 8,
+      "seed": "Explore the visual design of the 'dome of light'."
+    }
+  }
+}

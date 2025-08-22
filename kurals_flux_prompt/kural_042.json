@@ -1,0 +1,40 @@
+{
+  "Kural_Info": {
+    "Number": 42,
+    "Chapter": "இல்வாழ்க்கை (Domestic Life)",
+    "Tamil_Text": "துறந்தார்க்கும் துவ்வாதவர்க்கும் இறந்தார்க்கும்இல்வாழ்வான் என்பான் துணை.",
+    "English_Meaning": "He will be said to flourish in domestic virtue who aids the forsaken, the poor, and the dead."
+  },
+  "Flux_Optimized_Prompt": {
+    "Layered_Composition": {
+      "Foreground": "A compassionate householder stands as a central figure, his arms extended in a gesture of giving and support.",
+      "Midground": "Three streams of golden, helping energy flow from the householder. One stream goes to an ascetic ('துறந்தார்'), offering respectful sustenance. The second flows to the poor and needy ('துவ்வாதவர்'), providing food and clothing. The third flows towards an ancestral memorial stone ('இறந்தார்'), representing the performance of duties to the departed.",
+      "Background": "The householder's home is modest but glows with a bright, welcoming light, indicating that its true wealth is its virtue and support for all."
+    },
+    "Art_Direction": {
+      "Subject_and_Action": "The householder as the universal support system for all, including the spiritual (ascetics), the material (the poor), and the ancestral (the dead).",
+      "Symbolic_Motifs": "The helping energy is visualized as tangible streams of light, showing that this support is the householder's core function. The recipients of the aid are shown with expressions of gratitude and relief.",
+      "Mood_and_Emotion": "Compassionate, dutiful, supportive, sacred duty.",
+      "Lighting_and_Color": "A warm, golden light emanates from the householder and their home, pushing back the shadows of poverty, neglect, and sorrow. The palette is warm and humane.",
+      "Technical_Cues": {
+        "Camera": "Eye-level medium shot, creating a personal and powerful image of the householder as a nexus of support.",
+        "Resolution": "8K, ultra-realistic, with painterly effects for the symbolic streams of energy.",
+        "Lighting": "The householder is the primary light source, illuminating those they help.",
+        "Art_Genre": "Symbolic realism, with elements of mural painting."
+      },
+      "Cultural_Anchors": [
+        "Support for the Renounced (துறந்தார்)",
+        "Aid to the Poor (துவ்வாதவர்)",
+        "Duties to the Dead (இறந்தார்)",
+        "The householder as universal 'Thunai' (துணை - support)"
+      ]
+    },
+    "Negative_Prompt": "selfish householder, suffering figures ignored, dark house, text artifacts, deformed limbs.",
+    "Hyperparameters": {
+      "variant": "dev",
+      "steps": 45,
+      "cfg_scale": 8,
+      "seed": "Explore how to visually represent the support for the 'dead'."
+    }
+  }
+}

@@ -1,0 +1,39 @@
+{
+  "Kural_Info": {
+    "Number": 843,
+    "Chapter": "புல்லறிவாண்மை (Ignorance)",
+    "Tamil_Text": "அறிவிலார் தாந்தம்மைப் பீழிக்கும் பீழை செறுவார்க்கும் செய்தல் அரிது.",
+    "English_Meaning": "The suffering that fools inflict upon themselves is hardly possible even to foes."
+  },
+  "Flux_Optimized_Prompt": {
+    "Layered_Composition": {
+      "Foreground": "A foolish person ('அறிவிலார்') is shown happily and energetically building a complex, inescapable iron cage of suffering around themselves. They are their own tormentor ('தாந்தம்மைப் பீழிக்கும்').",
+      "Midground": "In the background, the person's worst enemies ('செறுவார்') are watching. They are holding tools of torment, but they have put them down.",
+      "Background": "The enemies' expressions are not of anger, but of sheer astonishment and awe. They are amazed because the fool is inflicting a level of suffering upon themselves that is far greater and more intricate than anything the enemies could have possibly devised ('செய்தல் அரிது')."
+    },
+    "Art_Direction": {
+      "Subject_and_Action": "The amount of suffering a fool brings upon themself is greater than anything even their worst enemy could inflict.",
+      "Symbolic_Motifs": "The fool actively building their own cage of suffering is the central metaphor. The astonished expressions of the enemies are crucial, as they serve as the yardstick for the fool's self-destructive capacity.",
+      "Mood_and_Emotion": "Ironic, self-destructive, awesome in its folly.",
+      "Lighting_and_Color": "A harsh, self-inflicted, industrial light from the fool's own work. The enemies are in the shadows, their faces lit by the glow of the fool's self-destruction.",
+      "Technical_Cues": {
+        "Camera": "A wide shot that includes the self-tormenting fool in the foreground and the astonished enemies in the background.",
+        "Resolution": "8K, with a dark, gritty, and ironic tone.",
+        "Lighting": "High-contrast, dramatic lighting.",
+        "Art_Genre": "Dark surrealism."
+      },
+      "Cultural_Anchors": [
+        "Fools tormenting themselves ('அறிவிலார் தாந்தம்மைப் பீழிக்கும்')",
+        "A suffering greater than enemies can inflict.",
+        "The immense capacity for self-harm in folly."
+      ]
+    },
+    "Negative_Prompt": "enemies torturing the fool, a weak cage, text artifacts, cartoonish.",
+    "Hyperparameters": {
+      "variant": "pro",
+      "steps": 50,
+      "cfg_scale": 9,
+      "seed": "Explore variations for the enemies' expressions of awe."
+    }
+  }
+}

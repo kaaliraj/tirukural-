@@ -1,0 +1,39 @@
+{
+  "Kural_Info": {
+    "Number": 1297,
+    "Chapter": "நெஞ்சொடுபுலத்தல் (Expostulation with Oneself)",
+    "Tamil_Text": "நாணும் மறந்தேன் அவர்மறக் கல்லாஎன்மாணா மடநெஞ்சிற் பட்டு.",
+    "English_Meaning": "Fall'n 'neath the sway of this ignoble foolish heart, Which will not him forget, I have forgotten shame."
+  },
+  "Flux_Optimized_Prompt": {
+    "Layered_Composition": {
+      "Foreground": "A woman is shown. A beautiful, shimmering cloak of Modesty ('நாண்') is slipping from her shoulders and falling to the ground. She has forgotten it ('மறந்தேன்').",
+      "Midground": "The reason for this is her heart ('என் நெஞ்சு'). It is depicted as a foolish, stubborn, and ignoble entity ('மாணா மட நெஞ்சு') that has taken control of her.",
+      "Background": "The foolish heart is completely obsessed with a single, glowing image of her absent lover, which it refuses to forget ('அவர் மறக்கல்லா'). Its obsession is so total that it has forcefully pushed aside her sense of shame in its single-minded pursuit."
+    },
+    "Art_Direction": {
+      "Subject_and_Action": "The woman laments that she has forgotten her own sense of shame, having fallen under the power of her foolish heart, which refuses to forget her lover.",
+      "Symbolic_Motifs": "The cloak of Modesty slipping away is a clear symbol of her loss of control. The heart as a foolish, obsessive ruler who has deposed her reason and shame is the central personification. The image of the lover is the object of its obsession.",
+      "Mood_and_Emotion": "Obsessed, foolish, shameless, loss of control.",
+      "Lighting_and_Color": "A chaotic, emotional light. The cloak of shame is a beautiful but fading silver. The foolish heart glows with a stubborn, obsessive, reddish light, focused on the golden image of the lover.",
+      "Technical_Cues": {
+        "Camera": "A symbolic shot showing the foolish heart on a 'throne' within the woman, casting off the cloak of shame, while staring at the lover's image.",
+        "Resolution": "8K, ultra-realistic, with a focus on the conflicting emotions.",
+        "Lighting": "The obsessive light from the heart overpowers the gentle light of modesty.",
+        "Art_Genre": "Psychological surrealism."
+      },
+      "Cultural_Anchors": [
+        "I forgot my shame (நாணும் மறந்தேன்)",
+        "Because of my ignoble, foolish heart (என் மாணா மடநெஞ்சிற் பட்டு)",
+        "Which cannot forget him (அவர் மறக்கல்லா)"
+      ]
+    },
+    "Negative_Prompt": "modest woman, wise heart, text artifacts.",
+    "Hyperparameters": {
+      "variant": "dev",
+      "steps": 45,
+      "cfg_scale": 8,
+      "seed": "Explore the depiction of the 'foolish, obsessive heart'."
+    }
+  }
+}

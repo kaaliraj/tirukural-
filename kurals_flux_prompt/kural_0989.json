@@ -1,0 +1,33 @@
+{
+  "Kural_Info": {
+    "Number": 989,
+    "Chapter": "சான்றாண்மை (Perfectness)",
+    "Tamil_Text": "ஊழி பெயரினும் தாம்பெயரார் சான்றாண்மைக்குஆழி எனப்படு வார்.",
+    "English_Meaning": "Call them of perfect virtue's sea the shore, Who, though the fates should fail, fail not for evermore."
+  },
+  "Flux_Optimized_Prompt": {
+    "Layered_Composition": {
+      "Foreground": "A perfected individual ('Saandror') stands firm and unmoving, like a mighty lighthouse or a rocky shore ('Aazhi').",
+      "Midground": "Around them, a cataclysmic, world-changing event ('Oozhi Peyarinum') is taking place—a great flood, a cosmic shift, or the crumbling of mountains. The world is in flux and chaos.",
+      "Background": "Despite the chaos swirling around them, the perfected person remains a beacon of stability, their feet firmly planted, their expression serene and unchanged."
+    },
+    "Art_Direction": {
+      "Subject_and_Action": "A person whose perfect goodness is so absolute that they are like the seashore to the ocean of virtue—unmoving and steadfast even if the entire world order (fates) changes around them.",
+      "Symbolic_Motifs": "The person as an unshakeable shoreline or lighthouse is the central metaphor. The chaotic, changing world around them emphasizes their steadfastness ('Thaam Peyaraar').",
+      "Mood_and_Emotion": "Unshakeable, steadfast, serene amidst chaos, eternally reliable.",
+      "Lighting_and_Color": "The central figure is lit by a calm, internal light. The background is a swirl of chaotic, dramatic colors and stormy lighting, creating a stark visual contrast that highlights their stability."
+    },
+    "Technical_Cues": {
+      "Camera": "Epic wide shot, emphasizing the scale of the cataclysm and the solitary, unmoving strength of the central figure.",
+      "Resolution": "8K, digital matte painting, with incredible detail in the chaotic environmental effects.",
+      "Lighting": "High-contrast dynamic lighting for the environment, but a constant, serene light on the figure.",
+      "Art_Genre": "Epic fantasy realism, with a strong symbolic core."
+    },
+    "Cultural_Anchors": [
+      "சான்றாண்மைக்கு ஆழி (Shore to the sea of perfectness)",
+      "ஊழி பெயர்தல் (The changing of ages/fates)",
+      "The virtue of steadfastness (நிலைத்தன்மை)"
+    ]
+  },
+  "Negative_Prompt": "scared or moving protagonist, calm background, small scale, modern setting, text artifacts, cartoonish."
+}

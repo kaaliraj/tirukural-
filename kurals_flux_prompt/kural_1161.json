@@ -1,0 +1,33 @@
+{
+  "Kural_Info": {
+    "Number": 1161,
+    "Chapter": "படர்மெலிந்திரங்கல் (Complainings)",
+    "Tamil_Text": "மறைப்பேன்மன் யானிஃதோ நோயை இறைப்பவர்க்குஊற்றுநீர் போல மிகும்.",
+    "English_Meaning": "I would my pain conceal, but see! it surging swells, As streams to those that draw from ever-springing wells."
+  },
+  "Flux_Optimized_Prompt": {
+    "Layered_Composition": {
+      "Foreground": "A woman is trying to suppress her lovesickness ('Noi'). She is holding her hands over her heart, attempting to hide her pain ('Maraippen').",
+      "Midground": "Despite her efforts, her sorrow flows out of her uncontrollably. This is visualized as a spring of tears ('Ootru neer') that emerges from her heart and flows outwards, becoming a river.",
+      "Background": "The more she tries to 'bail out' or suppress this river of sorrow, the stronger the spring flows ('Iraippavarkku...migum'), creating a landscape of her own tears around her."
+    },
+    "Art_Direction": {
+      "Subject_and_Action": "A metaphor for the futility of trying to hide deep sorrow. The more one tries to suppress it, the more overwhelmingly it expresses itself, like a magical spring that can't be emptied.",
+      "Symbolic_Motifs": "The ever-springing well of tears from the heart is the central, powerful image. The act of trying to bail out the resulting river shows the uselessness of the attempt.",
+      "Mood_and_Emotion": "Overwhelming sorrow, futility, helplessness.",
+      "Lighting_and_Color": "A melancholic, blue-toned light. The water from the spring of sorrow glows with a sad, silver light, illuminating the tear-filled landscape. The palette is dominated by watery blues and somber grays."
+    },
+    "Technical_Cues": {
+      "Camera": "Wide shot that shows the woman at the source of the ever-growing river of tears, emphasizing the scale of her uncontrollable sorrow.",
+      "Resolution": "8K, fantasy realism, with beautiful and dynamic fluid simulation for the magical spring.",
+      "Lighting": "Ethereal, magical lighting emanating from the water itself.",
+      "Art_Genre": "Surrealist art, visualizing an internal emotional state as an external landscape."
+    },
+    "Cultural_Anchors": [
+      "காம நோய் (Lovesickness)",
+      "ஊற்று நீர் (Spring water)",
+      "The uncontrollable nature of deep emotion"
+    ]
+  },
+  "Negative_Prompt": "a happy woman, a dry landscape, a small puddle, modern setting, text artifacts, cartoonish."
+}

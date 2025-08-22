@@ -1,0 +1,39 @@
+{
+  "Kural_Info": {
+    "Number": 1086,
+    "Chapter": "தகையணங்குறுத்தல் (The Pre-marital love)",
+    "Tamil_Text": "கொடும்புருவம் கோடா மறைப்பின் நடுங்கஞர்செய்யல மன்இவள் கண்.",
+    "English_Meaning": "Her eyes will cause (me) no trembling sorrow, if they are properly hidden by her cruel arched eye-brows."
+  },
+  "Flux_Optimized_Prompt": {
+    "Layered_Composition": {
+      "Foreground": "A close-up on a beautiful maiden's eyes. The eyes themselves are like twin pools of light, powerful and capable of causing trembling sorrow ('நடுங்கு அஞர்').",
+      "Midground": "Her eyebrows are depicted as cruel, arched bows ('கொடும் புருவம்') that are drawn and ready to fire the arrows of her glances.",
+      "Background": "The lover's plea is visualized: if only her eyebrows would un-bend ('கோடாது') and act as a curtain or a veil ('மறைப்பின்') to cover her powerful eyes, then he would be spared the beautiful torment they inflict."
+    },
+    "Art_Direction": {
+      "Subject_and_Action": "The lover's lament that the maiden's 'cruel' arched eyebrows are failing in their duty to properly conceal her powerful, sorrow-inflicting eyes.",
+      "Symbolic_Motifs": "The eyebrows as drawn bows is a classic poetic metaphor made literal. The concept of the eyebrows 'veiling' the eyes is the central wish. The sorrow is not ugly, but a beautiful, trembling affliction caused by her gaze.",
+      "Mood_and_Emotion": "Lovestruck, tormented, admiring, playful complaint.",
+      "Lighting_and_Color": "A soft, beautiful light illuminates the maiden's face. Her eyes, however, glow with a more intense, piercing light. The eyebrows are a sharp, dark, perfectly arched line.",
+      "Technical_Cues": {
+        "Camera": "An extreme close-up, macro shot of the eyes and eyebrows, focusing on their geometry and power.",
+        "Resolution": "8K, hyper-realistic, with a focus on the expressive power of the eyes.",
+        "Lighting": "Intimate, soft lighting that emphasizes the beauty of the features.",
+        "Art_Genre": "Romantic portraiture."
+      },
+      "Cultural_Anchors": [
+        "The cruel, arched eyebrows (கொடும் புருவம்)",
+        "If they would but cover (கோடாது மறைப்பின்)",
+        "Her eyes would not cause trembling sorrow (நடுங்கு அஞர் செய்யல)"
+      ]
+    },
+    "Negative_Prompt": "straight eyebrows, happy lover, text artifacts.",
+    "Hyperparameters": {
+      "variant": "dev",
+      "steps": 40,
+      "cfg_scale": 7,
+      "seed": "Focus on the perfect, 'cruel' arch of the eyebrows."
+    }
+  }
+}

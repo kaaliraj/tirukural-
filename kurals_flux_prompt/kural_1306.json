@@ -1,0 +1,40 @@
+{
+  "Kural_Info": {
+    "Number": 1306,
+    "Chapter": "ஊடலுவகை (The Pleasures of Temporary Variance)",
+    "Tamil_Text": "துனியும் புலவியும் இல்லாயின் காமம்கனியும் கருக்காயும் அற்று.",
+    "English_Meaning": "Sexual pleasure, without prolonged and short-lived dislike, is like too ripe, and unripe fruit."
+  },
+  "Flux_Optimized_Prompt": {
+    "Layered_Composition": {
+      "Foreground": "A tree representing Love ('காமம்') is shown.",
+      "Midground": "This tree bears two kinds of undesirable fruit. On one branch hangs a sour, unripe, hard fruit ('கருக்காய்'). This represents a relationship with only serious, prolonged dislike ('துனி'). On another branch hangs an overly ripe, mushy, and flavorless fruit ('கனியும்'). This represents a relationship with no pouting or playful variance at all.",
+      "Background": "A vision of the perfect fruit of love is shown separately. It is perfectly ripe, a balance between the two extremes, and it is understood that this perfect state is achieved through the correct, balanced application of playful pouting ('புலவி')."
+    },
+    "Art_Direction": {
+      "Subject_and_Action": "Love without any playful variance or pouting is like a fruit that is bland and overripe. Love that is only full of serious conflict is like a fruit that is hard and unripe. The perfect pleasure requires a balance.",
+      "Symbolic_Motifs": "The three types of fruit—unripe, overripe, and perfect—are the central metaphor for the different states of a romantic relationship. The image makes a case for the necessity of playful conflict (pouting) to achieve the perfect flavor.",
+      "Mood_and_Emotion": "Balanced, flavorful, cautionary, instructive.",
+      "Lighting_and_Color": "The unripe fruit is a hard, sour green. The overripe fruit is a dull, mushy brown. The perfect fruit is a vibrant, luscious, and perfectly colored red or gold, glowing with an appetizing light.",
+      "Technical_Cues": {
+        "Camera": "A clear, illustrative shot that presents the three symbolic fruits for comparison.",
+        "Resolution": "8K, hyper-realistic food photography style, with a strong focus on the textures of the fruits.",
+        "Lighting": "The lighting should make the perfect fruit look incredibly delicious, while making the other two look unappealing.",
+        "Art_Genre": "Symbolic still life."
+      },
+      "Cultural_Anchors": [
+        "Prolonged dislike (துனி)",
+        "Playful pouting (புலவி)",
+        "Overripe fruit (கனியும்)",
+        "Unripe fruit (கருக்காய்)"
+      ]
+    },
+    "Negative_Prompt": "all fruits being perfect, text artifacts.",
+    "Hyperparameters": {
+      "variant": "dev",
+      "steps": 45,
+      "cfg_scale": 8,
+      "seed": "Explore the visual textures of the three fruits."
+    }
+  }
+}

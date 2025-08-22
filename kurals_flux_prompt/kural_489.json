@@ -1,0 +1,39 @@
+{
+  "Kural_Info": {
+    "Number": 489,
+    "Chapter": "காலமறிதல் (Knowing the fitting Time)",
+    "Tamil_Text": "எய்தற் கரியது இயைந்தக்கால் அந்நிலையே செய்தற் கரிய செயல்.",
+    "English_Meaning": "When a rare opportunity comes, in that very moment, do the deeds that are rarely achievable."
+  },
+  "Flux_Optimized_Prompt": {
+    "Layered_Composition": {
+      "Foreground": "A person is standing before a cosmic phenomenon: a rare planetary alignment or a comet passing, which creates a fleeting, magical gateway of opportunity ('எய்தற்கரியது இயைந்தக்கால்').",
+      "Midground": "Without hesitation, the person seizes this exact moment ('அந்நிலையே') to perform a great and difficult deed ('செய்தற்கரிய செயல்'), such as forging a legendary sword in the comet's fire or planting a seed that grows instantly into a world tree.",
+      "Background": "The cosmos is aligned perfectly for this one brief moment, emphasizing the rarity and power of the opportunity."
+    },
+    "Art_Direction": {
+      "Subject_and_Action": "When a rare and perfect opportunity presents itself, one must seize that exact moment to accomplish things that would otherwise be impossible.",
+      "Symbolic_Motifs": "The fleeting celestial event represents the rare opportunity. The decisive, immediate action of the person shows them seizing the moment. The extraordinary result is the fruit of this perfect timing.",
+      "Mood_and_Emotion": "Opportune, decisive, epic, powerful, magical.",
+      "Lighting_and_Color": "The scene is illuminated by the brilliant, otherworldly light of the celestial event. The colors are vibrant, cosmic, and magical, highlighting the special nature of the moment."
+    },
+    "Technical_Cues": {
+      "Camera": "A dynamic, heroic shot capturing the person in the act of seizing the opportunity.",
+      "Resolution": "8K, cinematic, with stunning cosmic and magical visual effects.",
+      "Lighting": "The celestial event is the primary, dramatic light source.",
+      "Art_Genre": "High-fantasy art, cosmic epic."
+    },
+    "Cultural_Anchors": [
+      "The Rare Opportunity ('எய்தற்கரியது')",
+      "Seizing the Moment ('அந்நிலையே')",
+      "Doing the Impossible ('செய்தற்கரிய செயல்')"
+    ]
+  },
+  "Negative_Prompt": "person missing the opportunity, normal daylight, ordinary action, text artifacts, blurry.",
+  "Hyperparameters": {
+    "variant": "pro",
+    "steps": 50,
+    "cfg_scale": 8,
+    "seed": "Explore variations for the rare celestial event."
+  }
+}

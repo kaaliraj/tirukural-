@@ -1,0 +1,39 @@
+{
+  "Kural_Info": {
+    "Number": 1316,
+    "Chapter": "புலவி நுணுக்கம் (Feigned Anger)",
+    "Tamil_Text": "உள்ளினேன் என்றேன்மற் றென்மறந்தீர் என்றென்னைப்புல்லாள் புலத்தக் கனள்.",
+    "English_Meaning": "When I said I had remembered her, she said I had forgotten her and relaxing her embrace, began to feign dislike."
+  },
+  "Flux_Optimized_Prompt": {
+    "Layered_Composition": {
+      "Foreground": "A lover is in a close embrace with his beloved.",
+      "Midground": "He whispers to her, 'I was just thinking of you' ('உள்ளினேன் என்றேன்'). He means this as a tender endearment.",
+      "Background": "Her mind, however, performs a rapid, negative logical leap. She instantly pulls away from the embrace ('புல்லாள்'), her face turning to a pout ('புலத்தக்கனள்'). Her accusation is visualized in a thought-bubble: 'To remember me now, you must have forgotten me before!' ('என் மறந்தீர்?')."
+    },
+    "Art_Direction": {
+      "Subject_and_Action": "The lover's humorous frustration with his beloved's hyper-critical logic: when he says 'I was thinking of you,' she takes it as an admission that he must have forgotten her at some point, and starts to pout.",
+      "Symbolic_Motifs": "The speed of her logical leap from his endearment to an accusation is the source of the humor. The breaking of the embrace is the physical manifestation of her feigned anger. The visualized thought-bubble makes her witty, if frustrating, logic clear.",
+      "Mood_and_Emotion": "Witty, hyper-critical, humorous, playful anger.",
+      "Lighting_and_Color": "A warm, intimate, romantic light. Her sudden pout brings a brief, playful shadow to the mood. The scene is lighthearted.",
+      "Technical_Cues": {
+        "Camera": "A close-up two-shot that captures his loving expression, her sudden change of expression, and the breaking of the embrace.",
+        "Resolution": "8K, ultra-realistic, focusing on the comedic timing of her reaction.",
+        "Lighting": "Warm, romantic interior lighting.",
+        "Art_Genre": "Romantic comedy."
+      },
+      "Cultural_Anchors": [
+        "When I said, 'I thought of you' (உள்ளினேன் என்றேன்)",
+        "She said, 'So you had forgotten me?' (என் மறந்தீர்?)",
+        "And she stopped embracing and pouted (புல்லாள் புலத்தக்கனள்)"
+      ]
+    },
+    "Negative_Prompt": "she accepts the compliment, text artifacts, real anger.",
+    "Hyperparameters": {
+      "variant": "dev",
+      "steps": 40,
+      "cfg_scale": 8,
+      "seed": "Explore her swift change in expression."
+    }
+  }
+}

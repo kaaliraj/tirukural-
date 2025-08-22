@@ -1,0 +1,38 @@
+{
+  "Kural_Info": {
+    "Number": 1066,
+    "Chapter": "இரவச்சம் (The Dread of Mendicancy)",
+    "Tamil_Text": "ஆவிற்கு நீரென்று இரப்பினும் நாவிற்குஇரவின் இளிவந்த தில்.",
+    "English_Meaning": "There is nothing more disgraceful to one's tongue than to use it in begging water even for a cow."
+  },
+  "Flux_Optimized_Prompt": {
+    "Layered_Composition": {
+      "Foreground": "A person is shown about to speak, but their tongue is recoiling in shame.",
+      "Midground": "The situation is a noble one: a gentle cow ('ஆ') is thirsty, and the person merely wants to ask for water for it ('நீர் என்று இரப்பினும்'). The intention is charitable.",
+      "Background": "Despite the noble cause, the act of begging itself ('இரவு') is so inherently disgraceful ('இளிவந்தது') that the person's own tongue is visualized as being stained with a mark of shame. The image asserts that there is no greater disgrace for the tongue than the act of begging, regardless of the reason."
+    },
+    "Art_Direction": {
+      "Subject_and_Action": "The act of begging is so intrinsically disgraceful to the tongue that even begging for a noble cause like giving water to a thirsty cow is a source of shame.",
+      "Symbolic_Motifs": "The tongue being physically stained or branded with shame is the key visual metaphor. The innocence and worthiness of the cow highlights the fact that even the best reason cannot erase the disgrace of the act itself.",
+      "Mood_and_Emotion": "Inherently disgraceful, shame, noble failure.",
+      "Lighting_and_Color": "A stark, judgmental light illuminates the scene. The stain of shame on the tongue is a dark, ugly mark. The mood is one of quiet, personal disgrace.",
+      "Technical_Cues": {
+        "Camera": "An extreme close-up on the person's mouth, showing the tongue recoiling and the symbolic stain appearing upon it.",
+        "Resolution": "8K, hyper-realistic, with a focus on the symbolic effect.",
+        "Lighting": "Harsh, revealing light.",
+        "Art_Genre": "Symbolic realism."
+      },
+      "Cultural_Anchors": [
+        "Begging even for a cow (ஆவிற்கு நீர் என்று இரப்பினும்)",
+        "Disgrace to the tongue (நாவிற்கு இளிவந்தது)"
+      ]
+    },
+    "Negative_Prompt": "person happily begging, unstained tongue, text artifacts.",
+    "Hyperparameters": {
+      "variant": "dev",
+      "steps": 45,
+      "cfg_scale": 9,
+      "seed": "Explore the visual of the 'stain of shame' on the tongue."
+    }
+  }
+}

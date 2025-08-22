@@ -1,0 +1,39 @@
+{
+  "Kural_Info": {
+    "Number": 166,
+    "Chapter": "అழுக்காறாமை (Not Envying)",
+    "Tamil_Text": "கொடுப்பது அழுக்கறுப்பான் சுற்றம் உடுப்பதூஉம்உண்பதூஉம் இன்றிக் கெடும்.",
+    "English_Meaning": "He who is envious at a gift (made to another) will with his relations utterly perish destitute of food and rainment."
+  },
+  "Flux_Optimized_Prompt": {
+    "Layered_Composition": {
+      "Foreground": "An envious man ('అழுக்கறுப்பான்') is watching another person giving a gift of charity ('கொடுப்பது') to a needy individual.",
+      "Midground": "The envious man's heart is filled with a black, corrosive envy at this sight. This envy is visualized as a dark, poisonous cloud that emanates from him.",
+      "Background": "This poisonous cloud of envy then flows backwards and engulfs his own family and kin ('சுற்றம்'). They are shown being stripped of their clothes ('உடுப்பது இன்றி') and their food turning to dust ('உண்பதூஉம் இன்றி'), causing them to perish in utter destitution ('கெடும்')."
+    },
+    "Art_Direction": {
+      "Subject_and_Action": "The man who feels envy at the charitable act of another will bring a curse upon his own family, causing them to perish without food or clothing.",
+      "Symbolic_Motifs": "The envy as a self-harming, family-destroying poison cloud is the key. The destruction is not of the charitable person, but of the envious one's own kin, showing the self-destructive nature of this vice.",
+      "Mood_and_Emotion": "Self-destructive, tragic, corrosive, cursed.",
+      "Lighting_and_Color": "The scene of charity is bathed in a warm, golden light. The envious man is a source of a dark, sickly, black-green poison cloud, which brings darkness and decay to his own home.",
+      "Technical_Cues": {
+        "Camera": "A wide, narrative shot that shows the good deed, the envious reaction, and the tragic, destructive consequence for the envier's own family.",
+        "Resolution": "8K, ultra-realistic, with advanced particle effects for the poison cloud of envy.",
+        "Lighting": "A dramatic contrast between the light of charity and the darkness of envy.",
+        "Art_Genre": "Dark fantasy, allegorical painting."
+      },
+      "Cultural_Anchors": [
+        "The one who is envious of giving (கொடுப்பது அழுக்கறுப்பான்)",
+        "His kin will perish (சுற்றம் கெடும்)",
+        "Without clothes and food (உடுப்பதூஉம் உண்பதூஉம் இன்றி)"
+      ]
+    },
+    "Negative_Prompt": "happy envious family, text artifacts, cartoonish cloud.",
+    "Hyperparameters": {
+      "variant": "pro",
+      "steps": 50,
+      "cfg_scale": 9,
+      "seed": "Explore the visual of the 'poison cloud of envy'."
+    }
+  }
+}

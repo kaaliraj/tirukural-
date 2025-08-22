@@ -1,0 +1,33 @@
+{
+  "Kural_Info": {
+    "Number": 1206,
+    "Chapter": "நினைந்தவர்புலம்பல் (Sad Memories)",
+    "Tamil_Text": "மற்றியான் என்னுளேன் மன்னோ அவரொடியான்உற்றநாள் உள்ள உளேன்.",
+    "English_Meaning": "How live I yet? I live to ponder o'er The days of bliss with him that are no more."
+  },
+  "Flux_Optimized_Prompt": {
+    "Layered_Composition": {
+      "Foreground": "A woman sits in a dim, desolate present. Her physical form seems faded and insubstantial.",
+      "Midground": "Her entire life force and consciousness are focused on a single, brilliantly glowing memory of a happy day she spent with her lover ('Uttranaal'). This memory is depicted as a vibrant, living diorama in front of her.",
+      "Background": "The rest of her world is dark and empty. She is not living in the present; she is subsisting entirely within the memory of the past ('Ulla Ulen')."
+    },
+    "Art_Direction": {
+      "Subject_and_Action": "A lover reflects that her life is no longer sustained by the present, but solely by the act of remembering the blissful days she once shared with her beloved.",
+      "Symbolic_Motifs": "The glowing, living memory as the only source of light and life in a dark world is the central metaphor.",
+      "Mood_and_Emotion": "Melancholy, nostalgic, living in the past, a sense of bittersweet survival.",
+      "Lighting_and_Color": "The entire scene is lit only by the warm, golden light emanating from the memory diorama. The present is in deep shadow, colored in monochrome grays."
+    },
+    "Technical_Cues": {
+      "Camera": "Medium shot focusing on the woman's face, illuminated only by the light of her memory, showing her trance-like state.",
+      "Resolution": "8K, photorealistic, with a magical, glowing effect for the memory.",
+      "Lighting": "Single-source, high-contrast lighting from the memory, creating a powerful visual focus.",
+      "Art_Genre": "Symbolic realism with a strong psychological element."
+    },
+    "Cultural_Anchors": [
+      "Living in memories",
+      "The sustaining power of past happiness",
+      "நினைப்பு (Memory/Thought)"
+    ]
+  },
+  "Negative_Prompt": "a bright present, a dark memory, a forward-looking protagonist, text artifacts, modern clothing, cartoonish."
+}

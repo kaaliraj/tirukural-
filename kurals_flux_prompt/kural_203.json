@@ -1,0 +1,38 @@
+{
+  "Kural_Info": {
+    "Number": 203,
+    "Chapter": "தீவினையச்சம் (Dread of Evil Deeds)",
+    "Tamil_Text": "அறிவினுள் எல்லாந் தலையென்ப தீயசெறுவார்க்கும் செய்யா விடல்.",
+    "English_Meaning": "To do no evil to enemies will be called the chief of all virtues."
+  },
+  "Flux_Optimized_Prompt": {
+    "Layered_Composition": {
+      "Foreground": "A person stands with a calm and restrained demeanor. Before them, an enemy ('செறுவார்') is shown in a vulnerable position, completely open to attack.",
+      "Midground": "The person has a weapon in hand (or the power to do harm), but they are consciously and deliberately choosing to lower it, refraining from doing evil ('தீய செய்யா விடல்'). This act of restraint glows with a brilliant light.",
+      "Background": "Above the person's head, a magnificent, celestial crown representing the 'Chief of all Knowledge/Virtue' ('அறிவினுள் எல்லாம் தலை') materializes, bestowed upon them as a direct result of their act of supreme self-control."
+    },
+    "Art_Direction": {
+      "Subject_and_Action": "The highest and chief form of wisdom is to refrain from doing harm even to a hateful enemy who is at your mercy.",
+      "Symbolic_Motifs": "The glowing act of restraint is the key. The harm is not just avoided, but consciously renounced. The celestial crown is not a king's crown, but one made of pure light and wisdom, symbolizing the supreme nature of this particular virtue.",
+      "Mood_and_Emotion": "Supreme self-control, noble, transcendent wisdom, ultimate virtue.",
+      "Lighting_and_Color": "A divine, pure white-gold light emanates from the act of restraint, illuminating the virtuous person. The enemy remains in a more neutral, mundane light. The celestial crown is the brightest point in the image.",
+      "Technical_Cues": {
+        "Camera": "A dramatic medium shot, focusing on the internal decision and the external act of lowering the weapon, with the celestial crown appearing as its consequence.",
+        "Resolution": "8K, ultra-realistic, with a strong focus on the subject's expression of conscious restraint.",
+        "Lighting": "The primary light source is the divine light of the virtue itself, which appears at the moment of the noble choice.",
+        "Art_Genre": "Heroic realism, with mystical and divine elements."
+      },
+      "Cultural_Anchors": [
+        "The chief of all knowledge (அறிவினுள் எல்லாம் தலை)",
+        "Not doing evil even to an enemy (செறுவார்க்கும் தீய செய்யா விடல்)"
+      ]
+    },
+    "Negative_Prompt": "person attacking the enemy, weak person, dark scene, text artifacts, no crown.",
+    "Hyperparameters": {
+      "variant": "pro",
+      "steps": 50,
+      "cfg_scale": 8,
+      "seed": "Explore the design of the 'Crown of Chiefest Virtue'."
+    }
+  }
+}

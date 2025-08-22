@@ -1,0 +1,39 @@
+{
+  "Kural_Info": {
+    "Number": 437,
+    "Chapter": "குற்றங்கடிதல் (The Correction of Faults)",
+    "Tamil_Text": "செயற்பால செய்யா திவறியான் செல்வம் உயற்பால தன்றிக் கெடும்.",
+    "English_Meaning": "The wealth of the avaricious man, who does not expend it for the purposes for which he ought to expend it will waste away and not continue."
+  },
+  "Flux_Optimized_Prompt": {
+    "Layered_Composition": {
+      "Foreground": "An avaricious man ('இவறியான்') is shown hoarding a massive pile of gold coins in a dark vault. He is neglecting his duties, represented by a wilting family tree and crumbling building foundations visible just outside the vault.",
+      "Midground": "The pile of gold, which he refuses to use for his duties ('செயற்பால செய்யாது'), is not static. It is depicted as a heap of sand, and the coins are slowly but surely trickling away through cracks in the floor, disappearing into darkness.",
+      "Background": "The world outside the vault is decaying due to his neglect, symbolizing the opportunities for growth and good that are being lost."
+    },
+    "Art_Direction": {
+      "Subject_and_Action": "The wealth of a miser who neglects his necessary duties and expenditures will not last; it will inevitably perish.",
+      "Symbolic_Motifs": "The wealth as a pile of sand trickling away is the key metaphor for its inevitable decay. The wilting family tree and crumbling foundations represent the neglected duties.",
+      "Mood_and_Emotion": "Decaying, futile, tragic, miserly, inevitable loss.",
+      "Lighting_and_Color": "A dark, gloomy atmosphere inside the vault, lit only by the cold, metallic glint of the gold. The trickling coins catch the light as they fall into nothingness. The outside world is grey and lifeless."
+    },
+    "Technical_Cues": {
+      "Camera": "A wide shot that shows the miser, his perishing wealth, and the decaying duties he is ignoring.",
+      "Resolution": "8K, with realistic particle physics for the trickling sand-like coins.",
+      "Lighting": "Low-key, dramatic lighting to create a sense of loss and decay.",
+      "Art_Genre": "Symbolic realism, with a dark, moody tone."
+    },
+    "Cultural_Anchors": [
+      "Avarice ('இவறன்மை')",
+      "Neglecting duties ('செயற்பால செய்யாமை')",
+      "The inevitable decay of unused wealth."
+    ]
+  },
+  "Negative_Prompt": "miser spending money, wealth being stable, happy family, text artifacts, blurry.",
+  "Hyperparameters": {
+    "variant": "pro",
+    "steps": 50,
+    "cfg_scale": 8,
+    "seed": "Explore variations for the trickling coin effect."
+  }
+}

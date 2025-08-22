@@ -1,0 +1,39 @@
+{
+  "Kural_Info": {
+    "Number": 361,
+    "Chapter": "அவாவறுத்தல் (Curbing of Desire)",
+    "Tamil_Text": "அவாஎன்ப எல்லா உயிர்க்கும் எஞ்ஞான்றும் தவாஅப் பிறப்பீனும் வித்து.",
+    "English_Meaning": "The wise declare, through all the days, to every living thing, That ceaseless round of birth from seed of strong desire doth spring."
+  },
+  "Flux_Optimized_Prompt": {
+    "Layered_Composition": {
+      "Foreground": "A single, pulsating seed of dark energy, representing Desire ('அவா'), lies on barren cosmic ground.",
+      "Midground": "From this seed, a colossal, gnarled Banyan tree grows. Its roots are shadowy tendrils of desire, and its trunk is composed of countless, intertwined ghostly figures representing the cycle of rebirth.",
+      "Background": "The tree's vast branches spread into a cosmic canopy where each leaf is a miniature, repeating universe, symbolizing the endless cycle of birth ('பிறப்பீனும் வித்து')."
+    },
+    "Art_Direction": {
+      "Subject_and_Action": "The concept of Desire visualized as the primordial seed from which the endless, sorrowful cycle of birth and rebirth emanates across the cosmos.",
+      "Symbolic_Motifs": "The tree's roots are depicted as chains of attachment. The leaves as repeating worlds highlight the inescapable nature of the cycle fueled by desire.",
+      "Mood_and_Emotion": "Cosmic, profound, cautionary, cyclical, inevitable.",
+      "Lighting_and_Color": "A dark, unsettling purple and crimson light emanates from the seed of desire. The tree and its roots are in deep, shadowy tones, contrasted against a vast, star-filled cosmic background of deep blues and blacks."
+    },
+    "Technical_Cues": {
+      "Camera": "Ultra-wide cosmic shot, low angle, emphasizing the scale of the tree of rebirth.",
+      "Resolution": "8K, hyper-realistic, with ethereal and mystical effects.",
+      "Lighting": "Volumetric lighting from the seed, creating a sinister glow. Nebulae in the background provide soft, ambient light.",
+      "Art_Genre": "Symbolic art meets cosmic fantasy, digital matte painting."
+    },
+    "Cultural_Anchors": [
+      "Concept of 'Avā' (Desire/Craving)",
+      "Cycle of Rebirth (பிறவிச் சுழற்சி)",
+      "Karma and its consequences"
+    ]
+  },
+  "Negative_Prompt": "bright sunny day, happy figures, simple tree, text artifacts, low-resolution, cartoony, oversaturated.",
+  "Hyperparameters": {
+    "variant": "pro",
+    "steps": 50,
+    "cfg_scale": 8,
+    "seed": "Explore variations for cosmic textures."
+  }
+}

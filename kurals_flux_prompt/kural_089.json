@@ -1,0 +1,39 @@
+{
+  "Kural_Info": {
+    "Number": 89,
+    "Chapter": "விருந்தோம்பல் (Hospitality)",
+    "Tamil_Text": "உடைமையுள் இன்மை விருந்தோம்பல் ஓம்பாமடமை மடவார்கண் உண்டு.",
+    "English_Meaning": "That stupidity which excercises no hospitality is poverty in the midst of wealth. It is the property of the stupid."
+  },
+  "Flux_Optimized_Prompt": {
+    "Layered_Composition": {
+      "Foreground": "A man of great wealth ('உடைமையுள்') is shown turning away a needy guest from his door.",
+      "Midground": "Although he is surrounded by riches, a dark, spectral aura of true Poverty ('இன்மை') is shown clinging to him, a direct result of his foolish inhospitality ('மடமை').",
+      "Background": "His magnificent house appears illusory and hollow. The man himself has a dull, foolish expression ('மடவார்'), showing that his lack of hospitality is a form of profound ignorance."
+    },
+    "Art_Direction": {
+      "Subject_and_Action": "The paradox of being poor while wealthy. The failure to practice hospitality is defined as a form of stupidity that creates a spiritual poverty, regardless of material possessions.",
+      "Symbolic_Motifs": "The spectral aura of Poverty is a key visual, showing that true 'Inmai' is a spiritual condition, not a material one. The man's wealth has no glow or warmth; it is just inert matter. His face shows ignorance, not malice.",
+      "Mood_and_Emotion": "Paradoxical, foolish, spiritual poverty, pathetic.",
+      "Lighting_and_Color": "A strange, flat light that renders the wealth colorless and unappealing. The aura of Poverty is a sickly, dark grey that seems to drain the color from the man himself.",
+      "Technical_Cues": {
+        "Camera": "A direct, confrontational medium shot that captures the foolish man, his pointless wealth, and the spiritual poverty clinging to him.",
+        "Resolution": "8K, ultra-realistic, with surreal effects for the poverty aura.",
+        "Lighting": "Unflattering, flat lighting to make the scene feel pathetic and devoid of true value.",
+        "Art_Genre": "Symbolic realism, allegorical portraiture."
+      },
+      "Cultural_Anchors": [
+        "Poverty in the midst of plenty (உடைமையுள் இன்மை)",
+        "Stupidity/Folly (மடமை)",
+        "The inhospitable fool (விருந்தோம்பல் ஓம்பா மடவார்)"
+      ]
+    },
+    "Negative_Prompt": "happy rich man, warm and inviting house, bright colors, text artifacts, intelligent expression.",
+    "Hyperparameters": {
+      "variant": "dev",
+      "steps": 40,
+      "cfg_scale": 8,
+      "seed": "Explore the visual representation of the 'aura of Poverty'."
+    }
+  }
+}

@@ -1,0 +1,39 @@
+{
+  "Kural_Info": {
+    "Number": 9,
+    "Chapter": "கடவுள் வாழ்த்து (The Praise of God)",
+    "Tamil_Text": "கோளில் பொறியிற் குணமிலவே எண்குணத்தான் தாளை வணங்காத் தலை.",
+    "English_Meaning": "The head that bows not to the feet of Him who is possessed of eight attributes, is like the senses destitute of the power of perception."
+  },
+  "Flux_Optimized_Prompt": {
+    "Layered_Composition": {
+      "Foreground": "In the foreground, a figure stands proudly, head held high and unbowed. Their eyes, ears, and other sense organs are depicted as grey, stone-like, and lifeless statues.",
+      "Midground": "Slightly behind and to the side, another figure is shown from the back, head bowed in reverence before a divine light. In contrast to the first figure, their senses are vibrant and alive, visualized as streams of colorful light and energy flowing into them.",
+      "Background": "In the deep background, the source of reverence is subtly implied: a radiant throne from which eight distinct rays of light (representing the 'eight attributes') emanate, illuminating the bowing figure. The divine feet are visible at the base of the throne."
+    },
+    "Art_Direction": {
+      "Subject_and_Action": "A direct comparison between a life of arrogant pride, which renders the senses useless, and a life of humility, which awakens true perception and makes the senses meaningful.",
+      "Symbolic_Motifs": "The proud figure's world around them is desaturated and grey, reflecting their lack of true perception. The bowing figure's world is rich with color and texture. The eight rays of light have distinct colors, symbolizing the multifaceted nature of the divine.",
+      "Mood_and_Emotion": "A powerful and stark contrast between lifeless pride and vibrant humility.",
+      "Lighting_and_Color": "Split-composition color palette. The side with the proud figure is monochromatic, cold, and stony grey. The side with the bowing figure is bathed in the warm, multi-colored glow of the eight divine rays."
+    },
+    "Technical_Cues": {
+      "Camera": "Wide shot with a split-diopter effect, keeping both figures in sharp focus to emphasize the contrast.",
+      "Resolution": "8K, ultra-realistic, with fine textures on the stone-like senses and ethereal effects for the light rays.",
+      "Lighting": "High-contrast, dual-source lighting. Harsh, flat light on the proud figure; soft, radiant, multi-hued light on the humble one.",
+      "Art_Genre": "Symbolic realism, allegorical digital painting."
+    },
+    "Cultural_Anchors": [
+      "Concept of 'Enkunathaan' (He of eight attributes)",
+      "Uselessness of senses without wisdom ('Ko lil poriyin kunamilave')",
+      "Bowing ('Vananguthal') as an act of humility"
+    ]
+  },
+  "Negative_Prompt": "glowing senses on the proud figure, deformed limbs, bowing figure in darkness, text artifacts, cartoonish light rays, Western royal attire.",
+  "Hyperparameters": {
+    "variant": "dev",
+    "steps": 40,
+    "cfg_scale": 8,
+    "seed": "Explore variations for the colors of the eight rays."
+  }
+}

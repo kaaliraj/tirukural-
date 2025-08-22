@@ -1,0 +1,39 @@
+{
+  "Kural_Info": {
+    "Number": 734,
+    "Chapter": "நாடு (The Land)",
+    "Tamil_Text": "உறுபசியும் ஓவாப் பிணியும் செறுபகையும் சேரா தியல்வது நாடு.",
+    "English_Meaning": "A kingdom is that which continues to be free from excessive starvation, irremediable epidemics, and destructive foes."
+  },
+  "Flux_Optimized_Prompt": {
+    "Layered_Composition": {
+      "Foreground": "A beautiful, peaceful, and prosperous country ('நாடு').",
+      "Midground": "The country is surrounded by a magical, protective border. Three great evils are shown trying to enter, but being repelled by this border. The first is a gaunt, skeletal figure of Famine ('உறுபசி'). The second is a sickly, plague-bearing cloud of Pestilence ('ஓவாப் பிணி'). The third is a destructive, fiery army of foreign enemies ('செறுபகை').",
+      "Background": "Because these three evils are kept out, the country within remains a paradise of health, peace, and abundance."
+    },
+    "Art_Direction": {
+      "Subject_and_Action": "The nature of an ideal country is to be free from the three great evils: famine, incurable disease, and destructive enemies.",
+      "Symbolic_Motifs": "The personification of the three great evils as monstrous entities is key. The protective, invisible shield around the nation shows its inherent health and strength that keeps these evils at bay.",
+      "Mood_and_Emotion": "Healthy, peaceful, secure, utopian.",
+      "Lighting_and_Color": "The country inside the shield is bright, vibrant, and full of life-giving colors. The three evils outside are dark, sickly, and menacing.",
+      "Technical_Cues": {
+        "Camera": "A high-angle shot that shows the protected paradise within and the three evils being kept outside its borders.",
+        "Resolution": "8K, with detailed creature/entity design for the three evils.",
+        "Lighting": "High-contrast between the bright interior and the dark exterior.",
+        "Art_Genre": "High-fantasy landscape painting."
+      }
+    },
+    "Cultural_Anchors": [
+      "Freedom from Famine ('உறுபசி')",
+      "Freedom from Pestilence ('ஓவாப் பிணி')",
+      "Freedom from Enemies ('செறுபகை')"
+    ]
+  },
+  "Negative_Prompt": "country suffering from famine or plague, enemies inside, text artifacts, cartoonish monsters.",
+  "Hyperparameters": {
+    "variant": "pro",
+    "steps": 50,
+    "cfg_scale": 8,
+    "seed": "Explore variations for the three personified evils."
+  }
+}

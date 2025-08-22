@@ -1,0 +1,33 @@
+{
+  "Kural_Info": {
+    "Number": 1176,
+    "Chapter": "கண்விதுப்பழிதல் (Eyes consumed with Grief)",
+    "Tamil_Text": "ஓஒ இனிதே எமக்கிந்நோய் செய்தகண்தாஅம் இதற்பட் டது.",
+    "English_Meaning": "Oho! how sweet a thing to see! the eye That wrought this pain, in the same gulf doth lie."
+  },
+  "Flux_Optimized_Prompt": {
+    "Layered_Composition": {
+      "Foreground": "A woman looks on with a sense of grim satisfaction or schadenfreude ('Oo, Inithe!').",
+      "Midground": "Her eyes, personified as separate entities, are shown trapped and suffering in the very same thorny pit of lovesickness that they created for her heart.",
+      "Background": "Her heart, also in the pit, points towards the eyes as if to say, 'See? You are suffering with me now.' This shared suffering is the source of her grim satisfaction."
+    },
+    "Art_Direction": {
+      "Subject_and_Action": "A lover expresses a kind of bitter satisfaction in observing that her eyes, which caused her all this pain, are now suffering from the very same affliction.",
+      "Symbolic_Motifs": "The personification of the eyes as separate entities that can be blamed and observed. The pit of lovesickness where both heart and eyes are now trapped together.",
+      "Mood_and_Emotion": "Schadenfreude, ironic satisfaction, a sense of shared misery.",
+      "Lighting_and_Color": "Dramatic, theatrical lighting. A spotlight illuminates the scene in the pit, showing the suffering eyes and the knowing heart. The woman observing has a complex, bittersweet expression."
+    },
+    "Technical_Cues": {
+      "Camera": "A subjective shot from the woman's perspective, looking down into the symbolic pit where her heart and eyes are struggling together.",
+      "Resolution": "8K, surreal realism, with expressive personified eyes.",
+      "Lighting": "Spotlighting to create a theatrical, stage-like feel for the internal drama.",
+      "Art_Genre": "Allegorical surrealism, depicting an internal monologue as a physical scene."
+    },
+    "Cultural_Anchors": [
+      "The personification of body parts",
+      "Schadenfreude in suffering",
+      "Shared misery between cause (eyes) and effect (heart)"
+    ]
+  },
+  "Negative_Prompt": "happy, free eyes, modern setting, text artifacts, cartoonish, purely sad scene."
+}

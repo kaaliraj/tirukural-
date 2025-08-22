@@ -1,0 +1,39 @@
+{
+  "Kural_Info": {
+    "Number": 824,
+    "Chapter": "கூடாநட்பு (Unreal Friendship)",
+    "Tamil_Text": "முகத்தின் இனிய நகாஅ அகத்தின்னா வஞ்சரை அஞ்சப் படும்.",
+    "English_Meaning": "One should fear the deceitful who smile sweetly with their face but never love with their heart."
+  },
+  "Flux_Optimized_Prompt": {
+    "Layered_Composition": {
+      "Foreground": "A deceitful person ('வஞ்சர்') is shown with a beautiful, sweet, smiling face ('முகத்தின் இனிய நகாஅ').",
+      "Midground": "However, their shadow on the wall behind them is not a human shadow. It is the shadow of a monstrous, venomous serpent with its fangs bared. The shadow reveals the true, hateful nature of their heart ('அகத்தின்னா').",
+      "Background": "A wise person is shown observing this discrepancy between the person and their shadow, and their expression is one of fear and caution ('அஞ்சப்படும்'). They are not fooled by the smiling face."
+    },
+    "Art_Direction": {
+      "Subject_and_Action": "One must fear those who smile with their face but are hateful in their heart.",
+      "Symbolic_Motifs": "The monstrous serpent shadow cast by a smiling person is a powerful and classic metaphor for deceit and hidden danger. It reveals the true inner state.",
+      "Mood_and_Emotion": "Deceptive, dangerous, treacherous, fear-inducing.",
+      "Lighting_and_Color": "The person's face is lit with a warm, inviting light. A single, strong light source creates the sharp, monstrous shadow on the wall. The contrast is key.",
+      "Technical_Cues": {
+        "Camera": "A shot that clearly captures the smiling person and their terrifying shadow in the same frame.",
+        "Resolution": "8K, with a strong, dramatic composition.",
+        "Lighting": "High-contrast, noir-style lighting to create a powerful shadow.",
+        "Art_Genre": "Psychological thriller, symbolic realism."
+      },
+      "Cultural_Anchors": [
+        "A sweet smile on the face ('முகத்தின் இனிய நகாஅ')",
+        "Hate in the heart ('அகத்தின்னா')",
+        "They are to be feared ('வஞ்சரை அஞ்சப்படும்')"
+      ]
+    },
+    "Negative_Prompt": "a friendly shadow, a scowling face, text artifacts.",
+    "Hyperparameters": {
+      "variant": "pro",
+      "steps": 50,
+      "cfg_scale": 9,
+      "seed": "Explore variations for the serpent shadow."
+    }
+  }
+}

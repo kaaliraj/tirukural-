@@ -1,0 +1,39 @@
+{
+  "Kural_Info": {
+    "Number": 842,
+    "Chapter": "புல்லறிவாண்மை (Ignorance)",
+    "Tamil_Text": "அறிவிலான் நெஞ்சுவந்து ஈதல் பிறிதியாதும் இல்லை பெறுவான் தவம்.",
+    "English_Meaning": "If a fool, with a cheerful heart, gives a gift, it is owing to nothing else but the receiver's good desert."
+  },
+  "Flux_Optimized_Prompt": {
+    "Layered_Composition": {
+      "Foreground": "An ignorant fool ('அறிவிலான்') is shown cheerfully and happily giving a valuable gift to another person ('நெஞ்சுவந்து ஈதல்').",
+      "Midground": "The reason for this unexpected generosity is revealed. A golden, divine light of 'good karma' or 'past merit' ('தவம்') is shown descending from the heavens and shining upon the receiver.",
+      "Background": "This divine light is what is actually compelling the fool to give the gift. The fool is merely an unconscious instrument of the receiver's own good fortune. There is no other reason for the fool's action ('பிறிதியாதும் இல்லை')."
+    },
+    "Art_Direction": {
+      "Subject_and_Action": "When a fool gives cheerfully, it is not because of their own virtue, but because of the good karma of the person receiving the gift.",
+      "Symbolic_Motifs": "The divine light of the receiver's merit compelling the fool to act is the key visual. It shows that the agency for the good deed lies with the receiver, not the giver.",
+      "Mood_and_Emotion": "Fateful, karmic, ironic.",
+      "Lighting_and_Color": "A brilliant, divine, golden light shines on the receiver, and a thread of this light connects to the fool's hand, guiding it. The fool themself is in a neutral, slightly dim light.",
+      "Technical_Cues": {
+        "Camera": "A shot that clearly shows the light of merit on the receiver and its influence on the foolish giver.",
+        "Resolution": "8K, with a magical, divine quality to the light.",
+        "Lighting": "The light of karma is the primary, motivating light source.",
+        "Art_Genre": "Mythological realism, spiritual art."
+      }
+    },
+    "Cultural_Anchors": [
+      "A fool giving cheerfully ('அறிவிலான் நெஞ்சுவந்து ஈதல்')",
+      "The receiver's merit/penance ('பெறுவான் தவம்')",
+      "The workings of karma."
+    ]
+  },
+  "Negative_Prompt": "a wise person giving, a receiver with no merit, text artifacts, cartoonish.",
+  "Hyperparameters": {
+    "variant": "pro",
+    "steps": 50,
+    "cfg_scale": 8,
+    "seed": "Explore variations for the light of merit."
+  }
+}

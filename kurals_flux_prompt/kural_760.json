@@ -1,0 +1,39 @@
+{
+  "Kural_Info": {
+    "Number": 760,
+    "Chapter": "பொருள்செயல்வகை (Way of Accumulating Wealth)",
+    "Tamil_Text": "ஒண்பொருள் காழ்ப்ப இயற்றியார்க்கு எண்பொருள் ஏனை இரண்டும் ஒருங்கு.",
+    "English_Meaning": "To those who have honestly acquired an abundance of riches, the other two, (virtue and pleasure) are things easy (of acquisition)."
+  },
+  "Flux_Optimized_Prompt": {
+    "Layered_Composition": {
+      "Foreground": "A person has successfully and virtuously acquired a great deal of wealth, represented by a large, magnificent, fruit-bearing golden tree that they have cultivated ('ஒண்பொருள் காழ்ப்ப இயற்றி').",
+      "Midground": "Because they have this solid foundation of wealth, the other two great goals of life, Virtue ('அறன்') and Pleasure ('இன்பம்'), are shown to be easily obtainable.",
+      "Background": "Virtue is depicted as a path to a beautiful temple that is now easy to walk. Pleasure is depicted as a beautiful, flowing river that is now easy to access. Both are effortlessly within reach ('எண்பொருள்') because of the wealth-tree."
+    },
+    "Art_Direction": {
+      "Subject_and_Action": "For those who have made abundant and excellent wealth, the other two pursuits of life, virtue and pleasure, become easy to attain.",
+      "Symbolic_Motifs": "The golden wealth-tree is the foundation. The now-easy paths to the temple of Virtue and the river of Pleasure show how wealth makes them accessible.",
+      "Mood_and_Emotion": "Complete, fulfilled, effortless, a balanced life.",
+      "Lighting_and_Color": "A bright, warm, golden light from the tree illuminates the entire scene, making all paths clear. The colors are rich and suggest a complete and prosperous life.",
+      "Technical_Cues": {
+        "Camera": "A wide, panoramic shot that shows the central wealth-tree and the two easy paths to virtue and pleasure it opens up.",
+        "Resolution": "8K, with a beautiful, idealized landscape.",
+        "Lighting": "Golden-hour lighting, symbolizing a life of fulfillment.",
+        "Art_Genre": "Allegorical landscape painting, fantasy art."
+      },
+      "Cultural_Anchors": [
+        "Abundant, excellent Wealth ('ஒண்பொருள் காழ்ப்ப')",
+        "Makes Virtue and Pleasure easy ('ஏனை இரண்டும் எண்பொருள்')",
+        "The triad of Aram, Porul, Inbam (Virtue, Wealth, Pleasure)."
+      ]
+    },
+    "Negative_Prompt": "a withered tree, difficult paths, text artifacts, cartoonish.",
+    "Hyperparameters": {
+      "variant": "pro",
+      "steps": 50,
+      "cfg_scale": 8,
+      "seed": "Explore variations for the temple of Virtue and river of Pleasure."
+    }
+  }
+}

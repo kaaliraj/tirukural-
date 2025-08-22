@@ -1,0 +1,39 @@
+{
+  "Kural_Info": {
+    "Number": 577,
+    "Chapter": "கண்ணோட்டம் (Benignity)",
+    "Tamil_Text": "கண்ணோட்டம் இல்லவர் கண்ணிலர் கண்ணுடையார் கண்ணோட்டம் இன்மையும் இல்.",
+    "English_Meaning": "Men without kind looks are men without eyes; those who (really) have eyes are also not devoid of kind looks."
+  },
+  "Flux_Optimized_Prompt": {
+    "Layered_Composition": {
+      "Foreground": "A split-screen portrait. On the left, a figure is shown with physically perfect but completely black, empty eye sockets, representing the 'eyeless' ('கண்ணிலர்') who lack benignity.",
+      "Midground": "On the right, another figure is shown whose eyes are luminous, radiating a warm, compassionate golden light ('கண்ணோட்டம்'). These are the ones who truly 'have eyes' ('கண்ணுடையார்').",
+      "Background": "The world as seen by the left figure is a dark, disconnected void. The world seen by the right figure is vibrant, interconnected, and full of life."
+    },
+    "Art_Direction": {
+      "Subject_and_Action": "A direct, definitional statement: Benignity is the true function of the eye. Lacking it means being truly blind, while possessing it is the sign of true sight.",
+      "Symbolic_Motifs": "The empty sockets versus the luminous, light-giving eyes is the central, stark metaphor. This makes the abstract concept of 'kannottam' a tangible quality of sight.",
+      "Mood_and_Emotion": "Definitive, stark contrast, profound, enlightening.",
+      "Lighting_and_Color": "The left side is dark, cold, and shadowed. The right side is illuminated by the warm, golden light emanating from the compassionate eyes.",
+      "Technical_Cues": {
+        "Camera": "A tight, symmetrical close-up on the two faces, forcing an immediate comparison.",
+        "Resolution": "8K, hyper-realistic, focusing on the texture and light of the eyes (or lack thereof).",
+        "Lighting": "High-contrast, split lighting to match the theme.",
+        "Art_Genre": "Surrealist portraiture, symbolic art."
+      }
+    },
+    "Cultural_Anchors": [
+      "Those lacking benignity are eyeless ('கண்ணோட்டம் இல்லவர் கண்ணிலர்')",
+      "Those with eyes possess benignity ('கண்ணுடையார் கண்ணோட்டம் இன்மையும் இல்')",
+      "Kindness as the essence of sight."
+    ]
+  },
+  "Negative_Prompt": "both figures with normal eyes, the figure with empty sockets looking happy, text artifacts, cartoonish.",
+  "Hyperparameters": {
+    "variant": "pro",
+    "steps": 45,
+    "cfg_scale": 8,
+    "seed": "Explore variations for the glowing eye effect."
+  }
+}

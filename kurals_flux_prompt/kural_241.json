@@ -1,0 +1,39 @@
+{
+  "Kural_Info": {
+    "Number": 241,
+    "Chapter": "அருளுடைமை (Compassion)",
+    "Tamil_Text": "அருட்செல்வம் செல்வத்துள் செல்வம் பொருட்செல்வம்பூரியார் கண்ணும் உள.",
+    "English_Meaning": "The wealth of kindness is wealth of wealth, in as much as the wealth of property is possessed by the basest of men."
+  },
+  "Flux_Optimized_Prompt": {
+    "Layered_Composition": {
+      "Foreground": "On the right, a person is performing an act of compassion ('அருள்'). From this act, a brilliant, radiant, and infinitely expanding treasure of pure light ('அருட்செல்வம்') manifests around them. This is the 'wealth of wealth'.",
+      "Midground": "On the left, for contrast, a base, ignoble-looking person ('பூரியார்') is shown jealously hoarding a massive pile of mundane material wealth—gold, coins, and jewels ('பொருட்செல்வம்').",
+      "Background": "The background for the compassionate person is a vibrant, thriving world. The background for the hoarder is a desolate, sterile vault. The material wealth is shown to be finite and contained, while the spiritual wealth of compassion is boundless and growing."
+    },
+    "Art_Direction": {
+      "Subject_and_Action": "The supreme status of compassion as the 'wealth of wealth', contrasted with mere material wealth, which can be possessed even by the most unworthy.",
+      "Symbolic_Motifs": "The wealth of compassion is a living, growing light, while material wealth is a dead, static heap. The compassionate person is depicted as truly rich and powerful, while the hoarder, despite their gold, looks poor and mean.",
+      "Mood_and_Emotion": "Supreme value, spiritual wealth, true richness, contrasting.",
+      "Lighting_and_Color": "The compassionate scene on the right is bathed in a brilliant, warm, golden light that seems to grow and expand. The hoarding scene on the left is lit by a cold, harsh, metallic glint, and is full of dark, selfish shadows.",
+      "Technical_Cues": {
+        "Camera": "A wide, split-composition shot that starkly contrasts the two types of wealth and their possessors.",
+        "Resolution": "8K, ultra-realistic, with strong ethereal effects for the 'wealth of compassion' and realistic, cold textures for the material wealth.",
+        "Lighting": "Dramatic dual lighting to emphasize the difference between the warm, living light of compassion and the cold, dead light of gold.",
+        "Art_Genre": "Allegorical painting, symbolic diptych."
+      },
+      "Cultural_Anchors": [
+        "Wealth of Compassion (அருட்செல்வம்)",
+        "Wealth of Property (பொருட்செல்வம்)",
+        "The base/ignoble (பூரியார்)"
+      ]
+    },
+    "Negative_Prompt": "sad compassionate person, happy hoarder, compassion depicted as weak, text artifacts.",
+    "Hyperparameters": {
+      "variant": "pro",
+      "steps": 50,
+      "cfg_scale": 9,
+      "seed": "Explore the visual representation of the 'infinitely expanding treasure of light'."
+    }
+  }
+}

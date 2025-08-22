@@ -1,0 +1,39 @@
+{
+  "Kural_Info": {
+    "Number": 594,
+    "Chapter": "ஊக்கமுடைமை (Energy)",
+    "Tamil_Text": "ஆக்கம் அதர்வினாய்ச் செல்லும் அசைவிலா ஊக்க முடையா னுழை.",
+    "English_Meaning": "Wealth will find its own way to the man of unfailing energy."
+  },
+  "Flux_Optimized_Prompt": {
+    "Layered_Composition": {
+      "Foreground": "A person with unwavering energy ('அசைவிலா ஊக்கமுடையான்') is shown focused on their work, diligently building or creating something. They are not looking for wealth.",
+      "Midground": "However, wealth itself ('ஆக்கம்'), personified as a glowing, golden stag or a river of gold, is actively seeking out this person. It is intelligently navigating a complex landscape to find a path directly to them ('அதர்வினாய்ச் செல்லும்').",
+      "Background": "A world of opportunity, where wealth is not a thing to be chased, but a natural consequence that is drawn to diligent and energetic people."
+    },
+    "Art_Direction": {
+      "Subject_and_Action": "Wealth itself will find its way and ask to be admitted to the person who possesses unwavering energy.",
+      "Symbolic_Motifs": "The personification of wealth as an intelligent, active being (golden stag) that seeks out the energetic person is the central metaphor. The person is focused on their work, not the wealth, which comes to them as a result.",
+      "Mood_and_Emotion": "Magnetic, inevitable, rewarding, virtuous.",
+      "Lighting_and_Color": "The energetic person has a focused, determined aura. The golden stag of wealth is the main source of magical light, illuminating the path it takes to reach the person.",
+      "Technical_Cues": {
+        "Camera": "A wide shot that shows the energetic person at work and the stag of wealth making its journey towards them.",
+        "Resolution": "8K, with a mythical, painterly quality.",
+        "Lighting": "Magical, radiant lighting from the personified wealth.",
+        "Art_Genre": "Mythological realism, fantasy art."
+      }
+    },
+    "Cultural_Anchors": [
+      "Wealth finding its own way ('ஆக்கம் அதர்வினாய்ச் செல்லும்')",
+      "The man of unwavering energy ('அசைவிலா ஊக்கமுடையான்')",
+      "The law of attraction for the industrious."
+    ]
+  },
+  "Negative_Prompt": "person chasing the stag, stag running away, text artifacts, cartoonish.",
+  "Hyperparameters": {
+    "variant": "dev",
+    "steps": 45,
+    "cfg_scale": 8,
+    "seed": "Explore variations for the design of the golden stag."
+  }
+}

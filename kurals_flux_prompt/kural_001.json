@@ -1,0 +1,39 @@
+{
+  "Kural_Info": {
+    "Number": 1,
+    "Chapter": "கடவுள் வாழ்த்து (The Praise of God)",
+    "Tamil_Text": "அகர முதல எழுத்தெல்லாம் ஆதிபகவன் முதற்றே உலகு.",
+    "English_Meaning": "A, as its first of letters, every speech maintains; The 'Primal Deity' is first through all the world's domains."
+  },
+  "Flux_Optimized_Prompt": {
+    "Layered_Composition": {
+      "Foreground": "In the foreground, a lush, vibrant world (ulagu) is depicted, with mountains, rivers, and forests basking in life-giving energy.",
+      "Midground": "A river of stardust, representing the entire Tamil alphabet, flows out from the divine source, with the primordial letter 'அ' visibly leading the way.",
+      "Background": "In the deep background, a vast cosmic landscape of swirling galaxies and nebulae unfolds from a central singularity of light."
+    },
+    "Art_Direction": {
+      "Subject_and_Action": "The Aadhi Bhagavan (Primal Deity), visualized as a singularity of pure, golden light, from which the universe emanates.",
+      "Symbolic_Motifs": "The Tamil letter 'அ' is integrated into the core of the light, signifying it as the origin point of all creation and sound.",
+      "Mood_and_Emotion": "Awe-inspiring, primordial, foundational, divine creation.",
+      "Lighting_and_Color": "An intense, radiant golden-white light emanates from the central source, casting a warm, life-sustaining glow. The color palette is dominated by divine golds, cosmic blues, and vibrant terrestrial greens."
+    },
+    "Technical_Cues": {
+      "Camera": "Ultra-wide cinematic shot, epic cosmic perspective, shot on 70mm lens.",
+      "Resolution": "8K, ultra-realistic, photorealistic details.",
+      "Lighting": "Volumetric lighting, radiant glow, god rays emanating from the central source.",
+      "Art_Genre": "Digital matte painting meets cosmic art, with mystical painterly effects for symbolic elements."
+    },
+    "Cultural_Anchors": [
+      "Thiruvalluvar's concept of Aadhi Bhagavan",
+      "Primodial nature of the Tamil letter 'அ'",
+      "கடவுள் வாழ்த்து"
+    ]
+  },
+  "Negative_Prompt": "text artifacts, deformed planets, cartoony, oversaturated, blurry, low-resolution, human figures, religious idols, non-Tamil iconography.",
+  "Hyperparameters": {
+    "variant": "pro",
+    "steps": 50,
+    "cfg_scale": 8,
+    "seed": "Explore variations for cosmic patterns."
+  }
+}

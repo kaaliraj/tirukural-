@@ -1,0 +1,38 @@
+{
+  "Kural_Info": {
+    "Number": 1121,
+    "Chapter": "காதற்சிறப்புரைத்தல் (Declaration of Love's special Excellence)",
+    "Tamil_Text": "பாலொடு தேன்கலந் தற்றே பணிமொழிவாலெயிறு ஊறிய நீர்.",
+    "English_Meaning": "The water which oozes from the white teeth of this soft speeched damsel is like a mixture of milk and honey."
+  },
+  "Flux_Optimized_Prompt": {
+    "Layered_Composition": {
+      "Foreground": "An extreme close-up of a maiden's mouth as she speaks soft words ('பணிமொழி'). Her teeth are perfectly white ('வால் எயிறு').",
+      "Midground": "A tiny, single drop of saliva ('ஊறிய நீர்') is seen on her teeth or lips. This drop is not clear, but is a magical, swirling mixture of pure white milk and golden honey.",
+      "Background": "In a parallel visual, a beautiful ceramic bowl is shown where fresh milk ('பால்') and golden honey ('தேன்') are being poured and blended together ('கலந்தற்று'), creating the exact same substance as the drop on her lips."
+    },
+    "Art_Direction": {
+      "Subject_and_Action": "A beautiful and intimate simile: the saliva of the soft-spoken, white-toothed beloved is as sweet and perfect as a mixture of milk and honey.",
+      "Symbolic_Motifs": "The literal visualization of her saliva as a milk-and-honey mixture is the key. The comparison is direct and sensory. Her soft speech is the context that makes this possible.",
+      "Mood_and_Emotion": "Sweet, pure, intimate, delicious.",
+      "Lighting_and_Color": "A soft, warm, and intimate light. The milk-and-honey drop should have a beautiful, magical, and appetizing glow. The palette is dominated by pure whites and rich golds.",
+      "Technical_Cues": {
+        "Camera": "A sensual, macro close-up on the mouth and lips, capturing the detail of the magical droplet.",
+        "Resolution": "8K, hyper-realistic, with advanced liquid effects for the swirling milk and honey.",
+        "Lighting": "Soft, flattering, beauty lighting.",
+        "Art_Genre": "Magical realism, romantic still life."
+      },
+      "Cultural_Anchors": [
+        "Like milk mixed with honey (பாலொடு தேன் கலந்தற்று)",
+        "The water from the white teeth of the soft-spoken one (பணிமொழி வால் எயிறு ஊறிய நீர்)"
+      ]
+    },
+    "Negative_Prompt": "yellow teeth, harsh speech, text artifacts.",
+    "Hyperparameters": {
+      "variant": "pro",
+      "steps": 50,
+      "cfg_scale": 7,
+      "seed": "Explore the visual of the swirling milk and honey."
+    }
+  }
+}

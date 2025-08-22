@@ -1,0 +1,39 @@
+{
+  "Kural_Info": {
+    "Number": 1079,
+    "Chapter": "கயமை (Baseness)",
+    "Tamil_Text": "உடுப்பதூஉம் உண்பதூஉம் காணின் பிறர்மேல்வடுக்காண வற்றாகும் கீழ்.",
+    "English_Meaning": "The base will bring an evil (accusation) against others, as soon as he sees them (enjoying) good food and clothing."
+  },
+  "Flux_Optimized_Prompt": {
+    "Layered_Composition": {
+      "Foreground": "A base person ('கீழ்') is observing others.",
+      "Midground": "They see a respectable person enjoying simple pleasures—wearing a clean new garment ('உடுப்பது') and eating a decent meal ('உண்பது').",
+      "Background": "The moment the base person witnesses this innocent prosperity, their mind is shown to be a \"fault-finding machine.\" A dark, venomous envy rises within them, and they instantly project a false, ugly scar or stain ('வடு') onto the respectable person. They cannot see others' happiness without trying to find or invent a flaw."
+    },
+    "Art_Direction": {
+      "Subject_and_Action": "The defining characteristic of the base is their compulsion to find fault in others the moment they see them enjoying even the simplest of life's prosperities.",
+      "Symbolic_Motifs": "The 'fault-finding machine' in the mind is a key visual. The magical appearance of the ugly scar on the innocent person is a direct result of the base person's envious gaze. The scar is not real, but a projection of their own malice.",
+      "Mood_and_Emotion": "Envious, malicious, fault-finding, petty.",
+      "Lighting_and_Color": "The respectable person is in a simple, clean, natural light. The base person is shrouded in a sickly, green-yellow light of envy. The projected scar is a dark, ugly stain.",
+      "Technical_Cues": {
+        "Camera": "A shot from the base person's point of view, showing how their envious gaze actively projects a flaw onto the person they are watching.",
+        "Resolution": "8K, ultra-realistic, with a strong focus on the malicious expression of the base person.",
+        "Lighting": "Symbolic lighting to represent the color of envy.",
+        "Art_Genre": "Psychological realism, with surreal elements."
+      },
+      "Cultural_Anchors": [
+        "Seeing others' clothing and food (உடுப்பதூஉம் உண்பதூஉம் காணின்)",
+        "Being able to find a fault/scar (வடுக்காண வற்றாகும்)",
+        "The base person (கீழ்)"
+      ]
+    },
+    "Negative_Prompt": "base person being happy for others, text artifacts, real scar.",
+    "Hyperparameters": {
+      "variant": "dev",
+      "steps": 45,
+      "cfg_scale": 8,
+      "seed": "Explore the visual of the 'projected scar'."
+    }
+  }
+}

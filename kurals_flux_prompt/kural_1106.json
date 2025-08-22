@@ -1,0 +1,38 @@
+{
+  "Kural_Info": {
+    "Number": 1106,
+    "Chapter": "புணர்ச்சிமகிழ்தல் (Rejoicing in the Embrace)",
+    "Tamil_Text": "உறுதோறு உயிர்தளிர்ப்பத் தீண்டலால் பேதைக்குஅமிழ்தின் இயன்றன தோள்.",
+    "English_Meaning": "The shoulders of this fair one are made of ambrosia, for they revive me with pleasure every time I embrace them."
+  },
+  "Flux_Optimized_Prompt": {
+    "Layered_Composition": {
+      "Foreground": "A lover is embracing his beloved ('பேதை'). His own life-force ('உயிர்') is depicted as a slightly withered plant within his chest.",
+      "Midground": "The moment his body touches her shoulders ('உறு தோறு தீண்டலால்'), a magical transformation occurs.",
+      "Background": "Her shoulders ('தோள்') are revealed to be made not of flesh, but of pure, glowing, divine ambrosia ('அமிழ்தின் இயன்றன'). This ambrosia flows into him upon contact, causing the withered plant of his life-force to instantly revive, sprout fresh leaves, and flourish ('உயிர் தளிர்ப்ப')."
+    },
+    "Art_Direction": {
+      "Subject_and_Action": "The beloved's shoulders must be made of ambrosia, because every time the lover touches them, his very life-force is revived and rejuvenated.",
+      "Symbolic_Motifs": "The life-force as a plant that withers and revives is the key visual metaphor. Her shoulders as literal, glowing ambrosia is a magical realist interpretation of the Kural. The healing is instantaneous upon contact.",
+      "Mood_and_Emotion": "Rejuvenating, life-giving, divine, magical.",
+      "Lighting_and_Color": "Her shoulders are the source of a brilliant, divine, golden-white light of ambrosia. This light is shown flowing into him and causing the plant within him to glow with a vibrant, healthy green.",
+      "Technical_Cues": {
+        "Camera": "A symbolic, cross-section shot that shows the lover's inner state and the magical, healing effect of her touch.",
+        "Resolution": "8K, ultra-realistic, with advanced ethereal and botanical effects.",
+        "Lighting": "Her shoulders are the radiant, healing light source.",
+        "Art_Genre": "High fantasy romance, magical realism."
+      },
+      "Cultural_Anchors": [
+        "Her shoulders are made of ambrosia (அமிழ்தின் இயன்றன தோள்)",
+        "Because my life revives with every touch (உறுதோறும் உயிர் தளிர்ப்பத் தீண்டலால்)"
+      ]
+    },
+    "Negative_Prompt": "normal shoulders, dying plant, text artifacts.",
+    "Hyperparameters": {
+      "variant": "pro",
+      "steps": 55,
+      "cfg_scale": 8,
+      "seed": "Explore the visual of 'shoulders made of ambrosia'."
+    }
+  }
+}

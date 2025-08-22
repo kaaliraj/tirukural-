@@ -1,0 +1,40 @@
+{
+  "Kural_Info": {
+    "Number": 747,
+    "Chapter": "அரண் (The Fortification)",
+    "Tamil_Text": "முற்றியும் முற்றா தெறிந்தும் அறைப்படுத்தும்பற்றற் கரியது அரண்.",
+    "English_Meaning": "A fort should be impregnable to foes who gird it round, Or aim there darts from far, or mine beneath the ground."
+  },
+  "Flux_Optimized_Prompt": {
+    "Layered_Composition": {
+      "Foreground": "A mighty fortress is being assaulted by an enemy using three different tactics simultaneously.",
+      "Midground": "One part of the enemy army is completely surrounding the fortress in a full siege ('முற்றியும்'). Another part is attacking from a distance with siege engines like catapults ('எறிந்தும்'). A third group is trying to undermine the walls through secret tunnels, representing trickery or sowing internal discord ('அறைபடுத்தும்').",
+      "Background": "The fortress is shown to be completely invulnerable to all three methods of attack. The siege fails, the projectiles bounce off harmlessly, and the tunnels collapse. It is impossible to capture ('பற்றற்கு அரியது')."
+    },
+    "Art_Direction": {
+      "Subject_and_Action": "A true fortress is one that is impossible to capture, regardless of the method of attack—be it total siege, ranged assault, or internal division and trickery.",
+      "Symbolic_Motifs": "The three distinct, failed methods of attack are the core of the narrative, each demonstrating a different aspect of the fortress's impregnability.",
+      "Mood_and_Emotion": "Impregnable, versatile in defense, unconquerable, strategically superior.",
+      "Lighting_and_Color": "A chaotic, fiery light from the enemy's attack, which fails to make any impact on the cool, solid, grey stone of the fortress. The fortress remains undamaged and serene.",
+      "Technical_Cues": {
+        "Camera": "An isometric or high-angle view that allows the viewer to see all three methods of attack being deployed and failing simultaneously.",
+        "Resolution": "8K, with a massive, epic scale.",
+        "Lighting": "The fortress is lit with a calm, steady light, while the attackers are in a chaotic, fiery light.",
+        "Art_Genre": "Epic battle scene, military strategy illustration."
+      }
+    },
+    "Cultural_Anchors": [
+      "Resistant to Siege ('முற்றியும்')",
+      "Resistant to Ranged Attack ('எறிந்தும்')",
+      "Resistant to Division/Trickery ('அறைபடுத்தும்')",
+      "Impossible to Capture ('பற்றற்கு அரியது')"
+    ]
+  },
+  "Negative_Prompt": "fortress walls crumbling, successful attack, text artifacts, cartoonish.",
+  "Hyperparameters": {
+    "variant": "dev",
+    "steps": 45,
+    "cfg_scale": 9,
+    "seed": "Explore variations for the siege engines."
+  }
+}

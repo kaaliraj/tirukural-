@@ -1,0 +1,38 @@
+{
+  "Kural_Info": {
+    "Number": 211,
+    "Chapter": "ஒப்புரவறிதல் (Duty to Society)",
+    "Tamil_Text": "கைம்மாறு வேண்டா கடப்பாடு மாரிமாட்டுஎன்ஆற்றுங் கொல்லோ உலகு.",
+    "English_Meaning": "Benevolence seeks not a return. What does the world give back to the clouds?"
+  },
+  "Flux_Optimized_Prompt": {
+    "Layered_Composition": {
+      "Foreground": "A virtuous person is shown performing a great act of benevolence for society, such as building a free hospital or a school. They do so with a serene expression, expecting nothing in return.",
+      "Midground": "In a grand, parallel simile, a vast, benevolent rain cloud ('மாரி') is shown showering a parched earth with life-giving rain.",
+      "Background": "The Earth ('உலகு') below is shown receiving the rain with immense gratitude, but it is giving nothing back to the cloud. The image poses the rhetorical question, 'What repayment does the world make?' ('என் ஆற்றுங்கொல்'), making it clear that the cloud's gift is unconditional. The virtuous person's duty is of the same nature."
+    },
+    "Art_Direction": {
+      "Subject_and_Action": "The duty of benevolence, like the rain from a cloud, is an act that by its very nature does not seek or require repayment.",
+      "Symbolic_Motifs": "The central simile is the comparison of the benevolent person's duty ('கடப்பாடு') to the rain cloud. Both give freely and without expectation. The key is the one-way flow of grace from the giver to the receiver, with no return path.",
+      "Mood_and_Emotion": "Selfless, benevolent, unconditional, natural duty.",
+      "Lighting_and_Color": "A soft, gentle, and life-giving light illuminates both the benevolent person and the rain cloud. The palette is dominated by the cool, life-giving blues and silvers of the rain, and the warm, grateful greens and browns of the receiving earth.",
+      "Technical_Cues": {
+        "Camera": "A wide, epic shot that presents the human act of benevolence and the natural act of the rain as two parallel, equally noble events.",
+        "Resolution": "8K, ultra-realistic, with beautiful, gentle rain effects.",
+        "Lighting": "Soft, diffused lighting to create a mood of gentle, selfless giving.",
+        "Art_Genre": "Symbolic realism, allegorical landscape."
+      },
+      "Cultural_Anchors": [
+        "Duty that seeks no return (கைம்மாறு வேண்டா கடப்பாடு)",
+        "Like the rain cloud (மாரி மாட்டு)"
+      ]
+    },
+    "Negative_Prompt": "person demanding payment, earth sending gifts back to the cloud, text artifacts.",
+    "Hyperparameters": {
+      "variant": "pro",
+      "steps": 50,
+      "cfg_scale": 7,
+      "seed": "Explore the visual of the benevolent, giving rain cloud."
+    }
+  }
+}

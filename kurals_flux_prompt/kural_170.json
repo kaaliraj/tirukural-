@@ -1,0 +1,38 @@
+{
+  "Kural_Info": {
+    "Number": 170,
+    "Chapter": "అழுக்காறாமை (Not Envying)",
+    "Tamil_Text": "అழுக்கற்று அகன்றாரும் இல்லை అஃதுఇல்லார்பெருக்கத்தில் தீர்ந்தாரும் இல்.",
+    "English_Meaning": "Never have the envious become great; never have those who are free from envy been without greatness."
+  },
+  "Flux_Optimized_Prompt": {
+    "Layered_Composition": {
+      "Foreground": "A stark, split composition presenting two absolute laws.",
+      "Midground": "On the left, an envious person is shown trying to climb a mountain towards a peak representing 'Greatness'. However, their envy is a heavy, dark chain that forever keeps them shackled to the bottom. It is an absolute rule: 'the envious never become great' ('అழுக்கற்று அகன்றாரும் இல்லை').",
+      "Background": "On the right, a person free from envy is shown. They may be starting from a humble position, but because they are unburdened by the chain of envy, a path of light naturally leads them upwards towards a state of prosperity and greatness ('பெருக்கத்தில் தீர்ந்தாரும் இல்'). Their rise is gentle but certain."
+    },
+    "Art_Direction": {
+      "Subject_and_Action": "An illustration of two universal laws: no envious person has ever achieved true greatness, and no person free from envy has ever failed to achieve it.",
+      "Symbolic_Motifs": "The chain of envy is a powerful metaphor for the self-imposed limitation of the envious. The path of light for the non-envious shows that greatness is their natural destination. The two laws are presented as absolute and without exception.",
+      "Mood_and_Emotion": "Absolute, certain, universal law, fated.",
+      "Lighting_and_Color": "The left side is dark, shadowy, and stagnant, dominated by the black iron of the chain. The right side is bright, hopeful, and ascending, filled with the golden light of the path to greatness.",
+      "Technical_Cues": {
+        "Camera": "A balanced diptych shot that presents the two inevitable fates as a clear, contrasting pair.",
+        "Resolution": "8K, ultra-realistic, with a strong focus on the symbolic chain and the path of light.",
+        "Lighting": "Strong dualistic lighting to represent the two absolute outcomes.",
+        "Art_Genre": "Symbolic realism, allegorical art."
+      },
+      "Cultural_Anchors": [
+        "The envious have never become great (అழுக்கற்று அகன்றாரும் இல்லை)",
+        "Those without it have never failed to achieve greatness (అஃது இல்லார் பெருக்கத்தில் தீர்ந்தாரும் இல்)"
+      ]
+    },
+    "Negative_Prompt": "great envious person, failing non-envious person, text artifacts.",
+    "Hyperparameters": {
+      "variant": "pro",
+      "steps": 50,
+      "cfg_scale": 8,
+      "seed": "Explore the design of the 'heavy chain of envy'."
+    }
+  }
+}

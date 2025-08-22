@@ -1,0 +1,39 @@
+{
+  "Kural_Info": {
+    "Number": 1072,
+    "Chapter": "கயமை (Baseness)",
+    "Tamil_Text": "நன்றறி வாரிற் கயவர் திருவுடையர்நெஞ்சத்து அவலம் இலர்.",
+    "English_Meaning": "The low enjoy more felicity than those who know what is good; for the former are not troubled with anxiety (as to the good)."
+  },
+  "Flux_Optimized_Prompt": {
+    "Layered_Composition": {
+      "Foreground": "A split composition.",
+      "Midground": "On the right, a wise, virtuous person who 'knows what is good' ('நன்று அறிவார்'). Their mind is depicted as a complex landscape of moral duties, concerns, and anxieties ('அவலம்'), and their expression is noble but burdened with care.",
+      "Background": "On the left, a base person ('கயவர்') is shown living a life of careless indulgence. Their mind is a complete blank, an empty, peaceful void ('நெஞ்சத்து அவலம் இலர்'). Because of this freedom from conscience, their external life is one of carefree, blissful enjoyment ('திருவுடையர்')."
+    },
+    "Art_Direction": {
+      "Subject_and_Action": "An ironic observation: the base are, in a sense, more fortunate and happy than the good, because they are completely free from the anxieties and burdens of a conscience.",
+      "Symbolic_Motifs": "The contrast between the burdened mind of the good and the empty mind of the base is the central visual. The 'felicity' of the base is shown to be a direct result of their ignorance and lack of moral concern.",
+      "Mood_and_Emotion": "Ironic, paradoxical, carefree vs. burdened.",
+      "Lighting_and_Color": "The wise person's scene is in noble but somber and complex colors. The base person's scene is lit with a bright, simple, almost stupidly cheerful light. The palette contrasts complex, thoughtful tones with simple, hedonistic ones.",
+      "Technical_Cues": {
+        "Camera": "A diptych shot that contrasts the inner states of the two individuals.",
+        "Resolution": "8K, ultra-realistic, with a strong focus on the contrasting facial expressions.",
+        "Lighting": "Dualistic lighting to show the 'burden of wisdom' versus the 'bliss of ignorance'.",
+        "Art_Genre": "Allegorical painting, social satire."
+      },
+      "Cultural_Anchors": [
+        "The base are more fortunate (கயவர் திருவுடையர்)",
+        "Than those who know what is good (நன்று அறிவாரின்)",
+        "For they have no anxiety in their heart (நெஞ்சத்து அவலம் இலர்)"
+      ]
+    },
+    "Negative_Prompt": "happy wise person, sad base person, text artifacts.",
+    "Hyperparameters": {
+      "variant": "pro",
+      "steps": 50,
+      "cfg_scale": 8,
+      "seed": "Explore the visual representation of the 'burdened' vs. 'empty' mind."
+    }
+  }
+}

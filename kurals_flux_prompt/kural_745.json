@@ -1,0 +1,39 @@
+{
+  "Kural_Info": {
+    "Number": 745,
+    "Chapter": "அரண் (The Fortification)",
+    "Tamil_Text": "கொளற்கரிதாய்க் கொண்டகூழ்த் தாகி அகத்தார் நிலைக்கெளிதாம் நீரது அரண்.",
+    "English_Meaning": "A fort is that which cannot be captured, which abounds in suitable provisions, and affords a position of easy defence to its inmates."
+  },
+  "Flux_Optimized_Prompt": {
+    "Layered_Composition": {
+      "Foreground": "An enemy army is shown failing completely to capture a fortress. It is simply impossible to take ('கொளற்கரிதாய்').",
+      "Midground": "A cutaway view of the fortress interior reveals vast, overflowing storehouses of food and supplies ('கொண்டகூழ்த்தாகி').",
+      "Background": "The defenders ('அகத்தார்') are shown fighting with ease and confidence from their well-designed battlements. Their position is so advantageous that their defense is easy and sustainable ('நிலைக்கு எளிதாம்')."
+    },
+    "Art_Direction": {
+      "Subject_and_Action": "The ideal fortress has three qualities: it is impossible for the enemy to capture, it is abundantly supplied with provisions, and it provides an easy defensive position for its own soldiers.",
+      "Symbolic_Motifs": "The image combines the three key features: the failed external assault, the overflowing internal supplies, and the easy, effective defense.",
+      "Mood_and_Emotion": "Impregnable, well-supplied, sustainable, secure.",
+      "Lighting_and_Color": "The outside of the fortress is a scene of chaotic and failed attack. The inside is orderly, abundant, and calm. The colors reflect this contrast.",
+      "Technical_Cues": {
+        "Camera": "A dramatic cross-section or diorama-style view that shows the exterior and interior of the fortress simultaneously.",
+        "Resolution": "8K, with rich detail in the battle and the fortress interior.",
+        "Lighting": "Contrasting light for the exterior chaos and interior order.",
+        "Art_Genre": "Epic historical illustration."
+      }
+    },
+    "Cultural_Anchors": [
+      "Difficult to capture ('கொளற்கரிதாய்')",
+      "Abundant in supplies ('கொண்டகூழ்த்தாகி')",
+      "Easy to defend from ('நிலைக்கு எளிதாம்')"
+    ]
+  },
+  "Negative_Prompt": "fortress being captured, empty storehouses, difficult defensive positions, text artifacts.",
+  "Hyperparameters": {
+    "variant": "pro",
+    "steps": 50,
+    "cfg_scale": 8,
+    "seed": "Explore variations for the overflowing storehouses."
+  }
+}

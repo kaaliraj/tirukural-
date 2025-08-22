@@ -1,0 +1,39 @@
+{
+  "Kural_Info": {
+    "Number": 427,
+    "Chapter": "அறிவுடைமை (The Possession of Knowledge)",
+    "Tamil_Text": "அறிவுடையார் ஆவ தறிவார் அறிவிலார் அஃதறி கல்லா தவர்.",
+    "English_Meaning": "The wise are those who know beforehand what will happen; those who do not know this are the unwise."
+  },
+  "Flux_Optimized_Prompt": {
+    "Layered_Composition": {
+      "Foreground": "A wise person ('அறிவுடையார்') stands on a hill, looking into the distance. Before them, the path of the future unfolds like a luminous, transparent ribbon, showing clear visions of events to come ('ஆவதறிவார்').",
+      "Midground": "Below in the valley, an unwise person ('அறிவிலார்') walks blindly, unable to see the path ahead, which is shrouded in a thick, impenetrable fog. They are about to walk into a pitfall that is clearly visible on the wise person's ribbon of future.",
+      "Background": "A vast landscape under a sky that is clear and bright from the wise person's perspective, but foggy and dark from the unwise person's view."
+    },
+    "Art_Direction": {
+      "Subject_and_Action": "The defining characteristic of the wise is their ability to foresee the future, while the unwise are blind to what is to come.",
+      "Symbolic_Motifs": "The luminous ribbon of the future represents foresight. The thick fog represents ignorance of what is to come. The vantage point of the wise person symbolizes their elevated perspective.",
+      "Mood_and_Emotion": "Prescient, wise, contrasting, cautionary.",
+      "Lighting_and_Color": "The wise person's scene is bright, clear, and illuminated by the glowing ribbon. The unwise person's scene is dark, grey, and obscured by fog.",
+      "Technical_Cues": {
+        "Camera": "A high-angle shot from behind the wise person, allowing the viewer to share their foresight and see the danger awaiting the unwise person below.",
+        "Resolution": "8K, cinematic, with realistic fog effects and ethereal effects for the ribbon of time.",
+        "Lighting": "High-contrast lighting between the hilltop and the valley.",
+        "Art_Genre": "Fantasy realism, symbolic narrative."
+      }
+    },
+    "Cultural_Anchors": [
+      "Foresight of the Wise ('ஆவதறிவார்')",
+      "Blindness of the Unwise ('அஃதறி கல்லாதவர்')",
+      "Wisdom as the ability to anticipate consequences."
+    ]
+  },
+  "Negative_Prompt": "wise person in fog, clear path for the unwise, text artifacts, blurry ribbon.",
+  "Hyperparameters": {
+    "variant": "pro",
+    "steps": 50,
+    "cfg_scale": 8,
+    "seed": "Explore variations for the visions within the time ribbon."
+  }
+}

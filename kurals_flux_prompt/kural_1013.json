@@ -1,0 +1,33 @@
+{
+  "Kural_Info": {
+    "Number": 1013,
+    "Chapter": "நாணுடைமை (Shame)",
+    "Tamil_Text": "ஊனைக் குறித்த உயிரெல்லாம் நாண்என்னும்நன்மை குறித்தது சால்பு.",
+    "English_Meaning": "All spirits homes of flesh as habitation claim, And perfect virtue ever dwells with shame."
+  },
+  "Flux_Optimized_Prompt": {
+    "Layered_Composition": {
+      "Foreground": "A human body is depicted, ethereal and slightly translucent ('Oonai Kuritha Uyir').",
+      "Midground": "Within the body, at its very core (the heart or soul), there is a radiant, jewel-like structure. This jewel is 'Saalbu' (perfect goodness).",
+      "Background": "This jewel of 'Saalbu' is shown to be intrinsically fused with or protected by a softer, glowing aura of 'Naan' (virtuous shame). They are inseparable, with 'Naan' being the necessary vessel or atmosphere for 'Saalbu'."
+    },
+    "Art_Direction": {
+      "Subject_and_Action": "A metaphysical illustration showing the relationship between the soul, perfect goodness, and shame. Just as the soul inhabits the body, perfect goodness inhabits the virtue of shame.",
+      "Symbolic_Motifs": "The body as a vessel for the soul. Perfect goodness ('Saalbu') as a core jewel. Virtuous shame ('Naan') as the essential, protective setting or aura for that jewel.",
+      "Mood_and_Emotion": "Profound, spiritual, introspective, illustrating an inner truth.",
+      "Lighting_and_Color": "The image is lit from within by the glowing jewel and its aura. The colors are deep, ethereal, and jewel-toned—sapphire blues, golden ambers, and pearly whites."
+    },
+    "Technical_Cues": {
+      "Camera": "Symbolic close-up, focusing on the chest/heart area of the ethereal figure to reveal the inner jewel and aura.",
+      "Resolution": "8K, mystical realism, with beautiful transparency, refraction, and glowing light effects.",
+      "Lighting": "Internal, volumetric, radiant lighting that feels sacred and profound.",
+      "Art_Genre": "Metaphysical or spiritual concept art."
+    },
+    "Cultural_Anchors": [
+      "சால்பு (Perfect Goodness)",
+      "நாண் (Virtuous Shame)",
+      "The body-soul relationship (ஊன்-உயிர்)"
+    ]
+  },
+  "Negative_Prompt": "a literal depiction of shame, a dark or evil core, opaque body, text artifacts, cartoonish, blurry."
+}

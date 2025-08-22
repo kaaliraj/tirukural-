@@ -1,0 +1,39 @@
+{
+  "Kural_Info": {
+    "Number": 933,
+    "Chapter": "சூது (Gambling)",
+    "Tamil_Text": "உருளாயம் ஓவாது கூறின் பொருளாயம் போஒய்ப் புறமே படும்.",
+    "English_Meaning": "If the king is incessantly addicted to the rolling dice in the hope of gain, his wealth and the resources thereof will take their departure and fall into other's hands."
+  },
+  "Flux_Optimized_Prompt": {
+    "Layered_Composition": {
+      "Foreground": "A king is shown obsessed with the rolling dice, constantly talking of nothing but the game ('உருளாயம் ஓவாது கூறின்').",
+      "Midground": "As he focuses on the dice, his entire ancestral wealth and the sources of his income ('பொருளாயம்'), visualized as a great, flowing river of gold, are shown diverting their course. They are flowing away from his kingdom.",
+      "Background": "The river of gold is shown flowing away from his palace and directly into the hands of his enemies or strangers, who are waiting outside ('புறமே படும்'). His addiction is causing his entire fortune to abandon him."
+    },
+    "Art_Direction": {
+      "Subject_and_Action": "If one is constantly obsessed with the rolling dice, their wealth and its sources will abandon them and go to others.",
+      "Symbolic_Motifs": "The river of wealth changing its course and flowing to enemies is the central, powerful metaphor. The king's obsessive gaze on the dice is the cause.",
+      "Mood_and_Emotion": "Self-destructive, addictive, a great loss.",
+      "Lighting_and_Color": "A sickly, obsessive light on the king and his dice game. The river of gold is bright, but it is tragically flowing away from him.",
+      "Technical_Cues": {
+        "Camera": "A high-angle shot that shows the king's obsession and the disastrous re-routing of his river of wealth.",
+        "Resolution": "8K, with beautiful and tragic fluid simulation for the golden river.",
+        "Lighting": "The light follows the gold, abandoning the king as his wealth leaves.",
+        "Art_Genre": "Symbolic fantasy art."
+      },
+      "Cultural_Anchors": [
+        "Obsession with rolling dice",
+        "Wealth and its sources will depart",
+        "The ruinous nature of a gambling addiction."
+      ]
+    },
+    "Negative_Prompt": "the river flowing towards the king, text artifacts, cartoonish.",
+    "Hyperparameters": {
+      "variant": "pro",
+      "steps": 50,
+      "cfg_scale": 8,
+      "seed": "Explore variations for the river of gold."
+    }
+  }
+}

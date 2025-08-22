@@ -1,0 +1,39 @@
+{
+  "Kural_Info": {
+    "Number": 533,
+    "Chapter": "பொச்சாவாமை (Unforgetfulness)",
+    "Tamil_Text": "பொச்சாப்பார்க் கில்லை புகழ்மை அதுஉலகத்து எப்பால்நூ லோர்க்கும் துணிவு.",
+    "English_Meaning": "The forgetful will never acquire fame; and this is the tenet of all treatises in the world."
+  },
+  "Flux_Optimized_Prompt": {
+    "Layered_Composition": {
+      "Foreground": "A central figure is shown being careless and forgetful ('பொச்சாப்பார்'). As a result, a radiant crown of Fame ('புகழ்மை') that was descending towards their head is shown stopping and fading away into nothingness.",
+      "Midground": "Surrounding this central scene are representations of all the world's great schools of thought and books ('எப்பால் நூலோர்'). Sages and scholars from diverse cultures (Egyptian, Greek, Chinese, Indian) are all shown pointing towards the central figure and nodding in agreement.",
+      "Background": "A vast, celestial library containing the wisdom of the entire world, reinforcing the universal nature of this truth."
+    },
+    "Art_Direction": {
+      "Subject_and_Action": "It is a unanimous conclusion of all wise texts in the world that fame is impossible for the forgetful and careless.",
+      "Symbolic_Motifs": "The fading crown of fame is the direct consequence of forgetfulness. The chorus of agreement from the world's sages represents the universal verdict ('துணிவு').",
+      "Mood_and_Emotion": "Universal truth, conclusive, authoritative, cautionary.",
+      "Lighting_and_Color": "The light of the fading crown is the primary focus. The sages are lit with a wise, scholarly light. The forgetful person is in a neutral, slightly dim light.",
+      "Technical_Cues": {
+        "Camera": "A centered, symbolic shot that places the forgetful person at the heart of this universal judgment.",
+        "Resolution": "8K, with rich historical details on the diverse scholars.",
+        "Lighting": "A divine or universal light that unites all the sages in their judgment.",
+        "Art_Genre": "Grand historical allegory, with symbolic elements."
+      },
+      "Cultural_Anchors": [
+        "No Fame for the Forgetful ('பொச்சாப்பார்க்கு இல்லை புகழ்மை')",
+        "The Verdict of all Books ('எப்பால் நூலோர்க்கும் துணிவு')",
+        "A universal principle."
+      ]
+    },
+    "Negative_Prompt": "forgetful person getting the crown, sages disagreeing, text on books, cartoonish figures.",
+    "Hyperparameters": {
+      "variant": "dev",
+      "steps": 40,
+      "cfg_scale": 8,
+      "seed": "Explore variations for the representation of the diverse sages."
+    }
+  }
+}

@@ -1,0 +1,38 @@
+{
+  "Kural_Info": {
+    "Number": 1318,
+    "Chapter": "புலவி நுணுக்கம் (Feigned Anger)",
+    "Tamil_Text": "தும்முச் செறுப்ப அழுதாள் நுமர்உள்ளல்எம்மை மறைத்திரோ என்று.",
+    "English_Meaning": "And so next time I checked my sneeze; She forthwith wept and cried, 'Your thoughts from me you hide'."
+  },
+  "Flux_Optimized_Prompt": {
+    "Layered_Composition": {
+      "Foreground": "A lover feels a sneeze coming on, but, remembering his beloved's previous jealous reaction, he deliberately suppresses it ('தும்முச் செறுப்ப').",
+      "Midground": "His beloved witnesses this act of suppression.",
+      "Background": "Her mind again makes a creative leap of jealousy. She instantly begins to cry ('அழுதாள்'), but this time her accusation is different. A thought-bubble reveals her logic: 'You are suppressing your sneeze to hide from me the fact that one of your other women is thinking of you!' ('நுமர் உள்ளல் எம்மை மறைத்திரோ')."
+    },
+    "Art_Direction": {
+      "Subject_and_Action": "The no-win situation of the lover: if he sneezes, he is accused of being thought of by another woman; if he suppresses the sneeze, he is accused of hiding the fact that another woman is thinking of him.",
+      "Symbolic_Motifs": "This is the second part of a comedic story. The humor comes from the lover's failed attempt to solve the problem, which only leads to a new, equally absurd accusation. Her ability to find a reason for jealousy in any action is highlighted.",
+      "Mood_and_Emotion": "Checkmated, humorous, inescapable jealousy, witty.",
+      "Lighting_and_Color": "An intimate, interior light. The lover's expression is one of exasperated defeat. Her expression is one of tragic, yet clever, accusation.",
+      "Technical_Cues": {
+        "Camera": "A close-up two-shot that captures his act of suppression and her immediate, new accusation.",
+        "Resolution": "8K, ultra-realistic, focusing on the comedic despair on the lover's face.",
+        "Lighting": "Naturalistic romantic lighting.",
+        "Art_Genre": "Romantic comedy."
+      },
+      "Cultural_Anchors": [
+        "I suppressed my sneeze (தும்முச் செறுப்ப)",
+        "She wept, saying 'You are hiding from me that your people are thinking of you' (அழுதாள், நுமர் உள்ளல் எம்மை மறைத்திரோ)"
+      ]
+    },
+    "Negative_Prompt": "woman not noticing, happy couple, text artifacts.",
+    "Hyperparameters": {
+      "variant": "dev",
+      "steps": 40,
+      "cfg_scale": 8,
+      "seed": "Explore the lover's expression of comedic defeat."
+    }
+  }
+}

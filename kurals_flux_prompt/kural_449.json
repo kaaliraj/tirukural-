@@ -1,0 +1,39 @@
+{
+  "Kural_Info": {
+    "Number": 449,
+    "Chapter": "பெரியாரைத் துணைக்கோடல் (Seeking the Aid of Great Men)",
+    "Tamil_Text": "முதலிலார்க்கு ஊதிய மில்லை மதலையாஞ் சார்பிலார்க் கில்லை நிலை.",
+    "English_Meaning": "There can be no gain to those who have no capital; and in like manner there can be no permanence to those who are without the support of adherents."
+  },
+  "Flux_Optimized_Prompt": {
+    "Layered_Composition": {
+      "Foreground": "A split composition. On the left, a merchant is shown with an empty stall and no goods ('முதல் இல்லார்க்கு'). Customers pass by, and he earns nothing ('ஊதியம் இல்லை').",
+      "Midground": "On the right, a king stands alone without any supporters or strong counselors ('சார்பு இல்லார்க்கு'). The ground beneath his throne is cracking and crumbling, showing he has no stability ('நிலை இல்லை'). The supporting pillars of his hall are shown to be weak and thin like twigs ('மதலையாம்').",
+      "Background": "Both scenes depict a state of failure and decay, one economic and one political, stemming from a lack of foundational support."
+    },
+    "Art_Direction": {
+      "Subject_and_Action": "A direct comparison: just as a business cannot profit without capital, a ruler cannot be stable without the support of strong, pillar-like great men.",
+      "Symbolic_Motifs": "The empty stall represents lack of capital. The crumbling ground and weak pillars represent the lack of stable support. 'Madalai' (pillar) is visualized literally.",
+      "Mood_and_Emotion": "Unstable, failing, weak, foundational.",
+      "Lighting_and_Color": "Both scenes are lit with a dim, failing light. The colors are desaturated and bleak, conveying a sense of decline and hopelessness.",
+      "Technical_Cues": {
+        "Camera": "A balanced, wide shot showing the two parallel situations of failure.",
+        "Resolution": "8K, with detailed textures of crumbling stone and empty market stalls.",
+        "Lighting": "Low-key, somber lighting.",
+        "Art_Genre": "Allegorical realism."
+      }
+    },
+    "Cultural_Anchors": [
+      "No Gain without Capital ('முதலிலார்க்கு ஊதியம் இல்லை')",
+      "No Stability without Support ('சார்பிலார்க்கு நிலை இல்லை')",
+      "Great men as Pillars ('மதலையாம் சார்பு')"
+    ]
+  },
+  "Negative_Prompt": "successful merchant, stable king, strong pillars, text artifacts, bright lighting.",
+  "Hyperparameters": {
+    "variant": "dev",
+    "steps": 40,
+    "cfg_scale": 8,
+    "seed": "Explore variations for the cracking ground effect."
+  }
+}

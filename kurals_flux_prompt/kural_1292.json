@@ -1,0 +1,39 @@
+{
+  "Kural_Info": {
+    "Number": 1292,
+    "Chapter": "நெஞ்சொடுபுலத்தல் (Expostulation with Oneself)",
+    "Tamil_Text": "உறாஅ தவர்க்கண்ட கண்ணும் அவரைச்செறாஅரெனச் சேறியென் நெஞ்சு.",
+    "English_Meaning": "O my soul! although you have known him who does not love me, still do you go to him, saying \"he will not be displeased\"."
+  },
+  "Flux_Optimized_Prompt": {
+    "Layered_Composition": {
+      "Foreground": "A woman's heart ('என் நெஞ்சு'), personified as a naive and hopeful creature, is shown eagerly running towards her absent lover.",
+      "Midground": "The woman's eyes ('கண்ணும்') are also personified, acting as wise, sad witnesses. They are shown holding up a sign or a vision that clearly shows the lover is unloving and distant ('உறாஅதவர்').",
+      "Background": "Despite the clear evidence from the eyes, the foolish heart ignores the warning and continues its journey, driven by the naive belief that 'He will not be angry' ('செறாஅர் என'). The scene is one of a foolish heart overruling the wise senses."
+    },
+    "Art_Direction": {
+      "Subject_and_Action": "The woman chides her foolish heart for continuing to run towards a lover who her own eyes have already confirmed is unloving, all based on the silly hope that he won't be displeased.",
+      "Symbolic_Motifs": "The conflict between the wise, seeing eyes and the foolish, feeling heart is the core of the image. The heart is a naive optimist, while the eyes are sad realists. The heart's journey is depicted as a futile one.",
+      "Mood_and_Emotion": "Foolish, naive, self-deception, futile hope.",
+      "Lighting_and_Color": "The heart is surrounded by a bright, but naive and flimsy, bubble of hope. The eyes are in a clear, sad, realistic light. The distant lover is in a cold, indifferent light.",
+      "Technical_Cues": {
+        "Camera": "A shot that captures the foolish journey of the heart, with the sad, knowing eyes watching its futile progress from the side.",
+        "Resolution": "8K, ultra-realistic, with strong characterization for the personified heart and eyes.",
+        "Lighting": "Contrasting lighting to show the difference between foolish hope and sad reality.",
+        "Art_Genre": "Symbolic surrealism."
+      },
+      "Cultural_Anchors": [
+        "Even after seeing he is unloving (உறாஅதவர் கண்ட கண்ணும்)",
+        "You go, my heart (சேறி என் நெஞ்சு)",
+        "Thinking, 'He will not be angry' (செறாஅர் என)"
+      ]
+    },
+    "Negative_Prompt": "wise heart, foolish eyes, welcoming lover, text artifacts.",
+    "Hyperparameters": {
+      "variant": "dev",
+      "steps": 45,
+      "cfg_scale": 8,
+      "seed": "Explore the personification of the 'wise eyes' and 'foolish heart'."
+    }
+  }
+}

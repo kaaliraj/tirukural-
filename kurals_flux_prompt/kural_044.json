@@ -1,0 +1,39 @@
+{
+  "Kural_Info": {
+    "Number": 44,
+    "Chapter": "இல்வாழ்க்கை (Domestic Life)",
+    "Tamil_Text": "பழியஞ்சிப் பாத்தூண் உடைத்தாயின் வாழ்க்கைவழியெஞ்சல் எஞ்ஞான்றும் இல்.",
+    "English_Meaning": "His descendants shall never fail who, living in the domestic state, fears vice and shares his food."
+  },
+  "Flux_Optimized_Prompt": {
+    "Layered_Composition": {
+      "Foreground": "A householder is shown sharing his meal ('பாத்தூண்') with a needy person, his face showing a clear fear and rejection of wrongful acquisition ('பழியஞ்சி').",
+      "Midground": "Stretching out behind the householder is an unbroken, luminous lineage of his descendants, generation after generation, all looking prosperous and virtuous.",
+      "Background": "The lineage is depicted like a mighty, ancient tree with many healthy branches, symbolizing a family line that will never be cut off ('வழியெஞ்சல் எஞ்ஞான்றும் இல்'). The tree is rooted in the initial act of charity shown in the foreground."
+    },
+    "Art_Direction": {
+      "Subject_and_Action": "The act of sharing food while fearing dishonorable deeds ensures the eternal continuity and prosperity of one's lineage.",
+      "Symbolic_Motifs": "The shared food glows with a soft light, indicating its virtuous nature. The lineage is a visual representation of cause and effect, a direct result of the foreground action. The tree of lineage is strong and full of life, not withered.",
+      "Mood_and_Emotion": "Enduring, prosperous, virtuous legacy, foundational.",
+      "Lighting_and_Color": "A warm, timeless golden light illuminates the scene, suggesting a blessing that extends through generations. The palette is rich and suggests enduring prosperity and health.",
+      "Technical_Cues": {
+        "Camera": "Wide shot with a deep depth of field, keeping the charitable act in the foreground and the long line of descendants in sharp focus.",
+        "Resolution": "8K, ultra-realistic, with detailed and distinct features for each generation of descendants.",
+        "Lighting": "A constant, benevolent light that unites the past (ancestor) and future (descendants).",
+        "Art_Genre": "Magical realism, narrative painting."
+      },
+      "Cultural_Anchors": [
+        "Pazhi Anji (பழியஞ்சி) - Fearing Vice/Dishonor",
+        "Paathoon (பாத்தூண்) - Sharing Food",
+        "Unbroken lineage (வழியெஞ்சல் இல்)"
+      ]
+    },
+    "Negative_Prompt": "hoarding food, dishonest acts, broken family tree, suffering descendants, text artifacts, dark scene.",
+    "Hyperparameters": {
+      "variant": "dev",
+      "steps": 45,
+      "cfg_scale": 8,
+      "seed": "Explore ways to visually represent the 'unbroken' nature of the lineage."
+    }
+  }
+}

@@ -1,0 +1,39 @@
+{
+  "Kural_Info": {
+    "Number": 487,
+    "Chapter": "காலமறிதல் (Knowing the fitting Time)",
+    "Tamil_Text": "பொள்ளென ஆங்கே புறம்வேரார் காலம்பார்த்து உள்வேர்ப்பர் ஒள்ளி யவர்.",
+    "English_Meaning": "The wise will not immediately and hastily shew out their anger; they will watch their time, and restrain it within."
+  },
+  "Flux_Optimized_Prompt": {
+    "Layered_Composition": {
+      "Foreground": "A wise person ('ஒள்ளியவர்') is shown being provoked or insulted. Their outward expression remains perfectly calm and composed ('புறம்வேரார்').",
+      "Midground": "However, a see-through effect reveals their inner state. Inside their chest, a furious storm of fire and lava representing their immense anger is raging, but it is perfectly contained within a crystal sphere ('உள்வேர்ப்பர்').",
+      "Background": "They are watching a celestial clock in the background, waiting for the right moment ('காலம்பார்த்து') to act, if necessary."
+    },
+    "Art_Direction": {
+      "Subject_and_Action": "The wise do not display their anger outwardly and immediately. They contain it internally while waiting for the strategic moment to act.",
+      "Symbolic_Motifs": "The calm exterior vs. the raging storm inside is the central visual contrast. The crystal sphere represents their powerful self-control. The clock represents strategic waiting.",
+      "Mood_and_Emotion": "Controlled, disciplined, powerful, intelligent, seemingly calm but internally raging.",
+      "Lighting_and_Color": "The person's exterior is lit with a cool, calm light. The interior storm provides a fiery, dramatic internal light source, glowing from within. The contrast should be stark.",
+      "Technical_Cues": {
+        "Camera": "A medium close-up, focusing on the person's calm face but with the surreal, transparent effect showing their inner turmoil.",
+        "Resolution": "8K, with complex visual effects for the internal storm.",
+        "Lighting": "Dual lighting: a calm external key light and a chaotic internal fill light.",
+        "Art_Genre": "Surrealist portraiture, metaphysical art."
+      }
+    },
+    "Cultural_Anchors": [
+      "The Wise ('ஒள்ளியவர்')",
+      "Containing Anger Internally ('உள்வேர்ப்பர்')",
+      "Waiting for the Right Time ('காலம்பார்த்து')"
+    ]
+  },
+  "Negative_Prompt": "person exploding with anger, calm interior, text artifacts, blurry, cartoonish.",
+  "Hyperparameters": {
+    "variant": "dev",
+    "steps": 45,
+    "cfg_scale": 9,
+    "seed": "Explore variations for the look of the internal storm."
+  }
+}

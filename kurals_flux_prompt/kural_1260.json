@@ -1,0 +1,33 @@
+{
+  "Kural_Info": {
+    "Number": 1260,
+    "Chapter": "நிறையழிதல் (Reserve Overcome)",
+    "Tamil_Text": "நிணந்தீயில் இட்டன்ன நெஞ்சினார்க்கு உண்டோபுணர்ந்தூடி நிற்பேம் எனல்.",
+    "English_Meaning": "'We 'll stand aloof and then embrace': is this for them to say, Whose hearts are as the fat that in the blaze dissolves away?."
+  },
+  "Flux_Optimized_Prompt": {
+    "Layered_Composition": {
+      "Foreground": "A woman's heart is visualized not as a simple organ, but as a piece of fat or butter ('Ninam').",
+      "Midground": "Her lover's presence is depicted as an intense, roaring fire ('Theeyil'). As he approaches, her heart is shown instantly melting and dissolving in the heat.",
+      "Background": "The woman looks on at her own melting heart with a rhetorical, almost helpless expression, acknowledging that with a heart that melts so easily, it's impossible for her to pretend to be angry or maintain a sulk ('Oodi Nirpem')."
+    },
+    "Art_Direction": {
+      "Subject_and_Action": "A lover questions the possibility of feigning anger when her own heart melts like fat in a fire at the mere presence of her beloved.",
+      "Symbolic_Motifs": "The heart as fat melting in the fire of her lover's presence is the central, visceral metaphor.",
+      "Mood_and_Emotion": "Passionate, helpless surrender, a sense of being consumed by love.",
+      "Lighting_and_Color": "The entire scene is lit by the roaring, fiery glow of the lover's presence. The colors are intense and hot—fiery reds, oranges, and yellows. The melting effect is the key visual."
+    },
+    "Technical_Cues": {
+      "Camera": "A dramatic close-up on the symbolic melting heart, with the woman's face visible in the background.",
+      "Resolution": "8K, hyper-realistic, with convincing and visceral melting and fire effects.",
+      "Lighting": "Intense, flickering firelight that creates a dynamic and passionate atmosphere.",
+      "Art_Genre": "Symbolic surrealism with a powerful, elemental feel."
+    },
+    "Cultural_Anchors": [
+      "நிணம் (Fat/Tallow)",
+      "The metaphor of melting in the heat of passion",
+      "The impossibility of feigned anger (ஊடல்) for a passionate heart"
+    ]
+  },
+  "Negative_Prompt": "a solid, un-melting heart, a cold or distant lover, a peaceful scene, text artifacts, cartoonish."
+}

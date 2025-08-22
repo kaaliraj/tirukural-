@@ -1,0 +1,33 @@
+{
+  "Kural_Info": {
+    "Number": 1005,
+    "Chapter": "நன்றியில்செல்வம் (Wealth without Benefaction)",
+    "Tamil_Text": "கொடுப்பதூஉம் துய்ப்பதூஉம் இல்லார்க்கு அடுக்கியகோடியுண் டாயினும் இல்.",
+    "English_Meaning": "Amid accumulated millions they are poor, Who nothing give and nought enjoy of all they store."
+  },
+  "Flux_Optimized_Prompt": {
+    "Layered_Composition": {
+      "Foreground": "A figure sits amidst a mountain of gold coins that rises up like a throne. However, they are depicted as emaciated and impoverished, dressed in rags, symbolizing their true state of being 'destitute' ('il').",
+      "Midground": "One of their hands greedily clutches the coins, while the other hand is closed shut, refusing to give ('Koduppathuum illarkku'). Their mouth is sealed, unable to enjoy the wealth ('Thuyppathuum illarkku').",
+      "Background": "The vault or room is overflowing with wealth, but it is a dark, prison-like space, reinforcing the idea that they are trapped by their own hoard."
+    },
+    "Art_Direction": {
+      "Subject_and_Action": "A visual paradox showing that those who neither give nor enjoy their immense wealth are, in reality, the poorest of all.",
+      "Symbolic_Motifs": "The impoverished appearance despite sitting on a throne of gold is the central visual. The sealed mouth and clenched fists symbolize the inability to enjoy or give.",
+      "Mood_and_Emotion": "Ironic, tragic, pitiful, a sense of profound poverty in the midst of plenty.",
+      "Lighting_and_Color": "Cold, metallic light that makes the gold seem harsh and undesirable. The figure is cast in deep shadow, despite being surrounded by glittering objects. The overall palette is dark and oppressive."
+    },
+    "Technical_Cues": {
+      "Camera": "Medium shot, focused on the miserable expression and impoverished state of the figure on the golden throne.",
+      "Resolution": "8K, hyper-realistic, with strong contrast between the texture of the rags and the texture of the gold.",
+      "Lighting": "High-contrast, low-key lighting to create a dramatic and somber mood.",
+      "Art_Genre": "Symbolic realism, akin to a classic allegorical painting on the folly of greed."
+    },
+    "Cultural_Anchors": [
+      "கொடாமை (Not giving)",
+      "துவ்வாமை (Not enjoying)",
+      "The paradox of being rich yet destitute"
+    ]
+  },
+  "Negative_Prompt": "happy and well-fed figure, sharing wealth, bright and open room, text artifacts, modern currency, cartoonish."
+}

@@ -1,0 +1,38 @@
+{
+  "Kural_Info": {
+    "Number": 298,
+    "Chapter": "வாய்மை (Veracity)",
+    "Tamil_Text": "புறள்தூய்மை நீரான் அமையும் அகந்தூய்மைவாய்மையால் காணப் படும்.",
+    "English_Meaning": "Purity of body is produced by water and purity of mind by truthfulness."
+  },
+  "Flux_Optimized_Prompt": {
+    "Layered_Composition": {
+      "Foreground": "A split composition of a person.",
+      "Midground": "On the left side, their outer body ('புறம்') is shown being cleansed by pure, clear water ('நீரான்'), washing away physical dirt. This is 'outer purity'.",
+      "Background": "On the right side, a view into their inner self or mind ('அகம்'). Their mind, depicted as a dark or cluttered space, is being cleansed by the words of Truth ('வாய்மையால்') which act like a stream of pure light, washing away inner impurities like deceit and malice. This is 'inner purity'."
+    },
+    "Art_Direction": {
+      "Subject_and_Action": "A direct comparison of the two types of purity: outer purity is achieved with water, but the more important inner purity is achieved only through truthfulness.",
+      "Symbolic_Motifs": "The parallel actions of cleansing are key. Water cleans the outside; truth cleans the inside. The inner impurities can be visualized as dark smudges or shadows that are washed away by the light of truth.",
+      "Mood_and_Emotion": "Cleansing, purifying, parallel, inner vs. outer.",
+      "Lighting_and_Color": "The left side is lit with the clean, cool light of water. The right side is a dramatic before-and-after, with the dark, cluttered mind being transformed by the brilliant, warm light of truth.",
+      "Technical_Cues": {
+        "Camera": "A symbolic cross-section or diptych shot that clearly shows the outer and inner cleansing simultaneously.",
+        "Resolution": "8K, ultra-realistic, with advanced liquid effects for the water and light effects for the truth.",
+        "Lighting": "Dual lighting to contrast the physical and metaphysical cleansing.",
+        "Art_Genre": "Symbolic conceptual art."
+      },
+      "Cultural_Anchors": [
+        "Outer purity by water (புறந்தூய்மை நீரான்)",
+        "Inner purity by truth (அகந்தூய்மை வாய்மையால்)"
+      ]
+    },
+    "Negative_Prompt": "dirty water, truth making things darker, text artifacts.",
+    "Hyperparameters": {
+      "variant": "pro",
+      "steps": 50,
+      "cfg_scale": 8,
+      "seed": "Explore the visual of 'inner impurities' being washed away."
+    }
+  }
+}

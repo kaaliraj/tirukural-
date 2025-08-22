@@ -1,0 +1,38 @@
+{
+  "Kural_Info": {
+    "Number": 278,
+    "Chapter": "கூடா ஒழுக்கம் (Imposture)",
+    "Tamil_Text": "மனத்தது மாசாக மாண்டார் நீராடிமறைந்தொழுகு மாந்தர் பலர்.",
+    "English_Meaning": "There are many men of masked conduct, who perform their ablutions, and (make a show) of greatness, while their mind is defiled (with guilt)."
+  },
+  "Flux_Optimized_Prompt": {
+    "Layered_Composition": {
+      "Foreground": "A person is shown performing a holy ritual of bathing in a sacred river ('நீராடி'). Their outward actions are of great purity and reverence.",
+      "Midground": "They are hiding their true nature from the world ('மறைந்து ஒழுகும்').",
+      "Background": "A symbolic, transparent view reveals the true state of their mind ('மனத்தது'). While their body is being cleansed by the holy water, their mind is shown as a swamp of black, filthy sludge—it is 'full of filth' ('மாசாக'). The external purity of the water cannot touch the internal corruption."
+    },
+    "Art_Direction": {
+      "Subject_and_Action": "There are many hypocrites in the world who perform outward acts of purity, like holy bathing, while their minds remain completely filthy and corrupt.",
+      "Symbolic_Motifs": "The central contrast is between the clean, sacred river water on the outside and the filthy, stagnant swamp-water of the mind on the inside. The act of bathing is a performance that has no effect on their true state.",
+      "Mood_and_Emotion": "Hypocritical, corrupt, deceptive, futile purity.",
+      "Lighting_and_Color": "The holy river is lit with a pure, sacred light. The swamp of the mind is a dark, ugly, stinking place. The image shows the absolute disconnect between the two.",
+      "Technical_Cues": {
+        "Camera": "A shot that shows the pious external action, with a surreal cross-section revealing the corrupt inner reality.",
+        "Resolution": "8K, ultra-realistic, with a strong contrast between the clean water and the filthy sludge.",
+        "Lighting": "Dualistic lighting to show the outer performance vs. the inner reality.",
+        "Art_Genre": "Surrealism, with a satirical edge."
+      },
+      "Cultural_Anchors": [
+        "While their mind is filthy (மனத்தது மாசாக)",
+        "Many men of hidden conduct bathe in holy water (மாண்டார் நீராடி மறைந்து ஒழுகும் மாந்தர் பலர்)"
+      ]
+    },
+    "Negative_Prompt": "clean mind, dirty river, text artifacts.",
+    "Hyperparameters": {
+      "variant": "pro",
+      "steps": 50,
+      "cfg_scale": 8,
+      "seed": "Explore the visual of the 'swamp of the mind'."
+    }
+  }
+}

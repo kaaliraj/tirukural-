@@ -1,0 +1,39 @@
+{
+  "Kural_Info": {
+    "Number": 231,
+    "Chapter": "புகழ் (Renown)",
+    "Tamil_Text": "ஈதல் இசைபட வாழ்தல் அதுவல்லதுஊதியம் இல்லை உயிர்க்கு.",
+    "English_Meaning": "Give to the poor and live with praise. There is no greater profit to man than that."
+  },
+  "Flux_Optimized_Prompt": {
+    "Layered_Composition": {
+      "Foreground": "A person is shown performing a central act of charity ('ஈதல்'), giving freely to the needy.",
+      "Midground": "From this act of giving, a beautiful, harmonious sound wave of 'Praise' or 'Renown' ('இசை') emanates, spreading throughout the world and blessing their life ('இசைபட வாழ்தல்').",
+      "Background": "All other forms of profit or gain ('ஊதியம்')—gold, power, pleasure—are shown as small, insignificant, and lifeless trinkets in the background. The image declares that the combination of giving and living with the resulting praise is the only true and ultimate profit for a soul."
+    },
+    "Art_Direction": {
+      "Subject_and_Action": "The only real profit in life is a life of charity that earns one a good reputation; all other gains are worthless in comparison.",
+      "Symbolic_Motifs": "Praise as a beautiful, harmonious sound wave is the key metaphor. The act of giving is the source of this music. The comparison with the worthless trinkets clearly establishes the supremacy of this form of 'profit'.",
+      "Mood_and_Emotion": "Profitable virtue, harmonious, renowned, supreme.",
+      "Lighting_and_Color": "A brilliant, warm, golden light emanates from the act of giving and the resulting wave of praise, illuminating the entire scene. The 'other profits' are dull and unlit.",
+      "Technical_Cues": {
+        "Camera": "A shot that centers on the act of giving, showing the beautiful sound wave of praise spreading outwards from it.",
+        "Resolution": "8K, ultra-realistic, with ethereal and beautiful sound wave visualization effects.",
+        "Lighting": "The act of charity and its resulting fame are the primary, radiant light source.",
+        "Art_Genre": "Symbolic realism, with magical realist elements."
+      },
+      "Cultural_Anchors": [
+        "Giving (ஈதல்)",
+        "Living with praise (இசைபட வாழ்தல்)",
+        "There is no other profit for the soul (அதுவல்லது ஊதியம் இல்லை உயிர்க்கு)"
+      ]
+    },
+    "Negative_Prompt": "hoarding, gaining praise from evil, prominent gold, text artifacts.",
+    "Hyperparameters": {
+      "variant": "pro",
+      "steps": 50,
+      "cfg_scale": 8,
+      "seed": "Explore the visual of 'praise as a sound wave'."
+    }
+  }
+}

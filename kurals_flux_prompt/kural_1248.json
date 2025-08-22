@@ -1,0 +1,33 @@
+{
+  "Kural_Info": {
+    "Number": 1248,
+    "Chapter": "நெஞ்சொடுகிளத்தல் (Soliloquy)",
+    "Tamil_Text": "பரிந்தவர் நல்காரென்று ஏங்கிப் பிரிந்தவர்பின்செல்வாய் பேதைஎன் நெஞ்சு.",
+    "English_Meaning": "Thou art befooled, my heart, thou followest him who flees from thee; And still thou yearning criest: 'He will nor pity show nor love to me.'."
+  },
+  "Flux_Optimized_Prompt": {
+    "Layered_Composition": {
+      "Foreground": "A woman is shown chiding her own heart. The heart is personified as a foolish, naive child ('Pethai en Nenju') that is stubbornly running away from her.",
+      "Midground": "The foolish heart-child is chasing after the fading footsteps of her departed lover. It is clearly a futile chase across a barren landscape.",
+      "Background": "The woman knows the truth—that the lover is unpitying and will grant no grace ('Parinthavar Nalkaar')—and she is trying to call her foolish heart back from its hopeless pursuit."
+    },
+    "Art_Direction": {
+      "Subject_and_Action": "A lover scolds her own heart for being foolish, for continuing to chase after a lover who has already proven himself to be unkind and unloving.",
+      "Symbolic_Motifs": "The heart as a foolish, stubborn child is the central metaphor. The fading footsteps and the barren landscape emphasize the futility of the chase.",
+      "Mood_and_Emotion": "Frustrated, self-chiding, a sense of pity for her own heart's foolishness.",
+      "Lighting_and_Color": "The landscape is bleak and desaturated. The lighting is harsh and unforgiving, highlighting the hopelessness of the heart's journey."
+    },
+    "Technical_Cues": {
+      "Camera": "A wide shot that shows the woman, her runaway heart-child, and the long, empty path it follows.",
+      "Resolution": "8K, surreal realism, with a strong focus on the emotional storytelling.",
+      "Lighting": "Bleak, naturalistic lighting, like a harsh midday sun over a desert.",
+      "Art_Genre": "Allegorical art, visualizing an internal monologue of frustration."
+    },
+    "Cultural_Anchors": [
+      "பேதை நெஞ்சு (Foolish Heart)",
+      "The folly of chasing unrequited love",
+      "நெஞ்சொடு கிளத்தல் (Speaking with one's own heart)"
+    ]
+  },
+  "Negative_Prompt": "a wise heart, a lover returning, a lush landscape, text artifacts, cartoonish, modern clothing."
+}

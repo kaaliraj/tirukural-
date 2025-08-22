@@ -1,0 +1,38 @@
+{
+  "Kural_Info": {
+    "Number": 964,
+    "Chapter": "மானம் (Honour)",
+    "Tamil_Text": "தலையின் இழிந்த மயிரனையர் மாந்தர்நிலையின் இழிந்தக் கடை.",
+    "English_Meaning": "They who have fallen from their (high) position are like the hair which has fallen from the head."
+  },
+  "Flux_Optimized_Prompt": {
+    "Layered_Composition": {
+      "Foreground": "A single strand of hair is shown falling from the head of a noble person.",
+      "Midground": "While it was on the head ('தலையின்'), it was part of a beautiful and honored whole. The moment it becomes separated and falls to the ground ('இழிந்த'), it instantly becomes a worthless, disregarded piece of dust.",
+      "Background": "A parallel is drawn with a person of high status. As long as they maintain their position of honor ('நிலையின்'), they are respected. The moment they fall from that state, they are shown to be as worthless and disregarded as the fallen hair."
+    },
+    "Art_Direction": {
+      "Subject_and_Action": "A stark simile for the loss of honor: a person who falls from their high station becomes as worthless as a hair that has fallen from the head.",
+      "Symbolic_Motifs": "The transformation of the hair from something of beauty (on the head) to something of worthlessness (on the floor) is the key visual. The social parallel should be clear: the honored person becomes a social outcast, mirroring the fate of the hair.",
+      "Mood_and_Emotion": "Worthless, fallen, disgraced, irreversible.",
+      "Lighting_and_Color": "The head of hair is lit with a warm, beautiful light. The fallen hair on the ground is in a cold, dusty, insignificant light. The scene of the fallen person is similarly drained of all warmth and honor.",
+      "Technical_Cues": {
+        "Camera": "A shot that uses an extreme close-up and slow motion to track the fall of the single hair, emphasizing its transition from value to worthlessness.",
+        "Resolution": "8K, hyper-realistic, with a strong focus on texture.",
+        "Lighting": "A dramatic shift in lighting as the hair (and the person) falls from its high position.",
+        "Art_Genre": "Symbolic realism, with high-speed photography aesthetics."
+      },
+      "Cultural_Anchors": [
+        "Hair fallen from the head (தலையின் இழிந்த மயிர்)",
+        "When fallen from one's high station (நிலையின் இழிந்தக் கடை)"
+      ]
+    },
+    "Negative_Prompt": "fallen hair being cherished, happy fallen person, text artifacts.",
+    "Hyperparameters": {
+      "variant": "dev",
+      "steps": 40,
+      "cfg_scale": 8,
+      "seed": "Explore the slow-motion visual of the falling hair."
+    }
+  }
+}

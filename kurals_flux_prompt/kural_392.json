@@ -1,0 +1,39 @@
+{
+  "Kural_Info": {
+    "Number": 392,
+    "Chapter": "கல்வி (Learning)",
+    "Tamil_Text": "எண்ணென்ப ஏனை எழுத்தென்ப இவ்விரண்டும் கண்ணென்ப வாழும் உயிர்க்கு.",
+    "English_Meaning": "The twain that lore of numbers and of letters give Are eyes, the wise declare, to all on earth that live."
+  },
+  "Flux_Optimized_Prompt": {
+    "Layered_Composition": {
+      "Foreground": "A stylized, wise human face is shown in close-up.",
+      "Midground": "Instead of normal eyes, the left eye is a swirling, intricate vortex of glowing numerals and mathematical symbols (Numbers - 'எண்'). The right eye is a similar vortex of beautiful, flowing ancient Tamil script (Letters - 'எழுத்து').",
+      "Background": "Through these 'eyes' of numbers and letters, the person is perceiving a vast, complex, and beautiful world with perfect clarity, symbolizing understanding."
+    },
+    "Art_Direction": {
+      "Subject_and_Action": "The visualization of Numbers and Letters as the two essential eyes for any living being to perceive and understand the world.",
+      "Symbolic_Motifs": "The literal replacement of eyes with symbols of numbers and letters is the core metaphor. The clarity of the world seen through them represents the power of education.",
+      "Mood_and_Emotion": "Enlightening, profound, intellectual, fundamental.",
+      "Lighting_and_Color": "A brilliant, clear light emanates from the two symbolic eyes, illuminating the face. The numbers and letters glow with a vibrant, intelligent blue and gold light."
+    },
+    "Technical_Cues": {
+      "Camera": "Extreme close-up on the face, focusing on the symbolic eyes.",
+      "Resolution": "8K, hyper-realistic skin texture contrasted with abstract, glowing symbols.",
+      "Lighting": "Internal lighting from the eyes, creating a unique and powerful visual effect.",
+      "Art_Genre": "Surrealism, symbolic portraiture, digital art."
+    },
+    "Cultural_Anchors": [
+      "Numbers ('எண்') and Letters ('எழுத்து') as the two eyes of humanity",
+      "Fundamental importance of literacy and numeracy",
+      "Ancient Tamil script"
+    ]
+  },
+  "Negative_Prompt": "closed eyes, blurry symbols, normal eyes, dark scene, text artifacts, cartoony face.",
+  "Hyperparameters": {
+    "variant": "pro",
+    "steps": 50,
+    "cfg_scale": 7,
+    "seed": "Explore variations for the swirling patterns in the eyes."
+  }
+}

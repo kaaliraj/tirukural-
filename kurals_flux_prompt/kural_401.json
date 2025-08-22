@@ -1,0 +1,39 @@
+{
+  "Kural_Info": {
+    "Number": 401,
+    "Chapter": "கல்லாமை (Ignorance)",
+    "Tamil_Text": "அரங்கின்றி வட்டாடி யற்றே நிரம்பிய நூலின்றிக் கோட்டி கொளல்.",
+    "English_Meaning": "To speak in an assembly (of the learned) without fullness of knowledge, is like playing at chess (on a board) without squares."
+  },
+  "Flux_Optimized_Prompt": {
+    "Layered_Composition": {
+      "Foreground": "An arrogant-looking person stands to speak before a council of wise, solemn-faced elders.",
+      "Midground": "A surreal visual metaphor is shown next to him: he is attempting to play a game of dice or chess ('வட்டாடியற்று') but on a completely blank, smooth, square-less board ('அரங்கின்றி'). The pieces just slide off uselessly.",
+      "Background": "The council of elders looks on with expressions of pity and disapproval, seated in a grand, scholarly hall filled with books and scrolls."
+    },
+    "Art_Direction": {
+      "Subject_and_Action": "The folly and futility of attempting to speak in a learned assembly without possessing deep knowledge, equated to playing a board game without a board.",
+      "Symbolic_Motifs": "The square-less board is the central metaphor for the lack of foundational knowledge. The speaker's confident but foolish posture contrasts with the wisdom of the council.",
+      "Mood_and_Emotion": "Foolish, futile, embarrassing, awkward, pitiful.",
+      "Lighting_and_Color": "The speaker is lit by a harsh, unflattering light that exposes his ignorance. The council is in a more dignified, softer light. The color palette is somber and intellectual.",
+      "Technical_Cues": {
+        "Camera": "Wide shot that includes the speaker, the surreal game board, and the reactions of the council.",
+        "Resolution": "8K, ultra-realistic, with sharp focus on the expressions.",
+        "Lighting": "Dramatic lighting to highlight the speaker's isolation and foolishness.",
+        "Art_Genre": "Surrealism mixed with historical realism."
+      }
+    },
+    "Cultural_Anchors": [
+      "Speaking without knowledge ('நூலின்றிக் கோட்டி கொளல்')",
+      "Analogy of the game without a board ('அரங்கின்றி வட்டாடுதல்')",
+      "Respect for learned assemblies (அவை)"
+    ]
+  },
+  "Negative_Prompt": "successful speaker, normal chessboard, cheering council, text artifacts, blurry.",
+  "Hyperparameters": {
+    "variant": "dev",
+    "steps": 40,
+    "cfg_scale": 9,
+    "seed": "Explore variations for the elders' expressions."
+  }
+}

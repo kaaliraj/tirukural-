@@ -1,0 +1,38 @@
+{
+  "Kural_Info": {
+    "Number": 1027,
+    "Chapter": "குடிசெயல்வகை (The Way of Maintaining the Family)",
+    "Tamil_Text": "அமரகத்து வன்கண்ணர் போலத் தமரகத்தும்ஆற்றுவார் மேற்றே பொறை.",
+    "English_Meaning": "Like heroes in the battle-field, the burden (of protection etc.) is borne by those who are the most efficient in a family."
+  },
+  "Flux_Optimized_Prompt": {
+    "Layered_Composition": {
+      "Foreground": "A split composition illustrating a simile.",
+      "Midground": "On the left, a chaotic battlefield ('அமரகத்து'). A single, valiant hero ('வன்கண்ணர்') is shown holding the line, bearing the entire weight of the enemy's attack and protecting his comrades.",
+      "Background": "On the right, a family or clan ('தமர்') is facing a great crisis—a flood, a famine. The entire burden of their survival ('பொறை') is shown resting on the shoulders of the single, most capable and efficient person in that family ('ஆற்றுவார்')."
+    },
+    "Art_Direction": {
+      "Subject_and_Action": "A direct comparison: the responsibility for a family's survival in a crisis falls upon its most capable member, just as the burden of a battle falls upon its bravest warrior.",
+      "Symbolic_Motifs": "The visual parallel between the warrior holding back the enemy and the family leader holding back the disaster is the key. In both cases, one strong individual is bearing the weight for the entire group.",
+      "Mood_and_Emotion": "Responsible, burdensome, heroic, capable.",
+      "Lighting_and_Color": "Both scenes are lit with a dramatic, high-contrast light that emphasizes the struggle and the strength of the central figure. The colors are of crisis and heroic effort.",
+      "Technical_Cues": {
+        "Camera": "A balanced diptych that forces the viewer to equate the heroism of the battlefield with the heroism of familial responsibility.",
+        "Resolution": "8K, hyper-realistic, capturing the strain and determination on the faces of both heroes.",
+        "Lighting": "Dramatic, heroic lighting in both panels.",
+        "Art_Genre": "Epic realism, comparative painting."
+      },
+      "Cultural_Anchors": [
+        "Like the valiant warrior in battle (அமரகத்து வன்கண்ணர் போல)",
+        "The burden is on the most capable in the family (தமரகத்தும் ஆற்றுவார் மேற்றே பொறை)"
+      ]
+    },
+    "Negative_Prompt": "weak warrior, weak family leader, text artifacts, group failing.",
+    "Hyperparameters": {
+      "variant": "pro",
+      "steps": 50,
+      "cfg_scale": 9,
+      "seed": "Explore the visual representation of the 'burden' in both scenes."
+    }
+  }
+}

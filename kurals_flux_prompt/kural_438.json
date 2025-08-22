@@ -1,0 +1,39 @@
+{
+  "Kural_Info": {
+    "Number": 438,
+    "Chapter": "குற்றங்கடிதல் (The Correction of Faults)",
+    "Tamil_Text": "பற்றுள்ளம் என்னும் இவறன்மை எற்றுள்ளும் எண்ணப் படுவதொன் றன்று.",
+    "English_Meaning": "Griping avarice is not to be reckoned as one among other faults; (it stands alone - greater than all)."
+  },
+  "Flux_Optimized_Prompt": {
+    "Layered_Composition": {
+      "Foreground": "In the center, a monstrous, all-consuming vortex of darkness representing Avarice ('இவறன்மை'). It is uniquely powerful and terrifying.",
+      "Midground": "Surrounding this central vortex, other faults are personified as lesser monsters or demons (e.g., Anger as a small fiery imp, Lust as a shadow). However, they are all dwarfed by, and seem to orbit, the central vortex of Avarice.",
+      "Background": "A desolate landscape that has been completely drained of all color and life by the central vortex, showing its supreme destructive power."
+    },
+    "Art_Direction": {
+      "Subject_and_Action": "The fault of possessive avarice is not just one among many; it is a singular, unparalleled fault that stands above all others in its destructive nature.",
+      "Symbolic_Motifs": "The central, giant vortex of Avarice, compared to the smaller, satellite-like monsters of other faults, visually establishes its supreme and singular status ('எண்ணப் படுவதொன்று அன்று').",
+      "Mood_and_Emotion": "Overwhelming, singular, destructive, monstrous, supreme evil.",
+      "Lighting_and_Color": "An oppressive darkness dominates the scene, with a terrifying, light-absorbing quality to the central vortex. The lesser monsters may have small, colored glows, but they are pale in comparison.",
+      "Technical_Cues": {
+        "Camera": "A low-angle, ultra-wide shot looking up at the vortex, making it seem immense and all-powerful.",
+        "Resolution": "8K, cinematic, with complex special effects for the vortex.",
+        "Lighting": "The scene is lit by the faint, colored glows of the lesser faults, which are being consumed by the blackness of the central vortex.",
+        "Art_Genre": "Cosmic horror, dark fantasy art."
+      }
+    },
+    "Cultural_Anchors": [
+      "Avarice as a singular fault ('இவறன்மை')",
+      "The supreme nature of possessiveness ('பற்றுள்ளம்')",
+      "The hierarchy of faults."
+    ]
+  },
+  "Negative_Prompt": "avarice as a small monster, bright landscape, text artifacts, cartoonish demons.",
+  "Hyperparameters": {
+    "variant": "pro",
+    "steps": 50,
+    "cfg_scale": 9,
+    "seed": "Explore variations for the appearance of the central vortex."
+  }
+}

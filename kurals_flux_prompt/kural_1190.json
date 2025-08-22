@@ -1,0 +1,38 @@
+{
+  "Kural_Info": {
+    "Number": 1190,
+    "Chapter": "பசப்புறுபருவரல் (The Pallid Hue)",
+    "Tamil_Text": "பசப்பெனப் பேர்பெறுதல் நன்றே நயப்பித்தார்நல்காமை தூற்றார் எனின்.",
+    "English_Meaning": "It would be good to be said of me that I have turned sallow, if friends do not reproach with unkindness him who pleased me (then)."
+  },
+  "Flux_Optimized_Prompt": {
+    "Layered_Composition": {
+      "Foreground": "A woman is shown with the sallow hue of lovesickness. The townspeople are pointing at her and she is accepting the name 'The Sallow One' ('பசப்பெனப் பேர் பெறுதல்').",
+      "Midground": "Her acceptance of this personal shame is a willing sacrifice. It acts as a magical shield that protects the reputation of her absent lover.",
+      "Background": "The shield is shown deflecting the dark, thorny words of gossip ('தூற்றார்') from the townspeople that would have otherwise flown towards her lover, accusing him of being unkind ('நல்காமை'). She would rather be shamed for her sickness than have him be shamed for his unkindness."
+    },
+    "Art_Direction": {
+      "Subject_and_Action": "It is a good thing to gain a reputation for being lovesick and sallow, if it means that others will refrain from blaming one's beloved for being unkind.",
+      "Symbolic_Motifs": "The reputation ('பேர்') as a shield is the central metaphor. She takes the blame upon herself (accepting the name 'Pasappu') to protect his name. Her action is a selfless act of love.",
+      "Mood_and_Emotion": "Selfless, protective, loving sacrifice, honorable shame.",
+      "Lighting_and_Color": "The woman is in a spotlight of public shame, but she bears it with a quiet dignity. The shield her sacrifice creates glows with a protective, loving light. The words of gossip are dark and sharp but are unable to get past the shield.",
+      "Technical_Cues": {
+        "Camera": "A symbolic shot showing the woman accepting the shame, and how that act generates a shield that protects the unseen lover.",
+        "Resolution": "8K, ultra-realistic, with strong ethereal effects for the shield and the words of gossip.",
+        "Lighting": "Dramatic lighting that highlights the woman's sacrifice and its protective power.",
+        "Art_Genre": "Symbolic realism, fantasy art."
+      },
+      "Cultural_Anchors": [
+        "Gaining the name 'Sallow' is good (பசப்பெனப் பேர் பெறுதல் நன்றே)",
+        "If they do not slander his unkindness (நல்காமை தூற்றார் எனின்)"
+      ]
+    },
+    "Negative_Prompt": "happy woman, people blaming the man, text artifacts.",
+    "Hyperparameters": {
+      "variant": "pro",
+      "steps": 50,
+      "cfg_scale": 9,
+      "seed": "Explore the visual of 'reputation as a shield'."
+    }
+  }
+}

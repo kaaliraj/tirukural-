@@ -1,0 +1,39 @@
+{
+  "Kural_Info": {
+    "Number": 538,
+    "Chapter": "பொச்சாவாமை (Unforgetfulness)",
+    "Tamil_Text": "புகழ்ந்தவை போற்றிச் செயல்வேண்டும் செய்யாது இகழ்ந்தார்க்கு எழுமையும் இல்.",
+    "English_Meaning": "Let (a man) observe and do these things which have been praised (by the wise); if he neglects and fails to perform them, for him there will be no (happiness) throughout the seven births."
+  },
+  "Flux_Optimized_Prompt": {
+    "Layered_Composition": {
+      "Foreground": "A person is presented with a set of glowing, virtuous deeds praised by the wise ('புகழ்ந்தவை'). With reverence, they are choosing to cherish and perform these actions ('போற்றிச் செயல்வேண்டும்').",
+      "Midground": "As they perform the virtuous deeds, their path through life becomes a bridge of light, stretching across seven distinct worlds or realms that represent the seven births ('எழுமை').",
+      "Background": "In contrast, another figure who is shown scorning and neglecting these deeds ('இகழ்ந்தார்க்கு') has no bridge. Their path abruptly ends, and they are faced with a dark, empty void, signifying a lack of happiness or progress through their future lives."
+    },
+    "Art_Direction": {
+      "Subject_and_Action": "One must cherish and perform the actions praised by the wise, for those who neglect them will find no happiness across all their future lives.",
+      "Symbolic_Motifs": "The glowing virtuous deeds are the objects of choice. The bridge of light across the seven worlds is the reward for choosing them. The void is the consequence of rejecting them.",
+      "Mood_and_Emotion": "Consequential, virtuous, timeless, a choice with eternal ramifications.",
+      "Lighting_and_Color": "The bridge of light is the dominant source of illumination, casting a hopeful, divine glow. The void is a stark, lightless black.",
+      "Technical_Cues": {
+        "Camera": "A wide, epic, cosmic shot that shows the two figures, their choices, and their vastly different eternal destinies.",
+        "Resolution": "8K, with ethereal and cosmic effects.",
+        "Lighting": "High-contrast lighting to differentiate the two paths.",
+        "Art_Genre": "Metaphysical art, spiritual fantasy."
+      }
+    },
+    "Cultural_Anchors": [
+      "Performing Praised Deeds ('புகழ்ந்தவை போற்றிச் செயல்')",
+      "Consequences across Seven Births ('எழுமையும்')",
+      "The choice between a virtuous path and nothingness."
+    ]
+  },
+  "Negative_Prompt": "person choosing the void, dark bridge, text artifacts, cartoonish.",
+  "Hyperparameters": {
+    "variant": "pro",
+    "steps": 50,
+    "cfg_scale": 8,
+    "seed": "Explore variations for the design of the seven worlds."
+  }
+}

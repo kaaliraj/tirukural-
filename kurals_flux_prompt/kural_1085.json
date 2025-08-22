@@ -1,0 +1,40 @@
+{
+  "Kural_Info": {
+    "Number": 1085,
+    "Chapter": "தகையணங்குறுத்தல் (The Pre-marital love)",
+    "Tamil_Text": "கூற்றமோ கண்ணோ பிணையோ மடவரல்நோக்கமிம் மூன்றும் உடைத்து.",
+    "English_Meaning": "Is it Yama, (a pair of) eyes or a hind ?- Are not all these three in the looks of this maid ?."
+  },
+  "Flux_Optimized_Prompt": {
+    "Layered_Composition": {
+      "Foreground": "A maiden's face is shown, her gaze directed at the viewer.",
+      "Midground": "Her single gaze ('நோக்கம்') is refracted, as if through a prism, into three distinct, simultaneous manifestations that blend together.",
+      "Background": "The three manifestations are: the menacing, deadly form of Yama, the God of Death ('கூற்றமோ'); a pair of simple, piercingly beautiful human eyes ('கண்ணோ'); and the shy, innocent, and gentle form of a female deer or hind ('பிணையோ'). Her look possesses all three qualities at once."
+    },
+    "Art_Direction": {
+      "Subject_and_Action": "The beloved's gaze is a paradoxical and powerful combination of three distinct natures: it is as deadly as Death, as piercing as a human eye, and as innocent as a fawn.",
+      "Symbolic_Motifs": "The prismatic refraction of her gaze is the central metaphor. It allows for the simultaneous depiction of these three contradictory qualities, showing that her look is not one after the other, but all three at once.",
+      "Mood_and_Emotion": "Complex, paradoxical, deadly, beautiful, innocent, captivating.",
+      "Lighting_and_Color": "A surreal, magical light. The gaze itself is the source of the light that creates the three visions. The Yama vision is dark and menacing, the eye vision is clear and bright, and the hind vision is soft and gentle. These three color palettes should be shown intermingling.",
+      "Technical_Cues": {
+        "Camera": "A direct, intimate portrait shot, with the magical refraction of her gaze being the primary visual effect.",
+        "Resolution": "8K, ultra-realistic, with advanced, layered special effects for the three manifestations.",
+        "Lighting": "Complex, multi-hued lighting originating from her eyes.",
+        "Art_Genre": "Surrealist portraiture, fantasy realism."
+      },
+      "Cultural_Anchors": [
+        "Is it Death? (கூற்றமோ?)",
+        "Is it an eye? (கண்ணோ?)",
+        "Is it a hind? (பிணையோ?)",
+        "Her look has all three (நோக்கம் இம் மூன்றும் உடைத்து)"
+      ]
+    },
+    "Negative_Prompt": "simple gaze, one single vision, text artifacts, cartoonish figures.",
+    "Hyperparameters": {
+      "variant": "pro",
+      "steps": 55,
+      "cfg_scale": 8,
+      "seed": "Explore the visual blending of the three manifestations."
+    }
+  }
+}

@@ -1,0 +1,39 @@
+{
+  "Kural_Info": {
+    "Number": 783,
+    "Chapter": "நட்பு (Friendship)",
+    "Tamil_Text": "நவில்தொறும் நூல்நயம் போலும் பயில்தொறும் பண்புடை யாளர் தொடர்பு.",
+    "English_Meaning": "Like learning, the friendship of the noble, the more it is cultivated, the more delightful does it become."
+  },
+  "Flux_Optimized_Prompt": {
+    "Layered_Composition": {
+      "Foreground": "A split image. On the left, a scholar is reading a great book ('நூல்'). With each re-reading ('நவில்தொறும்'), the book reveals new layers of meaning and delight ('நயம்'), visualized as the book's pages glowing more and more brightly.",
+      "Midground": "On the right, two noble friends ('பண்புடையாளர்') are interacting over time. With each interaction ('பயில்தொறும்'), their friendship deepens and becomes more joyful and delightful, visualized as the aura of warmth and light between them growing stronger and richer.",
+      "Background": "The visual parallel shows that both activities—studying a great book and cultivating a noble friendship—yield increasing delight with repeated engagement."
+    },
+    "Art_Direction": {
+      "Subject_and_Action": "Just as studying a good book gives more pleasure with each reading, the friendship of the good gives more pleasure with each interaction.",
+      "Symbolic_Motifs": "The book that gets brighter with reading and the friendship that gets warmer with interaction are the two parallel metaphors.",
+      "Mood_and_Emotion": "Deepening, delightful, rewarding, cultivated.",
+      "Lighting_and_Color": "A warm, pleasant, and growing light is the key visual element in both panels. The colors become richer and deeper as the book is read and the friendship is cultivated.",
+      "Technical_Cues": {
+        "Camera": "A diptych composition that clearly shows the parallel growth in delight.",
+        "Resolution": "8K, with a focus on the glowing effects and the joyful expressions.",
+        "Lighting": "Dynamic lighting that increases in warmth and intensity.",
+        "Art_Genre": "Idealized realism, with symbolic light effects."
+      },
+      "Cultural_Anchors": [
+        "Like the delight of a good book ('நூல்நயம் போலும்')",
+        "The friendship of the good ('பண்புடையாளர் தொடர்பு')",
+        "Delight increases with cultivation."
+      ]
+    },
+    "Negative_Prompt": "book getting duller, friendship fading, text artifacts, cartoonish.",
+    "Hyperparameters": {
+      "variant": "dev",
+      "steps": 45,
+      "cfg_scale": 8,
+      "seed": "Explore variations for the growing light effect."
+    }
+  }
+}

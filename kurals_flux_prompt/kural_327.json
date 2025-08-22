@@ -1,0 +1,38 @@
+{
+  "Kural_Info": {
+    "Number": 327,
+    "Chapter": "கொல்லாமை (Not killing)",
+    "Tamil_Text": "தன்னுயிர் நீப்பினும் செய்யற்க தான்பிறிதுஇன்னுயிர் நீக்கும் வினை.",
+    "English_Meaning": "Let no one do that which would destroy the life of another, although he should by so doing, lose his own life."
+  },
+  "Flux_Optimized_Prompt": {
+    "Layered_Composition": {
+      "Foreground": "A person is in a perilous situation where their own life is threatened. A sword is at their throat, representing the imminent loss of their own life ('தன் உயிர் நீப்பினும்').",
+      "Midground": "They are offered a choice: they can save their own life, but only if they perform an act that will take the sweet life of another being ('பிறிது இன் உயிர் நீக்கும் வினை').",
+      "Background": "The person is shown making the ultimate moral choice. They refuse to harm the other being, and in doing so, they accept their own death ('செய்யற்க'). Their face is not one of fear, but of profound, principled peace. They have chosen the higher law of non-violence over the instinct for self-preservation."
+    },
+    "Art_Direction": {
+      "Subject_and_Action": "The absolute injunction of non-violence: one should not take the life of another, even if it is the only way to save one's own.",
+      "Symbolic_Motifs": "The choice is presented as stark and absolute. The 'sweet life' of the other can be visualized as a small, innocent, glowing creature. The person's refusal is an act of supreme, selfless virtue. Their resulting death is a martyrdom for the principle of non-violence.",
+      "Mood_and_Emotion": "Ultimate sacrifice, supreme principle, selfless, martyrdom.",
+      "Lighting_and_Color": "A dramatic, high-contrast light. The threat to the person's life is dark and menacing. The act of refusal, however, causes a brilliant, divine, white light of martyrdom to erupt from their heart, showing that their spiritual life is triumphant even in physical death.",
+      "Technical_Cues": {
+        "Camera": "An intense close-up on the person's face, capturing their expression of peaceful, resolute, self-sacrificing choice.",
+        "Resolution": "8K, ultra-realistic, focusing on the powerful emotion of the moment.",
+        "Lighting": "The act of self-sacrifice is the source of a brilliant, divine light.",
+        "Art_Genre": "Heroic realism, martyrdom painting."
+      },
+      "Cultural_Anchors": [
+        "Do not do the act that takes another's sweet life (பிறிது இன் உயிர் நீக்கும் வினை செய்யற்க)",
+        "Even if it means giving up your own life (தன் உயிர் நீப்பினும்)"
+      ]
+    },
+    "Negative_Prompt": "person killing the other being to save themselves, text artifacts.",
+    "Hyperparameters": {
+      "variant": "pro",
+      "steps": 55,
+      "cfg_scale": 9,
+      "seed": "Explore the expression of 'peaceful martyrdom'."
+    }
+  }
+}

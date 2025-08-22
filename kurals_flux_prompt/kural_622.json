@@ -1,0 +1,39 @@
+{
+  "Kural_Info": {
+    "Number": 622,
+    "Chapter": "இடுக்கணழியாமை (Hopefulness in Trouble)",
+    "Tamil_Text": "வெள்ளத் தனைய இடும்பை அறிவுடையான் உள்ளத்தின் உள்ளக் கெடும்.",
+    "English_Meaning": "A flood of troubles will be overcome by the (courageous) thought which the minds of the wise will entertain, even in sorrow."
+  },
+  "Flux_Optimized_Prompt": {
+    "Layered_Composition": {
+      "Foreground": "A wise person ('அறிவுடையான்') is standing calmly, about to be engulfed by a massive, tsunami-like flood of troubles ('வெள்ளத்தனைய இடும்பை').",
+      "Midground": "Just as the flood is about to hit them, a single, powerful thought of courage and resolve forms in their mind ('உள்ளத்தின் உள்ள'). This thought is visualized as an intensely bright, hot sun of pure energy originating from within their head.",
+      "Background": "The intense heat and light from this inner sun instantly cause the entire flood of troubles to evaporate into harmless steam and disappear ('கெடும்') before it can even touch the person."
+    },
+    "Art_Direction": {
+      "Subject_and_Action": "Even a flood of troubles will be destroyed and vanish when confronted by a single, powerful thought from the mind of a wise person.",
+      "Symbolic_Motifs": "The tsunami is the 'flood of troubles'. The inner sun is the 'thought of the wise mind'. The evaporation of the flood is the destruction of sorrow by thought.",
+      "Mood_and_Emotion": "Powerful, confident, serene, masterful control of the mind.",
+      "Lighting_and_Color": "The flood is dark and menacing. The inner sun is a brilliant, white-hot star that completely dominates the scene with its light and heat.",
+      "Technical_Cues": {
+        "Camera": "A cinematic shot showing the immense scale of the flood and the even greater power of the inner sun that destroys it.",
+        "Resolution": "8K, with hyper-realistic water and heat-haze/evaporation effects.",
+        "Lighting": "The inner sun is the primary, overwhelming light source.",
+        "Art_Genre": "Epic fantasy art, metaphysical action scene."
+      }
+    },
+    "Cultural_Anchors": [
+      "A Flood of Troubles ('வெள்ளத்தனைய இடும்பை')",
+      "The Thought of a Wise Mind ('அறிவுடையான் உள்ளம்')",
+      "The power of thought to destroy suffering."
+    ]
+  },
+  "Negative_Prompt": "person drowning, weak inner light, text artifacts, cartoonish.",
+  "Hyperparameters": {
+    "variant": "pro",
+    "steps": 50,
+    "cfg_scale": 9,
+    "seed": "Explore variations for the evaporation effect."
+  }
+}

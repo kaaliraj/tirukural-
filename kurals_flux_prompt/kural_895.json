@@ -1,0 +1,39 @@
+{
+  "Kural_Info": {
+    "Number": 895,
+    "Chapter": "பெரியாரைப் பிழையாமை (Not Offending the Great)",
+    "Tamil_Text": "யாண்டுச்சென்று யாண்டும் உளராகார் வெந்துப்பின் வேந்து செறப்பட் டவர்.",
+    "English_Meaning": "Those who have incurred the wrath of a cruel and mighty potentate will not prosper wherever they may go."
+  },
+  "Flux_Optimized_Prompt": {
+    "Layered_Composition": {
+      "Foreground": "A person has incurred the wrath of a mighty king ('வேந்து செறப்பட்டவர்'). They are shown fleeing.",
+      "Midground": "The image shows them trying to escape to many different places around the world ('யாண்டுச்சென்று'). They are seen in a dense jungle, a vast desert, a foreign city, and on a remote island.",
+      "Background": "However, in every single place they go, the burning wrath of the king follows them, visualized as a fiery, ever-present eye in the sky. Because of this inescapable wrath, they can find no place to live or exist ('யாண்டும் உளராகார்'). They are hunted and have no refuge."
+    },
+    "Art_Direction": {
+      "Subject_and_Action": "Those who are the target of a great king's anger will find no place in the world to live, no matter where they go.",
+      "Symbolic_Motifs": "The fiery, all-seeing eye of the king's wrath that is present in every location is the central metaphor for the inescapable nature of his anger. The multiple scenes of failed escape show the universality of their doom.",
+      "Mood_and_Emotion": "Hunted, inescapable, doomed, no refuge.",
+      "Lighting_and_Color": "Each landscape is lit by the menacing, fiery glow of the king's wrathful eye in the sky. The colors are fearful and full of dread.",
+      "Technical_Cues": {
+        "Camera": "A multi-panel or sequential image that shows the fugitive in different locations, but always under the gaze of the fiery eye.",
+        "Resolution": "8K, with an epic, world-spanning feel.",
+        "Lighting": "The primary light source is the menacing eye of wrath.",
+        "Art_Genre": "High-fantasy, with a dark and epic tone."
+      },
+      "Cultural_Anchors": [
+        "Those who incur the King's Wrath ('வேந்து செறப்பட்டவர்')",
+        "They have no place to exist, wherever they go ('யாண்டுச்சென்று யாண்டும் உளராகார்')",
+        "The long reach of a ruler's anger."
+      ]
+    },
+    "Negative_Prompt": "a person finding refuge, a forgiving king, text artifacts.",
+    "Hyperparameters": {
+      "variant": "pro",
+      "steps": 50,
+      "cfg_scale": 8,
+      "seed": "Explore variations for the fiery eye of wrath."
+    }
+  }
+}

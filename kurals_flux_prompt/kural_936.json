@@ -1,0 +1,39 @@
+{
+  "Kural_Info": {
+    "Number": 936,
+    "Chapter": "சூது (Gambling)",
+    "Tamil_Text": "அகடாரார் அல்லல் உழப்பர்சூ தென்னும் முகடியான் மூடப்பட் டார்.",
+    "English_Meaning": "Those who are swallowed by the goddess called 'gambling' will never have their hunger satisfied, but suffer the pangs of hell in the next world."
+  },
+  "Flux_Optimized_Prompt": {
+    "Layered_Composition": {
+      "Foreground": "A person is being covered and swallowed ('மூடப்பட்டார்') by a terrifying, dark, goddess-like entity representing Gambling ('சூதென்னும் முகடி').",
+      "Midground": "As they are being swallowed, two things are happening. Their stomach is shown to be a bottomless pit, never able to be filled ('அகடாரார்'), representing a perpetual, gnawing hunger and dissatisfaction in this life.",
+      "Background": "At the same time, they are being dragged down into a fiery, hellish realm, where they will suffer endless torment ('அல்லல் உழப்பர்') in the next life."
+    },
+    "Art_Direction": {
+      "Subject_and_Action": "Those who are covered by the 'unlucky goddess' of gambling will suffer from insatiable hunger in this life and the pains of hell in the next.",
+      "Symbolic_Motifs": "The personification of gambling as a dark, all-consuming goddess is the central metaphor. The bottomless stomach and the hellish background represent the dual punishments in this life and the next.",
+      "Mood_and_Emotion": "Devouring, insatiable, hellish, cursed.",
+      "Lighting_and_Color": "A dark, hellish light emanates from the goddess and the pit of hell she is dragging her victim into. The colors are fiery reds, oranges, and deep, terrifying blacks.",
+      "Technical_Cues": {
+        "Camera": "A dynamic, terrifying shot of the person being swallowed by the goddess.",
+        "Resolution": "8K, with a dark fantasy/horror aesthetic.",
+        "Lighting": "Hellish, fiery lighting.",
+        "Art_Genre": "Dark fantasy, mythological horror."
+      },
+      "Cultural_Anchors": [
+        "Covered by the unlucky goddess of Gambling ('சூதென்னும் முகடியான் மூடப்பட்டார்')",
+        "Insatiable Hunger ('அகடாரார்')",
+        "Suffering Torment ('அல்லல் உழப்பர்')"
+      ]
+    },
+    "Negative_Prompt": "a friendly goddess, a happy gambler, a heavenly background, text artifacts.",
+    "Hyperparameters": {
+      "variant": "pro",
+      "steps": 50,
+      "cfg_scale": 9,
+      "seed": "Explore variations for the goddess of gambling."
+    }
+  }
+}

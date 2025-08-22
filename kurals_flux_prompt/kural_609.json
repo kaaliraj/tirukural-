@@ -1,0 +1,39 @@
+{
+  "Kural_Info": {
+    "Number": 609,
+    "Chapter": "மடியின்மை (Unsluggishness)",
+    "Tamil_Text": "குடியாண்மை யுள்வந்த குற்றம் ஒருவன் மடியாண்மை மாற்றக் கெடும்.",
+    "English_Meaning": "The reproach which has come upon a man and his family will disappear, when he puts away his idleness."
+  },
+  "Flux_Optimized_Prompt": {
+    "Layered_Composition": {
+      "Foreground": "A person is shown making a powerful, decisive choice. They are shattering a dark, heavy chain that was binding them, which represents their own laziness ('மடியாண்மை மாற்ற').",
+      "Midground": "As the chain shatters, a dark, ugly stain of reproach ('குற்றம்') that was covering their family's ancestral home in the background instantly vanishes, as if it was connected to the chain.",
+      "Background": "The family home ('குடியாண்மை') is revealed to be noble and beautiful under the vanished stain, and a bright, clear sun rises behind it, symbolizing a new, faultless beginning."
+    },
+    "Art_Direction": {
+      "Subject_and_Action": "When a person overcomes their own idleness, the disgrace that has fallen upon their family will be instantly removed.",
+      "Symbolic_Motifs": "The chain of laziness is directly linked to the stain of reproach on the house. Breaking one instantly destroys the other. The rising sun symbolizes the restored honor.",
+      "Mood_and_Emotion": "Liberating, purifying, restorative, hopeful, determined.",
+      "Lighting_and_Color": "The scene transforms from dark and stained to bright and pure. The shattering chain releases a burst of brilliant light that cleanses the house and brings the dawn.",
+      "Technical_Cues": {
+        "Camera": "A dynamic shot capturing the moment the chain breaks and the stain on the house vanishes simultaneously.",
+        "Resolution": "8K, with powerful particle and light effects for the moment of liberation.",
+        "Lighting": "Dramatic shift from dark to light.",
+        "Art_Genre": "Symbolic fantasy realism."
+      },
+      "Cultural_Anchors": [
+        "Overcoming Idleness ('மடியாண்மை மாற்ற')",
+        "The Fault on the Family ('குடியாண்மை உள்வந்த குற்றம்')",
+        "The restoration of honor through diligence."
+      ]
+    },
+    "Negative_Prompt": "person keeping the chain, stain getting darker, text artifacts, blurry.",
+    "Hyperparameters": {
+      "variant": "dev",
+      "steps": 45,
+      "cfg_scale": 9,
+      "seed": "Explore variations for the stain removal effect."
+    }
+  }
+}

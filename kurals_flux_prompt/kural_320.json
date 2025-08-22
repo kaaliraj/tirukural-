@@ -1,0 +1,38 @@
+{
+  "Kural_Info": {
+    "Number": 320,
+    "Chapter": "இன்னாசெய்யாமை (Not doing Evil)",
+    "Tamil_Text": "நோயெல்லாம் நோய்செய்தார் மேலவாம் நோய்செய்யார்நோயின்மை வேண்டு பவர்.",
+    "English_Meaning": "Sorrow will come upon those who cause pain to others; therefore those, who desire to be free from sorrow, give no pain to others."
+  },
+  "Flux_Optimized_Prompt": {
+    "Layered_Composition": {
+      "Foreground": "A split composition.",
+      "Midground": "On the left, a person is inflicting pain and sorrow ('நோய்') on another. As they do so, all the pain they are inflicting is shown to be magically transferring and accumulating upon themselves ('நோய் செய்தார் மேலவாம்'). They are becoming afflicted with the very sorrow they create.",
+      "Background": "On the right, a person is shown who desires to be free from pain ('நோயின்மை வேண்டுபவர்'). Because of this desire, they are shown actively refraining from harming anyone ('நோய் செய்யார்'). As a result, they stand in a serene, protected space, free from all affliction."
+    },
+    "Art_Direction": {
+      "Subject_and_Action": "All suffering ultimately returns to the one who creates it. Therefore, those who truly desire a life free from suffering must first ensure they do not inflict it on others.",
+      "Symbolic_Motifs": "The magical transference of pain from the victim back to the aggressor is the key visual on the left. The state of protected serenity on the right is a direct result of the choice not to harm. The two scenes show the two sides of the karmic law.",
+      "Mood_and_Emotion": "Karmic law, self-inflicted, cautionary, serene.",
+      "Lighting_and_Color": "The left side is dark and filled with the sickly, painful colors of the accumulating sorrow. The right side is bathed in a calm, clear, and healthy light of peace.",
+      "Technical_Cues": {
+        "Camera": "A balanced diptych that clearly shows the two choices and their inevitable consequences.",
+        "Resolution": "8K, ultra-realistic, with magical effects for the transference of pain.",
+        "Lighting": "Contrasting lighting to show the state of being afflicted versus the state of being free.",
+        "Art_Genre": "Symbolic realism, with fantasy elements."
+      },
+      "Cultural_Anchors": [
+        "All sorrow falls upon the one who causes sorrow (நோய் எல்லாம் நோய் செய்தார் மேலவாம்)",
+        "Those who desire freedom from sorrow do not cause sorrow (நோய் செய்யார் நோயின்மை வேண்டுபவர்)"
+      ]
+    },
+    "Negative_Prompt": "person getting away with causing pain, text artifacts.",
+    "Hyperparameters": {
+      "variant": "pro",
+      "steps": 50,
+      "cfg_scale": 8,
+      "seed": "Explore the visual of 'pain transferring back to the aggressor'."
+    }
+  }
+}

@@ -1,0 +1,39 @@
+{
+  "Kural_Info": {
+    "Number": 411,
+    "Chapter": "கேள்வி (Hearing)",
+    "Tamil_Text": "செல்வத்துட் செல்வஞ் செவிச்செல்வம் அச்செல்வம் செல்வத்து ளெல்லாந் தலை.",
+    "English_Meaning": "Wealth (gained) by the ear is wealth of wealth; that wealth is the chief of all wealth."
+  },
+  "Flux_Optimized_Prompt": {
+    "Layered_Composition": {
+      "Foreground": "A person is shown with their eyes closed in deep concentration, listening intently. Their ears are subtly stylized to look like they are made of pure, shining gold.",
+      "Midground": "Golden soundwaves of wisdom are flowing from an unseen source (representing the words of the wise) and being absorbed by their golden ears. This is the Wealth of the Ear ('செவிச்செல்வம்').",
+      "Background": "In the background, piles of ordinary gold coins and jewels are shown looking dull and insignificant in comparison to the radiant glow of the wisdom being received."
+    },
+    "Art_Direction": {
+      "Subject_and_Action": "The concept that the wealth of learning through hearing is the supreme wealth, surpassing all material riches.",
+      "Symbolic_Motifs": "The golden ears and the golden soundwaves represent the supreme value of the 'Wealth of the Ear'. The dullness of the material gold provides a stark contrast.",
+      "Mood_and_Emotion": "Precious, profound, enlightened, receptive.",
+      "Lighting_and_Color": "A brilliant, divine golden light emanates from the soundwaves and the ears. The material wealth in the background is in shadow, with only faint, dull glints.",
+      "Technical_Cues": {
+        "Camera": "Close-up profile shot, focusing on the act of listening and the glowing ear.",
+        "Resolution": "8K, with a beautiful, ethereal glow effect and detailed textures.",
+        "Lighting": "The primary light source is the wisdom itself, creating a magical and sacred atmosphere.",
+        "Art_Genre": "Symbolic realism, mystical art."
+      }
+    },
+    "Cultural_Anchors": [
+      "Wealth of the Ear ('செவிச்செல்வம்')",
+      "Learning through hearing ('கேள்வி')",
+      "Supremacy of knowledge over material wealth."
+    ]
+  },
+  "Negative_Prompt": "person ignoring the sound, dull ears, glowing material gold, text artifacts, blurry.",
+  "Hyperparameters": {
+    "variant": "pro",
+    "steps": 50,
+    "cfg_scale": 8,
+    "seed": "Explore variations for the design of the golden soundwaves."
+  }
+}

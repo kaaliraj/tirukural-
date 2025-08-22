@@ -1,0 +1,38 @@
+{
+  "Kural_Info": {
+    "Number": 1037,
+    "Chapter": "உழவு (Farming)",
+    "Tamil_Text": "தொடிப்புழுதி கஃசா உணக்கின் பிடித்தெருவும்வேண்டாது சாலப் படும்.",
+    "English_Meaning": "If the land is dried so as to reduce one ounce of earth to a quarter, it will grow plentifully even without a handful of manure."
+  },
+  "Flux_Optimized_Prompt": {
+    "Layered_Composition": {
+      "Foreground": "A close-up on a farmer's hands. He is taking a clod of earth ('தொடிப் புழுதி') and crumbling it into a fine, dry powder that is a fraction of its original volume ('கஃசா உணக்கின்').",
+      "Midground": "He is shown sowing seeds into this perfectly prepared, aerated soil.",
+      "Background": "Instantly, a magnificent, abundant harvest ('சாலப் படும்') springs forth from this soil. The image makes it clear that no manure was needed ('பிடித்து எருவும் வேண்டாது'). The perfect preparation of the soil alone was sufficient to ensure immense fertility."
+    },
+    "Art_Direction": {
+      "Subject_and_Action": "A practical farming instruction elevated to a principle of abundance: if the soil is ploughed and dried to perfection, it will yield a rich harvest even without the addition of manure.",
+      "Symbolic_Motifs": "The transformation of the clod of earth into fine powder is the key action. The magical, instantaneous growth of the harvest demonstrates the powerful result of this perfect preparation.",
+      "Mood_and_Emotion": "Abundant, fertile, skillful, masterful.",
+      "Lighting_and_Color": "A bright, warm, sunlit scene. The soil is a rich, dark, and perfectly textured brown. The resulting harvest is a vibrant, golden color, symbolizing its abundance.",
+      "Technical_Cues": {
+        "Camera": "A shot that follows the process from the hands crumbling the soil to the resulting magnificent harvest, showing a clear cause and effect.",
+        "Resolution": "8K, hyper-realistic, with a strong focus on the texture of the soil and the crops.",
+        "Lighting": "Bright, agricultural sunlight.",
+        "Art_Genre": "Idealistic realism, with a touch of magical realism."
+      },
+      "Cultural_Anchors": [
+        "Drying the soil until a clod becomes a quarter (தொடிப் புழுதி கஃசா உணக்கின்)",
+        "Not even a handful of manure is needed (பிடித்து எருவும் வேண்டாது)"
+      ]
+    },
+    "Negative_Prompt": "wet soil, farmer adding lots of manure, poor harvest, text artifacts.",
+    "Hyperparameters": {
+      "variant": "pro",
+      "steps": 50,
+      "cfg_scale": 7,
+      "seed": "Explore the visual of the 'instantaneous abundant harvest'."
+    }
+  }
+}

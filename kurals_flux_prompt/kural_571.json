@@ -1,0 +1,39 @@
+{
+  "Kural_Info": {
+    "Number": 571,
+    "Chapter": "கண்ணோட்டம் (Benignity)",
+    "Tamil_Text": "கண்ணோட்டம் என்னும் கழிபெருங் காரிகை உண்மையான் உண்டிவ் வுலகு.",
+    "English_Meaning": "The world exists through that greatest ornament (of princes), a gracious demeanour."
+  },
+  "Flux_Optimized_Prompt": {
+    "Layered_Composition": {
+      "Foreground": "The world ('இவ்வுலகு') is depicted as a beautiful, balanced, and thriving ecosystem.",
+      "Midground": "The force that holds this world together is personified as a graceful, goddess-like figure representing Benignity or Graceful Regard ('கண்ணோட்டம்'). She is the 'exceeding great beauty' ('கழிபெருங் காரிகை'). Her gaze is kind, and her presence is the reason for the world's existence and harmony.",
+      "Background": "A cosmic backdrop, suggesting that this principle of benignity is a fundamental, universal force that sustains existence."
+    },
+    "Art_Direction": {
+      "Subject_and_Action": "The very existence of the world is sustained by the fundamental principle of benignity or graceful compassion.",
+      "Symbolic_Motifs": "Personifying 'Kannottam' as a beautiful, goddess-like figure who sustains the world is the central concept. Her graceful presence is the cause of the world's harmony.",
+      "Mood_and_Emotion": "Graceful, sustaining, benevolent, fundamental, beautiful.",
+      "Lighting_and_Color": "A soft, beautiful, and life-giving light emanates from the figure of Benignity, nourishing the world. The color palette is full of gentle, harmonious pastels, vibrant greens, and clear blues."
+    },
+    "Technical_Cues": {
+      "Camera": "An epic, wide shot that shows the goddess of Benignity and the world she is sustaining.",
+      "Resolution": "8K, with a painterly, ethereal quality.",
+      "Lighting": "Soft, diffused, divine lighting.",
+      "Art_Genre": "Mythological art, classical allegorical painting."
+    },
+    "Cultural_Anchors": [
+      "'Kannottam' (Benignity/Graceful Regard)",
+      "The Great Beauty ('கழிபெருங் காரிகை')",
+      "The Sustaining Force of the World ('உண்டு இவ்வுலகு')"
+    ]
+  },
+  "Negative_Prompt": "a cruel figure, a dying world, text artifacts, harsh lighting, cartoonish.",
+  "Hyperparameters": {
+    "variant": "pro",
+    "steps": 50,
+    "cfg_scale": 8,
+    "seed": "Explore variations for the design of the goddess of Benignity."
+  }
+}

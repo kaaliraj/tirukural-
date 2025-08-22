@@ -1,0 +1,38 @@
+{
+  "Kural_Info": {
+    "Number": 197,
+    "Chapter": "பயனில சொல்லாமை (Against Vain Speaking)",
+    "Tamil_Text": "நயனில சொல்லினுஞ் சொல்லுக சான்றோர்பயனில சொல்லாமை நன்று.",
+    "English_Meaning": "Let the wise if they will, speak things without excellence; it will be well for them not to speak useless things."
+  },
+  "Flux_Optimized_Prompt": {
+    "Layered_Composition": {
+      "Foreground": "A wise person ('சான்றோர்') is shown. They have two choices of speech.",
+      "Midground": "One choice is to speak words that are ungraceful or lack justice, but are still connected to some purpose ('நயன் இல சொல்லினும்'). This is depicted as a rough, unpolished, but solid stone.",
+      "Background": "The other choice is to speak words that are completely useless and without any purpose ('பயனில'). This is depicted as a puff of empty smoke. The wise person is shown choosing to speak the 'stone' of ungraceful but purposeful speech, while emphatically rejecting the 'smoke' of useless speech. The latter is shown to be the greater evil to be avoided."
+    },
+    "Art_Direction": {
+      "Subject_and_Action": "Even a wise person might occasionally speak ungraciously, but it is far better for them to do that than to ever speak words that are completely devoid of purpose.",
+      "Symbolic_Motifs": "The contrast between the rough but solid stone and the insubstantial puff of smoke is the key. It creates a hierarchy of speech errors: ungraceful but purposeful speech is a minor flaw; completely useless speech is a major one.",
+      "Mood_and_Emotion": "Discerning, hierarchical, prioritizing substance over style.",
+      "Lighting_and_Color": "A clear, intellectual light. The stone of ungraceful speech is a solid grey. The smoke of useless speech is a dissipating, meaningless wisp of black.",
+      "Technical_Cues": {
+        "Camera": "A shot that clearly presents the two choices and the wise person's deliberate decision.",
+        "Resolution": "8K, ultra-realistic, with strong textural contrast between the stone and the smoke.",
+        "Lighting": "Clear, neutral lighting.",
+        "Art_Genre": "Conceptual art, symbolic still life."
+      },
+      "Cultural_Anchors": [
+        "Even if you speak ungracious words (நயன் இல சொல்லினும்)",
+        "It is good not to speak useless words (பயனில சொல்லாமை நன்று)"
+      ]
+    },
+    "Negative_Prompt": "person choosing smoke, text artifacts.",
+    "Hyperparameters": {
+      "variant": "dev",
+      "steps": 40,
+      "cfg_scale": 8,
+      "seed": "Explore the visual contrast between the 'stone' and 'smoke' words."
+    }
+  }
+}

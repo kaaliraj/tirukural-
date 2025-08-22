@@ -1,0 +1,39 @@
+{
+  "Kural_Info": {
+    "Number": 412,
+    "Chapter": "கேள்வி (Hearing)",
+    "Tamil_Text": "செவுக்குண வில்லாத போழ்து சிறிது வயிற்றுக்கும் ஈயப் படும்.",
+    "English_Meaning": "When there is no food for the ear, give a little also to the stomach."
+  },
+  "Flux_Optimized_Prompt": {
+    "Layered_Composition": {
+      "Foreground": "A wise person is shown at a simple dining table. Before them are two bowls.",
+      "Midground": "The first and larger bowl, placed closer to them, is a 'bowl of sound', from which musical notes and glowing words (food for the ear - 'செவுக்குணவு') are rising. They are partaking of this first. The second, smaller bowl contains a modest amount of simple food (food for the stomach - 'வயிற்றுக்கும்').",
+      "Background": "A serene, scholarly environment, like a library or a quiet courtyard, reinforcing the priority of intellectual nourishment."
+    },
+    "Art_Direction": {
+      "Subject_and_Action": "The principle of prioritizing nourishment for the mind (hearing wisdom) over food for the body. The body should only be fed when the mind has no food.",
+      "Symbolic_Motifs": "The two bowls clearly represent the two types of food. The precedence and size of the 'bowl of sound' visually establishes the priority. The person partaking from the ear's food first demonstrates the principle in action.",
+      "Mood_and_Emotion": "Wise, disciplined, prioritizing, intellectual.",
+      "Lighting_and_Color": "A soft, intellectual light illuminates the scene. The 'food for the ear' glows with a gentle, wise light. The physical food is depicted realistically but simply.",
+      "Technical_Cues": {
+        "Camera": "Eye-level medium shot, focusing on the person and the two bowls, clearly showing the choice being made.",
+        "Resolution": "8K, realistic with a slightly painterly quality.",
+        "Lighting": "Natural, soft lighting appropriate for a quiet, contemplative scene.",
+        "Art_Genre": "Still life with a human element, symbolic realism."
+      }
+    },
+    "Cultural_Anchors": [
+      "Food for the Ear ('செவுக்குணவு')",
+      "Prioritizing knowledge over bodily needs",
+      "The hierarchy of nourishment."
+    ]
+  },
+  "Negative_Prompt": "person eating physical food first, large bowl of food, no bowl of sound, text artifacts, blurry, gluttonous expression.",
+  "Hyperparameters": {
+    "variant": "dev",
+    "steps": 40,
+    "cfg_scale": 8,
+    "seed": "Explore variations for the glowing words in the bowl."
+  }
+}

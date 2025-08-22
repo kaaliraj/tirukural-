@@ -1,0 +1,38 @@
+{
+  "Kural_Info": {
+    "Number": 1302,
+    "Chapter": "புலவி (Pouting)",
+    "Tamil_Text": "உப்பமைந் தற்றால் புலவி அதுசிறிதுமிக்கற்றால் நீள விடல்.",
+    "English_Meaning": "A cool reserve is like the salt that seasons well the mess, Too long maintained, 'tis like the salt's excess."
+  },
+  "Flux_Optimized_Prompt": {
+    "Layered_Composition": {
+      "Foreground": "A split composition illustrating a powerful simile.",
+      "Midground": "On the left, a delicious, perfectly prepared meal is being served. A hand is adding just a small, perfect pinch of salt ('உப்பு அமைந்தற்று'), which is shown to elevate the dish to perfection. This represents a short, well-timed lover's pout ('புலவி').",
+      "Background": "On the right, the same delicious meal is shown, but a hand is pouring an excessive amount of salt onto it, completely ruining it. This represents a pout that has been allowed to go on for too long ('நீள விடல்'). The food is visibly rendered inedible."
+    },
+    "Art_Direction": {
+      "Subject_and_Action": "Lover's pouting is like salt in a meal: a little bit enhances the flavor of love, but letting it go on for too long is like adding too much salt, which ruins everything.",
+      "Symbolic_Motifs": "The direct comparison of pouting to salt is the core of the image. The perfect pinch versus the excessive pour is a clear visual representation of the correct and incorrect duration of a lover's quarrel.",
+      "Mood_and_Emotion": "Balanced, cautionary, proportional.",
+      "Lighting_and_Color": "The well-salted dish on the left looks delicious, bathed in a warm, appetizing light. The over-salted dish on the right looks disgusting, with a harsh, unappealing light highlighting the ruinous excess of white salt.",
+      "Technical_Cues": {
+        "Camera": "A clean, clear diptych shot, like a page from a high-end cookbook, that perfectly illustrates the 'recipe' for a successful pout.",
+        "Resolution": "8K, hyper-realistic food photography style.",
+        "Lighting": "Contrasting lighting to show 'appetizing' versus 'ruined'.",
+        "Art_Genre": "Symbolic still life."
+      },
+      "Cultural_Anchors": [
+        "Pouting is like the right amount of salt (உப்பமைந்தற்றால் புலவி)",
+        "Letting it prolong is like too much (மிக்கற்றால் நீள விடல்)"
+      ]
+    },
+    "Negative_Prompt": "no salt, bland food, happy couple eating the ruined food, text artifacts.",
+    "Hyperparameters": {
+      "variant": "pro",
+      "steps": 50,
+      "cfg_scale": 8,
+      "seed": "Focus on making the food look hyper-realistic and delicious/ruined."
+    }
+  }
+}

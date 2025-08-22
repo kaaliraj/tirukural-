@@ -1,0 +1,38 @@
+{
+  "Kural_Info": {
+    "Number": 156,
+    "Chapter": "பொறையுடைமை (The Possession of Patience, Forbearance)",
+    "Tamil_Text": "ஒறுத்தார்க்கு ஒருநாளை இன்பம் பொறுத்தார்க்குப்பொன்றுந் துணையும் புகழ்.",
+    "English_Meaning": "The pleasure of the resentful continues for a day. The praise of the patient will continue until (the final destruction of) the world."
+  },
+  "Flux_Optimized_Prompt": {
+    "Layered_Composition": {
+      "Foreground": "A split composition. On the left, a resentful man stands in the brief, fleeting flash of a firefly's light, representing 'one day's pleasure' ('ஒருநாளை இன்பம்'). The pleasure is momentary and surrounded by darkness.",
+      "Midground": "On the right, a patient man stands. Behind him, a monumental, eternal pillar of pure light representing 'praise' ('புகழ்') stretches from the earth into the cosmos, enduring until the end of time ('பொன்றுந் துணையும்').",
+      "Background": "The background for the resentful man is a dark, transient night. The background for the patient man is the eternal, starry cosmos, signifying the enduring nature of his glory."
+    },
+    "Art_Direction": {
+      "Subject_and_Action": "The stark contrast between the momentary pleasure of revenge and the eternal praise that comes from forbearance.",
+      "Symbolic_Motifs": "The firefly's flash versus the eternal pillar of light is a powerful metaphor for the duration of the respective rewards. The pillar is inscribed with words of praise from all generations.",
+      "Mood_and_Emotion": "Transient vs. eternal; fleeting, enduring, glorious.",
+      "Lighting_and_Color": "The left side is almost entirely dark, with just a tiny, brief spark of light. The right side is brilliantly illuminated by the unwavering, powerful glow of the pillar of praise.",
+      "Technical_Cues": {
+        "Camera": "An epic, ultra-wide shot that captures the immense contrast in scale and duration between the two outcomes.",
+        "Resolution": "8K, ultra-realistic, with advanced lighting effects for the firefly and the cosmic pillar.",
+        "Lighting": "Extreme contrast lighting to emphasize the theme of transience versus permanence.",
+        "Art_Genre": "Epic fantasy art, symbolic diptych."
+      },
+      "Cultural_Anchors": [
+        "One day's pleasure (ஒருநாளை இன்பம்)",
+        "Praise until the world's end (பொன்றுந் துணையும் புகழ்)"
+      ]
+    },
+    "Negative_Prompt": "enduring pleasure for the resentful, fleeting praise for the patient, text artifacts.",
+    "Hyperparameters": {
+      "variant": "pro",
+      "steps": 55,
+      "cfg_scale": 9,
+      "seed": "Explore the design of the 'eternal pillar of praise'."
+    }
+  }
+}

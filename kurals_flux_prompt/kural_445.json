@@ -1,0 +1,39 @@
+{
+  "Kural_Info": {
+    "Number": 445,
+    "Chapter": "பெரியாரைத் துணைக்கோடல் (Seeking the Aid of Great Men)",
+    "Tamil_Text": "சூழ்வார்கண் ணாக ஒழுகலான் மன்னவன் சூழ்வாரைக் சூழ்ந்து கொளல்.",
+    "English_Meaning": "As a king must use his ministers as eyes (in managing his kingdom), let him well examine their character and qualifications before he engages them."
+  },
+  "Flux_Optimized_Prompt": {
+    "Layered_Composition": {
+      "Foreground": "A king is shown, but his own eyes are closed. Instead, he is 'seeing' through the eyes of his wise counselors who stand beside him.",
+      "Midground": "The counselors' eyes are bright and clear, and they are carefully examining the state of the kingdom—its economy, defense, and people's welfare. The king is making his decisions based on this shared vision.",
+      "Background": "The kingdom is well-managed and prosperous, a direct result of the clear-sightedness provided by the well-chosen counselors."
+    },
+    "Art_Direction": {
+      "Subject_and_Action": "A ruler must act as if their counselors are their own eyes. Therefore, they must carefully examine and select these 'eyes' to ensure they see clearly.",
+      "Symbolic_Motifs": "The king 'seeing' through his counselors' eyes ('சூழ்வார்கண்ணாக') is the central visual metaphor. This highlights the complete trust and reliance a king must place on his advisors.",
+      "Mood_and_Emotion": "Synergistic, wise, trusting, clear-sighted, effective governance.",
+      "Lighting_and_Color": "A clear, bright light emanates from the eyes of the counselors, illuminating the king and the kingdom. The palette is bright and orderly, reflecting good management."
+    },
+    "Technical_Cues": {
+      "Camera": "A symbolic shot that visually connects the king's mind with the counselors' eyes, perhaps using lines of light.",
+      "Resolution": "8K, with a surreal, metaphysical quality.",
+      "Lighting": "The counselors' eyes are the main light source, symbolizing that their vision guides the state.",
+      "Art_Genre": "Symbolic realism, surrealist art."
+    },
+    "Cultural_Anchors": [
+      "Counselors as the King's Eyes ('சூழ்வார்கண்ணாக')",
+      "Careful selection of ministers ('சூழ்ந்து கொளல்')",
+      "The basis of good governance."
+    ]
+  },
+  "Negative_Prompt": "king with his eyes open and ignoring counselors, blind counselors, chaotic kingdom, text artifacts.",
+  "Hyperparameters": {
+    "variant": "dev",
+    "steps": 45,
+    "cfg_scale": 8,
+    "seed": "Explore variations for the visual connection between the king and his counselors."
+  }
+}

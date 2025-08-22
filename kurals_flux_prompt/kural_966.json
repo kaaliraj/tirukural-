@@ -1,0 +1,39 @@
+{
+  "Kural_Info": {
+    "Number": 966,
+    "Chapter": "மானம் (Honour)",
+    "Tamil_Text": "புகழ்இன்றால் புத்தேள்நாட்டு உய்யாதால் என்மற்றுஇகழ்வார்பின் சென்று நிலை.",
+    "English_Meaning": "It yields no praise, nor to the land of Gods throws wide the gate: Why follow men who scorn, and at their bidding wait?."
+  },
+  "Flux_Optimized_Prompt": {
+    "Layered_Composition": {
+      "Foreground": "A person is shown humbly following and serving someone who clearly despises and scorns them ('இகழ்வார்பின் சென்று நிலை').",
+      "Midground": "The path they are on is shown to lead to two destinations, both of which are blocked. A gate labeled 'Praise/Fame' ('புகழ்') is firmly shut. Another gate leading to the 'Land of the Gods' ('புத்தேள் நாடு') is also barred and inaccessible ('உய்யாது').",
+      "Background": "The scene visually poses the question 'What is the point?' ('என் மற்று'). The person's degrading action is shown to produce no benefit in this world (fame) and no benefit in the next (heaven), making it an act of pure, pointless self-degradation."
+    },
+    "Art_Direction": {
+      "Subject_and_Action": "A visual rhetorical question about the utter pointlessness of debasing oneself by serving those who scorn you, as it leads neither to worldly praise nor heavenly reward.",
+      "Symbolic_Motifs": "The two barred gates are the key. They represent the complete lack of any positive outcome from the degrading action. The scornful expression of the person being followed contrasts with the hopeful but foolish expression of the follower.",
+      "Mood_and_Emotion": "Futile, pointless, degrading, cautionary.",
+      "Lighting_and_Color": "A bleak, grey, and hopeless light illuminates the scene. The barred gates are dark and forbidding. The palette is desaturated to emphasize the lack of any positive outcome.",
+      "Technical_Cues": {
+        "Camera": "A shot from behind the follower, showing their futile journey towards the two closed gates.",
+        "Resolution": "8K, ultra-realistic, with a strong focus on the hopeless atmosphere.",
+        "Lighting": "Flat, depressing lighting.",
+        "Art_Genre": "Symbolic realism."
+      },
+      "Cultural_Anchors": [
+        "Following those who scorn (இகழ்வார்பின் சென்று)",
+        "It gives no praise (புகழ் இன்றால்)",
+        "It doesn't lead to the world of gods (புத்தேள் நாட்டு உய்யாது)"
+      ]
+    },
+    "Negative_Prompt": "open gates, happy follower, text artifacts.",
+    "Hyperparameters": {
+      "variant": "dev",
+      "steps": 40,
+      "cfg_scale": 8,
+      "seed": "Explore the design of the two barred gates."
+    }
+  }
+}

@@ -1,0 +1,38 @@
+{
+  "Kural_Info": {
+    "Number": 343,
+    "Chapter": "துறவு (Renunciation)",
+    "Tamil_Text": "அடல்வேண்டும் ஐந்தன் புலத்தை விடல்வேண்டும்வேண்டிய வெல்லாம் ஒருங்கு.",
+    "English_Meaning": "Let the five senses be destroyed; and at the same time, let everything be abandoned that (the ascetic) has (formerly) desired."
+  },
+  "Flux_Optimized_Prompt": {
+    "Layered_Composition": {
+      "Foreground": "An ascetic is shown in a moment of supreme renunciation. They are performing two simultaneous acts.",
+      "Midground": "With one act, they are conquering their five senses ('அடல் வேண்டும் ஐந்தன் புலத்தை'). This is visualized as the five senses (sight, sound, etc.) being drawn inward and absorbed into a central point of stillness within them.",
+      "Background": "Simultaneously ('ஒருங்கு'), they are letting go of all their past desires ('வேண்டிய எல்லாம்'). This is visualized as a vast collection of all worldly objects and pleasures turning to dust and blowing away ('விடல் வேண்டும்'). The two acts happen at the exact same moment."
+    },
+    "Art_Direction": {
+      "Subject_and_Action": "The path of renunciation requires two simultaneous and absolute actions: the complete conquest of the five senses and the complete abandonment of all past desires.",
+      "Symbolic_Motifs": "The simultaneity of the two acts is crucial. It's not a step-by-step process. The inward absorption of the senses and the outward dissolution of the desired objects are two sides of the same coin of total renunciation.",
+      "Mood_and_Emotion": "Absolute, total renunciation, simultaneous, powerful.",
+      "Lighting_and_Color": "A brilliant, pure, white light of renunciation explodes from the ascetic at the moment of this dual act. It is a light of pure emptiness and freedom. The dissolving objects and absorbing senses are part of this powerful, transformative event.",
+      "Technical_Cues": {
+        "Camera": "A shot that captures the ascetic at the epicenter of this explosive, dual act of renunciation.",
+        "Resolution": "8K, ultra-realistic, with advanced particle and energy effects.",
+        "Lighting": "A single, explosive flash of pure white light that signifies the moment of total renunciation.",
+        "Art_Genre": "High fantasy art, with a spiritual focus."
+      },
+      "Cultural_Anchors": [
+        "One must conquer the five senses (அடல் வேண்டும் ஐந்தன் புலத்தை)",
+        "One must abandon all desired things at once (விடல் வேண்டும் வேண்டிய எல்லாம் ஒருங்கு)"
+      ]
+    },
+    "Negative_Prompt": "ascetic clinging to desires, senses running wild, text artifacts.",
+    "Hyperparameters": {
+      "variant": "pro",
+      "steps": 55,
+      "cfg_scale": 9,
+      "seed": "Explore the visual of the 'simultaneous renunciation'."
+    }
+  }
+}

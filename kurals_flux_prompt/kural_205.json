@@ -1,0 +1,39 @@
+{
+  "Kural_Info": {
+    "Number": 205,
+    "Chapter": "தீவினையச்சம் (Dread of Evil Deeds)",
+    "Tamil_Text": "இலன்என்று தீயவை செய்யற்க செய்யின்இலனாகும் மற்றும் பெயர்த்து.",
+    "English_Meaning": "Make not thy poverty a plea for ill; Thy evil deeds will make thee poorer still."
+  },
+  "Flux_Optimized_Prompt": {
+    "Layered_Composition": {
+      "Foreground": "A person stands in a state of poverty ('இலன்'), holding an empty bowl. They are using this poverty as a justification to commit an evil act ('தீயவை'), such as stealing from another.",
+      "Midground": "The moment they commit the evil act, a cruel magical effect occurs. The few meager possessions they had (their simple clothes, their empty bowl) turn to dust and blow away.",
+      "Background": "They are left with absolutely nothing, not even what they started with, showing that the evil deed has made them even more destitute ('இலன் ஆகும்'). The background is a barren, hopeless wasteland."
+    },
+    "Art_Direction": {
+      "Subject_and_Action": "A cautionary tale that using poverty as an excuse to commit evil deeds will only result in an even deeper, more absolute state of poverty.",
+      "Symbolic_Motifs": "The magical disintegration of their remaining possessions is a direct, immediate consequence of the evil act. It's a karmic cycle of self-destruction: poverty leads to evil, which leads to greater poverty.",
+      "Mood_and_Emotion": "Tragic, self-destructive, cautionary, hopeless cycle.",
+      "Lighting_and_Color": "A cold, harsh, grey light illuminates the scene. The palette is desaturated and bleak, reflecting the state of poverty. The evil act might be associated with a brief, ugly flash of dark energy.",
+      "Technical_Cues": {
+        "Camera": "A medium shot that focuses on the person and the immediate, tragic consequences of their action.",
+        "Resolution": "8K, ultra-realistic, with particle effects for the disintegrating possessions.",
+        "Lighting": "Bleak, high-contrast lighting to create a sense of despair.",
+        "Art_Genre": "Social realism with a magical realist element."
+      },
+      "Cultural_Anchors": [
+        "Being poor/destitute (இலன்)",
+        "Doing evil deeds (தீயவை செய்யற்க)",
+        "Becoming even poorer (இலன் ஆகும்)"
+      ]
+    },
+    "Negative_Prompt": "person getting rich from crime, happy thief, text artifacts, warm lighting.",
+    "Hyperparameters": {
+      "variant": "dev",
+      "steps": 40,
+      "cfg_scale": 9,
+      "seed": "Explore the visual effect of the possessions turning to dust."
+    }
+  }
+}

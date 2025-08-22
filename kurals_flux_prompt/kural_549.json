@@ -1,0 +1,39 @@
+{
+  "Kural_Info": {
+    "Number": 549,
+    "Chapter": "செங்கோன்மை (The Right Sceptre)",
+    "Tamil_Text": "குடிபுறங் காத்தோம்பிக் குற்றம் கடிதல் வடுவன்று வேந்தன் தொழில்.",
+    "English_Meaning": "For a king to punish criminals is not a fault, but a duty, as it is to protect his subjects."
+  },
+  "Flux_Optimized_Prompt": {
+    "Layered_Composition": {
+      "Foreground": "A king is depicted in a dual role, like the Roman god Janus. One face is that of a gentle guardian, watching over his peaceful, productive subjects with a protective aura ('குடிபுறங்காத்து ஓம்பி').",
+      "Midground": "The other face is that of a stern judge, pointing decisively to remove a criminal element, represented by a shadowy figure, from the society ('குற்றம் கடிதல்').",
+      "Background": "This act of removing crime is shown not as a blemish or a fault ('வடுவன்று'), but as a necessary and professional duty ('வேந்தன் தொழில்'), like a gardener skillfully weeding a beautiful garden to allow the good plants to thrive."
+    },
+    "Art_Direction": {
+      "Subject_and_Action": "The act of punishing criminals is not a flaw in a king; it is an essential part of his duty to protect his people.",
+      "Symbolic_Motifs": "The two-faced king represents the dual duties of protection and punishment. The comparison to a gardener weeding is a powerful analogy for the professional and necessary nature of this task.",
+      "Mood_and_Emotion": "Dutiful, professional, protective, just, necessary.",
+      "Lighting_and_Color": "The guardian side is lit with warm, gentle light. The judge side is lit with a clear, stern, white light of justice. The garden in the background is lush and vibrant because of the weeding.",
+      "Technical_Cues": {
+        "Camera": "A centered portrait of the dual-faced king, clearly showing the two aspects of his duty.",
+        "Resolution": "8K, with a strong, symbolic composition.",
+        "Lighting": "Split lighting to differentiate the two roles.",
+        "Art_Genre": "Symbolic portraiture, allegorical art."
+      }
+    },
+    "Cultural_Anchors": [
+      "Protecting the People ('குடியோம்பல்')",
+      "Removing Crime ('குற்றம் கடிதல்')",
+      "Punishment as a Duty, not a Fault ('வடுவன்று, தொழில்')"
+    ]
+  },
+  "Negative_Prompt": "king only punishing, king only protecting, weeds overrunning the garden, text artifacts.",
+  "Hyperparameters": {
+    "variant": "pro",
+    "steps": 45,
+    "cfg_scale": 8,
+    "seed": "Explore variations for the gardener analogy in the background."
+  }
+}

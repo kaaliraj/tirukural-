@@ -1,0 +1,39 @@
+{
+  "Kural_Info": {
+    "Number": 1096,
+    "Chapter": "குறிப்பறிதல் (Recognition of the Signs)",
+    "Tamil_Text": "உறாஅ தவர்போல் சொலினும் செறாஅர்சொல்ஒல்லை உணரப் படும்.",
+    "English_Meaning": "Though they may speak harshly as if they were strangers, the words of the friendly are soon understood."
+  },
+  "Flux_Optimized_Prompt": {
+    "Layered_Composition": {
+      "Foreground": "A woman is speaking to her lover. Her words are outwardly harsh and distant, as if she were a stranger ('உறாஅதவர் போல் சொலினும்'). The words are visualized as sharp, icy shards.",
+      "Midground": "However, within these icy shards of speech, a warm, golden, loving core is visible. This is her true, non-hating feeling ('செறாஅர் சொல்').",
+      "Background": "The lover is shown listening. His mind is able to instantly perceive ('ஒல்லை உணரப்படும்') the warm, loving core within the harsh words. He is not fooled by her outward display and understands her true, affectionate meaning."
+    },
+    "Art_Direction": {
+      "Subject_and_Action": "Even when a loved one speaks harsh words like a stranger, one who truly knows them can quickly understand the underlying affection and lack of real anger.",
+      "Symbolic_Motifs": "The words as icy shards with a golden core is the central metaphor. This visually separates the surface meaning from the true intent. The lover's ability to 'see through' the ice to the gold represents his deep understanding of her.",
+      "Mood_and_Emotion": "Understanding, perceptive, love beneath anger, coded language.",
+      "Lighting_and_Color": "A cool, blue light emanates from the icy surface of the words. But a warmer, more powerful, golden light shines from within them, illuminating the understanding lover's face.",
+      "Technical_Cues": {
+        "Camera": "A shot that follows the path of the words from her mouth to his ear, with a symbolic cross-section that reveals their true, warm core.",
+        "Resolution": "8K, ultra-realistic, with advanced transparency and lighting effects for the words.",
+        "Lighting": "Dual lighting within the symbolic words themselves.",
+        "Art_Genre": "Magical realism, conceptual art."
+      },
+      "Cultural_Anchors": [
+        "Though she speaks like a stranger (உறாஅதவர் போல் சொலினும்)",
+        "The words of one who is not angry (செறாஅர் சொல்)",
+        "Are quickly understood (ஒல்லை உணரப்படும்)"
+      ]
+    },
+    "Negative_Prompt": "lover getting angry, words being only ice, text artifacts.",
+    "Hyperparameters": {
+      "variant": "pro",
+      "steps": 50,
+      "cfg_scale": 8,
+      "seed": "Explore the visual of 'words as ice with a golden core'."
+    }
+  }
+}

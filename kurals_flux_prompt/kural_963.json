@@ -1,0 +1,38 @@
+{
+  "Kural_Info": {
+    "Number": 963,
+    "Chapter": "மானம் (Honour)",
+    "Tamil_Text": "பெருக்கத்து வேண்டும் பணிதல் சிறியசுருக்கத்து வேண்டும் உயர்வு.",
+    "English_Meaning": "In prosperity be humble; in adversity lift up your heart."
+  },
+  "Flux_Optimized_Prompt": {
+    "Layered_Composition": {
+      "Foreground": "A split composition of the same person at two different stages.",
+      "Midground": "On the left, during a time of great prosperity ('பெருக்கத்து'), the person is shown bowing with genuine humility ('பணிதல்'). They are depicted as a great, fruit-laden tree whose branches bend low under the weight of their own abundance.",
+      "Background": "On the right, during a time of great adversity and poverty ('சுருக்கத்து'), the same person is shown standing tall and unbent, their head held high with noble spirit ('உயர்வு'). They are depicted as a lone, bare tree in winter, which, though stripped of its leaves, still stands tall and proud against the sky."
+    },
+    "Art_Direction": {
+      "Subject_and_Action": "The code of honor requires two opposite reactions to circumstances: humility in times of abundance, and a lofty, unbroken spirit in times of hardship.",
+      "Symbolic_Motifs": "The tree as a metaphor for the person is central. The rich, bowing tree shows humility in strength. The bare, upright tree shows dignity in poverty. The two postures are the essence of the teaching.",
+      "Mood_and_Emotion": "Dignified, resilient, humble, noble, balanced.",
+      "Lighting_and_Color": "The prosperity scene is bathed in the warm, golden light of a summer harvest. The adversity scene is in the stark, cold, but clear light of winter. Both scenes, however, convey a sense of nobility and rightness.",
+      "Technical_Cues": {
+        "Camera": "A balanced diptych shot that presents the two states and the two correct responses as a single, unified code of conduct.",
+        "Resolution": "8K, ultra-realistic, with beautiful, detailed depictions of the two symbolic trees.",
+        "Lighting": "Contrasting seasonal lighting—warm summer vs. cold winter—to represent the two states of fortune.",
+        "Art_Genre": "Symbolic landscape painting, allegorical art."
+      },
+      "Cultural_Anchors": [
+        "Humility in prosperity (பெருக்கத்து வேண்டும் பணிதல்)",
+        "Loftiness in adversity (சுருக்கத்து வேண்டும் உயர்வு)"
+      ]
+    },
+    "Negative_Prompt": "arrogant in wealth, stooped in poverty, text artifacts, cartoonish trees.",
+    "Hyperparameters": {
+      "variant": "pro",
+      "steps": 50,
+      "cfg_scale": 8,
+      "seed": "Explore the seasonal details of the two scenes."
+    }
+  }
+}

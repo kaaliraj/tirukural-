@@ -1,0 +1,38 @@
+{
+  "Kural_Info": {
+    "Number": 1076,
+    "Chapter": "கயமை (Baseness)",
+    "Tamil_Text": "அறைபறை அன்னர் கயவர்தாம் கேட்டமறைபிறர்க்கு உய்த்துரைக்க லான்.",
+    "English_Meaning": "The base are like a drum that is beaten, for they unburden to others the secrets they have heard."
+  },
+  "Flux_Optimized_Prompt": {
+    "Layered_Composition": {
+      "Foreground": "A base person ('கயவர்') is shown. A secret ('மறை'), visualized as a glowing, intricate jewel, is being whispered into their ear.",
+      "Midground": "The moment the secret enters their mind, their entire head and torso transform into a large talking drum ('பறை').",
+      "Background": "Their mouth, now the skin of the drum, is being beaten by invisible hands, and it loudly broadcasts the secret in all directions. The intricate jewel of a secret is transformed into loud, chaotic, and public noise ('அறைபறை'). They cannot help but proclaim what they have heard."
+    },
+    "Art_Direction": {
+      "Subject_and_Action": "A powerful simile: the base are like talking drums because they are incapable of holding a secret and will instinctively broadcast it to everyone.",
+      "Symbolic_Motifs": "The transformation from person to drum is a surreal and direct visualization of the Kural. The secret as a precious jewel that becomes mere noise shows the degradation of the information in their hands.",
+      "Mood_and_Emotion": "Indiscreet, loud, untrustworthy, mechanical.",
+      "Lighting_and_Color": "The secret jewel is glowing with a soft, confidential light. When the person becomes a drum, the light becomes harsh, loud, and public. The colors shift from intimate to chaotic.",
+      "Technical_Cues": {
+        "Camera": "A surreal shot that captures the transformation of the person into a drum and the broadcasting of the secret.",
+        "Resolution": "8K, hyper-realistic, with advanced transformation and sound visualization effects.",
+        "Lighting": "A dramatic shift from a secretive, low-key light to a loud, public, high-key light.",
+        "Art_Genre": "Surrealism, symbolic art."
+      },
+      "Cultural_Anchors": [
+        "The base are like a beaten drum (அறைபறை அன்னர் கயவர்)",
+        "For they broadcast the secrets they hear (தாம் கேட்ட மறை பிறர்க்கு உய்த்துரைக்கலான்)"
+      ]
+    },
+    "Negative_Prompt": "base person keeping a secret, quiet scene, text artifacts.",
+    "Hyperparameters": {
+      "variant": "pro",
+      "steps": 50,
+      "cfg_scale": 8,
+      "seed": "Explore the visual of a person transforming into a talking drum."
+    }
+  }
+}

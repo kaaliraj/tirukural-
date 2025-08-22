@@ -1,0 +1,38 @@
+{
+  "Kural_Info": {
+    "Number": 817,
+    "Chapter": "தீ நட்பு (Evil Friendship)",
+    "Tamil_Text": "நகைவகைய ராகிய நட்பின் பகைவரால்பத்தடுத்த கோடி உறும்.",
+    "English_Meaning": "What comes from enemies is a hundred million times more profitable than what comes from the friendship of those who cause only laughter."
+  },
+  "Flux_Optimized_Prompt": {
+    "Layered_Composition": {
+      "Foreground": "A split composition.",
+      "Midground": "On the left, a king is surrounded by jester-like friends ('நகைவகையர்') who are only capable of making him laugh. They offer no real counsel, only amusement. The king's kingdom is subtly shown to be decaying and unproductive in the background.",
+      "Background": "On the right, the same king is facing a powerful and intelligent enemy ('பகைவர்'). The challenge from this enemy is forcing the king to become stronger, more strategic, and more virtuous. His kingdom in the background is shown to be growing strong and prosperous as a result of this challenge. The 'profit' from the enemy is immense."
+    },
+    "Art_Direction": {
+      "Subject_and_Action": "The benefit gained from a worthy enemy is ten crores (100 million) times greater than the benefit from friends who are merely jesters.",
+      "Symbolic_Motifs": "The jesters' friendship leads to stagnation and decay. The enemy's opposition leads to growth and strength. The 'profit' ('உறும்') is not money, but strength, wisdom, and prosperity born of challenge.",
+      "Mood_and_Emotion": "Constructive conflict vs. destructive amusement, paradoxical, challenging.",
+      "Lighting_and_Color": "The jester scene is lit with a frivolous, colorful, but ultimately shallow light. The scene with the enemy is lit with a harsh, serious, and dramatic light that forges greatness.",
+      "Technical_Cues": {
+        "Camera": "A comparative shot that shows the king's state under the influence of his 'friends' versus his state under the challenge of his 'enemies'.",
+        "Resolution": "8K, ultra-realistic, with detailed expressions and background elements showing the consequences of each relationship.",
+        "Lighting": "Contrasting lighting to show shallow amusement versus deep, challenging growth.",
+        "Art_Genre": "Historical realism, with allegorical elements."
+      },
+      "Cultural_Anchors": [
+        "Friendship of the jester-kind (நகைவகையர் ஆகிய நட்பு)",
+        "Profit from enemies (பகைவரால் உறும்)"
+      ]
+    },
+    "Negative_Prompt": "wise jesters, weak enemy, text artifacts.",
+    "Hyperparameters": {
+      "variant": "dev",
+      "steps": 45,
+      "cfg_scale": 8,
+      "seed": "Explore the visual of the kingdom decaying vs. growing."
+    }
+  }
+}

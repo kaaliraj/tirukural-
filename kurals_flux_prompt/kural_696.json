@@ -1,0 +1,39 @@
+{
+  "Kural_Info": {
+    "Number": 696,
+    "Chapter": "மன்னரைச் சேர்ந்தொழுதல் (Conduct in the Presence of the King)",
+    "Tamil_Text": "குறிப்பறிந்து காலங் கருதி வெறுப்பில வேண்டுப வேட்பச் சொலல்.",
+    "English_Meaning": "Knowing the signs, waiting for fitting time, with courteous care, Things not displeasing, needful things, declare."
+  },
+  "Flux_Optimized_Prompt": {
+    "Layered_Composition": {
+      "Foreground": "A wise minister stands before a king. The minister is depicted with three active senses of perception.",
+      "Midground": "Their eyes are reading the king's mood and disposition ('குறிப்பறிந்து'). A celestial clock hovers near them, indicating they are waiting for the perfect moment ('காலம் கருதி'). Their words are being carefully chosen to be both necessary ('வேண்டுப') and pleasing ('வேட்ப'), avoiding anything that would cause aversion ('வெறுப்பில').",
+      "Background": "The king is shown listening with an open and receptive expression, a direct result of the minister's perfectly timed and skillfully delivered communication."
+    },
+    "Art_Direction": {
+      "Subject_and_Action": "To communicate effectively with a ruler, one must read their mood, choose the right time, and frame the necessary message in a pleasing and inoffensive way.",
+      "Symbolic_Motifs": "The three perceptual tools—the discerning eye, the clock of timing, and the well-chosen words—represent the components of masterful communication.",
+      "Mood_and_Emotion": "Perceptive, timely, diplomatic, pleasing, effective.",
+      "Lighting_and_Color": "A calm, pleasant, and intelligent light fills the scene. The minister's words can be visualized as smooth, glowing, and well-formed shapes that are easily received by the king.",
+      "Technical_Cues": {
+        "Camera": "A medium shot focusing on the skillful communication between the minister and the king.",
+        "Resolution": "8K, with a focus on the subtle, receptive expression of the king.",
+        "Lighting": "Soft, diplomatic lighting.",
+        "Art_Genre": "Historical realism, with symbolic overlays for the minister's skills."
+      }
+    },
+    "Cultural_Anchors": [
+      "Reading the signs/mood ('குறிப்பறிந்து')",
+      "Considering the time ('காலம் கருதி')",
+      "Speaking what is needed in a pleasing way ('வேண்டுப வேட்பச் சொலல்')"
+    ]
+  },
+  "Negative_Prompt": "minister misreading the mood, bad timing, angry king, text artifacts.",
+  "Hyperparameters": {
+    "variant": "dev",
+    "steps": 45,
+    "cfg_scale": 8,
+    "seed": "Explore variations for the visualization of the pleasing words."
+  }
+}

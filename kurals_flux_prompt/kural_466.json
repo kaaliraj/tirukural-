@@ -1,0 +1,39 @@
+{
+  "Kural_Info": {
+    "Number": 466,
+    "Chapter": "தெரிந்துசெயல்வகை (Acting after due Consideration)",
+    "Tamil_Text": "செய்தக்க அல்ல செயக்கெடும் செய்தக்கசெய்யாமை யானுங் கெடும்.",
+    "English_Meaning": "He will perish who does not what is not fit to do; and he also will perish who does not do what it is fit to do."
+  },
+  "Flux_Optimized_Prompt": {
+    "Layered_Composition": {
+      "Foreground": "A split composition showing two paths to ruin ('கெடும்').",
+      "Midground": "On the left, a person is actively doing something they should not be doing ('செய்தக்க அல்ல செயல்'). This is visualized as them trying to build a tower on treacherous quicksand. The tower is actively sinking and collapsing as they build.",
+      "Background": "On the right, a person is failing to do something they should be doing ('செய்தக்க செய்யாமை'). This is visualized as them sitting idly by while the strong stone foundation of their tower is being eroded by a rising tide. Their tower is collapsing due to neglect."
+    },
+    "Art_Direction": {
+      "Subject_and_Action": "A visual representation of the two equal and opposite paths to ruin: destruction by wrong action, and destruction by inaction.",
+      "Symbolic_Motifs": "The tower represents one's life or fortune. The two scenarios show that both wrong commission and critical omission lead to the same result of collapse. The key is that both figures are equally doomed.",
+      "Mood_and_Emotion": "Inevitable ruin, cautionary, balanced failure.",
+      "Lighting_and_Color": "Both scenes are lit with a grim, fateful light. The colors in both are desaturated, leading to a grey, dusty ruin. There is no escape or better option shown between the two failures.",
+      "Technical_Cues": {
+        "Camera": "A perfectly balanced diptych shot, presenting the two forms of failure as equally certain paths to destruction.",
+        "Resolution": "8K, ultra-realistic, with advanced physics for the sinking tower and erosion effects for the neglected one.",
+        "Lighting": "A consistent, bleak lighting across both panels to unify the theme of ruin.",
+        "Art_Genre": "Allegorical painting, symbolic realism."
+      },
+      "Cultural_Anchors": [
+        "Doing what should not be done (செய்தக்க அல்ல செயல்)",
+        "Not doing what should be done (செய்தக்க செய்யாமை)",
+        "Both lead to ruin (கெடும்)"
+      ]
+    },
+    "Negative_Prompt": "one tower standing, happy figures, text artifacts, bright lighting.",
+    "Hyperparameters": {
+      "variant": "pro",
+      "steps": 50,
+      "cfg_scale": 8,
+      "seed": "Explore the different styles of collapse for the two towers."
+    }
+  }
+}

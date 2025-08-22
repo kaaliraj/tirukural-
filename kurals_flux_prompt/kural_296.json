@@ -1,0 +1,38 @@
+{
+  "Kural_Info": {
+    "Number": 296,
+    "Chapter": "வாய்மை (Veracity)",
+    "Tamil_Text": "பொய்யாமை அன்ன புகழில்லை எய்யாமைஎல்லா அறமுந் தரும்.",
+    "English_Meaning": "There is no praise like the praise of never uttering a falsehood: without causing any suffering, it will lead to every virtue."
+  },
+  "Flux_Optimized_Prompt": {
+    "Layered_Composition": {
+      "Foreground": "A person stands, their entire being defined by the virtue of truthfulness ('பொய்யாமை'). From them emanates a magnificent, unparalleled aura of pure, white light, representing the greatest 'praise' or 'glory' ('புகழ்').",
+      "Midground": "This single virtue of truthfulness is shown to be a fertile source. From the person's feet, a beautiful garden representing 'all virtues' ('எல்லா அறமும்') effortlessly grows and blossoms, without any other toil or effort from the person ('எய்யாமை').",
+      "Background": "The scene is one of effortless abundance and supreme glory, all originating from the single, foundational virtue of truthfulness."
+    },
+    "Art_Direction": {
+      "Subject_and_Action": "Truthfulness is the single greatest glory, and it is a foundational virtue that effortlessly gives rise to all other virtues without causing any strain.",
+      "Symbolic_Motifs": "Truthfulness as the 'mother virtue' that gives birth to all others is the central concept. The effortless ('எய்யாமை') growth of the garden shows that other virtues are a natural consequence of truthfulness, not separate struggles.",
+      "Mood_and_Emotion": "Supreme glory, foundational, effortless virtue, abundant.",
+      "Lighting_and_Color": "A brilliant, pure, white light of praise emanates from the truthful person. The garden of virtues is filled with vibrant, harmonious colors. The entire scene is luminous and positive.",
+      "Technical_Cues": {
+        "Camera": "A wide, heroic shot that captures the person, their supreme aura of praise, and the beautiful garden of virtues that springs from them.",
+        "Resolution": "8K, ultra-realistic, with magical realism effects for the aura and the growing garden.",
+        "Lighting": "The person's truthfulness is the source of all light and color in the image.",
+        "Art_Genre": "High fantasy art, symbolic portraiture."
+      },
+      "Cultural_Anchors": [
+        "No praise like truthfulness (பொய்யாமை அன்ன புகழ் இல்லை)",
+        "It gives all virtues without strain (எய்யாமை எல்லா அறமும் தரும்)"
+      ]
+    },
+    "Negative_Prompt": "liar with a garden, struggling person, dark aura, text artifacts.",
+    "Hyperparameters": {
+      "variant": "pro",
+      "steps": 50,
+      "cfg_scale": 8,
+      "seed": "Explore the visual of the 'garden of all virtues'."
+    }
+  }
+}

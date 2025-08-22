@@ -1,0 +1,33 @@
+{
+  "Kural_Info": {
+    "Number": 986,
+    "Chapter": "சான்றாண்மை (Perfectness)",
+    "Tamil_Text": "சால்பிற்குக் கட்டளை யாதெனின் தோல்விதுலையல்லார் கண்ணும் கொளல்.",
+    "English_Meaning": "What is perfection's test? The equal mind. To bear repulse from even meaner men resigned."
+  },
+  "Flux_Optimized_Prompt": {
+    "Layered_Composition": {
+      "Foreground": "A 'Saandror' (perfected person), depicted as a noble and wise individual, is being unfairly defeated or insulted ('Tholvi') in a public contest or debate by a clearly inferior or unworthy person ('Thulaiyallar').",
+      "Midground": "Despite the unjust defeat, the perfected person maintains perfect composure and grace, accepting the outcome without anger or frustration. Their inner calm is visualized as a steady, unwavering golden light around them.",
+      "Background": "Onlookers are shown reacting with surprise and admiration not at the unworthy winner, but at the incredible grace of the noble loser. The setting is a public square or arena."
+    },
+    "Art_Direction": {
+      "Subject_and_Action": "The ultimate test ('Kattalai') of perfect goodness ('Saalbu') is the ability to accept defeat gracefully, even at the hands of one's inferiors.",
+      "Symbolic_Motifs": "The touchstone ('கட்டளைக் கல்') is subtly integrated into the scene, perhaps as the platform they stand on, where the noble's character is being tested. The unwavering golden light represents their unshakeable dignity.",
+      "Mood_and_Emotion": "Dignified, graceful in defeat, serene, demonstrating supreme self-control.",
+      "Lighting_and_Color": "A spotlight of clear, bright light focuses on the graceful reaction of the noble person, while the unworthy winner is in a less flattering, shadowed light. The palette is noble, with golds, whites, and deep, thoughtful blues."
+    },
+    "Technical_Cues": {
+      "Camera": "Medium close-up on the perfected person's face, capturing their serene and accepting expression amidst the unjust outcome.",
+      "Resolution": "8K, ultra-realistic, focusing on subtle emotional details.",
+      "Lighting": "Dramatic spotlighting to emphasize the moral focus of the scene.",
+      "Art_Genre": "Historical narrative painting, capturing a moment of profound character revelation."
+    },
+    "Cultural_Anchors": [
+      "சால்பு (Perfect Goodness)",
+      "கட்டளை (Test/Touchstone)",
+      "தோல்வி கொளல் (Accepting defeat)"
+    ]
+  },
+  "Negative_Prompt": "angry or frustrated protagonist, gloating winner being praised, modern setting, text artifacts, blurry details."
+}

@@ -1,0 +1,33 @@
+{
+  "Kural_Info": {
+    "Number": 1168,
+    "Chapter": "படர்மெலிந்திரங்கல் (Complainings)",
+    "Tamil_Text": "மன்னுயிர் எல்லாம் துயிற்றி அளித்திராஎன்னல்லது இல்லை துணை.",
+    "English_Meaning": "The night which graciously lulls to sleep all living creatures, has me alone for her companion."
+  },
+  "Flux_Optimized_Prompt": {
+    "Layered_Composition": {
+      "Foreground": "A lone, sleepless woman sits by a window, her face etched with the sorrow of love.",
+      "Midground": "The Night is personified as a vast, graceful, dark-robed goddess who is gently blanketing the entire world with sleep. All other living things—people in the village, animals in the fields—are shown peacefully sleeping under her care ('Mannuyir Ellam Thuyitri').",
+      "Background": "The goddess Night turns her gaze towards the sleepless woman with a look of pity or companionship, as she is the only one left awake to bear witness to the night ('Ennallathu Illai Thunai')."
+    },
+    "Art_Direction": {
+      "Subject_and_Action": "A lonely lover laments that while the kind Night puts all other creatures to sleep, she is left as the Night's only sleepless companion.",
+      "Symbolic_Motifs": "The personification of Night as a gentle, sleep-giving goddess. The visual contrast between the sleeping world and the single, awake figure.",
+      "Mood_and_Emotion": "Lonely, melancholic, intimate, a quiet kinship with the Night.",
+      "Lighting_and_Color": "Deep, velvety blues and blacks of the night. The goddess Night could be made of starry nebulas. The sleeping world is in peaceful shadow, while the sleepless woman is illuminated by a single, sad moonlight ray."
+    },
+    "Technical_Cues": {
+      "Camera": "A wide, cinematic shot that shows the goddess Night covering the world, with a focus on her and the single sleepless woman.",
+      "Resolution": "8K, fantasy realism, with a beautiful and ethereal design for the personified Night.",
+      "Lighting": "Magical, celestial lighting from the stars and the moon.",
+      "Art_Genre": "Mythological or fantasy art, bringing an abstract concept to life."
+    },
+    "Cultural_Anchors": [
+      "Personification of Night (இரா)",
+      "The loneliness of the sleepless lover",
+      "The world at rest"
+    ]
+  },
+  "Negative_Prompt": "a sleeping protagonist, a sunny day, a bustling city, a malevolent Night figure, text artifacts, cartoonish."
+}

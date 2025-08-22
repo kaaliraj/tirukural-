@@ -1,0 +1,39 @@
+{
+  "Kural_Info": {
+    "Number": 816,
+    "Chapter": "தீ நட்பு (Evil Friendship)",
+    "Tamil_Text": "பேதை பெருங்கெழீஇ நட்பின் அறிவுடையார் ஏதின்மை கோடி உறும்.",
+    "English_Meaning": "The hatred of the wise is ten-million times more profitable than the excessive intimacy of the fool."
+  },
+  "Flux_Optimized_Prompt": {
+    "Layered_Composition": {
+      "Foreground": "A split composition with a large balance scale. On the left scale, a person is shown in a close, intimate embrace with a foolish, clown-like figure ('பேதை நட்பின்'). This scale pan is shown plunging downwards into a dark, ruinous pit.",
+      "Midground": "On the right scale, a person is shown facing the enmity of a wise, noble sage ('அறிவுடையார் ஏதின்மை'). The sage's enmity is represented as a sharp, corrective, but ultimately enlightening bolt of lightning. This scale pan is shown rising high into the heavens, surrounded by a light of immense profit ('கோடி உறும்').",
+      "Background": "The image clearly shows that the outcome of the wise man's enmity is a billion times better than the outcome of the fool's friendship."
+    },
+    "Art_Direction": {
+      "Subject_and_Action": "The enmity of a wise person is a billion times more beneficial than the deep friendship of a fool.",
+      "Symbolic_Motifs": "The balance scale providing the moral and profitable judgment is the key. The fool's friendship leading to a pit of ruin, while the wise man's enmity leads to a heavenly ascent, is the central paradoxical visual.",
+      "Mood_and_Emotion": "Paradoxical, wise, a re-evaluation of friendship and enmity.",
+      "Lighting_and_Color": "The fool's side is dark, chaotic, and leads to a hellish red glow from the pit. The wise man's side is lit with the brilliant, sharp, and purifying light of the lightning bolt, leading to a golden, heavenly glow.",
+      "Technical_Cues": {
+        "Camera": "A wide, dramatic shot of the cosmic balance scale, clearly showing the two vastly different outcomes.",
+        "Resolution": "8K, with powerful effects for the pit and the lightning.",
+        "Lighting": "High-contrast, symbolic lighting.",
+        "Art_Genre": "Metaphysical art, surrealism."
+      },
+      "Cultural_Anchors": [
+        "Friendship of a fool ('பேதை நட்பு')",
+        "Enmity of the wise ('அறிவுடையார் ஏதின்மை')",
+        "A billion-fold profit ('கோடி உறும்')"
+      ]
+    },
+    "Negative_Prompt": "wise man's enmity leading to ruin, fool's friendship leading to heaven, text artifacts.",
+    "Hyperparameters": {
+      "variant": "pro",
+      "steps": 50,
+      "cfg_scale": 9,
+      "seed": "Explore variations for the 'pit of ruin'."
+    }
+  }
+}

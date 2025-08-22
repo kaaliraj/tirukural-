@@ -1,0 +1,39 @@
+{
+  "Kural_Info": {
+    "Number": 692,
+    "Chapter": "மன்னரைச் சேர்ந்தொழுதல் (Conduct in the Presence of the King)",
+    "Tamil_Text": "மன்னர் விழைப விழையாமை மன்னரால் மன்னிய ஆக்கந் தரும்.",
+    "English_Meaning": "For ministers not to cover the things desired by their kings will through the kings themselves yield them everlasting wealth."
+  },
+  "Flux_Optimized_Prompt": {
+    "Layered_Composition": {
+      "Foreground": "A king is shown reaching for a particularly desirable object—a unique, glowing crown or jewel ('மன்னர் விழைப').",
+      "Midground": "A wise minister stands beside the king. They also see the object, but they consciously and deliberately turn their own gaze away, showing no desire for it themselves ('விழையாமை').",
+      "Background": "Because of this demonstrated loyalty and lack of personal ambition, the king is shown turning to the minister and bestowing upon them a different, even greater treasure—a chest overflowing with permanent, stable wealth ('மன்னிய ஆக்கம்')."
+    },
+    "Art_Direction": {
+      "Subject_and_Action": "Not desiring what the king desires is a sign of loyalty that will, in turn, be rewarded by the king with lasting prosperity.",
+      "Symbolic_Motifs": "The minister's act of deliberately looking away from the object of the king's desire is the key action. The king's subsequent reward is the direct positive consequence.",
+      "Mood_and_Emotion": "Loyal, self-restrained, wise, trustworthy, rewarded.",
+      "Lighting_and_Color": "The object of the king's desire has a tempting glow. The minister has a calm, neutral expression. The final reward bestowed by the king has a warm, solid, golden light of stable wealth.",
+      "Technical_Cues": {
+        "Camera": "A narrative shot that captures the minister's act of restraint and the king's reaction and reward.",
+        "Resolution": "8K, focusing on the subtle expressions and actions.",
+        "Lighting": "Regal, courtly lighting.",
+        "Art_Genre": "Historical realism."
+      }
+    },
+    "Cultural_Anchors": [
+      "Not desiring what the king desires ('மன்னர் விழைப விழையாமை')",
+      "Receiving lasting wealth from the king ('மன்னரால் மன்னிய ஆக்கம்')",
+      "The politics of loyalty and ambition."
+    ]
+  },
+  "Negative_Prompt": "minister trying to grab the jewel, king getting angry, text artifacts, cartoonish.",
+  "Hyperparameters": {
+    "variant": "dev",
+    "steps": 40,
+    "cfg_scale": 8,
+    "seed": "Explore variations for the glowing crown."
+  }
+}

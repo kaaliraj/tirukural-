@@ -1,0 +1,39 @@
+{
+  "Kural_Info": {
+    "Number": 6,
+    "Chapter": "கடவுள் வாழ்த்து (The Praise of God)",
+    "Tamil_Text": "பொறிவாயில் ஐந்தவித்தான் பொய்தீர் ஒழுக்கநெறிநின்றார் நீடுவாழ் வார்.",
+    "English_Meaning": "They who walk in the faultless way of Him who has destroyed the five desires of the senses, shall live long."
+  },
+  "Flux_Optimized_Prompt": {
+    "Layered_Composition": {
+      "Foreground": "In the foreground, a multi-generational Tamil family—from elders to children—walks with serene and healthy expressions along a path of light.",
+      "Midground": "The path they walk on is straight, radiant, and clearly defined. On either side of the path, the wilderness contains alluring but ghostly illusions representing the five senses—a shimmering mirage (sight), floating musical notes that lead to thorny bushes (sound), a beautifully colored but rotting fruit (smell/taste), and invitingly soft moss that hides sharp rocks (touch).",
+      "Background": "In the deep background, the path originates from a colossal, abstract figure of a meditating sage, carved into a mountain. The figure has five waterfalls flowing from its senses (eyes, ears, etc.), which turn to mist before they can form a river, symbolizing the mastery over senses."
+    },
+    "Art_Direction": {
+      "Subject_and_Action": "A family thrives through generations by adhering to a disciplined, righteous path, ignoring the deceptive temptations of the five senses.",
+      "Symbolic_Motifs": "The illusions of the senses flicker and dissolve as the family passes, unable to touch the path's light. The family's traditional white clothing is spotless, symbolizing their purity of conduct ('பொய்தீர் ஒழுக்கம்').",
+      "Mood_and_Emotion": "Steadfast serenity, enduring prosperity, disciplined peace.",
+      "Lighting_and_Color": "The path and the family are illuminated by a clear, pure white-gold light. The surrounding temptations are cast in a chaotic mix of oversaturated and murky, deceptive colors that quickly fade to grey."
+    },
+    "Technical_Cues": {
+      "Camera": "Dolly shot perspective from a low angle, tracking alongside the family, shot on 35mm lens.",
+      "Resolution": "8K, ultra-realistic, with sharp focus on the family and soft, painterly focus on the illusions.",
+      "Lighting": "Strong, directional god rays from the background source illuminating the path, creating high contrast with the dark wilderness.",
+      "Art_Genre": "Symbolic realism meets epic fantasy matte painting."
+    },
+    "Cultural_Anchors": [
+      "Mastery of the five senses (ஐந்தவித்தான்)",
+      "The righteous path (ஒழுக்க நெறி)",
+      "Concept of enduring well-being (நீடுவாழ் வார்)"
+    ]
+  },
+  "Negative_Prompt": "distracted family, broken path, family touching the illusions, deformed limbs, non-Tamil physiognomy, modern clothing, text artifacts.",
+  "Hyperparameters": {
+    "variant": "pro",
+    "steps": 50,
+    "cfg_scale": 8,
+    "seed": "Explore variations for the symbolic sensory illusions."
+  }
+}

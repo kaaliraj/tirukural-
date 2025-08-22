@@ -1,0 +1,39 @@
+{
+  "Kural_Info": {
+    "Number": 419,
+    "Chapter": "கேள்வி (Hearing)",
+    "Tamil_Text": "நுணங்கிய கேள்விய ரல்லார் வணங்கிய வாயின ராதல் அரிது.",
+    "English_Meaning": "It is a rare thing to find modesty, a reverend mouth- with those who have not received choice instruction."
+  },
+  "Flux_Optimized_Prompt": {
+    "Layered_Composition": {
+      "Foreground": "A person who lacks refined learning ('நுணங்கிய கேள்வியர் அல்லார்') is depicted speaking with an arrogant, boastful expression. Their words are visualized as harsh, thorny, and jagged speech bubbles.",
+      "Midground": "In contrast, another person who possesses refined learning is shown with a humble posture and speaking with gentle, pleasant words, visualized as soft, glowing, rounded speech bubbles.",
+      "Background": "A neutral, simple background to focus the viewer's attention on the contrast between the two speakers."
+    },
+    "Art_Direction": {
+      "Subject_and_Action": "The idea that those who lack subtle and profound learning are rarely able to speak with humility and grace.",
+      "Symbolic_Motifs": "The contrast between the speakers' postures (arrogant vs. humble) and the nature of their visualized speech (thorny vs. glowing) is the key. ' வணங்கிய வாயினர்' (humble speech) is shown as a result of learning.",
+      "Mood_and_Emotion": "Contrasting, arrogant vs. humble, harsh vs. gentle.",
+      "Lighting_and_Color": "The arrogant speaker is lit with a harsh, unflattering light. The humble speaker is bathed in a soft, gentle light. The thorny speech bubbles are dark and sharp; the glowing ones are warm and soft.",
+      "Technical_Cues": {
+        "Camera": "A split-panel or side-by-side composition to emphasize the contrast.",
+        "Resolution": "8K, focusing on the expressive faces and the stylized speech bubbles.",
+        "Lighting": "Contrasting lighting styles for each figure.",
+        "Art_Genre": "Symbolic illustration, character study."
+      }
+    },
+    "Cultural_Anchors": [
+      "Refined Learning ('நுணங்கிய கேள்வி')",
+      "Humble Speech ('வணங்கிய வாயினர்')",
+      "The link between knowledge and humility."
+    ]
+  },
+  "Negative_Prompt": "humble arrogant speaker, arrogant humble speaker, text inside speech bubbles, blurry.",
+  "Hyperparameters": {
+    "variant": "dev",
+    "steps": 40,
+    "cfg_scale": 8,
+    "seed": "Explore variations for the thorny speech bubble design."
+  }
+}

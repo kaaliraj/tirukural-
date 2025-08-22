@@ -1,0 +1,39 @@
+{
+  "Kural_Info": {
+    "Number": 102,
+    "Chapter": "செய்ந்நன்றி அறிதல் (Gratitude)",
+    "Tamil_Text": "காலத்தி னாற்செய்த நன்றி சிறிதெனினும்ஞாலத்தின் மாணப் பெரிது.",
+    "English_Meaning": "A favour conferred in the time of need, though it be small (in itself), is (in value) much larger than the world."
+  },
+  "Flux_Optimized_Prompt": {
+    "Layered_Composition": {
+      "Foreground": "A person is in a moment of desperate need—perhaps dying of thirst in a desert. Another person offers them a single, tiny drop of water ('சிறிதெனினும்').",
+      "Midground": "The moment the drop is given, it is shown in a metaphysical sense to be larger and heavier than the entire world ('ஞாலத்தின் மாணப் பெரிது').",
+      "Background": "A cosmic backdrop where the planet Earth is shown, looking small and insignificant compared to the immense, glowing representation of that single drop of timely help."
+    },
+    "Art_Direction": {
+      "Subject_and_Action": "A small act of help, when done at the perfect time of need, transcends its physical size and becomes greater in value than the entire world.",
+      "Symbolic_Motifs": "The scale is the key: the physical drop is tiny, but its symbolic representation is colossal. The background comparison with the small Earth drives the point home visually.",
+      "Mood_and_Emotion": "Profound, timely, invaluable, life-saving.",
+      "Lighting_and_Color": "The single drop of water glows with an intense, life-giving light that illuminates the entire scene. The rest of the desert is harsh and dark, while the planet Earth in the background is a beautiful but distant and small object.",
+      "Technical_Cues": {
+        "Camera": "A dramatic shot that uses forced perspective or symbolic representation to show the tiny drop as larger than the distant planet.",
+        "Resolution": "8K, ultra-realistic, with a sharp focus on the glowing drop of water.",
+        "Lighting": "The drop is the primary, radiant light source.",
+        "Art_Genre": "Surrealist painting, symbolic art."
+      },
+      "Cultural_Anchors": [
+        "Timely help (காலத்தின் செய்த நன்றி)",
+        "Though small (சிறிதெனினும்)",
+        "Greater than the world (ஞாலத்தின் மாணப் பெரிது)"
+      ]
+    },
+    "Negative_Prompt": "large gift, person not in need, drop looking small, text artifacts.",
+    "Hyperparameters": {
+      "variant": "pro",
+      "steps": 50,
+      "cfg_scale": 8,
+      "seed": "Explore the visual effect of the glowing, colossal water drop."
+    }
+  }
+}

@@ -1,0 +1,39 @@
+{
+  "Kural_Info": {
+    "Number": 509,
+    "Chapter": "தெரிந்துதெளிதல் (Selection and Confidence)",
+    "Tamil_Text": "தேறற்க யாரையும் தேராது தேர்ந்தபின் தேறுக தேறும் பொருள்.",
+    "English_Meaning": "Trust no man whom you have not fully tried; When tested, in his prudence proved confide."
+  },
+  "Flux_Optimized_Prompt": {
+    "Layered_Composition": {
+      "Foreground": "A split composition. On the left, a king is cautiously observing a potential minister through a spyglass, who is performing a difficult task. This represents the 'testing' phase ('தேராது').",
+      "Midground": "On the right, the same king, now assured, is confidently handing over the royal seal to the same minister, who has passed the test. This represents the 'trusting' phase ('தேர்ந்தபின் தேறுக').",
+      "Background": "A well-run kingdom, which is the result of this two-step process of careful testing followed by confident delegation."
+    },
+    "Art_Direction": {
+      "Subject_and_Action": "The two-part rule of trust: do not trust without thorough investigation, but after investigation proves them worthy, trust them completely in matters they are proven in.",
+      "Symbolic_Motifs": "The spyglass symbolizes the investigation phase. The handing over of the royal seal symbolizes complete trust and delegation of authority.",
+      "Mood_and_Emotion": "Shifting from cautious scrutiny to confident trust. Wise, methodical, secure.",
+      "Lighting_and_Color": "The left 'testing' side has a neutral, analytical light. The right 'trusting' side is bathed in a warm, confident, golden light."
+    },
+    "Technical_Cues": {
+      "Camera": "A balanced, diptych-style shot that clearly separates and contrasts the two stages of the process.",
+      "Resolution": "8K, with fine details on the expressions of caution and confidence.",
+      "Lighting": "Split lighting to match the mood of each panel.",
+      "Art_Genre": "Historical realism, narrative illustration."
+    },
+    "Cultural_Anchors": [
+      "Trust none untested ('தேறற்க தேராது')",
+      "Trust the tested ('தேர்ந்தபின் தேறுக')",
+      "The process of building confidence."
+    ]
+  },
+  "Negative_Prompt": "king trusting blindly, king doubting after testing, text artifacts, cartoonish figures, blurry.",
+  "Hyperparameters": {
+    "variant": "pro",
+    "steps": 45,
+    "cfg_scale": 8,
+    "seed": "Explore variations for the royal seal design."
+  }
+}

@@ -1,0 +1,33 @@
+{
+  "Kural_Info": {
+    "Number": 1215,
+    "Chapter": "கனவுநிலையுரைத்தல் (The Visions of the Night)",
+    "Tamil_Text": "நனவினால் கண்டதூஉம் ஆங்கே கனவுந்தான்கண்ட பொழுதே இனிது.",
+    "English_Meaning": "As what I then beheld in waking hour was sweet, So pleasant dreams in hour of sleep my spirit greet."
+  },
+  "Flux_Optimized_Prompt": {
+    "Layered_Composition": {
+      "Foreground": "A split-screen composition. On the left, a woman is shown in her waking hours ('Nanavinaal'), looking at her lover with a joyful expression. The scene is sweet and real.",
+      "Midground": "On the right, the same woman is asleep, but smiling. In her dream ('Kanavum'), she is seeing her lover, and the experience is just as sweet and joyful ('Kanda Pozhuthe Inithu').",
+      "Background": "The visual texture and emotional tone of both scenes are deliberately made to be identical, emphasizing that the joy she derives from seeing him is the same, regardless of whether it is in reality or in a dream."
+    },
+    "Art_Direction": {
+      "Subject_and_Action": "A declaration that the pleasure of seeing one's beloved is equally sweet and powerful, whether it happens in reality or in a dream.",
+      "Symbolic_Motifs": "The parallel composition and identical emotional expressions are key to conveying the equality of the two experiences.",
+      "Mood_and_Emotion": "Joyful, sweet, consistent, a sense of love transcending states of consciousness.",
+      "Lighting_and_Color": "Both scenes are bathed in the same warm, romantic, and pleasant light. The color palette is identical on both sides, reinforcing the theme of equivalence."
+    },
+    "Technical_Cues": {
+      "Camera": "A balanced, side-by-side shot that invites direct comparison.",
+      "Resolution": "8K, photorealistic, with a focus on capturing the identical joyful expressions.",
+      "Lighting": "Consistent, warm lighting across both panels.",
+      "Art_Genre": "Romantic realism, using a comparative structure to make a point."
+    },
+    "Cultural_Anchors": [
+      "நனவு (Waking state)",
+      "கனவு (Dream state)",
+      "The equal sweetness of real and dreamed love"
+    ]
+  },
+  "Negative_Prompt": "one scene being happier than the other, different lovers, a sad expression, text artifacts, cartoonish."
+}

@@ -1,0 +1,39 @@
+{
+  "Kural_Info": {
+    "Number": 26,
+    "Chapter": "நீத்தார் பெருமை (The Greatness of Ascetics)",
+    "Tamil_Text": "செயற்கரிய செய்வார் பெரியர் சிறியர்செயற்கரிய செய்கலா தார்.",
+    "English_Meaning": "The great will do those things which is difficult to be done; but the mean cannot do them."
+  },
+  "Flux_Optimized_Prompt": {
+    "Layered_Composition": {
+      "Foreground": "A 'great' person ('பெரியர்'), depicted as a powerful sage, stands calmly before a raging, impassable river of fire. With a simple, focused gesture, they create a bridge of pure, solid light across it.",
+      "Midground": "On the near bank, several 'small' people ('சிறியர்') are shown cowering in fear or attempting futilely to cross, their faces etched with despair and inability.",
+      "Background": "Beyond the river of fire lies a serene, beautiful landscape, representing a higher state of being, now made accessible only by the great one's act."
+    },
+    "Art_Direction": {
+      "Subject_and_Action": "A stark visual contrast between the 'great' who can perform impossible deeds ('செயற்கரிய செய்வார்') with ease, and the 'small' who are defined by their inability to do so.",
+      "Symbolic_Motifs": "The river of fire represents a seemingly impossible obstacle in life or spirituality. The bridge of light is a metaphor for the great one's power and wisdom, making the impossible possible.",
+      "Mood_and_Emotion": "Awe-inspiring, contrasting power and weakness, miraculous, determined.",
+      "Lighting_and_Color": "The scene is dramatically lit by the violent, flickering orange and red light of the fiery river. The bridge of light is a serene, solid white-gold, creating a path of peace through the chaos. The far shore is bathed in a calm, welcoming light."
+    },
+    "Technical_Cues": {
+      "Camera": "Wide cinematic shot, positioned to capture the causeway, the great person, the small people, and the destination in a single, powerful narrative frame.",
+      "Resolution": "8K, ultra-realistic, with dynamic fire effects and ethereal light effects.",
+      "Lighting": "High-contrast chiaroscuro, with the fire as the primary, chaotic light source and the light bridge as a secondary, orderly source.",
+      "Art_Genre": "Epic fantasy art, symbolic digital painting."
+    },
+    "Cultural_Anchors": [
+      "Periyar vs. Siriyar (பெரியர், சிறியர்)",
+      "Seyarkariya (செயற்கரிய) - The impossible deed",
+      "The power of will and wisdom to overcome any obstacle"
+    ]
+  },
+  "Negative_Prompt": "all people crossing, no bridge, weak 'great' person, calm river, text artifacts, cartoonish flames, deformed figures.",
+  "Hyperparameters": {
+    "variant": "pro",
+    "steps": 50,
+    "cfg_scale": 8,
+    "seed": "Explore variations for the design of the light bridge."
+  }
+}

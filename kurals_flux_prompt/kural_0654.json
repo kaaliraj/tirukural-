@@ -1,0 +1,39 @@
+{
+  "Kural_Info": {
+    "Number": 654,
+    "Chapter": "வினைத்தூய்மை (Purity in Action)",
+    "Tamil_Text": "இடுக்கண் படினும் இளிவந்த செய்யார் நடுக்கற்ற காட்சி யவர்.",
+    "English_Meaning": "Those whose judgement is firm will not do acts which have brought disgrace (on former ministers)."
+  },
+  "Flux_Optimized_Prompt": {
+    "Layered_Composition": {
+      "Foreground": "A person with unwavering vision ('நடுக்கற்ற காட்சியவர்') is being crushed under a massive, heavy boulder, symbolizing extreme hardship ('இடுக்கண் படினும்').",
+      "Midground": "An easy escape route appears: a dark, slimy, disgusting tunnel leading out from under the boulder. This represents a disgraceful or dishonorable action ('இளிவந்த').",
+      "Background": "The person, despite their suffering, refuses to take the disgraceful path. Their unwavering vision allows them to see a tiny, difficult, but pure seam of light running through the boulder itself. They are shown choosing to painstakingly chip away at this hard but honorable path, refusing to stoop to disgrace even under extreme pressure."
+    },
+    "Art_Direction": {
+      "Subject_and_Action": "People with unwavering vision will not commit a disgraceful act, even when they are suffering under the greatest possible hardship.",
+      "Symbolic_Motifs": "The crushing boulder is the hardship. The choice between the easy, slimy tunnel of disgrace and the difficult, narrow seam of light (honor) is the central conflict. The person's clear, steady eyes represent their unwavering vision.",
+      "Mood_and_Emotion": "Principled, honorable, resilient, unwavering.",
+      "Lighting_and_Color": "The scene is dark and claustrophobic under the boulder. The slimy tunnel has a sickly, unpleasant glow. The seam of light is pure, white, and difficult to reach, but it represents hope and honor.",
+      "Technical_Cues": {
+        "Camera": "A tight, claustrophobic shot that emphasizes the immense pressure the person is under.",
+        "Resolution": "8K, with gritty, realistic rock textures and contrasting light effects.",
+        "Lighting": "High-contrast, dramatic lighting that highlights the two paths.",
+        "Art_Genre": "Dramatic realism, with symbolic elements."
+      }
+    },
+    "Cultural_Anchors": [
+      "Those of Unwavering Vision ('நடுக்கற்ற காட்சியவர்')",
+      "Even in Hardship ('இடுக்கண் படினும்')",
+      "Will not do Disgraceful Things ('இளிவந்த செய்யார்')"
+    ]
+  },
+  "Negative_Prompt": "person taking the slimy tunnel, text artifacts, blurry, cartoonish.",
+  "Hyperparameters": {
+    "variant": "pro",
+    "steps": 50,
+    "cfg_scale": 9,
+    "seed": "Explore variations for the seam of light."
+  }
+}

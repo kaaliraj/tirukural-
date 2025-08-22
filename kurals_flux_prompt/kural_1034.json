@@ -1,0 +1,38 @@
+{
+  "Kural_Info": {
+    "Number": 1034,
+    "Chapter": "உழவு (Farming)",
+    "Tamil_Text": "பலகுடை நீழலும் தங்குடைக்கீழ்க் காண்பர்அலகுடை நீழ லவர்.",
+    "English_Meaning": "The Patriotic farmers desire to bring all other states under the control of their own king."
+  },
+  "Flux_Optimized_Prompt": {
+    "Layered_Composition": {
+      "Foreground": "A prosperous farmer stands in his lush, green field, which is shaded by sheaves of grain ('அலகுடை நீழலவர்').",
+      "Midground": "His patriotic desire is visualized. He looks out at the world, and in a grand vision, he sees the umbrellas of many other kings ('பல குடை நீழலும்') from many other lands.",
+      "Background": "In his vision, all these other royal umbrellas are shown bowing and coming under the shadow of the single, great umbrella of his own king ('தம் குடைக்கீழ்'). His prosperity from farming fuels his desire to see his own kingdom triumph over all others."
+    },
+    "Art_Direction": {
+      "Subject_and_Action": "The farmer whose fields are shaded by abundant grain will desire to see the umbrellas of all other kings shaded by the single umbrella of his own king.",
+      "Symbolic_Motifs": "The royal umbrella is a symbol of sovereignty. The vision of many umbrellas submitting to one is a clear depiction of imperial ambition. The farmer's own prosperity is shown to be the source of this patriotic and expansionist desire.",
+      "Mood_and_Emotion": "Patriotic, prosperous, ambitious, dominant.",
+      "Lighting_and_Color": "A bright, prosperous, sunlit scene. The farmer's fields are a vibrant, rich green. The vision of the submitting umbrellas is a grand, epic, and triumphant image.",
+      "Technical_Cues": {
+        "Camera": "A shot from behind the farmer, sharing his proud, ambitious gaze as he looks out from his prosperous land and sees the vision of his kingdom's triumph.",
+        "Resolution": "8K, ultra-realistic, with a focus on the lushness of the fields and the epic scale of the vision.",
+        "Lighting": "Bright, triumphant, nationalistic lighting.",
+        "Art_Genre": "Epic historical painting, with symbolic elements."
+      },
+      "Cultural_Anchors": [
+        "He who has the shade of sheaves of corn (அலகுடை நீழலவர்)",
+        "Will see the shade of many umbrellas under his own umbrella (பல குடை நீழலும் தம் குடைக்கீழ்க் காண்பர்)"
+      ]
+    },
+    "Negative_Prompt": "poor farmer, weak kingdom, text artifacts.",
+    "Hyperparameters": {
+      "variant": "dev",
+      "steps": 45,
+      "cfg_scale": 8,
+      "seed": "Explore the visual of 'many umbrellas submitting to one'."
+    }
+  }
+}

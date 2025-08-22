@@ -1,0 +1,39 @@
+{
+  "Kural_Info": {
+    "Number": 853,
+    "Chapter": "இகல் (Hostility)",
+    "Tamil_Text": "இகலென்னும் எவ்வநோய் நீக்கின் தவலில்லாத் தாவில் விளக்கம் தரும்.",
+    "English_Meaning": "If enmity, that grievous plague, you shun, Endless undying praises shall be won."
+  },
+  "Flux_Optimized_Prompt": {
+    "Layered_Composition": {
+      "Foreground": "A person is shown physically removing and casting away a dark, sickly cloak that represents the 'grievous disease' of hostility ('இகல் என்னும் எவ்வநோய்').",
+      "Midground": "The moment the cloak is removed, a brilliant, eternal, and unfailing light of glory and fame ('தவலில்லாத் தாவில் விளக்கம்') bursts forth from the person, illuminating everything around them.",
+      "Background": "This light is shown to be indestructible and permanent, representing the lasting praise one earns by ridding oneself of hostility."
+    },
+    "Art_Direction": {
+      "Subject_and_Action": "Removing the grievous disease of hostility will bestow upon a person an unfailing and indestructible light of glory.",
+      "Symbolic_Motifs": "The dark, sickly cloak is hostility. The act of removing it is the virtuous choice. The resulting burst of eternal, unfailing light is the reward of lasting fame.",
+      "Mood_and_Emotion": "Liberating, glorious, purifying, eternal.",
+      "Lighting_and_Color": "The scene transforms from dark and sickly to brilliantly illuminated. The light of glory is a powerful, pure, white-gold that is clearly permanent.",
+      "Technical_Cues": {
+        "Camera": "A dynamic shot that captures the moment the cloak is cast off and the light of glory erupts.",
+        "Resolution": "8K, cinematic, with powerful volumetric lighting and particle effects.",
+        "Lighting": "The primary light source is the person's own newfound glory.",
+        "Art_Genre": "High-fantasy art, with a strong spiritual theme."
+      }
+    },
+    "Cultural_Anchors": [
+      "Removing the disease of hostility ('இகல் என்னும் எவ்வநோய் நீக்கின்')",
+      "Receiving unfailing, indestructible light/glory ('தவலில்லாத் தாவில் விளக்கம்')",
+      "The reward for peacefulness."
+    ]
+  },
+  "Negative_Prompt": "person wearing the cloak, a dim light, text artifacts, cartoonish.",
+  "Hyperparameters": {
+    "variant": "pro",
+    "steps": 50,
+    "cfg_scale": 8,
+    "seed": "Explore variations for the eternal light effect."
+  }
+}

@@ -1,0 +1,38 @@
+{
+  "Kural_Info": {
+    "Number": 249,
+    "Chapter": "அருளுடைமை (Compassion)",
+    "Tamil_Text": "தெருளாதான் மெய்ப்பொருள் கண்டற்றால் தேரின்அருளாதான் செய்யும் அறம்.",
+    "English_Meaning": "If you consider, the virtue of him who is without kindness is like the perception of the true being by him who is without wisdom."
+  },
+  "Flux_Optimized_Prompt": {
+    "Layered_Composition": {
+      "Foreground": "On the right, a person without wisdom ('தெருளாதான்') is shown looking at a profound spiritual truth ('மெய்ப்பொருள்'), perhaps a glowing sacred symbol. But their eyes are clouded, and they perceive it as a meaningless, ordinary object.",
+      "Midground": "On the left, in a parallel scene, a wealthy but compassionless person ('அருளாதான்') is shown performing an act of charity ('அறம்'), like giving a coin to a beggar.",
+      "Background": "The act of charity, because it lacks the essential ingredient of compassion, is shown to be hollow and meaningless. The coin turns to dust in the air, and the act generates no light of virtue. The two scenes are presented as being of the same nature: a futile exercise without the necessary core component."
+    },
+    "Art_Direction": {
+      "Subject_and_Action": "A powerful simile: a virtuous act done by a person without compassion is as meaningless and impossible as a foolish person trying to perceive ultimate truth.",
+      "Symbolic_Motifs": "The clouded eyes of the unwise person are a direct metaphor for their lack of perception. The charity coin turning to dust is a direct metaphor for the worthlessness of the compassionless act. The two actions are visually linked to show they are equally futile.",
+      "Mood_and_Emotion": "Futile, meaningless, impossible, hollow.",
+      "Lighting_and_Color": "Both scenes are lit in a flat, neutral light, suggesting a lack of any real spiritual outcome. The glowing symbol of truth fails to illuminate the unwise man, and the act of charity fails to generate any light.",
+      "Technical_Cues": {
+        "Camera": "A balanced, comparative shot that places the two futile acts side-by-side for intellectual comparison.",
+        "Resolution": "8K, ultra-realistic, with visual effects for the clouded perception and the disintegrating coin.",
+        "Lighting": "Unflattering, flat light to emphasize the lack of any positive result.",
+        "Art_Genre": "Philosophical allegorical painting."
+      },
+      "Cultural_Anchors": [
+        "The compassionless doing virtue (அருளாதான் செய்யும் அறம்)",
+        "The unwise seeing the truth (தெருளாதான் மெய்ப்பொருள் கண்டற்று)"
+      ]
+    },
+    "Negative_Prompt": "wise fool, compassionate mean person, successful charity, text artifacts.",
+    "Hyperparameters": {
+      "variant": "dev",
+      "steps": 45,
+      "cfg_scale": 8,
+      "seed": "Explore the visual of 'clouded perception'."
+    }
+  }
+}

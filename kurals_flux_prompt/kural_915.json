@@ -1,0 +1,39 @@
+{
+  "Kural_Info": {
+    "Number": 915,
+    "Chapter": "வரைவின்மகளிர் (Wanton Women)",
+    "Tamil_Text": "பொதுநலத்தார் புன்னலம் தோயார் மதிநலத்தின் மாண்ட அறிவி னவர்.",
+    "English_Meaning": "Those whose knowledge is made excellent by their (natural) sense will not covet the trffling delights of those whose favours are common (to all)."
+  },
+  "Flux_Optimized_Prompt": {
+    "Layered_Composition": {
+      "Foreground": "A person of great, majestic wisdom ('மாண்ட அறிவினவர்') is shown. Their wisdom, born of intellect ('மதிநலம்'), is visualized as a powerful, perfectly clear crystal lens through which they see the world.",
+      "Midground": "Through this lens, they see the 'favors of the common woman' or prostitute ('பொதுநலத்தார் புன்னலம்'). These favors, which might appear attractive to the naked eye, are revealed through the crystal lens for what they are: cheap, tawdry, and ultimately worthless trinkets.",
+      "Background": "Possessing this clarity of vision, the wise person is shown turning away in disinterest, refusing to touch or desire these base pleasures ('தோயார்')."
+    },
+    "Art_Direction": {
+      "Subject_and_Action": "Those whose wisdom is perfected by their intellect will not touch the base favors of the prostitute, as they can see their true, worthless nature.",
+      "Symbolic_Motifs": "The crystal lens of wisdom is the key metaphor. It reveals the true, tawdry nature of the 'common favors', stripping them of their allure.",
+      "Mood_and_Emotion": "Discerning, wise, clear-sighted, above temptation.",
+      "Lighting_and_Color": "A clear, analytical light. The crystal lens is perfectly transparent. The 'common favors' are shown as gaudy and cheap when viewed through it.",
+      "Technical_Cues": {
+        "Camera": "A shot from the wise person's point of view, looking through the crystal lens at the revealed worthlessness of the temptation.",
+        "Resolution": "8K, with a strong focus on the 'before' and 'after' view through the lens.",
+        "Lighting": "Clear, revealing light.",
+        "Art_Genre": "Conceptual realism."
+      },
+      "Cultural_Anchors": [
+        "The wise, perfected by intellect ('மதிநலத்தின் மாண்ட அறிவினர்')",
+        "Will not touch the favors of the common woman ('பொதுநலத்தார் புன்னலம் தோயார்')",
+        "The power of wisdom to see through false allure."
+      ]
+    },
+    "Negative_Prompt": "wise person being tempted, a blurry lens, text artifacts.",
+    "Hyperparameters": {
+      "variant": "dev",
+      "steps": 45,
+      "cfg_scale": 9,
+      "seed": "Explore variations for the 'worthless trinkets'."
+    }
+  }
+}

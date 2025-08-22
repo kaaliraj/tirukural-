@@ -1,0 +1,39 @@
+{
+  "Kural_Info": {
+    "Number": 114,
+    "Chapter": "நடுவு நிலைமை (Impartiality)",
+    "Tamil_Text": "தக்கார் தகவிலர் என்பது அவரவர்எச்சத்தாற் காணப்ப படும்.",
+    "English_Meaning": "The worthy and unworthy may be known by the existence or otherwise of good offspring."
+  },
+  "Flux_Optimized_Prompt": {
+    "Layered_Composition": {
+      "Foreground": "A split composition focusing on the legacy ('எச்சம்') of two ancestors who are now gone.",
+      "Midground": "On the left, the descendants of the 'worthy' man ('தக்கார்') are shown. They are prosperous, learned, virtuous, and happy, living in a flourishing environment.",
+      "Background": "On the right, the descendants of the 'unworthy' man ('தகவிலர்') are shown. They are impoverished, ignorant, fighting amongst themselves, and living in a desolate, decaying environment."
+    },
+    "Art_Direction": {
+      "Subject_and_Action": "A person's true worthiness or unworthiness is not judged by their life alone, but is made clearly visible in the nature and fortune of their descendants.",
+      "Symbolic_Motifs": "The two family trees are visually contrasted. The worthy man's tree is strong, green, and fruit-bearing. The unworthy man's tree is withered, struck by lightning, and barren. The quality of the 'echcham' (that which is left behind) is the ultimate verdict.",
+      "Mood_and_Emotion": "Judgmental, legacy, karmic consequence, revealing.",
+      "Lighting_and_Color": "The left side (worthy descendants) is bathed in a warm, prosperous, golden light. The right side (unworthy descendants) is cast in a cold, harsh, grey light of poverty and despair.",
+      "Technical_Cues": {
+        "Camera": "A wide, comparative diptych shot, starkly presenting the two contrasting legacies.",
+        "Resolution": "8K, hyper-realistic, capturing the details of prosperity and decay.",
+        "Lighting": "Strong dualistic lighting to emphasize the difference in fortunes.",
+        "Art_Genre": "Narrative painting, historical social commentary."
+      },
+      "Cultural_Anchors": [
+        "The worthy (தக்கார்) vs. The unworthy (தகவிலர்)",
+        "Legacy/Descendants (எச்சம்)",
+        "Judgment by legacy (எச்சத்தாற் காணப்படும்)"
+      ]
+    },
+    "Negative_Prompt": "happy unworthy descendants, sad worthy descendants, text artifacts, modern families, ambiguous outcomes.",
+    "Hyperparameters": {
+      "variant": "dev",
+      "steps": 45,
+      "cfg_scale": 8,
+      "seed": "Explore the visual details that distinguish the two groups of descendants."
+    }
+  }
+}

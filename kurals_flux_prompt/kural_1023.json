@@ -1,0 +1,38 @@
+{
+  "Kural_Info": {
+    "Number": 1023,
+    "Chapter": "குடிசெயல்வகை (The Way of Maintaining the Family)",
+    "Tamil_Text": "குடிசெய்வல் என்னும் ஒருவற்குத் தெய்வம்மடிதற்றுத் தான்முந் துறும்.",
+    "English_Meaning": "The Deity will clothe itself and appear before him who resolves on raising his family."
+  },
+  "Flux_Optimized_Prompt": {
+    "Layered_Composition": {
+      "Foreground": "A person stands with a powerful, determined look, making a firm resolve: 'I will elevate my family!' ('குடி செய்வல் என்னும்').",
+      "Midground": "The moment this resolve is made, a divine being ('தெய்வம்'), representing Providence or divine aid, is shown in the heavens.",
+      "Background": "This divine being is shown hastily tucking up its robes as if preparing for strenuous work ('மடி தற்று'), and then rushing forward to help the determined person ('தான் முந்துறும்'), arriving even before the person has begun their own labor. The divine aid is an immediate response to the sincere resolve."
+    },
+    "Art_Direction": {
+      "Subject_and_Action": "For the person who makes a sincere and powerful resolve to uplift their family, God himself will roll up his sleeves and rush to help.",
+      "Symbolic_Motifs": "The image of the deity tucking up its robes to get to work is a powerful, anthropomorphic metaphor for divine intervention being practical and immediate. The speed of the divine help is key—it precedes the human's own action.",
+      "Mood_and_Emotion": "Divine intervention, blessed, supported, powerful resolve.",
+      "Lighting_and_Color": "The person's resolve creates a bright, determined aura. The descending deity is a being of brilliant, golden light, moving with great speed and purpose. The scene is filled with a sense of miraculous, impending aid.",
+      "Technical_Cues": {
+        "Camera": "A dynamic shot that shows the person making their resolve, and in the same frame, the deity in the heavens instantly responding and rushing to their side.",
+        "Resolution": "8K, ultra-realistic, with a majestic and dynamic depiction of the deity.",
+        "Lighting": "The light from the descending deity should illuminate the protagonist, showing the arrival of grace.",
+        "Art_Genre": "Epic mythological painting, high fantasy art."
+      },
+      "Cultural_Anchors": [
+        "For the one who says 'I will elevate my family' (குடி செய்வல் என்னும் ஒருவற்கு)",
+        "God will tuck up his robes and rush to help (தெய்வம் மடி தற்றுத் தான் முந்துறும்)"
+      ]
+    },
+    "Negative_Prompt": "hesitant person, absent deity, text artifacts.",
+    "Hyperparameters": {
+      "variant": "pro",
+      "steps": 55,
+      "cfg_scale": 9,
+      "seed": "Explore the dynamic pose of the 'rushing deity'."
+    }
+  }
+}

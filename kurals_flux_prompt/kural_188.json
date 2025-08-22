@@ -1,0 +1,38 @@
+{
+  "Kural_Info": {
+    "Number": 188,
+    "Chapter": "புறங்கூறாமை (Not Backbiting)",
+    "Tamil_Text": "துன்னியார் குற்றமும் தூற்றும் மரபினார்என்னைகொல் ஏதிலார் மாட்டு.",
+    "English_Meaning": "What will those not do to strangers whose nature leads them to publish abroad the faults of their intimate friends?."
+  },
+  "Flux_Optimized_Prompt": {
+    "Layered_Composition": {
+      "Foreground": "A backbiter is shown revealing a secret fault of their closest, most intimate friend ('துன்னியார் குற்றமும் தூற்றும்').",
+      "Midground": "A stranger ('ஏதிலார்') is shown in the distance.",
+      "Background": "The image poses a terrifying, rhetorical question. The backbiter's mouth opens, but instead of words, a monstrous, uncontrollable torrent of destruction and malice is unleashed, heading towards the distant stranger. The question is visualized: if this is what their nature ('மரபினார்') leads them to do to their closest friend, what unimaginable horrors will they not unleash upon a mere stranger? ('என்னைகொல்?')."
+    },
+    "Art_Direction": {
+      "Subject_and_Action": "A rhetorical question highlighting the extreme danger of a backbiter: if they would betray even their closest friends, what terrible things must they be capable of doing to strangers?",
+      "Symbolic_Motifs": "The uncontrolled, monstrous torrent unleashed towards the stranger is the key. It represents the logical, amplified conclusion of their character. The betrayal of the close friend is the premise; the imagined destruction of the stranger is the terrifying result.",
+      "Mood_and_Emotion": "Terrifying, cautionary, escalating evil.",
+      "Lighting_and_Color": "The scene of betraying the friend is in dark, conspiratorial shadows. The unleashed torrent of malice towards the stranger is a chaotic, destructive explosion of dark energy.",
+      "Technical_Cues": {
+        "Camera": "A shot that starts on the small, mean act of betraying a friend, and then pans to reveal the vast, monstrous potential of their malice towards others.",
+        "Resolution": "8K, ultra-realistic, with powerful, destructive energy effects.",
+        "Lighting": "Dark, chaotic, and destructive lighting.",
+        "Art_Genre": "Dark fantasy, horror."
+      },
+      "Cultural_Anchors": [
+        "Those whose nature it is to proclaim the faults of their close friends (துன்னியார் குற்றமும் தூற்றும் மரபினார்)",
+        "What will they do to strangers? (என்னைகொல் ஏதிலார் மாட்டு?)"
+      ]
+    },
+    "Negative_Prompt": "loyal friend, person being kind to strangers, text artifacts.",
+    "Hyperparameters": {
+      "variant": "pro",
+      "steps": 50,
+      "cfg_scale": 9,
+      "seed": "Explore the visual of the 'monstrous torrent of malice'."
+    }
+  }
+}

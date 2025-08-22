@@ -1,0 +1,39 @@
+{
+  "Kural_Info": {
+    "Number": 1104,
+    "Chapter": "புணர்ச்சிமகிழ்தல் (Rejoicing in the Embrace)",
+    "Tamil_Text": "நீங்கின் தெறூஉம் குறுகுங்கால் தண்ணென்னும்தீயாண்டுப் பெற்றாள் இவள்.",
+    "English_Meaning": "Withdraw, it burns; approach, it soothes the pain; Whence did the maid this wondrous fire obtain?."
+  },
+  "Flux_Optimized_Prompt": {
+    "Layered_Composition": {
+      "Foreground": "A maiden is the source of a paradoxical, magical fire ('தீ').",
+      "Midground": "A lover is shown in two states in relation to this fire. When he is far from her ('நீங்கின்'), the fire lashes out with painful, burning heat ('தெறூஉம்').",
+      "Background": "When he moves close to her ('குறுகுங்கால்'), the same fire transforms its nature and becomes wonderfully cool and soothing ('தண்ணென்னும்'). The lover looks on in bewilderment, wondering where she obtained such a wondrous element."
+    },
+    "Art_Direction": {
+      "Subject_and_Action": "The beloved is possessed of a magical fire of love that has paradoxical qualities: it burns with the pain of separation when one is distant, but becomes a soothing coolness in the pleasure of proximity.",
+      "Symbolic_Motifs": "The fire that changes its nature based on proximity is the key visual. The 'burning' is the pain of longing, and the 'coolness' is the bliss of union. The lover's bewildered expression poses the question 'Where did she get this?' ('யாண்டுப் பெற்றாள்?').",
+      "Mood_and_Emotion": "Paradoxical, magical, wondrous, alluring.",
+      "Lighting_and_Color": "The fire itself changes color and quality. At a distance, it is a harsh, fiery, painful orange-red. Up close, it transforms into a soft, cool, soothing, blue-white glow.",
+      "Technical_Cues": {
+        "Camera": "A shot that shows the lover moving closer, with the fire visibly and magically transforming its nature in response to his proximity.",
+        "Resolution": "8K, ultra-realistic, with advanced, color-changing fire effects.",
+        "Lighting": "The magical fire is the primary light source, and its changing color dictates the mood of the scene.",
+        "Art_Genre": "High fantasy romance, magical realism."
+      },
+      "Cultural_Anchors": [
+        "It burns when distant (நீங்கின் தெறூஉம்)",
+        "It is cool when near (குறுகுங்கால் தண்ணென்னும்)",
+        "This wondrous fire (தீ)"
+      ]
+    },
+    "Negative_Prompt": "normal fire, text artifacts, lover being burned up close.",
+    "Hyperparameters": {
+      "variant": "pro",
+      "steps": 50,
+      "cfg_scale": 9,
+      "seed": "Explore the visual transformation of the magical fire."
+    }
+  }
+}

@@ -1,0 +1,39 @@
+{
+  "Kural_Info": {
+    "Number": 1084,
+    "Chapter": "தகையணங்குறுத்தல் (The Pre-marital love)",
+    "Tamil_Text": "கண்டார் உயிருண்ணும் தோற்றத்தால் பெண்டகைப்பேதைக்கு அமர்த்தன கண்.",
+    "English_Meaning": "These eyes that seem to kill those who look at them are as it were in hostilities with this feminine simplicity."
+  },
+  "Flux_Optimized_Prompt": {
+    "Layered_Composition": {
+      "Foreground": "A close-up on the face of a maiden. Her overall demeanor and expression are of a sweet, innocent simplicity ('பேதை').",
+      "Midground": "However, her eyes ('கண்') are in stark contrast to her demeanor. They are depicted as fierce, powerful, and predatory, like the eyes of a lioness. They possess a look that 'devours the life of the beholder' ('கண்டார் உயிர் உண்ணும் தோற்றம்').",
+      "Background": "This creates a powerful internal contradiction. The fierce, warlike eyes seem to be at war ('அமர்த்தன') with the gentle, feminine grace ('பெண் தகை') of the rest of her face. The viewer is caught between these two conflicting signals."
+    },
+    "Art_Direction": {
+      "Subject_and_Action": "The paradox of the beloved: her overall appearance is one of feminine simplicity, but her eyes possess a warlike, life-devouring power that seems hostile to her own innocent nature.",
+      "Symbolic_Motifs": "The stark contrast between the eyes and the rest of the face is the entire focus. The eyes might have a slight, predatory glow or a sharper, more focused quality than the soft-focus of the rest of her features.",
+      "Mood_and_Emotion": "Contradictory, paradoxical, innocent but deadly, captivating.",
+      "Lighting_and_Color": "A soft, gentle light illuminates the maiden's face, fitting her simple demeanor. However, her eyes seem to have their own, more intense and dangerous light source within them.",
+      "Technical_Cues": {
+        "Camera": "An intense, intimate close-up on the maiden's face, forcing the viewer to confront the paradox of her eyes.",
+        "Resolution": "8K, ultra-realistic, with a razor-sharp focus on the eyes and a slightly softer focus on the rest of her face.",
+        "Lighting": "Dual lighting to emphasize the internal conflict: a soft, external light for her face, and a sharp, internal light for her eyes.",
+        "Art_Genre": "Hyper-realistic portraiture, with a subtle fantasy element."
+      },
+      "Cultural_Anchors": [
+        "A look that devours the life of the beholder (கண்டார் உயிர் உண்ணும் தோற்றம்)",
+        "The simplicity of a womanly maiden (பெண் தகை பேதை)",
+        "Warlike eyes (அமர்த்தன கண்)"
+      ]
+    },
+    "Negative_Prompt": "plain eyes, fierce face, text artifacts, consistent expression.",
+    "Hyperparameters": {
+      "variant": "dev",
+      "steps": 45,
+      "cfg_scale": 8,
+      "seed": "Explore the subtle difference in lighting between the eyes and the face."
+    }
+  }
+}

@@ -1,0 +1,39 @@
+{
+  "Kural_Info": {
+    "Number": 367,
+    "Chapter": "அவாவறுத்தல் (Curbing of Desire)",
+    "Tamil_Text": "அவாவினை ஆற்ற அறுப்பின் தவாவினை தான்வேண்டு மாற்றான் வரும்.",
+    "English_Meaning": "If a man thoroughly cut off all desire, the deeds, which confer immortality, will come to him, in the path in which he seeks them."
+  },
+  "Flux_Optimized_Prompt": {
+    "Layered_Composition": {
+      "Foreground": "A person is depicted decisively cutting a massive, dark, thorny vine with a glowing sword of will-power. The vine represents desire ('அவாவினை').",
+      "Midground": "Where the vine is cut, a path of pure light materializes, leading upwards towards a celestial realm.",
+      "Background": "Along this newly formed path of light, divine and virtuous outcomes ('தவாவினை') descend as glowing orbs of energy, effortlessly coming towards the person."
+    },
+    "Art_Direction": {
+      "Subject_and_Action": "The act of completely severing desire, which in turn automatically opens the way for indestructible, virtuous achievements to manifest.",
+      "Symbolic_Motifs": "The thorny vine is desire. The glowing sword is will-power/determination. The path of light is the path of virtue. The descending orbs are the effortless fruits of a desire-free life.",
+      "Mood_and_Emotion": "Decisive, powerful, liberating, divinely assured.",
+      "Lighting_and_Color": "The scene is initially dark where the vine of desire dominates. The act of cutting it creates an explosion of brilliant white and golden light, illuminating the path and the descending orbs. The color palette shifts from dark and menacing to bright and divine."
+    },
+    "Technical_Cues": {
+      "Camera": "Dynamic low-angle shot, capturing the powerful moment of severing the vine.",
+      "Resolution": "8K, cinematic quality, with motion blur on the sword and particle effects.",
+      "Lighting": "High-contrast, dramatic lighting. Volumetric light rays form the path.",
+      "Art_Genre": "High-fantasy art, symbolic digital painting."
+    },
+    "Cultural_Anchors": [
+      "Severing Desire ('அவா அறுத்தல்')",
+      "Indestructible virtue ('தவாவினை')",
+      "Effortless attainment through renunciation."
+    ]
+  },
+  "Negative_Prompt": "weak character, uncut vine, dark path, cartoonish effects, blurry, text artifacts.",
+  "Hyperparameters": {
+    "variant": "pro",
+    "steps": 50,
+    "cfg_scale": 8,
+    "seed": "Explore variations for the design of the descending orbs."
+  }
+}

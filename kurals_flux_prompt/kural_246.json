@@ -1,0 +1,39 @@
+{
+  "Kural_Info": {
+    "Number": 246,
+    "Chapter": "அருளுடைமை (Compassion)",
+    "Tamil_Text": "பொருள்நீங்கிப் பொச்சாந்தார் என்பர் அருள்நீங்கிஅல்லவை செய்தொழுகு வார்.",
+    "English_Meaning": "(The wise) say that those who neglect kindness and practise cruelties, neglected virtue (in their former birth), and forgot (the sorrows which they must suffer)."
+  },
+  "Flux_Optimized_Prompt": {
+    "Layered_Composition": {
+      "Foreground": "A person is shown in the present, committing a cruel, unrighteous act ('அல்லவை செய்து'). They have clearly forsaken compassion ('அருள் நீங்கி').",
+      "Midground": "A ghostly, transparent overlay shows their past life. In that past life, they were a wealthy and virtuous person ('பொருள்'), but they are depicted turning their back on virtue, thus 'losing' or 'separating' from it ('பொருள் நீங்கி').",
+      "Background": "Another ghostly vision shows their future life, where they are suffering the exact same cruelties they are now inflicting. The person in the present is shown to be oblivious to both their past error and their future consequence, a state of profound forgetfulness ('பொச்சாந்தார்')."
+    },
+    "Art_Direction": {
+      "Subject_and_Action": "A person who forsakes compassion and commits cruel acts in this life is understood to be one who, in a past life, lost their connection to virtue and has forgotten the inevitable suffering that follows.",
+      "Symbolic_Motifs": "The triple-timeline (past, present, future) is the key narrative device. 'Porul' is interpreted here in its deeper sense as 'true substance' or 'virtue'. The person's present cruelty is framed not as a choice made in a vacuum, but as a result of past negligence and future ignorance.",
+      "Mood_and_Emotion": "Karmic, tragic, oblivious, cause-and-effect.",
+      "Lighting_and_Color": "The present is in harsh, cruel colors. The past-life vision is in the faded colors of a lost golden age. The future-life vision is in the dark, painful colors of retribution. The central figure is blind to all but the present moment.",
+      "Technical_Cues": {
+        "Camera": "A complex, layered shot that captures the figure in the present while revealing their past and future through ethereal, overlapping visions.",
+        "Resolution": "8K, ultra-realistic, with advanced transparency and blending effects.",
+        "Lighting": "Multiple lighting schemes to differentiate the three timelines.",
+        "Art_Genre": "Mystical narrative art, psychological realism."
+      },
+      "Cultural_Anchors": [
+        "Forsaking compassion (அருள் நீங்கி)",
+        "Losing true substance/virtue (பொருள் நீங்கி)",
+        "Being forgetful (of consequences) (பொச்சாந்தார்)"
+      ]
+    },
+    "Negative_Prompt": "happy cruel person, no past or future visions, text artifacts.",
+    "Hyperparameters": {
+      "variant": "dev",
+      "steps": 50,
+      "cfg_scale": 9,
+      "seed": "Explore the visual blending of the three timelines."
+    }
+  }
+}

@@ -1,0 +1,39 @@
+{
+  "Kural_Info": {
+    "Number": 39,
+    "Chapter": "அறன் வலியுறுத்தல் (Assertion of the Strength of Virtue)",
+    "Tamil_Text": "அறத்தான் வருவதே இன்பம் மற்றெல்லாம்புறத்த புகழும் இல.",
+    "English_Meaning": "Only that pleasure which flows from domestic virtue is pleasure; all else is not pleasure, and it is without praise."
+  },
+  "Flux_Optimized_Prompt": {
+    "Layered_Composition": {
+      "Foreground": "A simple family sits together, sharing a meal or a quiet moment. A warm, golden light of genuine happiness ('இன்பம்') radiates from their hearts, creating a cozy, self-contained sphere of joy.",
+      "Midground": "Outside this sphere of authentic joy, other scenes of worldly pleasure are depicted in a faded, grey, monochrome palette: a king on a throne receiving hollow praise, a wealthy merchant counting gold without joy, a reveller at a loud but empty party. These are 'external' ('புறத்த').",
+      "Background": "The background for the family is their simple, loving home. The background for the worldly pleasures is opulent but cold and devoid of genuine connection."
+    },
+    "Art_Direction": {
+      "Subject_and_Action": "The stark contrast between the true, radiant joy that comes only from a life of virtue, and the hollow, colorless nature of all other worldly pleasures and praises.",
+      "Symbolic_Motifs": "The light of joy is internal and warm, originating from the family's connection. The worldly scenes are lit by harsh, external lights that create no warmth. The praise ('புகழ்') received by the king is visualized as empty speech bubbles.",
+      "Mood_and_Emotion": "Authentic joy vs. hollow pleasure; warm, intimate, sincere.",
+      "Lighting_and_Color": "A powerful color contrast. The foreground scene is rich with warm, saturated, golden tones. The surrounding scenes are in a completely desaturated, grey monochrome, visually representing their lack of true 'Inbam' and 'Pukazh'."
+    },
+    "Technical_Cues": {
+      "Camera": "Medium shot focusing on the family, with the surrounding monochrome scenes framed as if looking through windows or as distant, unimportant vignettes.",
+      "Resolution": "8K, ultra-realistic, with a strong focus on the genuine emotions of the family versus the empty expressions of the others.",
+      "Lighting": "Soft, internal, volumetric light for the family scene. Flat, harsh, or artificial lighting for the monochrome scenes.",
+      "Art_Genre": "Symbolic realism, with a strong color theory element."
+    },
+    "Cultural_Anchors": [
+      "Joy from Virtue (அறத்தான் வருவதே இன்பம்)",
+      "External and praiseless things (புறத்த புகழும் இல)",
+      "The value of inner, emotional wealth over outer, material pleasure"
+    ]
+  },
+  "Negative_Prompt": "sad family, happy king, colorful worldly scenes, text artifacts, modern setting, deformed figures.",
+  "Hyperparameters": {
+    "variant": "dev",
+    "steps": 45,
+    "cfg_scale": 8,
+    "seed": "Explore different compositions for the surrounding vignettes."
+  }
+}

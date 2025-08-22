@@ -1,0 +1,41 @@
+{
+  "Kural_Info": {
+    "Number": 513,
+    "Chapter": "தெரிந்துவினையாடல் (Selection and Employment)",
+    "Tamil_Text": "அன்பறிவு தேற்றம் அவாவின்மை இந்நான்கும் நன்குடையான் கட்டே தெளிவு.",
+    "English_Meaning": "Let the choice (of a king) fall upon him who largely possesses these four things, love, knowledge, a clear mind and freedom from covetousness."
+  },
+  "Flux_Optimized_Prompt": {
+    "Layered_Composition": {
+      "Foreground": "An ideal candidate for office stands, embodying four key virtues as glowing symbols.",
+      "Midground": "A glowing heart represents Love/Loyalty ('அன்பு'). A radiant mind represents Knowledge ('அறிவு'). A clear, flawless crystal held in their hand represents a Clear Mind/Confidence ('தேற்றம்'). Their other hand is open and empty, turning away from a pile of gold, representing Freedom from Avarice ('அவாவின்மை').",
+      "Background": "A hand of a king is shown placing a seal of office ('தெளிவு') on the person's shoulder, confirming their selection based on these four excellent qualities."
+    },
+    "Art_Direction": {
+      "Subject_and_Action": "The person to be trusted and chosen is the one who possesses the four cardinal virtues for public office: love, knowledge, clarity, and non-attachment to wealth.",
+      "Symbolic_Motifs": "Each of the four virtues is represented by a clear, glowing symbol, making the person's qualities immediately apparent.",
+      "Mood_and_Emotion": "Virtuous, ideal, trustworthy, clear, noble.",
+      "Lighting_and_Color": "A pure, bright light illuminates the candidate. Each of the four symbolic virtues has its own distinct but harmonious glow (e.g., warm red for love, bright white for knowledge, clear blue for clarity, and simple gold for non-avarice)."
+    },
+    "Technical_Cues": {
+      "Camera": "A full-body portrait, focusing on the character and their four symbolic virtues.",
+      "Resolution": "8K, with a classical, painterly aesthetic.",
+      "Lighting": "Radiant lighting that makes the figure appear almost divine in their virtue.",
+      "Art_Genre": "Symbolic portraiture, idealized realism."
+    },
+    "Cultural_Anchors": [
+      "The Four Virtues of a Minister:",
+      "'Anbu' (Love/Loyalty)",
+      "'Arivu' (Knowledge)",
+      "'Thetram' (Clarity/Confidence)",
+      "'Avavinmai' (Freedom from Avarice)"
+    ]
+  },
+  "Negative_Prompt": "person with dark symbols, king rejecting them, text artifacts, cartoonish.",
+  "Hyperparameters": {
+    "variant": "pro",
+    "steps": 45,
+    "cfg_scale": 8,
+    "seed": "Explore variations for the glowing symbols."
+  }
+}

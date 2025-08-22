@@ -1,0 +1,39 @@
+{
+  "Kural_Info": {
+    "Number": 485,
+    "Chapter": "காலமறிதல் (Knowing the fitting Time)",
+    "Tamil_Text": "காலம் கருதி இருப்பர் கலங்காது ஞாலம் கருது பவர்.",
+    "English_Meaning": "They who thoughtfully consider and wait for the (right) time (for action), may successfully meditate (the conquest of) the world."
+  },
+  "Flux_Optimized_Prompt": {
+    "Layered_Composition": {
+      "Foreground": "A king or leader who desires the world ('ஞாலம் கருதுபவர்') is depicted not in action, but in a state of profound, patient waiting. They are sitting perfectly still, like a mountain.",
+      "Midground": "Around them, the seasons visibly change in a time-lapse—spring blossoms, summer sun, autumn leaves, winter snow—representing the passage of time. The leader remains unmoved and unperturbed ('கலங்காது').",
+      "Background": "Their gaze is fixed on a single, distant star that is slowly moving into a specific, perfect position in the sky. This star represents the opportune moment ('காலம் கருதி')."
+    },
+    "Art_Direction": {
+      "Subject_and_Action": "Those who have grand ambitions to win the world do not act hastily; they wait with unshakable patience and without agitation for the perfect time to act.",
+      "Symbolic_Motifs": "The unmoving leader amidst changing seasons is a powerful symbol of patience. The awaited alignment of the star represents the awaited opportune moment.",
+      "Mood_and_Emotion": "Patient, serene, unshakable, wise, strategic.",
+      "Lighting_and_Color": "The lighting changes dramatically with the passing seasons around the leader, but the leader themselves is lit by a constant, steady inner light of resolve. The awaited star has a brilliant, unique glow.",
+      "Technical_Cues": {
+        "Camera": "A static, wide shot that emphasizes the leader's stillness against the motion of the world around them. Time-lapse effect.",
+        "Resolution": "8K, cinematic, with beautiful seasonal effects.",
+        "Lighting": "The primary light source should be the sky, changing with the seasons.",
+        "Art_Genre": "Cinematic time-lapse, epic fantasy art."
+      }
+    },
+    "Cultural_Anchors": [
+      "Waiting for the right time ('காலம் கருதி இருப்பர்')",
+      "Without agitation ('கலங்காது')",
+      "Those who desire the world ('ஞாலம் கருதுபவர்')"
+    ]
+  },
+  "Negative_Prompt": "impatient leader, static seasons, no star, text artifacts, cartoonish.",
+  "Hyperparameters": {
+    "variant": "pro",
+    "steps": 50,
+    "cfg_scale": 7,
+    "seed": "Explore variations for the seasonal time-lapse effect."
+  }
+}

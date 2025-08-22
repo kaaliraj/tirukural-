@@ -1,0 +1,39 @@
+{
+  "Kural_Info": {
+    "Number": 627,
+    "Chapter": "இடுக்கணழியாமை (Hopefulness in Trouble)",
+    "Tamil_Text": "இலக்கம் உடம்பிடும்பைக் கென்று கலக்கத்தைக் கையாறாக் கொள்ளாதாம் மேல்.",
+    "English_Meaning": "The great will not regard trouble as trouble, knowing that the body is the butt of trouble."
+  },
+  "Flux_Optimized_Prompt": {
+    "Layered_Composition": {
+      "Foreground": "A great and wise person ('மேல்') stands in a meditative posture. Their physical body is depicted as a target ('இலக்கம்').",
+      "Midground": "Arrows of trouble and suffering ('இடும்பை') are flying from all directions and striking the body-target. However, they are only hitting the physical form.",
+      "Background": "The person's inner self, their consciousness, is shown as a serene, untouched, glowing figure floating just inside the body. It observes the arrows hitting the body but remains completely calm and undisturbed ('கலக்கத்தைக் கையாறாக் கொள்ளாது'), understanding that the body is meant to be the target, not the self."
+    },
+    "Art_Direction": {
+      "Subject_and_Action": "The wise, understanding that the physical body is the natural target for suffering, do not allow their minds to become disturbed when troubles arrive.",
+      "Symbolic_Motifs": "The body as a target is a literal interpretation of the Kural. The serene, glowing inner self, separate from the afflicted body, is the key visual that explains the concept of mental detachment.",
+      "Mood_and_Emotion": "Detached, serene, enlightened, accepting, transcendent.",
+      "Lighting_and_Color": "The body-target is depicted in realistic, earthly tones, showing the impact of the dark arrows. The inner self glows with a pure, divine, blue or white light of consciousness.",
+      "Technical_Cues": {
+        "Camera": "A symbolic, semi-transparent shot that allows the viewer to see both the body being hit and the untouched consciousness within.",
+        "Resolution": "8K, with surreal and metaphysical effects.",
+        "Lighting": "The primary light source is the glowing inner self.",
+        "Art_Genre": "Metaphysical art, spiritual realism."
+      }
+    },
+    "Cultural_Anchors": [
+      "The Body as the Target of Suffering ('உடம்பு இடும்பைக்கு இலக்கம்')",
+      "The Wise do not get disturbed ('கலக்கத்தைக் கொள்ளாதாம் மேல்')",
+      "The concept of mind-body dualism and detachment."
+    ]
+  },
+  "Negative_Prompt": "inner self being hit by arrows, person crying in pain, text artifacts, cartoonish.",
+  "Hyperparameters": {
+    "variant": "pro",
+    "steps": 50,
+    "cfg_scale": 8,
+    "seed": "Explore variations for the glowing inner self."
+  }
+}

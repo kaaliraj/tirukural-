@@ -1,0 +1,39 @@
+{
+  "Kural_Info": {
+    "Number": 428,
+    "Chapter": "அறிவுடைமை (The Possession of Knowledge)",
+    "Tamil_Text": "அஞ்சுவ தஞ்சாமை பேதைமை அஞ்சுவது அஞ்சல் அறிவார் தொழில்.",
+    "English_Meaning": "Not to fear what ought to be feared, is folly; it is the work of the wise to fear what should be feared."
+  },
+  "Flux_Optimized_Prompt": {
+    "Layered_Composition": {
+      "Foreground": "A split composition. On the right, a foolish person ('பேதைமை') is shown recklessly walking towards the edge of a crumbling cliff, completely fearless and unaware of the obvious danger ('அஞ்சுவது அஞ்சாமை').",
+      "Midground": "On the left, a wise person ('அறிவார்') stands at a safe distance from the same cliff edge, observing it with caution and respect. Their 'fear' is not cowardice, but intelligent assessment of risk ('அஞ்சுவது அஞ்சல்').",
+      "Background": "A dramatic and dangerous landscape, with a sheer drop from the cliff, emphasizing the very real danger that one person fears and the other ignores."
+    },
+    "Art_Direction": {
+      "Subject_and_Action": "A contrast between the folly of not fearing real danger and the wisdom of fearing what should be feared.",
+      "Symbolic_Motifs": "The crumbling cliff edge is the object to be feared. The foolish person's reckless advance and the wise person's cautious stance are the contrasting actions that define their intelligence.",
+      "Mood_and_Emotion": "Contrasting, cautionary, tense, wise vs. foolish.",
+      "Lighting_and_Color": "Harsh, dramatic lighting on the cliff edge. The fool is brightly lit, emphasizing their obliviousness. The wise person is in a more thoughtful, less direct light.",
+      "Technical_Cues": {
+        "Camera": "A wide shot that captures both individuals and the dangerous cliff, allowing for a clear comparison of their actions.",
+        "Resolution": "8K, with highly detailed and realistic rock textures.",
+        "Lighting": "Golden hour light that creates long, dramatic shadows and highlights the danger.",
+        "Art_Genre": "Narrative realism."
+      }
+    },
+    "Cultural_Anchors": [
+      "Folly of Fearlessness ('அஞ்சுவது அஞ்சாமை பேதைமை')",
+      "Wisdom of Fearing ('அஞ்சுவது அஞ்சல் அறிவார் தொழில்')",
+      "Prudence and risk assessment."
+    ]
+  },
+  "Negative_Prompt": "wise person falling off cliff, fool being safe, safe-looking cliff, text artifacts, cartoonish.",
+  "Hyperparameters": {
+    "variant": "dev",
+    "steps": 40,
+    "cfg_scale": 9,
+    "seed": "Explore variations in the crumbling of the cliff edge."
+  }
+}

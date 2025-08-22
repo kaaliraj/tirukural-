@@ -1,0 +1,40 @@
+{
+  "Kural_Info": {
+    "Number": 371,
+    "Chapter": "ஊழ் (Fate)",
+    "Tamil_Text": "ஆகூழால் தோன்றும் அசைவின்மை கைப்பொருள் போகூழால் தோன்றும் மடி.",
+    "English_Meaning": "Perseverance comes from a prosperous fate, and idleness from an adverse fate."
+  },
+  "Flux_Optimized_Prompt": {
+    "Layered_Composition": {
+      "Foreground": "A split image. On the left, a figure is infused with a golden light from above, showing relentless, energetic perseverance ('அசைவின்மை') as they build something magnificent.",
+      "Midground": "On the right, a similar figure is shrouded in a grey, heavy mist from above, succumbing to lethargy and idleness ('மடி'), with their tools lying unused and rusting.",
+      "Background": "The source of the light and mist are two large, celestial gears in the cosmos, one golden (Prosperous Fate, 'ஆகூழ்') and one leaden (Adverse Fate, 'போகூழ்'), turning slowly."
+    },
+    "Art_Direction": {
+      "Subject_and_Action": "A visual dichotomy showing how prosperous fate inspires diligence and adverse fate induces lethargy, with fate itself depicted as a cosmic mechanism.",
+      "Symbolic_Motifs": "The golden light represents the energy from a favorable fate. The grey mist symbolizes the oppressive nature of an unfavorable fate. The cosmic gears represent the workings of 'Ūzh' (Fate).",
+      "Mood_and_Emotion": "Contrasting, deterministic, energetic vs. lethargic, profound.",
+      "Lighting_and_Color": "Left side is bright, warm, and golden. Right side is desaturated, cold, grey, and misty.",
+      "Technical_Cues": {
+        "Camera": "Wide, balanced composition showing the two contrasting scenes side-by-side.",
+        "Resolution": "8K, photorealistic, with ethereal light and mist effects.",
+        "Lighting": "Strongly contrasting directional light sources from the cosmic gears.",
+        "Art_Genre": "Allegorical realism, symbolic digital art."
+      }
+    },
+    "Cultural_Anchors": [
+      "Concept of 'Ūzh' (Fate/Destiny)",
+      "Prosperous Fate ('ஆகூழ்')",
+      "Adverse Fate ('போகூழ்')",
+      "Diligence ('அசைவின்மை') vs. Idleness ('மடி')"
+    ]
+  },
+  "Negative_Prompt": "idle person on the left, active person on the right, modern setting, blurry, text artifacts, cartoonish.",
+  "Hyperparameters": {
+    "variant": "dev",
+    "steps": 40,
+    "cfg_scale": 8,
+    "seed": "Explore variations in the design of the celestial gears."
+  }
+}

@@ -1,0 +1,38 @@
+{
+  "Kural_Info": {
+    "Number": 284,
+    "Chapter": "கள்ளாமை (The Absence of Fraud)",
+    "Tamil_Text": "களவின்கண் கன்றிய காதல் விளைவின்கண்வீயா விழுமம் தரும்.",
+    "English_Meaning": "The eager desire of defrauding others will, when it brings forth its fruit, produce undying sorrow."
+  },
+  "Flux_Optimized_Prompt": {
+    "Layered_Composition": {
+      "Foreground": "A person is shown passionately embracing a dark, shadowy figure representing the 'love of fraud' ('களவின்கண் கன்றிய காதல்'). The embrace is intense and desirous.",
+      "Midground": "From this embrace, a 'fruit' is born. But it is not a normal fruit. It is a dark, thorny, pulsating seed of sorrow.",
+      "Background": "This seed of sorrow rapidly grows into a monstrous, immortal thorny vine ('வீயா விழுமம்') that completely ensnares and torments the person for eternity. The initial passionate embrace has led to an inescapable, eternal torment."
+    },
+    "Art_Direction": {
+      "Subject_and_Action": "The intense desire for fraudulent gain ultimately bears a fruit of undying sorrow that will torment the sinner forever.",
+      "Symbolic_Motifs": "The personification of fraud as a dark lover is a powerful metaphor for the initial attraction to sin. The fruit of this union being an immortal, tormenting vine clearly shows the horrific and inescapable consequence.",
+      "Mood_and_Emotion": "Tragic, horrific, inescapable doom, karmic consequence.",
+      "Lighting_and_Color": "The initial embrace is lit with a dark, passionate, seductive red. As the vine of sorrow grows, this light is choked out and replaced by a cold, terrifying, dark purple and black palette.",
+      "Technical_Cues": {
+        "Camera": "A narrative sequence shot, showing the transition from passionate embrace to eternal torment.",
+        "Resolution": "8K, ultra-realistic, with horrifying organic GFX for the growing, tormenting vine.",
+        "Lighting": "A dramatic shift from seductive, dark passion to cold, eternal despair.",
+        "Art_Genre": "Dark fantasy, horror art."
+      },
+      "Cultural_Anchors": [
+        "Passionate love of fraud (களவின்கண் கன்றிய காதல்)",
+        "Undying sorrow (வீயா விழுமம்)"
+      ]
+    },
+    "Negative_Prompt": "happy person with fruit, beautiful vine, text artifacts, cartoonish monster.",
+    "Hyperparameters": {
+      "variant": "pro",
+      "steps": 55,
+      "cfg_scale": 9,
+      "seed": "Explore the design of the 'immortal vine of sorrow'."
+    }
+  }
+}

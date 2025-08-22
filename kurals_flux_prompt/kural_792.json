@@ -1,0 +1,39 @@
+{
+  "Kural_Info": {
+    "Number": 792,
+    "Chapter": "நட்பாராய்தல் (Investigation in forming Friendships)",
+    "Tamil_Text": "ஆய்ந்தாய்ந்து கொள்ளாதான் கேண்மை கடைமுறைதான் சாம் துயரம் தரும்.",
+    "English_Meaning": "The friendship contracted by him who has not made repeated inquiry will in the end grieve (him) to death."
+  },
+  "Flux_Optimized_Prompt": {
+    "Layered_Composition": {
+      "Foreground": "A person is shown embracing a friend they chose without careful, repeated investigation ('ஆய்ந்தாய்ந்து கொள்ளாதான்').",
+      "Midground": "The 'friend' is depicted as a beautiful, alluring figure, but their embrace is revealed to be venomous. As they hold the person, a slow-acting, dark poison is seen spreading through the person's veins.",
+      "Background": "The final stage ('கடைமுறை') of this friendship is shown: the person lies dying ('சாம் துயரம்'), their life completely ruined by the fatal sorrow caused by their un-examined friendship."
+    },
+    "Art_Direction": {
+      "Subject_and_Action": "A friendship formed without repeated and deep investigation will, in the end, bring a sorrow that leads to one's very ruin and death.",
+      "Symbolic_Motifs": "The beautiful but venomous friend whose embrace is a slow-acting poison is the central metaphor. The progression from happy embrace to fatal sorrow tells the story.",
+      "Mood_and_Emotion": "Fatal, tragic, deceptive, cautionary.",
+      "Lighting_and_Color": "The initial embrace is in a warm, deceptive light. As the poison spreads, the scene becomes dark, sickly, and tragic, with cold blues and greens.",
+      "Technical_Cues": {
+        "Camera": "A narrative shot that shows the beginning and the tragic end of the ill-chosen friendship.",
+        "Resolution": "8K, with a focus on the spreading poison effect and the victim's final expression of regret.",
+        "Lighting": "A shift from warm and deceptive to cold and tragic.",
+        "Art_Genre": "Dark fantasy, tragic romance."
+      },
+      "Cultural_Anchors": [
+        "Friendship without deep investigation",
+        "Sorrow unto death ('சாம் துயரம்')",
+        "The fatal consequences of poor judgment."
+      ]
+    },
+    "Negative_Prompt": "a healthy friendship, a happy ending, text artifacts, cartoonish.",
+    "Hyperparameters": {
+      "variant": "dev",
+      "steps": 45,
+      "cfg_scale": 9,
+      "seed": "Explore variations for the spreading poison effect."
+    }
+  }
+}

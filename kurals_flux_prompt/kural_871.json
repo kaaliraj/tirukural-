@@ -1,0 +1,39 @@
+{
+  "Kural_Info": {
+    "Number": 871,
+    "Chapter": "பகைத்திறந்தெரிதல் (Knowing the Quality of Hate)",
+    "Tamil_Text": "பகைஎன்னும் பண்பி லதனை ஒருவன் நகையேயும் வேண்டற்பாற்று அன்று.",
+    "English_Meaning": "The evil of hatred is not of a nature to be desired by one even in sport."
+  },
+  "Flux_Optimized_Prompt": {
+    "Layered_Composition": {
+      "Foreground": "A person is shown playfully juggling several objects for amusement.",
+      "Midground": "One of the objects they are juggling is not a harmless ball, but a dangerous, venomous, coiled serpent, which represents Hatred ('பகை'). The serpent is depicted as having no good qualities ('பண்பிலதனை').",
+      "Background": "The image captures the immense folly and danger of this act. Treating something so inherently evil as a plaything ('நகையேயும்') is shown to be an act of extreme foolishness, with the serpent ready to strike at any moment."
+    },
+    "Art_Direction": {
+      "Subject_and_Action": "One must not desire the characterless evil of hatred, not even as a joke or for sport.",
+      "Symbolic_Motifs": "The venomous serpent as hatred is the key metaphor. The act of juggling it as a plaything represents treating it lightly or 'in sport'.",
+      "Mood_and_Emotion": "Dangerous, foolish, reckless, cautionary.",
+      "Lighting_and_Color": "A bright, playful light on the person and the other juggling balls, which contrasts sharply with the dark, menacing, and venomous appearance of the serpent.",
+      "Technical_Cues": {
+        "Camera": "A close-up on the juggler, focusing on their oblivious expression and the dangerous serpent in their hands.",
+        "Resolution": "8K, with a tense, dramatic feel.",
+        "Lighting": "High-contrast lighting to emphasize the danger of the serpent.",
+        "Art_Genre": "Symbolic realism."
+      },
+      "Cultural_Anchors": [
+        "Hatred, the characterless evil ('பகை என்னும் பண்பிலதனை')",
+        "Not to be desired even in jest ('நகையேயும் வேண்டற்பாற்று அன்று')",
+        "The inherent danger of toying with enmity."
+      ]
+    },
+    "Negative_Prompt": "a friendly serpent, a scared juggler, text artifacts, cartoonish.",
+    "Hyperparameters": {
+      "variant": "pro",
+      "steps": 50,
+      "cfg_scale": 9,
+      "seed": "Explore variations for the venomous serpent."
+    }
+  }
+}

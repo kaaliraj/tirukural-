@@ -1,0 +1,39 @@
+{
+  "Kural_Info": {
+    "Number": 157,
+    "Chapter": "பொறையுடைமை (The Possession of Patience, Forbearance)",
+    "Tamil_Text": "திறனல்ல தற்பிறர் செய்யினும் நோநொந்துஅறனல்ல செய்யாமை நன்று.",
+    "English_Meaning": "Though others inflict injuries on you, yet compassionating the evil (that will come upon them) it will be well not to do them anything contrary to virtue."
+  },
+  "Flux_Optimized_Prompt": {
+    "Layered_Composition": {
+      "Foreground": "A virtuous person is shown being struck by a harsh, unjust injury ('திறன் அல்ல') from another person.",
+      "Midground": "Instead of retaliating, the virtuous person's expression is one of pain for their own injury ('நோ'), but also one of deep compassion and sorrow ('நொந்து') for the attacker, pitying the bad karma the attacker has just created for themselves.",
+      "Background": "The virtuous person is shown actively restraining themselves, lowering a hand that could have performed a counter-attack. This act of refraining from unrighteousness ('அறன் அல்ல செய்யாமை') is shown to be a 'good' and noble choice."
+    },
+    "Art_Direction": {
+      "Subject_and_Action": "Even when suffering an unjust wrong, the better path is to feel sorrow for the wrongdoer's inevitable karmic consequence and to refrain from any unvirtuous retaliation.",
+      "Symbolic_Motifs": "The dual emotion on the victim's face is key: personal pain mixed with compassionate pity for the aggressor. A faint, shadowy vision of the aggressor's future suffering could be shown, which is what the virtuous person is seeing and pitying.",
+      "Mood_and_Emotion": "Compassionate, sorrowful, restrained, noble, self-controlled.",
+      "Lighting_and_Color": "A dramatic light highlights the virtuous person's pained yet compassionate face. The act of injury is a dark, shadowy motion. The potential retaliation is a dark energy that the person consciously dissipates.",
+      "Technical_Cues": {
+        "Camera": "An intense medium close-up on the virtuous person at the moment of being wronged, capturing their complex emotional reaction.",
+        "Resolution": "8K, hyper-realistic, focusing on subtle facial expressions.",
+        "Lighting": "Chiaroscuro lighting to create a dramatic and emotional scene.",
+        "Art_Genre": "Psychological realism, dramatic portraiture."
+      },
+      "Cultural_Anchors": [
+        "Unjust injury (திறன் அல்ல)",
+        "Feeling sorrow for the other's sin (நோ நொந்து)",
+        "Not doing unvirtuous acts (அறன் அல்ல செய்யாமை)"
+      ]
+    },
+    "Negative_Prompt": "happy victim, retaliation, angry expression, text artifacts, deformed limbs.",
+    "Hyperparameters": {
+      "variant": "dev",
+      "steps": 45,
+      "cfg_scale": 9,
+      "seed": "Explore the complex expression of pain mixed with compassion."
+    }
+  }
+}

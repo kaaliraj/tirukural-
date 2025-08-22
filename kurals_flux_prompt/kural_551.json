@@ -1,0 +1,39 @@
+{
+  "Kural_Info": {
+    "Number": 551,
+    "Chapter": "கொடுங்கோன்மை (The Cruel Sceptre)",
+    "Tamil_Text": "கொலைமேற்கொண் டாரிற் கொடிதே அலைமேற்கொண் டல்லவை செய்தொழுகும் வேந்து.",
+    "English_Meaning": "The king who gives himself up to oppression and acts unjustly (towards his subjects) is more cruel than the man who leads the life of a murderer."
+  },
+  "Flux_Optimized_Prompt": {
+    "Layered_Composition": {
+      "Foreground": "On the left, a shadowy, common murderer ('கொலை மேற்கொண்டார்') is shown committing a single act of violence. It is brutal but isolated.",
+      "Midground": "On the right, a tyrant king ('கொடுங்கோல் வேந்து') sits on a throne of skulls. His unjust oppression ('அல்லவை செய்து') is visualized as a constant, crushing wave of suffering ('அலைமேற்கொண்டு') that afflicts his entire populace, who are shown writhing in agony below him.",
+      "Background": "A scale of cruelty is depicted behind them, with the tyrant king's side weighing down far more heavily than the murderer's, signifying he is the greater evil ('கொடிதே')."
+    },
+    "Art_Direction": {
+      "Subject_and_Action": "A stark comparison proving that a persistently oppressive and unjust ruler is far crueler than a common murderer.",
+      "Symbolic_Motifs": "The wave of suffering represents the constant, widespread nature of the king's cruelty. The throne of skulls shows the deadly result of his rule. The scales of cruelty make the moral judgment explicit.",
+      "Mood_and_Emotion": "Cruel, oppressive, tyrannical, suffering, judgmental.",
+      "Lighting_and_Color": "A dark, hellish, red-and-black palette dominates the scene. A sickly, oppressive light emanates from the tyrant king.",
+      "Technical_Cues": {
+        "Camera": "A wide, dramatic composition that contrasts the singular evil of the murderer with the systemic evil of the tyrant.",
+        "Resolution": "8K, with a dark, gritty, and horrific aesthetic.",
+        "Lighting": "Low-key, hellish lighting with strong, dramatic shadows.",
+        "Art_Genre": "Dark fantasy, allegorical horror."
+      }
+    },
+    "Cultural_Anchors": [
+      "The Cruel King ('கொடுங்கோல் வேந்து')",
+      "More Cruel than a Murderer ('கொலையிற் கொடிது')",
+      "Systemic Oppression ('அலைமேற்கொண்டு அல்லவை செய்தல்')"
+    ]
+  },
+  "Negative_Prompt": "just king, happy people, text artifacts, cartoonish violence.",
+  "Hyperparameters": {
+    "variant": "pro",
+    "steps": 50,
+    "cfg_scale": 9,
+    "seed": "Explore variations for the 'wave of suffering'."
+  }
+}

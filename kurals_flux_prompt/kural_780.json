@@ -1,0 +1,39 @@
+{
+  "Kural_Info": {
+    "Number": 780,
+    "Chapter": "படைச்செருக்கு (Military Spirit)",
+    "Tamil_Text": "புரந்தார்கண் நீர்மல்கச் சாகிற்பின் சாக்காடு இரந்துகோள் தக்கது உடைத்து.",
+    "English_Meaning": "If (heroes) can so die as to fill with tears the eyes of their rulers, such a death deserves to be obtained even by begging."
+  },
+  "Flux_Optimized_Prompt": {
+    "Layered_Composition": {
+      "Foreground": "A hero has fallen in battle. Their king ('புரந்தார்') is kneeling beside them.",
+      "Midground": "The king, a powerful and stoic figure, is shown with tears streaming down his face ('கண் நீர்மல்க'), his grief at the loss of his hero overwhelming his royal composure.",
+      "Background": "This death, which has earned the tears of a great king, is shown to be so glorious that it is a prize to be sought after. This is visualized by other young warriors looking on, not with fear, but with a look of desperate longing, as if they would beg for such a noble end ('இரந்துகோள் தக்கது')."
+    },
+    "Art_Direction": {
+      "Subject_and_Action": "A death that causes one's leader to weep is a death so glorious that it is worth begging for.",
+      "Symbolic_Motifs": "The king's tears are the ultimate measure of the hero's worth. The longing looks of the other warriors show that this death is an achievement, not a tragedy.",
+      "Mood_and_Emotion": "Glorious, honorable, tragic yet desirable, the ultimate mark of respect.",
+      "Lighting_and_Color": "A dramatic, poignant light, perhaps a single shaft of light from the heavens illuminating the fallen hero and the grieving king. The king's tears could catch the light like diamonds.",
+      "Technical_Cues": {
+        "Camera": "A close-up on the emotional scene between the fallen hero and the crying king, with the longing warriors in the background.",
+        "Resolution": "8K, with intense, realistic emotions.",
+        "Lighting": "High-contrast, emotional lighting (chiaroscuro).",
+        "Art_Genre": "Classical tragedy, epic historical painting."
+      },
+      "Cultural_Anchors": [
+        "A death that makes the protector weep ('புரந்தார்கண் நீர்மல்கச் சாகில்')",
+        "A death worth begging for ('சாக்காடு இரந்துகோள் தக்கது')",
+        "The glory of a heroic death."
+      ]
+    },
+    "Negative_Prompt": "a happy king, warriors looking scared, text artifacts, cartoonish.",
+    "Hyperparameters": {
+      "variant": "pro",
+      "steps": 50,
+      "cfg_scale": 9,
+      "seed": "Explore variations for the king's expression of grief."
+    }
+  }
+}

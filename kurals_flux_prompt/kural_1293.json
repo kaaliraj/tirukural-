@@ -1,0 +1,38 @@
+{
+  "Kural_Info": {
+    "Number": 1293,
+    "Chapter": "நெஞ்சொடுபுலத்தல் (Expostulation with Oneself)",
+    "Tamil_Text": "கெட்டார்க்கு நட்டார்இல் என்பதோ நெஞ்சேநீபெட்டாங்கு அவர்பின் செலல்.",
+    "English_Meaning": "O my soul! do you follow him at pleasure under the belief that the ruined have no friends?."
+  },
+  "Flux_Optimized_Prompt": {
+    "Layered_Composition": {
+      "Foreground": "A woman is depicted in a state of emotional ruin ('கெட்டார்'), abandoned by her lover. Her form is desolate.",
+      "Midground": "Her own heart ('நெஞ்சே'), however, is not with her. It is shown as a separate figure, cheerfully and willfully following her absent lover ('அவர் பின் செலல்').",
+      "Background": "A ghostly proverb materializes in the air, framing the scene: 'The ruined have no friends' ('கெட்டார்க்கு நட்டார் இல்'). The woman's question to her heart is visualized: 'Is it because you believe in this proverb that you, my last friend, are also abandoning me?'"
+    },
+    "Art_Direction": {
+      "Subject_and_Action": "The woman bitterly asks her own heart if it is abandoning her in her time of ruin, just as the proverb says all friends do, by continuing to follow the one who left her.",
+      "Symbolic_Motifs": "The heart as the final 'friend' who also deserts her is a powerful and tragic metaphor. The visualized proverb shows the context for her bitter, rhetorical question. Her own heart's action confirms the cruel proverb.",
+      "Mood_and_Emotion": "Utterly abandoned, betrayed by oneself, tragic, bitter irony.",
+      "Lighting_and_Color": "A bleak, desolate light surrounds the ruined woman. Her departing heart is shown in a deceptively cheerful light, highlighting its foolish betrayal. The palette is one of isolation and despair.",
+      "Technical_Cues": {
+        "Camera": "A wide shot that shows the ruined woman on one side of the frame and her foolishly departing heart on the other, emphasizing her complete isolation.",
+        "Resolution": "8K, hyper-realistic, capturing the woman's expression of utter desolation.",
+        "Lighting": "Bleak, lonely lighting.",
+        "Art_Genre": "Tragic realism, with symbolic elements."
+      },
+      "Cultural_Anchors": [
+        "The ruined have no friends (கெட்டார்க்கு நட்டார் இல்)",
+        "O heart, you follow him (நெஞ்சே நீ அவர் பின் செலல்)"
+      ]
+    },
+    "Negative_Prompt": "happy woman, heart staying with her, text artifacts.",
+    "Hyperparameters": {
+      "variant": "pro",
+      "steps": 50,
+      "cfg_scale": 9,
+      "seed": "Explore the visual of the heart as the 'final departing friend'."
+    }
+  }
+}

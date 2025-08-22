@@ -1,0 +1,33 @@
+{
+  "Kural_Info": {
+    "Number": 976,
+    "Chapter": "பெருமை (Greatness)",
+    "Tamil_Text": "சிறியார் உணர்ச்சியுள் இல்லை பெரியாரைப்பேணிக்கொள் வேமென்னும் நோக்கு.",
+    "English_Meaning": "'As votaries of the truly great we will ourselves enroll,' Is thought that enters not the mind of men of little soul."
+  },
+  "Flux_Optimized_Prompt": {
+    "Layered_Composition": {
+      "Foreground": "A person of small character ('Siriyar') is shown turning their back, completely oblivious, to a great, wise sage ('Periyar') who is passing by.",
+      "Midground": "The sage is surrounded by a subtle aura of wisdom and light, and a group of respectful admirers are gathered around them, eagerly seeking their company.",
+      "Background": "The scene is a crossroads, symbolizing the choice to either seek greatness or remain in ignorance. The path the small-minded person takes is barren, while the path with the sage is verdant."
+    },
+    "Art_Direction": {
+      "Subject_and_Action": "The inability or unwillingness of the small-minded to recognize, appreciate, and seek the companionship of the great.",
+      "Symbolic_Motifs": "The act of turning away is the central gesture. The glowing aura of the sage represents their greatness. The diverging paths symbolize the consequences of one's associations.",
+      "Mood_and_Emotion": "Pitying, contrasting, a sense of missed opportunity.",
+      "Lighting_and_Color": "The sage and their followers are bathed in a warm, inviting light. The small-minded person is cast in a cool, isolating shadow. The color palette emphasizes this contrast between warmth and coldness."
+    },
+    "Technical_Cues": {
+      "Camera": "Wide shot, from a perspective that clearly shows the small-minded person's choice to turn away from the group.",
+      "Resolution": "8K, ultra-realistic, with emphasis on body language and facial expressions (or lack thereof).",
+      "Lighting": "Split lighting, creating a clear visual divide between the two groups and their respective paths.",
+      "Art_Genre": "Allegorical realism, telling a moral story through a single, powerful image."
+    },
+    "Cultural_Anchors": [
+      "சிறியார் (The small-minded/base)",
+      "பெரியார் (The great/noble ones)",
+      "பேணிக்கொள்ளல் (To cherish/associate with)"
+    ]
+  },
+  "Negative_Prompt": "small-minded person engaging with the sage, happy expression on the small-minded person, text artifacts, modern setting, blurry."
+}

@@ -1,0 +1,39 @@
+{
+  "Kural_Info": {
+    "Number": 638,
+    "Chapter": "அமைச்சு (The Office of Minister of state)",
+    "Tamil_Text": "அறிகொன்று அறியான் எனினும் உறுதி உழையிருந்தான் கூறல் கடன்.",
+    "English_Meaning": "Although the king be utterly ignorant, it is the duty of the minister to give (him) sound advice."
+  },
+  "Flux_Optimized_Prompt": {
+    "Layered_Composition": {
+      "Foreground": "A wise minister ('உழையிருந்தான்') stands before his king.",
+      "Midground": "The king is depicted as willfully ignorant ('அறியான்'). His ears are plugged, and he is actively destroying a book of wisdom ('அறிகொன்று'). Despite this clear rejection of knowledge...",
+      "Background": "...the minister continues to speak the words of sound, firm advice ('உறுதி கூறல்'). His words are visualized as solid, golden bricks of truth, which he patiently lays at the king's feet, fulfilling his duty ('கடன்') even if the advice is ignored."
+    },
+    "Art_Direction": {
+      "Subject_and_Action": "It remains the duty of a minister to offer true and firm advice, even to a ruler who is ignorant and actively rejects it.",
+      "Symbolic_Motifs": "The king plugging his ears and destroying the book shows his willful ignorance. The minister's words as solid golden bricks represent the valuable, constructive nature of the advice he continues to offer out of duty.",
+      "Mood_and_Emotion": "Dutiful, persistent, principled, tragic (due to the king's ignorance).",
+      "Lighting_and_Color": "The king is in a dark, self-imposed shadow. The minister and the golden bricks of advice he speaks are the only source of bright, virtuous light in the scene.",
+      "Technical_Cues": {
+        "Camera": "A dramatic shot that contrasts the minister's dutiful expression with the king's stubborn ignorance.",
+        "Resolution": "8K, with a strong, allegorical composition.",
+        "Lighting": "High-contrast lighting to emphasize the conflict between wisdom and ignorance.",
+        "Art_Genre": "Historical drama, classical painting."
+      }
+    },
+    "Cultural_Anchors": [
+      "The Duty of a Minister ('உழையிருந்தான் கடன்')",
+      "Speaking Truth to Power ('உறுதி கூறல்')",
+      "An Ignorant Ruler ('அறியான்')"
+    ]
+  },
+  "Negative_Prompt": "minister giving up, king listening happily, text on the bricks, cartoonish.",
+  "Hyperparameters": {
+    "variant": "pro",
+    "steps": 50,
+    "cfg_scale": 8,
+    "seed": "Explore variations for the golden bricks of advice."
+  }
+}

@@ -1,0 +1,39 @@
+{
+  "Kural_Info": {
+    "Number": 604,
+    "Chapter": "மடியின்மை (Unsluggishness)",
+    "Tamil_Text": "குடிமடிந்து குற்றம் பெருகும் மடிமடிந்து மாண்ட உஞற்றி லவர்க்கு.",
+    "English_Meaning": "Family (greatness) will be destroyed, and faults will increase, in those men who give way to laziness, and put forth no dignified exertions."
+  },
+  "Flux_Optimized_Prompt": {
+    "Layered_Composition": {
+      "Foreground": "A person is shown completely overcome by laziness ('மடிமடிந்து'), sinking into a swamp of sloth and inaction ('மாண்ட உஞற்றிலவர்').",
+      "Midground": "As they sink, two things happen simultaneously. The noble house representing their family in the background crumbles into ruin ('குடிமடிந்து'). At the same time, thorny, ugly vines representing faults and vices ('குற்றம்') begin to grow rapidly all over the person and the landscape.",
+      "Background": "A once-proud estate is now a ruin overgrown with thorny vines, a direct result of the person's lack of dignified effort."
+    },
+    "Art_Direction": {
+      "Subject_and_Action": "For those who are consumed by laziness and fail to make noble efforts, their family honor will be destroyed and their faults will multiply.",
+      "Symbolic_Motifs": "Sinking into the swamp is a metaphor for being consumed by sloth. The crumbling house (family ruin) and the growing thorns (multiplying faults) are the dual consequences.",
+      "Mood_and_Emotion": "Decaying, corrupting, destructive, a dual tragedy.",
+      "Lighting_and_Color": "A murky, sickly, swamp-like light. The colors are dominated by muddy browns, stagnant greens, and the dark purple of the thorny vines.",
+      "Technical_Cues": {
+        "Camera": "A wide shot capturing the sinking person, the crumbling house, and the encroaching thorns in a single frame of decay.",
+        "Resolution": "8K, with a dark, gritty aesthetic.",
+        "Lighting": "Low-key, oppressive lighting.",
+        "Art_Genre": "Dark fantasy, symbolic horror."
+      },
+      "Cultural_Anchors": [
+        "Family Ruin ('குடி மடிந்து')",
+        "Faults Increasing ('குற்றம் பெருகும்')",
+        "The consequence of laziness and lack of effort."
+      ]
+    },
+    "Negative_Prompt": "active person, strong house, beautiful flowers instead of thorns, text artifacts.",
+    "Hyperparameters": {
+      "variant": "dev",
+      "steps": 45,
+      "cfg_scale": 9,
+      "seed": "Explore variations for the design of the thorny vines."
+    }
+  }
+}

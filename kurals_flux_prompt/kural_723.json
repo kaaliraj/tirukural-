@@ -1,0 +1,39 @@
+{
+  "Kural_Info": {
+    "Number": 723,
+    "Chapter": "அவையஞ்சாமை (Not to dread the Council)",
+    "Tamil_Text": "பகையகத்துச் சாவார் எளியர் அரியர் அவையகத்து அஞ்சா தவர்.",
+    "English_Meaning": "Many indeed may (fearlessly) die in the presence of (their) foes; (but) few are those who are fearless in the assembly (of the learned)."
+  },
+  "Flux_Optimized_Prompt": {
+    "Layered_Composition": {
+      "Foreground": "A split composition. On the left, a vast battlefield ('பகையகத்து') is shown, filled with countless warriors who are bravely facing death. This is presented as common ('எளியர்').",
+      "Midground": "On the right, a grand assembly of the wise is shown. In the center of this assembly is a lone speaker, standing firm and speaking fearlessly ('அவையகத்து அஞ்சாதவர்'). This person is depicted as being surrounded by a rare, brilliant light, signifying that their courage is extremely rare ('அரியர்').",
+      "Background": "The image contrasts the commonness of physical courage with the rarity of intellectual courage."
+    },
+    "Art_Direction": {
+      "Subject_and_Action": "Many men have the courage to die in battle. Far rarer is the man who has the courage to speak without fear in a learned assembly.",
+      "Symbolic_Motifs": "The sheer number of brave soldiers on the left contrasts with the lone, rare speaker on the right. The speaker's brilliant, rare light shows their special value.",
+      "Mood_and_Emotion": "Contrasting two types of courage; valuing intellectual bravery over physical bravery.",
+      "Lighting_and_Color": "The battlefield is lit with the harsh, chaotic light of war. The assembly is lit with a calm, intelligent light, but the speaker themself is the source of a uniquely brilliant aura.",
+      "Technical_Cues": {
+        "Camera": "A balanced, wide diptych that allows the viewer to compare the scale and nature of the two scenes.",
+        "Resolution": "8K, cinematic.",
+        "Lighting": "Contrasting lighting schemes.",
+        "Art_Genre": "Epic historical painting."
+      }
+    },
+    "Cultural_Anchors": [
+      "Many die in battle ('பகையகத்துச் சாவார் எளியர்')",
+      "Few are fearless in assembly ('அவையகத்து அஞ்சாதவர் அரியர்')",
+      "Intellectual courage as a higher virtue."
+    ]
+  },
+  "Negative_Prompt": "cowardly soldiers, a scared speaker, text artifacts.",
+  "Hyperparameters": {
+    "variant": "pro",
+    "steps": 50,
+    "cfg_scale": 8,
+    "seed": "Explore variations for the speaker's rare light."
+  }
+}

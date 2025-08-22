@@ -1,0 +1,39 @@
+{
+  "Kural_Info": {
+    "Number": 639,
+    "Chapter": "அமைச்சு (The Office of Minister of state)",
+    "Tamil_Text": "பழுதெண்ணும் மந்திரியின் பக்கததுள் தெவ்வோர் எழுபது கோடி உறும்.",
+    "English_Meaning": "A minister at his side who intends (his) ruin is worse than seventy crores of enemies."
+  },
+  "Flux_Optimized_Prompt": {
+    "Layered_Composition": {
+      "Foreground": "A king sits on his throne, seemingly secure.",
+      "Midground": "At his side stands a single minister who is plotting evil ('பழுதெண்ணும் மந்திரி'). This minister casts a monstrous, terrifying shadow that is far larger and more menacing than he is.",
+      "Background": "In the far distance, across a plain, a vast army of enemies ('தெவ்வோர்') is visible. However, the shadow cast by the single treacherous minister is so immense that it completely dwarfs the entire enemy army, which is stated to be seventy crore strong ('எழுபது கோடி')."
+    },
+    "Art_Direction": {
+      "Subject_and_Action": "A single treacherous minister at one's side is a far greater threat than seventy crore external enemies.",
+      "Symbolic_Motifs": "The disproportionately massive and monstrous shadow of the single minister is the key visual. It allows a direct comparison of the scale of the threat, showing the internal enemy to be far worse than the external one.",
+      "Mood_and_Emotion": "Treacherous, dangerous, a greater threat from within, paranoid.",
+      "Lighting_and_Color": "A sinister, dramatic light that allows the minister to cast a huge, terrifying shadow. The distant army is almost insignificant in comparison.",
+      "Technical_Cues": {
+        "Camera": "A wide, distorted lens shot that exaggerates the size of the minister's shadow relative to the distant army.",
+        "Resolution": "8K, cinematic, with a focus on the menacing shadow.",
+        "Lighting": "Low-key, high-contrast lighting to create a sense of intrigue and danger.",
+        "Art_Genre": "Dark fantasy, political thriller aesthetic."
+      }
+    },
+    "Cultural_Anchors": [
+      "The Treacherous Minister ('பழுதெண்ணும் மந்திரி')",
+      "Seventy Crore Enemies ('எழுபது கோடி தெவ்வோர்')",
+      "The danger of the enemy within."
+    ]
+  },
+  "Negative_Prompt": "a loyal minister, a small shadow, a close and threatening army, text artifacts.",
+  "Hyperparameters": {
+    "variant": "pro",
+    "steps": 50,
+    "cfg_scale": 9,
+    "seed": "Explore variations for the monstrous shadow design."
+  }
+}

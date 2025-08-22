@@ -1,0 +1,39 @@
+{
+  "Kural_Info": {
+    "Number": 209,
+    "Chapter": "தீவினையச்சம் (Dread of Evil Deeds)",
+    "Tamil_Text": "தன்னைத்தான் காதல னாயின் எனைத்தொன்றும்துன்னற்க தீவினைப் பால்.",
+    "English_Meaning": "If a man love himself, let him not commit any sin, however small."
+  },
+  "Flux_Optimized_Prompt": {
+    "Layered_Composition": {
+      "Foreground": "A person is shown lovingly tending to a beautiful, glowing, miniature version of themselves, as if it were a precious treasure. This represents 'loving oneself' ('தன்னைத் தான் காதலன்').",
+      "Midground": "A small, seemingly insignificant dark thorn, representing a 'tiny evil deed' ('எனைத்து ஒன்றும் தீவினை'), drifts towards the precious miniature self.",
+      "Background": "The person acts with extreme urgency and care to shield their miniature self from the thorn, not allowing it to even come near ('துன்னற்க'). Their expression shows that they understand even the tiniest touch from this evil will cause immense damage to the one they love (themselves)."
+    },
+    "Art_Direction": {
+      "Subject_and_Action": "If you truly love yourself, you must protect yourself from committing any evil, no matter how small, with the same urgency you would use to protect a loved one from harm.",
+      "Symbolic_Motifs": "The 'miniature self' is a metaphor for one's own soul or well-being. The smallness of the thorn emphasizes that no evil is too insignificant to be avoided. The act of shielding is one of love and self-preservation.",
+      "Mood_and_Emotion": "Self-love, protective, vigilant, cautionary.",
+      "Lighting_and_Color": "A warm, loving, golden light emanates from the person's hands as they protect their miniature self. The thorn is starkly black. The scene is intimate and heartfelt.",
+      "Technical_Cues": {
+        "Camera": "A close-up shot focusing on the hands shielding the miniature self from the approaching thorn.",
+        "Resolution": "8K, ultra-realistic, with a focus on the loving and protective expression of the person.",
+        "Lighting": "Soft, warm lighting to create a mood of love and care.",
+        "Art_Genre": "Symbolic realism, emotional portraiture."
+      },
+      "Cultural_Anchors": [
+        "Loving oneself (தன்னைத் தான் காதலன்)",
+        "Not approaching evil deeds (தீவினைப் பால் துன்னற்க)",
+        "Even a tiny thing (எனைத்து ஒன்றும்)"
+      ]
+    },
+    "Negative_Prompt": "person harming themselves, person ignoring the thorn, text artifacts, large weapon.",
+    "Hyperparameters": {
+      "variant": "dev",
+      "steps": 40,
+      "cfg_scale": 8,
+      "seed": "Explore the design of the glowing 'miniature self'."
+    }
+  }
+}

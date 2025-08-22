@@ -1,0 +1,39 @@
+{
+  "Kural_Info": {
+    "Number": 168,
+    "Chapter": "అழுக்காறாமை (Not Envying)",
+    "Tamil_Text": "అழுக்காறு எனஒரு பாவி திருச்செற்றுத்தீயுழி உய்த்து விடும்.",
+    "English_Meaning": "Envy will destroy (a man's) wealth (in his world) and drive him into the pit of fire (in the world to come)."
+  },
+  "Flux_Optimized_Prompt": {
+    "Layered_Composition": {
+      "Foreground": "Envy ('అழுக்காறு') is personified as a singular, powerful, and malevolent sinner or demon ('ஒரு பாவி').",
+      "Midground": "This demon of Envy is shown performing two destructive acts upon a person. First, it attacks and destroys all the person's worldly wealth and prosperity ('திருச் செற்று'), turning their riches to dust.",
+      "Background": "Second, having destroyed their happiness in this world, the demon is shown grabbing the person's soul and forcefully casting it down into a terrible, fiery hell or a world of suffering ('தீயுழி உய்த்து விடும்'), ensuring their ruin in the next life as well."
+    },
+    "Art_Direction": {
+      "Subject_and_Action": "The personification of Envy as a singular, demonic force that actively destroys a person's wealth in this life and then condemns them to a fiery hell in the next.",
+      "Symbolic_Motifs": "Envy as a single, powerful demon shows its focused and absolute destructive power. The two-stage destruction—first the wealth, then the soul—is a key narrative element.",
+      "Mood_and_Emotion": "Destructive, demonic, damning, total ruin.",
+      "Lighting_and_Color": "The demon of Envy is wreathed in a sickly, green-black, corrupting flame. The destruction of wealth is a shower of sparks and dust. The pit of fire is a terrifying, hellish vortex of red and orange.",
+      "Technical_Cues": {
+        "Camera": "A dynamic, epic shot that shows the demon of Envy performing its two-stage act of destruction upon its victim.",
+        "Resolution": "8K, hyper-realistic, with a terrifying and powerful design for the personified Envy.",
+        "Lighting": "Dark, hellish, and destructive lighting.",
+        "Art_Genre": "Epic dark fantasy, mythological horror."
+      },
+      "Cultural_Anchors": [
+        "Envy, the sinner (అழுக்காறு என ஒரு பாவி)",
+        "It destroys wealth (திருச் செற்று)",
+        "And drives one into the evil way/fiery hell (தீயுழி உய்த்து விடும்)"
+      ]
+    },
+    "Negative_Prompt": "friendly demon, person escaping, text artifacts, beautiful hell.",
+    "Hyperparameters": {
+      "variant": "pro",
+      "steps": 55,
+      "cfg_scale": 10,
+      "seed": "Explore the design of the personified 'demon of Envy'."
+    }
+  }
+}

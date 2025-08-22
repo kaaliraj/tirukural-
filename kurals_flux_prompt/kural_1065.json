@@ -1,0 +1,39 @@
+{
+  "Kural_Info": {
+    "Number": 1065,
+    "Chapter": "இரவச்சம் (The Dread of Mendicancy)",
+    "Tamil_Text": "தெண்ணீர் அடுபுற்கை ஆயினும் தாள்தந்ததுஉண்ணலின் ஊங்கினிய தில்.",
+    "English_Meaning": "Even thin gruel is ambrosia to him who has obtained it by labour."
+  },
+  "Flux_Optimized_Prompt": {
+    "Layered_Composition": {
+      "Foreground": "A hardworking person is shown eating a very simple meal: a watery, thin gruel ('தெள்நீர் அடுபுற்கை').",
+      "Midground": "However, because this meal was earned through their own effort ('தாள் தந்தது'), the simple gruel is shown glowing with the divine, golden light of ambrosia. The person is eating it with an expression of sublime bliss.",
+      "Background": "For contrast, a king is shown at a lavish feast, looking bored and unsatisfied with his rich food, which has no special glow because it was not earned with his own hands. This shows there is 'nothing sweeter' ('ஊங்கு இனியது இல்') than the food of one's own labor."
+    },
+    "Art_Direction": {
+      "Subject_and_Action": "There is no sweeter pleasure than eating food, however simple, that has been earned through one's own personal effort.",
+      "Symbolic_Motifs": "The magical transformation of the simple gruel into glowing ambrosia is the key visual. The contrast between the blissful laborer and the bored king highlights the difference between earned and unearned sustenance.",
+      "Mood_and_Emotion": "Blissful, satisfying, dignified, sweet.",
+      "Lighting_and_Color": "The primary light source is the glowing bowl of gruel, which casts a warm, divine light on the laborer's face. The king's feast is brightly lit but lacks this special, inner glow.",
+      "Technical_Cues": {
+        "Camera": "A close-up on the laborer's face, capturing their expression of sublime satisfaction, with the glowing bowl prominent.",
+        "Resolution": "8K, ultra-realistic, with a focus on the contrasting emotions.",
+        "Lighting": "Symbolic lighting that equates earned food with divine nectar.",
+        "Art_Genre": "Magical realism, social realism."
+      },
+      "Cultural_Anchors": [
+        "Food earned by effort (தாள் தந்தது)",
+        "Even if it's thin gruel (தெள்நீர் அடுபுற்கை)",
+        "Nothing is sweeter (ஊங்கு இனியது இல்)"
+      ]
+    },
+    "Negative_Prompt": "sad laborer, happy king, text artifacts, glowing feast.",
+    "Hyperparameters": {
+      "variant": "pro",
+      "steps": 50,
+      "cfg_scale": 7,
+      "seed": "Explore the visual of the gruel glowing like ambrosia."
+    }
+  }
+}

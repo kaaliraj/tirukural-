@@ -1,0 +1,39 @@
+{
+  "Kural_Info": {
+    "Number": 536,
+    "Chapter": "பொச்சாவாமை (Unforgetfulness)",
+    "Tamil_Text": "இழுக்காமை யார்மாட்டும் என்றும் வழுக்காமை வாயின் அதுவொப்பது இல்.",
+    "English_Meaning": "There is nothing comparable with the possession of unfailing thoughtfulness at all times; and towards all persons."
+  },
+  "Flux_Optimized_Prompt": {
+    "Layered_Composition": {
+      "Foreground": "A wise figure, like a celestial guardian, is depicted. Their mind radiates a constant, 360-degree field of pure, vigilant light. This is the light of unforgetfulness ('இழுக்காமை').",
+      "Midground": "This light touches everyone and everything around them ('யார்மாட்டும் என்றும்')—friends, foes, family, strangers. The light acts as a perfect shield, preventing any mistakes or slips in conduct ('வழுக்காமை').",
+      "Background": "In the background, other treasures like gold, crowns, and jewels are shown, but they all appear dull and lifeless compared to the supreme, glowing virtue of constant vigilance."
+    },
+    "Art_Direction": {
+      "Subject_and_Action": "There is no greater virtue or possession than unwavering, constant mindfulness towards all people at all times.",
+      "Symbolic_Motifs": "The 360-degree field of vigilant light is the central metaphor for constant, all-encompassing mindfulness. Its superiority over material treasures highlights that there is 'nothing comparable' ('அதுவொப்பது இல்').",
+      "Mood_and_Emotion": "Supreme, vigilant, flawless, all-encompassing, enlightened.",
+      "Lighting_and_Color": "A brilliant, pure white or crystalline light radiates from the central figure, dominating the scene. The colors are pure and bright, signifying a flawless state of being."
+    },
+    "Technical_Cues": {
+      "Camera": "A centered, symmetrical shot that emphasizes the perfect, all-encompassing nature of this virtue.",
+      "Resolution": "8K, with beautiful, ethereal light aura and field effects.",
+      "Lighting": "The central figure is the source of all light in the scene.",
+      "Art_Genre": "Metaphysical art, spiritual illustration."
+    },
+    "Cultural_Anchors": [
+      "Unfailing Mindfulness ('இழுக்காமை')",
+      "At all times, to all people ('யார்மாட்டும் என்றும்')",
+      "The incomparable virtue."
+    ]
+  },
+  "Negative_Prompt": "flickering light, person being forgetful, dark scene, text artifacts, cartoonish.",
+  "Hyperparameters": {
+    "variant": "pro",
+    "steps": 50,
+    "cfg_scale": 7,
+    "seed": "Explore variations for the 360-degree light field."
+  }
+}

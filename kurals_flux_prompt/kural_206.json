@@ -1,0 +1,39 @@
+{
+  "Kural_Info": {
+    "Number": 206,
+    "Chapter": "தீவினையச்சம் (Dread of Evil Deeds)",
+    "Tamil_Text": "தீப்பால தான்பிறர்கண் செய்யற்க நோய்ப்பாலதன்னை அடல்வேண்டா தான்.",
+    "English_Meaning": "Let him not do evil to others who desires not that sorrows should pursue him."
+  },
+  "Flux_Optimized_Prompt": {
+    "Layered_Composition": {
+      "Foreground": "A person is about to inflict harm on another ('தீப்பால தான் பிறர்கண் செய்யற்க'). Their hand is raised to strike.",
+      "Midground": "In that very moment, a ghostly, premonitory vision appears. It shows the same harm they are about to inflict now returning to them in the future. A spectral version of the sorrowful disease ('நோய்ப் பால') they are creating is shown already beginning to afflict their own future self.",
+      "Background": "A timeless, karmic space, showing that cause and effect are linked outside of linear time. The person's choice in the present is directly shaping their future suffering."
+    },
+    "Art_Direction": {
+      "Subject_and_Action": "A person who does not wish to be afflicted by sorrowful calamities in the future must refrain from inflicting them on others in the present.",
+      "Symbolic_Motifs": "The premonition is the key. It's a direct visualization of the karmic law of cause and effect. The sorrow ('நோய்') is not just a random future event; it is the *exact same* evil they are currently perpetrating.",
+      "Mood_and_Emotion": "Premonition, cautionary, karmic link, impending consequence.",
+      "Lighting_and_Color": "The present moment is in clear, sharp reality. The vision of the future is ethereal, ghostly, and filled with a sickly, sorrowful light. The palette should make the connection between the present act and future suffering undeniable.",
+      "Technical_Cues": {
+        "Camera": "A close-up on the aggressor's face, capturing their moment of hesitation as they see the karmic premonition.",
+        "Resolution": "8K, ultra-realistic, with strong ethereal and transparency effects for the vision.",
+        "Lighting": "Dramatic lighting that separates the real from the premonition.",
+        "Art_Genre": "Psychological thriller style, with supernatural elements."
+      },
+      "Cultural_Anchors": [
+        "Evil deeds (தீப்பால)",
+        "Sorrowful calamities/diseases (நோய்ப் பால)",
+        "The desire to not be afflicted (அடல் வேண்டாதான்)"
+      ]
+    },
+    "Negative_Prompt": "person happily inflicting harm, no vision, text artifacts, cartoonish ghost.",
+    "Hyperparameters": {
+      "variant": "pro",
+      "steps": 50,
+      "cfg_scale": 8,
+      "seed": "Explore the visual appearance of the karmic premonition."
+    }
+  }
+}

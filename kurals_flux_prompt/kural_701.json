@@ -1,0 +1,39 @@
+{
+  "Kural_Info": {
+    "Number": 701,
+    "Chapter": "குறிப்பறிதல் (The Knowledge of Indications)",
+    "Tamil_Text": "கூறாமை நோக்கக் குறிப்பறிவான் எஞ்ஞான்றும் மாறாநீர் வையக் கணி.",
+    "English_Meaning": "The minister who by looking (at the king) understands his mind without being told (of it), will be a perpetual ornament to the world which is surrounded by a never-drying sea."
+  },
+  "Flux_Optimized_Prompt": {
+    "Layered_Composition": {
+      "Foreground": "A wise minister is shown standing before his king. The king has not spoken a word, but the minister is looking at his face ('நோக்க') and understanding his thoughts perfectly.",
+      "Midground": "The minister's ability to read these unstated thoughts ('கூறாமை குறிப்பறிவான்') is visualized as him being a beautiful, radiant, flawless pearl that adorns the world.",
+      "Background": "The world is depicted as a great kingdom surrounded by a vast, unchanging ocean ('மாறாநீர் வையக்கு'), and this pearl of a minister ('அணி') is its most prized and beautiful ornament, bringing it glory."
+    },
+    "Art_Direction": {
+      "Subject_and_Action": "The person who can understand another's thoughts merely by looking at their face, without a word being spoken, is a perpetual ornament to the world.",
+      "Symbolic_Motifs": "The minister personified as a giant, flawless, glowing pearl is the central metaphor. This pearl adorns the world, showing the immense value of this perceptive skill.",
+      "Mood_and_Emotion": "Perceptive, brilliant, ornamental, precious, wise.",
+      "Lighting_and_Color": "A beautiful, pearlescent, iridescent light radiates from the minister, illuminating the scene. The colors are soft, majestic, and oceanic.",
+      "Technical_Cues": {
+        "Camera": "An epic, wide shot that shows the minister as a giant pearl, a true ornament to the world-kingdom.",
+        "Resolution": "8K, with a mythical and ethereal quality.",
+        "Lighting": "Soft, radiant, pearlescent lighting.",
+        "Art_Genre": "High-fantasy art, symbolic portraiture."
+      }
+    },
+    "Cultural_Anchors": [
+      "Reading unspoken thoughts ('கூறாமை நோக்கக் குறிப்பறிவான்')",
+      "An Ornament to the World ('வையக்கு அணி')",
+      "The world surrounded by the unchanging sea ('மாறாநீர் வையகம்')"
+    ]
+  },
+  "Negative_Prompt": "minister looking confused, a dull pearl, text artifacts, cartoonish.",
+  "Hyperparameters": {
+    "variant": "pro",
+    "steps": 50,
+    "cfg_scale": 8,
+    "seed": "Explore variations for the pearlescent glow."
+  }
+}

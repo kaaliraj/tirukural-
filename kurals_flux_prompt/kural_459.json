@@ -1,0 +1,39 @@
+{
+  "Kural_Info": {
+    "Number": 459,
+    "Chapter": "சிற்றினஞ்சேராமை (Avoiding mean Associations)",
+    "Tamil_Text": "மனநலத்தின் ஆகும் மறுமைமற் றஃதும் இனநலத்தின் ஏமாப் புடைத்து.",
+    "English_Meaning": "Future bliss is (the result) of goodness of mind; and even this acquires strength from the society of the good."
+  },
+  "Flux_Optimized_Prompt": {
+    "Layered_Composition": {
+      "Foreground": "A soul is ascending on a path of light towards a blissful afterlife ('மறுமை'). The path itself is generated from the person's own good mind ('மனநலத்தின் ஆகும்').",
+      "Midground": "However, the path is fragile and beset by shadowy winds that threaten to break it. A group of virtuous, glowing companions on earth ('இனநலம்') are shown acting as anchors, holding down the path with ropes of light and giving it strength and stability ('ஏமாப்புடைத்து').",
+      "Background": "A beautiful, celestial realm representing the afterlife, which is only reachable because of the combined strength of the individual's virtue and their companions' support."
+    },
+    "Art_Direction": {
+      "Subject_and_Action": "Goodness of mind creates the path to the afterlife, but even that path is made secure and strong by the support of good company.",
+      "Symbolic_Motifs": "The path of light is the way to the afterlife, created by a good mind. The virtuous companions acting as anchors provide the necessary strength and protection for this spiritual journey.",
+      "Mood_and_Emotion": "Spiritual, supportive, secure, communal, transcendent.",
+      "Lighting_and_Color": "The path and the celestial realm are made of pure, divine white and gold light. The shadowy winds are dark and threatening. The companions on earth glow with a protective, anchoring light."
+    },
+    "Technical_Cues": {
+      "Camera": "A wide, epic shot showing the journey from the earthly realm to the celestial, emphasizing the role of the companions as anchors.",
+      "Resolution": "8K, cinematic, with ethereal and dynamic effects.",
+      "Lighting": "The path of light is the main light source, illuminating the scene.",
+      "Art_Genre": "Spiritual fantasy art, metaphysical painting."
+    },
+    "Cultural_Anchors": [
+      "Good Mind creates the Afterlife ('மனநலத்தின் ஆகும் மறுமை')",
+      "Good Company provides Strength ('இனநலத்தின் ஏமாப்புடைத்து')",
+      "The role of community in spiritual salvation."
+    ]
+  },
+  "Negative_Prompt": "broken path, soul falling, dark afterlife, companions cutting the ropes, text artifacts.",
+  "Hyperparameters": {
+    "variant": "pro",
+    "steps": 50,
+    "cfg_scale": 8,
+    "seed": "Explore variations for the celestial afterlife realm."
+  }
+}

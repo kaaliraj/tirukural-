@@ -1,0 +1,33 @@
+{
+  "Kural_Info": {
+    "Number": 1000,
+    "Chapter": "பண்புடைமை (Courtesy)",
+    "Tamil_Text": "பண்பிலான் பெற்ற பெருஞ்செல்வம் நன்பால்கலந்தீமை யால்திரிந் தற்று.",
+    "English_Meaning": "The great wealth obtained by one who has no goodness will perish like pure milk spoilt by the impurity of the vessel."
+  },
+  "Flux_Optimized_Prompt": {
+    "Layered_Composition": {
+      "Foreground": "A magnificent golden vessel, symbolizing great wealth ('Perunchelvam'), is filled to the brim with pure, white milk ('Nanpaal').",
+      "Midground": "The vessel itself, however, is revealed to be made of a flawed, unclean material ('Panbilan'), perhaps unbaked clay or a tarnished, corrosive metal. Cracks and impurities are visible on its surface.",
+      "Background": "As a result of the impure vessel, the pure milk inside is shown curdling, turning sour, and spoiling ('Thirinthattru'), becoming utterly useless. The scene takes place in a grand but decaying treasury."
+    },
+    "Art_Direction": {
+      "Subject_and_Action": "A direct and powerful metaphor: great wealth in the possession of a person without good character is inevitably corrupted and ruined, just as pure milk is spoiled by a dirty container.",
+      "Symbolic_Motifs": "The pure milk represents wealth. The impure vessel represents the characterless owner. The spoiled milk represents the ruined potential of the wealth.",
+      "Mood_and_Emotion": "Wasteful, tragic, cautionary, a sense of corruption.",
+      "Lighting_and_Color": "The milk starts as pure white, and the gold of the vessel is bright, but the scene is dominated by sickly greens and yellows as the milk spoils. The lighting is dramatic, highlighting the process of decay."
+    },
+    "Technical_Cues": {
+      "Camera": "Macro close-up shot, focusing on the texture of the impure vessel and the curdling milk to make the spoilage visceral.",
+      "Resolution": "8K, hyper-realistic, with detailed fluid dynamics for the spoiling milk.",
+      "Lighting": "High-contrast lighting to emphasize the textures and the unappetizing nature of the spoiled milk.",
+      "Art_Genre": "Symbolic still life, with a hyper-realistic and almost unsettling quality."
+    },
+    "Cultural_Anchors": [
+      "பண்பிலான் (The characterless person)",
+      "பெருஞ்செல்வம் (Great wealth)",
+      "The milk and vessel metaphor (பால் பாத்திரம்)"
+    ]
+  },
+  "Negative_Prompt": "clean vessel, pure milk, happy owner, text artifacts, blurry, cartoonish."
+}

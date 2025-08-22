@@ -1,0 +1,39 @@
+{
+  "Kural_Info": {
+    "Number": 940,
+    "Chapter": "சூது (Gambling)",
+    "Tamil_Text": "இழத்தொறூஉம் காதலிக்கும் சூதேபோல் துன்பம் உழத்தொறூஉம் காதற்று உயிர்.",
+    "English_Meaning": "As the gambler loves (his vice) the more he loses by it, so does the soul love (the body) the more it suffers through it."
+  },
+  "Flux_Optimized_Prompt": {
+    "Layered_Composition": {
+      "Foreground": "A split composition. On the left, a gambler is shown losing everything at a game of dice. The more they lose ('இழத்தொறூஉம்'), the more crazed and intense their love for the game becomes ('காதலிக்கும் சூது').",
+      "Midground": "On the right, a soul is shown attached to a body that is experiencing great suffering and hardship ('துன்பம் உழத்தொறூஉம்').",
+      "Background": "In a direct parallel to the gambler, the more the body suffers, the more desperately and intensely the soul is shown to be clinging to it, loving its physical existence ('காதற்று உயிர்')."
+    },
+    "Art_Direction": {
+      "Subject_and_Action": "The soul's love for the body, which increases with suffering, is just like the gambler's love for the game, which increases with loss.",
+      "Symbolic_Motifs": "The parallel between the gambler's perverse love of loss and the soul's perverse love of its suffering body is the entire message. The increasing intensity of their love/attachment in the face of negative outcomes is the key.",
+      "Mood_and_Emotion": "Paradoxical, addictive, a commentary on attachment.",
+      "Lighting_and_Color": "The gambler's scene is dark, obsessive, and lit with a sickly light. The soul's scene is ethereal and spiritual, but also tragic, as it clings to its source of pain.",
+      "Technical_Cues": {
+        "Camera": "A side-by-side shot that focuses on the similar, intense, and irrational expressions of love on the faces of the gambler and the soul.",
+        "Resolution": "8K, with a strong psychological and metaphysical theme.",
+        "Lighting": "Contrasting but thematically similar lighting schemes.",
+        "Art_Genre": "Surrealism, with a philosophical message."
+      }
+    },
+    "Cultural_Anchors": [
+      "The gambler loves the game more, the more he loses",
+      "The soul loves the body more, the more it suffers",
+      "The nature of irrational attachment."
+    ]
+  },
+  "Negative_Prompt": "a gambler hating his losses, a soul wanting to leave the body, text artifacts.",
+  "Hyperparameters": {
+    "variant": "pro",
+    "steps": 50,
+    "cfg_scale": 8,
+    "seed": "Explore variations for the soul clinging to the body."
+  }
+}

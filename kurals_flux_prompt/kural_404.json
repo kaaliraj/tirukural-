@@ -1,0 +1,39 @@
+{
+  "Kural_Info": {
+    "Number": 404,
+    "Chapter": "கல்லாமை (Ignorance)",
+    "Tamil_Text": "கல்லாதான் ஒட்பம் கழியநன் றாயினும் கொள்ளார் அறிவுடை யார்.",
+    "English_Meaning": "Although the natural knowledge of an unlearned man may be very good, the wise will not accept for true knowledge."
+  },
+  "Flux_Optimized_Prompt": {
+    "Layered_Composition": {
+      "Foreground": "An unlearned but naturally clever person ('கல்லாதான்') offers a rough, uncut diamond ('ஒட்பம்') to a group of wise gemologists ('அறிவுடையார்').",
+      "Midground": "The gemologists examine the diamond. While acknowledging its raw potential, they gently refuse it, pointing instead to a perfectly cut, multi-faceted, and brilliantly shining diamond on a nearby pedestal, which represents true, refined knowledge.",
+      "Background": "A workshop filled with tools for cutting and polishing gems, symbolizing the process of formal learning and refinement that turns raw intelligence into true wisdom."
+    },
+    "Art_Direction": {
+      "Subject_and_Action": "The wise do not accept raw, unrefined intelligence as true knowledge, even if it has some inherent value. True knowledge requires the structure and refinement of learning.",
+      "Symbolic_Motifs": "The uncut diamond is raw, natural intelligence. The perfectly cut diamond is refined, structured knowledge. The gemologists represent the truly wise, who can tell the difference.",
+      "Mood_and_Emotion": "Discerning, wise, intellectual, a subtle rejection.",
+      "Lighting_and_Color": "The scene is lit by the brilliant, scintillating light from the cut diamond. The uncut diamond has only a dull, internal gleam. The palette is clean and precise."
+    },
+    "Technical_Cues": {
+      "Camera": "Medium shot focusing on the interaction between the person offering the uncut gem and the wise ones who are refusing it.",
+      "Resolution": "8K, ultra-realistic, with detailed macro shots of the diamonds.",
+      "Lighting": "Complex lighting with caustics from the cut diamond, emphasizing its perfection.",
+      "Art_Genre": "Conceptual realism."
+    },
+    "Cultural_Anchors": [
+      "Raw intelligence ('ஒட்பம்') vs. True Knowledge",
+      "The discerning nature of the truly wise ('அறிவுடையார்')",
+      "The value of structured learning."
+    ]
+  },
+  "Negative_Prompt": "wise men accepting the uncut diamond, dull cut diamond, text artifacts, blurry.",
+  "Hyperparameters": {
+    "variant": "pro",
+    "steps": 50,
+    "cfg_scale": 8,
+    "seed": "Explore variations for the light refraction in the cut diamond."
+  }
+}

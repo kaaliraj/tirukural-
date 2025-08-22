@@ -1,0 +1,33 @@
+{
+  "Kural_Info": {
+    "Number": 975,
+    "Chapter": "பெருமை (Greatness)",
+    "Tamil_Text": "பெருமை யுடையவர் ஆற்றுவார் ஆற்றின்அருமை உடைய செயல்.",
+    "English_Meaning": "The man endowed with greatness true, Rare deeds in perfect wise will do."
+  },
+  "Flux_Optimized_Prompt": {
+    "Layered_Composition": {
+      "Foreground": "A truly great individual ('Perumai Udayavar') is depicted calmly and skillfully performing a monumental and difficult task ('Arumai Udaya Seyal')—such as perfectly carving a massive stone temple tower or navigating a ship through a treacherous storm.",
+      "Midground": "Others are shown in the background struggling with or failing at lesser versions of the same task, highlighting the unique capability of the great person.",
+      "Background": "An epic, awe-inspiring landscape that matches the scale of the difficult deed, such as a towering mountain range or a vast, stormy sea."
+    },
+    "Art_Direction": {
+      "Subject_and_Action": "Illustrating that the hallmark of greatness is the ability to perform difficult, rare, and valuable actions with skill and composure.",
+      "Symbolic_Motifs": "The sheer scale and difficulty of the task is the central element. The calm, focused demeanor of the great person contrasts with the struggle of others.",
+      "Mood_and_Emotion": "Awe-inspiring, capable, masterful, epic.",
+      "Lighting_and_Color": "Dramatic, cinematic lighting that highlights the action. God rays breaking through clouds or intense light from a forge could illuminate the scene. A palette of strong, primary colors to convey power and focus."
+    },
+    "Technical_Cues": {
+      "Camera": "Ultra-wide cinematic shot, low angle, to emphasize the epic scale of the action and the mastery of the individual.",
+      "Resolution": "8K, hyper-realistic, capturing dynamic action, weather effects, and fine details of the craft.",
+      "Lighting": "High-contrast, volumetric lighting, lens flares, creating a heroic and cinematic feel.",
+      "Art_Genre": "Epic historical realism, similar to a grand cinematic matte painting."
+    },
+    "Cultural_Anchors": [
+      "பெருமை (Greatness)",
+      "அருமை உடைய செயல் (Deeds of rare excellence)",
+      "The value of skillful action (வினைத்திறன்)"
+    ]
+  },
+  "Negative_Prompt": "struggling main character, small-scale task, calm background, modern tools, text artifacts, blurry, cartoonish."
+}

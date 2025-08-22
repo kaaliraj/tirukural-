@@ -1,0 +1,39 @@
+{
+  "Kural_Info": {
+    "Number": 504,
+    "Chapter": "தெரிந்துதெளிதல் (Selection and Confidence)",
+    "Tamil_Text": "குணம்நாடிக் குற்றமும் நாடி அவற்றுள் மிகைநாடி மிக்க கொளல்.",
+    "English_Meaning": "Let (a king) consider (a man's) good qualities, as well as his faults, and then judge (of his character) by that which prevails."
+  },
+  "Flux_Optimized_Prompt": {
+    "Layered_Composition": {
+      "Foreground": "A wise judge or king is shown using a large, ornate balance scale to assess a person's character.",
+      "Midground": "On one pan of the scale, they place symbols of the person's good qualities ('குணம்'), represented by glowing white stones. On the other pan, they place symbols of their faults ('குற்றம்'), represented by dark, jagged rocks.",
+      "Background": "The judge is closely observing which side weighs more ('மிகைநாடி'). The image captures the moment the scale tips decisively towards the side of good qualities, and the judge nods in approval, accepting the person based on their predominant nature ('மிக்க கொளல்')."
+    },
+    "Art_Direction": {
+      "Subject_and_Action": "The process of judging a person's character by weighing both their virtues and their faults, and making a decision based on which side is greater.",
+      "Symbolic_Motifs": "The balance scale is the central metaphor. The glowing stones (virtues) and dark rocks (faults) are the symbolic weights being assessed.",
+      "Mood_and_Emotion": "Judicious, balanced, discerning, fair, analytical.",
+      "Lighting_and_Color": "Clear, neutral light of justice. The white stones of virtue emit a soft, positive glow, while the dark rocks of fault absorb light. The tipping of the scale is the key moment.",
+      "Technical_Cues": {
+        "Camera": "A centered shot focusing on the balance scale and the judge's discerning expression.",
+        "Resolution": "8K, with detailed textures for the stones and rocks.",
+        "Lighting": "Balanced lighting that clearly illuminates both sides of the scale.",
+        "Art_Genre": "Allegorical realism."
+      }
+    },
+    "Cultural_Anchors": [
+      "Weighing Virtues ('குணம் நாடி') and Faults ('குற்றம் நாடி')",
+      "Judging by the majority ('மிகைநாடி')",
+      "Fair and balanced assessment of character."
+    ]
+  },
+  "Negative_Prompt": "broken scale, only looking at faults, text artifacts, cartoonish rocks, dark scene.",
+  "Hyperparameters": {
+    "variant": "pro",
+    "steps": 45,
+    "cfg_scale": 8,
+    "seed": "Explore variations for the design of the scale."
+  }
+}

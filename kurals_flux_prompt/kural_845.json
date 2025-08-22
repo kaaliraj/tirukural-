@@ -1,0 +1,39 @@
+{
+  "Kural_Info": {
+    "Number": 845,
+    "Chapter": "புல்லறிவாண்மை (Ignorance)",
+    "Tamil_Text": "கல்லாத மேற்கொண் டொழுகல் கசடற வல்லதூஉம் ஐயம் தரும்.",
+    "English_Meaning": "Fools pretending to know what has not been read (by them) will rouse suspicion even as to what they have thoroughly mastered."
+  },
+  "Flux_Optimized_Prompt": {
+    "Layered_Composition": {
+      "Foreground": "A person is shown holding two objects. In one hand, they hold a solid, glowing, golden sphere, representing a subject they have truly and faultlessly mastered ('கசடற வல்லது').",
+      "Midground": "In their other hand, they are pretending to hold another sphere, but it is a fake, poorly made imitation made of crumbling clay, representing a subject they have not learned but are pretending to know ('கல்லாத மேற்கொண்டொழுகல்').",
+      "Background": "A wise observer is looking on. Because the person is presenting the fake, crumbling sphere with the same confidence as the real one, the observer is now looking with suspicion ('ஐயம் தரும்') at both spheres. The presence of the fake has cast doubt on what is real."
+    },
+    "Art_Direction": {
+      "Subject_and_Action": "Pretending to know what you haven't learned will cast doubt even on the things you genuinely know well.",
+      "Symbolic_Motifs": "The golden sphere of true knowledge versus the crumbling clay sphere of pretended knowledge is the key visual. The observer's suspicious gaze directed at both spheres is the result.",
+      "Mood_and_Emotion": "Deceptive, undermining, suspicious.",
+      "Lighting_and_Color": "The golden sphere glows brightly, but the presence of the dull clay sphere and the suspicious observer casts a doubtful shadow over the whole scene.",
+      "Technical_Cues": {
+        "Camera": "A shot that includes the pretender with their two spheres and the suspicious observer, telling the whole story.",
+        "Resolution": "8K, with a focus on the different textures of gold and crumbling clay.",
+        "Lighting": "Lighting that creates a sense of doubt and suspicion.",
+        "Art_Genre": "Symbolic realism."
+      },
+      "Cultural_Anchors": [
+        "Pretending to know what one has not learned ('கல்லாத மேற்கொண்டொழுகல்')",
+        "Casting doubt on what one truly knows ('வல்லதூஉம் ஐயம் தரும்')",
+        "The danger of intellectual dishonesty."
+      ]
+    },
+    "Negative_Prompt": "a person only holding a golden sphere, text artifacts, cartoonish.",
+    "Hyperparameters": {
+      "variant": "pro",
+      "steps": 50,
+      "cfg_scale": 8,
+      "seed": "Explore variations for the crumbling clay sphere."
+    }
+  }
+}

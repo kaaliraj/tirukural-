@@ -1,0 +1,39 @@
+{
+  "Kural_Info": {
+    "Number": 141,
+    "Chapter": "பிறனில் விழையாமை (Not coveting another's Wife)",
+    "Tamil_Text": "பிறன்பொருளாள் பெட்டொழுகும் பேதைமை ஞாலத்துஅறம்பொருள் கண்டார்கண் இல்.",
+    "English_Meaning": "The folly of desiring her who is the property of another will not be found in those who know (the attributes of) virtue and (the rights of) property."
+  },
+  "Flux_Optimized_Prompt": {
+    "Layered_Composition": {
+      "Foreground": "A wise and virtuous person ('அறம் பொருள் கண்டார்') is shown walking a straight and clear path.",
+      "Midground": "Along the side of the path, a temptation appears: a beautiful woman who is clearly another's wife ('பிறன் பொருளாள்'). This temptation is depicted as a beautiful but dangerous, thorny rose bush blocking a side path.",
+      "Background": "The wise person, because of their deep understanding of virtue and property, does not even glance at the temptation. They see the folly ('பேதைமை') of that path and walk straight past it without a moment's hesitation. The desire is completely absent in them ('இல்')."
+    },
+    "Art_Direction": {
+      "Subject_and_Action": "The foolishness of desiring another's wife is a temptation that simply does not exist for those who have a deep and true understanding of virtue and justice.",
+      "Symbolic_Motifs": "The thorny rose bush represents something beautiful but wrongful and painful to take. The wise person's complete lack of interest—not a struggle, but a simple non-reaction—is the key to showing their mastery.",
+      "Mood_and_Emotion": "Incorruptible, wise, discerning, pure, disciplined.",
+      "Lighting_and_Color": "The path of the wise is illuminated with a clear, pure, white light. The thorny rose of temptation might have an alluring color, but it is also surrounded by dark, dangerous shadows that the wise person clearly perceives.",
+      "Technical_Cues": {
+        "Camera": "A tracking shot that follows the wise person as they walk calmly and resolutely past the dangerous temptation without giving it a second look.",
+        "Resolution": "8K, ultra-realistic, focusing on the wise person's serene and untempted expression.",
+        "Lighting": "The wise person is lit by their own inner light of wisdom, which keeps them focused on their correct path.",
+        "Art_Genre": "Symbolic realism, allegorical art."
+      },
+      "Cultural_Anchors": [
+        "Desiring another's wife (பிறன் பொருளாள் பெட்டொழுகும்)",
+        "Is a folly (பேதைமை)",
+        "Not found in those who know virtue and property (அறம் பொருள் கண்டார் கண் இல்)"
+      ]
+    },
+    "Negative_Prompt": "wise person being tempted, picking the rose, text artifacts.",
+    "Hyperparameters": {
+      "variant": "pro",
+      "steps": 50,
+      "cfg_scale": 8,
+      "seed": "Explore the design of the 'thorny rose of temptation'."
+    }
+  }
+}

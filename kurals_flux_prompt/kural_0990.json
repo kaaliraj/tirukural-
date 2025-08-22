@@ -1,0 +1,33 @@
+{
+  "Kural_Info": {
+    "Number": 990,
+    "Chapter": "சான்றாண்மை (Perfectness)",
+    "Tamil_Text": "சான்றவர் சான்றாண்மை குன்றின் இருநிலந்தான்தாங்காது மன்னோ பொறை.",
+    "English_Meaning": "The mighty earth its burthen to sustain must cease, If perfect virtue of the perfect men decrease."
+  },
+  "Flux_Optimized_Prompt": {
+    "Layered_Composition": {
+      "Foreground": "A group of 'Saandravar' (perfected people) are depicted as colossal, Atlas-like figures, literally holding up the world ('Irunilam').",
+      "Midground": "One of these figures shows a sign of faltering or their virtue diminishing ('Saandraanmai Kundrin'). Where their strength lessens, the part of the world they support begins to crack and crumble.",
+      "Background": "The vast cosmic expanse, showing the planet Earth, which is visibly burdened ('Porai') and fracturing under the strain of this moral failing."
+    },
+    "Art_Direction": {
+      "Subject_and_Action": "A powerful, literal visualization of the idea that the very stability of the world rests on the unwavering virtue of its most noble people.",
+      "Symbolic_Motifs": "The sages as cosmic pillars supporting the Earth is the central metaphor. The cracking Earth symbolizes the consequence of their virtue failing.",
+      "Mood_and_Emotion": "Cosmic, immense responsibility, cautionary, profound.",
+      "Lighting_and_Color": "Dramatic, cosmic lighting. The figures of the sages glow with a golden light of virtue. The crack in the Earth emits a dangerous, chaotic red light."
+    },
+    "Technical_Cues": {
+      "Camera": "Epic cosmic shot from space, showing the figures holding the planet, focusing on the point of failure.",
+      "Resolution": "8K, cosmic art, with photorealistic textures for the planet and ethereal effects for the figures.",
+      "Lighting": "Strong celestial light sources, with internal light from the sages and destructive light from the crack.",
+      "Art_Genre": "Mythological cosmic art, with a sense of immense scale and weight."
+    },
+    "Cultural_Anchors": [
+      "சான்றவர் (The Perfected Ones)",
+      "The world's burden (நிலத்தின் பொறை)",
+      "The foundational role of virtue in cosmic order"
+    ]
+  },
+  "Negative_Prompt": "small figures, stable earth, happy figures, text artifacts, cartoonish, modern clothing."
+}

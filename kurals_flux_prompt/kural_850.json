@@ -1,0 +1,39 @@
+{
+  "Kural_Info": {
+    "Number": 850,
+    "Chapter": "புல்லறிவாண்மை (Ignorance)",
+    "Tamil_Text": "உலகத்தார் உண்டென்பது இல்லென்பான் வையத்து அலகையா வைக்கப் படும்.",
+    "English_Meaning": "He who denies the existence of what the world believes in will be regarded as a demon on earth."
+  },
+  "Flux_Optimized_Prompt": {
+    "Layered_Composition": {
+      "Foreground": "A contrarian figure stands alone, shouting 'NO!' ('இλλென்பான்') at the sky.",
+      "Midground": "All around him, the rest of the world ('உலகத்தார்') is shown in agreement about a fundamental reality, like the existence of the sun ('உண்டென்பது'). They are all pointing at the sun and nodding.",
+      "Background": "Because this person denies what is real and accepted by all of humanity, he is transformed. His shadow is not human, but that of a grotesque, out-of-place demon ('அலகை'). He becomes an aberration, a ghost in the world of the living."
+    },
+    "Art_Direction": {
+      "Subject_and_Action": "The person who denies the common, accepted truths of the world will himself be regarded as an unnatural being, a demon on earth.",
+      "Symbolic_Motifs": "The entire world agreeing on a basic fact (the sun) highlights the perversity of the one who denies it. The demonic shadow is the literal representation of how he will be perceived.",
+      "Mood_and_Emotion": "Perverse, contrarian, demonic, out of place.",
+      "Lighting_and_Color": "The world of men is in a bright, sunny, normal light. The contrarian figure is lit in a way that makes him look strange and unnatural, and his shadow is a stark, terrifying black.",
+      "Technical_Cues": {
+        "Camera": "A shot that shows the contrarian and his demonic shadow, with the rest of the agreeing world in the background.",
+        "Resolution": "8K, with a strong, symbolic visual.",
+        "Lighting": "High-contrast lighting to emphasize the shadow.",
+        "Art_Genre": "Symbolic realism, with a touch of horror."
+      },
+      "Cultural_Anchors": [
+        "One who denies what the world affirms ('உண்டென்பது இல் என்பான்')",
+        "Will be considered a demon on earth ('வையத்து அலகையா வைக்கப்படும்')",
+        "The folly of extreme contrarianism."
+      ]
+    },
+    "Negative_Prompt": "the world agreeing with the contrarian, a human shadow, text artifacts.",
+    "Hyperparameters": {
+      "variant": "pro",
+      "steps": 50,
+      "cfg_scale": 8,
+      "seed": "Explore variations for the demonic shadow."
+    }
+  }
+}

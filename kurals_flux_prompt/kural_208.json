@@ -1,0 +1,39 @@
+{
+  "Kural_Info": {
+    "Number": 208,
+    "Chapter": "தீவினையச்சம் (Dread of Evil Deeds)",
+    "Tamil_Text": "தீயவை செய்தார் கெடுதல் நிழல்தன்னைவீயாது அடிஉறைந் தற்று.",
+    "English_Meaning": "Destruction will dwell at the heels of those who commit evil even as their shadow that leaves them not."
+  },
+  "Flux_Optimized_Prompt": {
+    "Layered_Composition": {
+      "Foreground": "A person who has committed an evil deed ('தீயவை செய்தார்') is walking forward under a bright sun.",
+      "Midground": "Their shadow ('நிழல்'), however, is not a normal shadow. It is a dark, monstrous, and menacing form that is attached to their feet ('அடி உறைந்து') and follows them inseparably ('வீயாது').",
+      "Background": "As the person walks, their monstrous shadow is shown to be actively causing their ruin ('கெடுதல்'). It withers the ground they are about to step on, turns potential friends away, and subtly trips them, ensuring their inevitable destruction."
+    },
+    "Art_Direction": {
+      "Subject_and_Action": "The ruin of an evil-doer is as inseparable from them as their own shadow, and it is this very 'shadow' of their past deeds that actively works to destroy them.",
+      "Symbolic_Motifs": "The shadow as the active agent of destruction is the key visual metaphor. It is not just a passive follower but the direct cause of their downfall. The inseparability should be emphasized—it is literally attached to their heels.",
+      "Mood_and_Emotion": "Inescapable, self-destructive, haunting, inevitable consequence.",
+      "Lighting_and_Color": "Bright, harsh sunlight is essential to create a strong, dark shadow. The contrast between the ordinary-looking person and their monstrous, destructive shadow is stark.",
+      "Technical_Cues": {
+        "Camera": "A low-angle tracking shot from behind, focusing on the feet and the monstrous shadow that is attached to them, making the shadow the dominant subject.",
+        "Resolution": "8K, ultra-realistic, with a high-contrast look.",
+        "Lighting": "Strong, direct sunlight (like a harsh noon sun) to create the most defined and menacing shadow possible.",
+        "Art_Genre": "Psychological horror, surrealism."
+      },
+      "Cultural_Anchors": [
+        "The ruin of evil-doers (தீயவை செய்தார் கெடுதல்)",
+        "The inseparable shadow (நிழல் தன்னை வீயாது)",
+        "Dwelling at the heels (அடி உறைந்து)"
+      ]
+    },
+    "Negative_Prompt": "person without a shadow, friendly shadow, person escaping their shadow, text artifacts.",
+    "Hyperparameters": {
+      "variant": "pro",
+      "steps": 50,
+      "cfg_scale": 9,
+      "seed": "Explore the design of the monstrous, destructive shadow."
+    }
+  }
+}

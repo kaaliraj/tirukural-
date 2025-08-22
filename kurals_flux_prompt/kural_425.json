@@ -1,0 +1,39 @@
+{
+  "Kural_Info": {
+    "Number": 425,
+    "Chapter": "அறிவுடைமை (The Possession of Knowledge)",
+    "Tamil_Text": "உலகம் தழீஇய தொட்பம் மலர்தலும் கூம்பலும் இல்ல தறிவு.",
+    "English_Meaning": "To secure the friendship of the great is true wisdom; it is (also) wisdom to keep (that friendship unchanged, and) not opening and closing (like the lotus flower)."
+  },
+  "Flux_Optimized_Prompt": {
+    "Layered_Composition": {
+      "Foreground": "A majestic, unblinking, stylized eye, representing true wisdom ('அறிவு'). Its gaze is steady and unwavering.",
+      "Midground": "Reflected in the pupil of this eye is the world ('உலகம்'). The connection is constant and stable. In contrast, next to the eye, a lotus flower is shown repeatedly opening in the sun ('மலர்தல்') and closing at night ('கூம்பல்'), symbolizing fickle relationships.",
+      "Background": "A serene, timeless cosmic background, indicating the steadfast nature of true wisdom."
+    },
+    "Art_Direction": {
+      "Subject_and_Action": "True wisdom engages with the world in a steady, constant manner, unlike a lotus flower that opens and closes. It is not fickle.",
+      "Symbolic_Motifs": "The steady, unblinking eye represents constant, unwavering wisdom. The opening and closing lotus is the metaphor for inconsistency, which wisdom avoids.",
+      "Mood_and_Emotion": "Steadfast, constant, wise, reliable, serene.",
+      "Lighting_and_Color": "The eye of wisdom is illuminated by a constant, internal light. The lotus is shown in a time-lapse, with the lighting changing from day to night to show its opening and closing. The palette is calm and profound.",
+      "Technical_Cues": {
+        "Camera": "Extreme close-up on the symbolic eye, with the lotus reflection and the actual lotus placed compositionally to create a strong contrast.",
+        "Resolution": "8K, surreal and highly detailed.",
+        "Lighting": "Contrasting lighting: constant for the eye, time-lapse for the lotus.",
+        "Art_Genre": "Metaphysical surrealism, symbolic art."
+      }
+    },
+    "Cultural_Anchors": [
+      "Steadfast Wisdom ('மலர்தலும் கூம்பலும் இல்ல தறிவு')",
+      "Embracing the world ('உலகம் தழீஇயது')",
+      "Contrast with the lotus flower."
+    ]
+  },
+  "Negative_Prompt": "blinking eye, static lotus, chaotic background, text artifacts, cartoonish.",
+  "Hyperparameters": {
+    "variant": "pro",
+    "steps": 50,
+    "cfg_scale": 7,
+    "seed": "Explore variations for the reflection in the eye."
+  }
+}

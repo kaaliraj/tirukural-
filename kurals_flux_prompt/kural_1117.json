@@ -1,0 +1,38 @@
+{
+  "Kural_Info": {
+    "Number": 1117,
+    "Chapter": "நலம்புனைந்துரைத்தல் (The Praise of her Beauty)",
+    "Tamil_Text": "அறுவாய் நிறைந்த அவிர்மதிக்குப் போலமறுவுண்டோ மாதர் முகத்து.",
+    "English_Meaning": "Could there be spots in the face of this maid like those in the bright full moon?."
+  },
+  "Flux_Optimized_Prompt": {
+    "Layered_Composition": {
+      "Foreground": "A close-up of the beloved maiden's face ('மாதர் முகத்து'). It is depicted as perfectly luminous and absolutely flawless.",
+      "Midground": "Beside her face, for comparison, is the full moon ('அவிர் மதி'). The moon is also beautiful and bright.",
+      "Background": "However, the moon is shown to have its characteristic dark spots and imperfections ('மறு'). The image poses the rhetorical question: 'Are there any such spots on my beloved's face?' ('மறு உண்டோ?'). The answer is clearly no. Her face is shown to be superior to the moon in its flawless purity."
+    },
+    "Art_Direction": {
+      "Subject_and_Action": "The lover praises his beloved's face as being superior to the full moon, because while the moon has spots, her face is utterly flawless.",
+      "Symbolic_Motifs": "The direct comparison of the two faces—the maiden's and the moon's—is the key. The flawlessness of her skin versus the spots on the moon is the specific point of her superiority.",
+      "Mood_and_Emotion": "Flawless, perfect beauty, superior, adoring.",
+      "Lighting_and_Color": "A soft, radiant, silvery-gold light illuminates both the maiden's face and the moon. The light should emphasize the perfect, unblemished texture of her skin.",
+      "Technical_Cues": {
+        "Camera": "A beautiful, comparative portrait shot, placing her flawless face and the spotted moon side-by-side.",
+        "Resolution": "8K, hyper-realistic, with a strong focus on the perfect texture of her skin.",
+        "Lighting": "Flattering, soft, beauty lighting.",
+        "Art_Genre": "Romantic portraiture, with celestial elements."
+      },
+      "Cultural_Anchors": [
+        "The radiant moon (அவிர் மதி)",
+        "Are there spots like that on the maiden's face? (மறு உண்டோ மாதர் முகத்து?)"
+      ]
+    },
+    "Negative_Prompt": "maiden with spots, perfect moon, text artifacts.",
+    "Hyperparameters": {
+      "variant": "dev",
+      "steps": 45,
+      "cfg_scale": 7,
+      "seed": "Focus on the flawless texture of the maiden's skin."
+    }
+  }
+}

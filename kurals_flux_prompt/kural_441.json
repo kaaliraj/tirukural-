@@ -1,0 +1,39 @@
+{
+  "Kural_Info": {
+    "Number": 441,
+    "Chapter": "பெரியாரைத் துணைக்கோடல் (Seeking the Aid of Great Men)",
+    "Tamil_Text": "அறனறிந்து மூத்த அறிவுடையார் கேண்மை திறனறிந்து தேர்ந்து கொளல்.",
+    "English_Meaning": "As friends the men who virtue know, and riper wisdom share, Their worth weighed well, the king should choose with care."
+  },
+  "Flux_Optimized_Prompt": {
+    "Layered_Composition": {
+      "Foreground": "A wise king is shown carefully selecting a companion. He is not looking at warriors or wealthy merchants.",
+      "Midground": "Instead, he is using a symbolic 'scale of worth' to weigh the qualities of an elderly, wise, and virtuous scholar ('அறனறிந்து மூத்த அறிவுடையார்'). The scale tips heavily in the scholar's favor, showing their immense value.",
+      "Background": "A gallery of other potential 'friends' (a strong warrior, a rich noble) are in the background, but the king's focus is solely on the man of wisdom and virtue."
+    },
+    "Art_Direction": {
+      "Subject_and_Action": "The act of a ruler carefully discerning and choosing the friendship of elders who are wise and knowledgeable in virtue, recognizing their true worth.",
+      "Symbolic_Motifs": "The 'scale of worth' is a metaphor for the king's careful deliberation ('திறனறிந்து தேர்ந்து'). The elderly scholar represents the ideal friend for a ruler.",
+      "Mood_and_Emotion": "Discerning, wise, respectful, strategic.",
+      "Lighting_and_Color": "A clear, bright light illuminates the scene, symbolizing the clarity of the king's judgment. A respectful, golden glow surrounds the wise elder."
+    },
+    "Technical_Cues": {
+      "Camera": "Medium shot focusing on the king and the elder, with the symbolic scale clearly visible.",
+      "Resolution": "8K, with detailed, expressive faces that convey wisdom and respect.",
+      "Lighting": "Soft, noble lighting reminiscent of classical portraiture.",
+      "Art_Genre": "Historical realism with symbolic elements."
+    },
+    "Cultural_Anchors": [
+      "Seeking aid of the Great ('பெரியாரைத் துணைக்கோடல்')",
+      "Elders who know virtue ('அறனறிந்து மூத்தவர்')",
+      "The process of careful selection ('தேர்ந்து கொளல்')"
+    ]
+  },
+  "Negative_Prompt": "king choosing a warrior, angry elder, dark room, text artifacts, cartoonish figures.",
+  "Hyperparameters": {
+    "variant": "pro",
+    "steps": 45,
+    "cfg_scale": 7,
+    "seed": "Explore variations in the design of the 'scale of worth'."
+  }
+}

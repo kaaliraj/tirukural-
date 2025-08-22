@@ -1,0 +1,39 @@
+{
+  "Kural_Info": {
+    "Number": 30,
+    "Chapter": "நீத்தார் பெருமை (The Greatness of Ascetics)",
+    "Tamil_Text": "அந்தணர் என்போர் அறவோர்மற் றெவ்வுயிர்க்கும்செந்தண்மை பூண்டொழுக லான்.",
+    "English_Meaning": "The virtuous are truly called Anthanar; because in their conduct towards all creatures they are clothed in kindness."
+  },
+  "Flux_Optimized_Prompt": {
+    "Layered_Composition": {
+      "Foreground": "A central figure, an 'Anthanar', is shown kneeling to offer water to a thirsty fawn. Their expression is one of pure, gentle compassion.",
+      "Midground": "Surrounding this central act of kindness, a harmonious circle of all life ('எவ்வுயிர்க்கும்') is depicted: a lion lies peacefully near a deer, a snake rests near a mongoose, birds flock without fear, and diverse groups of humans watch with reverence.",
+      "Background": "A lush, vibrant, and peaceful natural landscape (a forest grove or riverbank) bathes the entire scene in a sense of serenity and harmony."
+    },
+    "Art_Direction": {
+      "Subject_and_Action": "The true definition of an 'Anthanar' is not birth or ritual, but being a virtuous one ('அறவோர்') whose defining characteristic is their gentle, equitable kindness towards every living being.",
+      "Symbolic_Motifs": "A soft, warm, golden aura of kindness ('செந்தண்மை') emanates from the Anthanar, and this aura is what pacifies all the surrounding creatures, creating a zone of absolute peace. They are 'clothed in kindness', so their simple robes also seem to have a gentle glow.",
+      "Mood_and_Emotion": "Serene, compassionate, harmonious, peaceful, universal love.",
+      "Lighting_and_Color": "Soft, warm, golden hour lighting. The palette is rich with life-affirming greens, gentle earth tones, and the warm, golden light of compassion emanating from the central figure."
+    },
+    "Technical_Cues": {
+      "Camera": "Eye-level medium wide shot, creating an intimate yet inclusive view of the harmonious circle of life.",
+      "Resolution": "8K, ultra-realistic, with fine detail on the animals' fur, feathers, and the compassionate expression of the Anthanar.",
+      "Lighting": "Soft, diffused, volumetric lighting to create a gentle and divine atmosphere.",
+      "Art_Genre": "Mystical realism, pastoral fantasy painting."
+    },
+    "Cultural_Anchors": [
+      "Anthanar (அந்தணர்) redefined by virtue",
+      "Aravor (அறவோர்) - The Virtuous Ones",
+      "Senthanmai (செந்தண்மை) - Equitable Kindness to all beings (எவ்வுயிர்க்கும்)"
+    ]
+  },
+  "Negative_Prompt": "ritualistic acts, caste markers, scared animals, violent scene, dark lighting, text artifacts, non-Tamil physiognomy.",
+  "Hyperparameters": {
+    "variant": "dev",
+    "steps": 45,
+    "cfg_scale": 7,
+    "seed": "Explore different combinations of peaceful animals in the circle."
+  }
+}

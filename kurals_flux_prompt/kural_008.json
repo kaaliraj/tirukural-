@@ -1,0 +1,39 @@
+{
+  "Kural_Info": {
+    "Number": 8,
+    "Chapter": "கடவுள் வாழ்த்து (The Praise of God)",
+    "Tamil_Text": "அறவாழி அந்தணன் தாள்சேர்ந்தார்க் கல்லால்பிறவாழி நீந்தல் அரிது.",
+    "English_Meaning": "None can swim the great sea of births, but those who are united to the feet of that gracious Being who is a sea of virtue."
+  },
+  "Flux_Optimized_Prompt": {
+    "Layered_Composition": {
+      "Foreground": "In the foreground, figures are seen struggling to stay afloat in a vast, dark, and turbulent ocean, representing the endless cycle of rebirth ('Piravaazhi').",
+      "Midground": "A magnificent, ancient Tamil ship, strong and radiant, sails calmly through the storm. The ship itself is formed from a pair of giant, luminous divine feet. This is the 'sea of virtue' ('Aravaazhi'). A few wise individuals are climbing from the stormy sea onto the safety of this divine vessel.",
+      "Background": "In the far distance, beyond the storm, lies a calm, golden shore representing liberation, the destination of the divine ship."
+    },
+    "Art_Direction": {
+      "Subject_and_Action": "Humanity's struggle in the ocean of rebirth can only be overcome by taking refuge in the divine, which is an ocean of virtue and the only vessel for salvation.",
+      "Symbolic_Motifs": "The turbulent waves of the 'sea of births' are filled with ghostly images of past and future lives. The divine feet-ship glows with an inner light, calming the waters immediately around it.",
+      "Mood_and_Emotion": "Epic, dramatic, a sense of peril and salvation.",
+      "Lighting_and_Color": "The sea of births is rendered in deep, tumultuous blues, greens, and blacks. The divine ship is a source of brilliant golden-white light, starkly contrasting with the darkness. The distant shore is a soft, welcoming gold."
+    },
+    "Technical_Cues": {
+      "Camera": "Epic, ultra-wide aerial shot, looking down at the scene to capture the scale of the ocean and the ship.",
+      "Resolution": "8K, photorealistic details on the water and figures, mystical and glowing effects for the divine ship.",
+      "Lighting": "Volumetric lighting emanating from the ship, casting god rays through the stormy clouds.",
+      "Art_Genre": "Epic fantasy art meets symbolic digital matte painting."
+    },
+    "Cultural_Anchors": [
+      "Concept of 'Piravi' (birth/rebirth cycle)",
+      "God as 'Aravaazhi' (sea of virtue)",
+      "Symbolism of crossing the ocean of existence"
+    ]
+  },
+  "Negative_Prompt": "sinking ship, calm sea of births, deformed figures, text artifacts, oversaturated colors, modern ship, non-Tamil physiognomy.",
+  "Hyperparameters": {
+    "variant": "pro",
+    "steps": 50,
+    "cfg_scale": 7,
+    "seed": "Explore variations for the wave patterns."
+  }
+}

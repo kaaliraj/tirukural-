@@ -1,0 +1,33 @@
+{
+  "Kural_Info": {
+    "Number": 1216,
+    "Chapter": "கனவுநிலையுரைத்தல் (The Visions of the Night)",
+    "Tamil_Text": "நனவென ஒன்றில்லை ஆயின் கனவினால்காதலர் நீங்கலர் மன்.",
+    "English_Meaning": "And if there were no waking hour, my love In dreams would never from my side remove."
+  },
+  "Flux_Optimized_Prompt": {
+    "Layered_Composition": {
+      "Foreground": "A woman is sleeping peacefully, a blissful smile on her face. She is in a beautiful, vibrant dream world ('Kanavu').",
+      "Midground": "In her dream, her lover is with her, and they are in a state of perpetual, happy union ('Kaathalar Neengalar'). There is no threat of separation.",
+      "Background": "The cruel, harsh reality of the waking world ('Nanavu') is depicted as a dark, stormy realm outside the bubble of her dream. The waking state is the only thing that forces them apart."
+    },
+    "Art_Direction": {
+      "Subject_and_Action": "A lament that if only the waking world didn't exist, her lover would never have to leave her side, as he is always with her in her dreams.",
+      "Symbolic_Motifs": "The dream as a perfect, protected bubble of happiness. The waking world as a harsh, external force that shatters this perfection.",
+      "Mood_and_Emotion": "Blissful, wishful, a desire to escape reality.",
+      "Lighting_and_Color": "The dream world is lit with magical, warm, and vibrant colors. The waking world outside the bubble is dark, cold, and stormy."
+    },
+    "Technical_Cues": {
+      "Camera": "A shot that shows the woman sleeping peacefully inside her dream bubble, with the harsh reality visible outside.",
+      "Resolution": "8K, fantasy realism, with a beautiful contrast between the two worlds.",
+      "Lighting": "Contrasting lighting to clearly separate the dream from reality.",
+      "Art_Genre": "Romantic fantasy, illustrating a desire for eternal dreams."
+    },
+    "Cultural_Anchors": [
+      "நனவு (Waking state)",
+      "கனவு (Dream state)",
+      "The dream as a perfect reality"
+    ]
+  },
+  "Negative_Prompt": "a nightmare, a sad sleeping face, a happy waking world, text artifacts, cartoonish, blurry."
+}

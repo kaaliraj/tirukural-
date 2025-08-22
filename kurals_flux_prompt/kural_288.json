@@ -1,0 +1,38 @@
+{
+  "Kural_Info": {
+    "Number": 288,
+    "Chapter": "கள்ளாமை (The Absence of Fraud)",
+    "Tamil_Text": "அளவறிந்தார் நெஞ்சத் தறம்போல நிற்கும்களவறிந்தார் நெஞ்சில் கரவு.",
+    "English_Meaning": "Deceit dwells in the mind of those who are conversant with fraud, even as virtue in the minds of those who are conversant with rectitude."
+  },
+  "Flux_Optimized_Prompt": {
+    "Layered_Composition": {
+      "Foreground": "A split composition of two minds visualized as temples.",
+      "Midground": "On the right, the temple of the 'righteous mind' ('அளவறிந்தார் நெஞ்சத்து'). Inside this clean, well-lit temple, Virtue ('அறம்') is enshrined as a beautiful, glowing deity, stable and permanent ('நிற்கும்').",
+      "Background": "On the left, the temple of the 'fraudulent mind' ('களவறிந்தார் நெஞ்சில்'). Inside this dark, decaying temple, Deceit ('கரவு') is enshrined as a monstrous, shadowy idol, equally permanent and stable in its own corrupt way."
+    },
+    "Art_Direction": {
+      "Subject_and_Action": "A parallel is drawn: just as virtue is the permanent, foundational principle in the heart of the righteous, deceit is the permanent, foundational principle in the heart of the fraudulent.",
+      "Symbolic_Motifs": "The mind as a temple is the central metaphor. The nature of the enshrined 'deity' (Virtue or Deceit) defines the entire nature of the mind. Both are shown to be stable and foundational principles for their respective owners.",
+      "Mood_and_Emotion": "Parallelism, foundational nature, inherent quality, stark contrast.",
+      "Lighting_and_Color": "The temple of virtue is filled with a pure, white-gold light. The temple of deceit is filled with a dark, sickly, green-black shadow.",
+      "Technical_Cues": {
+        "Camera": "A balanced, diptych shot that allows for a direct comparison of the two inner 'temples'.",
+        "Resolution": "8K, ultra-realistic, with a strong contrast in the architecture and atmosphere of the two temples.",
+        "Lighting": "Dualistic lighting: divine and pure vs. dark and corrupt.",
+        "Art_Genre": "Symbolic architecture, fantasy art."
+      },
+      "Cultural_Anchors": [
+        "Virtue in the heart of the measured (அளவறிந்தார் நெஞ்சத்து அறம்)",
+        "Deceit in the heart of the fraudulent (களவறிந்தார் நெஞ்சில் கரவு)"
+      ]
+    },
+    "Negative_Prompt": "virtue in the deceitful heart, empty temples, text artifacts.",
+    "Hyperparameters": {
+      "variant": "dev",
+      "steps": 45,
+      "cfg_scale": 8,
+      "seed": "Explore the design of the 'idol of Deceit'."
+    }
+  }
+}

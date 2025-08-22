@@ -1,0 +1,38 @@
+{
+  "Kural_Info": {
+    "Number": 969,
+    "Chapter": "மானம் (Honour)",
+    "Tamil_Text": "மயிர்நீப்பின் வாழாக் கவரிமா அன்னார்உயிர்நீப்பர் மானம் வரின்.",
+    "English_Meaning": "Those who give up (their) life when (their) honour is at stake are like the yak which kills itself at the loss of (even one of) its hairs."
+  },
+  "Flux_Optimized_Prompt": {
+    "Layered_Composition": {
+      "Foreground": "An honored, noble person is faced with a situation where their honor ('மானம்') is about to be lost.",
+      "Midground": "Without hesitation, they choose to give up their life ('உயிர் நீப்பர்') rather than live in disgrace. Their spirit is shown peacefully leaving their body.",
+      "Background": "In a powerful, parallel simile, a majestic yak ('கவரி மா') is shown. A single strand of its beautiful, flowing hair has been caught and pulled out ('மயிர் நீப்பின்'). In response to this seemingly minor loss, the proud animal refuses to live on and is shown dying ('வாழா')."
+    },
+    "Art_Direction": {
+      "Subject_and_Action": "The honorable are like the legendary yak: they would rather give up their life instantly than live on with even a small stain upon their honor.",
+      "Symbolic_Motifs": "The parallel between the human's choice of death over dishonor and the yak's choice of death over the loss of its hair is the central concept. Both acts are presented as noble and instinctual, a reflection of their inherent nature.",
+      "Mood_and_Emotion": "Noble, proud, uncompromising, dignified.",
+      "Lighting_and_Color": "A noble, heroic light illuminates both the person and the yak. The scene is not tragic, but one of profound, principled dignity. The palette could be stark and majestic, like a high mountain landscape.",
+      "Technical_Cues": {
+        "Camera": "A split-screen or diptych shot that presents the two parallel acts of noble self-sacrifice.",
+        "Resolution": "8K, hyper-realistic, with a majestic and beautiful depiction of the yak.",
+        "Lighting": "Clean, strong, and dignified lighting.",
+        "Art_Genre": "Heroic realism, with elements of nature documentary."
+      },
+      "Cultural_Anchors": [
+        "The yak that won't live if its hair is removed (மயிர் நீப்பின் வாழாக் கவரி மா)",
+        "They will give up life when honor is at stake (மானம் வரின் உயிர் நீப்பர்)"
+      ]
+    },
+    "Negative_Prompt": "cowardly person, happy yak with missing hair, text artifacts.",
+    "Hyperparameters": {
+      "variant": "pro",
+      "steps": 50,
+      "cfg_scale": 8,
+      "seed": "Explore the majestic depiction of the yak."
+    }
+  }
+}

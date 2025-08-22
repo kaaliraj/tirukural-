@@ -1,0 +1,39 @@
+{
+  "Kural_Info": {
+    "Number": 901,
+    "Chapter": "பெண்வழிச்சேறல் (Being led by Women)",
+    "Tamil_Text": "மனைவிழைவார் மாண்பயன் எய்தார் வினைவிழையார் வேண்டாப் பொருளும் அது.",
+    "English_Meaning": "Those who lust after their wives will not attain the excellence of virtue; and it is just this that is not desired by those who are bent on acquiring wealth."
+  },
+  "Flux_Optimized_Prompt": {
+    "Layered_Composition": {
+      "Foreground": "A man is shown completely infatuated with his wife, his entire world revolving around her domestic charms ('மனைவிழைவார்').",
+      "Midground": "Because of this singular focus, a great and noble prize, representing glorious achievement and virtue ('மாண்பயன்'), is shown to be far out of his reach, floating away from him.",
+      "Background": "In contrast, another figure, a man of action ('வினைவிழைவார்'), is shown striding purposefully towards his goals, completely uninterested in the domestic attachment that has ensnared the first man. He sees it as an undesirable distraction ('வேண்டாப்பொருள்')."
+    },
+    "Art_Direction": {
+      "Subject_and_Action": "Those who are solely devoted to the domestic life with their wives will not achieve great things. This same domestic attachment is something that men of action actively avoid.",
+      "Symbolic_Motifs": "The floating, unattainable prize is the 'great benefit' the wife-devotee cannot get. The man of action turning his back on the domestic scene shows his different priorities.",
+      "Mood_and_Emotion": "A critique of domestic infatuation over public achievement. Contrasting ambition with domesticity.",
+      "Lighting_and_Color": "The domestic scene is lit with a soft, warm, but ultimately confining light. The world of action and the great prize are lit with a bright, heroic, golden light.",
+      "Technical_Cues": {
+        "Camera": "A split composition or a wide shot showing the two different men and their diverging paths.",
+        "Resolution": "8K, with a strong narrative contrast.",
+        "Lighting": "Contrasting lighting to show the two different value systems.",
+        "Art_Genre": "Allegorical realism."
+      },
+      "Cultural_Anchors": [
+        "Those who desire their wives ('மனைவிழைவார்')",
+        "Will not attain great benefit ('மாண்பயன் எய்தார்')",
+        "Men who desire action avoid this ('வினைவிழைவார் வேண்டாப்பொருள்')"
+      ]
+    },
+    "Negative_Prompt": "a man of action being domestic, text artifacts, cartoonish.",
+    "Hyperparameters": {
+      "variant": "dev",
+      "steps": 45,
+      "cfg_scale": 8,
+      "seed": "Explore variations for the 'great prize'."
+    }
+  }
+}

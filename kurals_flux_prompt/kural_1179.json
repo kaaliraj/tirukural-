@@ -1,0 +1,32 @@
+{
+  "Kural_Info": {
+    "Number": 1179,
+    "Chapter": "கண்விதுப்பழிதல் (Eyes consumed with Grief)",
+    "Tamil_Text": "வாராக்கால் துஞ்சா வரின்துஞ்சா ஆயிடைஆரஞர் உற்றன கண்.",
+    "English_Meaning": "When he comes not, all slumber flies; no sleep when he is there; Thus every way my eyes have troubles hard to bear."
+  },
+  "Flux_Optimized_Prompt": {
+    "Layered_Composition": {
+      "Foreground": "A split-screen composition showing two states of a woman's eyes.",
+      "Midground": "On the left side, her lover is absent ('Vaaraakkaal'), and her eyes are wide open with anxious waiting, unable to sleep ('Thunjaa'). On the right side, her lover is present ('Varin'), and her eyes are wide open with the excitement and desire of being with him, also unable to sleep ('Thunjaa').",
+      "Background": "Both scenes are set at night, emphasizing the theme of sleeplessness. The background on the left is filled with lonely shadows; the background on the right is filled with the vibrant energy of their union."
+    },
+    "Art_Direction": {
+      "Subject_and_Action": "The lover's eyes are tormented either way: they cannot sleep from anxiety when he is away, and they cannot sleep from excitement when he is present. They are in a constant state of suffering.",
+      "Symbolic_Motifs": "The parallel depiction of sleeplessness for two opposite reasons is the core of the image. The eyes are the central sufferers in both scenarios.",
+      "Mood_and_Emotion": "Tormented, restless, paradoxical, a sense of being trapped by love itself.",
+      "Lighting_and_Color": "The left side is lit with cold, anxious moonlight. The right side is lit with a warm, passionate, vibrant light (e.g., from a lamp). Both are low-key to indicate night."
+    },
+    "Technical_Cues": {
+      "Camera": "A balanced, split-screen close-up on the eyes in their two different emotional contexts.",
+      "Resolution": "8K, ultra-realistic, capturing the subtle differences between anxious sleeplessness and excited sleeplessness.",
+      "Lighting": "Contrasting color temperatures (cool vs. warm) to differentiate the two emotional states.",
+      "Art_Genre": "Comparative portraiture, with a strong psychological focus."
+    },
+    "Cultural_Anchors": [
+      "The paradox of love's torment",
+      "Sleeplessness (துஞ்சாமை) from both longing and fulfillment"
+    ]
+  },
+  "Negative_Prompt": "sleeping eyes, daytime scenes, modern bedroom, text artifacts, cartoonish, blurry."
+}

@@ -1,0 +1,39 @@
+{
+  "Kural_Info": {
+    "Number": 1234,
+    "Chapter": "உறுப்புநலனழிதல் (Wasting Away)",
+    "Tamil_Text": "பணைநீங்கிப் பைந்தொடி சோரும் துணைநீங்கித்தொல்கவின் வாடிய தோள்.",
+    "English_Meaning": "In the absence of your consort, your shoulders having lost their former beauty and fulness, your bracelets of pure gold have become loose."
+  },
+  "Flux_Optimized_Prompt": {
+    "Layered_Composition": {
+      "Foreground": "A close-up on a woman's arm and shoulder.",
+      "Midground": "Her shoulder has lost its former full, bamboo-like beauty ('பணை நீங்கி') and appears thin and wasted because her partner has left her ('துணை நீங்கி').",
+      "Background": "As a direct result of her arm wasting away, her beautiful golden bracelets ('பைந்தொடி') are shown slipping loosely down her arm, about to fall off ('சோரும்')."
+    },
+    "Art_Direction": {
+      "Subject_and_Action": "The woman's shoulders have wasted away from the sorrow of her lover's departure, and as a result, her bracelets are now loose.",
+      "Symbolic_Motifs": "The slipping bracelet is the primary visual symbol of her physical wasting. It is a direct and poignant indicator of her inner suffering. The loss of her shoulder's 'bamboo-like' roundness is the underlying cause.",
+      "Mood_and_Emotion": "Wasting away, sorrowful, melancholic, physical manifestation of grief.",
+      "Lighting_and_Color": "A soft, melancholic light illuminates the scene. The gold of the bracelet is bright, but its looseness makes it look sad and out of place. The skin is pale. The palette is one of delicate sorrow.",
+      "Technical_Cues": {
+        "Camera": "An intimate, detailed close-up shot that focuses on the loose bracelet on the thin arm, telling the whole story in a single, poignant image.",
+        "Resolution": "8K, hyper-realistic, with a strong focus on the texture of the skin, the detail of the bracelet, and the space between them.",
+        "Lighting": "Soft, directional lighting to create a gentle but sad mood.",
+        "Art_Genre": "Sentimental realism, romantic painting."
+      },
+      "Cultural_Anchors": [
+        "The loose golden bracelet (பைந்தொடி சோரும்)",
+        "The shoulder that has lost its bamboo-like fullness (பணை நீங்கி)",
+        "Because the partner has left (துணை நீங்கி)"
+      ]
+    },
+    "Negative_Prompt": "tight bracelet, full shoulders, text artifacts, happy woman.",
+    "Hyperparameters": {
+      "variant": "dev",
+      "steps": 40,
+      "cfg_scale": 7,
+      "seed": "Focus on the detail of the slipping bracelet."
+    }
+  }
+}

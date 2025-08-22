@@ -1,0 +1,38 @@
+{
+  "Kural_Info": {
+    "Number": 105,
+    "Chapter": "செய்ந்நன்றி அறிதல் (Gratitude)",
+    "Tamil_Text": "உதவி வரைத்தன்று உதவி உதவிசெயப்பட்டார் சால்பின் வரைத்து.",
+    "English_Meaning": "The benefit itself is not the measure of the benefit; the worth of those who have received it is its measure."
+  },
+  "Flux_Optimized_Prompt": {
+    "Layered_Composition": {
+      "Foreground": "Two identical, simple acts of help ('உதவி') are shown side-by-side. In both cases, a person is giving a single loaf of bread.",
+      "Midground": "The recipients are different. On the left, the bread is given to a common person, who is grateful. On the right, the same loaf of bread is given to a person of immense virtue and nobility ('சால்பு'), perhaps a great sage or a righteous king.",
+      "Background": "A cosmic scale appears behind them. The help given to the common person results in a measure of good. But the identical help given to the virtuous person results in a measure of good that is exponentially, almost infinitely, greater. The value of the act is determined by the recipient's worth."
+    },
+    "Art_Direction": {
+      "Subject_and_Action": "The value of an act of help is not inherent in the act itself, but is magnified by the virtue and worth of the person who receives it.",
+      "Symbolic_Motifs": "The identical nature of the gift (the loaf of bread) is crucial. The difference in the outcome on the cosmic scale must be dramatic and unmistakable. The virtuous recipient glows with an inner light of 'Saalbu' (worthiness).",
+      "Mood_and_Emotion": "Profound, discerning, cause and effect, qualitative.",
+      "Lighting_and_Color": "Natural light on the acts of giving. The cosmic scale is illuminated by the result, with a small light on the left and a brilliant, supernova-like light on the right.",
+      "Technical_Cues": {
+        "Camera": "A wide, comparative shot that clearly presents the two scenarios and their vastly different outcomes on the cosmic scale.",
+        "Resolution": "8K, ultra-realistic, with strong symbolic effects for the scale and the recipient's aura.",
+        "Lighting": "Symbolic lighting that visually represents the 'measure' of the benefit.",
+        "Art_Genre": "Allegorical painting, symbolic realism."
+      },
+      "Cultural_Anchors": [
+        "Help is not the measure of help (உதவி வரைத்தன்று உதவி)",
+        "The worthiness of the recipient is the measure (செயப்பட்டார் சால்பின் வரைத்து)"
+      ]
+    },
+    "Negative_Prompt": "both outcomes being equal, virtuous person looking arrogant, text artifacts, cartoonish scale.",
+    "Hyperparameters": {
+      "variant": "pro",
+      "steps": 50,
+      "cfg_scale": 8,
+      "seed": "Explore the visual difference in the 'measure of good' on the cosmic scale."
+    }
+  }
+}

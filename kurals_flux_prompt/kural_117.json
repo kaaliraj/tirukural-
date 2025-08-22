@@ -1,0 +1,39 @@
+{
+  "Kural_Info": {
+    "Number": 117,
+    "Chapter": "நடுவு நிலைமை (Impartiality)",
+    "Tamil_Text": "கெடுவாக வையாது உலகம் நடுவாகநன்றிக்கண் தங்கியான் தாழ்வு.",
+    "English_Meaning": "The great will not regard as poverty the low estate of that man who dwells in the virtue of equity."
+  },
+  "Flux_Optimized_Prompt": {
+    "Layered_Composition": {
+      "Foreground": "A man who is materially poor ('தாழ்வு')—perhaps a humble farmer or artisan—is shown living a life of perfect justice and equity ('நடுவாக நன்றிக்கண் தங்கியான்').",
+      "Midground": "Despite his simple clothes and humble dwelling, a magnificent, invisible crown of light, representing his true worth, hovers above his head.",
+      "Background": "The world ('உலகம்'), represented by wise and noble figures (sages, good kings), is shown bowing to him not with pity, but with profound respect. They do not see his poverty as ruin ('கெடுவாக வையாது')."
+    },
+    "Art_Direction": {
+      "Subject_and_Action": "The world's wise people do not consider the material poverty of a just man to be a true loss or ruin; they see his inner virtue as his real wealth and honor him for it.",
+      "Symbolic_Motifs": "The invisible crown of light is the key symbol of his true status, which is visible only to the wise. The respectful bow of the worldly great towards the materially poor but spiritually rich man is a powerful statement of values.",
+      "Mood_and_Emotion": "Honorable poverty, respected, true worth, dignified.",
+      "Lighting_and_Color": "A warm, virtuous, golden light emanates from the just man, illuminating his humble surroundings and making them look noble. The worldly figures are in rich but less radiant colors.",
+      "Technical_Cues": {
+        "Camera": "Eye-level shot that places the viewer on the same level as the just man, sharing in the respect shown to him by the great.",
+        "Resolution": "8K, ultra-realistic, with a focus on the man's dignified expression and the respectful gestures of the wise.",
+        "Lighting": "The primary light source is the inner virtue of the poor man.",
+        "Art_Genre": "Historical realism, with symbolic elements."
+      },
+      "Cultural_Anchors": [
+        "The poverty of a just man (நன்றிக்கண் தங்கியான் தாழ்வு)",
+        "Not considered a ruin (கெடுவாக வையாது)",
+        "The judgment of the world (உலகம்)"
+      ]
+    },
+    "Negative_Prompt": "world mocking the poor man, sad and dejected poor man, text artifacts, gaudy crown.",
+    "Hyperparameters": {
+      "variant": "dev",
+      "steps": 45,
+      "cfg_scale": 8,
+      "seed": "Explore the design of the 'invisible crown of light'."
+    }
+  }
+}

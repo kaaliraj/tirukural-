@@ -1,0 +1,38 @@
+{
+  "Kural_Info": {
+    "Number": 185,
+    "Chapter": "புறங்கூறாமை (Not Backbiting)",
+    "Tamil_Text": "அறஞ்சொல்லும் நெஞ்சத்தான் அன்மை புறஞ்சொல்லும்புன்மையாற் காணப் படும்.",
+    "English_Meaning": "The emptiness of that man's mind who (merely) praises virtue will be seen from the meanness of reviling another behind his back."
+  },
+  "Flux_Optimized_Prompt": {
+    "Layered_Composition": {
+      "Foreground": "A man is shown publicly speaking words of virtue ('அறம் சொல்லும்'). His outward appearance is noble and righteous.",
+      "Midground": "However, in another scene, he is shown secretly backbiting another person ('புறம் சொல்லும்'). This act of meanness ('புன்மை') is the key that unlocks his true nature.",
+      "Background": "A symbolic, x-ray view of his heart ('நெஞ்சத்தான்') reveals the truth. His heart is completely hollow and empty. The act of backbiting is the proof ('காணப்படும்') that his virtuous words are just an empty performance and not a reflection of his true, empty character ('அன்மை')."
+    },
+    "Art_Direction": {
+      "Subject_and_Action": "The act of backbiting is the definitive proof that a person's outwardly virtuous words do not come from a truly virtuous heart.",
+      "Symbolic_Motifs": "The hollow heart is the central reveal. The backbiting is the 'key' that allows the viewer to see this inner emptiness. The contrast between his noble public speech and his mean-spirited private action is crucial.",
+      "Mood_and_Emotion": "Hypocrisy, revealing, emptiness, deceptive.",
+      "Lighting_and_Color": "The public speaking scene is lit with a bright, false, theatrical light. The backbiting scene is in dark shadows. The final reveal of the hollow heart is in a cold, clinical, revealing light.",
+      "Technical_Cues": {
+        "Camera": "A shot that transitions from the public persona to the private act, culminating in the symbolic reveal of the empty heart.",
+        "Resolution": "8K, ultra-realistic, with a powerful symbolic visual for the hollow heart.",
+        "Lighting": "A shift in lighting from a false, warm light to a true, cold, revealing light.",
+        "Art_Genre": "Psychological realism, with symbolic elements."
+      },
+      "Cultural_Anchors": [
+        "That his heart is not one that speaks virtue (அறம் சொல்லும் நெஞ்சத்தான் அன்மை)",
+        "Is seen by the meanness of his backbiting (புறம் சொல்லும் புன்மையால் காணப்படும்)"
+      ]
+    },
+    "Negative_Prompt": "sincere heart, person not backbiting, text artifacts.",
+    "Hyperparameters": {
+      "variant": "dev",
+      "steps": 45,
+      "cfg_scale": 9,
+      "seed": "Explore the visual of the 'hollow heart'."
+    }
+  }
+}

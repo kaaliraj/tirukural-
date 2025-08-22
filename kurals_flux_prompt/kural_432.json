@@ -1,0 +1,40 @@
+{
+  "Kural_Info": {
+    "Number": 432,
+    "Chapter": "குற்றங்கடிதல் (The Correction of Faults)",
+    "Tamil_Text": "இவறலும் மாண்பிறந்த மானமும் மாணா உவகையும் ஏதம் இறைக்கு.",
+    "English_Meaning": "Avarice, undignified pride, and low pleasures are faults in a king."
+  },
+  "Flux_Optimized_Prompt": {
+    "Layered_Composition": {
+      "Foreground": "A king sits on a throne, but his regal appearance is being corrupted by three distinct faults.",
+      "Midground": "One hand is shown transforming into a gnarled, claw-like hand clutching a single coin (Avarice - 'இவறல்'). His face has a sneering, arrogant expression that doesn't befit his crown (Undignified Pride - 'மாண்பிறந்த மானம்'). From the shadows at his feet, thorny vines representing low pleasures ('மாணா உவகை') are creeping up his throne.",
+      "Background": "The throne room, though opulent, appears dark and is beginning to decay, showing the corrosive effect of these faults on his rule."
+    },
+    "Art_Direction": {
+      "Subject_and_Action": "A visual representation of the three major faults that are a disaster ('ஏதம்') for a ruler: avarice, misplaced pride, and indulgence in base pleasures.",
+      "Symbolic_Motifs": "Each fault is given a clear visual symbol: the miser's claw, the unbecoming sneer, and the thorny vines of base pleasure. The decaying throne room symbolizes the ruin that follows.",
+      "Mood_and_Emotion": "Corrupt, disgraceful, decaying, cautionary.",
+      "Lighting_and_Color": "A sickly, dim light illuminates the king, casting harsh shadows that accentuate his flaws. The color palette is full of tarnished golds, deep shadows, and unhealthy greens for the vines."
+    },
+    "Technical_Cues": {
+      "Camera": "Medium close-up on the king, focusing on his corrupted features and the symbolic representations of his faults.",
+      "Resolution": "8K, hyper-realistic with a dark, gritty texture.",
+      "Lighting": "Dramatic chiaroscuro to create a sinister and decaying atmosphere.",
+      "Art_Genre": "Dark fantasy realism, symbolic portraiture."
+    },
+    "Cultural_Anchors": [
+      "Faults of a Ruler ('ஏதம் இறைக்கு')",
+      "'Ivaral' (Avarice)",
+      "'Maanpirandha Maanam' (Undignified Pride)",
+      "'Maanaa Uvagai' (Low Pleasures)"
+    ]
+  },
+  "Negative_Prompt": "virtuous king, bright throne room, happy citizens, text artifacts, cartoonish.",
+  "Hyperparameters": {
+    "variant": "dev",
+    "steps": 45,
+    "cfg_scale": 9,
+    "seed": "Explore variations for the thorny vines."
+  }
+}

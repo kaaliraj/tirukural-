@@ -1,0 +1,39 @@
+{
+  "Kural_Info": {
+    "Number": 677,
+    "Chapter": "வினைசெயல்வகை (Modes of Action)",
+    "Tamil_Text": "செய்வினை செய்வான் செயன்முறை அவ்வினை உள்ளறிவான் உள்ளம் கொளல்.",
+    "English_Meaning": "The method of performance for one who has begun an act is to ascertain the mind of him who knows the secret thereof."
+  },
+  "Flux_Optimized_Prompt": {
+    "Layered_Composition": {
+      "Foreground": "A doer of deeds ('செய்வினை செய்வான்') is about to begin a complex task, like building an intricate clockwork machine.",
+      "Midground": "Before they begin, they are shown humbly consulting with a master expert who knows the inner workings and secrets of this task ('உள்ளறிவான்'). The expert is transferring their knowledge, visualized as a glowing blueprint of light, into the doer's mind.",
+      "Background": "Having absorbed the expert's knowledge ('உள்ளம் கொளல்'), the doer is now shown executing the task with flawless precision and confidence. The method ('செயன்முறை') is now perfect."
+    },
+    "Art_Direction": {
+      "Subject_and_Action": "The right way to perform an action is to first consult with and absorb the knowledge of an expert who truly understands it from the inside out.",
+      "Symbolic_Motifs": "The transfer of the glowing blueprint represents absorbing the expert's inner knowledge. The shift in the doer's competence from hesitant to masterful shows the result of this consultation.",
+      "Mood_and_Emotion": "Consultative, humble, expert, precise, effective.",
+      "Lighting_and_Color": "A bright, intellectual light surrounds the two figures. The blueprint of knowledge glows with a clear, white light.",
+      "Technical_Cues": {
+        "Camera": "A two-part narrative image: the consultation on the left, and the flawless execution on the right.",
+        "Resolution": "8K, with intricate details on the clockwork machine and the light blueprint.",
+        "Lighting": "Clean, high-key lighting to suggest clarity and expertise.",
+        "Art_Genre": "Steampunk aesthetic, with a touch of fantasy."
+      }
+    },
+    "Cultural_Anchors": [
+      "The method of doing ('செயன்முறை')",
+      "The one who knows the inside ('உள்ளறிவான்')",
+      "Absorbing the expert's mind ('உள்ளம் கொளல்')"
+    ]
+  },
+  "Negative_Prompt": "doer working alone and failing, arrogant doer, text artifacts.",
+  "Hyperparameters": {
+    "variant": "pro",
+    "steps": 50,
+    "cfg_scale": 8,
+    "seed": "Explore variations for the glowing blueprint."
+  }
+}

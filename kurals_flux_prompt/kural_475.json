@@ -1,0 +1,39 @@
+{
+  "Kural_Info": {
+    "Number": 475,
+    "Chapter": "வலியறிதல் (The Knowledge of Power)",
+    "Tamil_Text": "பீலிபெய் சாகாடும் அச்சிறும் அப்பண்டஞ் சால மிகுத்துப் பெயின்.",
+    "English_Meaning": "The axle tree of a bandy, loaded only with peacocks' feathers will break, if it be greatly overloaded."
+  },
+  "Flux_Optimized_Prompt": {
+    "Layered_Composition": {
+      "Foreground": "A large, sturdy cart ('சாகாடு') is being loaded with peacock feathers ('பீலி'). The feathers are individually light and beautiful.",
+      "Midground": "However, the loading is excessive. A mountain-sized pile of feathers is being heaped onto the cart, far beyond its capacity ('சால மிகுத்துப் பெயின்').",
+      "Background": "Under the immense, accumulated weight of the feathers, the strong axle of the cart ('அச்சு') is shown dramatically snapping in two, causing the entire cart to collapse."
+    },
+    "Art_Direction": {
+      "Subject_and_Action": "A powerful visual lesson on limits: even the lightest of things, when accumulated in excessive quantity, can break the strongest support.",
+      "Symbolic_Motifs": "The contrast between the lightness of a single feather and the immense, destructive weight of the pile is the core concept. The snapping axle is the dramatic climax, proving the point.",
+      "Mood_and_Emotion": "Dramatic, surprising, cautionary, a lesson in physics and metaphor.",
+      "Lighting_and_Color": "Bright, vibrant colors for the peacock feathers to emphasize their individual beauty and seeming harmlessness. The lighting should be dramatic at the moment the axle snaps.",
+      "Technical_Cues": {
+        "Camera": "A low-angle shot, looking up at the massive pile of feathers, emphasizing its overwhelming scale just before the axle breaks.",
+        "Resolution": "8K, ultra-realistic, with detailed textures on the wood of the cart and the feathers. Slow-motion effect for the breaking axle.",
+        "Lighting": "Clear, natural light that turns dramatic as the structure fails.",
+        "Art_Genre": "Hyperrealism, with a focus on dramatic tension."
+      }
+    },
+    "Cultural_Anchors": [
+      "The Peacock Feather analogy",
+      "The danger of excessive accumulation",
+      "Understanding limits and capacity."
+    ]
+  },
+  "Negative_Prompt": "cart not breaking, small pile of feathers, text artifacts, blurry, dark scene.",
+  "Hyperparameters": {
+    "variant": "pro",
+    "steps": 50,
+    "cfg_scale": 8,
+    "seed": "Explore variations for the moment the axle snaps."
+  }
+}

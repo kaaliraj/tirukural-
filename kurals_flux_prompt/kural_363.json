@@ -1,0 +1,39 @@
+{
+  "Kural_Info": {
+    "Number": 363,
+    "Chapter": "அவாவறுத்தல் (Curbing of Desire)",
+    "Tamil_Text": "வேண்டாமை அன்ன விழுச்செல்வம் ஈண்டில்லை ஆண்டும் அஃதொப்பது இல்.",
+    "English_Meaning": "No glorious wealth is here like freedom from desire; To bliss like this not even there can soul aspire."
+  },
+  "Flux_Optimized_Prompt": {
+    "Layered_Composition": {
+      "Foreground": "A humble ascetic, owning nothing but a simple robe, sits in serene meditation. An aura of pure, golden light radiates from him, representing the true wealth of non-desire.",
+      "Midground": "Behind him, a powerful king sits on a massive throne, surrounded by mountains of gold and jewels, yet his face is filled with anxiety and dissatisfaction. Golden chains subtly bind him to his throne.",
+      "Background": "A vast, peaceful landscape surrounds the ascetic, while the king is enclosed within the dark, oppressive walls of his treasury."
+    },
+    "Art_Direction": {
+      "Subject_and_Action": "A visual contrast between the material wealth that brings bondage and the spiritual wealth ('விழுச்செல்வம்') of non-desire ('வேண்டாமை') that brings true freedom and peace.",
+      "Symbolic_Motifs": "The golden chains on the king symbolize the prison of desire. The ascetic's radiant aura symbolizes the supreme wealth of contentment.",
+      "Mood_and_Emotion": "Serene, enlightened, contrasting materialistic anxiety with spiritual peace.",
+      "Lighting_and_Color": "The king's treasury is dark, with harsh, metallic glints of gold. The ascetic is bathed in a warm, soft, divine golden light that illuminates the natural world around him."
+    },
+    "Technical_Cues": {
+      "Camera": "Wide cinematic shot, using depth of field to focus on the ascetic while showing the troubled king behind.",
+      "Resolution": "8K, photorealistic, with fine details on faces and textures.",
+      "Lighting": "Dramatic chiaroscuro, contrasting the inner glow of the ascetic with the external, harsh light on the gold.",
+      "Art_Genre": "Digital painting in the style of classical realism, with mystical elements."
+    },
+    "Cultural_Anchors": [
+      "'Vendamai' (Desirelessness) as 'Vizhuchelvam' (Supreme Wealth)",
+      "Ascetic ideal vs. Materialism",
+      "Spiritual contentment"
+    ]
+  },
+  "Negative_Prompt": "happy king, sad ascetic, modern clothing, blurry, oversaturated colors, text artifacts.",
+  "Hyperparameters": {
+    "variant": "pro",
+    "steps": 45,
+    "cfg_scale": 7,
+    "seed": "Explore variations in the ascetic's aura."
+  }
+}

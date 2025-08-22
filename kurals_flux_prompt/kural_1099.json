@@ -1,0 +1,38 @@
+{
+  "Kural_Info": {
+    "Number": 1099,
+    "Chapter": "குறிப்பறிதல் (Recognition of the Signs)",
+    "Tamil_Text": "ஏதிலார் போலப் பொதுநோக்கு நோக்குதல்காதலார் கண்ணே உள.",
+    "English_Meaning": "Both the lovers are capable of looking at each other in an ordinary way, as if they were perfect strangers."
+  },
+  "Flux_Optimized_Prompt": {
+    "Layered_Composition": {
+      "Foreground": "Two lovers are in a public place, pretending not to know each other.",
+      "Midground": "They exchange a glance. To any outside observer, it is a perfectly neutral, public, and ordinary look—the kind one would give to a stranger ('ஏதிலார் போலப் பொது நோக்கு').",
+      "Background": "However, a special visual effect shows what is happening *within* that glance. A secret, high-speed exchange of vast amounts of information and deep emotion is happening between their eyes. Their neutral public faces hide a secret, intense, and intimate communication that only they are privy to."
+    },
+    "Art_Direction": {
+      "Subject_and_Action": "The special skill that only lovers possess: the ability to communicate volumes of love and meaning through a single glance that appears completely neutral to any outside observer.",
+      "Symbolic_Motifs": "The contrast between the mundane outer appearance of the glance and the rich, complex inner communication is the entire concept. The 'secret bandwidth' within the glance could be visualized as a stream of glowing symbols or a flash of shared memories.",
+      "Mood_and_Emotion": "Secret, coded, intimate, clever, hidden communication.",
+      "Lighting_and_Color": "A normal, public, daylight scene. The special effect of the hidden communication is a brief, magical flash of light that only travels between the lovers' eyes, unseen by anyone else.",
+      "Technical_Cues": {
+        "Camera": "A shot that shows the two lovers and their neutral expressions, with a special visual effect that reveals the secret communication happening 'inside' their shared gaze.",
+        "Resolution": "8K, ultra-realistic, with a focus on the absolute neutrality of their public expressions.",
+        "Lighting": "Naturalistic public lighting.",
+        "Art_Genre": "Romantic realism, with a subtle sci-fi/fantasy element."
+      },
+      "Cultural_Anchors": [
+        "Looking a public look like strangers (ஏதிலார் போலப் பொது நோக்கு நோக்குதல்)",
+        "Is something that exists in the eyes of lovers (காதலார் கண்ணே உள)"
+      ]
+    },
+    "Negative_Prompt": "lovers showing emotion publicly, text artifacts.",
+    "Hyperparameters": {
+      "variant": "pro",
+      "steps": 50,
+      "cfg_scale": 8,
+      "seed": "Explore the visual of the 'secret communication' within the glance."
+    }
+  }
+}

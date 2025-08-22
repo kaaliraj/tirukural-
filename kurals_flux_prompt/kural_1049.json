@@ -1,0 +1,38 @@
+{
+  "Kural_Info": {
+    "Number": 1049,
+    "Chapter": "நல்குரவு (Poverty)",
+    "Tamil_Text": "நெருப்பினுள் துஞ்சலும் ஆகும் நிரப்பினுள்யாதொன்றும் கண்பாடு அரிது.",
+    "English_Meaning": "One may sleep in the midst of fire; but by no means in the midst of poverty."
+  },
+  "Flux_Optimized_Prompt": {
+    "Layered_Composition": {
+      "Foreground": "A split composition illustrating a state of impossibility.",
+      "Midground": "On the left, a surreal and miraculous scene: a person is shown sleeping peacefully and unharmed in the very middle of a raging fire ('நெருப்பினுள் துஞ்சலும் ஆகும்'). This represents a possible miracle.",
+      "Background": "On the right, a person is shown in a state of poverty ('நிரப்பினுள்'). They are lying on a simple mat, but their eyes are wide open with the torment of anxiety and want. It is shown to be utterly impossible for them to find a moment of sleep or peace ('கண்பாடு அரிது')."
+    },
+    "Art_Direction": {
+      "Subject_and_Action": "A powerful hyperbole to describe the torment of poverty: it might be possible to find sleep even in the middle of a fire, but it is utterly impossible to find any sleep in the midst of poverty.",
+      "Symbolic_Motifs": "The miraculous peace of sleeping in fire contrasts with the mundane but absolute torment of sleepless poverty. This elevates the pain of poverty to a level beyond even a supernatural trial.",
+      "Mood_and_Emotion": "Tormented, sleepless, anxious, ultimate suffering.",
+      "Lighting_and_Color": "The fire scene is lit with a warm, magical, and surprisingly peaceful orange glow. The poverty scene is lit with a cold, harsh, and anxious blue-white light that keeps the eyes jarringly open.",
+      "Technical_Cues": {
+        "Camera": "A diptych shot that presents the impossible possibility (sleep in fire) next to the possible impossibility (sleep in poverty).",
+        "Resolution": "8K, ultra-realistic, with advanced fire effects and a strong focus on the tortured, sleepless expression.",
+        "Lighting": "Contrasting lighting: magical warm peace vs. harsh cold anxiety.",
+        "Art_Genre": "Surrealism, symbolic art."
+      },
+      "Cultural_Anchors": [
+        "One can even sleep in fire (நெருப்பினுள் துஞ்சலும் ஆகும்)",
+        "In poverty, sleep is impossible (நிரப்பினுள் கண்பாடு அரிது)"
+      ]
+    },
+    "Negative_Prompt": "person burning, person sleeping in poverty, text artifacts.",
+    "Hyperparameters": {
+      "variant": "pro",
+      "steps": 55,
+      "cfg_scale": 9,
+      "seed": "Explore the visual of 'peaceful sleep in fire'."
+    }
+  }
+}

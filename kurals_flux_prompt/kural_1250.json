@@ -1,0 +1,33 @@
+{
+  "Kural_Info": {
+    "Number": 1250,
+    "Chapter": "நெஞ்சொடுகிளத்தல் (Soliloquy)",
+    "Tamil_Text": "துன்னாத் துறந்தாரை நெஞ்சத்து உடையேமாஇன்னும் இழத்தும் கவின்.",
+    "English_Meaning": "If I should keep in mind the man who utterly renounces me, My soul must suffer further loss of dignity."
+  },
+  "Flux_Optimized_Prompt": {
+    "Layered_Composition": {
+      "Foreground": "A woman is shown holding a dark, thorny object representing the memory of her unfeeling, departed lover ('Thunnaath Thurandhaarai') close to her heart.",
+      "Midground": "As she holds onto this painful memory, her own beauty and vitality ('Kavin') are visibly draining away from her. Her vibrant colors are fading to gray, and her form is becoming weaker.",
+      "Background": "A mirror behind her reflects her fading beauty, confirming the destructive effect of harboring this memory. It is a conscious, painful choice she is making."
+    },
+    "Art_Direction": {
+      "Subject_and_Action": "A self-warning: If I continue to keep the memory of the man who cruelly abandoned me in my heart, I will lose what little beauty and grace I have left.",
+      "Symbolic_Motifs": "The painful memory as a dark, thorny object. Her beauty and color literally draining away as she holds it.",
+      "Mood_and_Emotion": "Self-destructive, sorrowful, cautionary.",
+      "Lighting_and_Color": "The thorny object of memory has a dark, energy-draining aura. As it drains her, her colors fade from vibrant hues to monochrome gray. The lighting is dim and tragic."
+    },
+    "Technical_Cues": {
+      "Camera": "A poignant medium close-up, capturing her sad expression and the visual effect of her beauty draining away.",
+      "Resolution": "8K, photorealistic, with strong color grading and visual effects to show the draining of vitality.",
+      "Lighting": "Low-key, dramatic lighting that emphasizes the loss and sadness.",
+      "Art_Genre": "Symbolic portraiture, focusing on psychological self-harm."
+    },
+    "Cultural_Anchors": [
+      "கவின் (Beauty/Grace)",
+      "The destructive nature of holding onto painful memories",
+      "துறத்தல் (Abandonment)"
+    ]
+  },
+  "Negative_Prompt": "a beautiful, glowing memory, a woman becoming more beautiful, a happy scene, modern setting, text artifacts."
+}

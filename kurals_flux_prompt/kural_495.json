@@ -1,0 +1,39 @@
+{
+  "Kural_Info": {
+    "Number": 495,
+    "Chapter": "இடனறிதல் (Knowing the Place)",
+    "Tamil_Text": "நெடும்புனலுள் வெல்லும் முதலை அடும்புனலின் நீங்கின் அதனைப் பிற.",
+    "English_Meaning": "In deep water, a crocodile will conquer (all other animals); but if it leave the water, other animals will conquer it."
+  },
+  "Flux_Optimized_Prompt": {
+    "Layered_Composition": {
+      "Foreground": "A massive, powerful crocodile ('முதலை') is shown in deep water ('நெடும்புனல்'). It is the undisputed king of its domain, effortlessly overpowering other creatures.",
+      "Midground": "In the same image, the crocodile is shown having left the water ('புனலின் நீங்கின்') and is now stranded on dry land. Here, it is vulnerable and helpless.",
+      "Background": "On the dry land, even smaller, weaker animals like a fox or a dog ('பிற') are shown easily overpowering the mighty crocodile, highlighting its complete loss of power outside its proper place."
+    },
+    "Art_Direction": {
+      "Subject_and_Action": "A direct illustration of the principle of place: even the most powerful being is vulnerable and can be defeated if they are outside their own element.",
+      "Symbolic_Motifs": "The crocodile's dominance in water versus its helplessness on land is the entire story. The contrast in its power level is the key message.",
+      "Mood_and_Emotion": "Powerful in one context, helpless in another. A lesson in humility and strategy.",
+      "Lighting_and_Color": "The underwater scene is majestic, with the crocodile being the powerful focus. The colors are deep blues and greens. The land scene is harsh, dry, and dusty, with the crocodile looking awkward and out of place."
+    },
+    "Technical_Cues": {
+      "Camera": "A split, over-under water shot. The top half shows the crocodile helpless on land, the bottom half shows it as a powerful predator in the water.",
+      "Resolution": "8K, with hyper-realistic textures for the crocodile's skin, water, and dry land.",
+      "Lighting": "Contrasting lighting to differentiate the two environments.",
+      "Art_Genre": "Wildlife realism, conceptual art."
+    },
+    "Cultural_Anchors": [
+      "The Crocodile Analogy",
+      "Powerful in its own place ('நெடும்புனலுள் வெல்லும்')",
+      "Weak outside its place ('புனலின் நீங்கின் அதனைப் பிற வெல்லும்')"
+    ]
+  },
+  "Negative_Prompt": "crocodile winning on land, losing in water, text artifacts, cartoonish animals.",
+  "Hyperparameters": {
+    "variant": "pro",
+    "steps": 50,
+    "cfg_scale": 8,
+    "seed": "Explore variations for the land animals."
+  }
+}

@@ -1,0 +1,39 @@
+{
+  "Kural_Info": {
+    "Number": 59,
+    "Chapter": "வாழ்க்கைத் துணைநலம் (The Worth of a Wife)",
+    "Tamil_Text": "புகழ்புரிந்த இல்லிலோர்க்கு இல்லை இகழ்வார்முன்ஏறுபோல் பீடு நடை.",
+    "English_Meaning": "The man whose wife seeks not the praise (of chastity) cannot walk with lion-like stately step, before those who revile them."
+  },
+  "Flux_Optimized_Prompt": {
+    "Layered_Composition": {
+      "Foreground": "A man stands hunched and shamed, unable to look up. His posture is weak and defeated.",
+      "Midground": "Before him stand several figures representing his revilers ('இகழ்வார்'), their expressions scornful. The man is unable to meet their gaze or walk past them with dignity.",
+      "Background": "The cause of his shame is visualized behind him: his wife is shown engaging in dishonorable activities, her own virtue ('புகழ்') clearly absent. Her lack of virtue casts a long, dark shadow that engulfs her husband."
+    },
+    "Art_Direction": {
+      "Subject_and_Action": "A man is stripped of his masculine dignity and stately, bull-like pride ('ஏறுபோல் பீடு நடை') because his wife lacks the virtue that brings a good reputation.",
+      "Symbolic_Motifs": "The man's shadow should be small and weak, while the shadow cast by his wife's dishonor is huge and oppressive. The 'bull-like walk' is visually absent; he is static and stooped. The revilers are depicted as confident and empowered by his weakness.",
+      "Mood_and_Emotion": "Shameful, diminished, powerless, dishonored.",
+      "Lighting_and_Color": "A harsh, critical light shines on the man, exposing his shame. The scene is dominated by drab, humiliating colors—dull browns and greys. The wife in the background might be in flashy but dishonorable colors.",
+      "Technical_Cues": {
+        "Camera": "Eye-level shot, focusing on the man's shamed expression and posture, with the revilers and the wife in the composition to provide the full narrative.",
+        "Resolution": "8K, ultra-realistic, with a strong focus on body language and facial expressions.",
+        "Lighting": "High-contrast, unflattering lighting to emphasize the man's humiliation.",
+        "Art_Genre": "Social realism, dramatic narrative painting."
+      },
+      "Cultural_Anchors": [
+        "The wife's reputation (புகழ் புரிந்த இல்)",
+        "The bull-like, stately walk of a proud man (ஏறுபோல் பீடு நடை)",
+        "The concept that a man's honor is tied to his wife's virtue"
+      ]
+    },
+    "Negative_Prompt": "proud husband, virtuous wife, happy couple, text artifacts, cartoonish figures.",
+    "Hyperparameters": {
+      "variant": "dev",
+      "steps": 40,
+      "cfg_scale": 9,
+      "seed": "Explore the body language of the shamed husband."
+    }
+  }
+}

@@ -1,0 +1,42 @@
+{
+  "Kural_Info": {
+    "Number": 675,
+    "Chapter": "வினைசெயல்வகை (Modes of Action)",
+    "Tamil_Text": "பொருள்கருவி காலம் வினையிடனொடு ஐந்தும் இருள்தீர எண்ணிச் செயல்.",
+    "English_Meaning": "Do an act after a due consideration of the (following) five, viz. money, means, time, execution and place."
+  },
+  "Flux_Optimized_Prompt": {
+    "Layered_Composition": {
+      "Foreground": "A master planner stands before a grand, ethereal, five-sided holographic interface. The darkness of uncertainty ('இருள்') is all around.",
+      "Midground": "Each of the five panels of the interface represents one of the five considerations: a symbol for Money/Resources ('பொருள்'), a set of Tools ('கருவி'), a celestial Clock ('காலம்'), a Blueprint for the action ('வினை'), and a topographical Map ('இடன்').",
+      "Background": "The planner is shown carefully adjusting each of the five panels until they are all perfectly aligned and glowing in harmony. As they achieve this perfect clarity ('இருள்தீர எண்ணி'), the surrounding darkness is pushed back, revealing a clear and successful path forward for the action."
+    },
+    "Art_Direction": {
+      "Subject_and_Action": "One must act only after thinking through five things until there is no more darkness or doubt: resources, tools, time, the nature of the action, and the place.",
+      "Symbolic_Motifs": "The five-paneled holographic interface is a modern metaphor for the five considerations. The act of aligning them to banish the darkness of uncertainty is the central theme.",
+      "Mood_and_Emotion": "Strategic, clear, comprehensive, methodical, enlightened.",
+      "Lighting_and_Color": "The primary light source is the holographic interface. As the planner achieves clarity, the light from the interface grows stronger and banishes the surrounding shadows.",
+      "Technical_Cues": {
+        "Camera": "A shot from behind the planner, looking at the complex interface they are mastering.",
+        "Resolution": "8K, with a futuristic, high-tech aesthetic for the interface.",
+        "Lighting": "Interactive, glowing lighting from the holographic panels.",
+        "Art_Genre": "Science fiction, high-tech fantasy."
+      }
+    },
+    "Cultural_Anchors": [
+      "The Five Considerations for Action:",
+      "'Porul' (Resources)",
+      "'Karuvi' (Tools)",
+      "'Kaalam' (Time)",
+      "'Vinai' (Action)",
+      "'Idan' (Place)"
+    ]
+  },
+  "Negative_Prompt": "dark interface, confused planner, text on the interface, cartoonish.",
+  "Hyperparameters": {
+    "variant": "pro",
+    "steps": 50,
+    "cfg_scale": 8,
+    "seed": "Explore variations for the holographic interface design."
+  }
+}

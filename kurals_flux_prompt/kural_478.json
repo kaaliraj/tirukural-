@@ -1,0 +1,39 @@
+{
+  "Kural_Info": {
+    "Number": 478,
+    "Chapter": "வலியறிதல் (The Knowledge of Power)",
+    "Tamil_Text": "ஆகாறு அளவிட்டி தாயினுங் கேடில்லை போகாறு அகலாக் கடை.",
+    "English_Meaning": "Even though the income (of a king) be small, it will not cause his (ruin), if his outgoings be not larger than his income."
+  },
+  "Flux_Optimized_Prompt": {
+    "Layered_Composition": {
+      "Foreground": "A visual representation of a kingdom's finances. A small, modest stream representing income ('ஆகாறு அளவிட்டிது') flows into a reservoir.",
+      "Midground": "The outlet channel for this reservoir, representing expenditure ('போகாறு'), is deliberately constructed to be even smaller than the inflow stream. Because the outflow is not wide ('அகலாக் கடை'), there is no danger of the reservoir running dry.",
+      "Background": "As a result, the reservoir maintains a stable, healthy level of water, and the kingdom it supplies is shown to be stable and free from ruin ('கேடில்லை'), despite the small income."
+    },
+    "Art_Direction": {
+      "Subject_and_Action": "There is no danger of ruin, even with a small income, as long as expenditure does not exceed it.",
+      "Symbolic_Motifs": "The water system is a clear metaphor for finances. The small inflow vs. the even smaller outflow is the central visual that explains the principle of fiscal prudence.",
+      "Mood_and_Emotion": "Prudent, stable, secure, financially wise.",
+      "Lighting_and_Color": "Clear, natural lighting. The water is clean and the system is well-maintained, suggesting order and good management. The kingdom in the background is peaceful."
+    },
+    "Technical_Cues": {
+      "Camera": "A high-angle shot that allows the viewer to see the entire water management system—inflow, reservoir, and outflow—and understand the relationship between them.",
+      "Resolution": "8K, with realistic water simulation.",
+      "Lighting": "Bright, even lighting to convey clarity and stability.",
+      "Art_Genre": "Conceptual illustration, landscape with symbolic elements."
+    },
+    "Cultural_Anchors": [
+      "Small Income ('ஆகாறு அளவிட்டிது')",
+      "Expenditure not exceeding income ('போகாறு அகலாக் கடை')",
+      "Fiscal responsibility ensures no ruin ('கேடில்லை')."
+    ]
+  },
+  "Negative_Prompt": "outflow larger than inflow, dry reservoir, ruined kingdom, text artifacts, muddy water.",
+  "Hyperparameters": {
+    "variant": "dev",
+    "steps": 40,
+    "cfg_scale": 8,
+    "seed": "Explore variations for the design of the reservoir."
+  }
+}

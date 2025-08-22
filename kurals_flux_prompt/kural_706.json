@@ -1,0 +1,39 @@
+{
+  "Kural_Info": {
+    "Number": 706,
+    "Chapter": "குறிப்பறிதல் (The Knowledge of Indications)",
+    "Tamil_Text": "அடுத்தது காட்டும் பளிங்குபோல் நெஞ்சம் கடுத்தது காட்டும் முகம்.",
+    "English_Meaning": "As the mirror reflects what is near so does the face show what is uppermost in the mind."
+  },
+  "Flux_Optimized_Prompt": {
+    "Layered_Composition": {
+      "Foreground": "A split image. On the left, a flawless, polished crystal mirror ('பளிங்கு') is shown perfectly reflecting a beautiful flower that is placed next to it ('அடுத்தது காட்டும்').",
+      "Midground": "On the right, a person's face ('முகம்') is shown. Their mind ('நெஞ்சம்') is filled with a strong emotion, like anger or joy, which is visualized as a fiery or sunny light within their chest. This inner feeling is perfectly and instantly reflected in their facial expression ('கடுத்தது காட்டும்').",
+      "Background": "The parallel is drawn to show the face as a perfect mirror of the heart's immediate feelings."
+    },
+    "Art_Direction": {
+      "Subject_and_Action": "Just as a crystal mirror shows what is next to it, the face instantly shows what is foremost in the heart.",
+      "Symbolic_Motifs": "The mirror and the face are the two parallel subjects. The reflection in the mirror and the expression on the face are the parallel actions.",
+      "Mood_and_Emotion": "Reflective, transparent, honest (in expression), immediate.",
+      "Lighting_and_Color": "Clear, bright lighting to emphasize the clarity of the reflection and expression. The emotion in the heart can be color-coded (red for anger, gold for joy).",
+      "Technical_Cues": {
+        "Camera": "A clean, side-by-side composition to make the analogy clear.",
+        "Resolution": "8K, with perfect reflections and clear, expressive facial features.",
+        "Lighting": "Natural, clear lighting.",
+        "Art_Genre": "Conceptual realism."
+      }
+    },
+    "Cultural_Anchors": [
+      "Like a crystal mirror ('பளிங்குபோல்')",
+      "The face shows the heart ('நெஞ்சம் கடுத்தது காட்டும் முகம்')",
+      "The face as an indicator of emotion."
+    ]
+  },
+  "Negative_Prompt": "blurry mirror, emotionless face, text artifacts.",
+  "Hyperparameters": {
+    "variant": "pro",
+    "steps": 45,
+    "cfg_scale": 7,
+    "seed": "Explore variations for the visualization of the heart's emotion."
+  }
+}

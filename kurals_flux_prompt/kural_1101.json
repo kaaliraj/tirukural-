@@ -1,0 +1,38 @@
+{
+  "Kural_Info": {
+    "Number": 1101,
+    "Chapter": "புணர்ச்சிமகிழ்தல் (Rejoicing in the Embrace)",
+    "Tamil_Text": "கண்டுகேட்டு உண்டுயிர்த்து உற்றறியும் ஐம்புலனும்ஒண்தொடி கண்ணே உள.",
+    "English_Meaning": "The (simultaneous) enjoyment of the five senses of sight, hearing, taste, smell and touch can only be found with bright braceleted (women)."
+  },
+  "Flux_Optimized_Prompt": {
+    "Layered_Composition": {
+      "Foreground": "A lover and his beloved ('ஒண் தொடி') are in a close, intimate embrace.",
+      "Midground": "The experience is a complete sensory symphony. Five streams of pure, blissful energy, representing the five senses, are shown flowing from the beloved to the lover simultaneously.",
+      "Background": "Each stream is distinct: a stream of visual beauty from her form ('கண்டு'), a stream of musical sound from her voice ('கேட்டு'), a sweet stream of nectar from her lips ('உண்டு'), a fragrant stream from her hair and skin ('உயிர்த்து'), and a warm, comforting stream from the touch of her skin ('உற்று அறியும்'). All five pleasures are found in her alone."
+    },
+    "Art_Direction": {
+      "Subject_and_Action": "The unique and total bliss of being with the beloved, where the pleasures of all five senses are experienced simultaneously and harmoniously in one person.",
+      "Symbolic_Motifs": "The five distinct but simultaneous streams of sensory pleasure are the key visual. The lover is shown in a state of ecstatic bliss, completely overwhelmed by this sensory symphony. The bright bracelets of the beloved are a synecdoche for her entire being.",
+      "Mood_and_Emotion": "Ecstatic, blissful, symphonic, total sensory fulfillment.",
+      "Lighting_and_Color": "A brilliant, multi-hued light emanates from the beloved, composed of the five different colors of the sensory streams. The scene is a vibrant, dazzling explosion of blissful light and color.",
+      "Technical_Cues": {
+        "Camera": "A shot that captures the embrace, with a surreal, symbolic visualization of the five sensory streams flowing from her to him.",
+        "Resolution": "8K, ultra-realistic figures, with advanced particle and light effects for the sensory streams.",
+        "Lighting": "The beloved is the source of a complex, multi-colored, radiant light.",
+        "Art_Genre": "High-romance fantasy art, psychedelic realism."
+      },
+      "Cultural_Anchors": [
+        "The five senses: seeing, hearing, tasting, smelling, touching (கண்டு கேட்டு உண்டு உயிர்த்து உற்று அறியும்)",
+        "Are all found in the bright-braceleted one (ஒண் தொடி கண்ணே உள)"
+      ]
+    },
+    "Negative_Prompt": "one sense being stimulated, dark scene, text artifacts.",
+    "Hyperparameters": {
+      "variant": "pro",
+      "steps": 55,
+      "cfg_scale": 8,
+      "seed": "Explore the distinct visual qualities of the five sensory streams."
+    }
+  }
+}

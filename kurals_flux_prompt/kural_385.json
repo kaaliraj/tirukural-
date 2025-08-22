@@ -1,0 +1,41 @@
+{
+  "Kural_Info": {
+    "Number": 385,
+    "Chapter": "இறைமாட்சி (The Greatness of a King)",
+    "Tamil_Text": "இயற்றலும் ஈட்டலுங் காத்தலும் காத்த வகுத்தலும் வல்ல தரசு.",
+    "English_Meaning": "A king is he who treasure gains, stores up, defends, And duly for his kingdom's weal expends."
+  },
+  "Flux_Optimized_Prompt": {
+    "Layered_Composition": {
+      "Foreground": "A dynamic scene showing the four stages of good governance in a continuous flow. From the left, resources are being created and generated ('இயற்றல்').",
+      "Midground": "The generated wealth is then gathered and stored in a state treasury ('ஈட்டல்'). The treasury is being vigilantly guarded by soldiers ('காத்தல்').",
+      "Background": "From the guarded treasury, the wealth is being systematically distributed to the people for public works, education, and welfare ('வகுத்தல்'), leading to a prosperous kingdom."
+    },
+    "Art_Direction": {
+      "Subject_and_Action": "The four key functions of an effective government: creating wealth, accumulating it, protecting it, and distributing it wisely for the public good.",
+      "Symbolic_Motifs": "The image flows from left to right, showing the entire economic cycle of a well-run state. Each stage is clearly depicted with representative actions.",
+      "Mood_and_Emotion": "Systematic, prosperous, efficient, benevolent, secure.",
+      "Lighting_and_Color": "Bright, positive lighting throughout. The wealth is depicted as golden grain or coins, flowing through the four stages. The final distribution scene is filled with happy, productive citizens."
+    },
+    "Technical_Cues": {
+      "Camera": "Ultra-wide panoramic shot, like a long mural, capturing the entire process in one image.",
+      "Resolution": "8K, detailed, with many figures engaged in various activities.",
+      "Lighting": "Clear, even, daytime lighting to convey transparency and order.",
+      "Art_Genre": "Digital mural painting, in the style of historical reliefs that tell a story."
+    },
+    "Cultural_Anchors": [
+      "Four functions of governance:",
+      "'Iyattral' (Creation of Wealth)",
+      "'Eettal' (Accumulation)",
+      "'Kaathal' (Protection)",
+      "'Vaguthal' (Distribution)"
+    ]
+  },
+  "Negative_Prompt": "hoarding wealth, citizens starving, disorganized scenes, dark and corrupt atmosphere, text artifacts.",
+  "Hyperparameters": {
+    "variant": "pro",
+    "steps": 50,
+    "cfg_scale": 7,
+    "seed": "Explore variations for the public welfare projects."
+  }
+}

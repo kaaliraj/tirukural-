@@ -1,0 +1,38 @@
+{
+  "Kural_Info": {
+    "Number": 137,
+    "Chapter": "ஒழுக்கமுடைமை (The Possession of Decorum)",
+    "Tamil_Text": "ஒழுக்கத்தின் எய்துவர் மேன்மை இழுக்கத்தின்எய்துவர் எய்தாப் பழி.",
+    "English_Meaning": "From propriety of conduct men obtain greatness; from impropriety comes insufferable disgrace."
+  },
+  "Flux_Optimized_Prompt": {
+    "Layered_Composition": {
+      "Foreground": "A split composition of a single figure at a crossroads.",
+      "Midground": "On the right path, the Path of Decorum ('ஒழுக்கத்தின்'), the figure is shown ascending towards a sunlit peak of 'Greatness' ('மேன்மை').",
+      "Background": "On the left path, the Path of Impropriety ('இழுக்கத்தின்'), the figure is shown being attacked and covered by a swarm of dark, monstrous creatures representing 'unmerited blame' or 'insufferable disgrace' ('எய்தாப் பழி'). This disgrace is shown to be a positive affliction, not just a lack of honor."
+    },
+    "Art_Direction": {
+      "Subject_and_Action": "A direct contrast of the two outcomes of conduct: decorum leads to the attainment of greatness, while a lapse in decorum leads to the attainment of a terrible and previously unknown disgrace.",
+      "Symbolic_Motifs": "The upward path to greatness versus the downward path to being consumed by blame-monsters is the key visual. The disgrace is not just a state but an active, attacking force.",
+      "Mood_and_Emotion": "Aspirational vs. calamitous, clear consequences, cautionary.",
+      "Lighting_and_Color": "The path of decorum is bright, golden, and ascending. The path of impropriety is dark, shadowy, and descending, filled with the monstrous, dark shapes of blame.",
+      "Technical_Cues": {
+        "Camera": "A wide, epic shot showing the fork in the road and the two vastly different fates that await on each path.",
+        "Resolution": "8K, ultra-realistic, with ethereal effects for the peak of greatness and monstrous effects for the creatures of blame.",
+        "Lighting": "Strongly contrasting, dualistic lighting.",
+        "Art_Genre": "Epic fantasy landscape, allegorical art."
+      },
+      "Cultural_Anchors": [
+        "From decorum, one attains greatness (ஒழுக்கத்தின் எய்துவர் மேன்மை)",
+        "From a lapse, one attains unmerited blame (இழுக்கத்தின் எய்துவர் எய்தாப் பழி)"
+      ]
+    },
+    "Negative_Prompt": "greatness from bad conduct, text artifacts, cartoonish monsters.",
+    "Hyperparameters": {
+      "variant": "pro",
+      "steps": 50,
+      "cfg_scale": 8,
+      "seed": "Explore the design of the 'monsters of blame'."
+    }
+  }
+}

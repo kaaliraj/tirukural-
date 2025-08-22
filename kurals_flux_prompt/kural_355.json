@@ -1,0 +1,39 @@
+{
+  "Kural_Info": {
+    "Number": 355,
+    "Chapter": "மெய்யுணர்தல் (Truth-Conciousness)",
+    "Tamil_Text": "எப்பொருள் எத்தன்மைத் தாயினும் அப்பொருள்மெய்ப்பொருள் காண்பது அறிவு.",
+    "English_Meaning": "(True) knowledge is the perception concerning every thing of whatever kind, that that thing is the true thing."
+  },
+  "Flux_Optimized_Prompt": {
+    "Layered_Composition": {
+      "Foreground": "A wise person's mind is shown as a powerful, magical lens.",
+      "Midground": "A variety of objects, representing 'whatever thing of whatever nature' ('எப்பொருள் எத்தன்மைத்து ஆயினும்'), are passed before this lens. These objects have confusing or deceptive outer appearances: a beautiful mirage, a cleverly disguised trap, a complex philosophical text.",
+      "Background": "The magical lens of Wisdom ('அறிவு') instantly strips away all the outer appearances, illusions, and complexities. It reveals, for each object, its single, simple, essential core of truth ('அப்பொருள் மெய்ப்பொருள்'). The mirage becomes a wisp of heat, the trap becomes a simple mechanism, the complex text becomes a single, glowing symbol of its core idea."
+    },
+    "Art_Direction": {
+      "Subject_and_Action": "The definition of true knowledge: the ability to look at anything, no matter its outward appearance or nature, and perceive its true, essential substance.",
+      "Symbolic_Motifs": "The lens of wisdom that reveals the 'true object' within the apparent object is the central metaphor. The process is one of stripping away illusion to reveal the core reality.",
+      "Mood_and_Emotion": "Discerning, penetrating, revealing, clear-sighted.",
+      "Lighting_and_Color": "A clear, analytical, pure white light. The outer appearances of the objects are a mix of deceptive colors. The revealed 'true substance' of each is a simple, pure, and brightly glowing form.",
+      "Technical_Cues": {
+        "Camera": "A shot that shows the various objects moving towards the lens and emerging on the other side, transformed into their essential truths.",
+        "Resolution": "8K, ultra-realistic, with advanced visual effects for the transformation process.",
+        "Lighting": "The 'lens of wisdom' should be the source of a revealing, truth-exposing light.",
+        "Art_Genre": "Conceptual art, with sci-fi and fantasy elements."
+      },
+      "Cultural_Anchors": [
+        "Whatever the thing, whatever its nature (எப்பொருள் எத்தன்மைத்து ஆயினும்)",
+        "Seeing the true substance of that thing (அப்பொருள் மெய்ப்பொருள் காண்பது)",
+        "Is wisdom (அறிவு)"
+      ]
+    },
+    "Negative_Prompt": "lens being fooled, text artifacts, blurry images.",
+    "Hyperparameters": {
+      "variant": "pro",
+      "steps": 55,
+      "cfg_scale": 9,
+      "seed": "Explore the visual transformation of different objects."
+    }
+  }
+}

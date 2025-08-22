@@ -1,0 +1,38 @@
+{
+  "Kural_Info": {
+    "Number": 1296,
+    "Chapter": "நெஞ்சொடுபுலத்தல் (Expostulation with Oneself)",
+    "Tamil_Text": "தனியே இருந்து நினைத்தக்கால் என்னைத்தினிய இருந்ததென் நெஞ்சு.",
+    "English_Meaning": "My heart consumes me when I ponder lone, And all my lover's cruelty bemoan."
+  },
+  "Flux_Optimized_Prompt": {
+    "Layered_Composition": {
+      "Foreground": "A woman is shown sitting alone ('தனியே இருந்து'), lost in thought ('நினைத்தக்கால்').",
+      "Midground": "Her own heart ('என் நெஞ்சு') is visualized as separating from her body and transforming into a predatory, beast-like entity.",
+      "Background": "This heart-beast is shown turning on her and literally devouring her ('என்னைத் தினிய இருந்தது'), consuming her with the sorrowful memories of her lover's absence. The source of her torment is her own heart."
+    },
+    "Art_Direction": {
+      "Subject_and_Action": "A lament that when the lover is alone and thinking of her absent beloved, her own heart turns against her and consumes her with sorrow.",
+      "Symbolic_Motifs": "The heart as a self-devouring beast is a powerful and visceral metaphor for the pain of lonely remembrance. The solitude is the trigger that transforms the heart from a loving organ into a tormenting predator.",
+      "Mood_and_Emotion": "Self-destructive, tormenting, sorrowful, predatory.",
+      "Lighting_and_Color": "A dark, lonely, and melancholic light. The heart-beast is a creature of shadow and sorrowful energy. The scene is one of internal, psychological horror.",
+      "Technical_Cues": {
+        "Camera": "A surreal and claustrophobic shot that captures the woman being consumed by the monstrous manifestation of her own heart.",
+        "Resolution": "8K, hyper-realistic, with a terrifying but symbolic design for the heart-beast.",
+        "Lighting": "Low-key, shadowy lighting to create a mood of intimate terror.",
+        "Art_Genre": "Dark surrealism, psychological horror."
+      },
+      "Cultural_Anchors": [
+        "When I am alone and think (தனியே இருந்து நினைத்தக்கால்)",
+        "My heart was eating me (என்னைத் தினிய இருந்தது என் நெஞ்சு)"
+      ]
+    },
+    "Negative_Prompt": "peaceful thoughts, happy heart, text artifacts, cartoonish monster.",
+    "Hyperparameters": {
+      "variant": "pro",
+      "steps": 50,
+      "cfg_scale": 9,
+      "seed": "Explore the design of the 'self-devouring heart-beast'."
+    }
+  }
+}

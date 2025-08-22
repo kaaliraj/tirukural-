@@ -1,0 +1,39 @@
+{
+  "Kural_Info": {
+    "Number": 155,
+    "Chapter": "பொறையுடைமை (The Possession of Patience, Forbearance)",
+    "Tamil_Text": "ஒறுத்தாரை ஒன்றாக வையாரே வைப்பர்பொறுத்தாரைப் பொன்போற் பொதிந்து.",
+    "English_Meaning": "(The wise) will not at all esteem the resentful. They will esteem the patient just as the gold which they lay up with care."
+  },
+  "Flux_Optimized_Prompt": {
+    "Layered_Composition": {
+      "Foreground": "A contrasting diptych. On the left, a resentful person ('ஒறுத்தார்') who has taken revenge is shown being disregarded by the wise; they are depicted as a worthless, crumbling clay statue that no one pays attention to.",
+      "Midground": "On the right, a patient person ('பொறுத்தார்') who has forborne an injury is shown. The wise are carefully and reverently wrapping this person in fine silks and placing them in a treasure chest, treating them like a precious golden idol ('பொன்போல் பொதிந்து').",
+      "Background": "A hall of wisdom, where the judgment of the wise ('வையார்', 'வைப்பர்') is the ultimate measure of a person's worth."
+    },
+    "Art_Direction": {
+      "Subject_and_Action": "The wise disregard the resentful as worthless, while they cherish and preserve the patient as they would the most precious gold.",
+      "Symbolic_Motifs": "The contrast between the crumbling clay statue and the cherished golden idol is a direct and powerful metaphor for the value judgment being made. The actions of the wise—ignoring one, carefully preserving the other—make the meaning explicit.",
+      "Mood_and_Emotion": "Valued vs. worthless, cherished, esteemed, disregarded.",
+      "Lighting_and_Color": "The left side is dimly lit, dusty, and grey. The right side is illuminated by a warm, respectful light, with the rich colors of gold, silk, and polished wood.",
+      "Technical_Cues": {
+        "Camera": "A clear, comparative shot that presents the two fates side-by-side.",
+        "Resolution": "8K, ultra-realistic, with a strong textural contrast between the crumbling clay and the gleaming gold.",
+        "Lighting": "Dual lighting scheme to emphasize the contrast between worthlessness and preciousness.",
+        "Art_Genre": "Allegorical painting, historical realism."
+      },
+      "Cultural_Anchors": [
+        "The Resentful (ஒறுத்தார்)",
+        "The Patient (பொறுத்தார்)",
+        "Cherished like gold (பொன்போல் பொதிந்து)"
+      ]
+    },
+    "Negative_Prompt": "happy resentful person, disregarded patient person, text artifacts, cartoonish statues.",
+    "Hyperparameters": {
+      "variant": "pro",
+      "steps": 50,
+      "cfg_scale": 8,
+      "seed": "Explore the textures of the clay and gold figures."
+    }
+  }
+}

@@ -1,0 +1,39 @@
+{
+  "Kural_Info": {
+    "Number": 732,
+    "Chapter": "நாடு (The Land)",
+    "Tamil_Text": "பெரும்பொருளால் பெட்டக்க தாகி அருங்கேட்டால் ஆற்ற விளைவது நாடு.",
+    "English_Meaning": "A kingdom is that which is desire for its immense wealth, and which grows greatly in prosperity, being free from destructive causes."
+  },
+  "Flux_Optimized_Prompt": {
+    "Layered_Composition": {
+      "Foreground": "A magnificent country is depicted, so rich in resources ('பெரும்பொருள்') that it is desired by all, visualized by people from other lands looking towards it with longing ('பெட்டக்கதாகி').",
+      "Midground": "The country is protected by a shimmering, divine shield that wards off all rare and destructive calamities like famine, plague, or invasion ('அருங்கேடு').",
+      "Background": "Because it is protected from these great harms, the nation is shown in a state of continuous and powerful growth, with new cities and fields flourishing and expanding ('ஆற்ற விளைவது')."
+    },
+    "Art_Direction": {
+      "Subject_and_Action": "A great nation is one that is desirable for its great wealth and is free from rare calamities, allowing it to grow immensely.",
+      "Symbolic_Motifs": "The shield against calamities is a key visual. The longing gazes of outsiders show its desirability. The visible growth and expansion show its flourishing state.",
+      "Mood_and_Emotion": "Prosperous, desirable, secure, growing, powerful.",
+      "Lighting_and_Color": "A bright, golden light of prosperity. The shield has a powerful, divine glow. The colors are vibrant and suggest immense vitality and growth.",
+      "Technical_Cues": {
+        "Camera": "An epic, high-angle panoramic shot that shows the desirable nation, the shield protecting it, and its dynamic growth.",
+        "Resolution": "8K, cinematic, with a grand, epic scale.",
+        "Lighting": "Bright, heroic lighting.",
+        "Art_Genre": "Epic fantasy landscape painting."
+      },
+      "Cultural_Anchors": [
+        "Desirable for Great Wealth ('பெரும்பொருளால் பெட்டக்கது')",
+        "Free from Rare Calamities ('அருங்கேடு')",
+        "Growing Immensely ('ஆற்ற விளைவது')"
+      ]
+    },
+    "Negative_Prompt": "poor country, country hit by disasters, text artifacts, cartoonish.",
+    "Hyperparameters": {
+      "variant": "pro",
+      "steps": 50,
+      "cfg_scale": 8,
+      "seed": "Explore variations for the divine shield."
+    }
+  }
+}

@@ -1,0 +1,39 @@
+{
+  "Kural_Info": {
+    "Number": 956,
+    "Chapter": "குடிமை (Nobility)",
+    "Tamil_Text": "சலம்பற்றிச் சால்பில செய்யார்மா சற்ற குலம்பற்றி வாழ்தும்என் பார்.",
+    "English_Meaning": "Those who seek to preserve the irreproachable honour of their families will not viciously do what is detrimental thereto."
+  },
+  "Flux_Optimized_Prompt": {
+    "Layered_Composition": {
+      "Foreground": "A noble person stands at a crossroads. One path is a dark, muddy road of deceit and dishonorable actions ('சலம்பற்றிச் சால்பில').",
+      "Midground": "The person's anchor and guide is their family's honor, visualized as a brilliant, spotless, ancestral banner that they hold with reverence ('மாசற்ற குலம் பற்றி'). Their life's purpose is to live by it.",
+      "Background": "Because their entire identity and purpose are tied to keeping this banner spotless, they are shown decisively turning their back on the muddy path, refusing to take any action that would stain the honor of their lineage."
+    },
+    "Art_Direction": {
+      "Subject_and_Action": "Those whose life is anchored in upholding the spotless honor of their family will never commit a base or deceitful act.",
+      "Symbolic_Motifs": "The spotless banner of lineage is the moral anchor. The muddy path is the dishonorable temptation. The act of turning away is the principled choice.",
+      "Mood_and_Emotion": "Honorable, principled, dignified, incorruptible.",
+      "Lighting_and_Color": "A brilliant, pure light emanates from the family banner, illuminating the person and casting the muddy path into deep shadow. The colors are noble and clean.",
+      "Technical_Cues": {
+        "Camera": "A medium shot that captures the person's resolute choice, showing them holding the banner and turning from the dark path.",
+        "Resolution": "8K, with a classical, heroic feel.",
+        "Lighting": "The banner of honor is the primary, virtuous light source.",
+        "Art_Genre": "Symbolic realism, with a heraldic aesthetic."
+      }
+    },
+    "Cultural_Anchors": [
+      "Anchored by a spotless lineage ('மாசற்ற குலம் பற்றி')",
+      "Will not do base/deceitful things ('சலம்பற்றிச் சால்பில செய்யார்')",
+      "The power of family honor."
+    ]
+  },
+  "Negative_Prompt": "a stained banner, a person walking the muddy path, text artifacts, cartoonish.",
+  "Hyperparameters": {
+    "variant": "pro",
+    "steps": 50,
+    "cfg_scale": 8,
+    "seed": "Explore variations for the spotless banner."
+  }
+}

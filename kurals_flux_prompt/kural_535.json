@@ -1,0 +1,39 @@
+{
+  "Kural_Info": {
+    "Number": 535,
+    "Chapter": "பொச்சாவாமை (Unforgetfulness)",
+    "Tamil_Text": "முன்னுறக் காவாது இழுக்கியான் தன்பிழை பின்னூறு இரங்கி விடும்.",
+    "English_Meaning": "The thoughtless man, who provides not against the calamities that may happen, will afterwards repent for his fault."
+  },
+  "Flux_Optimized_Prompt": {
+    "Layered_Composition": {
+      "Foreground": "A person is shown walking carelessly ('இழுக்கியான்'), ignoring the clear warning signs of a storm approaching on the horizon ('முன்னுறக் காவாது').",
+      "Midground": "The storm hits with full force. The person is now drenched, miserable, and their house in the background is shown being destroyed by the calamity.",
+      "Background": "In the aftermath, the storm has passed, and the person is sitting amidst the ruins of their life, their face a mask of deep regret and sorrow for their own mistake ('தன்பிழை பின்னூறு இரங்கி விடும்')."
+    },
+    "Art_Direction": {
+      "Subject_and_Action": "One who fails to take precautions against foreseeable problems will surely come to regret their negligence later.",
+      "Symbolic_Motifs": "The approaching storm is the foreseeable calamity. The person's initial carelessness contrasts sharply with their final state of regret. The ruined house symbolizes the consequences of their lack of foresight.",
+      "Mood_and_Emotion": "Regretful, tragic, cautionary, a story of preventable loss.",
+      "Lighting_and_Color": "The scene transitions from a bright but ominous light before the storm, to dark and chaotic during the storm, to a bleak, grey, post-storm light for the final scene of regret.",
+      "Technical_Cues": {
+        "Camera": "A three-act narrative composition within a single image, showing the before, during, and after of the disaster.",
+        "Resolution": "8K, cinematic, with realistic weather effects.",
+        "Lighting": "Dynamic, storytelling lighting that changes with the narrative.",
+        "Art_Genre": "Narrative realism."
+      }
+    },
+    "Cultural_Anchors": [
+      "Failing to guard beforehand ('முன்னுறக் காவாது')",
+      "Regretting one's fault later ('பின்னூறு இரங்கி விடும்')",
+      "The price of negligence."
+    ]
+  },
+  "Negative_Prompt": "person preparing for the storm, house being safe, happy expression at the end, text artifacts.",
+  "Hyperparameters": {
+    "variant": "pro",
+    "steps": 50,
+    "cfg_scale": 8,
+    "seed": "Explore variations for the storm effects."
+  }
+}

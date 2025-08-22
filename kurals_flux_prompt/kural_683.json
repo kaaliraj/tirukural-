@@ -1,0 +1,39 @@
+{
+  "Kural_Info": {
+    "Number": 683,
+    "Chapter": "தூது (The Envoy)",
+    "Tamil_Text": "நூலாருள் நூல்வல்லன் ஆகுதல் வேலாருள் வென்றி வினையுரைப்பான் பண்பு.",
+    "English_Meaning": "To be powerful in politics among those who are learned (in ethics) is the character of him who speaks to lance-bearing kings on matters of triumph (to his own sovereign)."
+  },
+  "Flux_Optimized_Prompt": {
+    "Layered_Composition": {
+      "Foreground": "An envoy is shown in two contrasting environments simultaneously.",
+      "Midground": "On the left, he is in a council of scholars and learned men ('நூலார்'), where he is shown to be the most proficient and knowledgeable among them, his book glowing the brightest ('நூல்வல்லன்'). On the right, he is standing in a court of fierce, spear-wielding kings ('வேலார்'), and he is speaking with such power and conviction that his words forge a crown of victory ('வென்றி') for his own king.",
+      "Background": "This duality shows that his intellectual superiority among the learned is the very source of his diplomatic power among the warlike."
+    },
+    "Art_Direction": {
+      "Subject_and_Action": "The character of a successful envoy is to be a master of knowledge among scholars, which enables him to speak of victory among warriors.",
+      "Symbolic_Motifs": "The diptych composition contrasts the world of books with the world of spears. The envoy's mastery in the first context is shown to be the direct cause of his success in the second.",
+      "Mood_and_Emotion": "Erudite, powerful, convincing, victorious.",
+      "Lighting_and_Color": "The scholar's council is lit with a warm, intellectual light. The king's court is lit with a harsher, more martial light. The envoy is the bridge between these two worlds.",
+      "Technical_Cues": {
+        "Camera": "A split-screen composition that clearly shows the envoy excelling in both environments.",
+        "Resolution": "8K, with rich detail in both the scholarly and martial settings.",
+        "Lighting": "Contrasting lighting for the two scenes.",
+        "Art_Genre": "Historical fantasy, narrative diptych."
+      }
+    },
+    "Cultural_Anchors": [
+      "Master of lore among the learned ('நூலாருள் நூல்வல்லன்')",
+      "Speaking of victory to warrior kings ('வேலாருள் வென்றி வினையுரைப்பான்')",
+      "The link between scholarship and diplomacy."
+    ]
+  },
+  "Negative_Prompt": "envoy failing in either scene, text on books, cartoonish kings.",
+  "Hyperparameters": {
+    "variant": "pro",
+    "steps": 50,
+    "cfg_scale": 8,
+    "seed": "Explore variations for the 'crown of victory' forged by words."
+  }
+}

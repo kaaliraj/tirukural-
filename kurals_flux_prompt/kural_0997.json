@@ -1,0 +1,33 @@
+{
+  "Kural_Info": {
+    "Number": 997,
+    "Chapter": "பண்புடைமை (Courtesy)",
+    "Tamil_Text": "அரம்போலும் கூர்மைய ரேனும் மரம்போல்வர்மக்கட்பண்பு இல்லா தவர்.",
+    "English_Meaning": "Though sharp their wit as file, as blocks they must remain, Whose souls are void of 'courtesy humane'."
+  },
+  "Flux_Optimized_Prompt": {
+    "Layered_Composition": {
+      "Foreground": "A scholar is depicted, his mind so sharp ('Aram polum koormai') that glowing, complex mathematical formulas and intricate designs flow from his thoughts. However, his body from the neck down is literally turning into a lifeless wooden statue ('Maram polvar').",
+      "Midground": "Someone in need approaches him, but the scholar, due to his lack of humane courtesy ('Makkatpanbu illathavar'), remains rigid and unmoving like the statue he is becoming, unable to offer help or compassion.",
+      "Background": "A library or place of learning, filled with scrolls and books, which now seems cold and sterile, lacking the warmth of human interaction."
+    },
+    "Art_Direction": {
+      "Subject_and_Action": "A surreal metaphor showing that intelligence, no matter how sharp, is lifeless and useless like wood if it is not accompanied by humane character and courtesy.",
+      "Symbolic_Motifs": "The transformation into a wooden statue is the core visual. The glowing intelligence contrasts with the dull, lifeless wood. The ignored person in need highlights the scholar's failure.",
+      "Mood_and_Emotion": "Tragic, sterile, a critique of intellect without humanity.",
+      "Lighting_and_Color": "A cool, intellectual blue light illuminates the scholar's head and thoughts. The wooden body and the surroundings are in dull, lifeless browns and grays."
+    },
+    "Technical_Cues": {
+      "Camera": "Medium shot focusing on the scholar's transformation and his cold reaction to the person in need.",
+      "Resolution": "8K, surreal realism, with detailed textures for the glowing thoughts and the wood grain of the body.",
+      "Lighting": "High-contrast lighting, separating the 'sharp mind' from the 'wooden heart'.",
+      "Art_Genre": "Surrealist painting with a strong narrative and moral message."
+    },
+    "Cultural_Anchors": [
+      "மக்கட்பண்பு (Humane character/Courtesy)",
+      "அறிவு (Intellect/Sharpness)",
+      "The concept of intellect vs. humanity"
+    ]
+  },
+  "Negative_Prompt": "a warm and helpful scholar, a happy person in need, natural outdoor setting, text artifacts, cartoonish, blurry."
+}

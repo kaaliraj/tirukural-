@@ -1,0 +1,33 @@
+{
+  "Kural_Info": {
+    "Number": 992,
+    "Chapter": "பண்புடைமை (Courtesy)",
+    "Tamil_Text": "அன்புடைமை ஆன்ற குடிப்பிறத்தல் இவ்விரண்டும்பண்புடைமை என்னும் வழக்கு.",
+    "English_Meaning": "Benevolence and high born dignity, These two are beaten paths of courtesy."
+  },
+  "Flux_Optimized_Prompt": {
+    "Layered_Composition": {
+      "Foreground": "A noble person from an ancient Tamil lineage is depicted. From their heart, a warm light of 'Anbu' (love/benevolence) emanates. Their dignified posture and refined attire signify their 'Aandra Kudipirathal' (noble birth).",
+      "Midground": "These two qualities—the light of love and the dignity of birth—are shown merging to form a well-trodden, pleasant path before them, which is 'Panbudaimai' (courtesy).",
+      "Background": "The path leads through a respected and harmonious society, where people greet the figure with admiration, showing the societal effect of their courtesy."
+    },
+    "Art_Direction": {
+      "Subject_and_Action": "Courtesy is presented as the natural outcome of combining two core qualities: innate benevolence and the dignity of a good upbringing.",
+      "Symbolic_Motifs": "The light from the heart for 'Anbu'. The dignified bearing for 'Kudipirathal'. The well-trodden path formed by their merging is the key metaphor for courtesy as a practice.",
+      "Mood_and_Emotion": "Noble, gracious, benevolent, dignified.",
+      "Lighting_and_Color": "A warm, golden light that feels both internal (from the heart) and external (like a gentle sun). The palette combines rich, noble colors with soft, warm tones."
+    },
+    "Technical_Cues": {
+      "Camera": "Full-length portrait shot, low angle, to convey dignity and respect.",
+      "Resolution": "8K, ultra-realistic, with fine details in the clothing and a painterly quality to the light effects.",
+      "Lighting": "Soft key light combined with a radiant fill light from the heart's glow.",
+      "Art_Genre": "Classical portraiture with symbolic elements, in the style of historical royal portraits."
+    },
+    "Cultural_Anchors": [
+      "அன்புடைமை (Possession of Love/Benevolence)",
+      "ஆன்ற குடிப்பிறத்தல் (Noble Birth/Upbringing)",
+      "பண்புடைமை (Courtesy)"
+    ]
+  },
+  "Negative_Prompt": "unkind expression, ragged clothing, chaotic background, modern elements, text artifacts, blurry."
+}

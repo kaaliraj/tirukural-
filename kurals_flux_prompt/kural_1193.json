@@ -1,0 +1,33 @@
+{
+  "Kural_Info": {
+    "Number": 1193,
+    "Chapter": "தனிப்படர்மிகுதி (The Solitary Anguish)",
+    "Tamil_Text": "வீழுநர் வீழப் படுவார்க்கு அமையுமேவாழுநம் என்னும் செருக்கு.",
+    "English_Meaning": "Who love and are beloved to them alone Belongs the boast, 'We've made life's very joys our own.'."
+  },
+  "Flux_Optimized_Prompt": {
+    "Layered_Composition": {
+      "Foreground": "A couple who are mutually in love ('Veezhunar Veezhap Paduvaarkku') stand together, their posture radiating confidence and joy.",
+      "Midground": "From them emanates a powerful, regal aura of pride and fulfillment ('Serukku'). They are looking out at the world as if they have conquered it.",
+      "Background": "The world before them is beautiful and vibrant, appearing as their kingdom. This pride is not arrogant, but a deep, confident joy that comes from the security of their mutual love. The words 'வாழ்வு நம்' ('Life is ours') are subtly woven into their aura."
+    },
+    "Art_Direction": {
+      "Subject_and_Action": "Only those who experience mutual love can possess the profound and confident pride of feeling that they truly 'live' and that life belongs to them.",
+      "Symbolic_Motifs": "The regal aura of pride. Their confident, king-and-queen-like posture. The world appearing as their beautiful domain.",
+      "Mood_and_Emotion": "Confident, proud, fulfilled, joyful, triumphant.",
+      "Lighting_and_Color": "Bright, triumphant, golden-hour sunlight. The colors are rich and royal—golds, deep reds, and vibrant greens—to match the feeling of noble pride."
+    },
+    "Technical_Cues": {
+      "Camera": "Low-angle shot, making the couple appear heroic and larger-than-life, befitting their inner sense of pride.",
+      "Resolution": "8K, photorealistic, capturing their confident and joyful expressions.",
+      "Lighting": "Heroic backlighting from the sun, creating a powerful and glorious silhouette.",
+      "Art_Genre": "Epic romantic realism."
+    },
+    "Cultural_Anchors": [
+      "செருக்கு (Pride/Noble Boast)",
+      "The triumph of mutual love",
+      "வாழ்வு நம் (Life is ours)"
+    ]
+  },
+  "Negative_Prompt": "a sad or timid couple, a desolate world, dark lighting, text artifacts, modern clothing, cartoonish."
+}

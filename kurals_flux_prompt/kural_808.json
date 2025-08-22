@@ -1,0 +1,39 @@
+{
+  "Kural_Info": {
+    "Number": 808,
+    "Chapter": "பழைமை (Familiarity)",
+    "Tamil_Text": "கேளிழுக்கம் கேளாக் கெழுதகைமை வல்லார்க்கு நாளிழுக்கம் நட்டார் செயின்.",
+    "English_Meaning": "To those who understand that by which they should not listen to (tales about) the faults of their friends, that is a (profitable) day on which the latter may commit a fault."
+  },
+  "Flux_Optimized_Prompt": {
+    "Layered_Composition": {
+      "Foreground": "A wise friend ('கெழுதகைமை வல்லார்') is shown with their ears symbolically closed to the slanderous whispers of others who are trying to report a fault committed by their friend ('கேளிழுக்கம் கேளா').",
+      "Midground": "Their friend has indeed committed a fault ('நட்டார் இழுக்கம் செயின்'). However, for the wise friend, this is not a day of disappointment.",
+      "Background": "Instead, this day is shown as a day of opportunity and profit. The friend's fault is visualized as a piece of rough, unrefined gold ore. The wise friend is shown taking this 'fault' and using their loyalty and wisdom to refine it into a beautiful, pure gold ingot, strengthening the friendship and the friend's character in the process. The day of the fault becomes a 'good day' ('நாள்')."
+    },
+    "Art_Direction": {
+      "Subject_and_Action": "For those who are strong enough in their friendship to ignore slander, a day when their friend makes a mistake is actually a good day—an opportunity to show their loyalty and help.",
+      "Symbolic_Motifs": "The ears closed to slander is the first action. The friend's fault as a piece of gold ore that can be refined is the central metaphor. This turns a negative event into a positive, profitable one.",
+      "Mood_and_Emotion": "Loyal, constructive, alchemical, turning faults into virtues.",
+      "Lighting_and_Color": "The slanderous whispers are dark and smoky. The act of refining the 'fault-ore' is lit with the warm, bright light of a forge, resulting in a brilliant golden ingot.",
+      "Technical_Cues": {
+        "Camera": "A narrative shot that shows the refusal of slander and the positive, alchemical transformation of the friend's fault.",
+        "Resolution": "8K, with symbolic and magical effects.",
+        "Lighting": "The forge of friendship provides the primary light.",
+        "Art_Genre": "Symbolic fantasy realism."
+      },
+      "Cultural_Anchors": [
+        "Not listening to slander about friends ('கேளிழுக்கம் கேளா')",
+        "A day of a friend's fault ('நட்டார் இழுக்கம் செயின் நாள்')",
+        "As a profitable day."
+      ]
+    },
+    "Negative_Prompt": "friend listening to slander, throwing away the ore, text artifacts.",
+    "Hyperparameters": {
+      "variant": "dev",
+      "steps": 45,
+      "cfg_scale": 9,
+      "seed": "Explore variations for the 'fault-ore'."
+    }
+  }
+}

@@ -1,0 +1,38 @@
+{
+  "Kural_Info": {
+    "Number": 266,
+    "Chapter": "தவம் (Penance)",
+    "Tamil_Text": "தவஞ்செய்வார் தங்கருமஞ் செய்வார்மற் றல்லார்அவஞ்செய்வார் ஆசையுட் பட்டு.",
+    "English_Meaning": "Those discharge their duty who perform austerities; all others accomplish their own destruction, through the entanglement of the desire (of riches and sensual pleasure)."
+  },
+  "Flux_Optimized_Prompt": {
+    "Layered_Composition": {
+      "Foreground": "A split composition.",
+      "Midground": "On the right, an ascetic is performing penance ('தவம் செய்வார்'). They are shown to be performing their true, essential work or duty ('தம் கருமம் செய்வார்'). Their path is clear, and they are building a staircase of light to the heavens.",
+      "Background": "On the left, all other people ('மற்றல்லார்') are shown. They are not doing penance, but are caught in a dark, thorny thicket of desire ('ஆசையுள் பட்டு'). This entanglement is causing them to engage in futile, self-destructive acts ('அவம் செய்வார்'). Their efforts lead not to a staircase, but to a deeper entanglement in the thorns."
+    },
+    "Art_Direction": {
+      "Subject_and_Action": "Those who perform penance are doing their true duty. Everyone else, caught in the trap of desire, is merely engaged in futile, self-destructive acts.",
+      "Symbolic_Motifs": "The contrast between the constructive act of building the stair of light and the self-destructive act of getting further entangled in the thorns of desire is the key. Penance is framed as the only truly productive work.",
+      "Mood_and_Emotion": "Productive vs. futile, constructive vs. destructive, enlightened vs. entangled.",
+      "Lighting_and_Color": "The ascetic's side is filled with the clear, pure, white light of spiritual progress. The other side is a dark, chaotic, and painful scene, with the thorns of desire glowing with a sickly, tempting, but ultimately destructive light.",
+      "Technical_Cues": {
+        "Camera": "A wide, comparative diptych that clearly shows the two opposing paths and outcomes.",
+        "Resolution": "8K, ultra-realistic, with strong symbolic imagery for the staircase of light and the thicket of desire.",
+        "Lighting": "Strong dualistic lighting to represent the two different life activities.",
+        "Art_Genre": "Allegorical painting."
+      },
+      "Cultural_Anchors": [
+        "Those who do penance do their (true) work (தவம் செய்வார் தம் கருமம் செய்வார்)",
+        "All others do futile things, caught in desire (மற்றல்லார் அவம் செய்வார் ஆசையுள் பட்டு)"
+      ]
+    },
+    "Negative_Prompt": "happy people in the thorns, struggling ascetic, text artifacts.",
+    "Hyperparameters": {
+      "variant": "pro",
+      "steps": 50,
+      "cfg_scale": 8,
+      "seed": "Explore the design of the 'thorny thicket of desire'."
+    }
+  }
+}

@@ -1,0 +1,38 @@
+{
+  "Kural_Info": {
+    "Number": 272,
+    "Chapter": "கூடா ஒழுக்கம் (Imposture)",
+    "Tamil_Text": "வானுயர் தோற்றம் எவன்செய்யும் தன்னெஞ்சம்தான்அறி குற்றப் படின்.",
+    "English_Meaning": "What avails an appearance (of sanctity) high as heaven, if his mind suffers (the indulgence) of conscious sin."
+  },
+  "Flux_Optimized_Prompt": {
+    "Layered_Composition": {
+      "Foreground": "A man has an outward appearance of holiness that is as lofty as heaven itself ('வான் உயர் தோற்றம்'). He is depicted as a giant, majestic figure, glowing with a holy light, revered by the masses below.",
+      "Midground": "However, a transparent view into his mind ('தன் நெஞ்சம்') reveals a dark secret. His conscience knows that he is guilty of a secret sin ('தான் அறி குற்றம்').",
+      "Background": "This inner knowledge of his own guilt acts as a powerful corrosive force. It is shown eating away at the foundation of his majestic, heaven-high appearance, causing it to crack and crumble from within. The image asks, 'Of what use is that appearance?' ('எவன் செய்யும்?')."
+    },
+    "Art_Direction": {
+      "Subject_and_Action": "What is the use of a heaven-high reputation for sanctity if your own conscience knows you are guilty? That inner guilt will inevitably destroy the outer appearance.",
+      "Symbolic_Motifs": "The contrast between the magnificent outer shell and the corrupting inner core is the key. The conscious guilt is an active, destructive agent, not a passive feeling. The crumbling of the majestic form from the inside out shows the power of a guilty conscience.",
+      "Mood_and_Emotion": "Corrupt, self-destructive, hollow, inevitable collapse.",
+      "Lighting_and_Color": "The outer appearance is a brilliant, but brittle, white-gold light. The inner guilt is a dark, acidic, black-green corruption that spreads cracks of darkness throughout the magnificent form.",
+      "Technical_Cues": {
+        "Camera": "A shot that shows the majestic outer form, and then slowly zooms in or fades to a transparent view to reveal the inner corruption that is bringing it all down.",
+        "Resolution": "8K, ultra-realistic, with advanced cracking and crumbling effects on the light-form.",
+        "Lighting": "The inner darkness is shown to be more powerful than the outer light, eventually extinguishing it.",
+        "Art_Genre": "Symbolic fantasy, psychological horror."
+      },
+      "Cultural_Anchors": [
+        "What use is a heaven-high appearance? (வான் உயர் தோற்றம் எவன் செய்யும்?)",
+        "If one's own mind knows itself to be guilty (தன் நெஞ்சம் தான் அறி குற்றம் படின்)"
+      ]
+    },
+    "Negative_Prompt": "sincere holy man, stable appearance, text artifacts.",
+    "Hyperparameters": {
+      "variant": "pro",
+      "steps": 55,
+      "cfg_scale": 9,
+      "seed": "Explore the visual of the 'majestic form crumbling from within'."
+    }
+  }
+}

@@ -1,0 +1,38 @@
+{
+  "Kural_Info": {
+    "Number": 228,
+    "Chapter": "ஈகை (Giving)",
+    "Tamil_Text": "ஈத்துவக்கும் இன்பம் அறியார்கொல் தாமுடைமைவைத்திழக்கும் வன்க ணவர்.",
+    "English_Meaning": "Do the hard-eyed who lay up and lose their possessions not know the happiness which springs from the pleasure of giving?."
+  },
+  "Flux_Optimized_Prompt": {
+    "Layered_Composition": {
+      "Foreground": "A hard-hearted, miserly person ('வன்கணவர்') is shown sitting amidst their hoarded wealth ('தாம் உடைமை வைத்து'). Their expression is one of misery and fear.",
+      "Midground": "A thief or a natural disaster is shown taking all their wealth away, representing the inevitable loss of hoarded possessions ('இழக்கும்').",
+      "Background": "A vision appears before the miser, showing the one thing they never experienced: the profound, radiant joy of giving ('ஈத்து உவக்கும் இன்பம்'). In this vision, a charitable person is giving to the needy, and their face is a picture of a sublime happiness that the miser never knew. The image poses the question: 'Do they not know this joy?' ('அறியார் கொல்?')."
+    },
+    "Art_Direction": {
+      "Subject_and_Action": "A poignant question directed at the miser who hoards and inevitably loses their wealth: have they never once known the sublime happiness that comes from the act of giving?",
+      "Symbolic_Motifs": "The contrast between the miser's misery of possession and the giver's joy of charity is the central theme. The loss of the hoarded wealth is shown as an inevitable outcome. The vision of the joy of giving is the missed opportunity that defines the tragedy of the miser's life.",
+      "Mood_and_Emotion": "Tragic, ignorant, pitiful, missed opportunity.",
+      "Lighting_and_Color": "The miser's scene is dark, shadowy, and filled with the cold, hard light of gold. The vision of the joy of giving is bathed in a brilliant, warm, golden light of pure happiness.",
+      "Technical_Cues": {
+        "Camera": "A shot focusing on the miser's tragic face as they lose their wealth, with the beautiful, contrasting vision of the joy of giving appearing before them like a ghost of what could have been.",
+        "Resolution": "8K, ultra-realistic, with a strong focus on the contrasting emotions.",
+        "Lighting": "The misery of hoarding is dark, while the joy of giving is the scene's only source of true, warm light.",
+        "Art_Genre": "A cautionary, moralistic painting."
+      },
+      "Cultural_Anchors": [
+        "The hard-hearted who hoard and lose (தாமுடைமை வைத்து இழக்கும் வன்கணவர்)",
+        "Do they not know the joy of giving? (ஈத்து உவக்கும் இன்பம் அறியார் கொல்?)"
+      ]
+    },
+    "Negative_Prompt": "happy miser, sad giver, text artifacts.",
+    "Hyperparameters": {
+      "variant": "dev",
+      "steps": 45,
+      "cfg_scale": 9,
+      "seed": "Explore the sublime expression on the face of the 'joyful giver'."
+    }
+  }
+}

@@ -1,0 +1,33 @@
+{
+  "Kural_Info": {
+    "Number": 1209,
+    "Chapter": "நினைந்தவர்புலம்பல் (Sad Memories)",
+    "Tamil_Text": "விளியுமென் இன்னுயிர் வேறல்லம் என்பார்அளியின்மை ஆற்ற நினைந்து.",
+    "English_Meaning": "Dear life departs, when his ungracious deeds I ponder o'er, Who said erewhile, 'We're one for evermore'."
+  },
+  "Flux_Optimized_Prompt": {
+    "Layered_Composition": {
+      "Foreground": "A woman's life force ('Innuyir') is depicted as a beautiful, glowing flower that is rapidly wilting and dying ('Viliyum').",
+      "Midground": "The cause of the wilting is her memory. A thought bubble shows her lover speaking the words 'நாம் வேறல்லம்' ('Naam Verallam' - We are not separate), but his present actions are shown to be cruel and ungracious ('Aliyinmai').",
+      "Background": "The stark contrast between his past words of unity and his present cruelty is the poison that is killing the flower of her life. The background is a barren wasteland of broken promises."
+    },
+    "Art_Direction": {
+      "Subject_and_Action": "My life is dying as I constantly remember the cruelty of the man who once promised we were one and inseparable.",
+      "Symbolic_Motifs": "The life force as a wilting flower is the central metaphor. The memory of his hypocritical words acts as a visible poison affecting the flower.",
+      "Mood_and_Emotion": "Heartbreaking, tragic, a sense of betrayal.",
+      "Lighting_and_Color": "The flower is losing its light and color, fading from vibrant to a deathly pale. The memory is lit with a harsh, revealing light that exposes the hypocrisy. The palette is dominated by decaying, sickly colors."
+    },
+    "Technical_Cues": {
+      "Camera": "A close-up on the wilting flower, with the painful memory reflected on its fading petals.",
+      "Resolution": "8K, symbolic realism, with detailed textures of the dying flower.",
+      "Lighting": "Dramatic, low-key lighting that emphasizes the process of dying.",
+      "Art_Genre": "Dark romanticism, with a focus on the tragedy of betrayal."
+    },
+    "Cultural_Anchors": [
+      "The sanctity of the promise of unity (நாம் வேறல்லம்)",
+      "அளியின்மை (Lack of grace/cruelty)",
+      "The pain of hypocrisy in love"
+    ]
+  },
+  "Negative_Prompt": "a blooming flower, a kind lover, a happy memory, text artifacts, cartoonish, blurry."
+}

@@ -1,0 +1,39 @@
+{
+  "Kural_Info": {
+    "Number": 233,
+    "Chapter": "புகழ் (Renown)",
+    "Tamil_Text": "ஒன்றா உலகத்து உயர்ந்த புகழல்லால்பொன்றாது நிற்பதொன் றில்.",
+    "English_Meaning": "There is nothing that stands forth in the world imperishable, except fame, exalted in solitary greatness."
+  },
+  "Flux_Optimized_Prompt": {
+    "Layered_Composition": {
+      "Foreground": "A vast landscape of time is shown, where everything is turning to dust and decaying.",
+      "Midground": "Mighty empires, represented by colossal crumbling statues and ruined castles, are shown perishing ('பொன்றி'). Great mountains are eroding. Everything in the mortal world ('உலகத்து') is subject to decay.",
+      "Background": "In the midst of all this universal ruin, one single thing stands, untouched by time and decay: a brilliant, towering, eternal pillar of light, representing 'exalted fame' ('உயர்ந்த புகழ்'). It is the only thing that does not perish ('பொன்றாது நிற்பது'). It is unique and peerless ('ஒன்றா')."
+    },
+    "Art_Direction": {
+      "Subject_and_Action": "In a world where all things are transient and subject to ruin, the only thing that is eternal and imperishable is exalted fame.",
+      "Symbolic_Motifs": "The contrast between the universal decay of all other things and the solitary permanence of fame is the central visual. The pillar of fame is not made of stone (which can erode) but of pure, eternal light.",
+      "Mood_and_Emotion": "Eternal, imperishable, solitary greatness, profound.",
+      "Lighting_and_Color": "The decaying world is in muted, dusty, and crumbling colors. The pillar of fame is a brilliant, unwavering, white-gold light that cuts through the gloom of universal decay, providing the only source of permanent light.",
+      "Technical_Cues": {
+        "Camera": "An epic, timeless, wide shot that captures the universal decay and the single, solitary pillar of immortal fame.",
+        "Resolution": "8K, ultra-realistic, with advanced particle and decay effects.",
+        "Lighting": "The pillar of fame is the sole, eternal light source in a decaying universe.",
+        "Art_Genre": "Epic fantasy art, with a 'memento mori' theme."
+      },
+      "Cultural_Anchors": [
+        "Exalted fame (உயர்ந்த புகழ்)",
+        "In a peerless world (ஒன்றா உலகத்து)",
+        "The one thing that stands without perishing (பொன்றாது நிற்பது ஒன்று)"
+      ]
+    },
+    "Negative_Prompt": "fame pillar decaying, eternal castles, text artifacts.",
+    "Hyperparameters": {
+      "variant": "pro",
+      "steps": 55,
+      "cfg_scale": 9,
+      "seed": "Explore the visual of 'universal decay'."
+    }
+  }
+}

@@ -1,0 +1,39 @@
+{
+  "Kural_Info": {
+    "Number": 926,
+    "Chapter": "கள்ளுண்ணாமை (Not Drinking Palm-Wine)",
+    "Tamil_Text": "துஞ்சினார் செத்தாரின் வேறல்லர் எஞ்ஞான்றும் நஞ்சுண்பார் கள்ளுண் பவர்.",
+    "English_Meaning": "They that sleep resemble the deed; (likewise) they that drink are no other than poison-eaters."
+  },
+  "Flux_Optimized_Prompt": {
+    "Layered_Composition": {
+      "Foreground": "A diptych of two parallel comparisons. On the top panel, a sleeping person ('துஞ்சினார்') is shown lying next to a dead person ('செத்தார்'). Their appearance is almost identical, showing that sleep is like a temporary death.",
+      "Midground": "On the bottom panel, a person drinking wine ('கள்ளுண்பவர்') is shown next to a person drinking a flask of bubbling poison marked with a skull and crossbones ('நஞ்சுண்பார்').",
+      "Background": "The image makes the two comparisons direct and equal: the state of the sleeper is to the dead as the state of the drinker is to the poison-eater. Both are self-inflicted states that mimic a greater evil."
+    },
+    "Art_Direction": {
+      "Subject_and_Action": "Sleepers are no different from the dead; and in the same way, wine-drinkers are no different from poison-eaters.",
+      "Symbolic_Motifs": "The two sets of direct, side-by-side comparisons are the entire message. The visual equivalence is key.",
+      "Mood_and_Emotion": "A stark comparison, equating common acts with deadly serious ones.",
+      "Lighting_and_Color": "A somber, neutral light. The dead person and the poison can have a sickly, pale color to them.",
+      "Technical_Cues": {
+        "Camera": "A clean, four-quadrant composition that makes the two analogies clear and balanced.",
+        "Resolution": "8K, with realistic detail.",
+        "Lighting": "Flat, objective lighting.",
+        "Art_Genre": "Conceptual art, using direct visual analogy."
+      }
+    },
+    "Cultural_Anchors": [
+      "Sleepers are like the Dead",
+      "Drinkers are like Poison-Eaters",
+      "The danger of altered states of consciousness."
+    ]
+  },
+  "Negative_Prompt": "a happy drinker, a peaceful sleeper, text on the poison flask.",
+  "Hyperparameters": {
+    "variant": "pro",
+    "steps": 45,
+    "cfg_scale": 7,
+    "seed": "Explore variations for the poison."
+  }
+}

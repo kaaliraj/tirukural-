@@ -1,0 +1,39 @@
+{
+  "Kural_Info": {
+    "Number": 455,
+    "Chapter": "சிற்றினஞ்சேராமை (Avoiding mean Associations)",
+    "Tamil_Text": "மனந்தூய்மை செய்வினை தூய்மை இரண்டும் இனந்தூய்மை தூவா வரும்.",
+    "English_Meaning": "Chaste company is the staff on which come, these two things, viz, purity of mind and purity of conduct."
+  },
+  "Flux_Optimized_Prompt": {
+    "Layered_Composition": {
+      "Foreground": "A person is walking forward. They are leaning on a sturdy, glowing staff, which represents their pure companionship ('இனந்தூய்மை').",
+      "Midground": "As they walk, leaning on this staff, two beautiful transformations occur. Their mind, shown as a glowing orb in their chest, becomes crystal clear (Purity of Mind - 'மனந்தூய்மை'). Their actions, represented by the footprints they leave behind, transform from muddy prints to prints that blossom with pure white lotuses (Purity of Action - 'செய்வினை தூய்மை').",
+      "Background": "A clear, bright path forward, indicating a virtuous life journey."
+    },
+    "Art_Direction": {
+      "Subject_and_Action": "Both purity of mind and purity of action are effortlessly supported and brought forth by the 'staff' of pure companionship.",
+      "Symbolic_Motifs": "The glowing staff is the pure company. The clear orb in the chest is the pure mind. The lotus footprints are the pure actions. The reliance on the staff shows that the purities are a result of the support.",
+      "Mood_and_Emotion": "Pure, supportive, virtuous, transformative, effortless.",
+      "Lighting_and_Color": "A brilliant, clean white and gold light emanates from the staff, creating the transformations. The palette is dominated by pure whites, crystal clears, and soft golds.",
+      "Technical_Cues": {
+        "Camera": "A side-profile tracking shot, following the person as they walk and the transformations occur.",
+        "Resolution": "8K, with magical realism effects for the orb and the lotus footprints.",
+        "Lighting": "Radiant lighting originating from the staff.",
+        "Art_Genre": "High-fantasy art, symbolic spiritual art."
+      }
+    },
+    "Cultural_Anchors": [
+      "Purity of Company ('இனந்தூய்மை')",
+      "Purity of Mind ('மனந்தூய்மை')",
+      "Purity of Action ('செய்வினை தூய்மை')"
+    ]
+  },
+  "Negative_Prompt": "person with a broken staff, muddy footprints, dark orb in chest, text artifacts, blurry.",
+  "Hyperparameters": {
+    "variant": "pro",
+    "steps": 50,
+    "cfg_scale": 8,
+    "seed": "Explore variations for the lotus footprint effect."
+  }
+}

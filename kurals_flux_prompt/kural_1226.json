@@ -1,0 +1,33 @@
+{
+  "Kural_Info": {
+    "Number": 1226,
+    "Chapter": "பொழுதுகண்டிரங்கல் (Lamentations at Eventide)",
+    "Tamil_Text": "மாலைநோய் செய்தல் மணந்தார் அகலாதகாலை அறிந்த திலேன்.",
+    "English_Meaning": "The pangs that evening brings I never knew, Till he, my wedded spouse, from me withdrew."
+  },
+  "Flux_Optimized_Prompt": {
+    "Layered_Composition": {
+      "Foreground": "A woman is experiencing the sorrow of a lonely evening. The evening is visualized as a grey, sorrowful mist that seeps into her room.",
+      "Midground": "A bright, glowing memory of the past is superimposed. In this memory, her husband is with her ('Mananthaar Akalaatha Kaalai'), and they are watching the same sunset together, but it is beautiful and romantic. The sorrowful mist cannot penetrate this memory.",
+      "Background": "She is looking at this memory with a sense of tragic realization, understanding that the evening itself hasn't changed, but her husband's absence is what has turned it from a joy into a pain."
+    },
+    "Art_Direction": {
+      "Subject_and_Action": "A lover's realization that she never knew the evening could be a painful experience until her husband left her; before, it was a time of joy.",
+      "Symbolic_Motifs": "The contrast between the sorrowful, misty evening of the present and the golden, happy evening of the past. The presence or absence of the lover is the only difference.",
+      "Mood_and_Emotion": "Nostalgic, melancholic, a sense of dawning realization.",
+      "Lighting_and_Color": "The present is in cool, desaturated, misty greys and blues. The memory is a vibrant, warm bubble of golden and orange light."
+    },
+    "Technical_Cues": {
+      "Camera": "Medium shot of the woman, with the memory appearing as a luminous projection in the space before her.",
+      "Resolution": "8K, photorealistic, with a beautiful and stark contrast between the two time periods.",
+      "Lighting": "Dual lighting setup to create the contrast between the cold present and the warm past.",
+      "Art_Genre": "Romantic realism with a focus on memory and emotion."
+    },
+    "Cultural_Anchors": [
+      "மாலை நோய் (The sickness of evening)",
+      "The power of presence vs. absence",
+      "Memory altering perception"
+    ]
+  },
+  "Negative_Prompt": "a sad memory, a happy present, modern setting, text artifacts, cartoonish."
+}

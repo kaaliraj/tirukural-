@@ -1,0 +1,39 @@
+{
+  "Kural_Info": {
+    "Number": 650,
+    "Chapter": "சொல்வன்மை (Power of Speech)",
+    "Tamil_Text": "இணருழ்த்தும் நாறா மலரனையர் கற்றது உணர விரித்துரையா தார்.",
+    "English_Meaning": "Those who are unable to set forth their acquirements (before others) are like flowers blossoming in a cluster and yet without fragrance."
+  },
+  "Flux_Optimized_Prompt": {
+    "Layered_Composition": {
+      "Foreground": "A person is shown holding a great deal of learning, visualized as a beautiful, intricate, glowing pattern within their mind. They are clearly knowledgeable ('கற்றது').",
+      "Midground": "However, they are unable to explain this knowledge to others ('உணர விரித்துரையா தார்'). This inability is represented by a beautiful, perfectly formed flower that they are holding, but it emits no scent. People are shown leaning in to smell it, but turn away disappointed.",
+      "Background": "A garden filled with other flowers, all of which have visible waves of fragrance, highlighting the singular failure of the beautiful but scentless flower."
+    },
+    "Art_Direction": {
+      "Subject_and_Action": "A person who has learned much but cannot explain it clearly to others is like a beautiful flower that has no fragrance—outwardly impressive but ultimately useless and unfulfilling to others.",
+      "Symbolic_Motifs": "The beautiful but scentless flower ('நாறா மலர்') is the central metaphor for knowledge that cannot be communicated. The disappointed people trying to smell it represent the failure to share wisdom.",
+      "Mood_and_Emotion": "Unfulfilling, useless, impotent, a waste of beauty.",
+      "Lighting_and_Color": "Beautiful, soft lighting that highlights the physical perfection of the flower. The lack of scent can be visualized as an absence of the usual shimmering heat-haze or colored particles of fragrance that other flowers have.",
+      "Technical_Cues": {
+        "Camera": "A close-up on the flower and the disappointed expressions of those who try to enjoy it.",
+        "Resolution": "8K, with macro details of the flower.",
+        "Lighting": "Soft, natural light.",
+        "Art_Genre": "Symbolic still life, with a narrative element."
+      }
+    },
+    "Cultural_Anchors": [
+      "The Scentless Flower ('நாறா மலர்')",
+      "Those who cannot explain what they've learned",
+      "The social purpose of knowledge."
+    ]
+  },
+  "Negative_Prompt": "a fragrant flower, a bad-looking flower, people enjoying the scent, text artifacts.",
+  "Hyperparameters": {
+    "variant": "pro",
+    "steps": 50,
+    "cfg_scale": 8,
+    "seed": "Explore variations for visualizing the absence of scent."
+  }
+}

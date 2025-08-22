@@ -1,0 +1,40 @@
+{
+  "Kural_Info": {
+    "Number": 688,
+    "Chapter": "தூது (The Envoy)",
+    "Tamil_Text": "தூய்மை துணைமை துணிவுடைமை இம்மூன்றின் வாய்மை வழியுரைப்பான் பண்பு.",
+    "English_Meaning": "The qualifications of him who faithfully delivers his (sovereign's) message are purity, the support (of foreign ministers), and boldness, with truthfulness in addition to the (aforesaid) three."
+  },
+  "Flux_Optimized_Prompt": {
+    "Layered_Composition": {
+      "Foreground": "An envoy is shown delivering a message. He is surrounded by an aura of pure, white light, representing his integrity and Purity ('தூய்மை').",
+      "Midground": "He is not alone. He is flanked by the supportive, ghostly figures of the foreign court's own wise men, showing he has won their Support ('துணைமை'). His stance is firm and bold, without being aggressive ('துணிவுடைமை').",
+      "Background": "The path of his words, from his mouth to the king's ear, is a straight, unwavering line of truth ('வாய்மை வழி')."
+    },
+    "Art_Direction": {
+      "Subject_and_Action": "The character of one who delivers a message faithfully is defined by a foundation of truthfulness, upon which stand the three pillars of purity, the ability to gain support, and boldness.",
+      "Symbolic_Motifs": "The white aura is purity. The supportive ghostly figures represent the ability to win allies. The firm stance is boldness. The straight line of words is truth.",
+      "Mood_and_Emotion": "Honorable, bold, pure, supportive, truthful.",
+      "Lighting_and_Color": "A clear, bright light of truth and integrity illuminates the envoy. The aura is pure white. The supportive figures have a friendly, translucent glow.",
+      "Technical_Cues": {
+        "Camera": "A heroic shot of the envoy, clearly displaying his four key attributes.",
+        "Resolution": "8K, with ethereal effects for the aura and the supportive figures.",
+        "Lighting": "Bright, honest, high-key lighting.",
+        "Art_Genre": "Idealized realism, with symbolic elements."
+      }
+    },
+    "Cultural_Anchors": [
+      "Purity ('தூய்மை')",
+      "Support ('துணைமை')",
+      "Boldness ('துணிவுடைமை')",
+      "Founded on Truth ('வாய்மை வழி')"
+    ]
+  },
+  "Negative_Prompt": "impure envoy, isolated envoy, timid envoy, lying envoy, text artifacts.",
+  "Hyperparameters": {
+    "variant": "dev",
+    "steps": 45,
+    "cfg_scale": 8,
+    "seed": "Explore variations for the ghostly supportive figures."
+  }
+}

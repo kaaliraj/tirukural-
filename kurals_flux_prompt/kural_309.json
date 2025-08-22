@@ -1,0 +1,38 @@
+{
+  "Kural_Info": {
+    "Number": 309,
+    "Chapter": "வெகுளாமை (Restraining Anger)",
+    "Tamil_Text": "உள்ளிய தெல்லாம் உடனெய்தும் உள்ளத்தால்உள்ளான் வெகுளி எனின்.",
+    "English_Meaning": "If a man never allows anger to enter his mind, he will immediately obtain whatever he has thought of."
+  },
+  "Flux_Optimized_Prompt": {
+    "Layered_Composition": {
+      "Foreground": "A person is shown whose mind ('உள்ளத்தால்') is a perfectly serene and clear space. They are completely free from anger ('வெகுளி உள்ளான்').",
+      "Midground": "A thought or a desire forms in their clear mind ('உள்ளியது'). This is visualized as a perfect, crystalline blueprint of what they wish to achieve.",
+      "Background": "The moment the thought is formed, the universe itself is shown to respond instantly. The desired object or outcome materializes from the ether, perfectly matching the blueprint, and is obtained immediately ('எல்லாம் உடன் எய்தும்')."
+    },
+    "Art_Direction": {
+      "Subject_and_Action": "The person who has completely mastered their mind to be free of anger will find that their every thought and desire is instantly fulfilled.",
+      "Symbolic_Motifs": "The mind free from anger is a place of immense creative power. The instant manifestation of thoughts is the key visual. There is no struggle or effort; the clarity of their mind gives them a direct command over reality.",
+      "Mood_and_Emotion": "Manifestation, omnipotence, creative power, serene control.",
+      "Lighting_and_Color": "A brilliant, pure, and incredibly powerful white light fills the scene, originating from the person's clear mind. The manifestation of their thoughts is a beautiful, magical process of creation from this light.",
+      "Technical_Cues": {
+        "Camera": "A shot that shows the clear thought forming in the person's mind and its immediate, perfect manifestation in the world around them.",
+        "Resolution": "8K, ultra-realistic, with advanced, beautiful particle and creation effects.",
+        "Lighting": "The clear mind is the source of all light and creation in the scene.",
+        "Art_Genre": "High fantasy, cosmic art."
+      },
+      "Cultural_Anchors": [
+        "If one does not think of anger in one's mind (உள்ளத்தால் வெகுளி உள்ளான் எனின்)",
+        "All that one thinks of, one will obtain immediately (உள்ளியது எல்லாம் உடன் எய்தும்)"
+      ]
+    },
+    "Negative_Prompt": "angry person, failed manifestation, text artifacts.",
+    "Hyperparameters": {
+      "variant": "pro",
+      "steps": 60,
+      "cfg_scale": 8,
+      "seed": "Explore the visual of 'instant manifestation'."
+    }
+  }
+}

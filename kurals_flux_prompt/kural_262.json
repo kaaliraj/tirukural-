@@ -1,0 +1,38 @@
+{
+  "Kural_Info": {
+    "Number": 262,
+    "Chapter": "தவம் (Penance)",
+    "Tamil_Text": "தவமும் தவமுடையார்க்கு ஆகும் அதனைஅஃதிலார் மேற்கொள் வது.",
+    "English_Meaning": "Austerities can only be borne, and their benefits enjoyed, by those who have practised them (in a former birth); it will be useless for those who have not done so, to attempt to practise them (now)."
+  },
+  "Flux_Optimized_Prompt": {
+    "Layered_Composition": {
+      "Foreground": "A split composition.",
+      "Midground": "On the right, a person is shown successfully and serenely performing a great act of penance ('தவம்'). A ghostly overlay reveals their past life, where they were also a great ascetic, showing that they have the 'karmic wealth' for it ('தவமுடையார்').",
+      "Background": "On the left, another person without this karmic background ('அஃதிலார்') is attempting the exact same act of penance. However, it is a futile struggle. They are shown in agony, failing completely. Their attempt is useless ('அவமே')."
+    },
+    "Art_Direction": {
+      "Subject_and_Action": "The ability to successfully perform penance in this life is only possible for those who have the accumulated spiritual merit from having performed it in past lives. For others, the attempt is futile.",
+      "Symbolic_Motifs": "The past-life vision is the key to explaining the success of the one and the failure of the other. Penance is not just a matter of willpower in this life, but of karmic predisposition. The two figures can look equally determined, but the outcomes are predetermined by their past.",
+      "Mood_and_Emotion": "Predestined, karmic, futile vs. successful.",
+      "Lighting_and_Color": "The successful ascetic is bathed in a serene, powerful, golden light of spiritual achievement. The failing ascetic is in a harsh, painful, grey light of struggle and failure.",
+      "Technical_Cues": {
+        "Camera": "A diptych shot that clearly contrasts the two figures, with the past-life vision revealing the hidden reason for their different fates.",
+        "Resolution": "8K, ultra-realistic, with ethereal effects for the past-life vision.",
+        "Lighting": "Contrasting lighting to show karmic giftedness versus futility.",
+        "Art_Genre": "Symbolic realism, with a karmic narrative."
+      },
+      "Cultural_Anchors": [
+        "Penance is for those who have (the merit for) penance (தவமும் தவமுடையார்க்கு ஆகும்)",
+        "For others, to undertake it is futile (அஃதிலார் மேற்கொள்வது அவம்)"
+      ]
+    },
+    "Negative_Prompt": "successful novice ascetic, failing veteran ascetic, text artifacts.",
+    "Hyperparameters": {
+      "variant": "pro",
+      "steps": 50,
+      "cfg_scale": 8,
+      "seed": "Explore the visual of the 'past-life ascetic'."
+    }
+  }
+}

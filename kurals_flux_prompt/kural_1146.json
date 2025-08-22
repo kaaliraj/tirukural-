@@ -1,0 +1,33 @@
+{
+  "Kural_Info": {
+    "Number": 1146,
+    "Chapter": "அலரறிவுறுத்தல் (The Announcement of the Rumour)",
+    "Tamil_Text": "கண்டது மன்னும் ஒருநாள் அலர்மன்னும்திங்களைப் பாம்புகொண் டற்று.",
+    "English_Meaning": "I saw him but one single day: rumour spreads soon As darkness, when the dragon seizes on the moon."
+  },
+  "Flux_Optimized_Prompt": {
+    "Layered_Composition": {
+      "Foreground": "A young woman stands, her memory of seeing her lover for just one day ('Kandathu orunaal') represented as a single, beautiful, shining star in her mind.",
+      "Midground": "This single event has triggered a massive public rumor ('Alar'). This rumor is visualized as a colossal, shadowy serpent ('Paampu')—Rahu or Ketu—that is swiftly moving to swallow the bright, full moon ('Thingal') in the sky.",
+      "Background": "A dramatic night sky over a quiet ancient village, where the celestial event of the lunar eclipse becomes a giant metaphor for how quickly and totally the rumor has spread, eclipsing everything else."
+    },
+    "Art_Direction": {
+      "Subject_and_Action": "The rumor spreading from a single meeting is compared to the dramatic and total spectacle of a lunar eclipse, where a giant serpent is said to swallow the moon.",
+      "Symbolic_Motifs": "The lunar eclipse ('Thingalai Paampu Kondatru') is the central, powerful metaphor for the overwhelming and swift nature of the rumor.",
+      "Mood_and_Emotion": "Dramatic, epic, overwhelming, a sense of a small event having massive consequences.",
+      "Lighting_and_Color": "The scene is dominated by the dramatic light of the full moon being consumed by shadow. A stark contrast between the bright moon and the encroaching darkness of the serpent. The woman below is silhouetted against this cosmic event."
+    },
+    "Technical_Cues": {
+      "Camera": "Ultra-wide cinematic shot, capturing both the woman on the ground and the epic celestial event in the sky above her.",
+      "Resolution": "8K, cosmic fantasy art, with a detailed and menacing serpent and a beautiful moon.",
+      "Lighting": "Dramatic celestial lighting of a lunar eclipse, with deep shadows and brilliant highlights.",
+      "Art_Genre": "Mythological realism, blending a human story with a powerful celestial metaphor."
+    },
+    "Cultural_Anchors": [
+      "Lunar eclipse mythology (பாம்பு திங்களைத் தின்னுதல்)",
+      "அலர் (Rumour)",
+      "The disproportionality of rumor"
+    ]
+  },
+  "Negative_Prompt": "solar eclipse, happy woman, modern city, text artifacts, cartoonish serpent, blurry."
+}

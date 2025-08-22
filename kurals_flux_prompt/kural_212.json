@@ -1,0 +1,38 @@
+{
+  "Kural_Info": {
+    "Number": 212,
+    "Chapter": "ஒப்புரவறிதல் (Duty to Society)",
+    "Tamil_Text": "தாளாற்றித் தந்த பொருளெல்லாம் தக்கார்க்குவேளாண்மை செய்தற் பொருட்டு.",
+    "English_Meaning": "All the wealth acquired with perseverance by the worthy is for the exercise of benevolence."
+  },
+  "Flux_Optimized_Prompt": {
+    "Layered_Composition": {
+      "Foreground": "A worthy person is shown working with great effort and perseverance ('தாள் ஆற்றி') to accumulate wealth ('தந்த பொருள்'). The wealth is depicted as a large, beautiful reservoir of pure water.",
+      "Midground": "Instead of hoarding this water, the person is shown opening the sluice gates of the reservoir.",
+      "Background": "The entire purpose of accumulating the water is revealed: it is to channel it outwards to irrigate the dry fields of the deserving and needy ('தக்கார்க்கு வேளாண்மை செய்தல்'). The fields are shown bursting into life as the water reaches them."
+    },
+    "Art_Direction": {
+      "Subject_and_Action": "The entire purpose of a worthy person's hard-earned wealth is to use it for acts of benevolence towards those who are deserving.",
+      "Symbolic_Motifs": "Wealth as a self-made reservoir of water is the central metaphor. The act of opening the gates to irrigate others' fields clearly shows that the wealth was accumulated not for the self, but for the express purpose of helping others.",
+      "Mood_and_Emotion": "Purposeful, benevolent, constructive, generous.",
+      "Lighting_and_Color": "A bright, clear, and prosperous light. The water of the reservoir is a beautiful, life-giving silver-blue. The transformation of the dry fields into a lush, green landscape is a key visual reward.",
+      "Technical_Cues": {
+        "Camera": "A high-angle shot that shows the diligent worker, the reservoir they've built, and the beneficial flow of their wealth to the surrounding community.",
+        "Resolution": "8K, ultra-realistic, with advanced fluid dynamics for the flowing water.",
+        "Lighting": "Bright, positive, and life-affirming lighting.",
+        "Art_Genre": "Symbolic realism, allegorical landscape."
+      },
+      "Cultural_Anchors": [
+        "Wealth earned through effort (தாளாற்றித் தந்த பொருள்)",
+        "Is for the purpose of benevolence to the worthy (தக்கார்க்கு வேளாண்மை செய்தற் பொருட்டு)"
+      ]
+    },
+    "Negative_Prompt": "hoarding water, barren fields, text artifacts, lazy person.",
+    "Hyperparameters": {
+      "variant": "pro",
+      "steps": 50,
+      "cfg_scale": 8,
+      "seed": "Explore the visual of the reservoir gates opening."
+    }
+  }
+}

@@ -1,0 +1,39 @@
+{
+  "Kural_Info": {
+    "Number": 244,
+    "Chapter": "அருளுடைமை (Compassion)",
+    "Tamil_Text": "மன்னுயிர் ஓம்பி அருளாள்வார்க்கு இல்லென்பதன்னுயிர் அஞ்சும் வினை.",
+    "English_Meaning": "(The wise) say that the evils, which his soul would dread, will never come upon the man who exercises kindness and protects the life (of other creatures)."
+  },
+  "Flux_Optimized_Prompt": {
+    "Layered_Composition": {
+      "Foreground": "A compassionate person is shown protecting all life ('மன்னுயிர் ஓம்பி'). They are standing with arms outstretched, creating a sanctuary. Animals and other people gather peacefully around them.",
+      "Midground": "From their own karmic future, menacing, dark, shadowy specters representing 'dreaded evils' ('தன்னுயிர் அஞ்சும் வினை') are approaching.",
+      "Background": "The compassionate person's aura of kindness ('அருள்') acts as a powerful shield. As the dreaded evils reach the edge of this aura, they see the peaceful community of protected beings and they halt, then fade away, unable to proceed. The compassion shown to others has neutralized the evils meant for oneself."
+    },
+    "Art_Direction": {
+      "Subject_and_Action": "The man who protects other lives out of compassion will, in turn, be protected from the very karmic evils his own soul would have feared.",
+      "Symbolic_Motifs": "The compassion is a proactive shield. The karmic evils are depicted as intelligent beings capable of recognizing the person's virtue and ceasing their attack. The protection is not a reward, but a direct consequence of the compassionate state of being.",
+      "Mood_and_Emotion": "Protected, karmic immunity, serene, powerful compassion.",
+      "Lighting_and_Color": "A soft, warm, and protective light emanates from the compassionate person, creating a safe haven. The karmic evils are dark, shadowy, and menacing, but they are shown as insubstantial and ultimately powerless in the face of true compassion.",
+      "Technical_Cues": {
+        "Camera": "A wide shot capturing the sanctuary of peace, the approaching karmic threats, and their dissolution at the border of compassion.",
+        "Resolution": "8K, ultra-realistic, with ethereal effects for the aura and the spectral evils.",
+        "Lighting": "The aura of compassion is the primary light source, creating a clear boundary between safety and danger.",
+        "Art_Genre": "Fantasy realism, symbolic art."
+      },
+      "Cultural_Anchors": [
+        "Protecting all life (மன்னுயிர் ஓம்பி)",
+        "Ruling with compassion (அருள் ஆள்வார்க்கு)",
+        "Evils the soul dreads (தன்னுயிர் அஞ்சும் வினை)"
+      ]
+    },
+    "Negative_Prompt": "person harming animals, evils attacking successfully, weak aura, text artifacts.",
+    "Hyperparameters": {
+      "variant": "pro",
+      "steps": 50,
+      "cfg_scale": 8,
+      "seed": "Explore the design of the 'dreaded karmic evils'."
+    }
+  }
+}

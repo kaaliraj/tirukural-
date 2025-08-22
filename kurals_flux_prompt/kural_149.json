@@ -1,0 +1,39 @@
+{
+  "Kural_Info": {
+    "Number": 149,
+    "Chapter": "பிறனில் விழையாமை (Not coveting another's Wife)",
+    "Tamil_Text": "நலக்குரியார் யாரெனின் நாமநீர் வைப்பின்பிறர்க்குரியாள் தோள்தோயா தார்.",
+    "English_Meaning": "Is it asked, \"who are those who shall obtain good in this world surrounded by the terror-producing sea?\" Those who touch not the shoulder of her who belongs to another."
+  },
+  "Flux_Optimized_Prompt": {
+    "Layered_Composition": {
+      "Foreground": "A man stands on a shore, looking out at the vast, terrifying, and dangerous ocean, which represents the world ('நாமநீர் வைப்பு').",
+      "Midground": "He is shown making a conscious choice: he refuses to touch the shoulder of another's wife ('பிறர்க்கு உரியாள் தோள் தோயாதார்'). This act of refusal is visualized as him building a small, safe, and unsinkable boat around himself.",
+      "Background": "Because he has built this boat of virtue, he is shown to be the one who is truly 'entitled to all good' ('நலக்குரியார்'). While others are struggling in the terrifying ocean of the world, he is safe and prosperous in his boat, able to navigate the dangers with ease."
+    },
+    "Art_Direction": {
+      "Subject_and_Action": "In the midst of the dangerous ocean of life, the ones who are truly entitled to all goodness and safety are those who refrain from the sin of adultery.",
+      "Symbolic_Motifs": "The world as a terrifying ocean is a key metaphor. The act of chastity is not just a passive refusal, but an active, constructive deed—the building of a lifeboat. His safety is a direct result of his virtue.",
+      "Mood_and_Emotion": "Safe, secure, entitled to good, virtuous.",
+      "Lighting_and_Color": "The ocean is dark, stormy, and terrifying. The boat of chastity, however, glows with a warm, golden, protective light, keeping the man safe and dry. The light of his virtue provides his only safety.",
+      "Technical_Cues": {
+        "Camera": "A wide shot that shows the man safe in his small, glowing boat in the middle of the vast, terrifying ocean.",
+        "Resolution": "8K, ultra-realistic, with advanced and dramatic ocean effects.",
+        "Lighting": "The primary light source is the glowing 'boat of chastity', which pushes back the darkness of the surrounding sea.",
+        "Art_Genre": "Epic fantasy seascape, allegorical art."
+      },
+      "Cultural_Anchors": [
+        "Who is entitled to good? (நலக்குரியார் யார் எனின்?)",
+        "In this world of the terrifying sea (நாமநீர் வைப்பின்)",
+        "He who does not touch the shoulder of another's wife (பிறர்க்கு உரியாள் தோள் தோயாதார்)"
+      ]
+    },
+    "Negative_Prompt": "man drowning, happy sinners, calm sea, text artifacts.",
+    "Hyperparameters": {
+      "variant": "pro",
+      "steps": 50,
+      "cfg_scale": 9,
+      "seed": "Explore the design of the 'terrifying ocean of the world'."
+    }
+  }
+}

@@ -1,0 +1,40 @@
+{
+  "Kural_Info": {
+    "Number": 64,
+    "Chapter": "மக்கட்பேறு (The Offspring)",
+    "Tamil_Text": "அமிழ்தினும் ஆற்ற இனிதேதம் மக்கள்சிறுகை அளாவிய கூழ்.",
+    "English_Meaning": "The rice in which the little hand of their children has dabbled will be far sweeter (to the parent) than ambrosia."
+  },
+  "Flux_Optimized_Prompt": {
+    "Layered_Composition": {
+      "Foreground": "A close-up on a simple earthen bowl of rice porridge ('கூழ்'). A small child's hand ('சிறுகை') is playfully stirring it, making it wonderfully messy.",
+      "Midground": "A parent is shown eating from this bowl. Their face is not just happy, but is depicted in a state of divine, transcendent bliss, as if tasting the sweetest thing in the universe.",
+      "Background": "In the celestial realm, faintly visible, a god is drinking from a golden chalice of ambrosia ('அமிழ்து'), but their expression of pleasure is visibly less intense than the parent's."
+    },
+    "Art_Direction": {
+      "Subject_and_Action": "The simple porridge touched by one's own child is experienced as infinitely sweeter and more blissful than the divine nectar of the gods.",
+      "Symbolic_Motifs": "A divine, golden light should emanate from the simple porridge bowl, not the ambrosia chalice. The parent's expression is the key focus—it must convey a joy that surpasses even divine pleasure.",
+      "Mood_and_Emotion": "Transcendent joy, blissful, sublime sweetness, pure love.",
+      "Lighting_and_Color": "The primary light source is the humble bowl of porridge, which glows with a warm, divine, golden light, illuminating the parent's blissful face. The celestial scene is in cooler, less emotionally resonant colors.",
+      "Technical_Cues": {
+        "Camera": "Extreme close-up on the parent's face to capture the sublime emotion, with the child's hand and the bowl in the frame. Shallow depth of field to soften the background.",
+        "Resolution": "8K, hyper-realistic, focusing on the parent's emotional expression and the texture of the food.",
+        "Lighting": "Soft, warm, radiant light originating from the food itself.",
+        "Art_Genre": "Magical realism, emotional portraiture."
+      },
+      "Cultural_Anchors": [
+        "Ambrosia (அமிழ்தம்)",
+        "A child's small hand (சிறுகை)",
+        "Simple porridge (கூழ்)",
+        "The transcendent joy of parental love"
+      ]
+    },
+    "Negative_Prompt": "disgusted parent, crying child, fancy food, prominent god, text artifacts.",
+    "Hyperparameters": {
+      "variant": "pro",
+      "steps": 50,
+      "cfg_scale": 7,
+      "seed": "Explore the parent's expression of divine bliss."
+    }
+  }
+}

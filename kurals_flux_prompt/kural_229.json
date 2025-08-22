@@ -1,0 +1,38 @@
+{
+  "Kural_Info": {
+    "Number": 229,
+    "Chapter": "ஈகை (Giving)",
+    "Tamil_Text": "இரத்தலின் இன்னாது மன்ற நிரப்பியதாமே தமியர் உணல்.",
+    "English_Meaning": "Solitary and unshared eating for the sake of filling up one's own riches is certainly much more unpleasant than begging."
+  },
+  "Flux_Optimized_Prompt": {
+    "Layered_Composition": {
+      "Foreground": "A split composition illustrating a hierarchy of misery.",
+      "Midground": "On the left, a beggar is shown in the act of begging ('இரத்தல்'). This is depicted as a painful and sorrowful state.",
+      "Background": "On the right, a wealthy person is shown eating a lavish meal completely alone ('தமியர் உணல்'). Their goal is just to hoard their wealth ('நிரப்பிய'). This act of lonely, unshared consumption is depicted as being even more painful, lonely, and spiritually impoverished than the act of begging. It is 'more painful' ('இன்னாது')."
+    },
+    "Art_Direction": {
+      "Subject_and_Action": "A surprising moral judgment: the act of hoarding wealth and eating alone is a far more painful and miserable state than the act of begging.",
+      "Symbolic_Motifs": "The key is the emotional state. The beggar is in need, but the lonely eater is in a state of spiritual death. Their grand feast is a feast of ghosts; their solitude is a prison. The beggar, at least, is engaging with the world.",
+      "Mood_and_Emotion": "More painful, spiritual death, profound loneliness, miserable wealth.",
+      "Lighting_and_Color": "The beggar's scene is lit with a sad, pathetic light. The lonely eater's scene, despite the rich food, is lit with a cold, deathly, and intensely lonely light. The shadows in the eater's room are deeper and more menacing.",
+      "Technical_Cues": {
+        "Camera": "A comparative diptych that uses emotional cues and lighting to show that the wealthy, lonely eater is in a far worse state than the beggar.",
+        "Resolution": "8K, ultra-realistic, with a focus on the expression of profound, soul-deep loneliness on the eater's face.",
+        "Lighting": "Contrasting lighting to show that material wealth does not equal happiness.",
+        "Art_Genre": "Symbolic realism, psychological art."
+      },
+      "Cultural_Anchors": [
+        "More painful than begging (இரத்தலின் இன்னாது)",
+        "Is to eat alone, hoarding one's wealth (நிரப்பிய தாமே தமியர் உணல்)"
+      ]
+    },
+    "Negative_Prompt": "happy lonely eater, sad beggar, text artifacts.",
+    "Hyperparameters": {
+      "variant": "pro",
+      "steps": 50,
+      "cfg_scale": 9,
+      "seed": "Explore the visual of the 'feast of ghosts'."
+    }
+  }
+}

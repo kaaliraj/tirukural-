@@ -1,0 +1,34 @@
+{
+  "Kural_Info": {
+    "Number": 978,
+    "Chapter": "பெருமை (Greatness)",
+    "Tamil_Text": "பணியுமாம் என்றும் பெருமை சிறுமைஅணியுமாம் தன்னை வியந்து.",
+    "English_Meaning": "Greatness humbly bends, but littleness always Spreads out its plumes, and loads itself with praise."
+  },
+  "Flux_Optimized_Prompt": {
+    "Layered_Composition": {
+      "Foreground": "A split-screen visual. On the left, a truly great person ('Perumai'), despite their high status, is shown bowing humbly ('Paniyum'). On the right, a person of little worth ('Sirumai') is puffing out their chest arrogantly, admiring their own reflection.",
+      "Midground": "Behind the great person, their aura of respect and influence grows larger and more radiant as they bow. Behind the small-minded person, their reflection is distorted and clownish, and they are surrounded by gaudy, self-adorned trinkets.",
+      "Background": "A simple, elegant, and respected setting for the great person. A cluttered, ostentatious, and gaudy setting for the small-minded person."
+    },
+    "Art_Direction": {
+      "Subject_and_Action": "A direct visual contrast between the humility of the great and the self-admiring arrogance of the small-minded.",
+      "Symbolic_Motifs": "The act of bowing versus puffing out the chest. The growing, genuine aura versus the gaudy, superficial adornments. The humble versus the narcissistic setting.",
+      "Mood_and_Emotion": "Dignified humility contrasted with laughable arrogance.",
+      "Lighting_and_Color": "Soft, respectful, warm light for the great person. Harsh, garish, artificial light for the small-minded person, emphasizing their superficiality."
+    },
+    "Technical_Cues": {
+      "Camera": "Balanced double portrait shot, allowing for a clear and immediate comparison of the two characters and their attitudes.",
+      "Resolution": "8K, photorealistic, capturing the sincerity on one face and the vanity on the other.",
+      "Lighting": "Contrasting lighting schemes—natural and soft vs. artificial and harsh—to reinforce the theme.",
+      "Art_Genre": "Allegorical portraiture, with a clear moral message."
+    },
+    "Cultural_Anchors": [
+      "பணிவு (Humility)",
+      "தன்னை வியந்து அணிதல் (Self-admiration and adornment)",
+      "பெருமை (Greatness)",
+      "சிறுமை (Littleness/Baseness)"
+    ]
+  },
+  "Negative_Prompt": "arrogant great person, humble small-minded person, similar backgrounds, neutral lighting, text artifacts, blurry."
+}

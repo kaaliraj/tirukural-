@@ -1,0 +1,32 @@
+{
+  "Kural_Info": {
+    "Number": 1210,
+    "Chapter": "நினைந்தவர்புலம்பல் (Sad Memories)",
+    "Tamil_Text": "விடாஅது சென்றாரைக் கண்ணினால் காணப்படாஅதி வாழி மதி.",
+    "English_Meaning": "Set not; so may'st thou prosper, moon! that eyes may see My love who went away, but ever bides with me."
+  },
+  "Flux_Optimized_Prompt": {
+    "Layered_Composition": {
+      "Foreground": "A woman stands on a balcony at night, her eyes fixed on the full moon ('Madhi').",
+      "Midground": "She is pleading with the moon, asking it not to set ('Padaathi'). Her hope is that the moonlight will act as a magical bridge or a lens, allowing her eyes to see her distant lover.",
+      "Background": "Her lover, though physically far away ('Sendraarai'), is shown to be always in her heart ('Vidaathu'), and she hopes the moon's constant light can make this inner presence an outer reality for her eyes to behold."
+    },
+    "Art_Direction": {
+      "Subject_and_Action": "A lover's plea to the moon: 'Long may you live, O Moon! Please do not set, so that I may use your light to see my lover who, though he has departed, has never truly left my soul.'",
+      "Symbolic_Motifs": "The moon as a magical communication device or a cosmic eye that can connect distant lovers. The plea to the moon personifies it as a sympathetic entity.",
+      "Mood_and_Emotion": "Longing, hopeful, magical, romantic.",
+      "Lighting_and_Color": "The scene is bathed in the beautiful, ethereal light of a full moon. The colors are deep, nocturnal blues, purples, and brilliant silver. The moonlight creates a magical, hopeful atmosphere."
+    },
+    "Technical_Cues": {
+      "Camera": "A romantic low-angle shot of the woman looking up at the moon, creating a sense of wonder and longing.",
+      "Resolution": "8K, mystical realism, with a beautifully rendered, luminous moon.",
+      "Lighting": "Strong, cinematic moonlight as the key light, with soft, volumetric rays.",
+      "Art_Genre": "Romantic fantasy, with a touch of classical poetry's personification of nature."
+    },
+    "Cultural_Anchors": [
+      "The moon (மதி) as a confidante and messenger for lovers",
+      "The concept of a lover being physically absent but spiritually present"
+    ]
+  },
+  "Negative_Prompt": "a setting moon, a sad or hopeless woman, a cloudy sky, daytime, text artifacts, cartoonish."
+}

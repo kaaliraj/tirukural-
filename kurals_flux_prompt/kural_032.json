@@ -1,0 +1,39 @@
+{
+  "Kural_Info": {
+    "Number": 32,
+    "Chapter": "அறன் வலியுறுத்தல் (Assertion of the Strength of Virtue)",
+    "Tamil_Text": "அறத்தினூஉங்கு ஆக்கமும் இல்லை அதனைமறத்தலின் ஊங்கில்லை கேடு.",
+    "English_Meaning": "There can be no greater source of good than virtue; there can be no greater source of evil than the forgetfulness of it."
+  },
+  "Flux_Optimized_Prompt": {
+    "Layered_Composition": {
+      "Foreground": "A split composition. On the right, a figure walks a straight, sunlit path of smooth stones, surrounded by lush greenery, representing the 'gain from virtue' (அறத்தினூஉங்கு ஆக்கமும்).",
+      "Midground": "On the left, the same figure is lost and stumbling in a dark, dead forest of thorns, representing the 'ruin from forgetting virtue' (மறத்தலின் ஊங்கில்லை கேடு). The path here is broken and treacherous.",
+      "Background": "The background mirrors the split: a bright, hopeful sky on the right, and a dark, stormy, oppressive sky on the left. The divide originates from the figure's choice point."
+    },
+    "Art_Direction": {
+      "Subject_and_Action": "The absolute dichotomy between the gain derived from practicing virtue and the ruin that comes from forgetting it.",
+      "Symbolic_Motifs": "The sunlit path on the right is lined with fruit-bearing trees. The dark path on the left is lined with thorny, dead branches that snag at the figure's clothes. The figure on the right is radiant, the one on the left is a shadowed silhouette of their former self.",
+      "Mood_and_Emotion": "Stark contrast, cautionary, choice and consequence, absolute.",
+      "Lighting_and_Color": "A dramatic split in the color palette. The right side is vibrant with greens, golds, and bright whites. The left side is a grim monochrome of blacks, greys, and deep, sickly purples."
+    },
+    "Technical_Cues": {
+      "Camera": "Wide shot, perfectly centered on the dividing line, creating a stark, graphic comparison. 35mm lens.",
+      "Resolution": "8K, ultra-realistic, with sharp focus on the textures of both the lush and the dead environments.",
+      "Lighting": "Dramatic dual lighting: bright, clear, directional light on the right; dark, chaotic, stormy lighting on the left.",
+      "Art_Genre": "Allegorical digital painting, symbolic realism."
+    },
+    "Cultural_Anchors": [
+      "The supremacy of Aram (Virtue)",
+      "Marathal (மறத்தல்) - Forgetfulness as an active cause of ruin",
+      "The concept of life as a path defined by choices"
+    ]
+  },
+  "Negative_Prompt": "middle path, grey scene, happy person on dark path, text artifacts, cartoonish thorns, ambiguous mood.",
+  "Hyperparameters": {
+    "variant": "dev",
+    "steps": 45,
+    "cfg_scale": 9,
+    "seed": "Explore variations for the appearance of the thorny forest."
+  }
+}

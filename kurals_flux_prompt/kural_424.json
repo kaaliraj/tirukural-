@@ -1,0 +1,39 @@
+{
+  "Kural_Info": {
+    "Number": 424,
+    "Chapter": "அறிவுடைமை (The Possession of Knowledge)",
+    "Tamil_Text": "எண்பொருள வாகச் செலச்சொல்லித் தான்பிறர்வாய் நுண்பொருள் காண்ப தறிவு.",
+    "English_Meaning": "To speak so as that the meaning may easily enter the mind of the hearer, and to discern the subtlest thought which may lie hidden in the words of others, this is wisdom."
+  },
+  "Flux_Optimized_Prompt": {
+    "Layered_Composition": {
+      "Foreground": "A wise orator is shown in a dual role. On the left, they are speaking ('செலச்சொல்லி'). Their words are visualized as clear, simple, crystal-like shapes that flow easily towards their audience, representing clarity.",
+      "Midground": "On the right, the same person is listening ('பிறர்வாய்'). The words coming towards them are complex, intricate, multi-layered patterns. Their wise mind is shown carefully deconstructing these patterns to find a tiny, brilliant gem of subtle meaning ('நுண்பொருள்') at the core.",
+      "Background": "A balanced, orderly setting like a classical Greek amphitheater, symbolizing clear and intelligent discourse."
+    },
+    "Art_Direction": {
+      "Subject_and_Action": "Wisdom is a two-way process: the ability to express complex ideas simply and the ability to perceive subtle meanings in the words of others.",
+      "Symbolic_Motifs": "The clear crystal shapes represent simple, accessible speech. The complex patterns with a hidden gem represent the subtle meaning in others' words.",
+      "Mood_and_Emotion": "Intelligent, articulate, perceptive, clear, balanced.",
+      "Lighting_and_Color": "Bright, clear, intellectual lighting. The crystal words are transparent and pure. The hidden gem of meaning glows with a concentrated, brilliant light."
+    },
+    "Technical_Cues": {
+      "Camera": "A symmetrical, split-screen composition that highlights the two complementary skills of speaking and listening.",
+      "Resolution": "8K, with abstract geometric effects for the words.",
+      "Lighting": "Even, high-key lighting, connoting clarity and intelligence.",
+      "Art_Genre": "Conceptual illustration, abstract art."
+    },
+    "Cultural_Anchors": [
+      "Speaking with clarity ('எண்பொருள வாகச் செலச்சொல்லி')",
+      "Discerning subtle meaning ('நுண்பொருள் காண்பது')",
+      "The duality of wise communication."
+    ]
+  },
+  "Negative_Prompt": "confusing speech, listener looking bored, dark setting, text inside the shapes, blurry.",
+  "Hyperparameters": {
+    "variant": "dev",
+    "steps": 40,
+    "cfg_scale": 8,
+    "seed": "Explore variations for the intricate patterns of others' words."
+  }
+}

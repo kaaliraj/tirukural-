@@ -1,0 +1,39 @@
+{
+  "Kural_Info": {
+    "Number": 142,
+    "Chapter": "பிறனில் விழையாமை (Not coveting another's Wife)",
+    "Tamil_Text": "அறன்கடை நின்றாருள் எல்லாம் பிறன்கடைநின்றாரின் பேதையார் இல்.",
+    "English_Meaning": "Among all those who stand on the outside of virtue, there are no greater fools than those who stand outside their neighbour's door."
+  },
+  "Flux_Optimized_Prompt": {
+    "Layered_Composition": {
+      "Foreground": "A man is shown foolishly loitering with lustful intent outside his neighbor's house ('பிறன் கடை நின்றார்').",
+      "Midground": "In a grand, symbolic vista, a great walled city representing the realm of Virtue ('அறன்') is shown. A crowd of various sinners and wrongdoers ('அறன் கடை நின்றார்') are depicted standing outside the city gates, unable to enter.",
+      "Background": "Among all these various sinners, a divine light of judgment shines down and singles out the man loitering by his neighbor's door, crowning him with a dunce cap of supreme folly. The image declares that there are 'no greater fools' ('பேதடயார் இல்') than him."
+    },
+    "Art_Direction": {
+      "Subject_and_Action": "Among all the people who live outside the bounds of virtue, the most foolish of all is the adulterer who waits by his neighbor's door.",
+      "Symbolic_Motifs": "The hierarchy of folly is the key visual. While many are outside the city of virtue, the adulterer is singled out for the highest degree of foolishness. The dunce cap is a direct, almost satirical, symbol of this status.",
+      "Mood_and_Emotion": "Supreme folly, judgmental, cautionary, pathetic.",
+      "Lighting_and_Color": "The city of virtue glows with a pure, inaccessible light. The crowd of sinners is in a shadowy gloom. The divine spotlight on the adulterer is not one of glory, but of judgment and ridicule.",
+      "Technical_Cues": {
+        "Camera": "A high-angle shot that shows the city of virtue, the crowd of sinners, and then zooms in to focus on the supreme foolishness of the one man waiting by the door.",
+        "Resolution": "8K, ultra-realistic, with a clear depiction of the different types of sinners.",
+        "Lighting": "A divine spotlight of judgment.",
+        "Art_Genre": "Allegorical painting, with satirical elements."
+      },
+      "Cultural_Anchors": [
+        "He who stands by another's door (பிறன் கடை நின்றார்)",
+        "Among all who stand outside virtue (அறன் கடை நின்றாருள் எல்லாம்)",
+        "There are no greater fools (பேதையார் இல்)"
+      ]
+    },
+    "Negative_Prompt": "man looking wise, sinners being equal, text artifacts.",
+    "Hyperparameters": {
+      "variant": "pro",
+      "steps": 50,
+      "cfg_scale": 9,
+      "seed": "Explore the different types of sinners outside the city gates."
+    }
+  }
+}

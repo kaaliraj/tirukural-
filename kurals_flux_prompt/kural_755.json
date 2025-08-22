@@ -1,0 +1,39 @@
+{
+  "Kural_Info": {
+    "Number": 755,
+    "Chapter": "பொருள்செயல்வகை (Way of Accumulating Wealth)",
+    "Tamil_Text": "அருளொடும் அன்பொடும் வாராப் பொருளாக்கம் புல்லார் புரள விடல்.",
+    "English_Meaning": "Wealth acquired without grace and love, let a man cast it off from his embrace."
+  },
+  "Flux_Optimized_Prompt": {
+    "Layered_Composition": {
+      "Foreground": "A person is being offered a great treasure chest. However, the chest is dark, cold, and emanates a cruel, unloving energy. It represents wealth acquired without grace or love ('அருளொடும் அன்பொடும் வாரா').",
+      "Midground": "The wise person is shown forcefully pushing the chest away, casting it off ('புல்லார் புரள விடல்'). They refuse to embrace it, no matter how valuable it appears.",
+      "Background": "The rejected chest tumbles into a dark abyss, showing that it belongs to the realm of evil. The person who rejected it stands in a simple but clean and well-lit space, having chosen integrity over tainted wealth."
+    },
+    "Art_Direction": {
+      "Subject_and_Action": "One must reject and cast away any wealth that is not acquired through means of grace and love.",
+      "Symbolic_Motifs": "The dark, cold, evil-feeling treasure chest is the symbol of tainted wealth. The forceful act of pushing it away is the central action of rejection.",
+      "Mood_and_Emotion": "Principled, discerning, self-respecting, pure.",
+      "Lighting_and_Color": "The tainted treasure has a cold, sickly, dark aura. The person and their surroundings are lit with a simple, pure, white light. The contrast is between corrupted wealth and simple purity.",
+      "Technical_Cues": {
+        "Camera": "A dynamic shot that captures the powerful moment of rejection.",
+        "Resolution": "8K, with a strong focus on the emotional choice of the individual.",
+        "Lighting": "High-contrast lighting to differentiate between the good choice and the bad treasure.",
+        "Art_Genre": "Symbolic realism."
+      }
+    },
+    "Cultural_Anchors": [
+      "Wealth without Grace and Love ('அருளொடும் அன்பொடும் வாராப் பொருள்')",
+      "Casting it away ('புர landsc விடல்')",
+      "The importance of ethical wealth acquisition."
+    ]
+  },
+  "Negative_Prompt": "person hugging the chest, a glowing chest, text artifacts, cartoonish.",
+  "Hyperparameters": {
+    "variant": "dev",
+    "steps": 45,
+    "cfg_scale": 9,
+    "seed": "Explore variations for the dark energy of the chest."
+  }
+}

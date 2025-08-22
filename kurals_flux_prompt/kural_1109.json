@@ -1,0 +1,40 @@
+{
+  "Kural_Info": {
+    "Number": 1109,
+    "Chapter": "புணர்ச்சிமகிழ்தல் (Rejoicing in the Embrace)",
+    "Tamil_Text": "ஊடல் உணர்தல் புணர்தல் இவைகாமம்கூடியார் பெற்ற பயன்.",
+    "English_Meaning": "Love quarrel, reconciliation and intercourse - these are the advantages reaped by those who marry for lust."
+  },
+  "Flux_Optimized_Prompt": {
+    "Layered_Composition": {
+      "Foreground": "A couple is shown progressing through the three essential stages of a lover's dynamic.",
+      "Midground": "The scene is a triptych. On the left, they are in a state of playful pouting or feigned anger ('ஊடல்'). In the center, they are in a state of understanding and reconciliation ('உணர்தல்'). On the right, they are in a state of blissful reunion and embrace ('புணர்தல்').",
+      "Background": "This entire three-act cycle is presented as the 'fruit' or 'benefit' ('பயன்') that is enjoyed by those who are united in love ('காமம் கூடியார்'). It is not just the final embrace, but the entire dynamic process that constitutes the pleasure."
+    },
+    "Art_Direction": {
+      "Subject_and_Action": "The true fruit of a loving union is the complete cycle of playful pouting, tender reconciliation, and blissful reunion.",
+      "Symbolic_Motifs": "The triptych format clearly presents the three stages as part of a single, valuable process. The emotional arc from playful tension to peaceful understanding to blissful joy is the core narrative.",
+      "Mood_and_Emotion": "Cyclical, dynamic, playful, romantic, fulfilling.",
+      "Lighting_and_Color": "The lighting and color should follow the emotional arc. 'Oodal' is in slightly cooler, more dramatic colors. 'Unarthal' is in a soft, gentle, understanding light. 'Punarthal' is in a warm, passionate, golden light of bliss.",
+      "Technical_Cues": {
+        "Camera": "A wide shot that captures the couple in all three stages, perhaps through a sequential art or time-lapse effect.",
+        "Resolution": "8K, ultra-realistic, with a strong focus on the different emotions in each stage.",
+        "Lighting": "A clear progression of lighting that follows the story from tension to bliss.",
+        "Art_Genre": "Narrative painting, romantic realism."
+      },
+      "Cultural_Anchors": [
+        "Pouting (ஊடல்)",
+        "Reconciliation (உணர்தல்)",
+        "Reunion (புணர்தல்)",
+        "This is the fruit of love (காமம் கூடியார் பெற்ற பயன்)"
+      ]
+    },
+    "Negative_Prompt": "real fighting, no reconciliation, text artifacts.",
+    "Hyperparameters": {
+      "variant": "pro",
+      "steps": 50,
+      "cfg_scale": 8,
+      "seed": "Explore the emotional expressions for each of the three stages."
+    }
+  }
+}

@@ -1,0 +1,39 @@
+{
+  "Kural_Info": {
+    "Number": 753,
+    "Chapter": "பொருள்செயல்வகை (Way of Accumulating Wealth)",
+    "Tamil_Text": "பொருளென்னும் பொய்யா விளக்கம் இருளறுக்கும் எண்ணிய தேயத்துச் சென்று.",
+    "English_Meaning": "The imperishable light of wealth goes into regions desired (by its owner) and destroys the darkness (of enmity therein)."
+  },
+  "Flux_Optimized_Prompt": {
+    "Layered_Composition": {
+      "Foreground": "A person holds a single, brilliant, golden coin, which shines like a miniature sun. This is the 'unfailing lamp' of wealth ('பொய்யா விளக்கம்').",
+      "Midground": "The light from this lamp projects a path into a dark, distant, and hostile land ('எண்ணிய தேயத்து'). This darkness represents the obstacles and enmity in that land ('இருள்').",
+      "Background": "The powerful beam of light from the lamp of wealth is shown completely cutting through and dispelling the darkness ('இருளறுக்கும்'), making the hostile land safe and accessible. Wealth is shown as a tool that removes obstacles in any desired place."
+    },
+    "Art_Direction": {
+      "Subject_and_Action": "The lamp of wealth is a tool of immense power that can go to any land you desire and destroy the darkness of opposition there.",
+      "Symbolic_Motifs": "Wealth as an 'unfailing lamp' is the central metaphor. Its light beam cutting through the darkness is the action that demonstrates its power.",
+      "Mood_and_Emotion": "Powerful, illuminating, conquering, enabling.",
+      "Lighting_and_Color": "The scene is a dramatic contrast between the brilliant, golden light of the lamp and the deep, menacing darkness of the distant land. The beam of light is the most powerful element in the image.",
+      "Technical_Cues": {
+        "Camera": "A shot from behind the person, following the powerful beam of light as it travels to and illuminates the dark land.",
+        "Resolution": "8K, cinematic, with powerful volumetric lighting effects.",
+        "Lighting": "The lamp of wealth is the single, dominant light source.",
+        "Art_Genre": "High-fantasy art."
+      }
+    },
+    "Cultural_Anchors": [
+      "The Unfailing Lamp of Wealth ('பொருளென்னும் பொய்யா விளக்கம்')",
+      "Destroying Darkness ('இருளறுக்கும்')",
+      "The power of wealth to overcome obstacles anywhere."
+    ]
+  },
+  "Negative_Prompt": "a dim lamp, darkness winning, text artifacts, cartoonish.",
+  "Hyperparameters": {
+    "variant": "pro",
+    "steps": 50,
+    "cfg_scale": 9,
+    "seed": "Explore variations for the dark, hostile land."
+  }
+}

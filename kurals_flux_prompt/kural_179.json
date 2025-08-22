@@ -1,0 +1,39 @@
+{
+  "Kural_Info": {
+    "Number": 179,
+    "Chapter": "வெஃகாமை (Not Coveting)",
+    "Tamil_Text": "అறனறிந்து వెஃகா அறிவுடையார்ச் சேரும்திறன்அறிந் தாங்கே திரு.",
+    "English_Meaning": "Lakshmi, knowing the manner (in which she may approach) will immediately come to those wise men who, knowing that it is virtue, covet not the property of others."
+  },
+  "Flux_Optimized_Prompt": {
+    "Layered_Composition": {
+      "Foreground": "A wise person ('అறிவுடையார்') is shown. They understand that non-coveting is virtue ('అறன் அறிந்து') and are actively refusing to covet the wealth of others ('வெஃகா').",
+      "Midground": "The Goddess of Fortune, Lakshmi ('திரு'), is shown in the heavens, looking down upon the world.",
+      "Background": "She sees the wise, non-covetous person. Recognizing their virtue and worthiness ('திறன் அறிந்து'), she is shown joyfully and purposefully descending from her celestial abode to seek them out and bestow her blessings upon them ('ఆங்கே சேரும்'). Her arrival is not a matter of chance, but a deliberate choice to seek out the worthy."
+    },
+    "Art_Direction": {
+      "Subject_and_Action": "The Goddess of Fortune herself will seek out and join the wise person who understands virtue and does not covet.",
+      "Symbolic_Motifs": "Lakshmi is an active agent, not a passive prize. She is 'seeking' the right person. The wise person is not praying for wealth; their virtuous state is what attracts it naturally. The connection is one of merit and conscious divine choice.",
+      "Mood_and_Emotion": "Divine attraction, deserved fortune, graceful, blessed.",
+      "Lighting_and_Color": "The wise person is in a clear, virtuous light. The Goddess Lakshmi is a being of brilliant, radiant, golden light. Her descent towards the wise person creates a beautiful, divine pathway of light connecting heaven and earth.",
+      "Technical_Cues": {
+        "Camera": "A shot that shows Lakshmi in her heaven looking down, finding the wise person on earth, and beginning her graceful descent towards them.",
+        "Resolution": "8K, ultra-realistic, with a majestic and benevolent depiction of the Goddess Lakshmi.",
+        "Lighting": "A beautiful, divine, golden light that fills the scene as the goddess descends.",
+        "Art_Genre": "Mythological painting, epic fantasy art."
+      },
+      "Cultural_Anchors": [
+        "Thiru (திரு) - Lakshmi, The Goddess of Fortune",
+        "Will seek out the wise who know virtue and do not covet (అறனறிந்து வெஃகா அறிவுடையார்ச் சேரும்)",
+        "Knowing their worthiness (திறன் அறிந்து)"
+      ]
+    },
+    "Negative_Prompt": "Lakshmi ignoring the wise person, covetous person getting wealth, text artifacts.",
+    "Hyperparameters": {
+      "variant": "pro",
+      "steps": 55,
+      "cfg_scale": 8,
+      "seed": "Explore the graceful descent of the Goddess Lakshmi."
+    }
+  }
+}

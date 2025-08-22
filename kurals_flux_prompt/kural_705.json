@@ -1,0 +1,39 @@
+{
+  "Kural_Info": {
+    "Number": 705,
+    "Chapter": "குறிப்பறிதல் (The Knowledge of Indications)",
+    "Tamil_Text": "குறிப்பிற் குறிப்புணரா வாயின் உறுப்பினுள் என்ன பயத்தவோ கண்.",
+    "English_Meaning": "Of what use are the eyes amongst one's members, if they cannot by their own indications dive those of another ?."
+  },
+  "Flux_Optimized_Prompt": {
+    "Layered_Composition": {
+      "Foreground": "A close-up on a person's face. They are looking at another person who is showing clear but subtle signs of distress or joy.",
+      "Midground": "However, the eyes of the observer are depicted as beautiful but non-functional ornaments, like polished stones. They see the surface but fail to understand the meaning behind the signs ('குறிப்புணரா').",
+      "Background": "Because the eyes are failing in their primary function of perceptive understanding, they are shown to be utterly useless ('என்ன பயத்தவோ'). The image poses this question directly to the viewer."
+    },
+    "Art_Direction": {
+      "Subject_and_Action": "If one's eyes cannot read the subtle meanings behind the signs they see, then of what use are they among all the other body parts?",
+      "Symbolic_Motifs": "The eyes as beautiful but useless stones is the key metaphor. This highlights their failure not as organs of sight, but as organs of perception.",
+      "Mood_and_Emotion": "Useless, unperceptive, questioning, a functional failure.",
+      "Lighting_and_Color": "A cold, analytical light that highlights the beautiful surface of the stone eyes but also their lifelessness.",
+      "Technical_Cues": {
+        "Camera": "An extreme close-up on the unperceptive eyes.",
+        "Resolution": "8K, with a focus on the contrast between the organic face and the inorganic eyes.",
+        "Lighting": "Clear, direct lighting.",
+        "Art_Genre": "Surrealist portraiture."
+      }
+    },
+    "Cultural_Anchors": [
+      "Eyes that cannot read signs ('குறிப்புணரா கண்')",
+      "Of what use are they? ('என்ன பயத்தவோ')",
+      "Perception as the true function of the eye."
+    ]
+  },
+  "Negative_Prompt": "perceptive eyes, text artifacts, cartoonish.",
+  "Hyperparameters": {
+    "variant": "pro",
+    "steps": 50,
+    "cfg_scale": 8,
+    "seed": "Explore variations for the polished stone eyes."
+  }
+}

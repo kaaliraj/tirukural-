@@ -1,0 +1,33 @@
+{
+  "Kural_Info": {
+    "Number": 1274,
+    "Chapter": "குறிப்பறிவுறுத்தல் (The Reading of the Signs)",
+    "Tamil_Text": "முகைமொக்குள் உள்ளது நாற்றம்போல் பேதைநகைமொக்குள் உள்ளதொன் றுண்டு.",
+    "English_Meaning": "As fragrance in the opening bud, some secret lies Concealed in budding smile of this dear damsel's eyes."
+  },
+  "Flux_Optimized_Prompt": {
+    "Layered_Composition": {
+      "Foreground": "A young woman ('Pethai') is shown with a very subtle, almost-smile, a 'budding smile' ('Nagaimokkul').",
+      "Midground": "This budding smile is visually paralleled with a beautiful, tightly closed flower bud ('Mukaimokkul'). Just as the flower bud contains a hidden fragrance, her smile contains a hidden meaning or feeling.",
+      "Background": "From both the flower bud and her subtle smile, a faint, magical aura of fragrance and meaning ('Naatram', 'Ullathondru') is shown to be emanating, perceptible only to the keen observer (the lover)."
+    },
+    "Art_Direction": {
+      "Subject_and_Action": "A lover perceives that just as a flower bud holds its fragrance within, the subtle, budding smile of his beloved holds a secret, unspoken meaning.",
+      "Symbolic_Motifs": "The visual parallel between the budding smile and the flower bud. The hidden meaning and fragrance visualized as a subtle, magical aura.",
+      "Mood_and_Emotion": "Subtle, perceptive, full of potential, romantic.",
+      "Lighting_and_Color": "Soft, gentle, and intimate lighting. The colors are fresh and delicate, like a spring morning. The aura is a very faint, shimmering wisp of light/color."
+    },
+    "Technical_Cues": {
+      "Camera": "A gentle close-up on the woman's face, focusing on the very subtle nature of her smile.",
+      "Resolution": "8K, photorealistic, capturing the most minute and subtle facial expressions.",
+      "Lighting": "Soft, diffused lighting to create a delicate and intimate mood.",
+      "Art_Genre": "Poetic realism, focusing on subtle details and metaphors."
+    },
+    "Cultural_Anchors": [
+      "The bud and fragrance metaphor (முகை, நாற்றம்)",
+      "The budding smile (நகை மொக்குள்)",
+      "Unspoken communication in love"
+    ]
+  },
+  "Negative_Prompt": "a wide grin, a fully bloomed flower, a sad expression, text artifacts, cartoonish, blurry."
+}

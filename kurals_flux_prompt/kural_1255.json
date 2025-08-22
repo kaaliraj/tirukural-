@@ -1,0 +1,33 @@
+{
+  "Kural_Info": {
+    "Number": 1255,
+    "Chapter": "நிறையழிதல் (Reserve Overcome)",
+    "Tamil_Text": "செற்றார்பின் செல்லாப் பெருந்தகைமை காமநோய்உற்றார் அறிவதொன்று அன்று.",
+    "English_Meaning": "The dignity that seeks not him who acts as foe, Is the one thing that loving heart can never know."
+  },
+  "Flux_Optimized_Prompt": {
+    "Layered_Composition": {
+      "Foreground": "A lovesick person ('Kaamanoi Uttraar') is shown on their knees, crawling after their lover who is walking away and clearly acting as an enemy ('Settraarpin Sella').",
+      "Midground": "The concept of 'Perunthagaimai' (great dignity) is personified as a tall, noble, spectral figure. This figure is trying to hold the lover back, to prevent them from this undignified pursuit, but its hands pass right through them.",
+      "Background": "A barren, desolate path, symbolizing the fruitless and demeaning nature of the pursuit. The lovesick person is completely unable to grasp or listen to the noble figure of Dignity."
+    },
+    "Art_Direction": {
+      "Subject_and_Action": "Those who are afflicted with lovesickness are incapable of understanding the great dignity of not pursuing someone who has scorned them.",
+      "Symbolic_Motifs": "The personification of Dignity as a ghost that the lover cannot perceive or interact with. The act of crawling symbolizes the utter loss of self-respect.",
+      "Mood_and_Emotion": "Humiliating, desperate, a loss of dignity, pitiful.",
+      "Lighting_and_Color": "Bleak, harsh lighting. The landscape is in desolate, gray tones. The figure of Dignity has a faint, sad, ethereal glow that has no effect on the scene."
+    },
+    "Technical_Cues": {
+      "Camera": "A low-angle shot that emphasizes the demeaning posture of the crawling lover and the impotence of the ghostly figure of Dignity.",
+      "Resolution": "8K, symbolic realism, with a focus on the painful body language.",
+      "Lighting": "Desaturated, high-contrast lighting to create a feeling of harsh reality and despair.",
+      "Art_Genre": "Psychological realism with allegorical figures."
+    },
+    "Cultural_Anchors": [
+      "பெருந்தகைமை (Great Dignity)",
+      "The loss of self-respect in love",
+      "செற்றார் (One who scorns/acts as an enemy)"
+    ]
+  },
+  "Negative_Prompt": "a dignified lover, a welcoming partner, a lush landscape, text artifacts, cartoonish."
+}

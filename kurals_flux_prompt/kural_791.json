@@ -1,0 +1,39 @@
+{
+  "Kural_Info": {
+    "Number": 791,
+    "Chapter": "நட்பாராய்தல் (Investigation in forming Friendships)",
+    "Tamil_Text": "நாடாது நட்டலிற் கேடில்லை நட்டபின் வீடில்லை நட்பாள் பவர்க்கு.",
+    "English_Meaning": "As those who are of a friendly nature will not forsake (a friend) after once loving (him), there is no evil so great as contracting a friendship without due inquiry."
+  },
+  "Flux_Optimized_Prompt": {
+    "Layered_Composition": {
+      "Foreground": "A person is shown carelessly and hastily shaking hands with a stranger, forming a friendship without any investigation ('நாடாது நட்டல்').",
+      "Midground": "The moment the handshake is complete, the bond of friendship is visualized as a set of heavy, unbreakable, magical shackles that instantly lock around both of their wrists.",
+      "Background": "The stranger is then revealed to be a treacherous or harmful person. The first person, who is of a loyal nature, cannot now escape the bond ('வீடில்லை'), and is dragged down into a dark pit of ruin ('கேடு') by the bad friend they chose without thinking."
+    },
+    "Art_Direction": {
+      "Subject_and_Action": "There is no greater source of ruin than forming a friendship without investigation, because for a loyal person, such a friendship, once made, is inescapable.",
+      "Symbolic_Motifs": "The magical, unbreakable shackles that form upon the handshake are the central metaphor for the inescapable bond of friendship for a loyal person.",
+      "Mood_and_Emotion": "Trapped, irreversible, cautionary, disastrous.",
+      "Lighting_and_Color": "The scene begins with a naive brightness that instantly turns dark and ominous the moment the shackles lock. The pit of ruin glows with a menacing red light.",
+      "Technical_Cues": {
+        "Camera": "A shot that captures the rash handshake and the immediate, magical appearance of the inescapable shackles.",
+        "Resolution": "8K, with a strong, dramatic narrative.",
+        "Lighting": "A dramatic shift from light to dark.",
+        "Art_Genre": "Dark fantasy, with a strong moral."
+      }
+    },
+    "Cultural_Anchors": [
+      "Friendship without Investigation ('நாடாது நட்டல்')",
+      "No escape after befriending ('நட்டபின் வீடில்லை')",
+      "The danger of misplaced loyalty."
+    ]
+  },
+  "Negative_Prompt": "person investigating the stranger, breakable shackles, text artifacts, cartoonish.",
+  "Hyperparameters": {
+    "variant": "pro",
+    "steps": 50,
+    "cfg_scale": 9,
+    "seed": "Explore variations for the design of the magical shackles."
+  }
+}

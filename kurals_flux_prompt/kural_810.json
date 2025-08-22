@@ -1,0 +1,39 @@
+{
+  "Kural_Info": {
+    "Number": 810,
+    "Chapter": "பழைமை (Familiarity)",
+    "Tamil_Text": "விழையார் விழையப் படுப பழையார்கண் பண்பின் தலைப்பிரியா தார்.",
+    "English_Meaning": "Even enemies will love those who have never changed in their affection to their long-standing friends."
+  },
+  "Flux_Optimized_Prompt": {
+    "Layered_Composition": {
+      "Foreground": "A noble person is shown standing steadfastly by their old friend ('பழையார்'), who may be in trouble or disgrace. Their loyalty and affection have not changed ('பண்பின் தலைப்பிரியாதார்').",
+      "Midground": "Watching this incredible display of loyalty is an enemy of the noble person ('விழையார்').",
+      "Background": "The enemy's heart is so moved by this display of unwavering loyalty that their expression of hatred melts away and is replaced by one of admiration and love. Even the enemy is won over and desires the friendship of such a loyal person ('விழையப் படுப')."
+    },
+    "Art_Direction": {
+      "Subject_and_Action": "Even one's enemies will come to love and desire the person who never forsakes their customary affection for their old friends.",
+      "Symbolic_Motifs": "The transformation of the enemy's expression from hate to love is the key moment. The loyal person's steadfastness is the catalyst for this change.",
+      "Mood_and_Emotion": "Admirable, loyal, transformative, virtue that conquers hate.",
+      "Lighting_and_Color": "A warm, golden light of loyalty surrounds the two friends. This light spreads and touches the enemy, causing their cold, dark aura to dissipate and be replaced by a warm glow of admiration.",
+      "Technical_Cues": {
+        "Camera": "A shot that focuses on the enemy's face as they witness the act of loyalty and undergo a change of heart.",
+        "Resolution": "8K, with a strong focus on emotional transformation.",
+        "Lighting": "Dynamic lighting that shows the 'light of loyalty' conquering the 'darkness of enmity'.",
+        "Art_Genre": "Psychological realism, with symbolic lighting."
+      },
+      "Cultural_Anchors": [
+        "Never forsaking old friends ('பழையார்கண் பண்பின் தலைப்பிரியாதார்')",
+        "Even enemies will desire them ('விழையார் விழையப் படுப')",
+        "The power of loyalty to win over hate."
+      ]
+    },
+    "Negative_Prompt": "enemy continuing to hate, loyal person abandoning their friend, text artifacts.",
+    "Hyperparameters": {
+      "variant": "pro",
+      "steps": 50,
+      "cfg_scale": 9,
+      "seed": "Explore variations for the enemy's change of expression."
+    }
+  }
+}

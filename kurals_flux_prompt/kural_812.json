@@ -1,0 +1,39 @@
+{
+  "Kural_Info": {
+    "Number": 812,
+    "Chapter": "தீ நட்பு (Evil Friendship)",
+    "Tamil_Text": "உறின்நட்டு அறினொருஉம் ஒப்பிலார் கேண்மைபெறினும் இழப்பினும் என்.",
+    "English_Meaning": "Of what avail is it to get or lose the friendship of those who love when there is gain and leave when there is none?"
+  },
+  "Flux_Optimized_Prompt": {
+    "Layered_Composition": {
+      "Foreground": "A central figure is shown at two different times. On the left, they are prosperous, surrounded by gold. A fair-weather friend is embracing them warmly ('உறின் நட்டு').",
+      "Midground": "On the right, the central figure is shown in poverty, their gold gone. The same fair-weather friend is now walking away, abandoning them ('அறின் ஒருஉம்').",
+      "Background": "A vast, cosmic scale of value is shown. The 'gaining' of this friendship and the 'losing' of it are placed on the scales, and the scales remain perfectly, emptily balanced, showing that both events have zero actual worth ('பெறினும் இழப்பினும் என்?')."
+    },
+    "Art_Direction": {
+      "Subject_and_Action": "A rhetorical question: What difference does it make whether one gains or loses the friendship of those incomparable opportunists who are friends only in good times and abandon you in bad? It is of no real value.",
+      "Symbolic_Motifs": "The cosmic scale showing zero change is the key visual that answers the rhetorical question. The opportunistic friend's actions are clearly tied to the presence or absence of wealth.",
+      "Mood_and_Emotion": "Worthless, transactional, inconsequential, discerning.",
+      "Lighting_and_Color": "The prosperous scene is lit with the artificial glitter of gold. The poverty scene is in a cold, lonely light. The cosmic scale is in a neutral, objective light, delivering a final, dispassionate judgment.",
+      "Technical_Cues": {
+        "Camera": "A balanced diptych shot, showing the 'friendship' in both prosperity and poverty, with the symbolic scale delivering the verdict on its value.",
+        "Resolution": "8K, ultra-realistic, with strong emotional contrast.",
+        "Lighting": "Symbolic lighting to show the conditional nature of the friendship.",
+        "Art_Genre": "Allegorical painting, symbolic realism."
+      },
+      "Cultural_Anchors": [
+        "Friends in gain (உறின் நட்டு)",
+        "Leaving in loss (அறின் ஒருஉம்)",
+        "What if you gain it? What if you lose it? (பெறினும் இழப்பினும் என்?)"
+      ]
+    },
+    "Negative_Prompt": "loyal friend, scale tipping, text artifacts, happy poor person.",
+    "Hyperparameters": {
+      "variant": "pro",
+      "steps": 50,
+      "cfg_scale": 8,
+      "seed": "Explore the design of the cosmic scale of value."
+    }
+  }
+}

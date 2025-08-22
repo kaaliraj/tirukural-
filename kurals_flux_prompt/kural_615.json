@@ -1,0 +1,38 @@
+{
+  "Kural_Info": {
+    "Number": 615,
+    "Chapter": "ஆள்வினையுடைமை (Manly Effort)",
+    "Tamil_Text": "இன்பம் விழையான் வினைவிழைவான் தன்கேளிர்துன்பம் துடைத்தூன்றும் தூண்.",
+    "English_Meaning": "He who desires not pleasure, but desires labour, will be a pillar to sustain his relations, wiping away their sorrows."
+  },
+  "Flux_Optimized_Prompt": {
+    "Layered_Composition": {
+      "Foreground": "A powerful, determined individual is shown. They are turning their back on a beautiful, tempting garden of worldly pleasures ('இன்பம் விழையான்') and are instead facing a difficult but noble task, like building a dam or a fortress ('வினை விழைவான்').",
+      "Midground": "As they work, they transform into a massive, strong, stone pillar ('தூண்').",
+      "Background": "This pillar is shown to be the central support for the homes and lives of all their kinsfolk ('தன் கேளிர்'). The pillar is actively wiping away their sorrows, represented by it holding back a dark flood of 'misery' ('துன்பம் துடைத்து') that would otherwise engulf their community."
+    },
+    "Art_Direction": {
+      "Subject_and_Action": "The person who chooses noble work over personal pleasure becomes the very pillar that supports their family and community, protecting them from sorrow.",
+      "Symbolic_Motifs": "The transformation from person to pillar is the key visual metaphor. The choice to turn away from pleasure is shown as the source of this strength. The pillar's dual function—supporting the community and holding back the flood of sorrow—is crucial.",
+      "Mood_and_Emotion": "Supportive, strong, selfless, protective, foundational.",
+      "Lighting_and_Color": "The garden of pleasure is in alluring but ultimately insubstantial, dream-like colors. The person and their work are lit with a strong, solid, realistic light. The stone pillar is depicted with colors of strength and permanence. The flood of sorrow is a dark, menacing black.",
+      "Technical_Cues": {
+        "Camera": "A wide, epic shot that shows the initial choice, the transformation into a pillar, and the protective function of the pillar in a single, powerful narrative.",
+        "Resolution": "8K, ultra-realistic, with strong textural detail on the stone pillar and dynamic effects for the flood of sorrow.",
+        "Lighting": "The light of determination on the worker's face should be the source that illuminates their transformation into the pillar.",
+        "Art_Genre": "Epic fantasy realism, symbolic art."
+      },
+      "Cultural_Anchors": [
+        "Desiring work, not pleasure (இன்பம் விழையான் வினை விழைவான்)",
+        "A pillar that wipes away sorrow (துன்பம் துடைத்தூன்றும் தூண்)"
+      ]
+    },
+    "Negative_Prompt": "person choosing pleasure, weak pillar, community flooding, text artifacts.",
+    "Hyperparameters": {
+      "variant": "pro",
+      "steps": 55,
+      "cfg_scale": 8,
+      "seed": "Explore the design of the 'pillar of support'."
+    }
+  }
+}

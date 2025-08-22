@@ -1,0 +1,38 @@
+{
+  "Kural_Info": {
+    "Number": 867,
+    "Chapter": "பகைமாட்சி (The Might of Hatred)",
+    "Tamil_Text": "கொடுத்தும் கொளல்வேண்டும் மன்ற அடுத்திருந்துமாணாத செய்வான் பகை.",
+    "English_Meaning": "It is indeed necessary to obtain even by purchase the hatred of him who having begun (a work) does what is not conductive (to its accomplishment)."
+  },
+  "Flux_Optimized_Prompt": {
+    "Layered_Composition": {
+      "Foreground": "An incompetent ally is shown 'helping' to build a great wall. However, his actions are inept and un-magnificent ('மாணாத செய்வான்'); he puts stones in the wrong place, creating instability.",
+      "Midground": "The wise leader of the project is shown secretly paying this incompetent ally to leave and join the enemy's side. He is literally 'purchasing the enmity' ('கொடுத்தும் கொளல் வேண்டும் பகை').",
+      "Background": "In the enemy camp, the incompetent person is now 'helping' them, and as a result, the enemy's own wall is shown to be crumbling and failing. The purchased enmity has become a powerful strategic weapon."
+    },
+    "Art_Direction": {
+      "Subject_and_Action": "It is strategically wise to go so far as to pay an incompetent and obstructive person to become your enemy, because their presence will do more damage to the enemy's side than to your own.",
+      "Symbolic_Motifs": "The act of 'purchasing enmity' is the central, paradoxical idea. The incompetent person is a liability, and the wise leader turns this liability into an asset by giving it to the enemy.",
+      "Mood_and_Emotion": "Strategic, cunning, ironic, brilliantly pragmatic.",
+      "Lighting_and_Color": "The scene is lit with a clear, strategic light. The act of paying the incompetent person is done secretly, in shadow. The result—the crumbling enemy wall—is shown in the clear light of day.",
+      "Technical_Cues": {
+        "Camera": "A narrative sequence shot: 1. The ally causing problems. 2. The secret payment. 3. The enemy suffering the consequences.",
+        "Resolution": "8K, ultra-realistic, with a focus on the cunning expression of the wise leader.",
+        "Lighting": "A mix of shadowy conspiracy and bright, successful outcomes.",
+        "Art_Genre": "Historical strategy illustration, with a touch of satire."
+      },
+      "Cultural_Anchors": [
+        "Purchasing enmity (கொடுத்தும் கொளல் வேண்டும் பகை)",
+        "He who does un-magnificent deeds (மாணாத செய்வான்)"
+      ]
+    },
+    "Negative_Prompt": "competent ally, enemy succeeding, text artifacts.",
+    "Hyperparameters": {
+      "variant": "dev",
+      "steps": 45,
+      "cfg_scale": 9,
+      "seed": "Explore the visual of 'purchasing enmity'."
+    }
+  }
+}

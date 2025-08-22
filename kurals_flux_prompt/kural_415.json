@@ -1,0 +1,39 @@
+{
+  "Kural_Info": {
+    "Number": 415,
+    "Chapter": "கேள்வி (Hearing)",
+    "Tamil_Text": "இழுக்கல் உடையுழி ஊற்றுக்கோல் அற்றே ஒழுக்க முடையார்வாய்ச் சொல்.",
+    "English_Meaning": "Like staff in hand of him in slippery ground who strays Are words from mouth of those who walk in righteous ways."
+  },
+  "Flux_Optimized_Prompt": {
+    "Layered_Composition": {
+      "Foreground": "A person is shown slipping on a treacherous, muddy, and slippery slope ('இழுக்கல் உடையுழி').",
+      "Midground": "At the moment of slipping, a wise, virtuous person ('ஒழுக்கமுடையார்') standing on firm ground above extends a sturdy walking staff ('ஊற்றுக்கோல்') to them. The staff is made of solidified, wise words.",
+      "Background": "A challenging landscape that illustrates the dangers of life where one can easily slip and fall without proper guidance."
+    },
+    "Art_Direction": {
+      "Subject_and_Action": "A direct visual analogy comparing the words of the virtuous to a supporting staff that prevents one from falling on life's slippery paths.",
+      "Symbolic_Motifs": "The slippery slope represents moral or practical challenges in life. The staff, representing the words of the wise, is the tangible support that provides stability and prevents a fall.",
+      "Mood_and_Emotion": "Supportive, guiding, stable, cautionary, wise.",
+      "Lighting_and_Color": "The slippery slope is dark, wet, and dangerous, with cool tones. The virtuous person and the staff are bathed in a steady, reassuring light. The palette emphasizes the contrast between instability and stability."
+    },
+    "Technical_Cues": {
+      "Camera": "Dynamic action shot, capturing the moment of the slip and the timely offer of the staff.",
+      "Resolution": "8K, ultra-realistic, with detailed textures of mud and water.",
+      "Lighting": "Dramatic lighting to highlight the peril of the slope and the safety offered by the staff.",
+      "Art_Genre": "Narrative realism, allegorical painting."
+    },
+    "Cultural_Anchors": [
+      "Words of the Virtuous ('ஒழுக்கமுடையார் வாய்ச்சொல்')",
+      "A Staff on Slippery Ground ('இழுக்கலுடையுழி ஊற்றுக்கோல்')",
+      "Moral guidance and support."
+    ]
+  },
+  "Negative_Prompt": "person falling down, no staff, solid ground, text artifacts, cartoonish figures.",
+  "Hyperparameters": {
+    "variant": "dev",
+    "steps": 40,
+    "cfg_scale": 9,
+    "seed": "Explore variations for the appearance of the virtuous person."
+  }
+}

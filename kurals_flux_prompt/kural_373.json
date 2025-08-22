@@ -1,0 +1,39 @@
+{
+  "Kural_Info": {
+    "Number": 373,
+    "Chapter": "ஊழ் (Fate)",
+    "Tamil_Text": "நுண்ணிய நூல்பல கற்பினும் மற்றுந்தன் உண்மை யறிவே மிகும்.",
+    "English_Meaning": "In subtle learning manifold though versed man be, The wisdom, truly his, will gain supremacy."
+  },
+  "Flux_Optimized_Prompt": {
+    "Layered_Composition": {
+      "Foreground": "A scholar is engrossed in reading from a vast library of glowing, ethereal scrolls representing extensive learning ('நுண்ணிய நூல்பல').",
+      "Midground": "Despite the library, a single, powerful beam of light, representing their innate, fate-ordained wisdom ('உண்மை அறிவு'), shines down from above, overshadowing the light from the scrolls.",
+      "Background": "The library walls fade into a cosmic background, implying that even the sum of all knowledge is subject to the predestined nature of the individual's mind."
+    },
+    "Art_Direction": {
+      "Subject_and_Action": "The concept that no matter how much external knowledge one acquires, the innate, pre-destined nature of one's own wisdom will ultimately prevail.",
+      "Symbolic_Motifs": "The ethereal scrolls represent acquired knowledge. The dominant beam of light symbolizes the supremacy of one's innate, fated intelligence.",
+      "Mood_and_Emotion": "Contemplative, deterministic, intellectual, humbling.",
+      "Lighting_and_Color": "The scrolls cast a soft, multi-colored ambient light. The central beam of light is a powerful, pure white-gold that dominates the scene and casts strong shadows, highlighting its supremacy."
+    },
+    "Technical_Cues": {
+      "Camera": "High-angle wide shot, looking down on the scholar to emphasize the external force of fate.",
+      "Resolution": "8K, photorealistic, with mystical painterly effects for the light and scrolls.",
+      "Lighting": "Strong volumetric lighting for the central beam, creating dramatic god rays.",
+      "Art_Genre": "Fantasy realism, symbolic art."
+    },
+    "Cultural_Anchors": [
+      "Acquired Knowledge ('கற்பினும்') vs. Innate Wisdom ('உண்மை அறிவு')",
+      "Supremacy of Fate ('ஊழ்')",
+      "Ancient Tamil library aesthetic"
+    ]
+  },
+  "Negative_Prompt": "dark scene, no central light beam, modern library, text artifacts, blurry.",
+  "Hyperparameters": {
+    "variant": "dev",
+    "steps": 40,
+    "cfg_scale": 7,
+    "seed": "Explore variations in the color of the scrolls."
+  }
+}

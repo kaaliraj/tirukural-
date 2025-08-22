@@ -1,0 +1,39 @@
+{
+  "Kural_Info": {
+    "Number": 905,
+    "Chapter": "பெண்வழிச்சேறல் (Being led by Women)",
+    "Tamil_Text": "இல்லாளை அஞ்சுவான் அஞ்சுமற் றெஞ்ஞான்றும் நல்லார்க்கு நல்ல செயல்.",
+    "English_Meaning": "He that fears his wife will always be afraid of doing good deeds (even) to the good."
+  },
+  "Flux_Optimized_Prompt": {
+    "Layered_Composition": {
+      "Foreground": "A man who fears his wife ('இல்லாளை அஞ்சுவான்') is shown.",
+      "Midground": "A good and worthy person ('நல்லார்') is in need of help. The man knows he should do a good deed for them ('நல்ல செயல்').",
+      "Background": "However, his fear of his wife is personified as a ghostly, intimidating figure of his wife standing behind him, shaking her head. Because of this overriding fear, his hands are paralyzed, and he is shown to be afraid ('அஞ்சும்') to perform the good deed. He turns away from the person in need."
+    },
+    "Art_Direction": {
+      "Subject_and_Action": "A man who fears his wife will also be afraid to do good deeds, even for good people.",
+      "Symbolic_Motifs": "The personified fear of the wife, acting as a restraining force, is the key visual. The man's paralysis in the face of a moral duty shows the effect of this fear.",
+      "Mood_and_Emotion": "Fearful, morally paralyzed, weak.",
+      "Lighting_and_Color": "A cold, fearful light. The ghostly figure of the wife is surrounded by a dark, intimidating aura that seems to chill the man's will to do good.",
+      "Technical_Cues": {
+        "Camera": "A shot that focuses on the man's internal conflict, with the ghostly wife figure representing his fear.",
+        "Resolution": "8K, with a strong psychological feel.",
+        "Lighting": "High-contrast lighting to emphasize the fear.",
+        "Art_Genre": "Psychological horror, with a moral theme."
+      },
+      "Cultural_Anchors": [
+        "He who fears his wife ('இல்லாளை அஞ்சுவான்')",
+        "Will fear to do good to the good ('நல்லார்க்கு நல்ல செயல் அஞ்சும்')",
+        "How domestic fear cripples public virtue."
+      ]
+    },
+    "Negative_Prompt": "a brave man helping, a supportive wife, text artifacts.",
+    "Hyperparameters": {
+      "variant": "pro",
+      "steps": 50,
+      "cfg_scale": 9,
+      "seed": "Explore variations for the ghostly wife figure."
+    }
+  }
+}

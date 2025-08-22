@@ -1,0 +1,39 @@
+{
+  "Kural_Info": {
+    "Number": 1083,
+    "Chapter": "தகையணங்குறுத்தல் (The Pre-marital love)",
+    "Tamil_Text": "பண்டறியேன் கூற்றென் பதனை இனியறிந்தேன்பெண்டகையால் பேரமர்க் கட்டு.",
+    "English_Meaning": "I never knew before what is called Yama; I see it now; it is the eyes that carry on a great fight with (the help of) female qualities."
+  },
+  "Flux_Optimized_Prompt": {
+    "Layered_Composition": {
+      "Foreground": "A lover looks on in a state of shock and revelation.",
+      "Midground": "Before him are the eyes of his beloved. These are not normal eyes; they are depicted as a battlefield ('பேர் அமர் கட்டு'). Within the eyes, two armies are fighting: one is an army of pure, death-dealing power, like the God of Death, Yama ('கூற்று'). The other is an army of feminine grace and beauty ('பெண் தகை').",
+      "Background": "The lover realizes that the combination of these two forces within her eyes is what constitutes the true, previously unknown form of 'Yama'. Her beauty and her power combine to deliver a fatal, inescapable blow to his heart."
+    },
+    "Art_Direction": {
+      "Subject_and_Action": "The lover's profound realization: he never knew what Death (Yama) truly was until he saw it in his beloved's eyes, where killing power and feminine grace combine to wage a great war.",
+      "Symbolic_Motifs": "The eyes as a literal battlefield is the central surreal metaphor. The two armies within represent the dual nature of her captivating power. The lover's expression is one of dawning, fatalistic understanding.",
+      "Mood_and_Emotion": "Revelation, fatalistic, awe, sublime terror.",
+      "Lighting_and_Color": "The scene is lit by the dramatic, supernatural light emanating from the beloved's eyes. The army of Yama is dark and shadowy, while the army of feminine grace is beautiful and luminous. Their clash creates a chaotic, mesmerizing light.",
+      "Technical_Cues": {
+        "Camera": "An extreme close-up, macro shot that plunges the viewer into the surreal battlefield within the beloved's eyes.",
+        "Resolution": "8K, hyper-realistic, with detailed miniature armies battling within the iris of the eye.",
+        "Lighting": "Internal, chaotic light from the battle within the eyes.",
+        "Art_Genre": "Surrealist art, macro fantasy."
+      },
+      "Cultural_Anchors": [
+        "Yama/The God of Death (கூற்று)",
+        "With feminine grace (பெண் தகையால்)",
+        "Having eyes for a great battle (பேர் அமர் கட்டு)"
+      ]
+    },
+    "Negative_Prompt": "normal eyes, peaceful scene, text artifacts, happy lover.",
+    "Hyperparameters": {
+      "variant": "pro",
+      "steps": 60,
+      "cfg_scale": 9,
+      "seed": "Explore the visual of the two armies battling within the eye."
+    }
+  }
+}

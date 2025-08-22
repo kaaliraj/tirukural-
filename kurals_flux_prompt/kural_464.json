@@ -1,0 +1,39 @@
+{
+  "Kural_Info": {
+    "Number": 464,
+    "Chapter": "தெரிந்துசெயல்வகை (Acting after due Consideration)",
+    "Tamil_Text": "தெளிவி லதனைத் தொடங்கார் இளிவென்னும்ஏதப்பாடு அஞ்சு பவர்.",
+    "English_Meaning": "Those who fear reproach will not commence anything which has not been (thoroughly considered) and made clear to them."
+  },
+  "Flux_Optimized_Prompt": {
+    "Layered_Composition": {
+      "Foreground": "A person who fears disgrace ('இளிவு என்னும் ஏதப்பாடு அஞ்சுபவர்') is standing at the start of a path.",
+      "Midground": "The path ahead is completely shrouded in a thick, impenetrable fog, representing an action whose outcome is unclear ('தெளிவு இலது').",
+      "Background": "Because the path and the destination are unclear, the person refuses to take the first step. They are shown standing firm, unwilling to start the journey ('தொடங்கார்') until the fog clears and they can see the way ahead with certainty."
+    },
+    "Art_Direction": {
+      "Subject_and_Action": "Those who are careful to avoid the disgrace of failure will not begin any undertaking until they are completely clear about its nature and consequences.",
+      "Symbolic_Motifs": "The foggy, unclear path is a direct metaphor for an un-analyzed course of action. The person's stillness is not idleness, but a principled refusal to act under uncertainty. Their fear of disgrace is the motivation for their prudence.",
+      "Mood_and_Emotion": "Prudent, cautious, clear-sighted, risk-averse.",
+      "Lighting_and_Color": "The area where the person stands is in clear, sharp light. The path ahead is a dense, swirling grey fog that obscures everything. The contrast is between the clarity of their principle and the obscurity of the proposed action.",
+      "Technical_Cues": {
+        "Camera": "A shot from behind the person, allowing the viewer to share their perspective of the uncertain, foggy path ahead.",
+        "Resolution": "8K, ultra-realistic, with advanced volumetric fog effects.",
+        "Lighting": "High-contrast lighting, with the fog appearing ominous and concealing.",
+        "Art_Genre": "Atmospheric realism, with symbolic elements."
+      },
+      "Cultural_Anchors": [
+        "That which is unclear (தெளிவு இலது)",
+        "They will not begin (தொடங்கார்)",
+        "Those who fear the fault of disgrace (இளிவு என்னும் ஏதப்பாடு அஞ்சுபவர்)"
+      ]
+    },
+    "Negative_Prompt": "person happily running into the fog, clear path, text artifacts, fearless person.",
+    "Hyperparameters": {
+      "variant": "dev",
+      "steps": 45,
+      "cfg_scale": 9,
+      "seed": "Explore the density and texture of the fog."
+    }
+  }
+}

@@ -1,0 +1,38 @@
+{
+  "Kural_Info": {
+    "Number": 1133,
+    "Chapter": "நாணுத்துறவுரைத்தல் (The Abandonment of Reserve)",
+    "Tamil_Text": "நாணொடு நல்லாண்மை பண்டுடையேன் இன்றுடையேன்காமுற்றார் ஏறும் மடல்.",
+    "English_Meaning": "Modesty and manliness were once my own; now, my own is the palmyra horse that is ridden by the lustful."
+  },
+  "Flux_Optimized_Prompt": {
+    "Layered_Composition": {
+      "Foreground": "A lover is shown in the present moment, grimly holding the reins of a Madal horse. This is what he possesses now ('இன்றுடையேன்').",
+      "Midground": "In a ghostly, faded flashback vision behind him, his former self is depicted. This past self stands proudly, adorned with the shining armor of 'good manliness' ('நல்லாண்மை') and a noble cloak of 'modesty' ('நாண்'). This is what he possessed in the past ('பண்டுடையேன்').",
+      "Background": "The contrast between the two selves is stark. The power of his current love-longing has stripped him of his former virtues and left him with only this one desperate, shameful recourse."
+    },
+    "Art_Direction": {
+      "Subject_and_Action": "A lament for a lost self: the lover who once possessed both modesty and manliness now finds that his only possession is the Madal, the last resort of the love-sick.",
+      "Symbolic_Motifs": "The juxtaposition of the past, virtuous self and the present, desperate self is the core of the image. The armor and cloak of virtue are contrasted with the rough, painful texture of the Madal.",
+      "Mood_and_Emotion": "Lament, loss, transformation, tragic, nostalgic.",
+      "Lighting_and_Color": "The flashback of the past self is in bright, noble, golden tones. The present scene is in dark, somber, and desperate colors. The man is caught between the light of his memory and the darkness of his present.",
+      "Technical_Cues": {
+        "Camera": "A shot that frames the present-day lover in the foreground, with his former, glorious self visible as a ghostly, fading memory behind him.",
+        "Resolution": "8K, ultra-realistic, with a clear textural and emotional difference between the two selves.",
+        "Lighting": "High-contrast lighting to separate the glorious past from the desperate present.",
+        "Art_Genre": "Historical romance, dramatic portraiture."
+      },
+      "Cultural_Anchors": [
+        "What I once possessed: Modesty and Manliness (நாணொடு நல்லாண்மை பண்டுடையேன்)",
+        "What I now possess: the Madal (இன்றுடையேன் மடல்)"
+      ]
+    },
+    "Negative_Prompt": "happy present self, weak past self, text artifacts.",
+    "Hyperparameters": {
+      "variant": "pro",
+      "steps": 50,
+      "cfg_scale": 8,
+      "seed": "Explore the visual contrast between the armor of virtue and the Madal."
+    }
+  }
+}

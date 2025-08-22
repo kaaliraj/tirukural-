@@ -1,0 +1,39 @@
+{
+  "Kural_Info": {
+    "Number": 851,
+    "Chapter": "இகல் (Hostility)",
+    "Tamil_Text": "இகலென்ப எல்லா உயிர்க்கும் பகலென்னும் பண்பின்மை பாரிக்கும் நோய்.",
+    "English_Meaning": "The disease which fosters the evil of disunion among all creatures is termed hatred by the wise."
+  },
+  "Flux_Optimized_Prompt": {
+    "Layered_Composition": {
+      "Foreground": "A dark, sickly, contagious disease ('நோய்') is shown spreading through a community of diverse living beings ('எல்லா உயிர்க்கும்').",
+      "Midground": "This disease, which is Hostility ('இகல்'), has one primary symptom: it causes division and disunion ('பகல்'). Friends are shown turning their backs on each other, families are breaking apart, and cooperation ceases.",
+      "Background": "This disease fosters a fundamental lack of good character ('பண்பின்மை') and spreads it throughout the world, turning a harmonious society into a fractured and hostile one."
+    },
+    "Art_Direction": {
+      "Subject_and_Action": "Hostility is defined as a disease that infects all life, its main symptom being the creation of division and the destruction of good character.",
+      "Symbolic_Motifs": "Hostility visualized as a literal, spreading plague is the central concept. The act of 'division'—people and animals turning away from each other—is the key visual symptom.",
+      "Mood_and_Emotion": "Divisive, diseased, corrupting, hostile.",
+      "Lighting_and_Color": "A sickly, ugly, greenish-purple light spreads with the disease, corrupting the otherwise healthy colors of the community.",
+      "Technical_Cues": {
+        "Camera": "A high-angle shot that shows the disease of hostility spreading through the community like a plague.",
+        "Resolution": "8K, with a dark, allegorical feel.",
+        "Lighting": "A sickly, infectious light.",
+        "Art_Genre": "Symbolic horror, allegorical painting."
+      },
+      "Cultural_Anchors": [
+        "Hostility as a Disease ('இகல் என்னும் நோய்')",
+        "That creates Division ('பகல்')",
+        "And fosters bad character ('பண்பின்மை')"
+      ]
+    },
+    "Negative_Prompt": "a harmonious community, text artifacts, cartoonish.",
+    "Hyperparameters": {
+      "variant": "pro",
+      "steps": 50,
+      "cfg_scale": 8,
+      "seed": "Explore variations for the visual of the spreading disease."
+    }
+  }
+}

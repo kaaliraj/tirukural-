@@ -1,0 +1,39 @@
+{
+  "Kural_Info": {
+    "Number": 210,
+    "Chapter": "தீவினையச்சம் (Dread of Evil Deeds)",
+    "Tamil_Text": "அருங்கேடன் என்பது அறிக மருங்கோடித்தீவினை செய்யான் எனின்.",
+    "English_Meaning": "Know ye that he is freed from destruction who commits no evil, going to neither side of the right path."
+  },
+  "Flux_Optimized_Prompt": {
+    "Layered_Composition": {
+      "Foreground": "A person is walking along a straight, well-defined path of light, representing the 'right path'.",
+      "Midground": "On either side of the path ('மருங்கு ஓடி'), treacherous, dark landscapes exist, tempting the walker to swerve. The person, however, does not commit any evil by deviating ('தீவினை செய்யான்').",
+      "Background": "Because they stay on the path, they are surrounded by a powerful, invisible shield of protection. In the distance, a massive, dark storm representing Ruin or Destruction ('கேடு') is raging, but it is unable to touch the path or the person on it. They are known to be 'safe from ruin' ('அருங்கேடன்')."
+    },
+    "Art_Direction": {
+      "Subject_and_Action": "The person who stays perfectly on the right path, not swerving to either side to commit evil, is known to be fundamentally safe from all destruction.",
+      "Symbolic_Motifs": "The straight path of light is the key metaphor for the righteous way. The protective shield is the inherent safety that comes from staying on this path. The storm of ruin is a powerful but impotent force against the one who does no evil.",
+      "Mood_and_Emotion": "Secure, safe, protected, steadfast, certain.",
+      "Lighting_and_Color": "The path is a brilliant, white-gold light that cuts through the surrounding darkness. The person is illuminated by the path they walk on. The storm of ruin is dark and menacing, with flashes of violent lightning that cannot reach the path.",
+      "Technical_Cues": {
+        "Camera": "A tracking shot from behind the walker, showing their steady progress along the safe path with the dangers on the sides and the impotent storm in the distance.",
+        "Resolution": "8K, ultra-realistic, with strong visual effects for the light path and the distant storm.",
+        "Lighting": "The path is the primary light source, creating a safe, illuminated corridor through the darkness.",
+        "Art_Genre": "High fantasy art, symbolic landscape."
+      },
+      "Cultural_Anchors": [
+        "Safe from ruin (அருங்கேடன்)",
+        "Not swerving to the side (மருங்கு ஓடி)",
+        "Not committing evil (தீவினை செய்யான்)"
+      ]
+    },
+    "Negative_Prompt": "person leaving the path, storm destroying the path, dark path, text artifacts.",
+    "Hyperparameters": {
+      "variant": "pro",
+      "steps": 50,
+      "cfg_scale": 8,
+      "seed": "Explore the contrast between the safe path and the dangerous sides."
+    }
+  }
+}

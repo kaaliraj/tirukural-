@@ -1,0 +1,39 @@
+{
+  "Kural_Info": {
+    "Number": 898,
+    "Chapter": "பெரியாரைப் பிழையாமை (Not Offending the Great)",
+    "Tamil_Text": "குன்றன்னார் குன்ற மதிப்பின் குடியொடு நின்றன்னார் மாய்வர் நிலத்து.",
+    "English_Meaning": "If (the) hill-like (devotees) resolve on destruction, those who seemed to be everlasting will be destroyed root and branch from the earth."
+  },
+  "Flux_Optimized_Prompt": {
+    "Layered_Composition": {
+      "Foreground": "A great and seemingly eternal dynasty ('நின்றன்னார்'), represented by a massive, ancient, and deeply rooted family tree that seems as permanent as the land itself.",
+      "Midground": "The ruler of this dynasty is shown foolishly underestimating or disrespecting a group of great sages who are like mountains ('குன்றன்னார் குன்ற மதிப்பின்').",
+      "Background": "In response to this disrespect, the mountain-like sages focus their will. This causes the very earth to reject the ancient family tree. Its deep roots are violently torn from the ground, and the entire, seemingly eternal dynasty, along with all its branches ('குடியொடு'), withers and dies instantly ('மாய்வர் நிலத்து')."
+    },
+    "Art_Direction": {
+      "Subject_and_Action": "If one disrespects those who are great like mountains, even the most established and seemingly permanent dynasty will be utterly destroyed, root and branch.",
+      "Symbolic_Motifs": "The dynasty as a great, ancient tree is a classic metaphor. The mountain-sages causing the earth to uproot this tree shows their immense, foundational power.",
+      "Mood_and_Emotion": "Cataclysmic, total destruction, the folly of hubris.",
+      "Lighting_and_Color": "A powerful, earth-shattering light emanates from the sages as they focus their will. The scene is one of dramatic, supernatural destruction.",
+      "Technical_Cues": {
+        "Camera": "An epic, wide shot capturing the moment the great tree is violently uprooted from the earth.",
+        "Resolution": "8K, cinematic, with massive destruction and particle effects.",
+        "Lighting": "Supernatural, cataclysmic lighting.",
+        "Art_Genre": "Epic mythological art, disaster painting."
+      },
+      "Cultural_Anchors": [
+        "Those who are like mountains ('குன்றன்னார்')",
+        "If they are underestimated ('குன்ற மதிப்பின்')",
+        "The dynasty will be destroyed with its kin ('குடியொடு மாய்வர்')"
+      ]
+    },
+    "Negative_Prompt": "a healthy tree, happy sages, text artifacts, cartoonish.",
+    "Hyperparameters": {
+      "variant": "pro",
+      "steps": 50,
+      "cfg_scale": 9,
+      "seed": "Explore variations for the uprooting tree effect."
+    }
+  }
+}

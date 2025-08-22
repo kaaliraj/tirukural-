@@ -1,0 +1,39 @@
+{
+  "Kural_Info": {
+    "Number": 172,
+    "Chapter": "வெஃகாமை (Not Coveting)",
+    "Tamil_Text": "படுபயன் வெஃகிப் பழிப்படுவ செய்யார்நடுவன்மை நாணு பவர்.",
+    "English_Meaning": "Those who blush at the want of equity will not commit disgraceful acts through desire of the profit that may be gained."
+  },
+  "Flux_Optimized_Prompt": {
+    "Layered_Composition": {
+      "Foreground": "A person is shown who has a deep, innate shame of injustice ('நடுவு அன்மை நாணுபவர்'). This shame is visualized as a pure, white shield they carry.",
+      "Midground": "A tempting but disgraceful opportunity appears before them: a path paved with gold ('படுபயன்') that leads through a swamp of disgrace and blame ('பழிப்படுவ').",
+      "Background": "Because of their shame/shield, they refuse to even consider taking the disgraceful path, no matter how profitable it appears. They will not commit the blameworthy act ('செய்யார்')."
+    },
+    "Art_Direction": {
+      "Subject_and_Action": "Those who are inherently ashamed of injustice will not commit disgraceful acts, even when tempted by the prospect of great profit.",
+      "Symbolic_Motifs": "The shame of injustice as a protective shield is the central metaphor. The golden path through the swamp of disgrace clearly presents the choice between profit and honor. The person's refusal is an act of character, not calculation.",
+      "Mood_and_Emotion": "Principled, honorable, incorruptible, shamefaced virtue.",
+      "Lighting_and_Color": "The person and their shield of shame are illuminated by a pure, white light of integrity. The golden path has an alluring but treacherous gleam, and the swamp of disgrace is a dark, ugly mire.",
+      "Technical_Cues": {
+        "Camera": "A shot that shows the person using their 'shield of shame' to block the tempting but disgraceful path.",
+        "Resolution": "8K, ultra-realistic, with a strong focus on the textures of the golden path and the filthy swamp.",
+        "Lighting": "The light of integrity from the shield pushes back the darkness of the swamp.",
+        "Art_Genre": "Symbolic realism, with fantasy elements."
+      },
+      "Cultural_Anchors": [
+        "Those who are ashamed of injustice (நடுவு அன்மை நாணுபவர்)",
+        "Will not do blameworthy things (பழிப்படுவ செய்யார்)",
+        "Desiring a great profit (படுபயன் வெஃகி)"
+      ]
+    },
+    "Negative_Prompt": "person taking the golden path, happy in the swamp, text artifacts.",
+    "Hyperparameters": {
+      "variant": "dev",
+      "steps": 45,
+      "cfg_scale": 8,
+      "seed": "Explore the design of the 'shield of shame'."
+    }
+  }
+}

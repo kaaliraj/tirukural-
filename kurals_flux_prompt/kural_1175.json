@@ -1,0 +1,33 @@
+{
+  "Kural_Info": {
+    "Number": 1175,
+    "Chapter": "கண்விதுப்பழிதல் (Eyes consumed with Grief)",
+    "Tamil_Text": "படலாற்றா பைதல் உழக்கும் கடலாற்றாக்காமநோய் செய்தஎன் கண்.",
+    "English_Meaning": "The eye that wrought me more than sea could hold of woes, Is suffering pangs that banish all repose."
+  },
+  "Flux_Optimized_Prompt": {
+    "Layered_Composition": {
+      "Foreground": "A woman's eyes are shown wide open, unable to sleep ('Padalaatraa'). They are red and strained, clearly suffering.",
+      "Midground": "These very eyes are depicted as the source of her problem. They are shown creating a vast, turbulent sea of lovesickness ('Kadal Aatraa Kaama Noi') that now engulfs her entire being.",
+      "Background": "The scene is a dark, restless night, emphasizing the sleeplessness ('Thunjamai') that her eyes are now forced to endure as a consequence of the vast sorrow they created."
+    },
+    "Art_Direction": {
+      "Subject_and_Action": "The irony of her eyes, which created a sea of lovesickness for her, now being unable to find the repose of sleep because of that very same sickness.",
+      "Symbolic_Motifs": "The eyes as literal creators of the sea of sorrow. The inability to close them in sleep, making them victims of their own creation.",
+      "Mood_and_Emotion": "Restless, tormented, sleepless, a sense of being trapped in a cycle of self-inflicted pain.",
+      "Lighting_and_Color": "Dark, nocturnal lighting. The only light comes from the tormented, sleepless eyes themselves, which cast a restless, flickering light on the scene. The sea of sorrow is a churning, dark blue-black."
+    },
+    "Technical_Cues": {
+      "Camera": "A surreal shot that shows the eyes both as part of her face and as the source of the sea around her.",
+      "Resolution": "8K, surreal realism, with dynamic water effects and a focus on the strained, sleepless look of the eyes.",
+      "Lighting": "Low-key, eerie lighting to convey the feeling of a long, painful, sleepless night.",
+      "Art_Genre": "Dark surrealism, exploring themes of consequence and self-inflicted suffering."
+    },
+    "Cultural_Anchors": [
+      "காமக் கடல் (Sea of Love/Lust)",
+      "படலாற்றாமை (Inability to sleep)",
+      "The eyes suffering the consequences of their own gaze"
+    ]
+  },
+  "Negative_Prompt": "sleeping woman, calm sea, happy expression, daytime, text artifacts, cartoonish."
+}

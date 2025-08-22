@@ -1,0 +1,39 @@
+{
+  "Kural_Info": {
+    "Number": 794,
+    "Chapter": "நட்பாராய்தல் (Investigation in forming Friendships)",
+    "Tamil_Text": "குடிப்பிறந்து தன்கண் பழிநாணு வானைக்கொடுத்தும் கொளல்வேண்டும் நட்பு.",
+    "English_Meaning": "The friendship of one who belongs to a (good) family and is afraid of (being charged with) guilt, is worth even purchasing."
+  },
+  "Flux_Optimized_Prompt": {
+    "Layered_Composition": {
+      "Foreground": "A person of true nobility is shown. Behind them are the proud, ethereal figures of their good ancestors ('குடிப்பிறந்து'). The person themselves is shown recoiling from a splash of mud, symbolizing their deep, inherent fear of blame or disgrace ('பழிநாணுவானை').",
+      "Midground": "Another person is shown recognizing the immense value of this honorable individual. They are offering a large bag of gold coins, literally trying to buy this person's friendship ('கொடுத்தும் கொளல்வேண்டும்').",
+      "Background": "The friendship, once secured, is shown to be as valuable and reliable as a fortress, a worthy investment."
+    },
+    "Art_Direction": {
+      "Subject_and_Action": "The friendship of someone from a good family who is inherently afraid of blame is so valuable that it is worth acquiring even at a great cost.",
+      "Symbolic_Motifs": "The fear of the mud-splash represents the fear of blame. The act of offering gold to secure the friendship shows its high market value.",
+      "Mood_and_Emotion": "Valuable, honorable, worthy of investment.",
+      "Lighting_and_Color": "A noble, golden light surrounds the honorable person. The scene of offering payment is a straightforward, pragmatic depiction of securing a valuable asset.",
+      "Technical_Cues": {
+        "Camera": "A medium shot capturing the interaction, emphasizing the perceived value of the honorable person.",
+        "Resolution": "8K, with rich, historical details.",
+        "Lighting": "Warm, respectful lighting.",
+        "Art_Genre": "Historical realism."
+      }
+    },
+    "Cultural_Anchors": [
+      "Of Good Birth ('குடிப்பிறந்து')",
+      "Fearing Blame ('பழிநாணுவானை')",
+      "Friendship worth purchasing ('கொடுத்தும் கொளல்வேண்டும்')"
+    ]
+  },
+  "Negative_Prompt": "a dishonorable person, text artifacts, cartoonish.",
+  "Hyperparameters": {
+    "variant": "pro",
+    "steps": 45,
+    "cfg_scale": 8,
+    "seed": "Explore variations for the ancestral figures."
+  }
+}

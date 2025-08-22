@@ -1,0 +1,39 @@
+{
+  "Kural_Info": {
+    "Number": 335,
+    "Chapter": "நிலையாமை (Instability)",
+    "Tamil_Text": "நாச்செற்று விக்குள்மேல் வாராமுன் நல்வினைமேற்சென்று செய்யப் படும்.",
+    "English_Meaning": "Let virtuous deeds be done quickly, before the hiccup comes making the tongue silent."
+  },
+  "Flux_Optimized_Prompt": {
+    "Layered_Composition": {
+      "Foreground": "A person is shown in the prime of their life, actively and urgently performing a good deed ('நல்வினை').",
+      "Midground": "A shadowy, menacing clock is ticking ominously in the background. Instead of numbers, it shows the stages of life approaching death.",
+      "Background": "A stark, looming vision of the future moment of death is depicted: the tongue locked and silenced ('நாச் செற்று') by the final hiccup ('விக்குள் மேல் வாராமுன்'). This vision is the motivation for the urgent action in the foreground."
+    },
+    "Art_Direction": {
+      "Subject_and_Action": "The extreme urgency of performing good deeds now, before the final, unpredictable moment of death arrives and renders action impossible.",
+      "Symbolic_Motifs": "The silenced tongue and the final hiccup are a stark and visceral representation of death's finality. The ticking clock represents the constant, pressing approach of this moment. The urgency of the person's actions should contrast with the stillness of the death vision.",
+      "Mood_and_Emotion": "Urgent, cautionary, memento mori, active.",
+      "Lighting_and_Color": "The present action is lit with a bright, dynamic light, emphasizing life and activity. The vision of death is in cold, static, grey tones. The ticking clock is a menacing dark color.",
+      "Technical_Cues": {
+        "Camera": "A dynamic shot of the person working, with the vision of their future death looming in the background, creating a sense of urgency.",
+        "Resolution": "8K, hyper-realistic, focusing on the contrast between the vibrant life in the foreground and the still finality in the background.",
+        "Lighting": "High-contrast lighting to separate the living present from the looming, inevitable future.",
+        "Art_Genre": "Symbolic realism, with elements of a memento mori painting."
+      },
+      "Cultural_Anchors": [
+        "Before the final hiccup (விக்குள் மேல் வாராமுன்)",
+        "The silenced tongue (நாச் செற்று)",
+        "The urgent need for good deeds (நல்வினை)"
+      ]
+    },
+    "Negative_Prompt": "lazy person, peaceful death, text artifacts, no clock.",
+    "Hyperparameters": {
+      "variant": "dev",
+      "steps": 45,
+      "cfg_scale": 9,
+      "seed": "Explore the visual representation of the 'final hiccup'."
+    }
+  }
+}

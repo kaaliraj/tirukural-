@@ -1,0 +1,39 @@
+{
+  "Kural_Info": {
+    "Number": 398,
+    "Chapter": "கல்வி (Learning)",
+    "Tamil_Text": "ஒருமைக்கண் தான்கற்ற கல்வி ஒருவற்கு எழுமையும் ஏமாப் புடைத்து.",
+    "English_Meaning": "The man who store of learning gains, In one, through seven worlds, bliss attains."
+  },
+  "Flux_Optimized_Prompt": {
+    "Layered_Composition": {
+      "Foreground": "A person is shown in their current life, diligently learning from a glowing scroll.",
+      "Midground": "Stretching out behind them is a chain of seven ghostly, translucent past lives, and stretching out before them is a similar chain of seven potential future lives.",
+      "Background": "A single, continuous thread of golden light, representing the learning ('கல்வி') acquired in this one life ('ஒருமைக்கண்'), runs through the heart of the person and connects all fourteen of these past and future selves, acting as a protective shield ('ஏமாப்பு') and source of light for all of them."
+    },
+    "Art_Direction": {
+      "Subject_and_Action": "The profound concept that learning acquired in a single birth provides a protective benefit and happiness across seven births.",
+      "Symbolic_Motifs": "The chain of past and future selves visualizes the seven births ('எழுமை'). The continuous golden thread is the learning that transcends time and protects the soul through its long journey.",
+      "Mood_and_Emotion": "Profound, timeless, reassuring, hopeful, enlightening.",
+      "Lighting_and_Color": "The central figure and the golden thread of knowledge are the brightest elements. The past and future lives are ethereal and translucent, bathed in the glow of the thread. The background is a timeless, cosmic void."
+    },
+    "Technical_Cues": {
+      "Camera": "Wide cinematic shot, showing the full chain of births connected by the thread of learning.",
+      "Resolution": "8K, with ethereal and ghostly visual effects for the other lives.",
+      "Lighting": "Volumetric lighting emanating from the golden thread, symbolizing the enduring power of knowledge.",
+      "Art_Genre": "Metaphysical art, spiritual fantasy."
+    },
+    "Cultural_Anchors": [
+      "Learning in one birth ('ஒருமைக்கண் கற்ற கல்வி')",
+      "Benefit across seven births ('எழுமையும் ஏமாப்பு')",
+      "Concept of reincarnation and karma"
+    ]
+  },
+  "Negative_Prompt": "broken thread, dark past lives, text artifacts, cartoonish figures, simple background.",
+  "Hyperparameters": {
+    "variant": "pro",
+    "steps": 50,
+    "cfg_scale": 8,
+    "seed": "Explore variations for the appearance of the past/future selves."
+  }
+}

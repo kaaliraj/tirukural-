@@ -1,0 +1,39 @@
+{
+  "Kural_Info": {
+    "Number": 774,
+    "Chapter": "படைச்செருக்கு (Military Spirit)",
+    "Tamil_Text": "கைவேல் களிற்றொடு போக்கி வருபவன் மெய்வேல் பறியா நகும்.",
+    "English_Meaning": "The hero who after casting the lance in his hand on an elephant, comes (in search of another) will pluck the one (that sticks) in his body and laugh (exultingly)."
+  },
+  "Flux_Optimized_Prompt": {
+    "Layered_Composition": {
+      "Foreground": "A heroic warrior stands on a battlefield. He has just thrown his only spear ('கைவேல்') at an elephant ('களிற்றொடு போக்கி'). He is now unarmed.",
+      "Midground": "He turns to look for another weapon. He sees a spear sticking out of his own chest, from a wound he has already sustained ('மெய்வேல்').",
+      "Background": "Instead of crying out in pain, a fierce, exultant, and joyful laugh erupts from him ('நകും'). He is shown in the act of pulling the spear from his own body to use as his next weapon."
+    },
+    "Art_Direction": {
+      "Subject_and_Action": "A true hero, having used his weapon, will joyfully pluck an enemy's spear from his own body to continue the fight.",
+      "Symbolic_Motifs": "The act of laughing while pulling a spear from his own wound is the ultimate expression of heroic spirit and fearlessness.",
+      "Mood_and_Emotion": "Exultant, fearless, indomitable, joyful in battle.",
+      "Lighting_and_Color": "Dramatic, chaotic battlefield light. A heroic spotlight shines on the warrior. The blood from his wound and his joyful, fierce expression are the focal points.",
+      "Technical_Cues": {
+        "Camera": "A dynamic close-up on the warrior's torso and face at the moment he pulls the spear and laughs.",
+        "Resolution": "8K, with a gritty, realistic depiction of the wound and the emotion.",
+        "Lighting": "High-contrast, action-movie lighting.",
+        "Art_Genre": "Hyper-realistic fantasy art, heroic bloodshed genre."
+      },
+      "Cultural_Anchors": [
+        "The Heroic Laugh",
+        "Pulling a spear from one's own body ('மெய்வேல் பறியா')",
+        "The unyielding spirit of a warrior."
+      ]
+    },
+    "Negative_Prompt": "warrior crying in pain, warrior running away, text artifacts, cartoonish.",
+    "Hyperparameters": {
+      "variant": "pro",
+      "steps": 50,
+      "cfg_scale": 9,
+      "seed": "Explore variations for the exultant laugh."
+    }
+  }
+}

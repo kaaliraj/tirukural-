@@ -1,0 +1,40 @@
+{
+  "Kural_Info": {
+    "Number": 257,
+    "Chapter": "புலான்மறுத்தல் (Abstinence from Flesh)",
+    "Tamil_Text": "உண்ணாமை வேண்டும் புலாஅல் பிறிதொன்றன்புண்ணது உணர்வார்ப் பெறின்.",
+    "English_Meaning": "If men should come to know that flesh is nothing but the unclean ulcer of a body, let them abstain from eating it."
+  },
+  "Flux_Optimized_Prompt": {
+    "Layered_Composition": {
+      "Foreground": "A person is about to eat a piece of cooked meat ('புலால்').",
+      "Midground": "Suddenly, they are granted a moment of profound, horrific insight ('உணர்வைப் பெறின்'). A magical, x-ray vision effect occurs.",
+      "Background": "The piece of meat on their fork is revealed for what it truly is: not food, but the raw, wounded, and diseased flesh of another creature's body—a gruesome, unclean wound or ulcer ('பிறிதொன்றன் புண் அது'). The beautiful, appetizing cooked meat transforms into a horrifying medical specimen."
+    },
+    "Art_Direction": {
+      "Subject_and_Action": "The moment a person truly understands that meat is just the wounded flesh of another being, they should instinctively refrain from eating it.",
+      "Symbolic_Motifs": "The shocking, magical transformation from appetizing food to gruesome wound is the central, visceral image. The person's expression should shift from appetite to absolute horror and revulsion. This is an appeal to a deep, empathetic disgust.",
+      "Mood_and_Emotion": "Horrifying, revelatory, disgusting, revulsion.",
+      "Lighting_and_Color": "The scene begins with the warm, appetizing colors of a cooked meal. The moment of revelation is a flash of cold, clinical, medical light, revealing the gruesome reds and yellows of the raw wound. The person's face turns pale.",
+      "Technical_Cues": {
+        "Camera": "An extreme close-up on the piece of meat, showing its horrifying transformation, and the person's immediate, visceral reaction of revulsion.",
+        "Resolution": "8K, hyper-realistic, with gruesome, medical-grade detail for the 'wound'.",
+        "Lighting": "A dramatic shift from warm appetite to cold horror.",
+        "Art_Genre": "Horror, with elements of body horror and surrealism."
+      },
+      "Cultural_Anchors": [
+        "Flesh (புலால்)",
+        "It is the wound of another being (பிறிதொன்றன் புண் அது)",
+        "If one gets this understanding (உணர்வைப் பெறின்)",
+        "One should not eat (உண்ணாமை வேண்டும்)"
+      ]
+    },
+    "Negative_Prompt": "person happily eating the wound, text artifacts, beautiful wound.",
+    "Hyperparameters": {
+      "variant": "pro",
+      "steps": 55,
+      "cfg_scale": 10,
+      "seed": "Explore the horrifying detail of the food-to-wound transformation."
+    }
+  }
+}

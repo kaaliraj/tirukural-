@@ -1,0 +1,39 @@
+{
+  "Kural_Info": {
+    "Number": 872,
+    "Chapter": "பகைத்திறந்தெரிதல் (Knowing the Quality of Hate)",
+    "Tamil_Text": "வில்லேர் உழவர் பகைகொளினும் கொள்ளற்க சொல்லேர் உழவர் பகை.",
+    "English_Meaning": "Though you may incur the hatred of warriors whose ploughs are bows, incur not that of ministers whose ploughs are words."
+  },
+  "Flux_Optimized_Prompt": {
+    "Layered_Composition": {
+      "Foreground": "A ruler is shown making a choice about their enemies. On the left, they are shown cautiously accepting the enmity of a group of powerful warriors, whose 'ploughs' are their bows ('வில்லேர் உழவர்').",
+      "Midground": "On the right, they are shown actively trying to avoid and placate the enmity of a group of scholars or ministers, whose 'ploughs' are their powerful words ('சொல்லேர் உழவர்').",
+      "Background": "The enmity of the warriors is depicted as a physical threat, like a storm of arrows, which can be defended against. The enmity of the word-wielders is shown as a more dangerous, insidious threat, like a poison that corrupts the land and turns the people against the ruler."
+    },
+    "Art_Direction": {
+      "Subject_and_Action": "It is better to make an enemy of a warrior than to make an enemy of a man of words.",
+      "Symbolic_Motifs": "The contrast between the two types of 'ploughs'—the bow and the word—is key. The different natures of their threats (arrows vs. poison/corruption) illustrates why the enmity of the man of words is more dangerous.",
+      "Mood_and_Emotion": "Strategic, cautionary, a comparison of threats.",
+      "Lighting_and_Color": "The warrior's threat is fiery and direct. The word-wielder's threat is a subtle, sickly, poisonous green that spreads unseen.",
+      "Technical_Cues": {
+        "Camera": "A split composition showing the ruler facing the two different types of enemies and their respective threats.",
+        "Resolution": "8K, with strong symbolic imagery.",
+        "Lighting": "Contrasting lighting for the two types of threat.",
+        "Art_Genre": "High-fantasy art, political allegory."
+      },
+      "Cultural_Anchors": [
+        "Enmity of the 'bow-ploughers' (warriors)",
+        "Enmity of the 'word-ploughers' (scholars/ministers)",
+        "The superior power of intellectual enmity."
+      ]
+    },
+    "Negative_Prompt": "ruler fighting the scholars and befriending the warriors, text artifacts.",
+    "Hyperparameters": {
+      "variant": "pro",
+      "steps": 50,
+      "cfg_scale": 8,
+      "seed": "Explore variations for the 'poison of words'."
+    }
+  }
+}

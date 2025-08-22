@@ -1,0 +1,38 @@
+{
+  "Kural_Info": {
+    "Number": 321,
+    "Chapter": "கொல்லாமை (Not killing)",
+    "Tamil_Text": "அறவினை யாதெனின் கொல்லாமை கோறல்பிறவினை எல்லாந் தரும்.",
+    "English_Meaning": "Never to destroy life is the sum of all virtuous conduct. The destruction of life leads to every evil."
+  },
+  "Flux_Optimized_Prompt": {
+    "Layered_Composition": {
+      "Foreground": "A split composition illustrating the ultimate virtue and vice.",
+      "Midground": "On the right, the act of 'not killing' ('கொல்லாமை') is depicted. From this single act of compassion, a magnificent, all-encompassing tree of pure, white light grows, representing the 'sum of all virtues' ('அறவினை').",
+      "Background": "On the left, the act of 'killing' ('கோறல்') is depicted. From this single act of violence, a dark, twisted, thorny portal to a hellish dimension opens, from which a horde of all other sins and evils ('பிற வினை எல்லாம்') pour forth."
+    },
+    "Art_Direction": {
+      "Subject_and_Action": "Not killing is the one act that constitutes all of virtue. Killing is the one act that gives birth to all other evils.",
+      "Symbolic_Motifs": "The tree of all virtues versus the portal of all evils is the central metaphor. Non-violence is presented as the singular, foundational good, while violence is the singular, foundational evil from which all others spring.",
+      "Mood_and_Emotion": "Foundational, ultimate good vs. ultimate evil, creative vs. destructive.",
+      "Lighting_and_Color": "The right side is bathed in a brilliant, pure, and life-giving white and golden light. The left side is a terrifying vortex of darkness, shadow, and hellish reds.",
+      "Technical_Cues": {
+        "Camera": "An epic, balanced diptych that shows the two foundational acts and their cosmic consequences.",
+        "Resolution": "8K, ultra-realistic, with ethereal effects for the tree of virtue and terrifying effects for the portal of evil.",
+        "Lighting": "Extreme high-contrast lighting to represent the absolute moral dichotomy.",
+        "Art_Genre": "Epic fantasy art, with a strong moral framework."
+      },
+      "Cultural_Anchors": [
+        "What is virtuous action? Not killing. (அறவினை யாதெனின் கொல்லாமை)",
+        "Killing gives birth to all other evils (கோறல் பிற வினை எல்லாம் தரும்)"
+      ]
+    },
+    "Negative_Prompt": "killing being shown as good, text artifacts, cartoonish demons.",
+    "Hyperparameters": {
+      "variant": "pro",
+      "steps": 55,
+      "cfg_scale": 9,
+      "seed": "Explore the design of the 'tree of all virtues'."
+    }
+  }
+}

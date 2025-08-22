@@ -1,0 +1,39 @@
+{
+  "Kural_Info": {
+    "Number": 545,
+    "Chapter": "செங்கோன்மை (The Right Sceptre)",
+    "Tamil_Text": "இயல்புளிக் கோலோச்சும் மன்னவன் நாட்ட பெயலும் விளையுளும் தொக்கு.",
+    "English_Meaning": "Rain and plentiful crops will ever dwell together in the country of the king who sways his sceptre with justice."
+  },
+  "Flux_Optimized_Prompt": {
+    "Layered_Composition": {
+      "Foreground": "A king is shown ruling justly, his sceptre held in perfect balance ('இயல்புளிக் கோலோச்சும்').",
+      "Midground": "Because of his just rule, a harmonious connection between the heavens and the earth is formed. Gentle, life-giving rain ('பெயல்') falls from a clear sky, and bountiful, golden crops ('விளையுள்') spring from the fertile earth.",
+      "Background": "The entire kingdom is a scene of perfect natural and civic harmony, with happy people working in lush fields under the gentle rain."
+    },
+    "Art_Direction": {
+      "Subject_and_Action": "In the land of a king who rules according to justice, seasonal rains and abundant harvests will never fail.",
+      "Symbolic_Motifs": "The balanced sceptre symbolizes just rule. The rain and crops appearing together ('தொக்கு') show the direct, positive consequence of this justice on the natural world.",
+      "Mood_and_Emotion": "Harmonious, prosperous, fertile, blessed, just.",
+      "Lighting_and_Color": "A soft, magical light, as if from a sun shower. The rain is depicted as golden drops, and the crops are a vibrant, healthy green and gold. The overall palette is lush and fertile."
+    },
+    "Technical_Cues": {
+      "Camera": "A wide, panoramic landscape shot that connects the king's just rule to the prosperity of his entire nation.",
+      "Resolution": "8K, with beautiful, realistic rain and agricultural textures.",
+      "Lighting": "Soft, diffused, life-giving light.",
+      "Art_Genre": "Idealized landscape painting, magical realism."
+    },
+    "Cultural_Anchors": [
+      "Just Rule ('இயல்புளிக் கோலோச்சுதல்')",
+      "Rain ('பெயல்') and Harvest ('விளையுள்')",
+      "The king's justice affecting the natural order."
+    ]
+  },
+  "Negative_Prompt": "unjust king, drought, failed crops, unhappy people, text artifacts.",
+  "Hyperparameters": {
+    "variant": "pro",
+    "steps": 45,
+    "cfg_scale": 7,
+    "seed": "Explore variations for the depiction of the golden rain."
+  }
+}

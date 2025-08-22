@@ -1,0 +1,39 @@
+{
+  "Kural_Info": {
+    "Number": 775,
+    "Chapter": "படைச்செருக்கு (Military Spirit)",
+    "Tamil_Text": "விழித்தகண் வேல்கொண் டெறிய அழித்திமைப்பின் ஒட்டன்றோ வன்க ணவர்க்கு.",
+    "English_Meaning": "Is it not a defeat to the valiant to wink and destroy their ferocious look when a lance in cast at them (by their foe) ?."
+  },
+  "Flux_Optimized_Prompt": {
+    "Layered_Composition": {
+      "Foreground": "An extreme close-up on the face of a valiant warrior ('வன்கணவர்'). Their eyes are wide open, fierce, and unwavering ('விழித்தகண்').",
+      "Midground": "A sharp, deadly spear ('வேல்') is shown flying directly towards their eye at high speed.",
+      "Background": "The warrior's ultimate test of courage is shown: they refuse to even blink or flinch ('அழித்திமைப்பின்'). To do so would be a defeat ('ஒட்டன்றோ'). The image captures the split-second before impact, their gaze still locked and ferocious."
+    },
+    "Art_Direction": {
+      "Subject_and_Action": "For a truly valiant warrior, to even blink in the face of a spear thrown at their eye is to admit defeat.",
+      "Symbolic_Motifs": "The unwavering, unblinking eye is the symbol of ultimate courage. The incoming spear is the ultimate test.",
+      "Mood_and_Emotion": "Fearless, intense, unwavering, ultimate courage.",
+      "Lighting_and_Color": "Harsh, dramatic, high-speed lighting. The glint of the spear tip and the fire in the warrior's eye are the focal points.",
+      "Technical_Cues": {
+        "Camera": "An extreme close-up, super slow-motion shot, focusing on the warrior's unblinking eye as the spear approaches.",
+        "Resolution": "8K, with a visceral, high-impact feel.",
+        "Lighting": "Stark, high-contrast lighting.",
+        "Art_Genre": "Hyper-realistic action photography."
+      },
+      "Cultural_Anchors": [
+        "The Unblinking Eye ('விழித்தகண்')",
+        "Winking as Defeat ('இமைப்பின் ஒட்டன்றோ')",
+        "The test of a valiant warrior ('வன்கணவர்')."
+      ]
+    },
+    "Negative_Prompt": "warrior blinking or flinching, text artifacts, cartoonish spear.",
+    "Hyperparameters": {
+      "variant": "pro",
+      "steps": 50,
+      "cfg_scale": 10,
+      "seed": "Explore variations for the reflection in the warrior's eye."
+    }
+  }
+}

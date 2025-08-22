@@ -1,0 +1,39 @@
+{
+  "Kural_Info": {
+    "Number": 423,
+    "Chapter": "அறிவுடைமை (The Possession of Knowledge)",
+    "Tamil_Text": "எப்பொருள் யார்யார்வாய்க் கேட்பினும் அப்பொருள் மெய்ப்பொருள் காண்ப தறிவு.",
+    "English_Meaning": "To discern the truth in every thing, by whomsoever spoken, is wisdom."
+  },
+  "Flux_Optimized_Prompt": {
+    "Layered_Composition": {
+      "Foreground": "A wise person sits in a meditative posture at the center of a convergence of streams.",
+      "Midground": "Various streams of information flow towards them from all directions, each stream representing different speakers ('யார்யார்வாய்') and different subjects ('எப்பொருள்'). The streams are murky and contain a mixture of silt (falsehood) and glowing golden particles (truth).",
+      "Background": "As the murky streams reach the wise person, their mind acts as a filter. The silt and mud are discarded, and only the pure, glowing golden particles of truth ('மெய்ப்பொருள்') are absorbed, forming a radiant aura of pure wisdom ('அறிவு') around them."
+    },
+    "Art_Direction": {
+      "Subject_and_Action": "Wisdom is the ability to listen to all sources and on all subjects, but to filter out falsehood and discern the essential truth within.",
+      "Symbolic_Motifs": "The murky streams represent raw, unfiltered information. The wise person's mind as a filter is the key metaphor. The separated golden particles represent the discerned truth ('மெய்ப்பொருள்').",
+      "Mood_and_Emotion": "Discerning, wise, clear, analytical, pure.",
+      "Lighting_and_Color": "The incoming streams are dull and murky. The central figure and the filtered golden truth glow with a brilliant, pure light. The palette moves from muddy to pure gold.",
+      "Technical_Cues": {
+        "Camera": "Top-down shot, showing the streams converging on the central figure and the filtering process.",
+        "Resolution": "8K, with complex fluid dynamics and particle effects.",
+        "Lighting": "The primary light source is the glowing aura of truth being formed, which pushes back the murkiness.",
+        "Art_Genre": "Abstract conceptual art, mystical realism."
+      }
+    },
+    "Cultural_Anchors": [
+      "Discerning Truth ('மெய்ப்பொருள் காண்பது')",
+      "Listening to all sources ('யார்யார்வாய்க் கேட்பினும்')",
+      "The nature of true Wisdom ('அறிவு')"
+    ]
+  },
+  "Negative_Prompt": "person drinking the murky water, no filtering process, dark aura, text artifacts, cartoonish.",
+  "Hyperparameters": {
+    "variant": "pro",
+    "steps": 50,
+    "cfg_scale": 8,
+    "seed": "Explore variations for the filtering effect."
+  }
+}

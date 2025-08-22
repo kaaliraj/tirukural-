@@ -1,0 +1,39 @@
+{
+  "Kural_Info": {
+    "Number": 860,
+    "Chapter": "இகல் (Hostility)",
+    "Tamil_Text": "இகலானாம் இன்னாத எல்லாம் நகலானாம் நன்னயம் என்னும் செருக்கு.",
+    "English_Meaning": "All calamities are caused by hatred; but by the delight (of friendship) is caused the great wealth of good virtues."
+  },
+  "Flux_Optimized_Prompt": {
+    "Layered_Composition": {
+      "Foreground": "A split composition, divided by a central figure. On the left side, the figure is frowning with hostility ('இகல்'). From this hostility, all manner of evils and sorrows ('இன்னாத எல்லாம்') are born, visualized as a dark, thorny, desolate landscape.",
+      "Midground": "On the right side, the same figure is smiling with friendship and delight ('நகல்'). From this delight, the noble pride of goodness and kindness ('நன்னயம் என்னும் செருக்கு') is born, visualized as a beautiful, flourishing, sunlit garden.",
+      "Background": "The two landscapes stemming from the two emotions show the starkly different worlds created by hostility and friendliness."
+    },
+    "Art_Direction": {
+      "Subject_and_Action": "All bad things come from hostility; all the goodness of noble pride comes from friendliness.",
+      "Symbolic_Motifs": "The two contrasting landscapes—the thorny wasteland of hostility and the beautiful garden of friendliness—are the central metaphor.",
+      "Mood_and_Emotion": "Contrasting, creative (friendship) vs. destructive (hostility), a choice of worlds.",
+      "Lighting_and_Color": "The left side is dark, desolate, and full of harsh, cold colors. The right side is bright, vibrant, and full of warm, life-giving colors.",
+      "Technical_Cues": {
+        "Camera": "A balanced, symmetrical shot that clearly shows the two worlds being created by the central figure's emotional state.",
+        "Resolution": "8K, with rich, detailed landscapes.",
+        "Lighting": "High-contrast, split lighting.",
+        "Art_Genre": "Symbolic landscape painting."
+      },
+      "Cultural_Anchors": [
+        "From hostility comes all sorrow ('இகலான் ஆம் இன்னாத எல்லாம்')",
+        "From delight comes all good ('நகலான் ஆம் நன்னயம்')",
+        "The creative power of friendship."
+      ]
+    },
+    "Negative_Prompt": "a beautiful wasteland, a thorny garden, text artifacts, cartoonish.",
+    "Hyperparameters": {
+      "variant": "pro",
+      "steps": 50,
+      "cfg_scale": 8,
+      "seed": "Explore variations for the two landscapes."
+    }
+  }
+}

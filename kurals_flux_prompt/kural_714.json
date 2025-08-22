@@ -1,0 +1,38 @@
+{
+  "Kural_Info": {
+    "Number": 714,
+    "Chapter": "அவையறிதல் (The Knowledge of the Council Chamber)",
+    "Tamil_Text": "ஒளியார்முன் ஒள்ளிய ராதல் வெளியார்முன்வான்சுதை வண்ணம் கொளல்.",
+    "English_Meaning": "Ministers should be lights in the assembly of the enlightned, but assume the pure whiteness of mortar (ignorance) in that of fools."
+  },
+  "Flux_Optimized_Prompt": {
+    "Layered_Composition": {
+      "Foreground": "A split composition of a single wise orator.",
+      "Midground": "On the left, they are in an assembly of the brilliant and wise ('ஒளியார் முன்'). Here, the orator is shining with their own brilliant, golden light of intelligence, engaging with their peers as an equal ('ஒள்ளியர் ஆதல்').",
+      "Background": "On the right, the same orator is in an assembly of the ignorant and simple ('வெளியார் முன்'). Here, their brilliant light is deliberately concealed. They take on a simple, plain, pure white appearance, like plaster ('வான் சுதை வண்ணம்'), speaking in a way that is simple, clear, and accessible to their audience."
+    },
+    "Art_Direction": {
+      "Subject_and_Action": "The master communicator adapts their style to their audience: they shine brilliantly among the brilliant, but adopt a simple and plain demeanor among the simple to communicate effectively.",
+      "Symbolic_Motifs": "The change in the orator's appearance—from a radiant being of golden light to a plain figure of pure white—is the key visual. This is not hypocrisy, but skillful adaptation for the sake of communication.",
+      "Mood_and_Emotion": "Adaptable, skillful, intelligent, masterful communication.",
+      "Lighting_and_Color": "The left side is a dynamic interplay of brilliant golden lights. The right side is a calm, clean scene dominated by simple, pure whites. The orator is the master of both environments.",
+      "Technical_Cues": {
+        "Camera": "A diptych shot that shows the orator's masterful transformation and adaptation to the two different councils.",
+        "Resolution": "8K, ultra-realistic, with strong symbolic lighting and color shifts.",
+        "Lighting": "Dualistic lighting to showcase the orator's control over their own 'brilliance'.",
+        "Art_Genre": "Symbolic portraiture."
+      },
+      "Cultural_Anchors": [
+        "Being brilliant before the brilliant (ஒளியார் முன் ஒள்ளியர் ஆதல்)",
+        "Being like white plaster before the simple (வெளியார் முன் வான் சுதை வண்ணம் கொளல்)"
+      ]
+    },
+    "Negative_Prompt": "orator being brilliant before fools, orator being simple before the wise, text artifacts.",
+    "Hyperparameters": {
+      "variant": "pro",
+      "steps": 50,
+      "cfg_scale": 8,
+      "seed": "Explore the visual contrast between the 'golden' and 'white' appearances."
+    }
+  }
+}

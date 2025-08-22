@@ -1,0 +1,39 @@
+{
+  "Kural_Info": {
+    "Number": 735,
+    "Chapter": "நாடு (The Land)",
+    "Tamil_Text": "பல்குழுவும் பாழ்செய்யும் உட்பகையும் வேந்தலைக்கும் கொல்குறும்பும் இல்லத நாடு.",
+    "English_Meaning": "A kingdom is that which is without various (irregular) associations, destructive internal enemies, and murderous savages who (sometimes) harass the sovereign."
+  },
+  "Flux_Optimized_Prompt": {
+    "Layered_Composition": {
+      "Foreground": "A peaceful, orderly kingdom is depicted, defined by what it lacks.",
+      "Midground": "Three threats are shown being absent or actively expelled. There are no divisive factions or seditious groups ('பல்குழு'). There are no hidden traitors or internal enemies undermining the state from within ('பாழ்செய்யும் உட்பகை'). There are no murderous gangs or assassins troubling the king ('கொல்குறும்பு').",
+      "Background": "Because it is free from these internal threats, the kingdom is shown to be perfectly unified, stable, and secure under its ruler."
+    },
+    "Art_Direction": {
+      "Subject_and_Action": "A great nation is one that is free from destructive factions, internal enemies, and murderous gangs that threaten the ruler.",
+      "Symbolic_Motifs": "The image focuses on the 'absence' of threats. This can be visualized by showing these threats as shadowy figures being driven out or dissolving at the nation's border.",
+      "Mood_and_Emotion": "Unified, stable, secure, free from internal strife.",
+      "Lighting_and_Color": "Bright, clear, and harmonious light. The kingdom is orderly and clean. The banished threats are dark, shadowy, and chaotic.",
+      "Technical_Cues": {
+        "Camera": "A wide, panoramic shot of the peaceful kingdom, with the dissolving threats shown at the periphery.",
+        "Resolution": "8K, with a focus on the harmony and order of the society.",
+        "Lighting": "High-key, positive lighting.",
+        "Art_Genre": "Idealized realism, utopian art."
+      }
+    },
+    "Cultural_Anchors": [
+      "Freedom from Factions ('பல்குழு இல்லது')",
+      "Freedom from Internal Enemies ('உட்பகை இல்லது')",
+      "Freedom from Murderous Gangs ('கொல்குறும்பு இல்லது')"
+    ]
+  },
+  "Negative_Prompt": "kingdom full of factions and assassins, text artifacts, cartoonish.",
+  "Hyperparameters": {
+    "variant": "dev",
+    "steps": 45,
+    "cfg_scale": 8,
+    "seed": "Explore variations for visualizing the banished threats."
+  }
+}

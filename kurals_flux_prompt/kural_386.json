@@ -1,0 +1,39 @@
+{
+  "Kural_Info": {
+    "Number": 386,
+    "Chapter": "இறைமாட்சி (The Greatness of a King)",
+    "Tamil_Text": "காட்சிக் கெளியன் கடுஞ்சொல்லன் அல்லனேல் மீக்கூறும் மன்னன் நிலம்.",
+    "English_Meaning": "Where king is easy of access, where no harsh word repels, That land's high praises every subject swells."
+  },
+  "Flux_Optimized_Prompt": {
+    "Layered_Composition": {
+      "Foreground": "A king is shown meeting with common citizens—farmers, artisans, and children—in an open courtyard. He is listening intently with a kind and approachable expression.",
+      "Midground": "Other citizens are in the background, not in a state of fear, but joyfully speaking amongst themselves, singing praises, and celebrating. Their voices are visualized as golden musical notes rising into the air.",
+      "Background": "A prosperous and beautiful kingdom, with well-tended fields and happy homes, flourishing under the benevolent rule of this accessible king."
+    },
+    "Art_Direction": {
+      "Subject_and_Action": "A kingdom praises its ruler when he is easy to approach ('காட்சிக்கெளியன்') and speaks without harshness ('கடுஞ்சொல்லன் அல்லன்').",
+      "Symbolic_Motifs": "The open courtyard symbolizes accessibility. The king's kind expression represents his gentle speech. The golden musical notes visually represent the people's praise ('மீக்கூறும்').",
+      "Mood_and_Emotion": "Benevolent, accessible, joyful, praiseworthy, harmonious.",
+      "Lighting_and_Color": "Warm, welcoming, golden-hour sunlight. The color palette is bright and cheerful, with vibrant colors on the citizens' clothing and the prosperous landscape."
+    },
+    "Technical_Cues": {
+      "Camera": "Eye-level wide shot, placing the viewer among the citizens and emphasizing the king's lack of airs.",
+      "Resolution": "8K, ultra-realistic, with rich details in facial expressions and traditional attire.",
+      "Lighting": "Soft, diffused lighting to create a gentle and kind atmosphere.",
+      "Art_Genre": "Idealized historical realism, reminiscent of a grand court painting that focuses on the people."
+    },
+    "Cultural_Anchors": [
+      "'Kaatchikku Eliyan' (Easy of Access)",
+      "Absence of Harsh Speech",
+      "A Praised Kingdom"
+    ]
+  },
+  "Negative_Prompt": "king on a high throne, scowling king, fearful citizens, guards pushing people away, text artifacts, dark and oppressive.",
+  "Hyperparameters": {
+    "variant": "dev",
+    "steps": 40,
+    "cfg_scale": 8,
+    "seed": "Explore variations for the joyful activities of the citizens."
+  }
+}

@@ -1,0 +1,39 @@
+{
+  "Kural_Info": {
+    "Number": 1287,
+    "Chapter": "புணர்ச்சிவிதும்பல் (Desire for Reunion)",
+    "Tamil_Text": "உய்த்தல் அறிந்து புனல்பாய் பவரேபோல்பொய்த்தல் அறிந்தென் புலந்து.",
+    "English_Meaning": "Like those who leap into a stream which they know will carry them off, why should a wife feign dislike which she knows cannot hold out long?."
+  },
+  "Flux_Optimized_Prompt": {
+    "Layered_Composition": {
+      "Foreground": "A woman is shown feigning anger ('புலந்து') at her lover.",
+      "Midground": "However, she is fully aware that her resolve is weak and this anger is false and will not last ('பொய்த்தல் அறிந்து').",
+      "Background": "A powerful simile illustrates her action: a person is shown deliberately leaping into a powerful, fast-flowing river ('புனல் பாய் பவர்'). They know with full certainty that the current will immediately sweep them away ('உய்த்தல் அறிந்து'), yet they leap anyway. Her act of pouting is just as delightfully futile."
+    },
+    "Art_Direction": {
+      "Subject_and_Action": "The lover questions the purpose of her own feigned anger, knowing full well that her love is a powerful current that will inevitably sweep her away into reunion, just like someone who knowingly leaps into a strong river.",
+      "Symbolic_Motifs": "The knowing leap into the powerful river is the central metaphor. It's not a struggle; it's a willing, almost joyful surrender to a known outcome. This frames the lover's pouting not as a real conflict, but as a playful prelude to reunion.",
+      "Mood_and_Emotion": "Playful, self-aware, futile but delightful, surrender to love.",
+      "Lighting_and_Color": "A bright, warm, and joyful light. The river is not a dangerous flood but a beautiful, powerful, and inviting current. The leaper's expression is one of happy surrender, not fear.",
+      "Technical_Cues": {
+        "Camera": "A dynamic shot that parallels the woman's pouting face with the joyful leap of the person into the river.",
+        "Resolution": "8K, ultra-realistic, with beautiful, powerful water effects.",
+        "Lighting": "Warm, joyful, sunny day lighting.",
+        "Art_Genre": "Romantic realism, with a dynamic action element."
+      },
+      "Cultural_Anchors": [
+        "Knowing it will fail (பொய்த்தல் அறிந்து)",
+        "Why do I pout? (என் புலந்து?)",
+        "Like those who leap into a river knowing it will sweep them away (உய்த்தல் அறிந்து புனல் பாய்பவரே போல்)"
+      ]
+    },
+    "Negative_Prompt": "angry woman, weak river, person struggling, text artifacts.",
+    "Hyperparameters": {
+      "variant": "dev",
+      "steps": 45,
+      "cfg_scale": 7,
+      "seed": "Explore the joyful expression of the person leaping into the river."
+    }
+  }
+}

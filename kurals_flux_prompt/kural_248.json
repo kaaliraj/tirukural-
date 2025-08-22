@@ -1,0 +1,38 @@
+{
+  "Kural_Info": {
+    "Number": 248,
+    "Chapter": "அருளுடைமை (Compassion)",
+    "Tamil_Text": "பொருளற்றார் பூப்பர் ஒருகால் அருளற்றார்அற்றார்மற் றாதல் அரிது.",
+    "English_Meaning": "Those who are without wealth may, at some future time, become prosperous; those who are destitute of kindness are utterly destitute; for them there is no change."
+  },
+  "Flux_Optimized_Prompt": {
+    "Layered_Composition": {
+      "Foreground": "A split composition. On the left, a person who was poor ('பொருளற்றார்') is shown. A timeline progresses, and we see them working hard and eventually becoming prosperous. A withered tree behind them is shown blooming again ('பூப்பர் ஒருகால்').",
+      "Midground": "On the right, a person who is without compassion ('அருளற்றார்') is shown. A timeline progresses, but their state does not change. They remain in a state of spiritual desolation. A withered tree behind them remains dead and barren ('ஆதல் அரிது').",
+      "Background": "The background on the left shows the wheel of fortune turning, symbolizing change and hope. The background on the right shows a broken, static wheel, symbolizing a permanent, unchanging state of ruin."
+    },
+    "Art_Direction": {
+      "Subject_and_Action": "There is hope for the materially poor, who may one day prosper. But for those who lack compassion, their spiritual poverty is a permanent and irredeemable state of ruin.",
+      "Symbolic_Motifs": "The blooming of the withered tree is a powerful metaphor for restored fortune. The permanently dead tree represents the hopelessness of the graceless state. The moving vs. broken wheel of fortune reinforces the theme.",
+      "Mood_and_Emotion": "Hope vs. hopelessness, temporary vs. permanent ruin, profound.",
+      "Lighting_and_Color": "The left side transitions from cool, poor colors to warm, prosperous ones. The right side remains in a constant, desolate, grey monochrome, emphasizing its unchanging bleakness.",
+      "Technical_Cues": {
+        "Camera": "A narrative diptych, showing the passage of time and its different effects on the two individuals.",
+        "Resolution": "8K, ultra-realistic, with time-lapse effects for the trees and the wheel of fortune.",
+        "Lighting": "Dynamic lighting on the left that becomes brighter over time. Static, dim lighting on the right.",
+        "Art_Genre": "Symbolic narrative painting."
+      },
+      "Cultural_Anchors": [
+        "The poor may bloom again (பொருளற்றார் பூப்பர்)",
+        "The graceless are forever lost (அருளற்றார் அற்றார்)"
+      ]
+    },
+    "Negative_Prompt": "poor person staying poor, graceless person becoming compassionate, text artifacts.",
+    "Hyperparameters": {
+      "variant": "pro",
+      "steps": 50,
+      "cfg_scale": 8,
+      "seed": "Explore the visual of the turning vs. broken wheel of fortune."
+    }
+  }
+}

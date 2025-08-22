@@ -1,0 +1,32 @@
+{
+  "Kural_Info": {
+    "Number": 1011,
+    "Chapter": "நாணுடைமை (Shame)",
+    "Tamil_Text": "கருமத்தால் நாணுதல் நாணுந் திருநுதல்நல்லவர் நாணுப் பிற.",
+    "English_Meaning": "To shrink abashed from evil deed is 'generous shame'; Other is that of bright-browed one of virtuous fame."
+  },
+  "Flux_Optimized_Prompt": {
+    "Layered_Composition": {
+      "Foreground": "A split composition. On one side, a noble person ('Nallavar') is shown physically recoiling from a temptation or an evil deed ('Karumaththal Naanuthal'), their expression showing a deep, moral aversion. This is depicted as true 'Naan' (shame/modesty).",
+      "Midground": "On the other side, a fair maiden ('Thirunuthal') is shown with a bashful, shy expression, a blush on her cheeks. This is depicted as a different, situational kind of shyness.",
+      "Background": "The background for the noble person is a serious, ethical dilemma (e.g., a court of justice). The background for the maiden is a gentle, social setting (e.g., a garden)."
+    },
+    "Art_Direction": {
+      "Subject_and_Action": "A visual distinction between two types of 'shame': the profound, character-based shame of recoiling from evil, and the situational, social shame or bashfulness of a maiden.",
+      "Symbolic_Motifs": "The act of physically recoiling from evil versus the blushing, shy glance. The contrast in settings highlights the difference between moral and social contexts.",
+      "Mood_and_Emotion": "Profound moral conviction contrasted with gentle bashfulness.",
+      "Lighting_and_Color": "Dramatic, high-contrast lighting for the moral choice, emphasizing its gravity. Soft, romantic lighting for the maiden, highlighting her grace. The color palettes are distinct: serious and somber vs. soft and warm."
+    },
+    "Technical_Cues": {
+      "Camera": "A dual-portrait shot that allows for a clear comparison of the two different expressions and contexts.",
+      "Resolution": "8K, photorealistic, capturing the subtle but important differences in the two types of 'shame'.",
+      "Lighting": "Contrasting lighting styles to reinforce the thematic difference.",
+      "Art_Genre": "Comparative allegorical portraiture."
+    },
+    "Cultural_Anchors": [
+      "நாண் (Shame/Modesty)",
+      "The distinction between moral shame and social bashfulness"
+    ]
+  },
+  "Negative_Prompt": "evil person looking happy, maiden looking morally ashamed, modern settings, text artifacts, cartoonish, blurry."
+}

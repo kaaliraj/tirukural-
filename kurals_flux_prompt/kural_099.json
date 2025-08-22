@@ -1,0 +1,39 @@
+{
+  "Kural_Info": {
+    "Number": 99,
+    "Chapter": "இனியவை கூறல் (The Utterance of Pleasant Words)",
+    "Tamil_Text": "இன்சொல் இனிதீன்றல் காண்பான் எவன்கொலோவன்சொல் வழங்கு வது.",
+    "English_Meaning": "Why does he use harsh words, who sees the pleasure which sweet speech yields?"
+  },
+  "Flux_Optimized_Prompt": {
+    "Layered_Composition": {
+      "Foreground": "A person stands at a crossroads, looking perplexed. In their right hand, they hold a single, beautiful, glowing flower, representing a 'sweet word' ('இன்சொல்'). They can clearly see that this flower brings light and joy ('இனிது ஈன்றல்').",
+      "Midground": "Despite this, in their left hand, they are holding a sharp, ugly, thorny rock, representing a 'harsh word' ('வன்சொல்'). They seem to be inexplicably choosing to offer the rock instead of the flower.",
+      "Background": "The path to the right (associated with the flower) leads to a bright, happy landscape. The path to the left (associated with the rock) leads to a dark, sorrowful one. The person's illogical choice is the central mystery."
+    },
+    "Art_Direction": {
+      "Subject_and_Action": "A visual representation of the illogical and self-defeating choice of using harsh words when one has clearly seen the beautiful and beneficial results of using sweet words.",
+      "Symbolic_Motifs": "The flower (sweet word) vs. the thorny rock (harsh word) is a simple, powerful metaphor. The person's confused or foolish expression highlights the irrationality of their choice, directly posing the Kural's question: 'Evankolo?' (Why on earth?).",
+      "Mood_and_Emotion": "Puzzling, irrational, self-defeating, foolish.",
+      "Lighting_and_Color": "The right side of the image, with the flower, is bathed in a warm, pleasant light. The left side, with the rock, is cast in a harsh, ugly shadow. The person stands in the middle of this conflicting light.",
+      "Technical_Cues": {
+        "Camera": "A direct, eye-level shot of the person, making the viewer confront their illogical choice.",
+        "Resolution": "8K, ultra-realistic, with strong textural contrast between the soft flower and the sharp rock.",
+        "Lighting": "High-contrast, symbolic lighting to emphasize the choice between good and bad.",
+        "Art_Genre": "Allegorical realism."
+      },
+      "Cultural_Anchors": [
+        "The pleasure from sweet words (இன்சொல் இனிது ஈன்றல்)",
+        "The use of harsh words (வன்சொல் வழங்குவது)",
+        "The rhetorical question 'Why?' (எவன் கொல்?)"
+      ]
+    },
+    "Negative_Prompt": "person happily choosing the rock, ugly flower, beautiful rock, text artifacts, clear and logical choice.",
+    "Hyperparameters": {
+      "variant": "dev",
+      "steps": 40,
+      "cfg_scale": 9,
+      "seed": "Explore the perplexed expression of the central figure."
+    }
+  }
+}

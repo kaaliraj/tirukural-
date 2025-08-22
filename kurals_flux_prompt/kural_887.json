@@ -1,0 +1,39 @@
+{
+  "Kural_Info": {
+    "Number": 887,
+    "Chapter": "உட்பகை (Enmity within)",
+    "Tamil_Text": "செப்பின் புணர்ச்சிபோல் கூடினும் கூடாதே உட்பகை உற்ற குடி.",
+    "English_Meaning": "Never indeed will a family subject to internal hatred unite (really) though it may present an apparent union like that of a casket and its lid."
+  },
+  "Flux_Optimized_Prompt": {
+    "Layered_Composition": {
+      "Foreground": "A family that suffers from internal hatred ('உட்பகை உற்ற குடி') is shown standing together, putting on an appearance of unity for the outside world.",
+      "Midground": "Their apparent unity is compared to a beautiful, ornate casket with its lid ('செப்பின் புணர்ச்சி'). The lid fits perfectly on the box, and from the outside, they seem to be a single, unified object.",
+      "Background": "However, a surreal, see-through view reveals the truth. Although the lid and box are touching, they are not truly joined. A venomous serpent is coiled in the gap between them, showing that there is no true union ('கூடாதே'), only a dangerous and deceptive surface-level contact."
+    },
+    "Art_Direction": {
+      "Subject_and_Action": "A family with internal hatred, even if they seem to be together, can never be truly united, just as a casket and its lid are two separate things that merely touch.",
+      "Symbolic_Motifs": "The casket and lid are the central analogy for a superficial union. The hidden serpent represents the active hatred that prevents true unity.",
+      "Mood_and_Emotion": "Superficial, deceptive, disunited, dangerous.",
+      "Lighting_and_Color": "The outside of the casket is beautiful and polished. The interior view reveals the dark, venomous serpent, lit with a sickly, sinister light.",
+      "Technical_Cues": {
+        "Camera": "A shot that shows the perfect exterior of the casket, with a surreal cutaway to reveal the serpent hidden in the join.",
+        "Resolution": "8K, with rich, ornate detail on the casket.",
+        "Lighting": "Contrasting lighting for the exterior and interior.",
+        "Art_Genre": "Surrealism, with a focus on symbolic objects."
+      },
+      "Cultural_Anchors": [
+        "A family with internal hatred ('உட்பகை உற்ற குடி')",
+        "Like the joining of a casket and lid ('செப்பின் புணர்ச்சிபோல்')",
+        "They never truly unite ('கூடாதே')"
+      ]
+    },
+    "Negative_Prompt": "a solid, single-piece box, a happy family, text artifacts.",
+    "Hyperparameters": {
+      "variant": "dev",
+      "steps": 45,
+      "cfg_scale": 8,
+      "seed": "Explore variations for the ornate casket."
+    }
+  }
+}

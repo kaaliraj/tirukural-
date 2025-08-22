@@ -1,0 +1,39 @@
+{
+  "Kural_Info": {
+    "Number": 823,
+    "Chapter": "கூடாநட்பு (Unreal Friendship)",
+    "Tamil_Text": "பலநல்ல கற்றக் கடைத்து மனநல்லர் ஆகுதல் மாணார்க் கரிது.",
+    "English_Meaning": "Though (one's) enemies may have mastered many good books, it will be impossible for them to become truly loving at heart."
+  },
+  "Flux_Optimized_Prompt": {
+    "Layered_Composition": {
+      "Foreground": "An enemy or a person of bad character ('மாணார்') is shown in a vast library, having studied and absorbed many good and virtuous books ('பலநல்ல கற்ற'). Their mind is filled with the light of this knowledge.",
+      "Midground": "However, their heart is depicted as a solid, impenetrable block of dark, jagged obsidian. Despite the light of knowledge in their mind, it cannot penetrate or soften the heart.",
+      "Background": "The obsidian heart remains cold and incapable of true goodness or love ('மனநல்லர் ஆகுதல் அரிது'). The image shows a fundamental disconnect between the acquired knowledge of the mind and the inherent nature of the heart."
+    },
+    "Art_Direction": {
+      "Subject_and_Action": "Even if a person of bad character learns many good things, it is impossible for them to develop a truly good heart.",
+      "Symbolic_Motifs": "The bright, knowledgeable mind contrasted with the dark, impenetrable obsidian heart is the central metaphor. The light of knowledge failing to enter the heart is the key action.",
+      "Mood_and_Emotion": "Incurable, fundamentally flawed, a disconnect between head and heart.",
+      "Lighting_and_Color": "A brilliant white light illuminates the mind. The heart is a light-absorbing, matte black. The contrast is stark.",
+      "Technical_Cues": {
+        "Camera": "A surreal, semi-transparent portrait showing both the mind and the heart, and the barrier between them.",
+        "Resolution": "8K, with high-quality light and texture effects.",
+        "Lighting": "High-contrast lighting to emphasize the duality.",
+        "Art_Genre": "Metaphysical art, surrealist portraiture."
+      }
+    },
+    "Cultural_Anchors": [
+      "Even after learning many good things ('பலநல்ல கற்றக்கடைத்தும்')",
+      "Becoming good of heart is impossible for the base ('மனநல்லர் ஆகுதல் மாணார்க்கு அரிது')",
+      "The immutability of a bad character."
+    ]
+  },
+  "Negative_Prompt": "the heart turning to light, text on the books, cartoonish.",
+  "Hyperparameters": {
+    "variant": "pro",
+    "steps": 50,
+    "cfg_scale": 8,
+    "seed": "Explore variations for the texture of the obsidian heart."
+  }
+}

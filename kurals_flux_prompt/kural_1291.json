@@ -1,0 +1,38 @@
+{
+  "Kural_Info": {
+    "Number": 1291,
+    "Chapter": "நெஞ்சொடுபுலத்தல் (Expostulation with Oneself)",
+    "Tamil_Text": "அவர்நெஞ்சு அவர்க்காதல் கண்டும் எவன்நெஞ்சேநீஎமக்கு ஆகா தது.",
+    "English_Meaning": "O my soul! although you have seen how his soul stands by him, how is it you do not stand by me?"
+  },
+  "Flux_Optimized_Prompt": {
+    "Layered_Composition": {
+      "Foreground": "A woman is shown in a state of inner conflict, speaking to her own heart ('நெஞ்சே').",
+      "Midground": "A vision shows her absent lover. His heart ('அவர் நெஞ்சு') is depicted as a loyal, steadfast guardian standing firmly by his side, supporting his decision to be away ('அவர்க்கு ஆதல்').",
+      "Background": "In stark contrast, her own heart is visualized as a rebellious figure that is abandoning her, trying to fly away to be with the lover. She plaintively asks it, 'Having seen his heart's loyalty to him, why are you not loyal to me?' ('நீ எமக்கு ஆகாதது எவன்?')."
+    },
+    "Art_Direction": {
+      "Subject_and_Action": "A woman's painful internal dialogue, where she rebukes her own heart for its disloyalty, comparing it unfavorably to her lover's heart, which remains loyal to him.",
+      "Symbolic_Motifs": "The personification of the two hearts is the central metaphor. His heart is a loyal soldier. Her heart is a rebellious deserter. This visualizes her sense of being betrayed by her own feelings.",
+      "Mood_and_Emotion": "Betrayed, inner conflict, plaintive, sorrowful.",
+      "Lighting_and_Color": "The vision of the lover and his loyal heart is in a clear, resolute, but distant light. The woman and her rebellious, departing heart are in a turbulent, emotional, and sorrowful light. The palette contrasts his steadfastness with her turmoil.",
+      "Technical_Cues": {
+        "Camera": "A close-up on the woman's anguished face, with the symbolic drama of the two hearts playing out as a surreal vision around her.",
+        "Resolution": "8K, ultra-realistic, with strong emotional acting and ethereal effects for the personified hearts.",
+        "Lighting": "Psychological, high-contrast lighting to emphasize the internal conflict.",
+        "Art_Genre": "Surrealism, psychological portraiture."
+      },
+      "Cultural_Anchors": [
+        "His heart is for him (அவர் நெஞ்சு அவர்க்கு ஆதல்)",
+        "O heart, why are you not for me? (நெஞ்சே நீ எமக்கு ஆகாதது எவன்?)"
+      ]
+    },
+    "Negative_Prompt": "happy woman, her heart staying with her, text artifacts.",
+    "Hyperparameters": {
+      "variant": "pro",
+      "steps": 50,
+      "cfg_scale": 9,
+      "seed": "Explore the visual of 'a loyal heart' versus 'a rebellious heart'."
+    }
+  }
+}

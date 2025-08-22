@@ -1,0 +1,40 @@
+{
+  "Kural_Info": {
+    "Number": 1281,
+    "Chapter": "புணர்ச்சிவிதும்பல் (Desire for Reunion)",
+    "Tamil_Text": "உள்ளக் களித்தலும் காண மகிழ்தலும்கள்ளுக்கில் காமத்திற் குண்டு.",
+    "English_Meaning": "To please by thought and cheer by sight is peculiar, not to liquor but lust."
+  },
+  "Flux_Optimized_Prompt": {
+    "Layered_Composition": {
+      "Foreground": "A split composition illustrating the effects of Love versus Wine.",
+      "Midground": "On the right side, a lover is merely thinking of his beloved ('உள்ள'). This thought alone creates a visible aura of intoxication and bliss around him ('களித்தல்'). Then, upon seeing her ('காண'), this aura explodes into even greater, radiant joy ('மகிழ்தல்').",
+      "Background": "On the left side, a person holds a cup of wine ('கள்ளுக்கு'). There is no effect from just thinking about it or looking at it. Only after they drink it does a small, contained glow of intoxication appear inside them. The power of Love is shown to be superior, acting through thought and sight alone."
+    },
+    "Art_Direction": {
+      "Subject_and_Action": "A direct comparison showing the superior power of Love over wine: Love brings intoxicating joy through mere thought and sight, a power that wine does not possess.",
+      "Symbolic_Motifs": "The key is the external, radiant aura of joy from love, contrasted with the limited, internal effect of wine. Love's power works at a distance, through the mind and eyes, while wine's requires physical consumption.",
+      "Mood_and_Emotion": "Superior bliss, transcendent, intoxicating love.",
+      "Lighting_and_Color": "The love scene is bathed in a brilliant, radiant, golden light that emanates from the lover's thoughts and sight. The wine scene is in a darker, more mundane setting, with only a small internal glow.",
+      "Technical_Cues": {
+        "Camera": "A balanced diptych shot that clearly contrasts the two sources of intoxication and their effects.",
+        "Resolution": "8K, ultra-realistic, with strong ethereal and glowing effects for the aura of love.",
+        "Lighting": "The primary light source in the love scene is the emotion itself, demonstrating its power.",
+        "Art_Genre": "Symbolic realism, allegorical painting."
+      },
+      "Cultural_Anchors": [
+        "Love has it (காமத்திற்கு உண்டு)",
+        "Wine does not (கள்ளுக்கு இல்)",
+        "Intoxication by thought (உள்ளக் களித்தல்)",
+        "Joy by sight (காண மகிழ்தல்)"
+      ]
+    },
+    "Negative_Prompt": "wine causing joy by sight, love having no effect, text artifacts.",
+    "Hyperparameters": {
+      "variant": "pro",
+      "steps": 50,
+      "cfg_scale": 8,
+      "seed": "Explore the visual of the 'aura of intoxication' from thought."
+    }
+  }
+}

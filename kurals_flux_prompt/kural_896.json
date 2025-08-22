@@ -1,0 +1,39 @@
+{
+  "Kural_Info": {
+    "Number": 896,
+    "Chapter": "பெரியாரைப் பிழையாமை (Not Offending the Great)",
+    "Tamil_Text": "எரியால் சுடப்படினும் உய்வுண்டாம் உய்யார் பெரியார்ப் பிழைத்தொழுகு வார்.",
+    "English_Meaning": "Though burnt by a fire (from a forest), one may perhaps live; (but) never will he live who has shown disrespect to the great (devotees)."
+  },
+  "Flux_Optimized_Prompt": {
+    "Layered_Composition": {
+      "Foreground": "A split composition. On the left, a person is shown caught in a raging forest fire ('எரியால் சுடப்படினும்'). It is a terrible situation, but a small, clear path of escape is visible, showing that survival is possible ('உய்வுண்டாம்').",
+      "Midground": "On the right, another person is shown having committed an offense against a great, wise, and powerful sage ('பெரியார்ப் பிழைத்தொழுகுவார்').",
+      "Background": "The sage is not attacking them. However, the consequence of their offense is shown to be a metaphysical one: the very path of life before the offender has completely vanished into a black, inescapable void. There is no possibility of survival ('உய்யார்'). The offense has erased their future."
+    },
+    "Art_Direction": {
+      "Subject_and_Action": "One might be able to survive being burnt by a great fire, but there is no survival for one who offends the truly great.",
+      "Symbolic_Motifs": "The contrast between the physical threat (fire) with a path of escape, and the metaphysical threat (offending the great) with no path of escape, is the key. The vanishing path of life is the visual for certain doom.",
+      "Mood_and_Emotion": "Certain doom, inescapable consequence, comparing physical and spiritual danger.",
+      "Lighting_and_Color": "The fire scene is chaotic and red. The scene with the sage is supernaturally calm, but the black void is utterly terrifying and absolute.",
+      "Technical_Cues": {
+        "Camera": "A side-by-side composition that starkly contrasts the two scenarios.",
+        "Resolution": "8K, cinematic.",
+        "Lighting": "Contrasting lighting: chaotic firelight vs. the absolute, light-absorbing black of the void.",
+        "Art_Genre": "High-fantasy art, with a metaphysical horror element."
+      }
+    },
+    "Cultural_Anchors": [
+      "Surviving a fire is possible ('எரியால் சுடப்படினும் உய்வுண்டாம்')",
+      "No survival for one who offends the great ('பெரியார்ப் பிழைத்தொழுகுவார் உய்யார்')",
+      "The supreme danger of disrespecting spiritual power."
+    ]
+  },
+  "Negative_Prompt": "person dying in the fire, person surviving the offense, text artifacts.",
+  "Hyperparameters": {
+    "variant": "pro",
+    "steps": 50,
+    "cfg_scale": 9,
+    "seed": "Explore variations for the black void."
+  }
+}

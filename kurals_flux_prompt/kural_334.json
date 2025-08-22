@@ -1,0 +1,39 @@
+{
+  "Kural_Info": {
+    "Number": 334,
+    "Chapter": "நிலையாமை (Instability)",
+    "Tamil_Text": "நாளென ஒன்றுபோற் காட்டி உயிர்ஈரும்வாளது உணர்வார்ப் பெறின்.",
+    "English_Meaning": "Time, which shows itself (to the ignorant) as if it were something (real) is in the estimation of the wise (only) a saw which cuts down life."
+  },
+  "Flux_Optimized_Prompt": {
+    "Layered_Composition": {
+      "Foreground": "To the ignorant, a beautiful, welcoming gateway labeled 'A New Day' ('நாள் என ஒன்று போல் காட்டி') is shown, with people happily walking through it.",
+      "Midground": "From the perspective of the wise ('உணர்வார்ப் பெறின்'), the true nature of the gateway is revealed. It is not a gate, but the sharp, serrated blade of a colossal, cosmic saw ('வாள்').",
+      "Background": "Each person who walks through the 'gateway' is actually taking a step along the saw's blade, which is relentlessly cutting through the great tree of their lifespan ('உயிர் ஈரும்'). Their life is visibly shortened with each 'day' they pass."
+    },
+    "Art_Direction": {
+      "Subject_and_Action": "The dual perception of a day: to the ignorant, it's a new opportunity; to the wise, it's the relentless saw of time cutting away at one's life.",
+      "Symbolic_Motifs": "The gateway transforming into a saw blade is the central, shocking visual reveal. The tree of life getting shorter with each pass of a 'day' makes the concept tangible.",
+      "Mood_and_Emotion": "Revealing, sobering, urgent, profound, cautionary.",
+      "Lighting_and_Color": "The 'gateway' view is bright, cheerful, and deceptive. The 'saw' view is stark, metallic, and menacing. The lighting should shift dramatically to reveal the terrifying reality.",
+      "Technical_Cues": {
+        "Camera": "A shot that uses a perspective shift or a 'reveal' effect to show the true nature of the 'day'.",
+        "Resolution": "8K, ultra-realistic, with a sharp contrast between the welcoming gate and the menacing saw.",
+        "Lighting": "Deceptive warm light that turns into a cold, harsh, industrial light.",
+        "Art_Genre": "Surrealist art, philosophical illustration."
+      },
+      "Cultural_Anchors": [
+        "The appearance of a day (நாள் என ஒன்று போல்)",
+        "The saw that cuts life (உயிர் ஈரும் வாள்)",
+        "The perception of the wise (உணர்வார்ப் பெறின்)"
+      ]
+    },
+    "Negative_Prompt": "happy wise people, safe gateway, text artifacts, cartoonish saw.",
+    "Hyperparameters": {
+      "variant": "pro",
+      "steps": 50,
+      "cfg_scale": 9,
+      "seed": "Explore the visual transition from 'gate' to 'saw'."
+    }
+  }
+}

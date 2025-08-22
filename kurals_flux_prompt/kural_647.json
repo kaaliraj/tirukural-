@@ -1,0 +1,40 @@
+{
+  "Kural_Info": {
+    "Number": 647,
+    "Chapter": "சொல்வன்மை (Power of Speech)",
+    "Tamil_Text": "சொலல்வல்லன் சோர்விலன் அஞ்சான் அவனை இகல்வெல்லல் யார்க்கும் அரிது.",
+    "English_Meaning": "It is impossible for any one to conquer him by intrique who possesses power of speech, and is neither faulty nor timid."
+  },
+  "Flux_Optimized_Prompt": {
+    "Layered_Composition": {
+      "Foreground": "A heroic orator stands alone, embodying three virtues. Their mouth glows, showing they are skillful in speech ('சொலல்வல்லன்'). Their mind is a solid, unbreakable crystal, showing they are free from error or forgetfulness ('சோர்விலன்'). Their stance is firm and fearless ('அஞ்சான்').",
+      "Midground": "A host of shadowy, treacherous enemies are trying to defeat this person with intrigue ('இகல்'). Their schemes are visualized as a web of dark, thorny vines.",
+      "Background": "The vines of intrigue, however, cannot touch the orator. They are repelled and burned away by the combined power of the orator's three virtues, which create a protective aura of invincibility. It is impossible to defeat them ('வெல்லல் அரிது')."
+    },
+    "Art_Direction": {
+      "Subject_and_Action": "The person who is eloquent, flawless, and fearless is impossible for anyone to defeat through conflict or intrigue.",
+      "Symbolic_Motifs": "The three glowing virtues—mouth, mind, and stance—are the source of power. The aura of invincibility that repels the thorny vines of intrigue is the result.",
+      "Mood_and_Emotion": "Invincible, unconquerable, powerful, flawless, fearless.",
+      "Lighting_and_Color": "A brilliant, heroic white and golden light radiates from the orator, forming their protective aura. The vines of intrigue are dark, shadowy, and menacing.",
+      "Technical_Cues": {
+        "Camera": "A low-angle, heroic shot of the orator, showing them effortlessly repelling the enemy's schemes.",
+        "Resolution": "8K, cinematic, with powerful energy and particle effects.",
+        "Lighting": "The orator is the primary light source.",
+        "Art_Genre": "High-fantasy art, superhero-style illustration."
+      }
+    },
+    "Cultural_Anchors": [
+      "Skillful in Speech ('சொலல்வல்லன்')",
+      "Flawless/Vigilant ('சோர்விலன்')",
+      "Fearless ('அஞ்சான்')",
+      "Impossible to Defeat ('இகல்வெல்லல் அரிது')"
+    ]
+  },
+  "Negative_Prompt": "orator being trapped by vines, scared orator, text artifacts, cartoonish.",
+  "Hyperparameters": {
+    "variant": "pro",
+    "steps": 50,
+    "cfg_scale": 9,
+    "seed": "Explore variations for the aura of invincibility."
+  }
+}

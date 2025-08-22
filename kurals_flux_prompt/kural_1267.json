@@ -1,0 +1,34 @@
+{
+  "Kural_Info": {
+    "Number": 1267,
+    "Chapter": "அவர்வயின்விதும்பல் (Mutual Desire)",
+    "Tamil_Text": "புலப்பேன்கொல் புல்லுவேன் கொல்லோ கலப்பேன்கொல்கண்அன்ன கேளிர் விரன்.",
+    "English_Meaning": "On the return of him who is as dear as my eyes, am I displeased or am I to embrace (him); or am I to do both?."
+  },
+  "Flux_Optimized_Prompt": {
+    "Layered_Composition": {
+      "Foreground": "A woman is shown at the moment her lover returns. She is frozen in a state of joyful confusion, unsure of how to react.",
+      "Midground": "Three ghostly, semi-transparent images of herself are shown around her, each enacting a different, conflicting desire: one is feigning anger ('Pulappenkol'), another is rushing into a tight embrace ('Pulluvenkol'), and the third is preparing for a loving union ('Kalappenkol').",
+      "Background": "Her lover, who is as dear as her own eyes ('Kan anna Kelir'), stands before her, waiting for her reaction. The background is a swirl of her happy, chaotic emotions."
+    },
+    "Art_Direction": {
+      "Subject_and_Action": "The delightful confusion of a lover upon her beloved's return: 'Should I feign anger for his long absence? Should I just embrace him? Or should I...?' She is overwhelmed with choices.",
+      "Symbolic_Motifs": "The three ghostly selves enacting her conflicting desires is the central visual metaphor. Her frozen posture shows her momentary paralysis from overwhelming joy.",
+      "Mood_and_Emotion": "Joyful, confused, overwhelmed, loving, anticipatory.",
+      "Lighting_and_Color": "Bright, happy, and slightly chaotic lighting. The colors are vibrant and celebratory. The ghostly images have a soft, dream-like quality."
+    },
+    "Technical_Cues": {
+      "Camera": "A medium shot that captures the woman's confused expression and the three ghostly options swirling around her.",
+      "Resolution": "8K, photorealistic with ethereal transparency effects.",
+      "Lighting": "High-key, joyful lighting that creates a celebratory mood.",
+      "Art_Genre": "Romantic realism with a touch of whimsical fantasy."
+    },
+    "Cultural_Anchors": [
+      "The emotional choices upon reunion",
+      "புலவி (Feigned anger)",
+      "புல்லுதல் (Embracing)",
+      "கலத்தல் (Union)"
+    ]
+  },
+  "Negative_Prompt": "a sad or angry woman, a single clear action, a dark setting, text artifacts, cartoonish."
+}

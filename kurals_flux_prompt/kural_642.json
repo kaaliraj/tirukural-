@@ -1,0 +1,39 @@
+{
+  "Kural_Info": {
+    "Number": 642,
+    "Chapter": "சொல்வன்மை (Power of Speech)",
+    "Tamil_Text": "ஆக்கமுங் கேடும் அதனால் வருதலாற் காத்தோம்பல் சொல்லின்கட் சோர்வு.",
+    "English_Meaning": "Since (both) wealth and evil result from (their) speech, ministers should most carefully guard themselves against faultiness therein."
+  },
+  "Flux_Optimized_Prompt": {
+    "Layered_Composition": {
+      "Foreground": "A person's mouth is shown speaking. From one side of the mouth, words emerge that transform into golden, constructive things like bountiful crops and strong buildings (Prosperity - 'ஆக்கம்').",
+      "Midground": "From the other side of the same mouth, other words emerge that transform into destructive things like fire and thorny weeds (Ruin - 'கேடு').",
+      "Background": "A wise hand is shown carefully guarding the mouth ('காத்தோம்பல்'), filtering the words to ensure that only the constructive ones emerge and preventing any slip-ups ('சோர்வு') that would release the destructive ones."
+    },
+    "Art_Direction": {
+      "Subject_and_Action": "Both prosperity and ruin can come from speech; therefore, one must vigilantly guard against any error or slip of the tongue.",
+      "Symbolic_Motifs": "The words literally transforming into either constructive or destructive elements is the central metaphor. The guarding hand represents the act of vigilance.",
+      "Mood_and_Emotion": "Dual-natured, powerful, consequential, cautionary, vigilant.",
+      "Lighting_and_Color": "The prosperous words are golden and brightly lit. The ruinous words are fiery red and dark. The scene has a strong light/dark duality.",
+      "Technical_Cues": {
+        "Camera": "An extreme close-up on the mouth, capturing the dual nature of the words as they emerge.",
+        "Resolution": "8K, with complex and beautiful transformation effects.",
+        "Lighting": "Split lighting to match the good and bad outcomes.",
+        "Art_Genre": "Surrealism, symbolic art."
+      }
+    },
+    "Cultural_Anchors": [
+      "Prosperity from speech ('ஆக்கம்')",
+      "Ruin from speech ('கேடு')",
+      "Guarding against slips of the tongue ('சொல்லின்கட் சோர்வு காத்தோம்பல்')"
+    ]
+  },
+  "Negative_Prompt": "only good words, only bad words, text in the words, cartoonish.",
+  "Hyperparameters": {
+    "variant": "pro",
+    "steps": 50,
+    "cfg_scale": 8,
+    "seed": "Explore variations for the word transformation effects."
+  }
+}

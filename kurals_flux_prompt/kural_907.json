@@ -1,0 +1,39 @@
+{
+  "Kural_Info": {
+    "Number": 907,
+    "Chapter": "பெண்வழிச்சேறல் (Being led by Women)",
+    "Tamil_Text": "பெண்ணேவல் செய்தொழுகும் ஆண்மையின் நாணுடைப் பெண்ணே பெருமை உடைத்து.",
+    "English_Meaning": "Even shame faced womanhood is more to be esteemed than the shameless manhood that performs the behests of a wife."
+  },
+  "Flux_Optimized_Prompt": {
+    "Layered_Composition": {
+      "Foreground": "A split composition with a balance scale of dignity.",
+      "Midground": "On the left scale pan, which is shown to be low and worthless, is a man who is servilely obeying his wife's every command ('பெண்ணேவல் செய்தொழுகும் ஆண்மை'). On the right scale pan, which is raised high in superiority, is a woman who possesses natural modesty and shamefacedness ('நாணுடைப் பெண்').",
+      "Background": "The image clearly judges the modest womanhood to be of greater worth and dignity ('பெருமை உடைத்து') than the subservient manhood."
+    },
+    "Art_Direction": {
+      "Subject_and_Action": "Modest womanhood is greater than a 'manhood' that is subservient to a woman.",
+      "Symbolic_Motifs": "The scale of dignity is the central metaphor, visually weighing the two characters and delivering the judgment of the Kural. The positions of the scale pans (high vs. low) make the verdict clear.",
+      "Mood_and_Emotion": "Judgmental, a reversal of expected gender roles' dignity, profound.",
+      "Lighting_and_Color": "A bright, noble light shines on the modest woman, highlighting her greater worth. The subservient man is in a dimmer, less dignified light.",
+      "Technical_Cues": {
+        "Camera": "A clear, balanced shot of the symbolic scale.",
+        "Resolution": "8K, with a focus on the body language of the two figures.",
+        "Lighting": "Symbolic lighting to indicate value.",
+        "Art_Genre": "Allegorical realism."
+      },
+      "Cultural_Anchors": [
+        "The manhood that obeys a woman's command ('பெண்ணேவல் செய்தொழுகும் ஆண்மை')",
+        "The modest woman ('நாணுடைப் பெண்') is greater ('பெருமை உடைத்து')",
+        "A commentary on the nature of dignity."
+      ]
+    },
+    "Negative_Prompt": "the man's scale being higher, text artifacts, cartoonish.",
+    "Hyperparameters": {
+      "variant": "pro",
+      "steps": 50,
+      "cfg_scale": 8,
+      "seed": "Explore variations for the scale of dignity."
+    }
+  }
+}

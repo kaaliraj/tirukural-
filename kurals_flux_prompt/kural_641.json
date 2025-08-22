@@ -1,0 +1,39 @@
+{
+  "Kural_Info": {
+    "Number": 641,
+    "Chapter": "சொல்வன்மை (Power of Speech)",
+    "Tamil_Text": "நாநலம் என்னும் நலனுடைமை அந்நலம் யாநலத்து உள்ளதூஉம் அன்று",
+    "English_Meaning": "The possession of that goodness which is called the goodness of speech is (even to others) better than any other goodness."
+  },
+  "Flux_Optimized_Prompt": {
+    "Layered_Composition": {
+      "Foreground": "A central figure is surrounded by many different symbols of goodness and wealth—a charitable hand, a noble crown, a strong physique, a pile of gold.",
+      "Midground": "However, the most prominent and powerful 'goodness' they possess is the goodness of their speech ('நாநலம்'). This is visualized as a beautiful, radiant, glowing jewel that is located on their tongue.",
+      "Background": "The light from this 'jewel of speech' outshines all the other symbols of goodness, establishing its supremacy ('யாநலத்து உள்ளதூஉம் அன்று'). Its light brings harmony and joy to the world around them."
+    },
+    "Art_Direction": {
+      "Subject_and_Action": "The goodness of speech is a form of goodness and wealth that is superior to all others.",
+      "Symbolic_Motifs": "The 'jewel on the tongue' is the literal representation of 'Naanalam' (goodness of speech). Its brilliance relative to the other, duller symbols of goodness, shows its superior nature.",
+      "Mood_and_Emotion": "Eloquent, supreme, radiant, harmonious.",
+      "Lighting_and_Color": "The primary source of light is the glowing jewel on the tongue, which casts a brilliant, warm, and beautiful light on everything. The other good qualities have only a minor glow.",
+      "Technical_Cues": {
+        "Camera": "A close-up portrait, focusing on the mouth and the radiant jewel of speech.",
+        "Resolution": "8K, with a beautiful, ethereal quality to the light.",
+        "Lighting": "Radiant, volumetric lighting emanating from the mouth.",
+        "Art_Genre": "Symbolic portraiture, magical realism."
+      },
+      "Cultural_Anchors": [
+        "Goodness of Speech ('நாநலம்')",
+        "A possession of goodness ('நலனுடைமை')",
+        "Superior to all other goodness."
+      ]
+    },
+    "Negative_Prompt": "person with a dark tongue, other symbols glowing brighter, text artifacts, cartoonish.",
+    "Hyperparameters": {
+      "variant": "pro",
+      "steps": 50,
+      "cfg_scale": 8,
+      "seed": "Explore variations for the design of the jewel of speech."
+    }
+  }
+}

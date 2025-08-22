@@ -1,0 +1,39 @@
+{
+  "Kural_Info": {
+    "Number": 375,
+    "Chapter": "ஊழ் (Fate)",
+    "Tamil_Text": "நல்லவை எல்லாஅந் தீயவாம் தீயவும் நல்லவாம் செல்வம் செயற்கு.",
+    "English_Meaning": "In the acquisition of property, every thing favourable becomes unfavourable, and (on the other hand) everything unfavourable becomes favourable, (through the power of fate)."
+  },
+  "Flux_Optimized_Prompt": {
+    "Layered_Composition": {
+      "Foreground": "A massive, ancient, stone Wheel of Fortune stands vertically. The left side of the wheel is ascending, while the right side is descending.",
+      "Midground": "On the ascending side, dark thorny vines ('தீயவை') are miraculously transforming into golden, fruit-bearing branches ('நல்லவாம்'). On the descending side, the golden branches are withering back into dark thorns ('நல்லவை தீயவாம்').",
+      "Background": "The wheel is set against a dramatic sky, half stormy and half clear, reflecting the unpredictable turns of fate in the pursuit of wealth ('செல்வம் செயற்கு')."
+    },
+    "Art_Direction": {
+      "Subject_and_Action": "The power of fate to invert outcomes in the pursuit of wealth, turning good efforts into bad results and bad situations into good ones.",
+      "Symbolic_Motifs": "The Wheel of Fortune is the central metaphor for fate. The transformation of thorns to gold and vice-versa illustrates the inversion of good ('நல்லவை') and bad ('தீயவை').",
+      "Mood_and_Emotion": "Unpredictable, dynamic, dramatic, cautionary.",
+      "Lighting_and_Color": "The ascending side is bathed in a hopeful, golden light. The descending side is cast in shadow and cool, ominous tones. The sky has a strong light/dark contrast.",
+      "Technical_Cues": {
+        "Camera": "Centered wide shot, capturing the full motion and transformation of the wheel.",
+        "Resolution": "8K, cinematic, with detailed textures on the stone wheel and magical transformation effects.",
+        "Lighting": "High-contrast, dynamic lighting that seems to rotate with the wheel.",
+        "Art_Genre": "High-fantasy art, allegorical painting."
+      }
+    },
+    "Cultural_Anchors": [
+      "Power of Fate ('ஊழ்')",
+      "Inversion of good and bad outcomes",
+      "The pursuit of wealth ('செல்வம்')"
+    ]
+  },
+  "Negative_Prompt": "static wheel, uniform lighting, happy figures, text artifacts, blurry, cartoonish vines.",
+  "Hyperparameters": {
+    "variant": "dev",
+    "steps": 45,
+    "cfg_scale": 9,
+    "seed": "Explore variations for the transformation effect on the vines."
+  }
+}

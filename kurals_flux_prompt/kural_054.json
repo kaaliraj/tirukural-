@@ -1,0 +1,39 @@
+{
+  "Kural_Info": {
+    "Number": 54,
+    "Chapter": "வாழ்க்கைத் துணைநலம் (The Worth of a Wife)",
+    "Tamil_Text": "பெண்ணின் பெருந்தக்க யாவுள கற்பென்னும்திண்மைஉண் டாகப் பெறின்.",
+    "English_Meaning": "What is more excellent than a wife, if she possess the stability of chastity?"
+  },
+  "Flux_Optimized_Prompt": {
+    "Layered_Composition": {
+      "Foreground": "A woman stands with a serene and unbreakable dignity. She is surrounded by an invisible, shimmering fortress of pure, crystalline light, representing the 'stability of chastity' ('கற்பென்னும் திண்மை').",
+      "Midground": "Outside this fortress of light, all the other great treasures of the world—piles of gold, royal crowns, sacred scriptures—are laid out as if for comparison.",
+      "Background": "A vast, cosmic background, suggesting that her worth is being weighed on a universal scale."
+    },
+    "Art_Direction": {
+      "Subject_and_Action": "A visual declaration that there is no greater treasure or excellence in the world than a woman who possesses the unshakeable strength of chastity.",
+      "Symbolic_Motifs": "The fortress of 'Karpu' is not a prison but a source of power and light, originating from within her. The worldly treasures are shown to be small and dim in comparison to the brilliant light of her virtue.",
+      "Mood_and_Emotion": "Supreme virtue, invaluable, powerful, dignified, pure.",
+      "Lighting_and_Color": "An intense, brilliant white-gold light radiates from the woman and her fortress of virtue, casting all other worldly treasures in its shadow. The palette emphasizes the supremacy of this pure light over the dull gleam of gold.",
+      "Technical_Cues": {
+        "Camera": "Low-angle medium shot, making the woman and her virtue appear monumental and of supreme importance.",
+        "Resolution": "8K, ultra-realistic figure, with complex, crystalline light effects for the fortress of chastity.",
+        "Lighting": "The woman herself is the primary light source, creating a powerful, radiant effect.",
+        "Art_Genre": "High fantasy art, symbolic portraiture."
+      },
+      "Cultural_Anchors": [
+        "Karpu (கற்பு) - Chastity/Virtue",
+        "Thinmai (திண்மை) - Strength/Stability/Firmness",
+        "The concept of feminine virtue as a supreme treasure"
+      ]
+    },
+    "Negative_Prompt": "imprisoned woman, weak figure, worldly treasures being more prominent, text artifacts, erotic depiction.",
+    "Hyperparameters": {
+      "variant": "pro",
+      "steps": 50,
+      "cfg_scale": 8,
+      "seed": "Explore different designs for the 'crystalline fortress of Karpu'."
+    }
+  }
+}

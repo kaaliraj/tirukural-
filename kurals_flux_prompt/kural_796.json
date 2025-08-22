@@ -1,0 +1,39 @@
+{
+  "Kural_Info": {
+    "Number": 796,
+    "Chapter": "நட்பாராய்தல் (Investigation in forming Friendships)",
+    "Tamil_Text": "கேட்டினும் உண்டோர் உறுதி கிளைஞரை நீட்டி அளப்பதோர் கோல்.",
+    "English_Meaning": "Even in ruin there is some good; (for) it is a rod by which one may measure fully (the affection of one's) relations."
+  },
+  "Flux_Optimized_Prompt": {
+    "Layered_Composition": {
+      "Foreground": "A person is shown in a state of ruin and disaster ('கேட்டினும்'). Their world is crumbling around them.",
+      "Midground": "However, this disaster has a silver lining ('உண்டோர் உறுதி'). The ruin itself is shown transforming into a magical measuring rod ('அளப்பதோர் கோல்').",
+      "Background": "The person is using this 'rod of ruin' to measure their so-called friends and relatives ('கிளைஞரை'). For true friends, the rod shows a deep, solid gold core of loyalty. For false friends, the rod reveals them to be hollow and empty. The disaster has become the ultimate tool for measuring true affection."
+    },
+    "Art_Direction": {
+      "Subject_and_Action": "Even in disaster, there is a benefit: it serves as a measuring rod to reveal the true nature of one's friends.",
+      "Symbolic_Motifs": "The disaster itself transforming into a measuring rod is the central, powerful metaphor. The rod revealing the true inner nature (solid gold vs. hollow) of others is the result of this test.",
+      "Mood_and_Emotion": "Revealing, clarifying, a silver lining in a dark cloud.",
+      "Lighting_and_Color": "The scene is dark and ruinous, but the measuring rod and the golden core of the true friends glow with a revealing light.",
+      "Technical_Cues": {
+        "Camera": "A shot that focuses on the person using the 'rod of ruin' to test their friends.",
+        "Resolution": "8K, with a surreal, magical quality to the measuring rod.",
+        "Lighting": "High-contrast lighting, with the glow of the rod providing the key light.",
+        "Art_Genre": "Symbolic realism, with fantasy elements."
+      }
+    },
+    "Cultural_Anchors": [
+      "A benefit in ruin ('கேட்டினும் உண்டோர் உறுதி')",
+      "A measuring rod for friends ('கிளைஞரை அளப்பதோர் கோல்')",
+      "Adversity as a test of friendship."
+    ]
+  },
+  "Negative_Prompt": "all friends being true, the rod not working, text artifacts, cartoonish.",
+  "Hyperparameters": {
+    "variant": "pro",
+    "steps": 50,
+    "cfg_scale": 8,
+    "seed": "Explore variations for the magical measuring rod."
+  }
+}

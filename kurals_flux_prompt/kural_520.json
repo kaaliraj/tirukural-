@@ -1,0 +1,39 @@
+{
+  "Kural_Info": {
+    "Number": 520,
+    "Chapter": "தெரிந்துவினையாடல் (Selection and Employment)",
+    "Tamil_Text": "நாடோறும் நாடுக மன்னன் வினைசெய்வான் கோடாமை கோடா துலகு",
+    "English_Meaning": "Let a king daily examine the conduct of his servants; if they do not act crookedly, the world will not act crookedly."
+  },
+  "Flux_Optimized_Prompt": {
+    "Layered_Composition": {
+      "Foreground": "A wise king ('மன்னன்') is shown daily ('நாடோறும்') examining the work of his officials. He is using a magical level or plumb line to check if their work is straight and not crooked ('கோடாமை').",
+      "Midground": "Because the officials' work is straight and true, the entire world ('உலகு') under his rule is shown to be in perfect harmony and order. The roads are straight, the buildings are perfectly constructed, and the fields are planted in orderly rows.",
+      "Background": "A balanced and symmetrical kingdom, reflecting the righteousness that starts from the top and permeates the entire society."
+    },
+    "Art_Direction": {
+      "Subject_and_Action": "If a king ensures daily that his officials act righteously, then the entire world under his rule will also follow a straight and righteous path.",
+      "Symbolic_Motifs": "The king's plumb line is a metaphor for his daily scrutiny. The straightness of the officials' work directly translating to the straightness and order of the entire world is the core visual concept.",
+      "Mood_and_Emotion": "Orderly, just, harmonious, disciplined, cause-and-effect.",
+      "Lighting_and_Color": "Bright, clear, and even lighting, symbolizing clarity, justice, and order. The color palette is harmonious and balanced.",
+      "Technical_Cues": {
+        "Camera": "A high-angle shot that connects the king's act of scrutiny in the foreground to the resulting orderliness of his kingdom in the background.",
+        "Resolution": "8K, with a strong emphasis on geometric order and symmetry in the landscape.",
+        "Lighting": "High-key lighting to suggest an ideal, well-governed state.",
+        "Art_Genre": "Idealized realism, with symbolic elements."
+      }
+    },
+    "Cultural_Anchors": [
+      "Daily examination by the king ('நாடோறும் நாடுக')",
+      "The righteousness of officials ('வினைசெய்வான் கோடாமை')",
+      "The world following the righteous path ('கோடாது உலகு')"
+    ]
+  },
+  "Negative_Prompt": "crooked officials, chaotic world, king being lazy, text artifacts, blurry.",
+  "Hyperparameters": {
+    "variant": "dev",
+    "steps": 40,
+    "cfg_scale": 8,
+    "seed": "Explore variations for the perfectly ordered kingdom."
+  }
+}

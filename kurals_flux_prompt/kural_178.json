@@ -1,0 +1,38 @@
+{
+  "Kural_Info": {
+    "Number": 178,
+    "Chapter": "வெஃகாமை (Not Coveting)",
+    "Tamil_Text": "అஃகாமை செல்வத்திற்கு யாதெனின் வெஃகாமைவேண்டும் பிறன்கைப் பொருள்.",
+    "English_Meaning": "If it is weighed, \"what is the indestructibility of wealth,\" it is freedom from covetousness."
+  },
+  "Flux_Optimized_Prompt": {
+    "Layered_Composition": {
+      "Foreground": "A person's wealth is visualized as a magnificent, strong, and stable fortress.",
+      "Midground": "The question is posed in ethereal script: 'What is the secret to this fortress's indestructibility?' ('అஃகாமை செல்வத்திற்கு யாது எனின்?').",
+      "Background": "The answer is revealed in the foundation of the fortress. The cornerstone is not made of gold or steel, but of a single, powerful, glowing principle: a depiction of the owner consciously choosing NOT to covet another's property ('வெஃகாமை வேண்டும் பிறன் கைப் பொருள்'). This act of non-coveting is the very thing that makes their own wealth indestructible."
+    },
+    "Art_Direction": {
+      "Subject_and_Action": "The secret to making one's own wealth indestructible is the virtue of not coveting the wealth of others.",
+      "Symbolic_Motifs": "Wealth as a fortress and non-coveting as its magical, indestructible cornerstone is the central metaphor. The strength of the entire structure is shown to depend on this single, ethical principle.",
+      "Mood_and_Emotion": "Secure, strong, principled, indestructible.",
+      "Lighting_and_Color": "A strong, stable, and enduring golden light illuminates the scene. The cornerstone of non-coveting glows with a brilliant, pure, white light, signifying it as the source of the fortress's integrity and power.",
+      "Technical_Cues": {
+        "Camera": "A shot that starts on the magnificent fortress and then zooms in to reveal the secret of its strength in the glowing cornerstone.",
+        "Resolution": "8K, ultra-realistic, with intricate architectural detail for the fortress and a powerful glowing effect for the cornerstone.",
+        "Lighting": "The cornerstone is the primary light source, showing that virtue is the foundation of true security.",
+        "Art_Genre": "Symbolic architecture, high fantasy."
+      },
+      "Cultural_Anchors": [
+        "The indestructibility of wealth (అஃகாமை செல்வம்)",
+        "Is not coveting the property in another's hand (வெஃகாமை வேண்டும் பிறன் கைப் பொருள்)"
+      ]
+    },
+    "Negative_Prompt": "crumbling fortress, covetous owner, text artifacts.",
+    "Hyperparameters": {
+      "variant": "pro",
+      "steps": 50,
+      "cfg_scale": 8,
+      "seed": "Explore the design of the 'cornerstone of non-coveting'."
+    }
+  }
+}

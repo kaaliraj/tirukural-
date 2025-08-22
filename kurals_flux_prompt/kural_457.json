@@ -1,0 +1,39 @@
+{
+  "Kural_Info": {
+    "Number": 457,
+    "Chapter": "சிற்றினஞ்சேராமை (Avoiding mean Associations)",
+    "Tamil_Text": "மனநலம் மன்னுயிர்க் காக்கம் இனநலம் எல்லாப் புகழும் தரும்.",
+    "English_Meaning": "Goodness of mind will give wealth, and good society will bring with it all praise, to men."
+  },
+  "Flux_Optimized_Prompt": {
+    "Layered_Composition": {
+      "Foreground": "A central figure is shown embodying two virtues. From their heart/mind ('மனநலம்'), a stream of golden coins and grain flows out, representing the creation of wealth and prosperity ('ஆக்கம்').",
+      "Midground": "From their association with a group of noble companions standing with them ('இனநலம்'), waves of golden light carrying symbols of praise (laurel wreaths, trumpets, glowing words) flow outwards, representing the attainment of all glory ('எல்லாப் புகழும்').",
+      "Background": "A prosperous and respected kingdom, benefiting from both the wealth generated and the glory achieved."
+    },
+    "Art_Direction": {
+      "Subject_and_Action": "The dual benefits of inner and social virtue: goodness of mind creates material prosperity, while goodness of company brings honor and praise.",
+      "Symbolic_Motifs": "The stream of wealth from the heart symbolizes prosperity from a good mind. The waves of praise from the group symbolize glory from good company.",
+      "Mood_and_Emotion": "Prosperous, glorious, respected, virtuous, dual-faceted.",
+      "Lighting_and_Color": "A brilliant, celebratory golden light suffuses the scene. The wealth and the symbols of praise are all rendered in shining gold to link them visually.",
+      "Technical_Cues": {
+        "Camera": "A centered, dynamic shot that captures the two distinct streams of benefits emanating from the central figure and their group.",
+        "Resolution": "8K, cinematic, with high-quality particle and light effects.",
+        "Lighting": "Radiant, celebratory lighting.",
+        "Art_Genre": "Epic fantasy art, symbolic illustration."
+      }
+    },
+    "Cultural_Anchors": [
+      "Goodness of Mind brings Wealth ('மனநலம் ஆக்கம் தரும்')",
+      "Goodness of Company brings Praise ('இனநலம் புகழ் தரும்')",
+      "The twin rewards of virtue."
+    ]
+  },
+  "Negative_Prompt": "stream of dust, waves of insults, poor kingdom, text artifacts, blurry.",
+  "Hyperparameters": {
+    "variant": "pro",
+    "steps": 50,
+    "cfg_scale": 8,
+    "seed": "Explore variations for the symbols of praise."
+  }
+}

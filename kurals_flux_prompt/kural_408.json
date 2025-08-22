@@ -1,0 +1,39 @@
+{
+  "Kural_Info": {
+    "Number": 408,
+    "Chapter": "கல்லாமை (Ignorance)",
+    "Tamil_Text": "நல்லார்கண் பட்ட வறுமையின் இன்னாதே கல்லார்கண் பட்ட திரு.",
+    "English_Meaning": "Wealth, gained by the unlearned, will give more sorrow than the poverty which may come upon the learned."
+  },
+  "Flux_Optimized_Prompt": {
+    "Layered_Composition": {
+      "Foreground": "A split-screen image. On the left, a learned scholar ('நல்லார்') is depicted in a humble, poor setting ('வறுமை'). Despite the poverty, they have a serene, dignified expression and are surrounded by a soft, inner light.",
+      "Midground": "On the right, an ignorant, unlearned person ('கல்லார்') is shown amidst immense wealth ('திரு'). They look miserable, anxious, and lost, with their wealth forming a chaotic, oppressive cage around them.",
+      "Background": "The background for the poor scholar is simple but clean and orderly. The background for the wealthy fool is lavish but chaotic and tasteless."
+    },
+    "Art_Direction": {
+      "Subject_and_Action": "A powerful contrast showing that the wealth of an ignorant person brings more sorrow than the poverty of a wise one.",
+      "Symbolic_Motifs": "The scholar's inner light represents the enduring value of knowledge despite poverty. The 'cage of wealth' around the fool symbolizes the misery and burden of unearned or unmanaged fortune.",
+      "Mood_and_Emotion": "Contrasting dignity in poverty with misery in wealth. Profound, moralistic.",
+      "Lighting_and_Color": "Left side: Soft, warm, gentle light, with a simple color palette. Right side: Harsh, chaotic lighting with garish, clashing colors, emphasizing the tastelessness and anxiety.",
+      "Technical_Cues": {
+        "Camera": "A balanced, side-by-side composition that invites direct comparison of the two emotional states.",
+        "Resolution": "8K, ultra-realistic, with a focus on contrasting facial expressions.",
+        "Lighting": "Dual lighting schemes to create a stark mood difference between the two panels.",
+        "Art_Genre": "Allegorical realism, digital painting."
+      }
+    },
+    "Cultural_Anchors": [
+      "Poverty of the Learned ('நல்லார் வறுமை')",
+      "Wealth of the Unlearned ('கல்லார் திரு')",
+      "Knowledge as a source of inner peace."
+    ]
+  },
+  "Negative_Prompt": "happy rich fool, sad poor scholar, modern settings, text artifacts, blurry.",
+  "Hyperparameters": {
+    "variant": "dev",
+    "steps": 45,
+    "cfg_scale": 9,
+    "seed": "Explore variations for the 'cage of wealth'."
+  }
+}

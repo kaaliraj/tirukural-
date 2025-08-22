@@ -1,0 +1,38 @@
+{
+  "Kural_Info": {
+    "Number": 301,
+    "Chapter": "வெகுளாமை (Restraining Anger)",
+    "Tamil_Text": "செல்லிடத்துக் காப்பான் சினங்காப்பான் அல்லிடத்துக்காக்கின்என் காவாக்கா லென்.",
+    "English_Meaning": "He restrains his anger who restrains it when it can injure; when it cannot injure, what does it matter whether he restrain it, or not?."
+  },
+  "Flux_Optimized_Prompt": {
+    "Layered_Composition": {
+      "Foreground": "A split composition of a single powerful warrior.",
+      "Midground": "On the left, the warrior is facing someone much weaker. Here, he is shown actively and powerfully restraining his anger ('சினங் காப்பான்'), holding back a fiery aura. This is true self-control ('செல்லிடத்து').",
+      "Background": "On the right, the same warrior is facing a colossal, god-like entity against whom he is powerless ('அல்லிடத்து'). Here, it is shown to be irrelevant whether he restrains his anger ('காக்கின் என்?') or lets it out ('காவாக்கால் என்?'), as his anger is completely ineffective and meaningless in this context."
+    },
+    "Art_Direction": {
+      "Subject_and_Action": "True self-control over anger is only meaningful when one has the power to inflict harm. Restraining anger when one is powerless is meaningless.",
+      "Symbolic_Motifs": "The contrast between the two scenarios is key. In the first, his restraint is a powerful, virtuous act. In the second, his anger is like a tiny, harmless spark against a mountain. The value of the act is defined by the power dynamic.",
+      "Mood_and_Emotion": "Meaningful control vs. meaningless emotion, disciplined, pragmatic.",
+      "Lighting_and_Color": "The scene of true restraint is lit with a noble, heroic light, emphasizing the strength of his control. The scene where he is powerless is lit in a way that makes him and his anger look small and insignificant compared to the greater power.",
+      "Technical_Cues": {
+        "Camera": "A diptych shot that contrasts the two situations, using scale to communicate the power dynamic.",
+        "Resolution": "8K, ultra-realistic, with a strong focus on the warrior's different emotional states.",
+        "Lighting": "Symbolic lighting to represent power and powerlessness.",
+        "Art_Genre": "Epic fantasy realism."
+      },
+      "Cultural_Anchors": [
+        "He who controls his anger where it is effective (செல்லிடத்துக் காப்பான் சினங்காப்பான்)",
+        "Where it is not effective, what does it matter? (அல்லிடத்துக் காக்கின் என் காவாக்கால் என்?)"
+      ]
+    },
+    "Negative_Prompt": "warrior attacking the weak, warrior defeating the strong, text artifacts.",
+    "Hyperparameters": {
+      "variant": "pro",
+      "steps": 50,
+      "cfg_scale": 9,
+      "seed": "Explore the visual of the 'colossal, god-like entity'."
+    }
+  }
+}

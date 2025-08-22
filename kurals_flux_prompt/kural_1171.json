@@ -1,0 +1,33 @@
+{
+  "Kural_Info": {
+    "Number": 1171,
+    "Chapter": "கண்விதுப்பழிதல் (Eyes consumed with Grief)",
+    "Tamil_Text": "கண்தாம் கலுழ்வ தெவன்கொலோ தண்டாநோய்தாம்காட்ட யாம்கண் டது.",
+    "English_Meaning": "They showed me him, and then my endless pain I saw: why then should weeping eyes complain?."
+  },
+  "Flux_Optimized_Prompt": {
+    "Layered_Composition": {
+      "Foreground": "A close-up of a woman's beautiful eyes, which are weeping profusely. The tears are luminous and full of sorrow.",
+      "Midground": "Reflected in her weeping eyes is the memory of the first time they saw her lover. In the reflection, the eyes are wide with wonder and adoration, 'showing' him to her heart.",
+      "Background": "The incurable lovesickness ('Thandaa Noi') is visualized as a thorny vine that grew from that first glance, now entwining her heart. The woman is essentially scolding her own eyes for initiating the pain they now weep over."
+    },
+    "Art_Direction": {
+      "Subject_and_Action": "A lover chides her own eyes, asking why they weep now, when it was they themselves that first showed her the lover who caused this incurable pain.",
+      "Symbolic_Motifs": "The reflection of the past in the weeping eyes is the central device. The thorny vine of lovesickness connects the past cause with the present effect.",
+      "Mood_and_Emotion": "Ironic sorrow, self-reproach, melancholy.",
+      "Lighting_and_Color": "Soft, melancholic lighting. The weeping eyes are the main focus, with the reflection rendered in a warmer, nostalgic tone, contrasting with the cool, sad tones of the present."
+    },
+    "Technical_Cues": {
+      "Camera": "Extreme close-up on the eyes, allowing the viewer to clearly see the reflection and the tears.",
+      "Resolution": "8K, hyper-realistic, with detailed rendering of the eye's moisture and the reflection within it.",
+      "Lighting": "Soft, dramatic lighting that highlights the tears and the emotion in the eyes.",
+      "Art_Genre": "Psychological portraiture, focusing on an internal monologue."
+    },
+    "Cultural_Anchors": [
+      "The eyes as the source of love and sorrow",
+      "தண்டா நோய் (Incurable sickness/Lovesickness)",
+      "Self-reproach in love"
+    ]
+  },
+  "Negative_Prompt": "smiling eyes, a happy reflection, modern makeup, text artifacts, cartoonish, blurry."
+}

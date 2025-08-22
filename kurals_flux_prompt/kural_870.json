@@ -1,0 +1,39 @@
+{
+  "Kural_Info": {
+    "Number": 870,
+    "Chapter": "பகைமாட்சி (The Might of Hatred)",
+    "Tamil_Text": "கல்லான் வெகுளும் சிறுபொருள் எஞ்ஞான்றும்ஒல்லானை ஒல்லா தொளி.",
+    "English_Meaning": "The light (of fame) will never be gained by him who gains not the trifling reputation of having fought an unlearned (foe)."
+  },
+  "Flux_Optimized_Prompt": {
+    "Layered_Composition": {
+      "Foreground": "A powerful, noble warrior stands ready for battle, seeking glory.",
+      "Midground": "Before him is an enemy who is unlearned and foolish ('கல்லான்'), representing a trifling, insignificant challenge ('சிறுபொருள்'). The noble warrior, out of a sense of honor, refuses to engage with such an unworthy opponent ('ஒல்லானை').",
+      "Background": "Because he refuses even this small, necessary fight, the brilliant sun of Glory ('ஒளி') is shown turning away from him. It will not shine upon him ('ஒல்லாது') because he has refused to take the first, necessary step on the path of victory, however humble."
+    },
+    "Art_Direction": {
+      "Subject_and_Action": "Glory will abandon the warrior who, out of pride, refuses to engage even with an insignificant enemy. One must prove their willingness to fight at all levels to earn fame.",
+      "Symbolic_Motifs": "The personified Sun of Glory turning its back is the key visual. The enemy is deliberately depicted as small and insignificant to highlight the warrior's prideful mistake. The refusal is the cause of the glory's departure.",
+      "Mood_and_Emotion": "Missed opportunity, prideful folly, abandoned by glory.",
+      "Lighting_and_Color": "The scene is lit by the Sun of Glory. As the warrior refuses the fight, the sun's rays are shown actively retracting from him, leaving him in a sudden, inglorious shadow.",
+      "Technical_Cues": {
+        "Camera": "A dramatic shot capturing the moment the warrior refuses the challenge and the immediate, negative consequence as the light of glory abandons him.",
+        "Resolution": "8K, ultra-realistic, with powerful, symbolic light effects.",
+        "Lighting": "A dynamic lighting change from bright glory to sudden shadow.",
+        "Art_Genre": "Epic fantasy art, symbolic realism."
+      },
+      "Cultural_Anchors": [
+        "Glory (ஒளி)",
+        "The one who refuses (ஒல்லானை)",
+        "The unlearned, trifling foe (கல்லான் வெகுளும் சிறுபொருள்)"
+      ]
+    },
+    "Negative_Prompt": "warrior fighting the foe, sun shining on him, text artifacts.",
+    "Hyperparameters": {
+      "variant": "pro",
+      "steps": 50,
+      "cfg_scale": 8,
+      "seed": "Explore the visual of the 'Sun of Glory' retracting its light."
+    }
+  }
+}

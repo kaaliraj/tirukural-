@@ -1,0 +1,39 @@
+{
+  "Kural_Info": {
+    "Number": 625,
+    "Chapter": "இடுக்கணழியாமை (Hopefulness in Trouble)",
+    "Tamil_Text": "அடுக்கி வரினும் அழிவிலான் உற்ற இடுக்கண் இடுக்கட் படும்.",
+    "English_Meaning": "The troubles of that man will be troubled (and disappear) who, however thickly they may come upon him, does not abandon (his purpose)."
+  },
+  "Flux_Optimized_Prompt": {
+    "Layered_Composition": {
+      "Foreground": "A person with an unbreakable will ('அழிவிலான்') stands firm, like a mountain.",
+      "Midground": "Troubles are visualized as a relentless volley of arrows, coming one after another ('அடுக்கி வரினும்'). However, as the arrows strike the person, they do not pierce them. Instead, the arrows themselves bend, break, and fall to the ground, defeated.",
+      "Background": "The person's goal or purpose is shown as a shining citadel in the distance, which they never take their eyes off, explaining the source of their resilience. The broken troubles ('இடுக்கண் இடுக்கட் படும்') lie uselessly at their feet."
+    },
+    "Art_Direction": {
+      "Subject_and_Action": "When troubles come again and again, they themselves will be defeated and fall into trouble when faced with a person of indestructible will who does not give up.",
+      "Symbolic_Motifs": "The person as an immovable mountain represents their unbreakable will. The arrows as troubles that break upon impact is a powerful metaphor for troubles being defeated by resilience.",
+      "Mood_and_Emotion": "Indomitable, resilient, unbreakable, focused, victorious.",
+      "Lighting_and_Color": "The person is lit with a strong, heroic light, as if forged from metal. The arrows are dark and menacing. The citadel of purpose glows on the horizon.",
+      "Technical_Cues": {
+        "Camera": "A frontal shot of the person, showing the arrows breaking against them, emphasizing their invulnerability.",
+        "Resolution": "8K, cinematic, with dynamic effects for the breaking arrows.",
+        "Lighting": "Strong, epic lighting.",
+        "Art_Genre": "High-fantasy art, heroic illustration."
+      },
+      "Cultural_Anchors": [
+        "Troubles coming in layers ('அடுக்கி வரினும்')",
+        "The man of indestructible will ('அழிவிலான்')",
+        "Troubles themselves getting into trouble ('இடுக்கண் இடுக்கட் படும்')"
+      ]
+    },
+    "Negative_Prompt": "person being pierced by arrows, crumbling mountain, text artifacts, cartoonish.",
+    "Hyperparameters": {
+      "variant": "pro",
+      "steps": 50,
+      "cfg_scale": 8,
+      "seed": "Explore variations for the breaking arrow effect."
+    }
+  }
+}

@@ -1,0 +1,39 @@
+{
+  "Kural_Info": {
+    "Number": 922,
+    "Chapter": "கள்ளுண்ணாமை (Not Drinking Palm-Wine)",
+    "Tamil_Text": "உண்ணற்க கள்ளை உணில்உண்க சான்றோரான் எண்ணப் படவேண்டா தார்.",
+    "English_Meaning": "Let no liquor be drunk; if it is desired, let it be drunk by those who care not for esteem of the great."
+  },
+  "Flux_Optimized_Prompt": {
+    "Layered_Composition": {
+      "Foreground": "A line of people are shown. A cup of wine ('கள்') is being passed down the line.",
+      "Midground": "The first people in the line are the great and the wise ('சான்றோர்'). They are shown firmly refusing the cup, pushing it away. They value their good reputation.",
+      "Background": "The cup is finally accepted only at the very end of the line, by a person who clearly does not care about being esteemed by the wise ('எண்ணப்பட வேண்டாதார்'). This person is depicted as foolish or base, and they drink alone, having been rejected by the company of the good."
+    },
+    "Art_Direction": {
+      "Subject_and_Action": "Do not drink. But if you must, it should only be done by those who have no desire for the respect of the wise.",
+      "Symbolic_Motifs": "The act of passing down and refusing the cup of wine is the central narrative. The final acceptance by the one who doesn't care for honor clearly defines drinking as an act for the dishonorable.",
+      "Mood_and_Emotion": "A clear moral choice, self-respect, a separation of the wise from the foolish.",
+      "Lighting_and_Color": "The wise people are in a clear, noble light. The person at the end of the line who drinks is in a dimmer, more isolated and pathetic light.",
+      "Technical_Cues": {
+        "Camera": "A shot that follows the cup down the line of people, ending on the one who accepts it.",
+        "Resolution": "8K, with a focus on the different expressions of refusal and acceptance.",
+        "Lighting": "Lighting that gets progressively dimmer and less noble as it moves down the line.",
+        "Art_Genre": "Narrative realism."
+      },
+      "Cultural_Anchors": [
+        "Do not drink wine ('உண்ணற்க கள்ளை')",
+        "Only for those who don't want the esteem of the wise.",
+        "Drinking as an act that forfeits honor."
+      ]
+    },
+    "Negative_Prompt": "wise people drinking, text artifacts, cartoonish.",
+    "Hyperparameters": {
+      "variant": "dev",
+      "steps": 40,
+      "cfg_scale": 8,
+      "seed": "Explore variations for the faces of the wise."
+    }
+  }
+}

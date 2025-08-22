@@ -1,0 +1,39 @@
+{
+  "Kural_Info": {
+    "Number": 876,
+    "Chapter": "பகைத்திறந்தெரிதல் (Knowing the Quality of Hate)",
+    "Tamil_Text": "தேறினும் தேறா விடினும் அழிவின்கண் தேறான் பகாஅன் விடல்.",
+    "English_Meaning": "Whether you trust them or not, in times of trouble, it is best to neither fully befriend nor fully separate from them."
+  },
+  "Flux_Optimized_Prompt": {
+    "Layered_Composition": {
+      "Foreground": "A person is in a difficult situation, a time of ruin or crisis ('அழிவின்கண்'). An untrustworthy person or a former enemy ('தேறான்') is nearby.",
+      "Midground": "The person is shown walking a very careful, neutral path. They are not embracing the untrustworthy person in friendship ('பகாஅன்'), nor are they pushing them away into open enmity ('விடல்').",
+      "Background": "This delicate act of neutrality is visualized as them walking on a tightrope, keeping a careful, balanced distance from the untrustworthy figure. They are neither friend nor foe for the duration of the crisis."
+    },
+    "Art_Direction": {
+      "Subject_and_Action": "In a time of crisis, whether you trust a person or not, the wise path is one of neutrality: neither embrace them as an ally nor make them an open enemy.",
+      "Symbolic_Motifs": "The tightrope walk is the metaphor for the difficult, delicate balance of neutrality. The goal is to keep the untrustworthy person at a specific, managed distance.",
+      "Mood_and_Emotion": "Neutral, cautious, diplomatic, a delicate balance.",
+      "Lighting_and_Color": "A grey, uncertain, foggy atmosphere, reflecting the crisis. The tightrope and the two figures are the only clear elements.",
+      "Technical_Cues": {
+        "Camera": "A shot that emphasizes the tension and the skill required for the tightrope walk of neutrality.",
+        "Resolution": "8K, with a tense, atmospheric quality.",
+        "Lighting": "Misty, low-contrast lighting.",
+        "Art_Genre": "Psychological thriller aesthetic."
+      },
+      "Cultural_Anchors": [
+        "In a time of ruin ('அழிவின்கண்')",
+        "Neither separate from nor join with the untrustworthy.",
+        "The strategy of neutrality."
+      ]
+    },
+    "Negative_Prompt": "person hugging the enemy, person fighting the enemy, text artifacts.",
+    "Hyperparameters": {
+      "variant": "dev",
+      "steps": 45,
+      "cfg_scale": 8,
+      "seed": "Explore variations for the foggy atmosphere."
+    }
+  }
+}

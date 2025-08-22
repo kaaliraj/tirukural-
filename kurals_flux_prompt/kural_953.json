@@ -1,0 +1,40 @@
+{
+  "Kural_Info": {
+    "Number": 953,
+    "Chapter": "குடிமை (Nobility)",
+    "Tamil_Text": "நகைஈகை இன்சொல் இகழாமை நான்கும் வகையென்ப வாய்மைக் குடிக்கு.",
+    "English_Meaning": "A cheerful countenance, liberality, pleasant words, and an unreviling disposition, these four are said to be the proper qualities of the truly high-born."
+  },
+  "Flux_Optimized_Prompt": {
+    "Layered_Composition": {
+      "Foreground": "A truly noble person ('வாய்மைக் குடி') is shown, and four distinct qualities are emanating from them.",
+      "Midground": "A warm, genuine smile represents a cheerful disposition ('நகை'). An open, giving hand represents liberality ('ஈகை'). Their words are visualized as sweet honey, for pleasant speech ('இன்சொல்'). They are shown turning their back on a scene of mockery, representing their refusal to scorn others ('இகழாமை').",
+      "Background": "These four qualities are shown to be the natural 'way' or 'manner' ('வகை') of this person, defining their noble character."
+    },
+    "Art_Direction": {
+      "Subject_and_Action": "The four defining characteristics of the truly noble are: a smiling face, a giving hand, sweet words, and an absence of scorn.",
+      "Symbolic_Motifs": "Each of the four qualities is represented by a clear, positive, symbolic action or attribute.",
+      "Mood_and_Emotion": "Gracious, benevolent, pleasant, dignified.",
+      "Lighting_and_Color": "A warm, pleasant, and inviting golden light. The colors are soft and harmonious, reflecting the pleasing nature of the noble character.",
+      "Technical_Cues": {
+        "Camera": "A portrait that captures the four virtues in action.",
+        "Resolution": "8K, with a focus on the warm and gentle expression.",
+        "Lighting": "Soft, flattering light.",
+        "Art_Genre": "Idealized portraiture."
+      },
+      "Cultural_Anchors": [
+        "Smile ('நகை')",
+        "Generosity ('ஈகை')",
+        "Pleasant Speech ('இன்சொல்')",
+        "Not Scorning ('இகழாமை')"
+      ]
+    },
+    "Negative_Prompt": "a frowning face, a closed fist, harsh words, a scorning person, text artifacts.",
+    "Hyperparameters": {
+      "variant": "pro",
+      "steps": 45,
+      "cfg_scale": 7,
+      "seed": "Explore variations for the 'sweet words' visualization."
+    }
+  }
+}

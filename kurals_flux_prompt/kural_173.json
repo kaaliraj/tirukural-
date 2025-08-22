@@ -1,0 +1,39 @@
+{
+  "Kural_Info": {
+    "Number": 173,
+    "Chapter": "வெஃகாமை (Not Coveting)",
+    "Tamil_Text": "சிற்றின்பம் வெஃகி அறனல்ல செய்யாரேமற்றின்பம் வேண்டு பவர்.",
+    "English_Meaning": "Those who desire the higher pleasures (of heaven) will not act unjustly through desire of the trifling joy. (in this life)."
+  },
+  "Flux_Optimized_Prompt": {
+    "Layered_Composition": {
+      "Foreground": "A person stands at a crossroads. Their gaze is fixed upwards, towards a magnificent, celestial vision of 'higher, other-worldly pleasure' ('మற்று இன்பம்'), which is their ultimate goal.",
+      "Midground": "One of the paths before them offers a small, trivial, earthly pleasure ('சிற்றின்பம்'). This path is also dark and crooked, representing an unrighteous act ('అறன் அல்ல').",
+      "Background": "Because their desire is fixed on the great, celestial pleasure, they completely ignore and refuse to take the path of trivial, unrighteous, earthly pleasure. They will not commit the unjust act ('செய்யாரே')."
+    },
+    "Art_Direction": {
+      "Subject_and_Action": "Those who desire the great and lasting pleasure of the next world will not stoop to commit unjust acts for the sake of the trivial pleasures of this one.",
+      "Symbolic_Motifs": "The key is the person's focus. Their gaze is fixed on the greater goal, which makes the lesser temptation irrelevant. The contrast in scale and quality between the 'trivial pleasure' and the 'great pleasure' is crucial.",
+      "Mood_and_Emotion": "Farsighted, disciplined, aspirational, spiritual.",
+      "Lighting_and_Color": "The celestial pleasure is a brilliant, vast, golden light that draws the eye. The trivial, unjust pleasure is a small, flickering, and insignificant candle in a dark alley.",
+      "Technical_Cues": {
+        "Camera": "A shot from behind the person, showing their perspective as they ignore the small, dark path and gaze steadfastly towards the brilliant, celestial goal.",
+        "Resolution": "8K, ultra-realistic, with a grand, cosmic depiction of the 'higher pleasure'.",
+        "Lighting": "The celestial goal is the primary, aspirational light source.",
+        "Art_Genre": "Epic fantasy art, with a spiritual theme."
+      },
+      "Cultural_Anchors": [
+        "Those who desire the other pleasure (మற்று இன்பம் வேண்டுபவர்)",
+        "Will not do unrighteous things (అறன் அல்ல செய்யார்)",
+        "Desiring a trivial pleasure (சிற்றின்பம் வெஃகி)"
+      ]
+    },
+    "Negative_Prompt": "person choosing the small pleasure, text artifacts, ugly heaven.",
+    "Hyperparameters": {
+      "variant": "pro",
+      "steps": 50,
+      "cfg_scale": 8,
+      "seed": "Explore the visual of the 'celestial higher pleasure'."
+    }
+  }
+}

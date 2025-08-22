@@ -1,0 +1,39 @@
+{
+  "Kural_Info": {
+    "Number": 935,
+    "Chapter": "சூது (Gambling)",
+    "Tamil_Text": "கவறும் கழகமும் கையும் தருக்கி இவறியார் இல்லாகி யார்.",
+    "English_Meaning": "Penniless are those who by reason of their attachment would never forsake gambling, the gambling-place and the handling (of dice)."
+  },
+  "Flux_Optimized_Prompt": {
+    "Layered_Composition": {
+      "Foreground": "A gambler is shown completely enthralled by the three elements of their addiction.",
+      "Midground": "In front of them are the dice ('கவறு'). They are sitting in a dark, seedy gambling den ('கழகம்'). Their hands are shown expertly and pridefully handling the dice ('கையும் தருக்கி'). Their love for these three things is all-consuming.",
+      "Background": "Because of this obsessive attachment, their entire world outside the game has vanished. Their home, family, and wealth are gone, replaced by a bleak, empty void. They have become completely destitute ('இல்லாகியார்')."
+    },
+    "Art_Direction": {
+      "Subject_and_Action": "Those who are pridefully attached to the dice, the gambling den, and the act of playing will inevitably lose everything and become destitute.",
+      "Symbolic_Motifs": "The focus on the three elements (dice, den, hands) as the objects of a destructive love is key. The background dissolving into an empty void shows the totality of their loss.",
+      "Mood_and_Emotion": "Addictive, obsessive, destitute, a world shrunk to nothing.",
+      "Lighting_and_Color": "A single, sickly, low-hanging lamp illuminates the gambling table, creating a claustrophobic and obsessive atmosphere. The rest of the world is a dark, empty black.",
+      "Technical_Cues": {
+        "Camera": "A tight, close-up shot on the gambler's hands and the dice, with their face showing a crazed obsession. The background is a stark void.",
+        "Resolution": "8K, with a gritty, noir feel.",
+        "Lighting": "Single-source, low-key lighting.",
+        "Art_Genre": "Psychological realism, with a symbolic background."
+      },
+      "Cultural_Anchors": [
+        "Attachment to Dice, Den, and the act of Playing",
+        "Becoming destitute ('இல்லாகியார்')",
+        "The all-consuming nature of gambling addiction."
+      ]
+    },
+    "Negative_Prompt": "a rich gambler, a bright and happy background, text artifacts.",
+    "Hyperparameters": {
+      "variant": "pro",
+      "steps": 50,
+      "cfg_scale": 8,
+      "seed": "Explore variations for the gambling den."
+    }
+  }
+}

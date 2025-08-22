@@ -1,0 +1,38 @@
+{
+  "Kural_Info": {
+    "Number": 1024,
+    "Chapter": "குடிசெயல்வகை (The Way of Maintaining the Family)",
+    "Tamil_Text": "சூழாமல் தானே முடிவெய்தும் தம்குடியைத்தாழாது உஞற்று பவர்க்கு.",
+    "English_Meaning": "Those who are prompt in their efforts (to better their family) need no deliberation, such efforts will of themselves succeed."
+  },
+  "Flux_Optimized_Prompt": {
+    "Layered_Composition": {
+      "Foreground": "A person is shown working with tireless, un-delaying effort to uplift their family ('தாழாது உஞற்றுபவர்'). They are not stopping to make elaborate plans or deliberate.",
+      "Midground": "Their very effort itself is shown to have a kind of magical, automatic intelligence.",
+      "Background": "The goal they are working towards—a prosperous and well-maintained family home—is shown assembling itself automatically ('தானே முடிவு எய்தும்'), without the need for conscious deliberation ('சூழாமல்'). The materials fly into place on their own, guided by the sheer force and virtue of the person's tireless work."
+    },
+    "Art_Direction": {
+      "Subject_and_Action": "For those who work tirelessly to elevate their family, success will come automatically and effortlessly, as if the work completes itself without the need for complex planning.",
+      "Symbolic_Motifs": "The self-assembling house is the key magical realist element. It shows that the universe itself conspires to complete the work of the truly diligent. The worker's focus is on the effort, not the plan, and the plan takes care of itself.",
+      "Mood_and_Emotion": "Effortless success, magical, automatic, blessed.",
+      "Lighting_and_Color": "A bright, magical, constructive light surrounds the scene. The self-assembling house is put together by beams of golden, purposeful light. The worker glows with the aura of their tireless effort.",
+      "Technical_Cues": {
+        "Camera": "A dynamic shot that shows the tireless worker in the foreground and the magical, self-completing goal in the background.",
+        "Resolution": "8K, ultra-realistic, with magical construction effects like in a fantasy film.",
+        "Lighting": "Bright, constructive, and magical lighting.",
+        "Art_Genre": "Magical realism, fantasy art."
+      },
+      "Cultural_Anchors": [
+        "For those who strive without delay (தாழாது உஞற்றுபவர்க்கு)",
+        "The result will be achieved by itself, without deliberation (சூழாமல் தானே முடிவு எய்தும்)"
+      ]
+    },
+    "Negative_Prompt": "person struggling with plans, house collapsing, text artifacts, tired worker.",
+    "Hyperparameters": {
+      "variant": "pro",
+      "steps": 50,
+      "cfg_scale": 8,
+      "seed": "Explore the visual of the 'self-assembling house'."
+    }
+  }
+}

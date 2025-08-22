@@ -1,0 +1,33 @@
+{
+  "Kural_Info": {
+    "Number": 1152,
+    "Chapter": "பிரிவாற்றாமை (Separation unendurable)",
+    "Tamil_Text": "இன்கண் உடைத்தவர் பார்வல் பிரிவஞ்சும்புன்கண் உடைத்தால் புணர்வு.",
+    "English_Meaning": "It once was perfect joy to look upon his face; But now the fear of parting saddens each embrace."
+  },
+  "Flux_Optimized_Prompt": {
+    "Layered_Composition": {
+      "Foreground": "A couple is locked in a close embrace ('Punravu'). However, their expressions are not of pure joy, but tinged with a deep sadness.",
+      "Midground": "A shadowy, menacing figure of 'Pirivu' (Separation) looms behind them, casting a dark pall over what should be a happy moment. This shadow represents their fear ('Anjum').",
+      "Background": "The memory of a past moment is shown as a bright, glowing vignette, where they looked at each other with pure, unadulterated joy ('Inkan udaithavar paarval'). This contrasts sharply with the present, fear-tinged embrace."
+    },
+    "Art_Direction": {
+      "Subject_and_Action": "The sorrowful paradox where the joy of being together is corrupted by the imminent fear of separation.",
+      "Symbolic_Motifs": "The looming shadow of Separation is the key visual metaphor. The contrast between the bright memory and the shadowed present highlights the change in their emotional state.",
+      "Mood_and_Emotion": "Bittersweet, melancholic, sorrowful, anxious.",
+      "Lighting_and_Color": "The present scene is cast in cool, shadowed light, with the dark shadow of Separation dominating. The memory vignette is bathed in a warm, golden, happy light."
+    },
+    "Technical_Cues": {
+      "Camera": "Medium shot focusing on the couple's sad faces during the embrace, with the shadow looming large behind them.",
+      "Resolution": "8K, ultra-realistic, capturing the subtle and complex emotions of bittersweet love.",
+      "Lighting": "High-contrast lighting, using shadows to convey the sense of dread and fear.",
+      "Art_Genre": "Psychological realism, with symbolic elements."
+    },
+    "Cultural_Anchors": [
+      "பிரிவச்சம் (Fear of separation)",
+      "The bittersweet nature of love",
+      "புணர்வு (Union/Embrace)"
+    ]
+  },
+  "Negative_Prompt": "happy couple, no shadow, modern attire, text artifacts, cartoonish, bright and cheerful overall."
+}

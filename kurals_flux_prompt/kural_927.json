@@ -1,0 +1,39 @@
+{
+  "Kural_Info": {
+    "Number": 927,
+    "Chapter": "கள்ளுண்ணாமை (Not Drinking Palm-Wine)",
+    "Tamil_Text": "உள்ளொற்றி உள்ளூர் நகப்படுவர் எஞ்ஞான்றும் கள்ளொற்றிக் கண்சாய் பவர்.",
+    "English_Meaning": "Those who always intoxicate themselves by a private (indulgence in) drink; will have their secrets detected and laughed at by their fellow-townsmen."
+  },
+  "Flux_Optimized_Prompt": {
+    "Layered_Composition": {
+      "Foreground": "A person is shown drinking wine in secret, thinking they are unobserved ('கள் ஒற்றி'). They become drunk, and their eyes become drowsy ('கண் சாய்பவர்').",
+      "Midground": "As they become intoxicated, their own deepest secrets, which they keep hidden in their heart ('உள்'), are shown to be leaking out of them like visible, ghostly whispers.",
+      "Background": "The person's own townspeople ('உள்ளூர்') are shown observing this. They are catching the ghostly secrets and are laughing with scorn and derision ('நகப்படுவர்'). The secret drinker's attempt at privacy has failed completely."
+    },
+    "Art_Direction": {
+      "Subject_and_Action": "Those who drink in secret will inevitably have their hidden secrets revealed and will become the laughingstock of their own community.",
+      "Symbolic_Motifs": "The secrets leaking out as ghostly whispers is the key visual metaphor. This shows how intoxication leads to the revelation of what is hidden within.",
+      "Mood_and_Emotion": "Shameful, exposed, ridiculous.",
+      "Lighting_and_Color": "The secret drinking spot is dark, but the leaking secrets glow with an incriminating light. The laughing townspeople are in the bright, public light.",
+      "Technical_Cues": {
+        "Camera": "A shot that shows the drinker, the leaking secrets, and the laughing observers all in one frame.",
+        "Resolution": "8K, with ethereal effects for the secrets.",
+        "Lighting": "High-contrast lighting between the secret place and the public ridicule.",
+        "Art_Genre": "Symbolic realism, with a satirical tone."
+      },
+      "Cultural_Anchors": [
+        "Drinking in Secret ('கள் ஒற்றி')",
+        "Secrets from within ('உள் ஒற்றி')",
+        "Being laughed at by one's own people ('உள்ளூர் நகப்படுவர்')"
+      ]
+    },
+    "Negative_Prompt": "a successful secret drinker, respectful townspeople, text artifacts.",
+    "Hyperparameters": {
+      "variant": "pro",
+      "steps": 50,
+      "cfg_scale": 8,
+      "seed": "Explore variations for the ghostly whispers."
+    }
+  }
+}

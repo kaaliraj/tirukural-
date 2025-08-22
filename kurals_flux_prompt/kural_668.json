@@ -1,0 +1,39 @@
+{
+  "Kural_Info": {
+    "Number": 668,
+    "Chapter": "வினைத்திட்பம் (Power in Action)",
+    "Tamil_Text": "கலங்காது கண்ட வினைக்கண் துளங்காதுதூக்கங் கடிந்து செயல்.",
+    "English_Meaning": "What clearly eye discerns as right, with steadfast will, And mind unslumbering, that should man fulfil."
+  },
+  "Flux_Optimized_Prompt": {
+    "Layered_Composition": {
+      "Foreground": "A person is shown executing a difficult task. Their mind is visualized as a perfectly calm, clear body of water, showing they have already understood the task without confusion ('கலங்காது கண்ட வினை').",
+      "Midground": "Their body and will are depicted as a solid, unshakeable rock, showing their unwavering resolve during the action ('துளங்காது').",
+      "Background": "Their eyes are wide open and alert, banishing a shadowy figure of sleep or procrastination ('தூக்கம் கடிந்து'). They are performing the action with this threefold firmness."
+    },
+    "Art_Direction": {
+      "Subject_and_Action": "The proper way to perform an action that has been clearly understood is with unwavering resolve and by banishing all procrastination.",
+      "Symbolic_Motifs": "The three metaphors for firmness are key: a clear mind (calm water), a firm will (unshakeable rock), and an alert disposition (banishing sleep). All three combine to ensure the action ('செயல்') is performed perfectly.",
+      "Mood_and_Emotion": "Resolute, clear, unwavering, alert, disciplined.",
+      "Lighting_and_Color": "A bright, clear, and focused light illuminates the scene. The water of the mind is crystal clear, the rock of the will is solid and strong, and the eyes are bright and alert. The shadow of sleep is weak and easily driven away.",
+      "Technical_Cues": {
+        "Camera": "A powerful shot that uses symbolic overlays to visualize the three aspects of the person's firmness as they act.",
+        "Resolution": "8K, ultra-realistic, with strong symbolic imagery for the water, rock, and shadow of sleep.",
+        "Lighting": "Clear, focused lighting to represent a clear and focused mind.",
+        "Art_Genre": "Symbolic realism, motivational art."
+      },
+      "Cultural_Anchors": [
+        "An action seen without confusion (கலங்காது கண்ட வினை)",
+        "Without wavering (துளங்காது)",
+        "Banishng sleep/procrastination (தூக்கம் கடிந்து)"
+      ]
+    },
+    "Negative_Prompt": "confused mind, wavering body, sleepy person, text artifacts.",
+    "Hyperparameters": {
+      "variant": "pro",
+      "steps": 50,
+      "cfg_scale": 8,
+      "seed": "Explore the visual of banishing the 'shadow of sleep'."
+    }
+  }
+}

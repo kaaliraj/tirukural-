@@ -1,0 +1,38 @@
+{
+  "Kural_Info": {
+    "Number": 219,
+    "Chapter": "ஒப்புரவறிதல் (Duty to Society)",
+    "Tamil_Text": "நயனுடையான் நல்கூர்ந்தா னாதல் செயும்நீரசெய்யாது அமைகலா வாறு.",
+    "English_Meaning": "The poverty of a benevolent man, is nothing but his inability to exercise the same."
+  },
+  "Flux_Optimized_Prompt": {
+    "Layered_Composition": {
+      "Foreground": "A benevolent person ('நயனுடையான்') is shown. Their heart is a brilliant, overflowing spring of generosity.",
+      "Midground": "However, they have fallen into poverty ('நல்கூர்ந்தான் ஆதல்'). This is visualized as their hands being empty; they have no material goods to give.",
+      "Background": "The true nature of their 'poverty' is revealed. It is not the lack of things for themselves, but the profound pain and inability to perform the good deeds they wish to do ('செய்யும் நீர செய்யாது அமைகலா ஆறு'). Their suffering is shown to be the frustration of their generous spirit, not their empty stomach."
+    },
+    "Art_Direction": {
+      "Subject_and_Action": "The only true poverty a benevolent person experiences is the pain of being unable to help others.",
+      "Symbolic_Motifs": "The heart as an overflowing spring, contrasted with the empty hands, is the central visual. This shows that their inner nature to give is still powerful, but their outer means are lacking. Their expression is not one of hunger, but of a frustrated, pained desire to be generous.",
+      "Mood_and_Emotion": "Frustrated generosity, poignant, selfless sorrow.",
+      "Lighting_and_Color": "The person's heart glows with a warm, powerful, golden light of benevolence. However, this light is trapped, unable to manifest as action through their empty hands. The overall scene is lit with a soft, melancholic light.",
+      "Technical_Cues": {
+        "Camera": "A close-up on the person, showing their pained expression, their empty hands, and a symbolic, transparent view of their glowing, generous heart.",
+        "Resolution": "8K, ultra-realistic, with a deep focus on capturing the specific emotion of 'frustrated benevolence'.",
+        "Lighting": "The trapped, internal light of the heart should be the primary, poignant light source.",
+        "Art_Genre": "Psychological realism, with symbolic elements."
+      },
+      "Cultural_Anchors": [
+        "The poverty of a benevolent man (நயனுடையான் நல்கூர்ந்தான் ஆதல்)",
+        "Is the inability to do the deeds he would do (செய்யும் நீர செய்யாது அமைகலா ஆறு)"
+      ]
+    },
+    "Negative_Prompt": "selfish poor person, happy poor person, text artifacts.",
+    "Hyperparameters": {
+      "variant": "pro",
+      "steps": 50,
+      "cfg_scale": 8,
+      "seed": "Explore the expression of 'frustrated generosity'."
+    }
+  }
+}

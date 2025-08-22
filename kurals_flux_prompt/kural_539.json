@@ -1,0 +1,39 @@
+{
+  "Kural_Info": {
+    "Number": 539,
+    "Chapter": "பொச்சாவாமை (Unforgetfulness)",
+    "Tamil_Text": "இகழ்ச்சியின் கெட்டாரை உள்ளுக தாந்தம் மகிழ்ச்சியின் மைந்துறும் போழ்து.",
+    "English_Meaning": "Let (a king) think of those who have been ruined by neglect, when his mind is elated with joy."
+  },
+  "Flux_Optimized_Prompt": {
+    "Layered_Composition": {
+      "Foreground": "A king is shown in a moment of great triumph and joy ('மகிழ்ச்சியின் மைந்துறும் போழ்து'). He is celebrating, surrounded by luxury and praise.",
+      "Midground": "However, in a large mirror or a reflecting pool before him, he is not seeing his own happy reflection. Instead, he sees the ghostly, tragic images of past kings who were ruined by their own carelessness and arrogance ('இகழ்ச்சியின் கெட்டாரை').",
+      "Background": "The ghostly images in the reflection show these past kings at their moment of downfall, their crowns falling and their kingdoms in flames, serving as a stark warning."
+    },
+    "Art_Direction": {
+      "Subject_and_Action": "In moments of elation and pride, one should remember the fates of those who were ruined by carelessness, as a check against one's own potential for error.",
+      "Symbolic_Motifs": "The reflection showing the ruined kings instead of himself is the central, powerful metaphor. It is the act of remembering ('உள்ளுக') in the midst of celebration.",
+      "Mood_and_Emotion": "Sobering, cautionary, introspective, wise, humbling.",
+      "Lighting_and_Color": "The king's celebration is lit with bright, ecstatic, perhaps dangerously dazzling light. The reflection is dark, ghostly, and tragic, with the red glow of fires.",
+      "Technical_Cues": {
+        "Camera": "A shot focusing on the king's face as his expression changes from joy to thoughtful sobriety while looking at the reflection.",
+        "Resolution": "8K, with high-quality reflection and ghostly effects.",
+        "Lighting": "Contrasting light between the real world and the reflected warning.",
+        "Art_Genre": "Historical fantasy, psychological realism."
+      },
+      "Cultural_Anchors": [
+        "Remembering the Ruined ('கெட்டாரை உள்ளுக')",
+        "In a moment of Joy/Pride ('மகிழ்ச்சியின் மைந்துறும் போழ்து')",
+        "The practice of Memento Mori."
+      ]
+    },
+    "Negative_Prompt": "king ignoring the reflection, happy ghosts, text artifacts, cartoonish.",
+    "Hyperparameters": {
+      "variant": "dev",
+      "steps": 45,
+      "cfg_scale": 9,
+      "seed": "Explore variations for the ghostly images of the ruined kings."
+    }
+  }
+}

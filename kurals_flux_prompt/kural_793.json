@@ -1,0 +1,40 @@
+{
+  "Kural_Info": {
+    "Number": 793,
+    "Chapter": "நட்பாராய்தல் (Investigation in forming Friendships)",
+    "Tamil_Text": "குணமும் குடிமையும் குற்றமும் குன்றா இனனும் அறிந்தியாக்க நட்பு.",
+    "English_Meaning": "Make friendship (with one) after ascertaining (his) character, birth, defects and the whole of one's relations."
+  },
+  "Flux_Optimized_Prompt": {
+    "Layered_Composition": {
+      "Foreground": "A wise person is considering making a friendship. Before they do, they are shown conducting a thorough investigation using a set of four magical lenses.",
+      "Midground": "The first lens reveals the person's true inner character ('குணம்'). The second reveals the nature of their family and lineage ('குடிமை'). The third reveals any hidden faults or vices ('குற்றம்'). The fourth reveals the quality of their friends and associates ('இனன்').",
+      "Background": "Only after looking through all four lenses and getting a complete, multi-faceted understanding of the person do they extend a hand of friendship ('ஆக்க நட்பு')."
+    },
+    "Art_Direction": {
+      "Subject_and_Action": "One should form a friendship only after thoroughly investigating four aspects of a person: their character, their family background, their faults, and their circle of friends.",
+      "Symbolic_Motifs": "The four magical lenses of investigation are the central metaphor, each providing a different, crucial layer of information.",
+      "Mood_and_Emotion": "Analytical, thorough, discerning, cautious, wise.",
+      "Lighting_and_Color": "A clear, analytical light. Each lens can have a different colored tint, revealing a different aspect of the person being scrutinized.",
+      "Technical_Cues": {
+        "Camera": "A shot from the perspective of the investigator, looking through the different lenses at the potential friend.",
+        "Resolution": "8K, with surreal effects for the information revealed by the lenses.",
+        "Lighting": "Clean, bright lighting to suggest a clear-eyed investigation.",
+        "Art_Genre": "Fantasy realism, with a detective/investigative feel."
+      },
+      "Cultural_Anchors": [
+        "Investigating Character ('குணம்')",
+        "Investigating Family ('குடிமை')",
+        "Investigating Faults ('குற்றம்')",
+        "Investigating Friends ('இனன்')"
+      ]
+    },
+    "Negative_Prompt": "person making friends blindly, blurry lenses, text artifacts, cartoonish.",
+    "Hyperparameters": {
+      "variant": "pro",
+      "steps": 50,
+      "cfg_scale": 8,
+      "seed": "Explore variations for what the four lenses reveal."
+    }
+  }
+}

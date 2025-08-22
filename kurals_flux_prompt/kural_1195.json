@@ -1,0 +1,33 @@
+{
+  "Kural_Info": {
+    "Number": 1195,
+    "Chapter": "தனிப்படர்மிகுதி (The Solitary Anguish)",
+    "Tamil_Text": "நாம்காதல் கொண்டார் நமக்கெவன் செய்பவோதாம்காதல் கொள்ளாக் கடை.",
+    "English_Meaning": "He who is beloved by me, what will he do to me, if I am not beloved by him ?."
+  },
+  "Flux_Optimized_Prompt": {
+    "Layered_Composition": {
+      "Foreground": "A woman stands with her heart open, from which a bridge of light ('Naam Kaathal') extends outwards.",
+      "Midground": "The bridge of light reaches towards her beloved in the distance, but it stops short, unable to connect, because he does not reciprocate ('Thaam Kaathal Kollaak Kadai'). He stands on an isolated cliff, with no corresponding bridge extending from his heart.",
+      "Background": "A vast, empty chasm separates the two, symbolizing the uncrossable distance of unrequited love. The question 'Namukkevan Seivavo?' ('What can he do for me?') hangs in the air, unanswered."
+    },
+    "Art_Direction": {
+      "Subject_and_Action": "A visual representation of the helplessness of one-sided love. If the love is not returned, the connection fails, and the beloved can offer nothing, rendering the lover's feelings powerless.",
+      "Symbolic_Motifs": "The incomplete bridge of light is the central metaphor. The isolated cliff of the beloved represents his emotional unavailability.",
+      "Mood_and_Emotion": "Helpless, poignant, sorrowful, questioning.",
+      "Lighting_and_Color": "The woman and her bridge of light are filled with a warm, hopeful glow. However, this light fades into the darkness of the chasm. The beloved is in cool, distant, shadowy light."
+    },
+    "Technical_Cues": {
+      "Camera": "Epic wide shot that captures the full scale of the chasm and the failed connection of the light bridge.",
+      "Resolution": "8K, fantasy realism, with beautiful but tragic light effects.",
+      "Lighting": "High-contrast lighting that emphasizes the separation and the futility of the connection.",
+      "Art_Genre": "Symbolic fantasy landscape."
+    },
+    "Cultural_Anchors": [
+      "Unrequited love",
+      "The powerlessness of one-sided affection",
+      "The metaphor of a bridge for connection"
+    ]
+  },
+  "Negative_Prompt": "a completed bridge, a happy couple, modern setting, text artifacts, cartoonish, blurry."
+}

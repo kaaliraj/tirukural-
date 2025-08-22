@@ -1,0 +1,40 @@
+{
+  "Kural_Info": {
+    "Number": 960,
+    "Chapter": "குடிமை (Nobility)",
+    "Tamil_Text": "நலம்வேண்டின் நாணுடைமை வேண்டும் குலம்வேண்டின்வேண்டுக யார்க்கும் பணிவு.",
+    "English_Meaning": "Who seek for good the grace of virtuous shame must know; Who seek for noble name to all must reverence show."
+  },
+  "Flux_Optimized_Prompt": {
+    "Layered_Composition": {
+      "Foreground": "A split image. On the left, a person embodying 'Nalam' (Goodness) shows 'Naan' (virtuous shame/modesty) by subtly averting their gaze from impropriety. On the right, a person embodying 'Kulam' (Nobility) shows 'Panivu' (humility) by respectfully bowing to an elder.",
+      "Midground": "Behind the figure on the left, a soft, protective aura of light forms, symbolizing the shield of modesty. Behind the figure on the right, their family crest or symbol glows brighter as they bow, signifying that humility enhances their lineage.",
+      "Background": "A serene, classical Tamil setting like a temple courtyard or a scholarly gathering, suggesting the social context where these virtues are valued."
+    },
+    "Art_Direction": {
+      "Subject_and_Action": "A visual representation of the two core requirements for nobility: modesty for personal goodness, and humility towards others for maintaining the honor of one's lineage.",
+      "Symbolic_Motifs": "The glowing aura for 'Naan' and the brightening family crest for 'Panivu' are key symbols. The respectful bow and the averted gaze are the central actions.",
+      "Mood_and_Emotion": "Respectful, dignified, virtuous, serene.",
+      "Lighting_and_Color": "Soft, warm, and gentle lighting. A palette of whites, sandalwoods, and soft golds to evoke purity and dignity. The light source feels natural and calming."
+    },
+    "Technical_Cues": {
+      "Camera": "Dual medium shot, 50mm lens, balanced composition, allowing the viewer to contemplate both scenes.",
+      "Resolution": "8K, photorealistic, capturing the subtle emotions of modesty and humility.",
+      "Lighting": "Softbox lighting, creating gentle highlights and minimal shadows to enhance the serene mood.",
+      "Art_Genre": "Classical digital painting, inspired by the aesthetics of Raja Ravi Varma, focusing on grace and emotion."
+    },
+    "Cultural_Anchors": [
+      "நாணுடைமை (Virtuous Shame/Modesty)",
+      "பணிவு (Humility/Reverence)",
+      "நலம் (Goodness)",
+      "குலம் (Noble Lineage)"
+    ]
+  },
+  "Negative_Prompt": "arrogant expressions, modern clothing, dark atmosphere, confrontational poses, text artifacts, blurry, cartoonish.",
+  "Hyperparameters": {
+    "variant": "dev",
+    "steps": 50,
+    "cfg_scale": 8,
+    "seed": "Explore variations for the elder's appearance."
+  }
+}

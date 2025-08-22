@@ -1,0 +1,39 @@
+{
+  "Kural_Info": {
+    "Number": 362,
+    "Chapter": "அவாவறுத்தல் (Curbing of Desire)",
+    "Tamil_Text": "வேண்டுங்கால் வேண்டும் பிறவாமை மற்றது வேண்டாமை வேண்ட வரும்.",
+    "English_Meaning": "If desire is to be desired, it should be for non-birth; that will be realized if there is desire for the absence of desire."
+  },
+  "Flux_Optimized_Prompt": {
+    "Layered_Composition": {
+      "Foreground": "A figure stands at a crossroads. One path leads into a chaotic, dense city filled with fleeting pleasures, representing the cycle of birth ('பிறவாமை').",
+      "Midground": "The other path leads to a serene, empty mountain peak bathed in dawn light, representing liberation through non-desire ('வேண்டாமை').",
+      "Background": "The chaotic city path is under a stormy, dark sky. The path to the mountain peak is under a clear, dawning sky, symbolizing enlightenment."
+    },
+    "Art_Direction": {
+      "Subject_and_Action": "A soul's critical choice: to pursue worldly desires leading to rebirth or to desire 'non-desire' itself, leading to liberation.",
+      "Symbolic_Motifs": "The path of desire is cluttered with objects of temptation (gold, crowns, etc.). The path of non-desire is empty, marked only by a single, steady flame of inner wisdom.",
+      "Mood_and_Emotion": "Contemplative, decisive, spiritual, a moment of profound choice.",
+      "Lighting_and_Color": "A stark contrast between the chaotic, artificially lit city path (neons, reds, darks) and the natural, pure golden light of dawn on the mountain path."
+    },
+    "Technical_Cues": {
+      "Camera": "Wide shot from behind the figure, emphasizing the two paths. 35mm lens.",
+      "Resolution": "8K, ultra-realistic, with painterly effects for the symbolic elements.",
+      "Lighting": "High-contrast, dual lighting sources. God rays illuminate the path of non-desire.",
+      "Art_Genre": "Symbolic realism, allegorical digital painting."
+    },
+    "Cultural_Anchors": [
+      "Concept of 'Piravamai' (Non-birth/Liberation)",
+      "Concept of 'Vendamai' (Desirelessness)",
+      "Spiritual choice (Nirvana/Moksha)"
+    ]
+  },
+  "Negative_Prompt": "smiling figure, crowds on the mountain path, blurry, text, cartoonish, oversaturated, human figures on the path.",
+  "Hyperparameters": {
+    "variant": "dev",
+    "steps": 40,
+    "cfg_scale": 9,
+    "seed": "Explore variations in the sky contrast."
+  }
+}

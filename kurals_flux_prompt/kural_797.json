@@ -1,0 +1,39 @@
+{
+  "Kural_Info": {
+    "Number": 797,
+    "Chapter": "நட்பாராய்தல் (Investigation in forming Friendships)",
+    "Tamil_Text": "ஊதியம் என்பது ஒருவற்குப் பேதையார் கேண்மை ஒரீஇ விடல்.",
+    "English_Meaning": "It is indeed a gain for one to renounce the friendship of fools."
+  },
+  "Flux_Optimized_Prompt": {
+    "Layered_Composition": {
+      "Foreground": "A person is shown actively pushing away and breaking ties with a group of foolish, clown-like figures ('பேதையார் கேண்மை ஒரீஇ விடல்').",
+      "Midground": "The moment the bond with the fools is broken, a magnificent, glowing treasure chest appears at the person's feet, overflowing with gold and jewels.",
+      "Background": "This shows that the act of renouncing foolish friendship is not a loss, but a great profit ('ஊதியம்') in itself."
+    },
+    "Art_Direction": {
+      "Subject_and_Action": "The greatest profit one can gain is to get rid of the friendship of fools.",
+      "Symbolic_Motifs": "The appearance of a treasure chest at the very moment of breaking ties with fools is a direct, literal representation of this act as a 'profit'. The fools can be depicted as jesters or clowns to signify their nature.",
+      "Mood_and_Emotion": "Liberating, profitable, wise, a good riddance.",
+      "Lighting_and_Color": "The fools are in a chaotic, garish light. The person and the treasure chest are bathed in a brilliant, golden light of newfound prosperity and wisdom.",
+      "Technical_Cues": {
+        "Camera": "A dynamic shot capturing the moment the person breaks free and the treasure appears.",
+        "Resolution": "8K, with a strong, symbolic narrative.",
+        "Lighting": "The treasure chest is the main source of light, rewarding the wise decision.",
+        "Art_Genre": "Allegorical realism."
+      }
+    },
+    "Cultural_Anchors": [
+      "Profit ('ஊதியம்')",
+      "Renouncing the friendship of fools ('பேதையார் கேண்மை ஒரீஇ விடல்')",
+      "The benefit of cutting ties."
+    ]
+  },
+  "Negative_Prompt": "person embracing the fools, an empty chest appears, text artifacts, cartoonish.",
+  "Hyperparameters": {
+    "variant": "dev",
+    "steps": 40,
+    "cfg_scale": 8,
+    "seed": "Explore variations for the clown-like fools."
+  }
+}

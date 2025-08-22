@@ -1,0 +1,39 @@
+{
+  "Kural_Info": {
+    "Number": 709,
+    "Chapter": "குறிப்பறிதல் (The Knowledge of Indications)",
+    "Tamil_Text": "பகைமையும் கேண்மையும் கண்ணுரைக்கும் கண்ணின் வகைமை உணர்வார்ப் பெறின்.",
+    "English_Meaning": "The eye speaks out the hate or friendly soul of man; To those who know the eye's swift varying moods to scan."
+  },
+  "Flux_Optimized_Prompt": {
+    "Layered_Composition": {
+      "Foreground": "An extreme close-up on a pair of human eyes.",
+      "Midground": "The eyes are shown in a state of transformation. On the left, the pupil and iris morph into a sharp, aggressive symbol, like a dagger, clearly communicating hatred ('பகைமை'). On the right, the same eye morphs its pattern into a warm, welcoming, open hand, clearly communicating friendship ('கேண்மை').",
+      "Background": "A wise observer, who can understand the language of the eyes ('கண்ணின் வகைமை உணர்வார்'), is shown watching this transformation and understanding the person's true feelings instantly."
+    },
+    "Art_Direction": {
+      "Subject_and_Action": "To one who knows how to read them, the eyes themselves will speak and reveal whether a person feels hatred or friendship.",
+      "Symbolic_Motifs": "The literal transformation of the eye's iris into symbols of hate and friendship is the central, surreal metaphor.",
+      "Mood_and_Emotion": "Revealing, expressive, communicative, perceptive.",
+      "Lighting_and_Color": "The 'hate' eye has a cold, sharp, reddish light. The 'friendship' eye has a warm, soft, golden light.",
+      "Technical_Cues": {
+        "Camera": "An extreme macro close-up of the eye, capturing the impossible, symbolic transformation.",
+        "Resolution": "8K, with detailed and surreal iris effects.",
+        "Lighting": "The light emanates from the eye itself, changing with the emotion.",
+        "Art_Genre": "Surrealism, symbolic art."
+      }
+    },
+    "Cultural_Anchors": [
+      "The eye speaks hatred and friendship ('பகைமையும் கேண்மையும் கண் உரைக்கும்')",
+      "For those who understand the eye's nature ('கண்ணின் வகைமை உணர்வார்')",
+      "The eye as a window to the soul."
+    ]
+  },
+  "Negative_Prompt": "emotionless eye, text artifacts, cartoonish.",
+  "Hyperparameters": {
+    "variant": "pro",
+    "steps": 50,
+    "cfg_scale": 8,
+    "seed": "Explore variations for the symbolic iris patterns."
+  }
+}

@@ -1,0 +1,38 @@
+{
+  "Kural_Info": {
+    "Number": 280,
+    "Chapter": "கூடா ஒழுக்கம் (Imposture)",
+    "Tamil_Text": "மழித்தலும் நீட்டலும் வேண்டா உலகம்பழித்தது ஒழித்து விடின்.",
+    "English_Meaning": "There is no need of a shaven head, nor of tangled hair, if a man abstain from those deeds which the wise have condemned."
+  },
+  "Flux_Optimized_Prompt": {
+    "Layered_Composition": {
+      "Foreground": "A person is shown decisively turning their back on and abandoning all the actions that the world condemns ('உலகம் பழித்தது ஒழித்து விடின்'). These are represented as a pile of dark, ugly, broken objects.",
+      "Midground": "Because they have made this core, internal choice, their outward appearance is shown to be irrelevant.",
+      "Background": "Two spectral, unnecessary versions of the person are shown fading away. One has a shaven head ('மழித்தல்'), the other has long, matted hair ('நீட்டல்'). The image makes it clear that these external signs of piety are 'not needed' ('வேண்டா') once the internal change has been made."
+    },
+    "Art_Direction": {
+      "Subject_and_Action": "External ascetic appearances like a shaven head or matted locks are completely unnecessary if a person simply abandons the actions that are condemned by the world.",
+      "Symbolic_Motifs": "The focus is on the primary importance of inner action over outer appearance. The shaven head and matted locks are presented as optional, unnecessary costumes once the real work of renouncing evil has been done.",
+      "Mood_and_Emotion": "Authentic, essential, direct, unadorned virtue.",
+      "Lighting_and_Color": "A clear, simple, and honest light. The person is dressed simply. The rejected evil deeds are dark and ugly. The fading spectral images of the ascetic appearances are insubstantial.",
+      "Technical_Cues": {
+        "Camera": "A shot that focuses on the person's powerful act of renouncing evil deeds, with the external ascetic appearances shown as fading, secondary ghosts.",
+        "Resolution": "8K, ultra-realistic, with a focus on the person's sincere, resolute expression.",
+        "Lighting": "Clean, honest lighting that emphasizes the purity of the internal choice.",
+        "Art_Genre": "Symbolic realism."
+      },
+      "Cultural_Anchors": [
+        "Shaving the head and letting hair grow long are not needed (மழித்தலும் நீட்டலும் வேண்டா)",
+        "If one abandons what the world condemns (உலகம் பழித்தது ஒழித்து விடின்)"
+      ]
+    },
+    "Negative_Prompt": "person focusing on hairstyle, clinging to evil deeds, text artifacts.",
+    "Hyperparameters": {
+      "variant": "pro",
+      "steps": 50,
+      "cfg_scale": 7,
+      "seed": "Explore the visual of the fading 'ascetic ghosts'."
+    }
+  }
+}

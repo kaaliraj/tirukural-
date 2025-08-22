@@ -1,0 +1,38 @@
+{
+  "Kural_Info": {
+    "Number": 223,
+    "Chapter": "ஈகை (Giving)",
+    "Tamil_Text": "இலனென்னும் எவ்வம் உரையாமை ஈதல்குலனுடையான் கண்ணே யுள.",
+    "English_Meaning": "(Even in a low state) not to adopt the mean expedient of saying \"I have nothing,\" but to give, is the characteristic of the mad of noble birth."
+  },
+  "Flux_Optimized_Prompt": {
+    "Layered_Composition": {
+      "Foreground": "A person of noble birth ('குலன் உடையான்') is shown in a state of extreme poverty. Their own stores are empty.",
+      "Midground": "A beggar approaches them. The noble person is shown biting their tongue, refusing to speak the shameful words, 'I have nothing' ('இலன் என்னும் எவ்வம் உரையாமை').",
+      "Background": "Instead, they find the last remaining item of value they own—perhaps a small, simple piece of jewelry or their own cloak—and they give this away ('ஈதல்'). This act of giving, even in poverty, is shown to be the defining characteristic of their nobility."
+    },
+    "Art_Direction": {
+      "Subject_and_Action": "The mark of a truly noble person is that, even in their own poverty, they will not speak the excuse of having nothing, but will instead find something to give.",
+      "Symbolic_Motifs": "The physical act of biting the tongue to prevent the shameful words from escaping is a key visual. The contrast between their own poverty and their act of giving highlights the strength of their noble character. Their nobility is not in their wealth, but in their actions.",
+      "Mood_and_Emotion": "Noble poverty, dignified, honorable, generous.",
+      "Lighting_and_Color": "A dim, poor setting. However, the noble person and their final act of giving are illuminated by a powerful, inner light of nobility and honor. This light shows where their true wealth lies.",
+      "Technical_Cues": {
+        "Camera": "A close-up shot that captures the person's inner struggle, their refusal to speak, and their final, dignified act of giving.",
+        "Resolution": "8K, ultra-realistic, with a strong focus on the character's pained but noble expression.",
+        "Lighting": "The primary light source is the inner glow of the character's nobility.",
+        "Art_Genre": "Historical realism, with a strong emotional focus."
+      },
+      "Cultural_Anchors": [
+        "Not speaking the sorrowful words 'I have nothing' (இலன் என்னும் எவ்வம் உரையாமை)",
+        "Is found in the man of good birth (குலன் உடையான் கண்ணே யுள)"
+      ]
+    },
+    "Negative_Prompt": "noble person complaining, person refusing to give, text artifacts.",
+    "Hyperparameters": {
+      "variant": "dev",
+      "steps": 45,
+      "cfg_scale": 9,
+      "seed": "Explore the visual of the 'inner light of nobility'."
+    }
+  }
+}

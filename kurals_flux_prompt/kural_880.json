@@ -1,0 +1,39 @@
+{
+  "Kural_Info": {
+    "Number": 880,
+    "Chapter": "பகைத்திறந்தெரிதல் (Knowing the Quality of Hate)",
+    "Tamil_Text": "உயிர்ப்ப உளரல்லர் மன்ற செயிர்ப்பவர் செம்மல் சிதைக்கலா தார்.",
+    "English_Meaning": "Those who do not destroy the pride of those who hate (them) will certainly not exist even to breathe."
+  },
+  "Flux_Optimized_Prompt": {
+    "Layered_Composition": {
+      "Foreground": "An arrogant enemy ('செயிர்ப்பவர்') is shown, puffed up with pride. Their pride is visualized as a massive, ornate, but fragile glass crown on their head ('செம்மல்').",
+      "Midground": "A wise and decisive person is shown taking action. They are not attacking the enemy's body, but are using a sharp tool or a powerful word to precisely shatter the enemy's glass crown of pride ('செம்மல் சிதைக்க').",
+      "Background": "In a parallel image, a person who fails to do this is shown being completely overshadowed and suffocated by the enemy's unchecked arrogance, to the point where they cannot even breathe ('உயிர்ப்ப உளரல்லர்')."
+    },
+    "Art_Direction": {
+      "Subject_and_Action": "Those who do not destroy the pride of their enemies cannot be considered truly alive, for they will be suffocated by it.",
+      "Symbolic_Motifs": "The enemy's pride as a large, fragile glass crown is the central metaphor. The act of shattering it is the necessary action for one's own survival. The suffocation of the one who fails to act shows the life-or-death stakes.",
+      "Mood_and_Emotion": "Decisive, strategic, a matter of survival.",
+      "Lighting_and_Color": "The glass crown of pride has a garish, arrogant gleam. The moment it shatters is a brilliant flash of light. The suffocation scene is dark and claustrophobic.",
+      "Technical_Cues": {
+        "Camera": "A dynamic shot that shows the shattering of the crown and contrasts it with the suffocation scene.",
+        "Resolution": "8K, with high-quality glass shattering effects.",
+        "Lighting": "High-contrast, dramatic lighting.",
+        "Art_Genre": "Symbolic action scene."
+      },
+      "Cultural_Anchors": [
+        "Destroying the enemy's pride ('செம்மல் சிதைத்தல்')",
+        "They are not alive who fail to do so ('உயிர்ப்ப உளரல்லர்')",
+        "The necessity of breaking an opponent's morale."
+      ]
+    },
+    "Negative_Prompt": "an unbreakable crown, a happy victim, text artifacts, cartoonish.",
+    "Hyperparameters": {
+      "variant": "dev",
+      "steps": 45,
+      "cfg_scale": 9,
+      "seed": "Explore variations for the shattering glass crown."
+    }
+  }
+}

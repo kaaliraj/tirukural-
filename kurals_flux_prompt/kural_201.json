@@ -1,0 +1,39 @@
+{
+  "Kural_Info": {
+    "Number": 201,
+    "Chapter": "தீவினையச்சம் (Dread of Evil Deeds)",
+    "Tamil_Text": "தீவினையார் அஞ்சார் விழுமியார் அஞ்சுவர்தீவினை என்னும் செருக்கு.",
+    "English_Meaning": "Those who have experience of evil deeds will not fear, but the excellent will fear the wanton pride of cherished sin."
+  },
+  "Flux_Optimized_Prompt": {
+    "Layered_Composition": {
+      "Foreground": "A split composition. On the left, an 'evil-doer' ('தீவினையார்') walks arrogantly towards a cliff edge, laughing and completely unafraid ('அஞ்சார்').",
+      "Midground": "On the right, an 'excellent' or 'virtuous' person ('விழுமியார்') stands far back from the same cliff edge, looking at it with profound dread and caution ('அஞ்சுவர்').",
+      "Background": "The cliff edge represents the 'wanton pride of sin' ('தீவினை என்னும் செருக்கு'). Beyond the edge is a terrifying, dark abyss of karmic consequence. The evil-doer is oblivious to it, while the virtuous person clearly sees and fears it."
+    },
+    "Art_Direction": {
+      "Subject_and_Action": "A stark contrast in perception: the wicked do not fear sin because they are blind to its consequences, while the virtuous fear it precisely because they understand the terrible ruin it leads to.",
+      "Symbolic_Motifs": "The cliff is a metaphor for the point of no return in committing evil. The virtuous person's fear is not cowardice but wisdom, born of foresight. The evil-doer's fearlessness is not bravery but ignorant arrogance.",
+      "Mood_and_Emotion": "Cautionary, dread, wisdom vs. arrogance, impending doom.",
+      "Lighting_and_Color": "The evil-doer's side is lit with a harsh, unnatural light that highlights their arrogance but blinds them to the abyss. The virtuous person's side is in a clear, natural light, allowing them to see the danger ahead. The abyss is pure, terrifying darkness.",
+      "Technical_Cues": {
+        "Camera": "A wide, dramatic shot that captures both figures, their contrasting reactions, and the vast, dangerous cliff.",
+        "Resolution": "8K, ultra-realistic, with strong emphasis on the contrasting body language of the two figures.",
+        "Lighting": "Symbolic lighting to represent knowledge versus ignorance of consequences.",
+        "Art_Genre": "Allegorical landscape, moralistic painting."
+      },
+      "Cultural_Anchors": [
+        "The evil-doer (தீவினையார்)",
+        "The excellent/virtuous (விழுமியார்)",
+        "The pride of sin (தீவினை என்னும் செருக்கு)"
+      ]
+    },
+    "Negative_Prompt": "scared evil-doer, brave virtuous person, safe cliff, text artifacts, cartoonish figures.",
+    "Hyperparameters": {
+      "variant": "dev",
+      "steps": 45,
+      "cfg_scale": 9,
+      "seed": "Explore the visual appearance of the abyss of consequence."
+    }
+  }
+}

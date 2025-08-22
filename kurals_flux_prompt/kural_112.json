@@ -1,0 +1,39 @@
+{
+  "Kural_Info": {
+    "Number": 112,
+    "Chapter": "நடுவு நிலைமை (Impartiality)",
+    "Tamil_Text": "செப்பம் உடையவன் ஆக்கஞ் சிதைவின்றிஎச்சத்திற் கேமாப்பு உடைத்து.",
+    "English_Meaning": "The wealth of the man of rectitude will not perish, but will bring happiness also to his posterity."
+  },
+  "Flux_Optimized_Prompt": {
+    "Layered_Composition": {
+      "Foreground": "A man of rectitude ('செப்பம் உடையவன்') is shown building his wealth through honest, just means.",
+      "Midground": "His wealth is visualized not as a pile of gold, but as a strong, magnificent, ancient tree ('ஆக்கம்'). The tree is shown to be immune to decay, pests, or lightning, symbolizing its imperishable nature ('சிதைவின்றி').",
+      "Background": "The tree's branches extend far into the future, providing a safe, sheltering canopy ('ஏமாப்பு') for his children, grandchildren, and all future generations ('எச்சத்திற்கு'). They are shown playing and prospering under its protection."
+    },
+    "Art_Direction": {
+      "Subject_and_Action": "The wealth acquired through justice and rectitude is imperishable and becomes a lasting source of security and happiness for one's descendants.",
+      "Symbolic_Motifs": "The tree of wealth is the central metaphor. Its deep roots represent the just principles of its owner. Its strong, sheltering branches represent the security it provides to posterity. The imperishable nature is key.",
+      "Mood_and_Emotion": "Enduring, secure, prosperous, legacy, protected.",
+      "Lighting_and_Color": "A warm, timeless golden light bathes the scene, suggesting a blessing that endures through generations. The palette is rich with the greens of the healthy tree and the warm tones of a happy family.",
+      "Technical_Cues": {
+        "Camera": "A wide, epic shot that captures the founder of the fortune and the full, magnificent sweep of the family tree sheltering his descendants through time.",
+        "Resolution": "8K, ultra-realistic, with fine detail on the ancient, powerful tree.",
+        "Lighting": "A benevolent, timeless light that feels both natural and divine.",
+        "Art_Genre": "Magical realism, epic family saga painting."
+      },
+      "Cultural_Anchors": [
+        "Seppam (செப்பம்) - Rectitude/Justice",
+        "Imperishable wealth (ஆக்கஞ் சிதைவின்றி)",
+        "Security for posterity (எச்சத்திற் கேமாப்பு)"
+      ]
+    },
+    "Negative_Prompt": "dying tree, suffering descendants, money turning to dust, text artifacts, dark scene.",
+    "Hyperparameters": {
+      "variant": "pro",
+      "steps": 50,
+      "cfg_scale": 8,
+      "seed": "Explore the design of the magnificent 'tree of wealth'."
+    }
+  }
+}

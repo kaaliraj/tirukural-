@@ -1,0 +1,39 @@
+{
+  "Kural_Info": {
+    "Number": 781,
+    "Chapter": "நட்பு (Friendship)",
+    "Tamil_Text": "செயற்கரிய யாவுள நட்பின் அதுபோல் வினைக்கரிய யாவுள காப்பு.",
+    "English_Meaning": "What so hard for men to gain as friendship true? What so sure defence 'gainst all that foe can do?."
+  },
+  "Flux_Optimized_Prompt": {
+    "Layered_Composition": {
+      "Foreground": "A split image. On the left, a person is shown trying to forge a bond of true friendship, visualized as hammering a complex, glowing, diamond-hard chain. This shows how difficult it is to create ('செயற்கரிய').",
+      "Midground": "On the right, the same person, now with their friend, is being attacked by shadowy enemies. The chain of friendship they forged is now a perfect, unbreakable, circular fortress of light around them, which the enemies cannot penetrate. This shows there is no better defense ('வினைக்கரிய காப்பு').",
+      "Background": "A world of challenges and threats, which are rendered harmless by the power of the friendship-fortress."
+    },
+    "Art_Direction": {
+      "Subject_and_Action": "What is harder to achieve than true friendship? And once achieved, what is a better defense?",
+      "Symbolic_Motifs": "The friendship as a diamond chain that is hard to forge but becomes an unbreakable fortress is the central metaphor.",
+      "Mood_and_Emotion": "Difficult to achieve, but ultimately powerful and protective.",
+      "Lighting_and_Color": "The forging scene is fiery and full of effort. The defensive scene is lit by the brilliant, secure light of the friendship-fortress, which repels the darkness of the enemies.",
+      "Technical_Cues": {
+        "Camera": "A diptych composition showing the 'making' and the 'using' of the friendship bond.",
+        "Resolution": "8K, with high-quality forging and energy shield effects.",
+        "Lighting": "Contrasting light schemes for the two panels.",
+        "Art_Genre": "High-fantasy art."
+      }
+    },
+    "Cultural_Anchors": [
+      "Friendship, hard to make ('செயற்கரிய நட்பின்')",
+      "Friendship, a great defense ('வினைக்கரிய காப்பு')",
+      "The dual nature of friendship."
+    ]
+  },
+  "Negative_Prompt": "easy to make friendship, a broken fortress, text artifacts, cartoonish.",
+  "Hyperparameters": {
+    "variant": "pro",
+    "steps": 50,
+    "cfg_scale": 8,
+    "seed": "Explore variations for the friendship-fortress."
+  }
+}

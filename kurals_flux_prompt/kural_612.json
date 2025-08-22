@@ -1,0 +1,39 @@
+{
+  "Kural_Info": {
+    "Number": 612,
+    "Chapter": "ஆள்வினையுடைமை (Manly Effort)",
+    "Tamil_Text": "வினைக்கண் வினைகெடல் ஓம்பல் வினைக்குறைதீர்ந்தாரின் தீர்ந்தன்று உலகு.",
+    "English_Meaning": "Take care not to give up exertion in the midst of a work; the world will abandon those who abandon their unfinished work."
+  },
+  "Flux_Optimized_Prompt": {
+    "Layered_Composition": {
+      "Foreground": "A craftsman is shown halfway through building a magnificent chariot ('வினைக்கண்'). The work is promising but incomplete.",
+      "Midground": "The craftsman suddenly gives up, overcome by a moment of despair or laziness ('வினைகெடல்'). They drop their tools and walk away from the unfinished work ('வினைக்குறை').",
+      "Background": "The World, personified by patrons, society, and even divine beings, was shown watching the work with interest and support. The moment the craftsman abandons their work, the World also turns its back and abandons them ('தீர்ந்தன்று உலகு'), leaving the craftsman utterly alone with their failed project."
+    },
+    "Art_Direction": {
+      "Subject_and_Action": "A cautionary tale about the importance of seeing a task through to completion. The world abandons those who abandon their own work unfinished.",
+      "Symbolic_Motifs": "The unfinished chariot is a symbol of broken potential. The synchronized act of turning away by the 'World' is a powerful visual representation of abandonment. The tools lie rusting on the ground, symbolizing the end of creative effort.",
+      "Mood_and_Emotion": "Abandonment, failure, cautionary, broken potential.",
+      "Lighting_and_Color": "The scene begins with the warm, promising light of creation. When the craftsman gives up, a cold, grey, lonely light descends upon them and their unfinished work. The departing 'World' takes the warmth and color with it.",
+      "Technical_Cues": {
+        "Camera": "A shot that focuses on the craftsman's act of abandonment, with the reaction of the 'World' clearly visible in the background, making the consequence immediate.",
+        "Resolution": "8K, ultra-realistic, capturing the detailed craftsmanship of the chariot and the disappointed expressions of the observers.",
+        "Lighting": "A dramatic shift in lighting from warm and supportive to cold and isolating.",
+        "Art_Genre": "Historical realism, narrative painting."
+      },
+      "Cultural_Anchors": [
+        "Abandoning work midway (வினைக்கண் வினைகெடல்)",
+        "Those who leave work unfinished (வினைக்குறை தீர்ந்தார்)",
+        "The world abandons them (தீர்ந்தன்று உலகு)"
+      ]
+    },
+    "Negative_Prompt": "craftsman finishing the chariot, world staying to help, text artifacts, happy craftsman.",
+    "Hyperparameters": {
+      "variant": "dev",
+      "steps": 45,
+      "cfg_scale": 9,
+      "seed": "Explore the design of the magnificent, half-finished chariot."
+    }
+  }
+}

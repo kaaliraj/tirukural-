@@ -1,0 +1,38 @@
+{
+  "Kural_Info": {
+    "Number": 1025,
+    "Chapter": "குடிசெயல்வகை (The Way of Maintaining the Family)",
+    "Tamil_Text": "குற்றம் இலனாய்க் குடிசெய்து வாழ்வானைச்சுற்றமாச் சுற்றும் உலகு.",
+    "English_Meaning": "People will eagerly seek the friendship of the prosperous soul who has raised his family without foul means."
+  },
+  "Flux_Optimized_Prompt": {
+    "Layered_Composition": {
+      "Foreground": "A person stands at the center. They have successfully uplifted their family ('குடி செய்து') and have done so without any fault or crime ('குற்றம் இலனாய்'). They radiate an aura of pure integrity.",
+      "Midground": "The World ('உலகு'), represented by a diverse crowd of people from all nations and walks of life, is shown not just respecting them, but actively and eagerly circling around them ('சுற்றும்').",
+      "Background": "They are not just observing; they are seeking to become his kin, his relations ('சுற்றமா'). They are offering him crowns, gifts, and treaties of friendship, drawn to him by the magnetic power of his blameless success."
+    },
+    "Art_Direction": {
+      "Subject_and_Action": "The entire world will circle and seek to become the kin of the person who lives a life of blameless success in elevating their family.",
+      "Symbolic_Motifs": "The magnetic pull of his virtue is the key. The world is not just a passive admirer but an active suitor, drawn into his orbit. His 'blamelessness' is the source of this gravitational power.",
+      "Mood_and_Emotion": "Magnetic, attractive, respected, sought-after.",
+      "Lighting_and_Color": "A brilliant, pure, white-gold light of integrity radiates from the central figure. The surrounding world is illuminated by this light, and their faces show eagerness and admiration. The palette is one of global unity centered on a virtuous individual.",
+      "Technical_Cues": {
+        "Camera": "A high-angle shot looking down, showing the central figure as a powerful, stable center, with the rest of the world gracefully orbiting around them.",
+        "Resolution": "8K, ultra-realistic, with a diverse and detailed depiction of the peoples of the world.",
+        "Lighting": "The central figure is the primary light source, the sun around which the world orbits.",
+        "Art_Genre": "Symbolic realism, with a globalist theme."
+      },
+      "Cultural_Anchors": [
+        "He who lives blamelessly, elevating his family (குற்றம் இலனாய்க் குடி செய்து வாழ்வான்)",
+        "The world will circle him as kin (சுற்றமாச் சுற்றும் உலகு)"
+      ]
+    },
+    "Negative_Prompt": "lonely person, world ignoring him, text artifacts, criminal.",
+    "Hyperparameters": {
+      "variant": "pro",
+      "steps": 55,
+      "cfg_scale": 8,
+      "seed": "Explore the depiction of the diverse 'peoples of the world'."
+    }
+  }
+}

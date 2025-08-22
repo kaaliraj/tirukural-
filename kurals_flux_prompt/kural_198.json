@@ -1,0 +1,38 @@
+{
+  "Kural_Info": {
+    "Number": 198,
+    "Chapter": "பயனில சொல்லாமை (Against Vain Speaking)",
+    "Tamil_Text": "அரும்பயன் ஆயும் அறிவினார் சொல்லார்பெரும்பயன் இல்லாத சொல்.",
+    "English_Meaning": "The wise who seek after rare pleasures will not speak words that have not much weight in them."
+  },
+  "Flux_Optimized_Prompt": {
+    "Layered_Composition": {
+      "Foreground": "A wise person whose mind seeks out profound and rare benefits ('அரும்பயன் ஆயும் அறிவினார்'). Their mind is a deep-sea diver searching for precious pearls.",
+      "Midground": "When they speak, their words are like the pearls they have gathered: heavy, valuable, and full of substance.",
+      "Background": "They are shown consciously refusing to speak words that have no great benefit ('பெரும்பயன் இல்லாத சொல்'). These useless words are depicted as worthless, lightweight sea-foam, which the wise diver completely ignores in their search for the pearls of meaningful speech."
+    },
+    "Art_Direction": {
+      "Subject_and_Action": "Those whose minds are accustomed to seeking out profound truths and benefits will not waste their time speaking words that are trivial and lacking in great purpose.",
+      "Symbolic_Motifs": "The mind as a pearl diver is the central metaphor. Meaningful words are precious pearls. Useless words are worthless sea-foam. The diver's focus on the pearls shows their discerning nature.",
+      "Mood_and_Emotion": "Discerning, profound, purposeful, valuable.",
+      "Lighting_and_Color": "A deep, profound, underwater light. The pearls of speech glow with a precious, internal luminescence. The sea-foam is white and insubstantial, quickly dissolving.",
+      "Technical_Cues": {
+        "Camera": "A beautiful underwater shot of the 'pearl diver of the mind' gathering the valuable words and ignoring the foam.",
+        "Resolution": "8K, ultra-realistic, with beautiful underwater lighting and particle effects.",
+        "Lighting": "The glowing pearls of speech should be a key light source.",
+        "Art_Genre": "Surrealist underwater fantasy."
+      },
+      "Cultural_Anchors": [
+        "The wise who research rare benefits (அரும்பயன் ஆயும் அறிவினார்)",
+        "Will not speak words without great benefit (சொல்லார் பெரும் பயன் இல்லாத சொல்)"
+      ]
+    },
+    "Negative_Prompt": "diver collecting foam, dull pearls, text artifacts.",
+    "Hyperparameters": {
+      "variant": "pro",
+      "steps": 50,
+      "cfg_scale": 8,
+      "seed": "Explore the look of the 'pearls of meaningful speech'."
+    }
+  }
+}

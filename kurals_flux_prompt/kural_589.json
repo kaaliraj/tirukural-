@@ -1,0 +1,39 @@
+{
+  "Kural_Info": {
+    "Number": 589,
+    "Chapter": "ஒற்றாடல் (Detectives)",
+    "Tamil_Text": "ஒற்றெற் றுணராமை ஆள்க உடன்மூவர் சொற்றொக்க தேறப் படும்.",
+    "English_Meaning": "Let a king employ spies so that one may have no knowledge of the other; and when the information of three agrees together, let him receive it."
+  },
+  "Flux_Optimized_Prompt": {
+    "Layered_Composition": {
+      "Foreground": "Three spies are shown operating independently in the same location, but they are completely unaware of each other's presence ('ஒற்றெற் றுணராமை'). They are like three separate rays of light.",
+      "Midground": "The three spies are sending their reports back to a central point—the king's mind.",
+      "Background": "In the king's mind, the three separate rays of light (the reports) converge. If the reports are the same, the three rays merge into a single, brilliant, white beam of confirmed truth ('சொற்றொக்க தேறப்படும்'). If they differ, they create a discordant, chaotic pattern."
+    },
+    "Art_Direction": {
+      "Subject_and_Action": "One must manage spies so they don't know each other. Intelligence should only be trusted when the independent reports of three spies align.",
+      "Symbolic_Motifs": "The spies as independent rays of light represents their operational independence. The convergence of these rays into a single, pure beam is a powerful metaphor for confirmed intelligence.",
+      "Mood_and_Emotion": "Secretive, independent, convergent, certain.",
+      "Lighting_and_Color": "The spies operate in shadows. Their reports are beams of light. The final, confirmed truth is a brilliant flash of pure white light.",
+      "Technical_Cues": {
+        "Camera": "A multi-paneled shot showing the three spies operating separately, and then a central panel showing the convergence of their reports.",
+        "Resolution": "8K, with abstract and beautiful light beam effects.",
+        "Lighting": "The convergence of light provides the climactic illumination of the scene.",
+        "Art_Genre": "Abstract conceptual art, with a high-tech/magical feel."
+      }
+    },
+    "Cultural_Anchors": [
+      "Spies unaware of each other ('ஒற்றெற் றுணராமை')",
+      "Confirmation by three sources ('மூவர் சொற்றொக்க')",
+      "The rule of three for intelligence verification."
+    ]
+  },
+  "Negative_Prompt": "spies talking to each other, king trusting one report, text artifacts, cartoonish.",
+  "Hyperparameters": {
+    "variant": "dev",
+    "steps": 45,
+    "cfg_scale": 8,
+    "seed": "Explore variations for the light convergence effect."
+  }
+}

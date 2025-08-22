@@ -1,0 +1,38 @@
+{
+  "Kural_Info": {
+    "Number": 53,
+    "Chapter": "வாழ்க்கைத் துணைநலம் (The Worth of a Wife)",
+    "Tamil_Text": "இல்லதென் இல்லவள் மாண்பானால் உள்ளதென்இல்லவள் மாணாக் கடை?",
+    "English_Meaning": "If his wife be eminent (in virtue), what does (that man) not possess? If she be without excellence, what does (he) possess?"
+  },
+  "Flux_Optimized_Prompt": {
+    "Layered_Composition": {
+      "Foreground": "A split-screen composition. On the left, a man lives in a very simple, humble hut. However, his wife ('இல்லவள்') radiates a powerful golden aura of virtue ('மாண்பு'), and because of her, their simple hut is filled with a vision of all worldly and spiritual treasures—knowledge, joy, prosperity.",
+      "Midground": "On the right, a man lives in a magnificent palace filled with material wealth. But his wife lacks virtue; she is depicted as a hollow, shadowy figure. Because of her absence of virtue, all the treasures around them are turning to dust and ash.",
+      "Background": "The background for the left scene is a beautiful, thriving natural world. The background for the right is a barren, desolate wasteland, reflecting the true state of their lives."
+    },
+    "Art_Direction": {
+      "Subject_and_Action": "A visual representation of a rhetorical question: A virtuous wife makes a man who has nothing possess everything. An unvirtuous wife makes a man who has everything possess nothing.",
+      "Symbolic_Motifs": "The virtuous wife's aura is the source of all light and color on her side of the image. The absence of virtue in the other wife is a void that drains color and life from her side. The key is that the wife's virtue ('மாண்பு') is the sole determinant of true wealth.",
+      "Mood_and_Emotion": "Stark contrast, profound truth, spiritual wealth vs. material poverty.",
+      "Lighting_and_Color": "Dramatic split. The left side is luminous, warm, and vibrant, lit from the wife's inner virtue. The right side is dark, desaturated, and crumbling, with cold, harsh lighting.",
+      "Technical_Cues": {
+        "Camera": "A perfectly balanced wide shot showcasing the two contrasting realities side-by-side.",
+        "Resolution": "8K, ultra-realistic, with strong symbolic effects for the manifestation of wealth and its decay.",
+        "Lighting": "Dualistic lighting scheme: one side internally radiant, the other externally lit but internally dark.",
+        "Art_Genre": "Allegorical painting, symbolic diptych."
+      },
+      "Cultural_Anchors": [
+        "The wife's virtue (இல்லவள் மாண்பு) as the ultimate possession",
+        "The rhetorical contrast: 'Illathen?' (What is lacking?) vs. 'Ullathen?' (What is possessed?)"
+      ]
+    },
+    "Negative_Prompt": "neutral scene, equally happy couples, text artifacts, modern setting.",
+    "Hyperparameters": {
+      "variant": "pro",
+      "steps": 55,
+      "cfg_scale": 9,
+      "seed": "Explore the visual effects of treasures turning to dust."
+    }
+  }
+}

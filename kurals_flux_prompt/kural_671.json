@@ -1,0 +1,39 @@
+{
+  "Kural_Info": {
+    "Number": 671,
+    "Chapter": "வினைசெயல்வகை (Modes of Action)",
+    "Tamil_Text": "சூழ்ச்சி முடிவு துணிவெய்தல் அத்துணிவு தாழ்ச்சியுள் தங்குதல் தீது.",
+    "English_Meaning": "The Resolve is counsel's end, If resolutions halt In weak delays, still unfulfilled, 'tis grievous fault."
+  },
+  "Flux_Optimized_Prompt": {
+    "Layered_Composition": {
+      "Foreground": "A council of wise advisors are in deep discussion, their thoughts visualized as complex, intersecting lines of light, representing deliberation ('சூழ்ச்சி').",
+      "Midground": "These lines of light converge into a single, sharp, powerful arrow of light, representing the final, clear decision ('துணிவெய்தல்'). The arrow is aimed at a target.",
+      "Background": "However, a dark, heavy, viscous substance representing Delay ('தாழ்ச்சி') is shown dripping down and trapping the arrow, preventing it from being fired. This is shown as a great evil ('தீது')."
+    },
+    "Art_Direction": {
+      "Subject_and_Action": "The culmination of all counsel is a decisive resolution. It is a great fault for that resolution to then be trapped in delay.",
+      "Symbolic_Motifs": "The convergence of thought-lines into a single arrow is the decision. The viscous tar of delay trapping the arrow is the fault of procrastination.",
+      "Mood_and_Emotion": "Decisive, then frustratingly inert. A warning against procrastination.",
+      "Lighting_and_Color": "The deliberation and decision are bright and full of light. The delay is a dark, sticky, light-absorbing substance.",
+      "Technical_Cues": {
+        "Camera": "A shot that follows the process from deliberation to decision to the frustration of delay.",
+        "Resolution": "8K, with abstract light effects and realistic viscous fluid simulation.",
+        "Lighting": "High-contrast between the light of decision and the darkness of delay.",
+        "Art_Genre": "Abstract conceptual art, with a strong narrative flow."
+      }
+    },
+    "Cultural_Anchors": [
+      "The end of counsel is decision ('சூழ்ச்சி முடிவு துணிவு')",
+      "Delay in execution is a fault ('தாழ்ச்சியுள் தங்குதல் தீது')",
+      "The importance of timely action."
+    ]
+  },
+  "Negative_Prompt": "indecisive council, arrow flying freely, text artifacts.",
+  "Hyperparameters": {
+    "variant": "pro",
+    "steps": 50,
+    "cfg_scale": 8,
+    "seed": "Explore variations for the 'tar of delay'."
+  }
+}

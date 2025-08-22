@@ -1,0 +1,39 @@
+{
+  "Kural_Info": {
+    "Number": 48,
+    "Chapter": "இல்வாழ்க்கை (Domestic Life)",
+    "Tamil_Text": "ஆற்றின் ஒழுக்கி அறனிழுக்கா இல்வாழ்க்கைநோற்பாரின் நோன்மை உடைத்து.",
+    "English_Meaning": "The householder who, not swerving from virtue, helps the ascetic in his way, endures more than those who endure penance."
+  },
+  "Flux_Optimized_Prompt": {
+    "Layered_Composition": {
+      "Foreground": "A householder is depicted offering food and support to an ascetic. The householder's face shows not just charity, but a deep, enduring strength and patience.",
+      "Midground": "Behind the ascetic, we see a vision of the hardships they endure: fasting, meditation in harsh weather. This represents their 'penance' ('நோற்பு').",
+      "Background": "Behind the householder, we see a vision of the complex duties they endure: raising children, managing a farm, dealing with society, all while maintaining virtue ('அறன் இழுக்கா'). This is visually represented as a heavier, more complex set of burdens."
+    },
+    "Art_Direction": {
+      "Subject_and_Action": "The endurance and strength ('நோன்மை') of a virtuous householder who supports others is greater than the endurance of the ascetics who practice penance for themselves alone.",
+      "Symbolic_Motifs": "A metaphorical scale is subtly integrated into the composition. On one side is the ascetic's solitary penance. On the other are the householder's manifold duties. The scale tips clearly in favor of the householder, indicating their greater burden and therefore greater strength.",
+      "Mood_and_Emotion": "Patient strength, enduring, greater virtue, profound duty.",
+      "Lighting_and_Color": "A clear, honest light illuminates both figures. The ascetic's world is stark and simple (greys, browns). The householder's world is complex and full of color, representing their many responsibilities.",
+      "Technical_Cues": {
+        "Camera": "Wide shot, using symbolic imagery to compare the two sets of hardships side-by-side.",
+        "Resolution": "8K, ultra-realistic, with detailed emotional expressions on both faces.",
+        "Lighting": "Natural, balanced lighting to allow for a fair and clear comparison of the two lives.",
+        "Art_Genre": "Allegorical realism."
+      },
+      "Cultural_Anchors": [
+        "A householder's life without swerving from virtue (அறன் இழுக்கா இல்வாழ்க்கை)",
+        "The endurance of ascetics (நோற்பாரின் நோன்மை)",
+        "The idea that supporting others in their path is a greater penance than walking one's own."
+      ]
+    },
+    "Negative_Prompt": "weak householder, superior ascetic, text artifacts, cartoonish imagery, unbalanced scales.",
+    "Hyperparameters": {
+      "variant": "dev",
+      "steps": 45,
+      "cfg_scale": 8,
+      "seed": "Explore visual metaphors for the 'burdens' of each figure."
+    }
+  }
+}

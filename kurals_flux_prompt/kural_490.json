@@ -1,0 +1,39 @@
+{
+  "Kural_Info": {
+    "Number": 490,
+    "Chapter": "காலமறிதல் (Knowing the fitting Time)",
+    "Tamil_Text": "கொக்கொக்க கூம்பும் பருவத்து மற்றதன் குத்தொக்க சீர்த்த இடத்து.",
+    "English_Meaning": "At the time when one should use self-control, let him restrain himself like a heron; and, let him like it, strike, when there is a favourable opportunity."
+  },
+  "Flux_Optimized_Prompt": {
+    "Layered_Composition": {
+      "Foreground": "A split composition. On one side, a heron ('கொக்கு') stands perfectly still in the water, waiting patiently for a fish. Its form is retracted and controlled ('கூம்பும் பருவத்து').",
+      "Midground": "On the other side, a wise leader or warrior mirrors the heron's posture, waiting with immense patience and self-control for the right moment to act.",
+      "Background": "In a sudden flash of action, the heron's head darts down with lightning speed to catch the fish ('குத்தொக்க'). Simultaneously, the warrior explodes into decisive, perfectly timed action, achieving their objective with the same precision."
+    },
+    "Art_Direction": {
+      "Subject_and_Action": "One must be like a heron: patient and still during the time of waiting, and swift and precise when the moment to strike arrives.",
+      "Symbolic_Motifs": "The direct comparison of the person's actions to the heron's two distinct phases (waiting and striking) is the core of the image. The stillness and the sudden, explosive movement are the key elements to contrast.",
+      "Mood_and_Emotion": "Patient, then explosive. Controlled, then decisive. Strategic, precise.",
+      "Lighting_and_Color": "The waiting scene is calm, with still water and soft, cool light. The striking scene is dynamic, with splashes of water and a harsh, action-oriented light.",
+      "Technical_Cues": {
+        "Camera": "A composition that shows both the 'before' (waiting) and 'after' (striking) states, perhaps using motion blur for the strike to contrast with the stillness of the wait.",
+        "Resolution": "8K, with high-speed photography effects to capture the swiftness of the strike.",
+        "Lighting": "Dynamic lighting that shifts from static to active.",
+        "Art_Genre": "Wildlife photography aesthetic combined with historical realism."
+      }
+    },
+    "Cultural_Anchors": [
+      "The Heron Analogy",
+      "Waiting like a heron ('கொக்கொக்க கூம்பும்')",
+      "Striking like a heron ('குத்தொக்க')"
+    ]
+  },
+  "Negative_Prompt": "heron missing the fish, warrior acting at the wrong time, text artifacts, cartoonish.",
+  "Hyperparameters": {
+    "variant": "pro",
+    "steps": 50,
+    "cfg_scale": 9,
+    "seed": "Explore variations for the water splash effect."
+  }
+}

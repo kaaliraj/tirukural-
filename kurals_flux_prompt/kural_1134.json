@@ -1,0 +1,38 @@
+{
+  "Kural_Info": {
+    "Number": 1134,
+    "Chapter": "நாணுத்துறவுரைத்தல் (The Abandonment of Reserve)",
+    "Tamil_Text": "காமக் கடும்புனல் உய்க்கும் நாணொடுநல்லாண்மை என்னும் புணை.",
+    "English_Meaning": "The raft of modesty and manliness, is, alas, carried-off by the strong current of lust."
+  },
+  "Flux_Optimized_Prompt": {
+    "Layered_Composition": {
+      "Foreground": "A lover is being swept away by a powerful, raging flood representing the 'strong current of lust' ('காமக் கடும்புனல்').",
+      "Midground": "He was previously holding onto a sturdy, well-made raft ('புணை'). A closer look at the raft shows that it is constructed from two intertwined materials: a strong wooden frame of 'manliness' ('நல்லாண்மை') and beautiful, resilient sails of 'modesty' ('நாண்').",
+      "Background": "The force of the flood is so overwhelming that it is shown ripping the raft apart and carrying it away ('உய்க்கும்'), leaving the lover helpless in the torrent. His own virtues are not strong enough to save him from this particular flood."
+    },
+    "Art_Direction": {
+      "Subject_and_Action": "Even the combined strength of a man's modesty and manliness, which should be his raft of safety, is swept away by the overwhelming flood of intense love-longing.",
+      "Symbolic_Motifs": "The raft made of the two virtues is the central metaphor. The flood of lust is depicted as a natural disaster—a powerful, impersonal, and irresistible force. The destruction of the raft signifies the complete overwhelming of the lover's normal character.",
+      "Mood_and_Emotion": "Overwhelmed, powerless, irresistible force, tragic.",
+      "Lighting_and_Color": "Dark, chaotic, and stormy lighting. The floodwaters are a murky, violent brown and grey. The raft of virtues might have a faint, noble glow, but it is being extinguished by the power of the flood.",
+      "Technical_Cues": {
+        "Camera": "A dynamic, chaotic, low-angle shot from the perspective of the drowning lover, showing the moment his raft is torn from his grasp and destroyed.",
+        "Resolution": "8K, hyper-realistic, with advanced fluid dynamics and destruction effects.",
+        "Lighting": "Stormy, chaotic lighting with flashes of lightning.",
+        "Art_Genre": "Disaster painting, allegorical art."
+      },
+      "Cultural_Anchors": [
+        "The strong current of lust (காமக் கடும்புனல்)",
+        "The raft of modesty and manliness (நாணொடு நல்லாண்மை என்னும் புணை)"
+      ]
+    },
+    "Negative_Prompt": "calm river, lover safely on the raft, text artifacts.",
+    "Hyperparameters": {
+      "variant": "pro",
+      "steps": 55,
+      "cfg_scale": 9,
+      "seed": "Explore the visual of the raft being ripped apart by the flood."
+    }
+  }
+}

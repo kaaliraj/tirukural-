@@ -1,0 +1,39 @@
+{
+  "Kural_Info": {
+    "Number": 27,
+    "Chapter": "நீத்தார் பெருமை (The Greatness of Ascetics)",
+    "Tamil_Text": "சுவைஒளி ஊறுஓசை நாற்றமென ஐந்தின்வகைதெரிவான் கட்டே உலகு.",
+    "English_Meaning": "The world is within the knowledge of him who knows the properties of taste, sight, touch, hearing and smell."
+  },
+  "Flux_Optimized_Prompt": {
+    "Layered_Composition": {
+      "Foreground": "A wise sage sits in the center, eyes closed in concentration. Five glowing, ethereal streams of energy, each a different color, flow from the world around and into their corresponding senses.",
+      "Midground": "The entire world ('உலகு') is depicted as a miniature, vibrant sphere held gently in the sage's cupped hands. The sphere contains mountains, oceans, forests, and cities, all under the sage's control.",
+      "Background": "A cosmic backdrop, symbolizing that this mastery is not just over the physical world but over the fundamental principles of perception."
+    },
+    "Art_Direction": {
+      "Subject_and_Action": "A sage who has completely understood the nature of the five senses ('ஐந்தின் வகை தெரிவான்') holds the entire world within their power and understanding.",
+      "Symbolic_Motifs": "The five streams represent taste (red), sight (yellow), touch (blue), hearing (violet), and smell (green). They flow *into* the sage, showing mastery, not indulgence. The miniature world in their hands is a direct visualization of the Kural's statement 'அவன் கட்டே உலகு' (The world is under his control).",
+      "Mood_and_Emotion": "Total mastery, omniscient, serene power, profound understanding.",
+      "Lighting_and_Color": "A multi-hued, soft light emanates from the five streams of energy and the miniature world, bathing the sage in a gentle, wise glow. The background is a deep, cosmic blue.",
+      "Technical_Cues": {
+        "Camera": "Close-up medium shot on the sage, focusing on their serene expression and the symbolic elements of the senses and the world.",
+        "Resolution": "8K, ultra-realistic, with ethereal and translucent effects for the streams of energy and the world sphere.",
+        "Lighting": "Complex multi-source lighting from the symbolic streams, creating a colorful and mystical ambiance.",
+        "Art_Genre": "Mystical realism, symbolic fantasy portraiture."
+      },
+      "Cultural_Anchors": [
+        "The five senses (சுவை, ஒளி, ஊறு, ஓசை, நாற்றம்)",
+        "Mastery through understanding (வகைதெரிவான்)",
+        "The world under control (கட்டே உலகு)"
+      ]
+    },
+    "Negative_Prompt": "sage indulging senses, chaotic streams, dropping the world, distressed expression, text artifacts, deformed hands.",
+    "Hyperparameters": {
+      "variant": "dev",
+      "steps": 45,
+      "cfg_scale": 8,
+      "seed": "Explore color variations for the five sensory streams."
+    }
+  }
+}

@@ -1,0 +1,39 @@
+{
+  "Kural_Info": {
+    "Number": 158,
+    "Chapter": "பொறையுடைமை (The Possession of Patience, Forbearance)",
+    "Tamil_Text": "மிகுதியான் மிக்கவை செய்தாரைத் தாந்தந் தகுதியான் வென்று விடல்.",
+    "English_Meaning": "Let a man by patience overcome those who through pride commit excesses."
+  },
+  "Flux_Optimized_Prompt": {
+    "Layered_Composition": {
+      "Foreground": "A wise and noble ruler, radiating an aura of absolute calm and dignity ('தகுதியான்'). They are being verbally assaulted by an arrogant, lesser noble.",
+      "Midground": "The arrogant noble's excessive and insulting words ('மிக்கவை') are visualized as a chaotic storm of sharp, black shards flying towards the ruler.",
+      "Background": "The ruler does not retaliate. Instead, their powerful aura of calm dignity acts as a shield, effortlessly dissolving the shards into harmless dust. The arrogant noble is left shocked and shamed by this display of superior character, thus being morally defeated ('வென்று விடல்')."
+    },
+    "Art_Direction": {
+      "Subject_and_Action": "Overcoming arrogant aggression not with counter-aggression, but with one's own superior dignity and forbearance.",
+      "Symbolic_Motifs": "The ruler's calm aura is their weapon and shield. The insulting words as black shards that dissolve upon contact with this aura is the key visual metaphor for a moral victory.",
+      "Mood_and_Emotion": "Dignified, calm, morally superior, powerfully serene.",
+      "Lighting_and_Color": "A brilliant, pure white-gold light emanates from the dignified ruler. The arrogant aggressor and their shard-like words are dark and chaotic. The scene depicts a victory of light over darkness.",
+      "Technical_Cues": {
+        "Camera": "A medium shot focusing on the two figures, capturing the contrast in their demeanors and the moment the shards dissolve.",
+        "Resolution": "8K, cinematic, with high-quality particle effects for the shards and the aura.",
+        "Lighting": "The ruler's aura is the primary light source, demonstrating that their virtue illuminates and resolves the conflict.",
+        "Art_Genre": "High-fantasy art, symbolic realism."
+      }
+    },
+    "Cultural_Anchors": [
+      "Victory through Dignity ('தகுதியான் வென்று விடல்')",
+      "Overcoming Excesses ('மிக்கவை செய்தாரை')",
+      "The power of forbearance."
+    ]
+  },
+  "Negative_Prompt": "ruler getting angry, shards hitting the ruler, text artifacts, cartoonish characters.",
+  "Hyperparameters": {
+    "variant": "pro",
+    "steps": 50,
+    "cfg_scale": 9,
+    "seed": "Explore variations for the dissolving shard effect."
+  }
+}

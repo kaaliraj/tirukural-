@@ -1,0 +1,39 @@
+{
+  "Kural_Info": {
+    "Number": 809,
+    "Chapter": "பழைமை (Familiarity)",
+    "Tamil_Text": "கெடாஅ வழிவந்த கேண்மையார் கேண்மை விடாஅர் விழையும் உலகு.",
+    "English_Meaning": "They will be loved by the world, who have not forsaken the friendship of those with whom they have kept up an unbroken long-standing intimacy."
+  },
+  "Flux_Optimized_Prompt": {
+    "Layered_Composition": {
+      "Foreground": "Two very old friends are shown, their bond of friendship ('கேண்மை') having come down through a long, unbroken path of history ('கெடா வழிவந்த').",
+      "Midground": "Their defining quality is that they have never forsaken each other ('விடாஅர்'). This loyalty is visualized as them holding onto an ancient, glowing, unbreakable bond of light between them.",
+      "Background": "Because of this incredible, lifelong loyalty, the world itself ('உலகு'), personified by a diverse crowd of people from all nations, is shown looking upon them with great love, admiration, and desire ('விழையும்')."
+    },
+    "Art_Direction": {
+      "Subject_and_Action": "The world loves and desires those who maintain their unbroken, long-standing friendships without ever forsaking them.",
+      "Symbolic_Motifs": "The long, historical path and the ancient, unbreakable bond of light represent the long-standing friendship. The adoring gaze of the personified 'World' is the reward for this loyalty.",
+      "Mood_and_Emotion": "Loyal, admirable, enduring, loved by all.",
+      "Lighting_and_Color": "A warm, golden, nostalgic light illuminates the two friends and their ancient bond. The adoring world is bathed in this respectful glow.",
+      "Technical_Cues": {
+        "Camera": "A wide shot that includes the two friends, their bond, and the adoring world, telling the whole story.",
+        "Resolution": "8K, with a timeless, epic quality.",
+        "Lighting": "Warm, respectful, golden-hour light.",
+        "Art_Genre": "Idealized realism, with a mythological feel."
+      },
+      "Cultural_Anchors": [
+        "Unbroken, long-standing friendship ('கெடா வழிவந்த கேண்மை')",
+        "Those who do not forsake ('விடாஅர்')",
+        "The world will desire them ('விழையும் உலகு')"
+      ]
+    },
+    "Negative_Prompt": "friends forsaking each other, a broken bond, an angry world, text artifacts.",
+    "Hyperparameters": {
+      "variant": "pro",
+      "steps": 50,
+      "cfg_scale": 8,
+      "seed": "Explore variations for the adoring personified world."
+    }
+  }
+}

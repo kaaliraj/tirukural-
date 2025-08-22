@@ -1,0 +1,39 @@
+{
+  "Kural_Info": {
+    "Number": 81,
+    "Chapter": "விருந்தோம்பல் (Hospitality)",
+    "Tamil_Text": "இருந்தோம்பி இல்வாழ்வ தெல்லாம் விருந்தோம்பிவேளாண்மை செய்தற் பொருட்டு.",
+    "English_Meaning": "The whole design of living in the domestic state and laying up (property) is (to be able) to exercise the benevolence of hospitality."
+  },
+  "Flux_Optimized_Prompt": {
+    "Layered_Composition": {
+      "Foreground": "A bustling, prosperous ancient Tamil household, filled with stored grains, wealth, and the signs of a well-lived domestic life ('இருந்தோம்பி இல்வாழ்வது').",
+      "Midground": "The main door of the house is wide open. The family is joyfully channeling all their prosperity outwards, offering it to a diverse group of guests ('விருந்தோம்பி') who are being welcomed with warmth and respect.",
+      "Background": "The path leading away from the house is filled with happy, well-fed guests, while new guests are arriving on the horizon. The entire purpose of the household is shown to be this act of giving."
+    },
+    "Art_Direction": {
+      "Subject_and_Action": "The ultimate purpose of maintaining a home and accumulating wealth is not for self-enjoyment, but to practice the great virtue of hospitality.",
+      "Symbolic_Motifs": "The flow of wealth is not inwards but outwards. The home acts as a source, a spring of generosity, rather than a container. The family's greatest joy is in the act of giving, not possessing.",
+      "Mood_and_Emotion": "Generous, purposeful, joyful giving, welcoming.",
+      "Lighting_and_Color": "A warm, golden, inviting light emanates from the home, drawing the guests in. The palette is rich and warm, filled with the colors of harvest and prosperity.",
+      "Technical_Cues": {
+        "Camera": "A warm, inviting wide shot that shows the prosperous home and the joyful act of hospitality as a single, unified purpose.",
+        "Resolution": "8K, ultra-realistic, with rich details on the household goods, food, and the expressions of the family and guests.",
+        "Lighting": "Soft, warm, inviting light, making the home a beacon of generosity.",
+        "Art_Genre": "Historical genre painting, idealistic realism."
+      },
+      "Cultural_Anchors": [
+        "Virunthombal (விருந்தோம்பல்) - Hospitality",
+        "The purpose of domestic life (இல்வாழ்வது)",
+        "Velaanmai (வேளாண்மை) - here meaning beneficence/benevolence"
+      ]
+    },
+    "Negative_Prompt": "hoarding family, closed doors, sad guests, empty house, text artifacts, modern setting.",
+    "Hyperparameters": {
+      "variant": "dev",
+      "steps": 45,
+      "cfg_scale": 7,
+      "seed": "Explore the diversity of the guests being welcomed."
+    }
+  }
+}

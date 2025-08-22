@@ -1,0 +1,39 @@
+{
+  "Kural_Info": {
+    "Number": 429,
+    "Chapter": "அறிவுடைமை (The Possession of Knowledge)",
+    "Tamil_Text": "எதிரதாக் காக்கும் அறிவினார்க் கில்லை அதிர வருவதோர் நோய்.",
+    "English_Meaning": "No terrifying calamity will happen to the wise, who (foresee) and guard against coming evils."
+  },
+  "Flux_Optimized_Prompt": {
+    "Layered_Composition": {
+      "Foreground": "A wise person ('அறிவுடையார்') stands calmly on a path. In the far distance, a terrifying calamity, like a monstrous earthquake or a tsunami ('அதிர வருவதோர் நோய்'), is beginning to form.",
+      "Midground": "Because the wise person has the foresight to see it coming, they are shown taking pre-emptive action ('எதிரதாக் காக்கும்'). They calmly place a single, small, glowing seed of wisdom into the ground before them.",
+      "Background": "From this seed, an impenetrable, crystalline wall of protection instantly grows, completely shielding the path ahead. When the distant calamity arrives, it breaks harmlessly against this wall. The wise person remains completely untouched and secure."
+    },
+    "Art_Direction": {
+      "Subject_and_Action": "For those with the wisdom to foresee and guard against future events, no terrifying disaster will ever reach them.",
+      "Symbolic_Motifs": "The foresight is the ability to see the distant threat. The seed of wisdom growing into an impenetrable shield is the metaphor for pre-emptive action. The disaster breaking harmlessly shows the effectiveness of this wisdom.",
+      "Mood_and_Emotion": "Prescient, prepared, secure, calm, unconquerable.",
+      "Lighting_and_Color": "The distant calamity is dark and menacing. The shield of wisdom glows with a pure, powerful, white light, offering a stark contrast of safety and danger.",
+      "Technical_Cues": {
+        "Camera": "A wide, cinematic shot that shows the distant threat, the wise person's calm action, and the resulting impenetrable defense.",
+        "Resolution": "8K, with epic-scale disaster effects and beautiful crystalline shield effects.",
+        "Lighting": "High-contrast lighting, with the shield being the main source of protective light.",
+        "Art_Genre": "High-fantasy art, with a theme of proactive wisdom."
+      }
+    },
+    "Cultural_Anchors": [
+      "The wisdom that guards against future events ('எதிரதாக் காக்கும் அறிவு')",
+      "No terrifying calamity will come ('அதிர வருவதோர் நோய் இல்லை')",
+      "The power of foresight and preparation."
+    ]
+  },
+  "Negative_Prompt": "a surprised person, a broken shield, person being hit by the calamity, text artifacts, cartoonish.",
+  "Hyperparameters": {
+    "variant": "pro",
+    "steps": 50,
+    "cfg_scale": 9,
+    "seed": "Explore variations for the crystalline shield."
+  }
+}

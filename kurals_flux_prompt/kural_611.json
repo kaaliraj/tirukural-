@@ -1,0 +1,38 @@
+{
+  "Kural_Info": {
+    "Number": 611,
+    "Chapter": "ஆள்வினையுடைமை (Manly Effort)",
+    "Tamil_Text": "அருமை உடைத்தென்று அசாவாமை வேண்டும்பெருமை முயற்சி தரும்.",
+    "English_Meaning": "Yield not to the feebleness which says, \"this is too difficult to be done\"; labour will give the greatness (of mind) which is necessary (to do it)."
+  },
+  "Flux_Optimized_Prompt": {
+    "Layered_Composition": {
+      "Foreground": "A person stands at the base of a colossal, impossibly steep mountain, representing a deed that seems 'too difficult' ('அருமை உடைத்து'). A shadowy figure of Despair whispers in their ear, 'It is impossible'.",
+      "Midground": "The person rejects this despair ('அசாவாமை வேண்டும்'). They begin to climb, and with each step of effort ('முயற்சி'), their own form grows larger, stronger, and more luminous, transforming into a figure of heroic 'greatness' ('பெருமை').",
+      "Background": "By the time they reach the summit, they are a giant, heroic figure whose stature matches the mountain itself. The effort did not just conquer the task; it created the very greatness required to conquer it."
+    },
+    "Art_Direction": {
+      "Subject_and_Action": "Effort itself is the force that creates the greatness needed to overcome seemingly impossible tasks. One should never give in to the despair of difficulty.",
+      "Symbolic_Motifs": "The transformation of the climber is the key visual. They do not start with the required greatness; they acquire it *through* the act of trying. The mountain does not shrink; the person grows to meet it.",
+      "Mood_and_Emotion": "Transformative, heroic, determined, empowering.",
+      "Lighting_and_Color": "The base of the mountain is dark and shadowy, filled with the cold blues of despair. As the climber ascends, their effort generates a warm, golden light of 'greatness' that dispels the shadows. The summit is bathed in the brilliant light of accomplishment.",
+      "Technical_Cues": {
+        "Camera": "A low-angle, vertical pan shot that follows the climber's ascent and transformation, emphasizing their growing heroic stature.",
+        "Resolution": "8K, ultra-realistic, with dynamic scaling and glowing effects for the climber.",
+        "Lighting": "The climber's own effort should be the primary light source that pushes back the darkness of the difficult task.",
+        "Art_Genre": "Epic fantasy art, heroic realism."
+      },
+      "Cultural_Anchors": [
+        "Not despairing at difficulty (அருமை உடைத்தென்று அசாவாமை)",
+        "Effort gives greatness (பெருமை முயற்சி தரும்)"
+      ]
+    },
+    "Negative_Prompt": "person giving up, mountain shrinking, text artifacts, static figure, cartoonish mountain.",
+    "Hyperparameters": {
+      "variant": "pro",
+      "steps": 55,
+      "cfg_scale": 9,
+      "seed": "Explore the visual of the climber growing in heroic stature."
+    }
+  }
+}

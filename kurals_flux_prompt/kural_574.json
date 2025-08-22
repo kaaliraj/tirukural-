@@ -1,0 +1,39 @@
+{
+  "Kural_Info": {
+    "Number": 574,
+    "Chapter": "கண்ணோட்டம் (Benignity)",
+    "Tamil_Text": "உளபோல் முகத்தெவன் செய்யும் அளவினாற் கண்ணோட்டம் இல்லாத கண்.",
+    "English_Meaning": "Beyond appearing to be in the face, what good do they do, those eyes in which is no well-regulated kindness ?."
+  },
+  "Flux_Optimized_Prompt": {
+    "Layered_Composition": {
+      "Foreground": "A close-up on a human face. The eyes are physically present ('உளபோல்'), but they are depicted as lifeless glass marbles or jewels set into the sockets.",
+      "Midground": "They reflect light beautifully, but they do not radiate any warmth, emotion, or kindness ('கண்ணோட்டம் இல்லாத'). They are merely decorative objects on the face.",
+      "Background": "A person is standing before this face, seeking compassion or understanding, but they are met with only this blank, unfeeling stare. The background is blurred, focusing entirely on the uselessness of these 'eyes'."
+    },
+    "Art_Direction": {
+      "Subject_and_Action": "Eyes that lack benignity are useless ornaments; they may exist on the face, but they perform no true function of connection or compassion.",
+      "Symbolic_Motifs": "The eyes as inanimate, beautiful-but-dead objects (glass marbles, jewels) is the central metaphor. They exist physically but are functionally void.",
+      "Mood_and_Emotion": "Empty, lifeless, cold, ornamental, useless.",
+      "Lighting_and_Color": "A cold, clinical studio light that highlights the reflective surface of the marble-eyes but reveals their lack of inner life. The palette is cool and detached.",
+      "Technical_Cues": {
+        "Camera": "An extreme close-up on the eyes, emphasizing their lifeless, artificial quality.",
+        "Resolution": "8K, macro shot with hyper-realistic detail on the glass or jewel texture.",
+        "Lighting": "Sharp, specular lighting to create cold reflections.",
+        "Art_Genre": "Hyperrealism, surrealist portraiture."
+      }
+    },
+    "Cultural_Anchors": [
+      "Eyes without Kindness ('கண்ணோட்டம் இல்லாத கண்')",
+      "Existing only on the face ('உளபோல் முகத்து')",
+      "Functional uselessness."
+    ]
+  },
+  "Negative_Prompt": "warm, emotive eyes, text artifacts, cartoonish face, blurry.",
+  "Hyperparameters": {
+    "variant": "pro",
+    "steps": 50,
+    "cfg_scale": 8,
+    "seed": "Explore variations for the texture of the marble eyes."
+  }
+}

@@ -1,0 +1,33 @@
+{
+  "Kural_Info": {
+    "Number": 1141,
+    "Chapter": "அலரறிவுறுத்தல் (The Announcement of the Rumour)",
+    "Tamil_Text": "அலரெழ ஆருயிர் நிற்கும் அதனைப்பலரறியார் பாக்கியத் தால்.",
+    "English_Meaning": "By this same rumour's rise, my precious life stands fast; Good fortune grant the many know this not!."
+  },
+  "Flux_Optimized_Prompt": {
+    "Layered_Composition": {
+      "Foreground": "A young woman, tormented by love, is shown fainting or near death. Her life force ('Aaruyir') is visualized as a flickering flame about to be extinguished.",
+      "Midground": "Suddenly, whispers and rumors ('Alar') about her love affair begin to rise from the village around her. These whispers are visualized as glowing, magical particles of light.",
+      "Background": "As these glowing particles of rumor reach her, her flickering life-flame steadies and burns brightly again. The rumor, by confirming the love and hastening union, saves her life. She looks relieved that others don't understand this secret remedy."
+    },
+    "Art_Direction": {
+      "Subject_and_Action": "The paradoxical situation where public rumor, usually a negative thing, actually saves the lover's life by forcing the situation towards union. It's a secret 'medicine' that works by happy accident.",
+      "Symbolic_Motifs": "The life force as a flickering flame. The rumor as life-saving, glowing particles. The woman's expression changing from despair to hope.",
+      "Mood_and_Emotion": "Paradoxical, hopeful, secretive, magical.",
+      "Lighting_and_Color": "The scene begins in darkness with the dim flame. As the rumor particles rise, they illuminate the scene with a warm, hopeful, golden light, reviving the colors and her spirit."
+    },
+    "Technical_Cues": {
+      "Camera": "Medium close-up on the woman, capturing her transformation from near-death to revived hope.",
+      "Resolution": "8K, fantasy realism, with beautiful particle effects for the rumor and the flame of life.",
+      "Lighting": "Dynamic lighting that shifts from dark and dim to bright and hopeful.",
+      "Art_Genre": "Mystical realism, blending human emotion with magical, symbolic elements."
+    },
+    "Cultural_Anchors": [
+      "அலர் (Rumour/Gossip)",
+      "The role of public knowledge in uniting lovers",
+      "The idea of a 'secret cure'"
+    ]
+  },
+  "Negative_Prompt": "happy woman from the start, dark particles, dying flame, text artifacts, modern village, blurry."
+}

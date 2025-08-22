@@ -1,0 +1,39 @@
+{
+  "Kural_Info": {
+    "Number": 218,
+    "Chapter": "ஒப்புரவறிதல் (Duty to Society)",
+    "Tamil_Text": "இடனில் பருவத்தும் ஒப்புரவிற்கு ஒல்கார்கடனறி காட்சி யவர்.",
+    "English_Meaning": "The wise who know what is duty will not scant their benevolence even when they are without wealth."
+  },
+  "Flux_Optimized_Prompt": {
+    "Layered_Composition": {
+      "Foreground": "A wise person who knows their duty ('கடன் அறி காட்சியவர்') is shown in a state of extreme poverty. Their home is barren, and their own food bowl is empty ('இடன் இல் பருவத்தும்').",
+      "Midground": "A needy person comes to their door asking for help.",
+      "Background": "Despite having nothing for themselves, the wise person does not waver in their commitment to benevolence ('ஒப்புரவிற்கு ஒல்கார்'). They are shown breaking their last, single piece of bread in half to share with the needy person. The act is small, but the spirit behind it is immense."
+    },
+    "Art_Direction": {
+      "Subject_and_Action": "The truly wise, who understand their duty, will not fail in their benevolence even in times of extreme personal poverty.",
+      "Symbolic_Motifs": "The act of sharing the last piece of bread is a powerful, universal symbol of selfless giving. The contrast between the person's own extreme poverty and their unwavering generosity is the core of the image. Their face shows compassionate resolve, not suffering.",
+      "Mood_and_Emotion": "Selfless, unwavering, noble poverty, compassionate.",
+      "Lighting_and_Color": "A dim, stark light of poverty illuminates the scene. However, the act of sharing the bread creates a small but brilliant, warm, golden light of virtue that pushes back the surrounding gloom. This light shows that their action is a source of immense spiritual wealth.",
+      "Technical_Cues": {
+        "Camera": "An intimate close-up on the hands breaking and sharing the last piece of bread, with the compassionate face of the giver in focus.",
+        "Resolution": "8K, hyper-realistic, focusing on the emotional weight of the small, selfless act.",
+        "Lighting": "The small act of giving is the only source of warm light in an otherwise cold and poor environment.",
+        "Art_Genre": "Social realism, with a touch of the divine."
+      },
+      "Cultural_Anchors": [
+        "Those of vision who know their duty (கடன் அறி காட்சியவர்)",
+        "Will not fail in benevolence (ஒப்புரவிற்கு ஒல்கார்)",
+        "Even in a time of poverty (இடன் இல் பருவத்தும்)"
+      ]
+    },
+    "Negative_Prompt": "person hoarding the last bread, angry poor person, text artifacts.",
+    "Hyperparameters": {
+      "variant": "pro",
+      "steps": 50,
+      "cfg_scale": 9,
+      "seed": "Explore the visual of the 'small light of virtue' from the act of sharing."
+    }
+  }
+}

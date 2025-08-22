@@ -1,0 +1,39 @@
+{
+  "Kural_Info": {
+    "Number": 727,
+    "Chapter": "அவையஞ்சாமை (Not to dread the Council)",
+    "Tamil_Text": "பகையகத்துப் பேடிகை ஒள்வாள் அவையகத்து அஞ்சு மவன்கற்ற நூல்.",
+    "English_Meaning": "The learning of him who is diffident before an assembly is like the shining sword of an hermaphrodite in the presence of his foes."
+  },
+  "Flux_Optimized_Prompt": {
+    "Layered_Composition": {
+      "Foreground": "A direct and powerful visual analogy. On the left, in a fierce battlefield ('பகையகத்து'), an effeminate or cowardly person ('பேடி') holds a sharp, shining sword ('ஒள்வாள்'), but is trembling and unable to use it effectively against an enemy.",
+      "Midground": "On the right, in a learned assembly ('அவையகத்து'), a scholar who is terrified of the audience ('அஞ்சுமவன்') holds a great book of knowledge ('கற்ற நூல்'). Like the coward with the sword, he is trembling and unable to use his knowledge effectively.",
+      "Background": "In both cases, the powerful tool—the sword and the book—is rendered completely useless and pathetic by the fear of the person holding it."
+    },
+    "Art_Direction": {
+      "Subject_and_Action": "The knowledge of a scholar who fears the assembly is as useless as a sharp sword in the hands of a coward on the battlefield.",
+      "Symbolic_Motifs": "The parallel between the two scenes is the entire message. The shining sword and the great book are both potent symbols of power, made impotent by fear.",
+      "Mood_and_Emotion": "Useless, impotent, pathetic, fearful.",
+      "Lighting_and_Color": "Harsh, judgmental lighting on both figures, highlighting their fear and failure. The sword and book can gleam ironically.",
+      "Technical_Cues": {
+        "Camera": "A side-by-side composition that makes the comparison stark and unavoidable.",
+        "Resolution": "8K, focusing on the fearful expressions and the unused potential of the tools.",
+        "Lighting": "High-contrast, dramatic lighting.",
+        "Art_Genre": "Historical realism, with a strong allegorical message."
+      }
+    },
+    "Cultural_Anchors": [
+      "A sharp sword in a coward's hand ('பேடிகை ஒள்வாள்')",
+      "Learning of one who fears the assembly ('அவையத்து அஞ்சுமவன் கற்ற நூல்')",
+      "The uselessness of knowledge without intellectual courage."
+    ]
+  },
+  "Negative_Prompt": "brave warrior, confident scholar, text artifacts, blurry.",
+  "Hyperparameters": {
+    "variant": "pro",
+    "steps": 50,
+    "cfg_scale": 8,
+    "seed": "Explore variations for the trembling postures."
+  }
+}

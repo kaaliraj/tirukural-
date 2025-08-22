@@ -1,0 +1,40 @@
+{
+  "Kural_Info": {
+    "Number": 431,
+    "Chapter": "குற்றங்கடிதல் (The Correction of Faults)",
+    "Tamil_Text": "செருக்குஞ் சினமும் சிறுமையும் இல்லார்பெருக்கம் பெருமித நீர்த்து.",
+    "English_Meaning": "The prosperity of those who are free from pride, anger, and lust is truly great."
+  },
+  "Flux_Optimized_Prompt": {
+    "Layered_Composition": {
+      "Foreground": "A noble figure stands, their form radiating a calm, powerful light. Three shadowy beasts—a peacock (Pride/Arrogance - செருக்கு), a snarling wolf (Anger - சினம்), and a slithering snake (Lust/Meanness - சிறுமை)—are shown dissolving into smoke at their feet.",
+      "Midground": "As the beasts dissolve, the figure's own stature and the light around them visibly grow, signifying their increasing greatness ('பெருக்கம்'). Their expression is one of serene dignity, not boastful pride.",
+      "Background": "A flourishing, peaceful landscape under a bright, clear sky, representing the prosperous state that results from mastering these faults."
+    },
+    "Art_Direction": {
+      "Subject_and_Action": "The greatness and dignity of a person are magnified when they are free from the faults of arrogance, anger, and meanness.",
+      "Symbolic_Motifs": "The three beasts are potent symbols for the three faults. Their dissolution represents the mastery over them. The growth in the figure's light and stature symbolizes the resulting increase in true greatness ('பெருமித நீர்த்து').",
+      "Mood_and_Emotion": "Dignified, serene, powerful, self-controlled, noble.",
+      "Lighting_and_Color": "A pure, bright white-gold light emanates from the noble figure. The shadow beasts are dark and smoky. The overall palette is clear, bright, and positive."
+    },
+    "Technical_Cues": {
+      "Camera": "Low-angle shot, making the central figure appear noble and heroic.",
+      "Resolution": "8K, cinematic, with high-quality particle effects for the dissolving beasts.",
+      "Lighting": "Strong, radiant lighting from the central figure, symbolizing their inner virtue.",
+      "Art_Genre": "High-fantasy art, symbolic allegorical painting."
+    },
+    "Cultural_Anchors": [
+      "Freedom from 'Serukku' (Arrogance)",
+      "Freedom from 'Sinam' (Anger)",
+      "Freedom from 'Sirumai' (Meanness/Lust)",
+      "Attainment of 'Perumitham' (True Greatness)"
+    ]
+  },
+  "Negative_Prompt": "figure showing anger or pride, beasts attacking successfully, dark background, text artifacts.",
+  "Hyperparameters": {
+    "variant": "pro",
+    "steps": 50,
+    "cfg_scale": 8,
+    "seed": "Explore variations for the design of the symbolic beasts."
+  }
+}

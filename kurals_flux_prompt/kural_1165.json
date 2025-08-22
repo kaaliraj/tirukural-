@@ -1,0 +1,33 @@
+{
+  "Kural_Info": {
+    "Number": 1165,
+    "Chapter": "படர்மெலிந்திரங்கல் (Complainings)",
+    "Tamil_Text": "துப்பின் எவனாவர் மன்கொல் துயர்வரவுநட்பினுள் ஆற்று பவர்.",
+    "English_Meaning": "Who work us woe in friendship's trustful hour, What will they prove when angry tempests lower?."
+  },
+  "Flux_Optimized_Prompt": {
+    "Layered_Composition": {
+      "Foreground": "A woman is depicted with her lover during what should be a time of friendship and peace ('Natpinul'). However, he is causing her sorrow ('Thuyar Varavu'), visualized as him handing her a cup filled with a bitter, dark liquid.",
+      "Midground": "A flash-forward or vision is shown behind them. In this vision, the same lover is now an outright enemy ('Thuppin'), and the sorrow he inflicts is magnified—the single cup of sorrow has become a raging, destructive flood.",
+      "Background": "The initial setting is a peaceful garden, which transforms into a desolate, ruined landscape in the vision of future enmity."
+    },
+    "Art_Direction": {
+      "Subject_and_Action": "A fearful rhetorical question: If my lover can cause me this much pain even when he is acting as a friend, what unimaginable sorrow will he inflict if he ever becomes a true enemy?",
+      "Symbolic_Motifs": "The cup of sorrow in friendship versus the flood of sorrow in enmity. The transition of the landscape from peaceful to ruined.",
+      "Mood_and_Emotion": "Fearful, apprehensive, questioning, a sense of foreboding.",
+      "Lighting_and_Color": "The 'friendship' scene has deceptively soft lighting, which makes the dark liquid of sorrow stand out. The 'enmity' vision is lit with harsh, stormy light, in dark and destructive colors."
+    },
+    "Technical_Cues": {
+      "Camera": "Medium shot focusing on the woman's apprehensive face as she receives the 'cup of sorrow', with the future vision appearing ominously behind her lover.",
+      "Resolution": "8K, surreal realism, with effects showing the transition from one state to another.",
+      "Lighting": "Split lighting to differentiate between the deceptive present and the feared future.",
+      "Art_Genre": "Psychological thriller, using visual foreshadowing to build dread."
+    },
+    "Cultural_Anchors": [
+      "The fear of a friend turning into a foe",
+      "The escalation of sorrow (துயர்)",
+      "நட்பு (Friendship) vs. துப்பு (Enmity)"
+    ]
+  },
+  "Negative_Prompt": "a kind lover, a happy couple, modern setting, text artifacts, cartoonish, blurry."
+}

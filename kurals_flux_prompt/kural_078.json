@@ -1,0 +1,39 @@
+{
+  "Kural_Info": {
+    "Number": 78,
+    "Chapter": "அன்புடைமை (The Possession of Love)",
+    "Tamil_Text": "அன்பகத் தில்லா உயிர்வாழ்க்கை வன்பாற்கண்வற்றல் மரந்தளிர்த் தற்று.",
+    "English_Meaning": "The domestic state of that man whose mind is without love is like the flourishing of a withered tree upon the parched desert."
+  },
+  "Flux_Optimized_Prompt": {
+    "Layered_Composition": {
+      "Foreground": "A single, dead, withered tree ('வற்றல் மரம்') stands in the middle of a vast, rocky desert or parched wasteland ('வன்பாற்கண்').",
+      "Midground": "Miraculously, a few green leaves are attempting to sprout from its dead branches ('தளிர்த்தற்று'), but they are weak and unsustainable.",
+      "Background": "The entire scene is a metaphor for the 'life of a soul without love' ('அன்பகத்தில்லா உயிர்வாழ்க்கை'). The outward appearance of life (the leaves) is a futile, unnatural struggle devoid of a true, internal source of nourishment (love)."
+    },
+    "Art_Direction": {
+      "Subject_and_Action": "A powerful, desolate image illustrating the futility and unnaturalness of a life devoid of inner love, comparing it to a dead tree trying to sprout in a barren desert.",
+      "Symbolic_Motifs": "The contrast between the dead wood and the forced greenery is key. It should look wrong, a brief illusion of life that cannot last. The barrenness of the surrounding desert mirrors the inner barrenness of the loveless heart.",
+      "Mood_and_Emotion": "Futile, barren, unnatural, desolate, unsustainable.",
+      "Lighting_and_Color": "Harsh, unforgiving desert sunlight. The palette is dominated by the browns and greys of the dead tree and the parched earth. The few green leaves provide a stark, almost painful splash of color that highlights the scene's tragedy.",
+      "Technical_Cues": {
+        "Camera": "A lonely, wide shot, isolating the single tree in the vast, empty landscape to emphasize its solitude and hopelessness.",
+        "Resolution": "8K, hyper-realistic, with sharp focus on the textures of the dead bark and the fragile, out-of-place leaves.",
+        "Lighting": "Stark, high-contrast lighting to create a sense of harshness and desolation.",
+        "Art_Genre": "Surrealist landscape, symbolic realism."
+      },
+      "Cultural_Anchors": [
+        "The withered tree (வற்றல் மரம்)",
+        "The barren land (வன்பாற்கண்)",
+        "The loveless soul (அன்பகத்தில்லா உயிர்)"
+      ]
+    },
+    "Negative_Prompt": "lush forest, healthy tree, raining, happy person, text artifacts.",
+    "Hyperparameters": {
+      "variant": "pro",
+      "steps": 50,
+      "cfg_scale": 8,
+      "seed": "Explore the texture of the parched desert land."
+    }
+  }
+}

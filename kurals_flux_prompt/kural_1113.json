@@ -1,0 +1,41 @@
+{
+  "Kural_Info": {
+    "Number": 1113,
+    "Chapter": "நலம்புனைந்துரைத்தல் (The Praise of her Beauty)",
+    "Tamil_Text": "முறிமேனி முத்தம் முறுவல் வெறிநாற்றம்வேலுண்கண் வேய்த்தோ ளவட்கு.",
+    "English_Meaning": "The complexion of this bamboo-shouldered one is that of a shoot; her teeth, are pearls; her breath, fragrance; and her dyed eyes, lances."
+  },
+  "Flux_Optimized_Prompt": {
+    "Layered_Composition": {
+      "Foreground": "A beautiful maiden with bamboo-like shoulders ('வேய் தோளவட்கு') is depicted.",
+      "Midground": "Her various features are highlighted with magical, metaphorical comparisons that manifest visually around her.",
+      "Background": "Her skin ('மேனி') has the texture and tenderness of a fresh leaf-shoot ('முறி'). Her smile ('முறுவல்') reveals teeth that are literally perfect, glowing pearls ('முத்தம்'). Her breath is a visible, fragrant aura of sweet smells ('வெறி நாற்றம்'). Her kohl-lined eyes ('உண் கண்') are not just dark and beautiful, but are sharp, piercing, and powerful like perfectly forged lances ('வேல்')."
+    },
+    "Art_Direction": {
+      "Subject_and_Action": "A poetic and literal visualization of the beloved's features, where each is compared to a perfect, and sometimes powerful, natural or crafted object.",
+      "Symbolic_Motifs": "Each comparison is made literal and visible. This is a catalogue of her perfection, blending softness (shoot, fragrance) with value (pearls) and dangerous power (lances). The bamboo-like shoulders provide the frame for this masterpiece.",
+      "Mood_and_Emotion": "Adoring, worshipful, perfect beauty, powerful.",
+      "Lighting_and_Color": "A beautiful, magical light that brings out the unique quality of each feature. The skin has a fresh, green-gold glow; the teeth a pearlescent lustre; the breath a fragrant, shimmering mist; and the eyes a sharp, metallic, dangerous glint.",
+      "Technical_Cues": {
+        "Camera": "A detailed portrait shot that uses focus pulls and subtle visual effects to highlight each of the four praised features in sequence.",
+        "Resolution": "8K, hyper-realistic, with a mix of natural and fantastical textures.",
+        "Lighting": "Complex, multi-source lighting to give each feature its own unique, magical quality.",
+        "Art_Genre": "High-fantasy portraiture, magical realism."
+      },
+      "Cultural_Anchors": [
+        "Body like a leaf-shoot (முறி மேனி)",
+        "Smile like pearls (முத்தம் முறுவல்)",
+        "Fragrant breath (வெறி நாற்றம்)",
+        "Eyes like lances (வேல் உண் கண்)",
+        "Bamboo-like shoulders (வேய் தோள்)"
+      ]
+    },
+    "Negative_Prompt": "plain features, text artifacts, ugly woman.",
+    "Hyperparameters": {
+      "variant": "pro",
+      "steps": 55,
+      "cfg_scale": 8,
+      "seed": "Explore the visual of 'eyes like forged lances'."
+    }
+  }
+}

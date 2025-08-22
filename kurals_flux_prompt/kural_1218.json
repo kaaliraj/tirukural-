@@ -1,0 +1,33 @@
+{
+  "Kural_Info": {
+    "Number": 1218,
+    "Chapter": "கனவுநிலையுரைத்தல் (The Visions of the Night)",
+    "Tamil_Text": "துஞ்சுங்கால் தோள்மேலர் ஆகி விழிக்குங்கால்நெஞ்சத்தர் ஆவர் விரைந்து.",
+    "English_Meaning": "And when I sleep he holds my form embraced; And when I wake to fill my heart makes haste!."
+  },
+  "Flux_Optimized_Prompt": {
+    "Layered_Composition": {
+      "Foreground": "A woman is shown in two states. On one side, she is asleep ('Thunjungaal'), and her lover is physically embracing her shoulders ('Tholmelar Aagi') in the dream.",
+      "Midground": "On the other side, she is just waking up ('Vizhikkungaal'). As the physical dream-form of her lover fades, a luminous essence of him is seen swiftly entering her heart, taking up residence there ('Nenjaththar Aavar').",
+      "Background": "A seamless transition from a magical dreamscape to a quiet, real-world bedroom, showing the lover's swift movement from the external dream to the internal heart."
+    },
+    "Art_Direction": {
+      "Subject_and_Action": "A description of the lover's constant presence: he is physically embracing me in my dreams, and the moment I wake up, he swiftly moves to occupy my heart.",
+      "Symbolic_Motifs": "The transition of the lover from a physical dream-embrace to a luminous presence in the heart is the central action.",
+      "Mood_and_Emotion": "Loving, ever-present, a sense of seamless connection between dream and reality.",
+      "Lighting_and_Color": "The dream embrace is in a soft, magical, warm light. The transition to the heart is a quick, beautiful streak of golden light. The waking room is filled with a soft morning glow."
+    },
+    "Technical_Cues": {
+      "Camera": "A fluid, motion-control shot that follows the lover's essence as it moves from the dream-embrace into her heart as she wakes.",
+      "Resolution": "8K, mystical realism, with beautiful and smooth transition effects.",
+      "Lighting": "Magical and natural lighting blended seamlessly.",
+      "Art_Genre": "Romantic fantasy, with a focus on spiritual connection."
+    },
+    "Cultural_Anchors": [
+      "The lover's presence in both dream and thought",
+      "தோள்மேல் இருத்தல் (Being on the shoulder/embracing)",
+      "நெஞ்சில் இருத்தல் (Being in the heart)"
+    ]
+  },
+  "Negative_Prompt": "a lover who vanishes completely, a sad awakening, a harsh transition, modern setting, text artifacts."
+}

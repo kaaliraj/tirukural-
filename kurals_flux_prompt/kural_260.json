@@ -1,0 +1,38 @@
+{
+  "Kural_Info": {
+    "Number": 260,
+    "Chapter": "புலான்மறுத்தல் (Abstinence from Flesh)",
+    "Tamil_Text": "கொல்லான் புலாலை மறுத்தானைக் கைகூப்பிஎல்லா உயிருந் தொழும்.",
+    "English_Meaning": "All creatures will join their hands together, and worship him who has never taken away life, nor eaten flesh."
+  },
+  "Flux_Optimized_Prompt": {
+    "Layered_Composition": {
+      "Foreground": "A serene, compassionate person stands in a peaceful landscape. They have made two vows: they do not kill ('கொல்லான்') and they have renounced flesh-eating ('புலாலை மறுத்தானை').",
+      "Midground": "Because of these vows, all the creatures of the world ('எல்லா உயிரும்') are shown gathering around them in an act of worship.",
+      "Background": "The animals—lions, deer, birds, snakes, fish—are not behaving naturally. They are shown with their paws, claws, or fins brought together in the human gesture of reverent worship, the anjali mudra ('கை கூப்பி'). They are all looking at the non-violent person with expressions of gratitude and adoration ('தொழும்')."
+    },
+    "Art_Direction": {
+      "Subject_and_Action": "All the living beings of the world will worship the person who refrains from killing and eating flesh.",
+      "Symbolic_Motifs": "The animals performing the 'kai kuppi' gesture is the central, powerful, and surreal image. This anthropomorphic act of worship shows their conscious recognition and reverence for the person's great virtue. The scene is a peaceable kingdom created by a single human's compassion.",
+      "Mood_and_Emotion": "Reverence, worship, universal peace, harmony.",
+      "Lighting_and_Color": "A beautiful, divine, golden light, reminiscent of a saint's halo, emanates from the compassionate person, bathing the entire scene in a blessed glow. The palette is warm, gentle, and harmonious.",
+      "Technical_Cues": {
+        "Camera": "A wide, majestic shot that captures the central figure and the entire, vast assembly of diverse, worshipping animals.",
+        "Resolution": "8K, ultra-realistic, with a focus on the expressive and reverent postures of the various animals.",
+        "Lighting": "Soft, divine, volumetric lighting to create a sacred atmosphere.",
+        "Art_Genre": "High fantasy art, in the style of a depiction of the Garden of Eden or a saint."
+      },
+      "Cultural_Anchors": [
+        "He who does not kill and renounces flesh (கொல்லான் புலாலை மறுத்தானை)",
+        "All life will worship with joined hands (எல்லா உயிரும் கை கூப்பித் தொழும்)"
+      ]
+    },
+    "Negative_Prompt": "animals attacking the person, text artifacts, person eating meat.",
+    "Hyperparameters": {
+      "variant": "pro",
+      "steps": 60,
+      "cfg_scale": 8,
+      "seed": "Explore the surreal and beautiful image of all animals performing anjali mudra."
+    }
+  }
+}

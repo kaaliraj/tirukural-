@@ -1,0 +1,38 @@
+{
+  "Kural_Info": {
+    "Number": 270,
+    "Chapter": "தவம் (Penance)",
+    "Tamil_Text": "இலர்பல ராகிய காரணம் நோற்பார்சிலர்பலர் நோலா தவர்.",
+    "English_Meaning": "Because there are few who practise austerity and many who do not, there are many destitute and few rich in this world."
+  },
+  "Flux_Optimized_Prompt": {
+    "Layered_Composition": {
+      "Foreground": "A split composition of the world's population.",
+      "Midground": "On one side, a small, select group of people are shown practicing penance ('நோற்பார் சிலர்'). They are disciplined and focused. This side of the world is shown to be spiritually and materially rich.",
+      "Background": "On the other side, a vast, teeming crowd of people are shown not practicing penance, but indulging in worldly pleasures ('நோலாதவர் பலர்'). This side of the world is shown to be in a state of poverty and destitution ('இலர் பலர்')."
+    },
+    "Art_Direction": {
+      "Subject_and_Action": "A direct causal explanation for the state of the world: there are many poor people because many people do not practice penance, and there are few rich people because few people practice penance.",
+      "Symbolic_Motifs": "The key is the correlation: few ascetics, few rich; many non-ascetics, many poor. Penance is presented as the direct cause of all true wealth. The poverty of the many is a direct result of their lack of spiritual discipline.",
+      "Mood_and_Emotion": "Causal, explanatory, karmic economics.",
+      "Lighting_and_Color": "The side with the few ascetics is bathed in a prosperous, golden light. The side with the many indulgent people is cast in a dim, grey, impoverished light.",
+      "Technical_Cues": {
+        "Camera": "A high-angle, wide shot that clearly shows the demographic split and the resulting economic conditions on both sides.",
+        "Resolution": "8K, ultra-realistic, with a clear contrast between the prosperous few and the destitute many.",
+        "Lighting": "Contrasting lighting to show the link between spiritual practice and material outcome.",
+        "Art_Genre": "Symbolic social realism."
+      },
+      "Cultural_Anchors": [
+        "The reason there are many poor (இலர் பலர் ஆகிய காரணம்)",
+        "Is that few do penance, and many do not (நோற்பார் சிலர், பலர் நோலாதவர்)"
+      ]
+    },
+    "Negative_Prompt": "many rich people, few poor people, text artifacts.",
+    "Hyperparameters": {
+      "variant": "dev",
+      "steps": 45,
+      "cfg_scale": 8,
+      "seed": "Explore the contrast between the small, rich group and the large, poor group."
+    }
+  }
+}

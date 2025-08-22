@@ -1,0 +1,39 @@
+{
+  "Kural_Info": {
+    "Number": 14,
+    "Chapter": "வான்சிறப்பு (The Blessing of Rain)",
+    "Tamil_Text": "ஏரின் உழாஅர் உழவர் புயல்என்னும்வாரி வளங்குன்றிக் கால்.",
+    "English_Meaning": "If the abundance of wealth imparting rain diminish, the labour of the plough must cease."
+  },
+  "Flux_Optimized_Prompt": {
+    "Layered_Composition": {
+      "Foreground": "A dejected Tamil farmer leans on his plough ('ஏர்'), which lies idle on the ground. His powerful oxen stand nearby, their strength unused.",
+      "Midground": "Behind him, a vast, parched paddy field lies unploughed and cracked. The scene is static and lifeless, symbolizing the cessation of all agricultural activity.",
+      "Background": "In the deep background, the sky is a pale, empty blue. The clouds ('புயல்'), normally a source of wealth ('வாரி வளம்'), are thin, wispy, and devoid of water, having failed in their duty."
+    },
+    "Art_Direction": {
+      "Subject_and_Action": "The foundational act of civilization, ploughing, comes to a complete halt because the clouds have failed to provide their wealth of water.",
+      "Symbolic_Motifs": "The plough, a symbol of creation and sustenance, is depicted as a useless artifact. The farmer’s strong hands are idle, representing potential and energy thwarted by the lack of rain.",
+      "Mood_and_Emotion": "Stagnant, dejected, potential unrealized, foundational failure.",
+      "Lighting_and_Color": "A flat, harsh, midday light that bleaches the color from the scene. The palette is dominated by dusty browns, pale yellows, and a washed-out blue sky, emphasizing the aridity and lack of life."
+    },
+    "Technical_Cues": {
+      "Camera": "Wide shot, eye-level, 35mm lens, creating a sense of desolate emptiness and static composition.",
+      "Resolution": "8K, ultra-realistic, with sharp focus on the cracked texture of the earth and the farmer's despondent expression.",
+      "Lighting": "High-key lighting with minimal shadows, creating a feeling of exposure and relentless heat.",
+      "Art_Genre": "Social realism, photorealistic digital painting."
+    },
+    "Cultural_Anchors": [
+      "The plough (ஏர்) as a symbol of civilization",
+      "The farmer (உழவர்) as the bedrock of society",
+      "Clouds as a source of wealth (வாரி வளம்)"
+    ]
+  },
+  "Negative_Prompt": "raining, ploughed field, green crops, happy farmer, modern equipment, text artifacts, oversaturated colors.",
+  "Hyperparameters": {
+    "variant": "dev",
+    "steps": 40,
+    "cfg_scale": 8,
+    "seed": "Explore variations for the texture of the unploughed land."
+  }
+}

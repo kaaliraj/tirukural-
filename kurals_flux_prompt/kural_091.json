@@ -1,0 +1,39 @@
+{
+  "Kural_Info": {
+    "Number": 91,
+    "Chapter": "இனியவை கூறல் (The Utterance of Pleasant Words)",
+    "Tamil_Text": "இன்சொலால் ஈரம் அளைஇப் படிறுஇலவாம்செம்பொருள் கண்டார்வாய்ச் சொல்.",
+    "English_Meaning": "Sweet words are those which imbued with love and free from deceit flow from the mouth of the virtuous."
+  },
+  "Flux_Optimized_Prompt": {
+    "Layered_Composition": {
+      "Foreground": "A virtuous sage ('செம்பொருள் கண்டார்'), whose heart is visibly glowing with a pure light of truth, is speaking.",
+      "Midground": "The words ('சொல்') that emerge from their mouth are not harsh letters, but are visualized as gentle, luminous dewdrops or soft flower petals. These words are visibly imbued with a warm, reddish glow of Love/Compassion ('ஈரம் அளைஇ').",
+      "Background": "The background is serene and pure, indicating the speaker's guileless nature ('படிறு இலவாம்'). The words float gently towards a listener, bringing with them a sense of peace and clarity."
+    },
+    "Art_Direction": {
+      "Subject_and_Action": "The definition of 'sweet speech' as words that are born from a virtuous person who has seen the truth, and are mixed with love and free from any deceit.",
+      "Symbolic_Motifs": "The glowing heart represents the speaker's knowledge of truth. The words as dewdrops represent their refreshing and life-giving quality. The reddish glow within the dewdrops represents 'eeram' - a word that means both moisture and love/compassion.",
+      "Mood_and_Emotion": "Sincere, compassionate, pure, gentle, truthful.",
+      "Lighting_and_Color": "A soft, pure, golden-white light emanates from the sage. The spoken words are like translucent pearls or dewdrops, with a warm, loving, reddish-gold light glowing from within them.",
+      "Technical_Cues": {
+        "Camera": "An intimate close-up on the sage's face, focusing on their sincere expression and the magical quality of the words they speak.",
+        "Resolution": "8K, ultra-realistic, with beautiful particle and light effects for the spoken words.",
+        "Lighting": "The primary light source is the speaker's own inner virtue and the words they produce.",
+        "Art_Genre": "Mystical realism, symbolic portraiture."
+      },
+      "Cultural_Anchors": [
+        "Insol (இன்சொல்) - Sweet/Pleasant words",
+        "Eeram (ஈரம்) - Moisture, symbolizing love/compassion",
+        "Semporul Kandaar (செம்பொருள் கண்டார்) - Those who have seen the Truth"
+      ]
+    },
+    "Negative_Prompt": "harsh words, angry sage, dark heart, text artifacts, deceitful expression, abstract letters.",
+    "Hyperparameters": {
+      "variant": "pro",
+      "steps": 50,
+      "cfg_scale": 7,
+      "seed": "Explore the visual representation of words as 'love-infused dewdrops'."
+    }
+  }
+}

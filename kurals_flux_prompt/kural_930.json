@@ -1,0 +1,39 @@
+{
+  "Kural_Info": {
+    "Number": 930,
+    "Chapter": "கள்ளுண்ணாமை (Not Drinking Palm-Wine)",
+    "Tamil_Text": "கள்ளுண்ணாப் போழ்திற் களித்தானைக் காணுங்கால் உள்ளான்கொல் உண்டதன் சோர்வு.",
+    "English_Meaning": "When a drunkard who is sober sees one who is not, it looks as if he remembered not the evil effects of his (own) drink."
+  },
+  "Flux_Optimized_Prompt": {
+    "Layered_Composition": {
+      "Foreground": "A man is sober ('கள்ளுண்ணாப் போழ்தில்'). He is looking with disapproval or amusement at another man who is currently drunk and behaving foolishly ('களித்தானைக் காணுங்கால்').",
+      "Midground": "A ghostly, transparent image of the sober man himself is shown from the previous day, when he was the one who was drunk and behaving in the exact same foolish and disgraceful way ('உண்டதன் சோர்வு').",
+      "Background": "The sober man's mind is depicted as a blank slate or a foggy mirror, showing that he does not remember or reflect upon his own disgraceful behavior from when he was drunk ('உள்ளான்கொல்')."
+    },
+    "Art_Direction": {
+      "Subject_and_Action": "When a man is sober, does he not remember his own disgraceful behavior when he sees another man who is currently drunk?",
+      "Symbolic_Motifs": "The ghostly image of his own past drunkenness is the key visual. It highlights the hypocrisy and lack of self-awareness of the sober drunkard.",
+      "Mood_and_Emotion": "Ironic, hypocritical, a lack of self-awareness.",
+      "Lighting_and_Color": "A clear, normal light for the current scene. The ghostly memory of his own drunkenness can be hazy and shameful.",
+      "Technical_Cues": {
+        "Camera": "A shot that includes the sober man, the drunk man he is watching, and the ghostly image of his own past actions.",
+        "Resolution": "8K, with a focus on the characters' expressions.",
+        "Lighting": "Naturalistic lighting.",
+        "Art_Genre": "Psychological realism, with a ghostly overlay."
+      },
+      "Cultural_Anchors": [
+        "The sober drunkard watching another drunkard",
+        "Does he not remember his own shame?",
+        "The hypocrisy of the addict."
+      ]
+    },
+    "Negative_Prompt": "a man showing remorse, text artifacts, cartoonish.",
+    "Hyperparameters": {
+      "variant": "dev",
+      "steps": 40,
+      "cfg_scale": 8,
+      "seed": "Explore variations for the ghostly memory."
+    }
+  }
+}

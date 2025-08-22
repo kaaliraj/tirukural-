@@ -1,0 +1,38 @@
+{
+  "Kural_Info": {
+    "Number": 252,
+    "Chapter": "புலான்மறுத்தல் (Abstinence from Flesh)",
+    "Tamil_Text": "பொருளாட்சி போற்றாதார்க்கு இல்லை அருளாட்சிஆங்கில்லை ஊன்தின் பவர்க்கு.",
+    "English_Meaning": "As those possess no property who do not take care of it, so those possess no kindness who feed on flesh."
+  },
+  "Flux_Optimized_Prompt": {
+    "Layered_Composition": {
+      "Foreground": "A split composition illustrating a parallel.",
+      "Midground": "On the left, a person is shown being careless with their wealth ('பொருள் ஆட்சி போற்றாதார்'). Their gold coins are spilling from their hands and turning to dust. They are shown to have no real possession of their wealth.",
+      "Background": "On the right, a person is shown eating flesh ('ஊன் தின்பவர்'). In the same way, the virtue of Compassion ('அருள்'), personified as a gentle, glowing spirit, is shown fleeing from them. They have no possession of Compassion ('அருள் ஆட்சி ஆங்கு இல்லை')."
+    },
+    "Art_Direction": {
+      "Subject_and_Action": "A direct analogy: just as a person who is careless with their wealth doesn't truly possess it, a person who eats flesh cannot possibly possess the virtue of compassion.",
+      "Symbolic_Motifs": "The parallel actions of 'losing possession' are key. The wealth turning to dust and the spirit of Compassion flying away are two visuals for the same concept. Eating flesh is presented as an act of spiritual carelessness that makes possessing grace impossible.",
+      "Mood_and_Emotion": "Parallelism, logical consequence, loss of possession.",
+      "Lighting_and_Color": "The left scene is lit with a careless, fading light. The right scene shows the warm, gentle light of the spirit of Compassion actively departing, leaving the flesh-eater in a cold, graceless shadow.",
+      "Technical_Cues": {
+        "Camera": "A balanced diptych that presents the two parallel losses as a single, unified law.",
+        "Resolution": "8K, ultra-realistic, with ethereal effects for the departing spirit of Compassion.",
+        "Lighting": "In both scenes, the valuable thing (wealth, compassion) is the source of light, and it is shown leaving the subject.",
+        "Art_Genre": "Allegorical painting."
+      },
+      "Cultural_Anchors": [
+        "Rule of compassion is not for the flesh-eater (அருள் ஆட்சி ஆங்கு இல்லை ஊன் தின்பவர்க்கு)",
+        "Just as the rule of property is not for the careless (பொருள் ஆட்சி போற்றாதார்க்கு இல்லை)"
+      ]
+    },
+    "Negative_Prompt": "flesh-eater being compassionate, careless person keeping their wealth, text artifacts.",
+    "Hyperparameters": {
+      "variant": "pro",
+      "steps": 50,
+      "cfg_scale": 8,
+      "seed": "Explore the visual of the 'departing spirit of Compassion'."
+    }
+  }
+}

@@ -1,0 +1,39 @@
+{
+  "Kural_Info": {
+    "Number": 22,
+    "Chapter": "நீத்தார் பெருமை (The Greatness of Ascetics)",
+    "Tamil_Text": "துறந்தார் பெருமை துணைக்கூறின் வையத்துஇறந்தாரை எண்ணிக்கொண் டற்று.",
+    "English_Meaning": "To describe the measure of the greatness of those who have forsaken the two-fold desires, is like counting the dead."
+  },
+  "Flux_Optimized_Prompt": {
+    "Layered_Composition": {
+      "Foreground": "An ancient Tamil scholar sits before a vast, empty scroll, his writing stylus poised but unmoving, his face a mask of awe and futility.",
+      "Midground": "The scholar's gaze is fixed on a cosmic vision unfolding before him: a vast, swirling galaxy where each star represents a measure of a renunciant's greatness ('துறந்தார் பெருமை').",
+      "Background": "The galaxy stretches into infinity, filled with countless stars, symbolizing the impossibility of the task. Another faint visual layer shows ghostly, numberless figures of all who have ever lived and died ('இறந்தாரை எண்ணுதல்'), reinforcing the theme of infinite count."
+    },
+    "Art_Direction": {
+      "Subject_and_Action": "The utter futility of trying to quantify or measure the greatness of true renunciants, comparing it to the impossible task of counting all the dead.",
+      "Symbolic_Motifs": "The empty scroll signifies the inability of language and numbers to capture this greatness. The galaxy of 'greatness' is vibrant and alive, contrasting with the static, impossible task of the scholar.",
+      "Mood_and_Emotion": "Awe-inspiring, infinite, humbling, the limits of human comprehension.",
+      "Lighting_and_Color": "The scholar is lit by the faint, cool light of his lamp. The vast galaxy provides the primary illumination, bathing him in a cosmic, ethereal glow of blues, purples, and stellar gold.",
+      "Technical_Cues": {
+        "Camera": "Over-the-shoulder shot of the scholar, focusing on the vast cosmic vision he is witnessing. 35mm lens.",
+        "Resolution": "8K, ultra-realistic detail on the scholar and his manuscript, with vibrant, artistic nebula effects for the galaxy.",
+        "Lighting": "High contrast between the dim study and the radiant galaxy. Volumetric starlight.",
+        "Art_Genre": "Cosmic art meets historical realism."
+      },
+      "Cultural_Anchors": [
+        "The renunciant (துறந்தார்)",
+        "The concept of immeasurable greatness",
+        "The futility of 'counting the dead' (இறந்தாரை எண்ணிக்கொண்டு)"
+      ]
+    },
+    "Negative_Prompt": "scholar writing successfully, small number of stars, text artifacts on scroll, modern setting, cartoonish figures, empty galaxy.",
+    "Hyperparameters": {
+      "variant": "pro",
+      "steps": 50,
+      "cfg_scale": 9,
+      "seed": "Explore variations for the density and color of the cosmic greatness."
+    }
+  }
+}

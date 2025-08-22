@@ -1,0 +1,39 @@
+{
+  "Kural_Info": {
+    "Number": 503,
+    "Chapter": "தெரிந்துதெளிதல் (Selection and Confidence)",
+    "Tamil_Text": "அரியகற்று ஆசற்றார் கண்ணும் தெரியுங்கால் இன்மை அரிதே வெளிறு.",
+    "English_Meaning": "When even men, who have studied the most difficult works, and who are free from faults, are (carefully) examined, it is a rare thing to find them without ignorance."
+  },
+  "Flux_Optimized_Prompt": {
+    "Layered_Composition": {
+      "Foreground": "A seemingly perfect, wise scholar who is free from obvious faults ('ஆசற்றார்') and has studied rare texts ('அரியகற்று') is placed under a giant, magical magnifying glass representing deep scrutiny ('தெரியுங்கால்').",
+      "Midground": "Under the intense magnification, a single, tiny, almost invisible flaw or spot of ignorance ('வெளிறு') is revealed on their otherwise flawless character.",
+      "Background": "A vast library stretches into the background, emphasizing the great extent of their learning, which makes the discovery of the tiny flaw all the more significant."
+    },
+    "Art_Direction": {
+      "Subject_and_Action": "A visual statement on human fallibility: even the most learned and faultless individuals will likely reveal some small ignorance when examined closely.",
+      "Symbolic_Motifs": "The magical magnifying glass is the instrument of deep scrutiny. The single tiny flaw on a vast perfect surface is the key visual, representing that hidden bit of ignorance.",
+      "Mood_and_Emotion": "Scrupulous, discerning, humbling, realistic.",
+      "Lighting_and_Color": "A bright, clinical light from the magnifying glass illuminates the subject, designed to find any imperfection. The flaw itself could have a subtle, different color to make it noticeable.",
+      "Technical_Cues": {
+        "Camera": "An extreme close-up shot through the magnifying glass, focusing on the tiny revealed flaw.",
+        "Resolution": "8K, macro photography style, with extreme detail.",
+        "Lighting": "Intense, focused lighting to create a sense of scrutiny.",
+        "Art_Genre": "Surrealism, conceptual realism."
+      }
+    },
+    "Cultural_Anchors": [
+      "The rarity of absolute perfection ('இன்மை அரிதே')",
+      "The spot of ignorance ('வெளிறு')",
+      "The importance of deep scrutiny ('தெரியுங்கால்')"
+    ]
+  },
+  "Negative_Prompt": "scholar with huge flaws, no magnifying glass, text artifacts, blurry.",
+  "Hyperparameters": {
+    "variant": "pro",
+    "steps": 50,
+    "cfg_scale": 8,
+    "seed": "Explore variations for the appearance of the tiny flaw."
+  }
+}

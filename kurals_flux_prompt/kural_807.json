@@ -1,0 +1,39 @@
+{
+  "Kural_Info": {
+    "Number": 807,
+    "Chapter": "பழைமை (Familiarity)",
+    "Tamil_Text": "அழிவந்த செய்யினும் அன்பறார் அன்பின் வழிவந்த கேண்மை யவர்.",
+    "English_Meaning": "Those who have (long) stood in the path of affection will not give it up even if their friends cause (them) their ruin."
+  },
+  "Flux_Optimized_Prompt": {
+    "Layered_Composition": {
+      "Foreground": "A friend is shown committing a disastrous act that brings ruin ('அழிவந்த') to their companion.",
+      "Midground": "The companion, who is the victim, is now standing amidst the ruins of their life. However, their bond of friendship, which was born of pure love ('அன்பின் வழிவந்த கேண்மை'), is shown as a living, glowing vine that still connects the two.",
+      "Background": "The victim, despite their ruin, is shown reaching out with a look of unwavering love, refusing to cut the vine of affection ('அன்பறார்'), because the friendship itself is more important than the ruin caused."
+    },
+    "Art_Direction": {
+      "Subject_and_Action": "For a friendship that was born of true love, the love will not be severed even if one friend causes the ruin of the other.",
+      "Symbolic_Motifs": "The living, glowing vine of affection is the key metaphor. The victim's refusal to cut it, even amidst the ruins their friend caused, is the ultimate testament to unconditional friendship.",
+      "Mood_and_Emotion": "Unconditional love, forgiving, indestructible bond, tragic yet beautiful.",
+      "Lighting_and_Color": "The ruins are dark and tragic. The only source of light is the warm, golden glow from the indestructible vine of friendship, which connects the two figures in the gloom.",
+      "Technical_Cues": {
+        "Camera": "An emotional shot focusing on the victim's forgiving expression as they refuse to sever the bond.",
+        "Resolution": "8K, with a poignant, painterly quality.",
+        "Lighting": "Symbolic lighting from the vine itself.",
+        "Art_Genre": "Tragic romance, symbolic realism."
+      },
+      "Cultural_Anchors": [
+        "A friendship born of love ('அன்பின் வழிவந்த கேண்மை')",
+        "Love does not cease, even if ruin is caused ('அழிவந்த செய்யினும் அன்பறார்')",
+        "Unconditional friendship."
+      ]
+    },
+    "Negative_Prompt": "the victim cutting the vine, text artifacts, cartoonish.",
+    "Hyperparameters": {
+      "variant": "pro",
+      "steps": 50,
+      "cfg_scale": 8,
+      "seed": "Explore variations for the glowing vine of affection."
+    }
+  }
+}

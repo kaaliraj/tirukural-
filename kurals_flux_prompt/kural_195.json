@@ -1,0 +1,38 @@
+{
+  "Kural_Info": {
+    "Number": 195,
+    "Chapter": "பயனில சொல்லாமை (Against Vain Speaking)",
+    "Tamil_Text": "சீர்மை சிறப்பொடு நீங்கும் பயனிலநீர்மை யுடையார் சொலின்.",
+    "English_Meaning": "If the good speak vain words their eminence and excellence will leave them."
+  },
+  "Flux_Optimized_Prompt": {
+    "Layered_Composition": {
+      "Foreground": "A great and worthy person ('நீர்மை உடையார்') is shown, adorned with a magnificent crown of 'Excellence' ('சீர்மை') and a radiant cloak of 'Glory' ('சிறப்பு').",
+      "Midground": "The person then speaks a stream of useless, vain words ('பயனில சொலின்').",
+      "Background": "The moment these worthless words are spoken, the crown of Excellence and the cloak of Glory are shown to be living, conscious entities. Disgusted by the vain speech, they lift off the person and fly away ('நீங்கும்'), leaving the once-great person stripped of their honor and looking ordinary and diminished."
+    },
+    "Art_Direction": {
+      "Subject_and_Action": "Even for a person of great character, the act of speaking vain words will cause their excellence and glory to abandon them.",
+      "Symbolic_Motifs": "Excellence and Glory as conscious, discerning adornments that will not stay with an unworthy speaker is the central metaphor. The act of them flying away is a visual representation of the loss of status.",
+      "Mood_and_Emotion": "Abandoned by glory, diminished, self-inflicted loss.",
+      "Lighting_and_Color": "The person is initially bathed in the golden, radiant light of their crown and cloak. When these items fly away, they take the light with them, leaving the person in a flat, mundane, and unimpressive light.",
+      "Technical_Cues": {
+        "Camera": "A shot that captures the great person speaking, and the immediate, magical departure of their symbolic adornments.",
+        "Resolution": "8K, ultra-realistic, with ethereal effects for the living crown and cloak.",
+        "Lighting": "A dramatic lighting shift as the sources of glory and light abandon the subject.",
+        "Art_Genre": "High fantasy, symbolic realism."
+      },
+      "Cultural_Anchors": [
+        "Excellence and glory will depart (சீர்மை சிறப்பொடு நீங்கும்)",
+        "If a person of worth speaks useless things (பயனில நீர்மை உடையார் சொலின்)"
+      ]
+    },
+    "Negative_Prompt": "crown and cloak staying, text artifacts, happy speaker.",
+    "Hyperparameters": {
+      "variant": "pro",
+      "steps": 50,
+      "cfg_scale": 8,
+      "seed": "Explore the visual of the 'living adornments' taking flight."
+    }
+  }
+}

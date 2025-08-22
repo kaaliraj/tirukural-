@@ -1,0 +1,39 @@
+{
+  "Kural_Info": {
+    "Number": 944,
+    "Chapter": "மருந்து (Medicine)",
+    "Tamil_Text": "அற்றது அறிந்து கடைப்பிடித்து மாறல்ல துய்க்க துவரப் பசித்து.",
+    "English_Meaning": "(First) assure yourself that your food has been digested and never fail to eat, when very hungry, whatever is not disagreeable (to you)."
+  },
+  "Flux_Optimized_Prompt": {
+    "Layered_Composition": {
+      "Foreground": "A person is shown having followed the first rule: they have waited until their previous meal is digested and they are now truly hungry ('துவரப் பசித்து').",
+      "Midground": "Before them is a spread of food. They are shown carefully selecting only the foods that are agreeable and suitable for their body ('மாறல்ல துய்க்க'), while rejecting those that are not.",
+      "Background": "This disciplined and mindful choice is the firm practice ('கடைப்பிடித்து') that ensures their continued health and well-being."
+    },
+    "Art_Direction": {
+      "Subject_and_Action": "The practice for good health: once digested and very hungry, choose and eat only foods that are agreeable to your system.",
+      "Symbolic_Motifs": "The act of careful selection from a variety of foods is the key visual. The rejected, 'disagreeable' foods can be shown as slightly darker or less appealing.",
+      "Mood_and_Emotion": "Discerning, mindful, disciplined, healthy.",
+      "Lighting_and_Color": "A clean, natural, and wholesome light. The agreeable foods look fresh and vibrant, while the disagreeable ones look slightly off.",
+      "Technical_Cues": {
+        "Camera": "A shot from the person's point of view, showing their hands making the wise choice of foods.",
+        "Resolution": "8K, with delicious and realistic-looking food textures.",
+        "Lighting": "Natural, appetizing light.",
+        "Art_Genre": "Hyper-realistic still life, with a narrative element."
+      },
+      "Cultural_Anchors": [
+        "Waiting for true hunger ('துவரப் பசித்து')",
+        "Eating what is agreeable ('மாறல்ல துய்க்க')",
+        "Holding to the practice ('கடைப்பிடித்து')"
+      ]
+    },
+    "Negative_Prompt": "person eating disagreeable food, not being hungry, text artifacts.",
+    "Hyperparameters": {
+      "variant": "pro",
+      "steps": 50,
+      "cfg_scale": 8,
+      "seed": "Explore variations for the spread of food."
+    }
+  }
+}

@@ -1,0 +1,33 @@
+{
+  "Kural_Info": {
+    "Number": 1244,
+    "Chapter": "நெஞ்சொடுகிளத்தல் (Soliloquy)",
+    "Tamil_Text": "கண்ணும் கொளச்சேறி நெஞ்சே இவையென்னைத் தின்னும் அவர்க்காணல் உற்று.",
+    "English_Meaning": "O heart, when you go to him, take my eyes with you too; for they are consuming me with their desire to see him."
+  },
+  "Flux_Optimized_Prompt": {
+    "Layered_Composition": {
+      "Foreground": "A woman's heart ('Nenje') is personified as a luminous, ethereal being, beginning to travel away from her physical body.",
+      "Midground": "Her physical body remains behind, but the focus is on her eyes ('Kannum'). The eyes are depicted as being in torment, weeping or wide with painful longing, because they are being left behind. They are literally 'consuming' her with their unmet desire to see the lover.",
+      "Background": "She is pleading with her departing heart-figure, gesturing for it to take her eyes along with it on its journey to the beloved. The path ahead of the heart is a trail of light."
+    },
+    "Art_Direction": {
+      "Subject_and_Action": "A soliloquy where the speaker begs her heart, which is already going to her lover in thought, to take her suffering eyes with it, as their unfulfilled desire to see him is torturous.",
+      "Symbolic_Motifs": "The personified heart departing on a journey of thought. The tormented, stationary eyes left behind. The act of pleading to unite the heart's journey with the eyes' desire.",
+      "Mood_and_Emotion": "Painful separation of senses, desperate, longing, imaginative.",
+      "Lighting_and_Color": "The departing heart-figure is a being of pure, warm light. The physical body and the suffering eyes are in a cooler, more somber and shadowed reality."
+    },
+    "Technical_Cues": {
+      "Camera": "A surreal shot capturing the physical woman, her tormented eyes, and the ethereal heart-figure she is pleading with.",
+      "Resolution": "8K, mystical realism, with beautiful effects for the luminous heart-figure.",
+      "Lighting": "High-contrast lighting to separate the physical world of suffering from the spiritual world of thought.",
+      "Art_Genre": "Symbolic surrealism, visualizing a complex internal plea."
+    },
+    "Cultural_Anchors": [
+      "நெஞ்சொடு கிளத்தல் (Speaking with one's own heart)",
+      "The separation of mind and sight in longing",
+      "The torment of the senses"
+    ]
+  },
+  "Negative_Prompt": "happy woman, eyes traveling with the heart, modern setting, text artifacts, cartoonish, blurry."
+}

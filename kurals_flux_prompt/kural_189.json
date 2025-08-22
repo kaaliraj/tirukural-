@@ -1,0 +1,38 @@
+{
+  "Kural_Info": {
+    "Number": 189,
+    "Chapter": "புறங்கூறாமை (Not Backbiting)",
+    "Tamil_Text": "அறன்நோக்கி ஆற்றுங்கொல் வையம் புறன்நோக்கிப்புன்சொல் உரைப்பான் பொறை.",
+    "English_Meaning": "'Tis charity, I ween, that makes the earth sustain their load, Who, neighbours' absence watching, tales of slander tell abroad."
+  },
+  "Flux_Optimized_Prompt": {
+    "Layered_Composition": {
+      "Foreground": "A backbiter is shown, watching for a neighbor's absence to speak mean words ('புறன் நோக்கிப் புன்சொல் உரைப்பான்'). This person is depicted as an unnaturally heavy, dense burden.",
+      "Midground": "The Earth is personified as a great, patient, divine being ('வையம்'), struggling to bear the immense weight ('பொறை') of this one backbiter.",
+      "Background": "The Earth-being is looking up to the heavens, to the personification of Virtue ('அறன்'), with a questioning expression. The image suggests that the only reason the Earth continues to endure this terrible burden is out of some deep, abiding respect for the principle of Virtue or Charity itself ('அறன் நோக்கி ஆற்றுங்கொல்')."
+    },
+    "Art_Direction": {
+      "Subject_and_Action": "The only conceivable reason the Earth bears the terrible weight of backbiters is out of its own deep sense of charity and virtue.",
+      "Symbolic_Motifs": "The backbiter as an incredibly heavy burden is a key visual. The personification of the Earth as a suffering but patient being highlights the gravity of the sin. The Earth's upward glance to Virtue explains its motivation for this endurance.",
+      "Mood_and_Emotion": "Burdensome, patient suffering, profound charity.",
+      "Lighting_and_Color": "A heavy, oppressive light weighs down the scene. The Earth-figure is shown with strained muscles. The backbiter is a point of concentrated, heavy darkness. The only light of hope is the distant, divine figure of Virtue that the Earth looks towards.",
+      "Technical_Cues": {
+        "Camera": "An epic, low-angle shot from below the personified Earth, emphasizing the immense strain and weight it is enduring.",
+        "Resolution": "8K, ultra-realistic, with a majestic and pained depiction of the personified Earth.",
+        "Lighting": "Dramatic, heavy lighting to convey the sense of a great burden.",
+        "Art_Genre": "Mythological painting, epic fantasy."
+      },
+      "Cultural_Anchors": [
+        "The burden of the one who backbites (புன்சொல் உரைப்பான் பொறை)",
+        "Does the world bear it out of respect for virtue? (அறன் நோக்கி ஆற்றுங்கொல் வையம்?)"
+      ]
+    },
+    "Negative_Prompt": "light backbiter, happy earth, text artifacts.",
+    "Hyperparameters": {
+      "variant": "pro",
+      "steps": 55,
+      "cfg_scale": 8,
+      "seed": "Explore the personification of the burdened Earth."
+    }
+  }
+}

@@ -1,0 +1,38 @@
+{
+  "Kural_Info": {
+    "Number": 1064,
+    "Chapter": "இரவச்சம் (The Dread of Mendicancy)",
+    "Tamil_Text": "இடமெல்லாம் கொள்ளாத் தகைத்தே இடமில்லாக்காலும் இரவொல்லாச் சால்பு.",
+    "English_Meaning": "Even the whole world cannot sufficiently praise the dignity that would not beg even in the midst of destitution."
+  },
+  "Flux_Optimized_Prompt": {
+    "Layered_Composition": {
+      "Foreground": "A person is shown in a state of absolute destitution, with no place to even stand ('இடம் இல்லாக்கால்'). They are hungry and have nothing.",
+      "Midground": "Despite this, they stand with immense, unbreakable dignity, refusing to beg ('இரவு ஒல்லாச் சால்பு').",
+      "Background": "The entire world ('இடம் எல்லாம்'), personified by all the kings, sages, and peoples of the Earth, is shown trying to build a monument tall enough to honor this person's dignity. But no matter how high they build, their monument is not great enough to match the stature of this person's noble refusal ('கொள்ளாத் தகைத்து')."
+    },
+    "Art_Direction": {
+      "Subject_and_Action": "The noble perfection of a person who refuses to beg even in the most extreme poverty is a virtue so great that the entire world, with all its space and resources, is not large enough to contain its praise.",
+      "Symbolic_Motifs": "The central image is the world's futile attempt to build a monument high enough. This visually represents that the virtue is 'too great for the world'. The person's posture is not one of suffering, but of immense, towering dignity.",
+      "Mood_and_Emotion": "Supreme dignity, immeasurable virtue, noble, transcendent.",
+      "Lighting_and_Color": "The destitute person glows with a brilliant, inner light of their own dignity, which makes their poverty irrelevant. The world's monument, though vast, is shown to be a lesser, mundane structure compared to the person's spiritual greatness.",
+      "Technical_Cues": {
+        "Camera": "An epic, low-angle shot that makes the destitute person appear monumental, dwarfing the world's attempt to honor them.",
+        "Resolution": "8K, hyper-realistic, with a focus on the contrast between the person's poverty and their immense spiritual stature.",
+        "Lighting": "The primary light source is the inner dignity of the protagonist.",
+        "Art_Genre": "Epic symbolic realism."
+      },
+      "Cultural_Anchors": [
+        "The perfection of not begging even when destitute (இடமில்லாக்காலும் இரவு ஒல்லாச் சால்பு)",
+        "The world is not big enough for it (இடம் எல்லாம் கொள்ளாத் தகைத்து)"
+      ]
+    },
+    "Negative_Prompt": "person begging, small monument, text artifacts.",
+    "Hyperparameters": {
+      "variant": "pro",
+      "steps": 55,
+      "cfg_scale": 9,
+      "seed": "Explore the visual of the world trying to build the monument."
+    }
+  }
+}

@@ -1,0 +1,39 @@
+{
+  "Kural_Info": {
+    "Number": 592,
+    "Chapter": "ஊக்கமுடைமை (Energy)",
+    "Tamil_Text": "உள்ளம் உடைமை உடைமை பொருளுடைமை நில்லாது நீங்கி விடும்.",
+    "English_Meaning": "The possession of (energy of) mind is true property; the possession of wealth passes away and abides not."
+  },
+  "Flux_Optimized_Prompt": {
+    "Layered_Composition": {
+      "Foreground": "A person stands with their chest open, revealing a brilliantly glowing, solid, diamond-like heart, representing the permanent wealth of a strong mind/will ('உள்ளம் உடைமை').",
+      "Midground": "Surrounding this person is a whirlwind of material possessions—gold coins, jewels, deeds to land ('பொருளுடைமை'). However, these items are depicted as transient and insubstantial, made of sand or smoke, and are being blown away by the winds of time ('நில்லாது நீங்கி விடும்').",
+      "Background": "A vast, timeless landscape, against which the person with the diamond heart stands firm and unchanging, while the material wealth proves to be ephemeral."
+    },
+    "Art_Direction": {
+      "Subject_and_Action": "The only permanent possession is strength of mind; material possessions are fleeting and will inevitably disappear.",
+      "Symbolic_Motifs": "The solid, diamond heart represents permanent, internal wealth. The possessions made of sand/smoke represent transient, external wealth. The wind of time acts on one but not the other.",
+      "Mood_and_Emotion": "Permanent, stable, enduring, contrasting with the transient.",
+      "Lighting_and_Color": "The brilliant, unwavering light from the diamond heart is the main light source. The sandy possessions catch the light for a moment before blowing away into darkness.",
+      "Technical_Cues": {
+        "Camera": "A centered, heroic shot of the main figure, emphasizing their inner strength amidst the transient chaos.",
+        "Resolution": "8K, cinematic, with high-quality particle effects for the sand and smoke.",
+        "Lighting": "Dramatic lighting focused on the contrast between the solid heart and the dissolving wealth.",
+        "Art_Genre": "Metaphysical art, surrealism."
+      }
+    },
+    "Cultural_Anchors": [
+      "Possession of Mind as true Possession ('உள்ளம் உடைமை உடைமை')",
+      "Material Possessions will not last ('பொருளுடைமை நில்லாது')",
+      "Internal vs. External Wealth."
+    ]
+  },
+  "Negative_Prompt": "a weak heart, permanent material possessions, text artifacts, cartoonish.",
+  "Hyperparameters": {
+    "variant": "pro",
+    "steps": 50,
+    "cfg_scale": 8,
+    "seed": "Explore variations for the sand/smoke effect."
+  }
+}

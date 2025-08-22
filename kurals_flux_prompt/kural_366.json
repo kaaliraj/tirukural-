@@ -1,0 +1,39 @@
+{
+  "Kural_Info": {
+    "Number": 366,
+    "Chapter": "அவாவறுத்தல் (Curbing of Desire)",
+    "Tamil_Text": "அஞ்சுவ தோரும் அறனே ஒருவனை வஞ்சிப்ப தோரும் அவா.",
+    "English_Meaning": "It is the chief duty of (an ascetic) to watch against desire with (jealous) fear; for it has power to deceive (and destroy) him."
+  },
+  "Flux_Optimized_Prompt": {
+    "Layered_Composition": {
+      "Foreground": "A wise ascetic stands guard vigilantly, holding a shield of light. Their gaze is fixed on a shadowy threat.",
+      "Midground": "The threat is a beautiful, alluring, shape-shifting entity made of shadow and smoke, representing Desire ('அவா'). It subtly tries to offer tempting illusions (wealth, power) to deceive the ascetic.",
+      "Background": "A serene and sacred space, like a peaceful hermitage, which the ascetic is protecting from the deceptive intrusion of desire."
+    },
+    "Art_Direction": {
+      "Subject_and_Action": "An ascetic's constant vigilance against the deceptive nature of Desire, portrayed as a cunning and beautiful foe that must be feared and guarded against as a matter of virtue ('அறன்').",
+      "Symbolic_Motifs": "The shield of light represents righteous fear and vigilance. The shape-shifting nature of the desire-entity symbolizes its power to deceive ('வஞ்சிப்பது').",
+      "Mood_and_Emotion": "Vigilant, tense, spiritually focused, wise.",
+      "Lighting_and_Color": "The ascetic and their shield glow with a pure, white light. The desire-entity is made of dark, swirling purples and blacks, with hypnotic, iridescent patterns. The background is lit by soft, natural moonlight."
+    },
+    "Technical_Cues": {
+      "Camera": "Medium close-up, dramatic angle, focusing on the confrontation between the ascetic and the manifestation of desire.",
+      "Resolution": "8K, ultra-realistic, with ethereal and smoky visual effects for the desire entity.",
+      "Lighting": "High contrast lighting, with the ascetic's shield casting a protective light that repels the encroaching shadows.",
+      "Art_Genre": "Fantasy realism, symbolic narrative art."
+    },
+    "Cultural_Anchors": [
+      "Fear of desire ('அஞ்சுவது') as a virtue ('அறன்')",
+      "Deceptive nature of desire ('வஞ்சிப்பது அவா')",
+      "Ascetic vigilance (தவம்)"
+    ]
+  },
+  "Negative_Prompt": "ascetic looking tempted, desire as a simple human figure, bright daylight, text artifacts, cartoonish.",
+  "Hyperparameters": {
+    "variant": "dev",
+    "steps": 45,
+    "cfg_scale": 8,
+    "seed": "Explore variations for the form of the desire entity."
+  }
+}

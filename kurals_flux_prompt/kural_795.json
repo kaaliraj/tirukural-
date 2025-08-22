@@ -1,0 +1,39 @@
+{
+  "Kural_Info": {
+    "Number": 795,
+    "Chapter": "நட்பாராய்தல் (Investigation in forming Friendships)",
+    "Tamil_Text": "அழச்சொல்லி அல்லது இடித்து வழக்கறிய வல்லார்நடபு ஆய்ந்து கொளல்.",
+    "English_Meaning": "You should examine and secure the friendship of those who can speak so as to make you weep over a crime (before its commission) or rebuke you severely (after you have done it) and are able to teach you (the ways of) the world."
+  },
+  "Flux_Optimized_Prompt": {
+    "Layered_Composition": {
+      "Foreground": "A person is shown about to commit a wrong act. Their potential friend is shown intervening in two powerful ways.",
+      "Midground": "First, the friend speaks with such emotional power that they make the person weep at the potential sorrow of their crime, thus preventing it ('அழச்சொல்லி'). Second, if the crime is already committed, the friend rebukes them with the force of a thunderbolt, correcting them harshly ('இடித்து'). This friend also holds a map of the world, showing their worldly wisdom ('வழக்கறிய வல்லார்').",
+      "Background": "After careful consideration ('ஆய்ந்து'), the person is shown embracing this difficult but valuable friend, having chosen their friendship ('கொளல்')."
+    },
+    "Art_Direction": {
+      "Subject_and_Action": "One should seek out and secure the friendship of those who have the power to prevent wrongdoing through emotional appeal or correct it with harsh rebuke, and who also possess worldly wisdom.",
+      "Symbolic_Motifs": "The friend's words causing tears of pre-emptive remorse and their rebuke as a corrective thunderbolt are the key visuals. The world map symbolizes their practical wisdom.",
+      "Mood_and_Emotion": "Corrective, wise, tough love, valuable.",
+      "Lighting_and_Color": "A dramatic and emotional lighting. The tears can have a purifying, silvery glow. The thunderbolt of rebuke is a sharp, bright flash.",
+      "Technical_Cues": {
+        "Camera": "A narrative shot that shows the friend's powerful interventions.",
+        "Resolution": "8K, with a focus on strong emotions.",
+        "Lighting": "High-contrast, dramatic lighting.",
+        "Art_Genre": "Dramatic realism with symbolic effects."
+      }
+    },
+    "Cultural_Anchors": [
+      "A friend who can make you weep to prevent sin ('அழச்சொல்லி')",
+      "A friend who can rebuke harshly ('இடித்து')",
+      "A friend who knows the world ('வழக்கறிய வல்லார்')"
+    ]
+  },
+  "Negative_Prompt": "a friend who encourages wrongdoing, text artifacts, cartoonish.",
+  "Hyperparameters": {
+    "variant": "pro",
+    "steps": 50,
+    "cfg_scale": 9,
+    "seed": "Explore variations for the 'thunderbolt of rebuke'."
+  }
+}

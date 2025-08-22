@@ -1,0 +1,41 @@
+{
+  "Kural_Info": {
+    "Number": 471,
+    "Chapter": "வலியறிதல் (The Knowledge of Power)",
+    "Tamil_Text": "வினைவலியும் தன்வலியும் மாற்றான் வலியும் துணைவலியும் தூக்கிச் செயல்.",
+    "English_Meaning": "Let (one) weigh well the strength of the deed (he purposes to do), his own strength, the strength of his enemy, and the strength of the allies (of both), and then let him act."
+  },
+  "Flux_Optimized_Prompt": {
+    "Layered_Composition": {
+      "Foreground": "A wise king or general stands before a massive, ancient set of four balance scales.",
+      "Midground": "On the scales, he is carefully placing symbolic weights. On the first scale, a representation of the task's difficulty (a heavy, rocky object for 'வினைவலி'). On the second, a symbol of his own army's strength ('தன்வலி'). On the third, the enemy's strength ('மாற்றான் வலி'). On the fourth, the strength of all allies ('துணைவலி').",
+      "Background": "A vast battlefield at dawn, waiting for the decision that will be made based on this careful weighing of powers."
+    },
+    "Art_Direction": {
+      "Subject_and_Action": "A ruler must meticulously weigh five strengths—the task, their own, the enemy's, and the allies'—before committing to action.",
+      "Symbolic_Motifs": "The set of four scales is the central metaphor for the act of 'weighing' or assessing ('தூக்கிச் செயல்'). Each symbolic object on the scales represents one of the strengths to be considered.",
+      "Mood_and_Emotion": "Strategic, calculating, wise, prudent, deliberate.",
+      "Lighting_and_Color": "The scene is lit by the cool, clear light of dawn, symbolizing clarity of thought before action. The scales and symbolic weights have a subtle, magical glow.",
+      "Technical_Cues": {
+        "Camera": "Medium wide shot, focusing on the ruler and the symbolic scales, with the battlefield visible in the background.",
+        "Resolution": "8K, cinematic, with fine details on the symbolic weights and the ruler's pensive expression.",
+        "Lighting": "Clean, directional morning light creating long shadows, emphasizing the gravity of the moment.",
+        "Art_Genre": "Historical fantasy realism."
+      }
+    },
+    "Cultural_Anchors": [
+      "Weighing the Five Strengths",
+      "Strength of the Deed ('வினைவலி')",
+      "Own Strength ('தன்வலி')",
+      "Enemy's Strength ('மாற்றான் வலி')",
+      "Allies' Strength ('துணைவலி')"
+    ]
+  },
+  "Negative_Prompt": "ruler acting impulsively, broken scales, text artifacts, cartoonish symbols, night scene.",
+  "Hyperparameters": {
+    "variant": "pro",
+    "steps": 50,
+    "cfg_scale": 8,
+    "seed": "Explore variations for the symbolic weights."
+  }
+}

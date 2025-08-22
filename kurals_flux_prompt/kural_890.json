@@ -1,0 +1,39 @@
+{
+  "Kural_Info": {
+    "Number": 890,
+    "Chapter": "உட்பகை (Enmity within)",
+    "Tamil_Text": "உடம்பாடு இலாதவர் வாழ்க்கை குடங்கருள் பாம்போடு உடனுறைந் தற்று.",
+    "English_Meaning": "Living with those who do not agree (with one) is like dwelling with a cobra (in the same) hut."
+  },
+  "Flux_Optimized_Prompt": {
+    "Layered_Composition": {
+      "Foreground": "The interior of a small, cramped hut ('குடங்கருள்'). A person is trying to live there, to make it their home.",
+      "Midground": "On the other side of the small hut, sharing the same space, is a large, menacing cobra ('பாம்பு'), its hood flared, ready to strike at any moment.",
+      "Background": "The atmosphere is incredibly tense and dangerous. There is no peace or safety possible in this shared space. This is a direct, literal visualization of what it is like to live with those with whom one has no harmony ('உடம்பாடு இலாதவர்')."
+    },
+    "Art_Direction": {
+      "Subject_and_Action": "Living with people with whom you have no inner accord is as dangerous and stressful as living in a hut with a cobra.",
+      "Symbolic_Motifs": "The cobra in the hut is the direct, powerful metaphor from the Kural. The cramped space emphasizes the inescapable nature of the threat.",
+      "Mood_and_Emotion": "Tense, dangerous, stressful, no possibility of peace.",
+      "Lighting_and_Color": "Dark, claustrophobic, and shadowy. The only light might be a single, dramatic shaft of light that illuminates the cobra's threatening eyes and hood.",
+      "Technical_Cues": {
+        "Camera": "A wide-angle shot from inside the hut that makes it feel small and claustrophobic, and keeps both the person and the snake in a tense focus.",
+        "Resolution": "8K, with a gritty, realistic texture.",
+        "Lighting": "Low-key, high-contrast lighting to create a thriller/horror mood.",
+        "Art_Genre": "Hyperrealism, with a suspenseful, threatening atmosphere."
+      },
+      "Cultural_Anchors": [
+        "Life with the disagreeable ('உடம்பாடு இலாதவர் வாழ்க்கை')",
+        "Like living with a cobra in a hut ('பாம்போடு உடனுறைந்தற்று')",
+        "The danger of disharmony."
+      ]
+    },
+    "Negative_Prompt": "a friendly snake, a large hut, a happy person, text artifacts, cartoonish.",
+    "Hyperparameters": {
+      "variant": "pro",
+      "steps": 50,
+      "cfg_scale": 9,
+      "seed": "Explore variations for the cobra's threatening pose."
+    }
+  }
+}

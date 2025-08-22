@@ -1,0 +1,38 @@
+{
+  "Kural_Info": {
+    "Number": 1112,
+    "Chapter": "நலம்புனைந்துரைத்தல் (The Praise of her Beauty)",
+    "Tamil_Text": "மலர்காணின் மையாத்தி நெஞ்சே இவள்கண்பலர்காணும் பூவொக்கும் என்று.",
+    "English_Meaning": "You deemed, as you saw the flowers, her eyes were as flowers, my soul, That many may see; it was surely some folly that over you stole!."
+  },
+  "Flux_Optimized_Prompt": {
+    "Layered_Composition": {
+      "Foreground": "A lover is chiding his own heart ('நெஞ்சே').",
+      "Midground": "His heart is shown looking at a beautiful flower ('மலர்') in a garden. Because it sees this flower, the heart becomes confused and lovesick ('மையாத்தி'), foolishly thinking that it is like his beloved's eyes.",
+      "Background": "The lover's intellect corrects the heart's folly. A vision appears, showing the crucial difference: the flower in the garden can be seen by everyone ('பலர் காணும் பூ'), while his beloved's eyes are a treasure meant only for him. The heart's comparison was a mistake born of its lovesickness."
+    },
+    "Art_Direction": {
+      "Subject_and_Action": "The lover scolds his own heart for becoming lovesick upon seeing a flower, pointing out its foolish error in comparing the public beauty of a flower to the private, unique beauty of his beloved's eyes.",
+      "Symbolic_Motifs": "The internal dialogue between the lover's reason and his lovesick heart is the key. The heart is presented as a foolish, love-drunk entity that makes silly comparisons, while the intellect is the voice of reason.",
+      "Mood_and_Emotion": "Self-reproach, lovesick folly, discerning.",
+      "Lighting_and_Color": "A bright, beautiful garden scene. The heart is surrounded by a slightly confused, misty aura of lovesickness. The correcting vision is clear and logical.",
+      "Technical_Cues": {
+        "Camera": "A symbolic shot that visualizes the inner conversation, showing the foolish heart and the wise intellect as separate aspects of the lover.",
+        "Resolution": "8K, ultra-realistic, with a focus on the beauty of the flower and the foolishly emotional reaction of the heart.",
+        "Lighting": "Bright, naturalistic garden light.",
+        "Art_Genre": "Psychological realism, with symbolic personification."
+      },
+      "Cultural_Anchors": [
+        "O heart, you become confused when you see a flower (மலர் காணின் மையாத்தி நெஞ்சே)",
+        "Thinking it resembles her eyes, which are a public flower (இவள் கண் பலர் காணும் பூ ஒக்கும் என்று)"
+      ]
+    },
+    "Negative_Prompt": "wise heart, ugly flower, text artifacts.",
+    "Hyperparameters": {
+      "variant": "dev",
+      "steps": 45,
+      "cfg_scale": 8,
+      "seed": "Explore the visual of the 'lovesick, confused heart'."
+    }
+  }
+}

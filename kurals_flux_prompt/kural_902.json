@@ -1,0 +1,39 @@
+{
+  "Kural_Info": {
+    "Number": 902,
+    "Chapter": "பெண்வழிச்சேறல் (Being led by Women)",
+    "Tamil_Text": "பேணாது பெண்விழைவான் ஆக்கம் பெரியதோர் நாணாக நாணுத் தரும்.",
+    "English_Meaning": "The wealth of him who, regardless (of his manliness), devotes himself to his wife's feminine nature will cause great shame (to ali men) and to himself."
+  },
+  "Flux_Optimized_Prompt": {
+    "Layered_Composition": {
+      "Foreground": "A man is shown neglecting all his manly duties and achievements ('பேணாது') to dote on his wife ('பெண்விழைவான்').",
+      "Midground": "His wealth and prosperity ('ஆக்கம்'), instead of being a source of pride, are shown to be transformed into a great, heavy cloak of shame ('பெரியதோர் நாண்'). This cloak is embroidered not with symbols of glory, but with symbols of his doting and submission.",
+      "Background": "He is shown wearing this 'cloak of shame' in public, and it causes not only himself, but all other worthy men who see it, to feel a sense of profound secondhand embarrassment and shame ('நாணுத் தரும்')."
+    },
+    "Art_Direction": {
+      "Subject_and_Action": "The prosperity of a man who neglects his duties to be subservient to his wife becomes a source of great shame, not just for him, but for all.",
+      "Symbolic_Motifs": "Wealth transforming into a cloak of shame is the central metaphor. The embarrassed expressions of the onlookers show that the shame is public and widespread.",
+      "Mood_and_Emotion": "Shameful, embarrassing, unmanly, a loss of dignity.",
+      "Lighting_and_Color": "A harsh, judgmental light shines on the man, making his cloak of shame highly visible. The onlookers are in shadow, their faces conveying their disapproval.",
+      "Technical_Cues": {
+        "Camera": "A shot that focuses on the shameful man and the reactions of the crowd around him.",
+        "Resolution": "8K, with a strong focus on expressions of shame and contempt.",
+        "Lighting": "Harsh, public lighting.",
+        "Art_Genre": "Social satire, realism."
+      }
+    },
+    "Cultural_Anchors": [
+      "A man who dotes on his wife, neglecting duty",
+      "His wealth becomes a great shame ('ஆக்கம் நாணாக')",
+      "Causing shame to all."
+    ]
+  },
+  "Negative_Prompt": "a proud man, a respectable form of wealth, text artifacts.",
+  "Hyperparameters": {
+    "variant": "pro",
+    "steps": 50,
+    "cfg_scale": 8,
+    "seed": "Explore variations for the 'cloak of shame'."
+  }
+}

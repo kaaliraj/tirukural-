@@ -1,0 +1,38 @@
+{
+  "Kural_Info": {
+    "Number": 111,
+    "Chapter": "நடுவு நிலைமை (Impartiality)",
+    "Tamil_Text": "தகுதி எனவொன்று நன்றே பகுதியால்பாற்பட்டு ஒழுகப் பெறின்.",
+    "English_Meaning": "That equity which consists in acting with equal regard to each of (the three) divisions of men [enemies, strangers and friends] is a pre-eminent virtue."
+  },
+  "Flux_Optimized_Prompt": {
+    "Layered_Composition": {
+      "Foreground": "A judge-like figure, personifying Equity ('தகுதி'), sits holding a perfectly balanced scale.",
+      "Midground": "On the three pans of the scale (or in three groups before the judge) stand representatives of the three classes of people: a sworn enemy ('பகைவர்'), a neutral stranger ('நடுவர்'), and a beloved friend ('நட்பு').",
+      "Background": "The judge is treating all three with exactly the same calm, respectful, and impartial gaze, without any differentiation ('பாற்பட்டு ஒழுகப்'). The scale remains perfectly level, radiating a powerful, pure light."
+    },
+    "Art_Direction": {
+      "Subject_and_Action": "The supreme virtue of impartiality is defined as treating friends, strangers, and enemies with the exact same measure of justice and conduct.",
+      "Symbolic_Motifs": "The perfectly balanced scale is the central metaphor. The judge's unvarying expression towards all three groups is crucial. The light of equity is serene and unwavering, not passionate or biased.",
+      "Mood_and_Emotion": "Impartial, just, balanced, serene, virtuous.",
+      "Lighting_and_Color": "A clear, bright, and even light illuminates the entire scene, symbolizing the clarity of true justice. The palette is balanced and harmonious, with no color favored over another.",
+      "Technical_Cues": {
+        "Camera": "A centered, symmetrical, frontal shot that emphasizes balance and impartiality.",
+        "Resolution": "8K, ultra-realistic, with a focus on the subtle expressions (or lack thereof) of the judge and the distinct characters of the three groups.",
+        "Lighting": "Even, high-key lighting, like that in a hall of justice, to remove any dramatic shadows or bias.",
+        "Art_Genre": "Classical allegorical painting, symbolic realism."
+      },
+      "Cultural_Anchors": [
+        "Thakuthi (தகுதி) - Equity/Impartiality",
+        "Treating all divisions equally (பகுதியால் பாற்பட்டு ஒழுகப்)"
+      ]
+    },
+    "Negative_Prompt": "tilted scales, judge favoring the friend, angry judge looking at enemy, text artifacts, dark scene.",
+    "Hyperparameters": {
+      "variant": "pro",
+      "steps": 50,
+      "cfg_scale": 7,
+      "seed": "Explore the character designs for the friend, stranger, and enemy."
+    }
+  }
+}

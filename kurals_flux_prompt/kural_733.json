@@ -1,0 +1,39 @@
+{
+  "Kural_Info": {
+    "Number": 733,
+    "Chapter": "நாடு (The Land)",
+    "Tamil_Text": "பொறையொருங்கு மேல்வருங்கால் தாங்கி இறைவற்கு இறையொருங்கு நேர்வது நாடு.",
+    "English_Meaning": "A kingdom is that which can bear any burden that may be pressed on it (from adjoining kingdoms) and (yet) pay the full tribute to its sovereign."
+  },
+  "Flux_Optimized_Prompt": {
+    "Layered_Composition": {
+      "Foreground": "A nation is personified as a mighty, titan-like figure. It is shown bearing an immense burden ('பொறை') placed upon it by external forces (like war or natural disaster), but it does not crumble; it stands firm ('தாங்கி').",
+      "Midground": "Simultaneously, even while bearing this great burden, the nation-titan is shown willingly and without fail offering its full tribute ('இறை') to its king. The tribute flows from the titan to the king in a steady, golden stream.",
+      "Background": "A strong and resilient kingdom that can withstand external pressures while still fulfilling its internal duties."
+    },
+    "Art_Direction": {
+      "Subject_and_Action": "A true nation is one that can bear any external burdens while still unfailingly providing its required tribute to the state.",
+      "Symbolic_Motifs": "The nation as a burden-bearing titan is the central metaphor. The ability to both bear the external weight and provide the internal tribute at the same time is the key action.",
+      "Mood_and_Emotion": "Resilient, strong, dutiful, unbreakable.",
+      "Lighting_and_Color": "Dramatic, powerful lighting that highlights the strain and strength of the titan. The tribute is a glowing, golden stream, showing its value.",
+      "Technical_Cues": {
+        "Camera": "A low-angle, epic shot that emphasizes the strength and scale of the nation-titan.",
+        "Resolution": "8K, with a mythological, powerful aesthetic.",
+        "Lighting": "High-contrast, heroic lighting.",
+        "Art_Genre": "Mythological painting, epic fantasy art."
+      },
+      "Cultural_Anchors": [
+        "Bearing Burdens ('பொறை தாங்கி')",
+        "Paying Full Tribute ('இறை நேர்வது')",
+        "The resilience of an ideal state."
+      ]
+    },
+    "Negative_Prompt": "titan crumbling, tribute stream cut off, text artifacts, cartoonish.",
+    "Hyperparameters": {
+      "variant": "dev",
+      "steps": 45,
+      "cfg_scale": 9,
+      "seed": "Explore variations for the design of the nation-titan."
+    }
+  }
+}

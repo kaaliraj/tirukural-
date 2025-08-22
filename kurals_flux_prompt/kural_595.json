@@ -1,0 +1,39 @@
+{
+  "Kural_Info": {
+    "Number": 595,
+    "Chapter": "ஊக்கமுடைமை (Energy)",
+    "Tamil_Text": "வெள்ளத் தனைய மலர்நீட்டம் மாந்தர்தம் உள்ளத் தனையது உயர்வு.",
+    "English_Meaning": "The stalks of water-flowers are proportionate to the depth of water; so is men's greatness proportionate to their minds."
+  },
+  "Flux_Optimized_Prompt": {
+    "Layered_Composition": {
+      "Foreground": "An underwater cross-section of a deep, clear lake. Several lotus flowers ('மலர்') are shown.",
+      "Midground": "The stems of the lotuses are of different lengths. Each stem's length ('நீட்டம்') is shown to be exactly proportional to the depth of the water ('வெள்ளத்தனைய') at that point, allowing its flower to float perfectly on the surface.",
+      "Background": "In a direct visual parallel above the water, the greatness and height of several human figures ('உயர்வு') are shown to be directly proportional to the size and depth of their minds ('உள்ளத்தனையது'), which are visualized as glowing orbs of thought within them."
+    },
+    "Art_Direction": {
+      "Subject_and_Action": "A direct analogy: just as the height of a lotus stem depends on the depth of the water, the greatness of a person depends on the depth of their mind and will.",
+      "Symbolic_Motifs": "The direct, measurable relationship between water depth and stem length is the core metaphor. The parallel between this and the 'depth' of a person's mind determining their 'height' in life makes the concept clear.",
+      "Mood_and_Emotion": "Natural, proportional, inspiring, a law of nature.",
+      "Lighting_and_Color": "Clear, beautiful underwater lighting with sun rays filtering through. The human minds are visualized as glowing orbs whose brightness and size vary.",
+      "Technical_Cues": {
+        "Camera": "A split over-underwater shot that clearly shows the parallel between the lotus stems below and the human stature above.",
+        "Resolution": "8K, with hyper-realistic underwater and floral details.",
+        "Lighting": "Beautiful, natural lighting.",
+        "Art_Genre": "Naturalistic realism with symbolic, surreal elements."
+      }
+    },
+    "Cultural_Anchors": [
+      "The Lotus Stem Analogy",
+      "Height is proportional to the mind ('உள்ளத்தனையது உயர்வு')",
+      "The power of will and thought."
+    ]
+  },
+  "Negative_Prompt": "short stems in deep water, tall people with small minds, text artifacts, muddy water.",
+  "Hyperparameters": {
+    "variant": "pro",
+    "steps": 50,
+    "cfg_scale": 8,
+    "seed": "Explore variations for the visualization of the 'minds'."
+  }
+}

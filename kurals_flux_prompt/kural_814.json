@@ -1,0 +1,38 @@
+{
+  "Kural_Info": {
+    "Number": 814,
+    "Chapter": "தீ நட்பு (Evil Friendship)",
+    "Tamil_Text": "அமரகத்து ஆற்றறுக்கும் கல்லாமா அன்னார்தமரின் தனிமை தலை.",
+    "English_Meaning": "Solitude is more to be desired than the society of those who resemble the untrained horses which throw down (their riders) in the fields of battle."
+  },
+  "Flux_Optimized_Prompt": {
+    "Layered_Composition": {
+      "Foreground": "A warrior is shown being thrown to the ground by his own untrained, treacherous horse ('கல்லா மா') in the heat of a chaotic battle ('அமரகத்து'). This represents the betrayal of an unreliable friend.",
+      "Midground": "In a contrasting scene, the same person is shown standing alone ('தனிமை') on a quiet hilltop. They are safe, serene, and in control of their own destiny.",
+      "Background": "The image clearly presents the choice: the chaos and betrayal of the evil friendship is on one side, and the peace and safety of solitude is on the other. Solitude is shown to be the superior and 'chief' choice ('தலை')."
+    },
+    "Art_Direction": {
+      "Subject_and_Action": "A powerful simile showing that solitude is far better than the friendship of those who, like an untrained warhorse, will betray and abandon you at the moment of greatest need.",
+      "Symbolic_Motifs": "The treacherous warhorse is a visceral and direct metaphor for a bad friend. The contrast between the violent, chaotic battle scene and the calm, safe hilltop of solitude makes the choice clear.",
+      "Mood_and_Emotion": "Betrayal, danger, serenity, safety, superior choice.",
+      "Lighting_and_Color": "The battle scene is dark, chaotic, and filled with the violent reds and oranges of conflict. The scene of solitude is bathed in the clear, calm light of dawn, with a palette of peaceful blues and greens.",
+      "Technical_Cues": {
+        "Camera": "A wide shot that juxtaposes the chaotic battle on one side of the frame with the serene hilltop on the other, visually representing the choice.",
+        "Resolution": "8K, hyper-realistic, with dynamic, gritty battle action and a beautiful, peaceful landscape.",
+        "Lighting": "Dramatic, contrasting lighting to differentiate the two states.",
+        "Art_Genre": "Historical fantasy, with allegorical elements."
+      },
+      "Cultural_Anchors": [
+        "The untrained horse that fails in battle (அமரகத்து ஆற்றறுக்கும் கல்லாமா)",
+        "Solitude is chief/better (தனிமை தலை)"
+      ]
+    },
+    "Negative_Prompt": "loyal horse, sad person in solitude, text artifacts, cartoonish battle.",
+    "Hyperparameters": {
+      "variant": "pro",
+      "steps": 50,
+      "cfg_scale": 9,
+      "seed": "Explore the chaos of the battle scene."
+    }
+  }
+}

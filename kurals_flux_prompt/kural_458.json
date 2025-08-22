@@ -1,0 +1,39 @@
+{
+  "Kural_Info": {
+    "Number": 458,
+    "Chapter": "சிற்றினஞ்சேராமை (Avoiding mean Associations)",
+    "Tamil_Text": "மனநலம் நன்குடைய ராயினும் சான்றோர்க்கு இனநலம் ஏமாப் புடைத்து.",
+    "English_Meaning": "Although they may have great (natural) goodness of mind, yet good society will tend to strengthen it."
+  },
+  "Flux_Optimized_Prompt": {
+    "Layered_Composition": {
+      "Foreground": "A virtuous and wise person ('சான்றோர்') is shown. They already possess a strong inner light, representing their inherent goodness of mind ('மனநலம் நன்குடையர்').",
+      "Midground": "They are surrounded by a fellowship of other wise and virtuous people ('இனநலம்'). This group creates a second, even more powerful, protective layer of golden light around the individual, fortifying their existing inner strength.",
+      "Background": "A challenging or tempting landscape, from which the combined light of the individual and the group provides a powerful, secure defense ('ஏமாப்புடைத்து')."
+    },
+    "Art_Direction": {
+      "Subject_and_Action": "Even for those who are already virtuous, good company provides an essential source of strength and protection.",
+      "Symbolic_Motifs": "The two layers of light—the inner light of the individual and the outer, reinforcing light from the group—are the key visual. This shows good company not as a replacement for inner virtue, but as a crucial reinforcement.",
+      "Mood_and_Emotion": "Strengthening, protective, secure, reinforcing, communal virtue.",
+      "Lighting_and_Color": "The inner light is a steady, bright white. The outer light from the group is a powerful, warm gold. The combination of the two creates an almost impenetrable shield of brilliance.",
+      "Technical_Cues": {
+        "Camera": "Medium shot, centered on the individual, clearly showing the two layers of light and the supportive presence of the companions.",
+        "Resolution": "8K, with ethereal and powerful light aura effects.",
+        "Lighting": "Multi-layered volumetric lighting to create the distinct inner and outer auras.",
+        "Art_Genre": "Fantasy realism, spiritual art."
+      }
+    },
+    "Cultural_Anchors": [
+      "Inherent Goodness of Mind ('மனநலம்')",
+      "Good Company as Strength/Protection ('இனநலம் ஏமாப்புடைத்து')",
+      "The synergy of individual and collective virtue."
+    ]
+  },
+  "Negative_Prompt": "person's light being drained by the group, dark auras, text artifacts, cartoonish.",
+  "Hyperparameters": {
+    "variant": "pro",
+    "steps": 45,
+    "cfg_scale": 8,
+    "seed": "Explore variations for the interaction of the two light auras."
+  }
+}

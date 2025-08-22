@@ -1,0 +1,39 @@
+{
+  "Kural_Info": {
+    "Number": 435,
+    "Chapter": "குற்றங்கடிதல் (The Correction of Faults)",
+    "Tamil_Text": "வருமுன்னர்க் காவாதான் வாழ்க்கை எரிமுன்னர் வைத்தூறு போலக் கெடும்.",
+    "English_Meaning": "The prosperity of him who does not timely guard against faults, will perish like straw before fire."
+  },
+  "Flux_Optimized_Prompt": {
+    "Layered_Composition": {
+      "Foreground": "A large, prosperous, and beautiful house made entirely of dry straw ('வைக்கோல்'). The owner ('காவாதான்') is relaxing carelessly, ignoring a small spark that has just landed nearby.",
+      "Midground": "The spark is rapidly growing into a raging fire ('எரி'), which is just about to touch the straw house.",
+      "Background": "A calm, beautiful day, which creates a stark and tragic contrast with the impending, preventable disaster."
+    },
+    "Art_Direction": {
+      "Subject_and_Action": "A direct and powerful metaphor: the life of someone who does not guard against faults before they arrive will be utterly destroyed, just like a bale of straw placed before a fire.",
+      "Symbolic_Motifs": "The straw house represents a prosperous but fragile life. The fire represents the destructive consequence of a fault that was not prevented ('வருமுன்னர்க் காவாது'). The owner's carelessness is key.",
+      "Mood_and_Emotion": "Impending doom, tragic, careless, cautionary.",
+      "Lighting_and_Color": "Bright, sunny daylight contrasts sharply with the hot, orange and red glow of the growing fire. The colors of the straw are warm and golden, making its flammability more apparent."
+    },
+    "Technical_Cues": {
+      "Camera": "Wide shot that shows the careless owner, the fragile straw house, and the approaching fire in a single, tense frame.",
+      "Resolution": "8K, cinematic, with hyper-realistic fire and smoke effects.",
+      "Lighting": "High-contrast lighting between the bright day and the intense fire.",
+      "Art_Genre": "Dramatic realism."
+    },
+    "Cultural_Anchors": [
+      "Guarding against faults beforehand ('வருமுன்னர்க் காத்தல்')",
+      "Life compared to straw before a fire ('எரிமுன்னர் வைக்கோல் போலக் கெடும்')",
+      "The danger of negligence."
+    ]
+  },
+  "Negative_Prompt": "house made of stone, owner fighting the fire, rainy day, text artifacts, blurry.",
+  "Hyperparameters": {
+    "variant": "pro",
+    "steps": 50,
+    "cfg_scale": 8,
+    "seed": "Explore variations for the intensity of the fire."
+  }
+}

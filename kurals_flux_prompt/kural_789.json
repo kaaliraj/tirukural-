@@ -1,0 +1,39 @@
+{
+  "Kural_Info": {
+    "Number": 789,
+    "Chapter": "நட்பு (Friendship)",
+    "Tamil_Text": "நட்பிற்கு வீற்றிருக்கை யாதெனின் கொட்பின்றி ஒல்லும்வாய் ஊன்றும் நிலை.",
+    "English_Meaning": "Friendship may be said to be on its throne when it possesses the power of supporting one at all times and under all circumstances, (in the practice or virtue and wealth)."
+  },
+  "Flux_Optimized_Prompt": {
+    "Layered_Composition": {
+      "Foreground": "Friendship is personified and seated on a magnificent, stable throne ('வீற்றிருக்கை').",
+      "Midground": "The throne itself is not made of gold or jewels, but of unwavering support. Its foundation is a mighty, ancient tree, whose roots are deep and unshakable. The throne's arms are strong hands that are always ready to provide support ('ஊன்றும் நிலை').",
+      "Background": "This throne of friendship is shown to be a constant, reliable pillar in a world of change and instability ('கொட்பின்றி'), providing support in all possible situations ('ஒல்லும்வாய்')."
+    },
+    "Art_Direction": {
+      "Subject_and_Action": "Where is the throne of friendship? It is in the unwavering state of providing support whenever possible, without fail.",
+      "Symbolic_Motifs": "The throne made of a stable, supportive tree is the central metaphor. It represents friendship's highest, most regal state as a source of unwavering support.",
+      "Mood_and_Emotion": "Supportive, stable, unwavering, regal, reliable.",
+      "Lighting_and_Color": "A strong, steady, golden light illuminates the throne. The colors are deep, earthy, and reliable, emphasizing strength and stability.",
+      "Technical_Cues": {
+        "Camera": "A low-angle shot that makes the throne of friendship look majestic, powerful, and eternal.",
+        "Resolution": "8K, with rich, detailed textures of wood, roots, and stone.",
+        "Lighting": "A constant, unwavering light source.",
+        "Art_Genre": "Mythological art, with a focus on symbolic furniture."
+      },
+      "Cultural_Anchors": [
+        "The Throne of Friendship ('நட்பிற்கு வீற்றிருக்கை')",
+        "Unwavering Support ('கொட்பின்றி ஊன்றும் நிலை')",
+        "The regal nature of reliability."
+      ]
+    },
+    "Negative_Prompt": "a wobbly throne, a dying tree, text artifacts, cartoonish.",
+    "Hyperparameters": {
+      "variant": "dev",
+      "steps": 45,
+      "cfg_scale": 8,
+      "seed": "Explore variations for the design of the friendship throne."
+    }
+  }
+}

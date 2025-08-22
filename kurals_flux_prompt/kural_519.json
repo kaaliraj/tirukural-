@@ -1,0 +1,39 @@
+{
+  "Kural_Info": {
+    "Number": 519,
+    "Chapter": "தெரிந்துவினையாடல் (Selection and Employment)",
+    "Tamil_Text": "வினைக்கண் வினையுடையான் கேண்மைவே றாக நினைப்பானை நீங்கும் திரு.",
+    "English_Meaning": "Fortune deserts the king who doubts the friendship of the man who steadily labours in the discharge of his duties."
+  },
+  "Flux_Optimized_Prompt": {
+    "Layered_Composition": {
+      "Foreground": "A king is shown looking with suspicion and doubt ('வேறாக நினைப்பானை') at his most diligent and hard-working minister.",
+      "Midground": "The minister is tirelessly working for the kingdom, their actions causing the land to flourish. They are the source of the kingdom's prosperity.",
+      "Background": "Because of the king's baseless doubt, the ethereal, glowing goddess of Fortune ('திரு') who was standing behind the king's throne, is now shown turning her back and walking away into the mist, abandoning the king ('நீங்கும் திரு')."
+    },
+    "Art_Direction": {
+      "Subject_and_Action": "A king who doubts the loyalty of his most dedicated servant will be abandoned by fortune itself.",
+      "Symbolic_Motifs": "The king's suspicious gaze is contrasted with the minister's diligent work. The goddess of Fortune physically turning and leaving is the powerful, literal consequence of the king's folly.",
+      "Mood_and_Emotion": "Tragic, foolish, distrustful, consequential.",
+      "Lighting_and_Color": "The king is cast in a cold, paranoid blue light. The diligent minister is bathed in a warm, golden light of productivity. The goddess of Fortune is a radiant figure, and her departure causes the light in the throne room to dim significantly.",
+      "Technical_Cues": {
+        "Camera": "A shot that frames the king's suspicious face in the foreground, with the minister in the mid-ground and the departing goddess in the background, linking the cause and effect.",
+        "Resolution": "8K, cinematic, with a focus on the characters' expressions.",
+        "Lighting": "Dramatic, symbolic lighting that shifts as the goddess departs.",
+        "Art_Genre": "Mythological painting, historical drama."
+      }
+    },
+    "Cultural_Anchors": [
+      "Doubting the dedicated ('வினையுடையான் கேண்மை வேறாக நினைத்தல்')",
+      "Fortune departing ('திரு நீங்கும்')",
+      "The importance of trusting loyal subordinates."
+    ]
+  },
+  "Negative_Prompt": "king trusting the minister, goddess staying, text artifacts, cartoonish.",
+  "Hyperparameters": {
+    "variant": "pro",
+    "steps": 50,
+    "cfg_scale": 8,
+    "seed": "Explore variations for the goddess of Fortune's design."
+  }
+}

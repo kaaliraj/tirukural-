@@ -1,0 +1,33 @@
+{
+  "Kural_Info": {
+    "Number": 1160,
+    "Chapter": "பிரிவாற்றாமை (Separation unendurable)",
+    "Tamil_Text": "அரிதாற்றி அல்லல்நோய் நீக்கிப் பிரிவாற்றிப்பின்இருந்து வாழ்வார் பலர்.",
+    "English_Meaning": "Sorrow's sadness meek sustaining, Driving sore distress away, Separation uncomplaining Many bear the livelong day!."
+  },
+  "Flux_Optimized_Prompt": {
+    "Layered_Composition": {
+      "Foreground": "A woman stands alone, looking out at a long, empty road where her lover has departed. Her expression is one of deep sorrow, yet also of profound endurance.",
+      "Midground": "Around her, ghostly figures of other women from different eras and places are shown in similar states of enduring separation. They form a silent, timeless community of those who bear this pain.",
+      "Background": "The landscape is vast and timeless, suggesting that this experience is a universal and recurring part of life. The tone is melancholic but also respectful of the strength required to survive such pain."
+    },
+    "Art_Direction": {
+      "Subject_and_Action": "A rhetorical and ironic statement about the supposed existence of 'many' people who can endure the rare feat of bearing all the pains of separation and still continue to live.",
+      "Symbolic_Motifs": "The community of enduring women across time shows the universality of the pain. The woman's quiet, stoic posture symbolizes the immense strength required to simply continue living.",
+      "Mood_and_Emotion": "Melancholy, stoic, enduring, a sense of quiet, immense strength in suffering.",
+      "Lighting_and_Color": "Soft, diffused, and slightly melancholic light, like an overcast day. The color palette is muted and desaturated, reflecting the somber theme of endurance."
+    },
+    "Technical_Cues": {
+      "Camera": "A wide, lonely shot that emphasizes the solitude and the vastness of the wait.",
+      "Resolution": "8K, photorealistic with a painterly, timeless quality.",
+      "Lighting": "Natural, soft lighting to create a mood of quiet resignation and strength.",
+      "Art_Genre": "Historical realism with a touch of the ethereal, focusing on emotional endurance."
+    },
+    "Cultural_Anchors": [
+      "பிரிவாற்றாமை (The pain of unendurable separation)",
+      "The virtue of endurance (பொறுமை)",
+      "The universal experience of waiting for a loved one"
+    ]
+  },
+  "Negative_Prompt": "a happy, cheerful woman, a lover returning, a bustling city, text artifacts, cartoonish, blurry."
+}

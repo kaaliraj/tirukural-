@@ -1,0 +1,39 @@
+{
+  "Kural_Info": {
+    "Number": 811,
+    "Chapter": "தீ நட்பு (Evil Friendship)",
+    "Tamil_Text": "பருகுவார் போலினும் பண்பிலார் கேண்மைபெருகலிற் குன்றல் இனிது.",
+    "English_Meaning": "The decrease of friendship with those who look as if they would eat you up (through excess of love) while they are really destitute of goodness is far better than its increase."
+  },
+  "Flux_Optimized_Prompt": {
+    "Layered_Composition": {
+      "Foreground": "A person is shown in a friendship with another who is 'destitute of goodness' ('பண்பிலார்'). This evil friend is displaying an overly intense, almost predatory affection, as if they want to devour the person ('பருகுவார் போலினும்').",
+      "Midground": "A timeline is visualized. At the beginning, the friendship is a large, vibrant, but thorny and poisonous vine ('பெருகல்'). As time progresses, the vine withers and shrinks to almost nothing ('குன்றல்').",
+      "Background": "The person's expression at the beginning of the timeline, when the friendship is large, is one of discomfort and being overwhelmed. At the end, as the friendship has faded, their expression is one of profound relief and peace. This shows that the decrease was 'sweeter' ('இனிது')."
+    },
+    "Art_Direction": {
+      "Subject_and_Action": "It is better and sweeter for a friendship with a person of bad character to wither and decrease, rather than to grow, no matter how affectionate they may seem on the surface.",
+      "Symbolic_Motifs": "The friendship as a poisonous, thorny vine is a key metaphor. Its growth is threatening, and its decay is a relief. The overly intense, almost consuming affection of the bad friend should be depicted as unsettling, not genuinely loving.",
+      "Mood_and_Emotion": "Relief, liberation, cautionary, unsettling.",
+      "Lighting_and_Color": "The 'growing friendship' scene is in sickly, vibrant but poisonous colors—unnatural greens and purples. The 'decreasing friendship' scene transitions to a calm, peaceful, and natural color palette. The light becomes cleaner and more serene as the evil friendship dies.",
+      "Technical_Cues": {
+        "Camera": "A narrative shot that uses a time-lapse effect to show the decay of the poisonous friendship and the corresponding increase in the protagonist's peace of mind.",
+        "Resolution": "8K, ultra-realistic, with a focus on the changing emotional state of the protagonist.",
+        "Lighting": "A clear transition from a sickly, unsettling light to a peaceful, healthy one.",
+        "Art_Genre": "Symbolic realism, psychological art."
+      },
+      "Cultural_Anchors": [
+        "Friendship with the characterless (பண்பிலார் கேண்மை)",
+        "Appearing as if they would devour you (பருகுவார் போலினும்)",
+        "Decreasing is sweeter than increasing (பெருகலிற் குன்றல் இனிது)"
+      ]
+    },
+    "Negative_Prompt": "happy friendship, beautiful vine, sad protagonist, text artifacts.",
+    "Hyperparameters": {
+      "variant": "dev",
+      "steps": 45,
+      "cfg_scale": 8,
+      "seed": "Explore the visual of the 'predatory affection'."
+    }
+  }
+}

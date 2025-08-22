@@ -1,0 +1,39 @@
+{
+  "Kural_Info": {
+    "Number": 422,
+    "Chapter": "அறிவுடைமை (The Possession of Knowledge)",
+    "Tamil_Text": "சென்ற இடத்தால் செலவிடா தீதொரீஇ நன்றின்பால் உய்ப்ப தறிவு.",
+    "English_Meaning": "Wisdom restrains, nor suffers mind to wander where it would; From every evil calls it back, and guides in way of good."
+  },
+  "Flux_Optimized_Prompt": {
+    "Layered_Composition": {
+      "Foreground": "A representation of the Mind is shown as a powerful, wild horse, trying to gallop down a dark, thorny path representing evil ('தீது').",
+      "Midground": "Wisdom ('அறிவு') is personified as a calm, strong charioteer who holds the reins firmly. The charioteer is skillfully steering the horse away from the evil path and guiding it onto a bright, clear path leading towards goodness ('நன்றின்பால்').",
+      "Background": "The two paths are starkly contrasted: one is a dark, dangerous forest, and the other is a sunlit, open road leading to a serene destination."
+    },
+    "Art_Direction": {
+      "Subject_and_Action": "Wisdom is depicted as the skillful master of the mind, preventing it from straying into evil and purposefully guiding it towards good.",
+      "Symbolic_Motifs": "The mind as a wild horse represents its wandering, impulsive nature. Wisdom as the charioteer symbolizes control, direction, and purpose. The two paths represent the choice between good and evil.",
+      "Mood_and_Emotion": "Controlled, disciplined, wise, guiding, purposeful.",
+      "Lighting_and_Color": "The evil path is dark, with menacing shadows and cold colors. The good path is bathed in warm, golden sunlight. The charioteer of Wisdom has a calm, knowing glow."
+    },
+    "Technical_Cues": {
+      "Camera": "Dynamic side-view shot, capturing the action of the charioteer steering the horse.",
+      "Resolution": "8K, cinematic, with a sense of motion and power.",
+      "Lighting": "Dramatic side-lighting that highlights the two different paths and destinies.",
+      "Art_Genre": "Allegorical painting, mythological art style."
+    },
+    "Cultural_Anchors": [
+      "Wisdom ('அறிவு') as a guide",
+      "Restraining the mind ('சென்ற இடத்தால் செலவிடா')",
+      "Guiding towards good ('நன்றின்பால் உய்ப்பது')"
+    ]
+  },
+  "Negative_Prompt": "charioteer losing control, horse running down the evil path, blurry paths, text artifacts.",
+  "Hyperparameters": {
+    "variant": "dev",
+    "steps": 45,
+    "cfg_scale": 9,
+    "seed": "Explore variations for the design of the wild horse."
+  }
+}

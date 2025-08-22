@@ -1,0 +1,38 @@
+{
+  "Kural_Info": {
+    "Number": 265,
+    "Chapter": "தவம் (Penance)",
+    "Tamil_Text": "வேண்டிய வேண்டியாங் கெய்தலால் செய்தவம்ஈண்டு முயலப் படும்.",
+    "English_Meaning": "Religious dislipline is practised in this world, because it secures the attainment of whatever one may wish to enjoy (in the world to come)."
+  },
+  "Flux_Optimized_Prompt": {
+    "Layered_Composition": {
+      "Foreground": "A person is shown diligently practicing penance ('செய் தவம்') in this world ('ஈண்டு').",
+      "Midground": "Their penance is creating a powerful, magical energy that is building a bridge to the heavens.",
+      "Background": "The reason for their effort is shown: across the bridge, in a beautiful, celestial realm, all the things they have ever desired ('வேண்டிய') are shown materializing exactly as they wished for them ('வேண்டியாங்கு'). The penance done here is the direct cause of the perfect fulfillment of their desires there."
+    },
+    "Art_Direction": {
+      "Subject_and_Action": "People undertake the effort of penance in this world because it is the very means by which they can attain all of their desires, exactly as they wish, in the next.",
+      "Symbolic_Motifs": "The penance as the building material for the bridge to the desired reality is the key metaphor. The perfect, one-to-one correspondence between the wish and the manifestation shows the efficacy of the penance.",
+      "Mood_and_Emotion": "Aspirational, purposeful, constructive, wish-fulfillment.",
+      "Lighting_and_Color": "The earthly scene of penance is lit with a determined, focused light. The bridge and the heavenly realm are bathed in a brilliant, golden, dream-like light of fulfilled desire.",
+      "Technical_Cues": {
+        "Camera": "A shot that shows the person on earth, the bridge their efforts are creating, and the beautiful world of fulfilled desires they are building for themselves.",
+        "Resolution": "8K, ultra-realistic, with magical effects for the bridge and the celestial realm.",
+        "Lighting": "The light from the world of fulfilled desires should shine back along the bridge, motivating the person.",
+        "Art_Genre": "High fantasy, with a spiritual theme."
+      },
+      "Cultural_Anchors": [
+        "Because one can attain what one desired, as one desired (வேண்டிய வேண்டியாங்கு எய்தலால்)",
+        "Penance is practiced here (செய் தவம் ஈண்டு முயலப்படும்)"
+      ]
+    },
+    "Negative_Prompt": "failing penance, unfulfilled desires, text artifacts.",
+    "Hyperparameters": {
+      "variant": "pro",
+      "steps": 50,
+      "cfg_scale": 8,
+      "seed": "Explore the visual of 'desires materializing in heaven'."
+    }
+  }
+}

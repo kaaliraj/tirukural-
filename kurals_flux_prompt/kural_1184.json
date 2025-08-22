@@ -1,0 +1,38 @@
+{
+  "Kural_Info": {
+    "Number": 1184,
+    "Chapter": "பசப்புறுபருவரல் (The Pallid Hue)",
+    "Tamil_Text": "உள்ளுவன் மன்யான் உரைப்பது அவர்திறமால்கள்ளம் பிறவோ பசப்பு.",
+    "English_Meaning": "I think (of him); and what I speak about is but his excellence; still is there sallowness; and this is deceitful."
+  },
+  "Flux_Optimized_Prompt": {
+    "Layered_Composition": {
+      "Foreground": "A woman is shown. Her mind ('உள்ளுவன்') and her speech ('உரைப்பது') are visualized.",
+      "Midground": "Her mind is filled with nothing but constant, loving thoughts of her beloved. Her speech is a stream of words that only praise his good qualities ('அவர் திறம்'). Both her thoughts and words are depicted as pure, golden light.",
+      "Background": "Despite this absolute loyalty in thought and word, her skin is covered in the sickly pallor of lovesickness ('பசப்பு'). This pallor is depicted as a treacherous, deceitful entity ('கள்ளம்'), acting in complete contradiction to her steadfast mind and heart. It is a betrayal by her own body."
+    },
+    "Art_Direction": {
+      "Subject_and_Action": "The woman laments the deceitful nature of her own physical pallor, which seems to betray her by appearing even while her mind and words remain completely loyal to her beloved.",
+      "Symbolic_Motifs": "The contrast between the golden light of her loyal thoughts/words and the sickly green of the pallor on her skin is the central visual. The pallor is a separate, almost alien thing that is acting against her will, hence it is a 'deceiver'.",
+      "Mood_and_Emotion": "Betrayed by one's own body, contradictory, loyal mind vs. treacherous body.",
+      "Lighting_and_Color": "A warm, golden light illuminates the woman's mind and speech. However, her body is overlaid with a sickly, pale green-yellow light that does not belong. The two light sources are in conflict.",
+      "Technical_Cues": {
+        "Camera": "A symbolic portrait that uses transparent overlays to show the woman's inner thoughts, her words, and the contradictory state of her physical body.",
+        "Resolution": "8K, ultra-realistic, with a focus on the conflicting colors.",
+        "Lighting": "Dualistic, conflicting lighting.",
+        "Art_Genre": "Symbolic realism, psychological portraiture."
+      },
+      "Cultural_Anchors": [
+        "The deceitful pallor (கள்ளம் பசப்பு)",
+        "Even as I think of and speak of his goodness (உள்ளுவன், உரைப்பது அவர் திறம்)"
+      ]
+    },
+    "Negative_Prompt": "woman not thinking of him, text artifacts, healthy skin.",
+    "Hyperparameters": {
+      "variant": "dev",
+      "steps": 45,
+      "cfg_scale": 8,
+      "seed": "Explore the conflict between the golden light of loyalty and the sickly light of pallor."
+    }
+  }
+}

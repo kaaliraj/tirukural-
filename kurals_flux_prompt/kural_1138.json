@@ -1,0 +1,39 @@
+{
+  "Kural_Info": {
+    "Number": 1138,
+    "Chapter": "நாணுத்துறவுரைத்தல் (The Abandonment of Reserve)",
+    "Tamil_Text": "நிறையரியர் மன்அளியர் என்னாது காமம்மறையிறந்து மன்று படும்.",
+    "English_Meaning": "Even the Lust (of women) transgresses its secrecy and appears in public, forgetting that they are too chaste and liberal (to be overcome by it)."
+  },
+  "Flux_Optimized_Prompt": {
+    "Layered_Composition": {
+      "Foreground": "Love-longing ('காமம்') is personified as a wild, powerful, and mischievous force, like a wild spirit.",
+      "Midground": "This spirit is shown looking at a woman who is the very picture of virtuous restraint. She is 'hard to overcome in her chastity' ('நிறை அரியர்') and 'full of grace' ('மன் அளியர்').",
+      "Background": "Ignoring her strong character, the wild spirit of Kamam decides to reveal her secret love. It is shown breaking out of the secret confines of her heart ('மறை இறந்து') and shouting the secret in the middle of the public square ('மன்று படும்'), much to her dismay."
+    },
+    "Art_Direction": {
+      "Subject_and_Action": "The personified force of Love-longing is so powerful that it will ignore a woman's own strong, chaste character and publicly expose her secret feelings.",
+      "Symbolic_Motifs": "Kamam as a mischievous, uncontrollable spirit is the central metaphor. The woman's heart as a 'secret chamber' that is broken open illustrates the loss of privacy. The public square represents the shame of public exposure.",
+      "Mood_and_Emotion": "Mischievous, uncontrollable, revelatory, embarrassing.",
+      "Lighting_and_Color": "The woman is in a calm, controlled, interior light. The spirit of Kamam is a chaotic, vibrant, and energetic being. When it breaks out into the public square, the light becomes bright, public, and exposing.",
+      "Technical_Cues": {
+        "Camera": "A narrative shot showing the wild spirit of Love escaping from the woman's heart and causing a commotion in the public square.",
+        "Resolution": "8K, ultra-realistic, with a fantastical design for the personified Kamam.",
+        "Lighting": "A shift from private, interior lighting to bright, public, exterior lighting.",
+        "Art_Genre": "Fantasy realism, with mythological elements."
+      },
+      "Cultural_Anchors": [
+        "Love/Lust (காமம்)",
+        "Breaking out of secrecy (மறை இறந்து)",
+        "Appearing in public (மன்று படும்)"
+      ]
+    },
+    "Negative_Prompt": "calm spirit, secret remaining hidden, text artifacts.",
+    "Hyperparameters": {
+      "variant": "dev",
+      "steps": 45,
+      "cfg_scale": 8,
+      "seed": "Explore the design of the personified 'spirit of Kamam'."
+    }
+  }
+}

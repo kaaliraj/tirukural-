@@ -1,0 +1,39 @@
+{
+  "Kural_Info": {
+    "Number": 104,
+    "Chapter": "செய்ந்நன்றி அறிதல் (Gratitude)",
+    "Tamil_Text": "தினைத்துணை நன்றி செயினும் பனைத்துணையாக்கொள்வர் பயன்தெரி வார்.",
+    "English_Meaning": "Though the benefit conferred be as small as a millet seed, those who know its advantage will consider it as large as a palmyra fruit."
+  },
+  "Flux_Optimized_Prompt": {
+    "Layered_Composition": {
+      "Foreground": "A person is receiving a very small act of help, represented by a single, tiny millet seed ('தினைத்துணை') being placed in their hand.",
+      "Midground": "The receiver is a wise person who knows the value of help ('பயன் தெரிவார்'). In their perception, the tiny millet seed instantly transforms into a massive, valuable palmyra fruit ('பனைத்துணையா').",
+      "Background": "The background shows the context of the help—perhaps it was a small piece of information or a tiny amount of food given at a crucial moment, explaining why it is so highly valued."
+    },
+    "Art_Direction": {
+      "Subject_and_Action": "The perception of a wise person magnifies even the smallest help into something immense and valuable, recognizing its true worth.",
+      "Symbolic_Motifs": "The magical transformation from millet seed to palmyra fruit is the key visual. The wise receiver's hands are cupped as if they are receiving something truly massive, even when the physical gift is small.",
+      "Mood_and_Emotion": "Appreciative, wise perception, magnification of gratitude.",
+      "Lighting_and_Color": "A magical light surrounds the seed as it transforms into the large fruit, indicating this is an act of perception and wisdom. The wise person's face is lit with profound gratitude.",
+      "Technical_Cues": {
+        "Camera": "A close-up on the hands and the transforming object, with the grateful face of the receiver in clear view.",
+        "Resolution": "8K, ultra-realistic, with magical realism effects for the transformation.",
+        "Lighting": "Soft, magical lighting focused on the act of receiving and transformation.",
+        "Art_Genre": "Magical realism."
+      },
+      "Cultural_Anchors": [
+        "Millet-seed sized help (தினைத்துணை நன்றி)",
+        "Perceived as Palmyra-sized (பனைத்துணையாக்கொள்வர்)",
+        "Those who know the benefit (பயன் தெரிவார்)"
+      ]
+    },
+    "Negative_Prompt": "un-grateful person, seed staying a seed, text artifacts, cartoonish fruit.",
+    "Hyperparameters": {
+      "variant": "dev",
+      "steps": 40,
+      "cfg_scale": 8,
+      "seed": "Explore the visual effect of the seed-to-fruit transformation."
+    }
+  }
+}

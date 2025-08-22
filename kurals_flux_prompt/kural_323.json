@@ -1,0 +1,38 @@
+{
+  "Kural_Info": {
+    "Number": 323,
+    "Chapter": "கொல்லாமை (Not killing)",
+    "Tamil_Text": "ஒன்றாக நல்லது கொல்லாமை மற்றதன்பின்சாரப் பொய்யாமை நன்று.",
+    "English_Meaning": "Alone, first of goods things, is 'not to slay'; The second is, no untrue word to say."
+  },
+  "Flux_Optimized_Prompt": {
+    "Layered_Composition": {
+      "Foreground": "A great, magnificent, sunlit mountain peak represents the 'singularly best' virtue ('ஒன்றாக நல்லது'). On this highest peak stands a single, clear, radiant crystal: the virtue of Not-Killing ('கொல்லாமை').",
+      "Midground": "Just below this highest summit, on a slightly lower but still very high plateau, stands another, smaller crystal, representing the virtue of Not-Lying ('பொய்யாமை'). It is second in rank ('அதன் பின்சார').",
+      "Background": "All other virtues are shown on the lower slopes of the mountain, clearly establishing the supreme, unparalleled position of non-violence, with truthfulness as the immediate runner-up."
+    },
+    "Art_Direction": {
+      "Subject_and_Action": "A clear visual hierarchy of virtues: not-killing is the singular, supreme good, and next in rank after it comes the virtue of not-lying.",
+      "Symbolic_Motifs": "The mountain of virtues with its distinct peaks and plateaus is the central metaphor. The placement and size of the crystals representing the virtues visually communicate their rank and importance.",
+      "Mood_and_Emotion": "Hierarchical, definitive, clear morality.",
+      "Lighting_and_Color": "A brilliant, pure, divine light shines on the highest peak of Not-Killing. A slightly less intense, but still powerful, light illuminates the plateau of Not-Lying. The rest of the mountain is in a softer, more general light.",
+      "Technical_Cues": {
+        "Camera": "A majestic, wide shot of the 'Mountain of Virtue', clearly showing the supreme position of the peak of Non-Killing.",
+        "Resolution": "8K, ultra-realistic landscape, with beautiful, crystalline effects for the virtues.",
+        "Lighting": "Hierarchical lighting that reinforces the moral ranking.",
+        "Art_Genre": "Epic fantasy landscape, symbolic art."
+      },
+      "Cultural_Anchors": [
+        "The singularly good thing is not-killing (ஒன்றாக நல்லது கொல்லாமை)",
+        "After it ranks not-lying (அதன் பின்சாரப் பொய்யாமை நன்று)"
+      ]
+    },
+    "Negative_Prompt": "lying as the top virtue, text artifacts, dark mountain.",
+    "Hyperparameters": {
+      "variant": "pro",
+      "steps": 50,
+      "cfg_scale": 8,
+      "seed": "Explore the design of the 'Mountain of Virtue'."
+    }
+  }
+}

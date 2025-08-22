@@ -1,0 +1,39 @@
+{
+  "Kural_Info": {
+    "Number": 829,
+    "Chapter": "கூடாநட்பு (Unreal Friendship)",
+    "Tamil_Text": "மிகச்செய்து தம்மெள்ளு வாரை நகச்செய்து நட்பினுள் சாப்புல்லற் பாற்று.",
+    "English_Meaning": "It is the duty of kings to affect great love but make it die (inwardly); as regard those foes who shew them great friendship but despise them (in their heart)."
+  },
+  "Flux_Optimized_Prompt": {
+    "Layered_Composition": {
+      "Foreground": "A wise ruler is interacting with a false friend who is outwardly showing great affection ('மிகச்செய்து') but inwardly despises them ('தம்மெள்ளுவார்').",
+      "Midground": "The ruler is shown responding with a perfect outward display of friendship and smiles ('நகச்செய்து'). However, a symbolic view of the ruler's heart shows that the bond of friendship ('நட்பு'), represented as a plant, is being allowed to wither and die internally ('சாப்புல்லற் பாற்று').",
+      "Background": "This shows the ruler's strategy: mirror the outward friendship while killing the inward attachment, thus neutralizing the threat without open conflict."
+    },
+    "Art_Direction": {
+      "Subject_and_Action": "When dealing with those who pretend to be your friend but secretly despise you, you should outwardly smile and be friendly, while inwardly letting the friendship wither and die.",
+      "Symbolic_Motifs": "The smiling face versus the withering heart-plant is the key visual. It shows the disconnect between outward action and inward intention as a deliberate strategy.",
+      "Mood_and_Emotion": "Strategic, discreet, controlled, a quiet termination.",
+      "Lighting_and_Color": "The outward scene is lit with a pleasant, social light. The symbolic view of the heart is shown with the plant turning from green to brown and grey, in a dimming light.",
+      "Technical_Cues": {
+        "Camera": "A shot that captures the ruler's smiling face, with a surreal overlay showing the state of their heart.",
+        "Resolution": "8K, with a focus on the contrast between outer and inner states.",
+        "Lighting": "Dual lighting to represent the outer facade and the inner reality.",
+        "Art_Genre": "Psychological realism, with symbolic elements."
+      },
+      "Cultural_Anchors": [
+        "Making them smile outwardly ('நகச்செய்து')",
+        "Letting the friendship die within ('நட்பினுள் சாப்புல்லல்')",
+        "The strategy for handling false friends."
+      ]
+    },
+    "Negative_Prompt": "ruler showing anger, a flourishing heart-plant, text artifacts.",
+    "Hyperparameters": {
+      "variant": "dev",
+      "steps": 45,
+      "cfg_scale": 8,
+      "seed": "Explore variations for the withering heart-plant."
+    }
+  }
+}

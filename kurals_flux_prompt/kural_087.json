@@ -1,0 +1,39 @@
+{
+  "Kural_Info": {
+    "Number": 87,
+    "Chapter": "விருந்தோம்பல் (Hospitality)",
+    "Tamil_Text": "இனைத்துணைத் தென்பதொன் றில்லை விருந்தின்துணைத்துணை வேள்விப் பயன்.",
+    "English_Meaning": "The advantages of benevolence cannot be measured; the measure (of the virtue) of the guests (entertained) is the only measure."
+  },
+  "Flux_Optimized_Prompt": {
+    "Layered_Composition": {
+      "Foreground": "A host is offering simple food to a guest who appears to be a humble traveler.",
+      "Midground": "As the host performs the act of giving, a magnificent, invisible, cosmic scale materializes. On one side is the simple act of hospitality. On the other side, the 'worth' of the guest ('விருந்தின் துணைத்துணை') determines the result.",
+      "Background": "The humble guest is revealed to have a brilliant, divine aura, showing they are a great sage or a god in disguise. Because of the guest's immense worth, the cosmic scale tips dramatically, showing that the fruit of the host's hospitality ('வேள்விப் பயன்') is immeasurably vast and cannot be calculated by the simple value of the food given."
+    },
+    "Art_Direction": {
+      "Subject_and_Action": "The benefit of hospitality is not measured by the value of the gift, but is proportional to the spiritual worth of the guest being served.",
+      "Symbolic_Motifs": "The cosmic scale is the central metaphor. The true nature of the guest is hidden at first and then revealed, creating a moment of surprise and profound understanding for the viewer. The 'fruit' is not just gold, but a vast, divine blessing.",
+      "Mood_and_Emotion": "Profound, mysterious, immeasurable, divine reward.",
+      "Lighting_and_Color": "The scene begins with humble, natural light. As the guest's true nature is revealed, a powerful, divine light emanates from them, illuminating the scene and the cosmic scale.",
+      "Technical_Cues": {
+        "Camera": "A shot that focuses on the interaction, with the cosmic scale appearing as a symbolic overlay.",
+        "Resolution": "8K, ultra-realistic, with strong ethereal and glowing effects for the guest's aura and the cosmic scale.",
+        "Lighting": "A dramatic shift in lighting from mundane to divine as the guest's worth is revealed.",
+        "Art_Genre": "Mythological painting, symbolic realism."
+      },
+      "Cultural_Anchors": [
+        "The fruit of sacrifice/hospitality (வேள்விப் பயன்)",
+        "The worth of the guest (விருந்தின் துணை)",
+        "The concept of gods or sages testing mortals in disguise"
+      ]
+    },
+    "Negative_Prompt": "arrogant guest, simple scale, no divine reveal, text artifacts, host expecting reward.",
+    "Hyperparameters": {
+      "variant": "pro",
+      "steps": 55,
+      "cfg_scale": 9,
+      "seed": "Explore the visual reveal of the guest's divine nature."
+    }
+  }
+}

@@ -1,0 +1,38 @@
+{
+  "Kural_Info": {
+    "Number": 1185,
+    "Chapter": "பசப்புறுபருவரல் (The Pallid Hue)",
+    "Tamil_Text": "உவக்காண்எம் காதலர் செல்வார் இவக்காண்என்மேனி பசப்பூர் வது.",
+    "English_Meaning": "Just as my lover departed then, did not sallowness spread here on my person?."
+  },
+  "Flux_Optimized_Prompt": {
+    "Layered_Composition": {
+      "Foreground": "A split composition showing two events happening simultaneously.",
+      "Midground": "On the left side of the frame ('உவக்காண்'), the lover ('காதலர்') is shown walking away, departing over a distant hill ('செல்வார்').",
+      "Background": "On the right side of the frame ('இவக்காண்'), the woman is shown. The very instant the lover begins to depart, the sickly, yellow-green color of sallowness ('பசப்பு') is shown spreading over her body like a fast-moving shadow or stain ('ஊர்வது'). The two actions are perfectly synchronized."
+    },
+    "Art_Direction": {
+      "Subject_and_Action": "A lament showing the immediate and direct causal link between the lover's departure and the appearance of the pallor of lovesickness.",
+      "Symbolic_Motifs": "The synchronized timing is everything. The visual should connect the lover's first step away with the first appearance of the sallow color on her skin, as if his departure is the direct cause of the disease.",
+      "Mood_and_Emotion": "Immediate consequence, cause-and-effect, sorrowful.",
+      "Lighting_and_Color": "The departing lover is moving away from the light. The woman is being overtaken by the sickly, desaturated color of pallor, which drains the healthy, warm tones from her skin.",
+      "Technical_Cues": {
+        "Camera": "A split-screen or single wide shot that uses composition to link the two simultaneous events.",
+        "Resolution": "8K, ultra-realistic, with a visual effect that shows the color spreading rapidly over the woman's skin.",
+        "Lighting": "The light source seems to depart with the lover, leaving the woman to be consumed by the dim, sickly color of her sorrow.",
+        "Art_Genre": "Narrative realism."
+      },
+      "Cultural_Anchors": [
+        "Over there, my lover departs (உவக்காண் எம் காதலர் செல்வார்)",
+        "Over here, the pallor spreads on my body (இவக்காண் என் மேனி பசப்பு ஊர்வது)"
+      ]
+    },
+    "Negative_Prompt": "lover staying, healthy woman, text artifacts.",
+    "Hyperparameters": {
+      "variant": "dev",
+      "steps": 40,
+      "cfg_scale": 8,
+      "seed": "Explore the visual effect of the 'spreading pallor'."
+    }
+  }
+}

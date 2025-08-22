@@ -1,0 +1,39 @@
+{
+  "Kural_Info": {
+    "Number": 146,
+    "Chapter": "பிறனில் விழையாமை (Not coveting another's Wife)",
+    "Tamil_Text": "பகைபாவம் அச்சம் பழியென நான்கும்இகவாவாம் இல்லிறப்பான் கண்.",
+    "English_Meaning": "Hatred, sin, fear, disgrace; these four will never leave him who goes in to his neighbour's wife."
+  },
+  "Flux_Optimized_Prompt": {
+    "Layered_Composition": {
+      "Foreground": "A man is shown transgressing into his neighbor's house for an illicit affair.",
+      "Midground": "The moment he commits the act, four menacing, spectral figures materialize and permanently attach themselves to him like ghostly chains or shadows.",
+      "Background": "The four figures are distinct personifications: a furious, red figure of Hatred ('பகை'); a dark, heavy, sin-laden figure of Sin/Guilt ('பாவம்'); a trembling, grey figure of Fear ('அச்சம்'); and a mocking, mud-spattered figure of Disgrace ('பழி'). These four will now never leave him ('இகவாவாம்')."
+    },
+    "Art_Direction": {
+      "Subject_and_Action": "The act of adultery instantly and permanently saddles the sinner with four inseparable companions: Hatred, Sin, Fear, and Disgrace.",
+      "Symbolic_Motifs": "The personification of the four consequences as inescapable, haunting companions is the core of the image. Each specter has a design that reflects its nature. They are not just feelings, but active, tormenting entities.",
+      "Mood_and_Emotion": "Haunted, tormented, inescapable consequence, cursed.",
+      "Lighting_and_Color": "A dark, dramatic, and fearful light. Each of the four spectral companions glows with its own sickly, malevolent color—angry red, sinful black, fearful grey, and shameful brown—which combine to cast a chaotic and hellish light on the protagonist.",
+      "Technical_Cues": {
+        "Camera": "A shot that captures the sinner being permanently shackled to his four new, terrifying companions.",
+        "Resolution": "8K, ultra-realistic, with terrifying and distinct designs for the four personified consequences.",
+        "Lighting": "Chaotic, multi-source lighting from the four specters.",
+        "Art_Genre": "Dark fantasy, horror."
+      },
+      "Cultural_Anchors": [
+        "The four things: Hatred, Sin, Fear, Disgrace (பகை, பாவம், அச்சம், பழி)",
+        "They will never leave (இகவாவாம்)",
+        "The one who transgresses into another's house (இல் இறப்பான்)"
+      ]
+    },
+    "Negative_Prompt": "sinner escaping, friendly specters, text artifacts, happy adulterer.",
+    "Hyperparameters": {
+      "variant": "pro",
+      "steps": 55,
+      "cfg_scale": 10,
+      "seed": "Explore the distinct designs of the four spectral companions."
+    }
+  }
+}

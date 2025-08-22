@@ -1,0 +1,39 @@
+{
+  "Kural_Info": {
+    "Number": 49,
+    "Chapter": "இல்வாழ்க்கை (Domestic Life)",
+    "Tamil_Text": "அறனெனப் பட்டதே இல்வாழ்க்கை அஃதும்பிறன்பழிப்ப தில்லாயின் நன்று.",
+    "English_Meaning": "The marriage state is truly called virtue. The other state is also good, if others do not reproach it."
+  },
+  "Flux_Optimized_Prompt": {
+    "Layered_Composition": {
+      "Foreground": "A virtuous and happy family life ('இல்வாழ்க்கை') is depicted inside a home, glowing with a golden light explicitly labeled 'Virtue' ('அறன்') in ethereal script.",
+      "Midground": "Through an open doorway, we see another path—the life of an ascetic. This path is also depicted as honorable and good.",
+      "Background": "However, along the ascetic's path, there are shadowy figures representing 'others' who are whispering and pointing, casting faint shadows of blame or reproach ('பழிப்ப தில்லாயின்') onto that path. The domestic path has no such figures near it."
+    },
+    "Art_Direction": {
+      "Subject_and_Action": "Domestic life, when lived blamelessly, is virtue itself. The alternative ascetic life is also good, but only on the condition that it is free from the reproach of others.",
+      "Symbolic_Motifs": "The domestic life is self-contained and inherently virtuous. The ascetic life's virtue is conditional, shown by the external figures who have the power to cast a shadow on it. The key is that the 'blameless' quality of domestic life is inherent, while the ascetic's must be proven to the world.",
+      "Mood_and_Emotion": "Affirming, conditional, secure virtue vs. scrutinized virtue.",
+      "Lighting_and_Color": "The home is filled with a warm, unwavering golden light. The ascetic's path is lit by a cooler, white light, which is intermittently shadowed by the passing figures of reproach.",
+      "Technical_Cues": {
+        "Camera": "A shot from within the home, looking out, framing the ascetic path through the doorway. This perspective establishes domestic life as the primary, normative state of virtue.",
+        "Resolution": "8K, ultra-realistic, with strong plays of light and shadow.",
+        "Lighting": "Contrast between the steady, warm interior light and the variable, cool exterior light.",
+        "Art_Genre": "Symbolic realism, with strong compositional framing."
+      },
+      "Cultural_Anchors": [
+        "Domestic life as Virtue itself (அறனெனப் பட்டதே இல்வாழ்க்கை)",
+        "The condition of being blameless (பிறன்பழிப்ப தில்லாயின்)",
+        "The societal scrutiny of different life paths"
+      ]
+    },
+    "Negative_Prompt": "blamed family, perfect ascetic path, dark home, happy whispering figures, text artifacts.",
+    "Hyperparameters": {
+      "variant": "dev",
+      "steps": 40,
+      "cfg_scale": 8,
+      "seed": "Explore the appearance of the shadowy figures of reproach."
+    }
+  }
+}

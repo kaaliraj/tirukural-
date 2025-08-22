@@ -1,0 +1,39 @@
+{
+  "Kural_Info": {
+    "Number": 656,
+    "Chapter": "வினைத்தூய்மை (Purity in Action)",
+    "Tamil_Text": "ஈன்றாள் பசிகாண்பான் ஆயினுஞ் செய்யற்க சான்றோர் பழிக்கும் வினை.",
+    "English_Meaning": "Though a minister may see his mother starve; let him do not act which the wise would (treat with contempt)."
+  },
+  "Flux_Optimized_Prompt": {
+    "Layered_Composition": {
+      "Foreground": "A person is in a dire situation. Their own mother ('ஈன்றாள்') is starving, her hand weakly reaching out for food.",
+      "Midground": "The only way to get food is by committing a disgraceful act, represented by stealing a loaf of bread that is sitting on a pedestal marked with the seal of 'Dishonor'. Hovering above this pedestal are the ghostly, disapproving faces of the wise ('சான்றோர்'), who are condemning this potential act ('பழிக்கும் வினை').",
+      "Background": "Despite the extreme emotional pressure from his starving mother, the person is shown turning away from the dishonorable act, choosing to uphold virtue even at a terrible personal cost."
+    },
+    "Art_Direction": {
+      "Subject_and_Action": "Even to save one's own starving mother, one must not commit an act that the wise would condemn as dishonorable.",
+      "Symbolic_Motifs": "The starving mother represents the most extreme possible justification for a bad act. The disapproving faces of the wise represent the unwavering judgment of honor. The person's choice to refuse is the ultimate act of integrity.",
+      "Mood_and_Emotion": "Agonizing, principled, honorable, a terrible choice.",
+      "Lighting_and_Color": "A dark, desperate, and tragic scene. The only light comes from the ghostly, judgmental faces of the wise, casting a cold, moral light on the scene.",
+      "Technical_Cues": {
+        "Camera": "A close-up on the person's face, torn with anguish but ultimately making the honorable choice.",
+        "Resolution": "8K, with intense, emotional facial expressions.",
+        "Lighting": "High-contrast, dramatic lighting (chiaroscuro) to emphasize the moral conflict.",
+        "Art_Genre": "Tragic realism, classical drama."
+      }
+    },
+    "Cultural_Anchors": [
+      "Even if one's mother starves ('ஈன்றாள் பசிகாண்பான் ஆயினும்')",
+      "Do not do what the wise condemn ('சான்றோர் பழிக்கும் வினை செய்யற்க')",
+      "The supremacy of honor over personal feeling."
+    ]
+  },
+  "Negative_Prompt": "person stealing the bread, happy mother, smiling wise men, text artifacts.",
+  "Hyperparameters": {
+    "variant": "pro",
+    "steps": 50,
+    "cfg_scale": 9,
+    "seed": "Explore variations for the ghostly faces of the wise."
+  }
+}

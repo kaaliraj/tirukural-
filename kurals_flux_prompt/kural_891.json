@@ -1,0 +1,39 @@
+{
+  "Kural_Info": {
+    "Number": 891,
+    "Chapter": "பெரியாரைப் பிழையாமை (Not Offending the Great)",
+    "Tamil_Text": "ஆற்றுவார் ஆற்றல் இகழாமை போற்றுவார் போற்றலுள் எல்லாம் தலை.",
+    "English_Meaning": "The chief of all guarded things is the guarding one-self against disrespect towards the mighty."
+  },
+  "Flux_Optimized_Prompt": {
+    "Layered_Composition": {
+      "Foreground": "A person is shown guarding several precious treasures—a chest of gold, a royal crown, a sacred text. This represents guarding valuable things ('போற்றல்').",
+      "Midground": "However, the most important act of guarding they perform is against their own potential disrespect. A powerful, great person ('ஆற்றுவார்') is nearby, represented as a being of immense, volcanic power. The guardian is actively holding back a shadowy hand of insult or disrespect that is trying to emerge from their own self, preventing it from offending the powerful being.",
+      "Background": "This act of self-control is shown to be the chief and most important act of protection ('போற்றலுள் எல்லாம் தலை'), more critical than guarding any external treasure."
+    },
+    "Art_Direction": {
+      "Subject_and_Action": "Among all the things one should guard, the most important is to guard against disrespecting the powerful.",
+      "Symbolic_Motifs": "The act of guarding against one's own inner disrespect (the shadowy hand) is the key visual. This is contrasted with the lesser act of guarding external treasures. The powerful person as a volcano represents their immense, dangerous power.",
+      "Mood_and_Emotion": "Prudent, cautious, self-controlled, the ultimate protection.",
+      "Lighting_and_Color": "The powerful person glows with a dangerous, fiery energy. The act of self-restraint by the guardian is a moment of intense, focused effort.",
+      "Technical_Cues": {
+        "Camera": "A shot that focuses on the guardian's internal struggle and their act of self-control.",
+        "Resolution": "8K, with a dramatic and powerful composition.",
+        "Lighting": "High-contrast lighting from the 'volcanic' great person.",
+        "Art_Genre": "High-fantasy art, with a strong psychological element."
+      }
+    },
+    "Cultural_Anchors": [
+      "Not disrespecting the power of the mighty ('ஆற்றுவார் ஆற்றல் இகழாமை')",
+      "The chief of all protections ('போற்றலுள் எல்லாம் தலை')",
+      "The importance of prudence with the powerful."
+    ]
+  },
+  "Negative_Prompt": "person insulting the great man, a weak great man, text artifacts.",
+  "Hyperparameters": {
+    "variant": "pro",
+    "steps": 50,
+    "cfg_scale": 9,
+    "seed": "Explore variations for the volcanic 'great man'."
+  }
+}

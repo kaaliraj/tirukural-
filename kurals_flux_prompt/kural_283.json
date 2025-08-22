@@ -1,0 +1,39 @@
+{
+  "Kural_Info": {
+    "Number": 283,
+    "Chapter": "கள்ளாமை (The Absence of Fraud)",
+    "Tamil_Text": "களவினால் ஆகிய ஆக்கம் அளவிறந்துஆவது போலக் கெடும்.",
+    "English_Meaning": "The property, which is acquired by fraud, will entirely perish, even while it seems to increase."
+  },
+  "Flux_Optimized_Prompt": {
+    "Layered_Composition": {
+      "Foreground": "A pile of wealth—gold coins, jewels—acquired by fraud ('களவினால் ஆகிய ஆக்கம்').",
+      "Midground": "The pile of wealth is shown in a paradoxical state. New coins are being added and it appears to be growing larger ('ஆவது போல'). However, at the same time, the coins at the bottom of the pile are simultaneously and rapidly turning into black sand and crumbling away ('கெடும்').",
+      "Background": "The foundation upon which the wealth is built is unstable and cracked, representing its fraudulent origin. The overall effect is a frantic and futile effort to build something that is constantly destroying itself from the base up."
+    },
+    "Art_Direction": {
+      "Subject_and_Action": "The illusory nature of wealth gained by fraud: while it may seem to grow limitlessly, it is simultaneously destroying itself and will ultimately perish completely.",
+      "Symbolic_Motifs": "The visual paradox of simultaneous growth and decay is the central concept. The wealth is like a sandcastle built below the tide line—a futile and temporary illusion of prosperity.",
+      "Mood_and_Emotion": "Illusory, futile, self-destructive, unstable, paradoxical.",
+      "Lighting_and_Color": "A sickly, unnatural golden light illuminates the new coins, while the crumbling base is cast in deep, corrosive shadows. The palette suggests corruption and decay.",
+      "Technical_Cues": {
+        "Camera": "A static medium shot that allows the viewer to observe the paradoxical process of simultaneous accumulation and destruction.",
+        "Resolution": "8K, ultra-realistic, with advanced particle effects to show the gold turning into sand.",
+        "Lighting": "High-contrast lighting that emphasizes the difference between the illusion of gain and the reality of decay.",
+        "Art_Genre": "Surrealist still life, symbolic art."
+      },
+      "Cultural_Anchors": [
+        "Wealth from fraud (களவினால் ஆகிய ஆக்கம்)",
+        "Appearing to grow limitlessly (அளவிறந்து ஆவது போல)",
+        "Perishing (கெடும்)"
+      ]
+    },
+    "Negative_Prompt": "stable pile of wealth, happy owner, text artifacts, cartoonish coins.",
+    "Hyperparameters": {
+      "variant": "pro",
+      "steps": 50,
+      "cfg_scale": 8,
+      "seed": "Explore the visual effect of the gold crumbling into black sand."
+    }
+  }
+}

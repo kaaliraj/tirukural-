@@ -1,0 +1,39 @@
+{
+  "Kural_Info": {
+    "Number": 510,
+    "Chapter": "தெரிந்துதெளிதல் (Selection and Confidence)",
+    "Tamil_Text": "தேரான் தெளிவும் தெளிந்தான்கண் ஐயுறவும் தீரா இடும்பை தரும்.",
+    "English_Meaning": "To make choice of one who has not been examined, and to entertain doubts respecting one who has been chosen, will produce irremediable sorrow."
+  },
+  "Flux_Optimized_Prompt": {
+    "Layered_Composition": {
+      "Foreground": "A king sits on his throne, trapped and in despair. His throne is being crushed between two giant, monstrous vices.",
+      "Midground": "The monster on the left, labeled 'Trusting the Untested' ('தேரான் தெளிவு'), is a smiling, two-faced creature offering the king a poisoned chalice. The monster on the right, labeled 'Doubting the Trusted' ('தெளிந்தான்கண் ஐயுறவு'), is a shadowy beast that is chaining the hands of a loyal, capable minister.",
+      "Background": "The kingdom behind the throne is in ruins, engulfed in the thorny vines of unending sorrow ('தீரா இடும்பை') that grow from the two monsters."
+    },
+    "Art_Direction": {
+      "Subject_and_Action": "The two great errors in judgment—trusting the untested and doubting the tested—are personified as twin monsters that bring inescapable sorrow to a ruler.",
+      "Symbolic_Motifs": "The two monsters are the personifications of the two errors. The throne being crushed between them represents the ruler's downfall. The thorny vines symbolize the resulting endless sorrow.",
+      "Mood_and_Emotion": "Tragic, sorrowful, cautionary, claustrophobic.",
+      "Lighting_and_Color": "A dark, oppressive atmosphere. Each monster has its own sickly, colored glow—one deceptively warm, the other cold and shadowy. The overall palette is dark and full of despair.",
+      "Technical_Cues": {
+        "Camera": "A dramatic, low-angle shot that makes the two monsters seem overwhelming and the king seem helpless.",
+        "Resolution": "8K, cinematic, with detailed creature design.",
+        "Lighting": "High-contrast, dramatic lighting that highlights the king's suffering.",
+        "Art_Genre": "Dark fantasy art, allegorical painting."
+      }
+    },
+    "Cultural_Anchors": [
+      "Trusting the Untested ('தேரான் தெளிவு')",
+      "Doubting the Trusted ('தெளிந்தான்கண் ஐயுறவு')",
+      "Inescapable Sorrow ('தீரா இடும்பை')"
+    ]
+  },
+  "Negative_Prompt": "happy king, friendly monsters, prosperous kingdom, text artifacts, cartoonish.",
+  "Hyperparameters": {
+    "variant": "pro",
+    "steps": 50,
+    "cfg_scale": 9,
+    "seed": "Explore variations for the design of the two monsters."
+  }
+}

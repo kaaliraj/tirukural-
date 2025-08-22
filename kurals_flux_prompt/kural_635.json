@@ -1,0 +1,39 @@
+{
+  "Kural_Info": {
+    "Number": 635,
+    "Chapter": "அமைச்சு (The Office of Minister of state)",
+    "Tamil_Text": "அறனறிந்து ஆன்றமைந்த சொல்லான்எஞ் ஞான்றுந் திறனறிந்தான் தேர்ச்சித் துணை.",
+    "English_Meaning": "He is the best helper (of the king) who understanding the duties, of the latter, is by his special learning, able to tender the fullest advice, and at all times conversant with the best method (of performing actions)."
+  },
+  "Flux_Optimized_Prompt": {
+    "Layered_Composition": {
+      "Foreground": "A wise minister stands as a perfect aide ('துணை') to a king. He knows virtue ('அறனறிந்து') and speaks with profound, graceful words ('ஆன்றமைந்த சொல்லான்').",
+      "Midground": "His greatest skill is his knowledge of 'method' ('திறனறிந்தான்'). This is visualized as him holding a magical compass that always points to the best possible course of action for any situation the king faces.",
+      "Background": "The king is shown consulting this minister, and because of the minister's guidance from the 'compass of method', the kingdom is navigating through complex challenges (stormy seas, dark forests) with ease and clarity."
+    },
+    "Art_Direction": {
+      "Subject_and_Action": "The ideal aide is one who knows virtue, speaks with grace, and, above all, always knows the right method to accomplish any task, providing clear guidance.",
+      "Symbolic_Motifs": "The magical 'compass of method' is the central metaphor for the minister's key skill. It visualizes their ability to always know the most effective way forward.",
+      "Mood_and_Emotion": "Guiding, wise, skillful, clear, supportive.",
+      "Lighting_and_Color": "A clear, guiding light emanates from the magical compass, illuminating the path ahead for the king. The minister is depicted with a serene, wise aura."
+    },
+    "Technical_Cues": {
+      "Camera": "A shot that shows the minister offering the guidance of the compass to the king, with the challenging landscape ahead.",
+      "Resolution": "8K, with a mythical and allegorical feel.",
+      "Lighting": "The compass provides a magical, directional light.",
+      "Art_Genre": "High-fantasy art, symbolic portraiture."
+    },
+    "Cultural_Anchors": [
+      "Knowing Virtue and Speaking Gracefully",
+      "Knowing the Right Method ('திறனறிந்தான்')",
+      "The Perfect Aide ('தேர்ச்சித் துணை')"
+    ]
+  },
+  "Negative_Prompt": "minister with a broken compass, king ignoring advice, kingdom lost, text artifacts.",
+  "Hyperparameters": {
+    "variant": "pro",
+    "steps": 50,
+    "cfg_scale": 8,
+    "seed": "Explore variations for the design of the magical compass."
+  }
+}

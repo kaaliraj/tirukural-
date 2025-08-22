@@ -1,0 +1,33 @@
+{
+  "Kural_Info": {
+    "Number": 1273,
+    "Chapter": "குறிப்பறிவுறுத்தல் (The Reading of the Signs)",
+    "Tamil_Text": "மணியில் திகழ்தரு நூல்போல் மடந்தைஅணியில் திகழ்வதொன்று உண்டு.",
+    "English_Meaning": "As through the crystal beads is seen the thread on which they 're strung So in her beauty gleams some thought cannot find a tongue."
+  },
+  "Flux_Optimized_Prompt": {
+    "Layered_Composition": {
+      "Foreground": "A close-up on a beautiful, translucent string of gemstones ('Maniyil'). The thread ('Nool') that runs through them is clearly visible.",
+      "Midground": "This image is paralleled with a beautiful woman ('Madanthai'). Her outward beauty and ornaments ('Aniyil') are like the gemstones.",
+      "Background": "Within her, a subtle, glowing line of light is visible, running through her form. This is the 'thread'—her unspoken thought or intention ('Thikazhvathonru Undu')—which gives her beauty its true form and meaning, and which the discerning lover can perceive."
+    },
+    "Art_Direction": {
+      "Subject_and_Action": "A metaphor comparing a lover's unspoken intention to the thread that is visible through a string of gems. Her outward beauty is the gems, but the keen observer can see the underlying thought that holds it all together.",
+      "Symbolic_Motifs": "The parallel between the thread in the necklace and the glowing line of thought in the woman is the central concept.",
+      "Mood_and_Emotion": "Perceptive, subtle, insightful, reading between the lines.",
+      "Lighting_and_Color": "Clear, bright light that allows for the translucency of the gems and the visibility of the inner light. The 'thread' of thought glows with a soft, knowing light."
+    },
+    "Technical_Cues": {
+      "Camera": "A split-screen or a dissolve shot that transitions from the necklace to the woman, making the visual connection explicit.",
+      "Resolution": "8K, mystical realism, with beautiful gemstone and light effects.",
+      "Lighting": "Clean, high-key lighting that emphasizes clarity and transparency.",
+      "Art_Genre": "Symbolic art, focusing on a powerful visual analogy."
+    },
+    "Cultural_Anchors": [
+      "The gem and thread metaphor (மணி, நூல்)",
+      "Reading unspoken intentions (குறிப்பறிதல்)",
+      "Subtlety in love"
+    ]
+  },
+  "Negative_Prompt": "opaque gems, a woman with no inner light, a dark setting, text artifacts, cartoonish, blurry."
+}

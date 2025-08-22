@@ -1,0 +1,39 @@
+{
+  "Kural_Info": {
+    "Number": 640,
+    "Chapter": "அமைச்சு (The Office of Minister of state)",
+    "Tamil_Text": "முறைப்படச் சூழ்ந்தும் முடிவிலவே செய்வர் திறப்பாடு இலாஅ தவர்.",
+    "English_Meaning": "Those ministers who are destitute of (executive) ability will fail to carry out their projects, although they may have contrived aright."
+  },
+  "Flux_Optimized_Prompt": {
+    "Layered_Composition": {
+      "Foreground": "A group of ministers who lack executive skill ('திறப்பாடு இலாதவர்') are shown with a perfect, glowing blueprint for a magnificent bridge ('முறைப்படச் சூழ்ந்தும்'). The plan is flawless.",
+      "Midground": "However, when they try to execute the plan, their actions are clumsy and ineffective. They are dropping tools, misaligning stones, and arguing amongst themselves.",
+      "Background": "As a result, the bridge they are building is a half-finished, chaotic ruin that is collapsing into the river. Their perfect plan leads to a failed outcome because they lack the ability to execute it ('முடிவிலவே செய்வர்')."
+    },
+    "Art_Direction": {
+      "Subject_and_Action": "Even with the most perfect plans, those who lack the practical skill of execution will be unable to complete their work successfully.",
+      "Symbolic_Motifs": "The stark contrast between the perfect, glowing blueprint and the chaotic, collapsing bridge is the central message. It separates the skill of planning from the skill of doing.",
+      "Mood_and_Emotion": "Incompetent, frustrating, a failure of execution.",
+      "Lighting_and_Color": "The blueprint glows with a bright, intelligent light. The actual construction site is messy, chaotic, and cast in the harsh light of failure.",
+      "Technical_Cues": {
+        "Camera": "A wide shot that shows the perfect plan on one side and the disastrous result of the execution on the other.",
+        "Resolution": "8K, with detailed chaos and destruction effects.",
+        "Lighting": "High-contrast lighting to differentiate the ideal plan from the failed reality.",
+        "Art_Genre": "Narrative realism, with symbolic elements."
+      },
+      "Cultural_Anchors": [
+        "Those who lack executive skill ('திறப்பாடு இலாதவர்')",
+        "Even with a perfect plan ('முறைப்படச் சூழ்ந்தும்')",
+        "Ending with no result ('முடிவிலவே')"
+      ]
+    },
+    "Negative_Prompt": "ministers successfully building the bridge, flawed blueprint, text on blueprint, cartoonish.",
+    "Hyperparameters": {
+      "variant": "dev",
+      "steps": 45,
+      "cfg_scale": 8,
+      "seed": "Explore variations for the collapsing bridge."
+    }
+  }
+}

@@ -1,0 +1,39 @@
+{
+  "Kural_Info": {
+    "Number": 479,
+    "Chapter": "வலியறிதல் (The Knowledge of Power)",
+    "Tamil_Text": "அளவறிந்து வாழாதான் வாழ்க்கை உளபோல இல்லாகித் தோன்றாக் கெடும்.",
+    "English_Meaning": "The prosperity of him who lives without knowing the measure (of his property), will perish, even while it seems to continue."
+  },
+  "Flux_Optimized_Prompt": {
+    "Layered_Composition": {
+      "Foreground": "A lavishly dressed person ('அளவறிந்து வாழாதான்') is shown living in a magnificent mansion. Everything appears prosperous and real ('உளபோல').",
+      "Midground": "However, the mansion and all the wealth within it are depicted as a beautiful but fragile illusion, like a mirage or a hologram, that is beginning to flicker and fade.",
+      "Background": "Through the fading illusion, the true reality is revealed: a barren wasteland and a ruined hovel. The prosperity is not real and is in the process of disappearing completely ('இல்லாகித் தோன்றாக் கெடும்')."
+    },
+    "Art_Direction": {
+      "Subject_and_Action": "The life of one who lives beyond their means is an illusion of prosperity that will ultimately vanish and reveal a reality of ruin.",
+      "Symbolic_Motifs": "The wealth as a flickering mirage or hologram is the central metaphor. The contrast between the illusory mansion and the real ruin behind it is key.",
+      "Mood_and_Emotion": "Deceptive, illusory, tragic, inevitable collapse.",
+      "Lighting_and_Color": "The illusion is brightly colored but has a translucent, unstable quality. The true reality behind it is grey, desaturated, and bleak. The flickering light adds to the sense of instability.",
+      "Technical_Cues": {
+        "Camera": "A slow pull-back shot that starts with the illusion of wealth and gradually reveals its insubstantial nature and the ruin behind it.",
+        "Resolution": "8K, cinematic, with high-quality visual effects for the mirage/hologram.",
+        "Lighting": "Shifting, unstable lighting.",
+        "Art_Genre": "Surrealism, magical realism."
+      }
+    },
+    "Cultural_Anchors": [
+      "Not living within one's means ('அளவறிந்து வாழாதான்')",
+      "Appearing to exist, but becoming nothing ('உளபோல இல்லாகி')",
+      "The illusion of debt-fueled prosperity."
+    ]
+  },
+  "Negative_Prompt": "solid mansion, happy person, real wealth, text artifacts, cartoonish.",
+  "Hyperparameters": {
+    "variant": "pro",
+    "steps": 50,
+    "cfg_scale": 8,
+    "seed": "Explore variations for the flickering mirage effect."
+  }
+}

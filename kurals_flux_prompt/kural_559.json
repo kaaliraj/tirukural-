@@ -1,0 +1,39 @@
+{
+  "Kural_Info": {
+    "Number": 559,
+    "Chapter": "கொடுங்கோன்மை (The Cruel Sceptre)",
+    "Tamil_Text": "முறைகோடி மன்னவன் செய்யின் உறைகோடி ஒல்லாது வானம் பெயல்.",
+    "English_Meaning": "If the king acts contrary to justice, rain will become unseasonable, and the heavens will withhold their showers."
+  },
+  "Flux_Optimized_Prompt": {
+    "Layered_Composition": {
+      "Foreground": "An unjust king ('முறைகோடி மன்னவன்') is shown passing a crooked judgment, his sceptre bent.",
+      "Midground": "As a direct cosmic consequence, the heavens above his kingdom react. The seasonal rain clouds ('வானம்') are shown literally turning away and refusing to rain on his land ('ஒல்லாது பெயல்').",
+      "Background": "The kingdom below begins to suffer from an unnatural drought. The natural order is disrupted by the king's injustice. The seasons are out of balance ('உறைகோடி')."
+    },
+    "Art_Direction": {
+      "Subject_and_Action": "A king's injustice disrupts the natural order of the cosmos itself, causing the seasons to fail and the rains to cease.",
+      "Symbolic_Motifs": "The personified rain clouds turning away are a powerful visual of nature's refusal to cooperate. The bent sceptre is the cause. The resulting drought is the effect.",
+      "Mood_and_Emotion": "Cosmic imbalance, consequential, dry, unnatural, sterile.",
+      "Lighting_and_Color": "A harsh, unnatural, yellow light, indicating drought and sickness in the land. The clouds are dark and menacing but are actively moving away from the kingdom.",
+      "Technical_Cues": {
+        "Camera": "A wide, epic shot that connects the king's action on the ground to the reaction of the heavens above.",
+        "Resolution": "8K, cinematic, with powerful meteorological effects.",
+        "Lighting": "Harsh, dry lighting.",
+        "Art_Genre": "Mythological painting, epic fantasy art."
+      },
+      "Cultural_Anchors": [
+        "The Unjust King ('முறைகோடி மன்னவன்')",
+        "The Heavens Withholding Rain ('வானம் பெயல் ஒல்லாது')",
+        "Disruption of the cosmic and natural order by human injustice."
+      ]
+    },
+    "Negative_Prompt": "just king, heavy rain, prosperous kingdom, text artifacts, cartoonish clouds.",
+    "Hyperparameters": {
+      "variant": "pro",
+      "steps": 50,
+      "cfg_scale": 8,
+      "seed": "Explore variations for the personified clouds."
+    }
+  }
+}

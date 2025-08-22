@@ -1,0 +1,39 @@
+{
+  "Kural_Info": {
+    "Number": 704,
+    "Chapter": "குறிப்பறிதல் (The Knowledge of Indications)",
+    "Tamil_Text": "குறித்தது கூறாமைக் கொள்வாரோ டேனை உறுப்போ ரனையரால் வேறு.",
+    "English_Meaning": "Those who understand one's thoughts without being informed (thereof) and those who do not, may (indeed) resemble one another bodily; still are they different (mentally)."
+  },
+  "Flux_Optimized_Prompt": {
+    "Layered_Composition": {
+      "Foreground": "Two individuals stand side-by-side. Physically, they look almost identical—same height, same build, same features ('உறுப்போர் அனையர்').",
+      "Midground": "However, a surreal effect reveals their true nature. The person on the right, who can understand things without being told ('கூறாமைக் கொள்வார்'), has a mind that is a brilliant, radiant, complex crystal. The person on the left, who lacks this skill, has a mind that is a simple, dull, solid rock.",
+      "Background": "This internal difference shows that although they look the same, they are fundamentally different ('வேறு') beings."
+    },
+    "Art_Direction": {
+      "Subject_and_Action": "Though they may look alike physically, a person who can understand things intuitively is fundamentally different from one who cannot.",
+      "Symbolic_Motifs": "The contrast between the radiant crystal mind and the dull rock mind is the central metaphor. This visualizes the profound internal difference despite the external similarity.",
+      "Mood_and_Emotion": "Contrasting, profound difference, superficial similarity.",
+      "Lighting_and_Color": "The main light source is the glowing crystal mind of the perceptive person, which casts the other figure in a relative shadow.",
+      "Technical_Cues": {
+        "Camera": "A portrait of the two figures, with a transparent effect to show their different minds.",
+        "Resolution": "8K, with high-quality crystal and rock textures.",
+        "Lighting": "Symbolic lighting that equates light with perception.",
+        "Art_Genre": "Surrealist portraiture, metaphysical art."
+      }
+    },
+    "Cultural_Anchors": [
+      "Those who understand without being told ('குறித்தது கூறாமைக் கொள்வார்')",
+      "Alike in body ('உறுப்போர் அனையர்')",
+      "Fundamentally different ('வேறு')"
+    ]
+  },
+  "Negative_Prompt": "both minds the same, text artifacts, cartoonish.",
+  "Hyperparameters": {
+    "variant": "dev",
+    "steps": 40,
+    "cfg_scale": 8,
+    "seed": "Explore variations for the crystal mind."
+  }
+}

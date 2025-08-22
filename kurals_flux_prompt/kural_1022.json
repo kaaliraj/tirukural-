@@ -1,0 +1,39 @@
+{
+  "Kural_Info": {
+    "Number": 1022,
+    "Chapter": "குடிசெயல்வகை (The Way of Maintaining the Family)",
+    "Tamil_Text": "ஆள்வினையும் ஆன்ற அறிவும் எனஇரண்டின்நீள்வினையால் நீளும் குடி.",
+    "English_Meaning": "One's family is raised by untiring perseverance in both effort and wise contrivances."
+  },
+  "Flux_Optimized_Prompt": {
+    "Layered_Composition": {
+      "Foreground": "A family tree is depicted. At its base, the roots are two distinct but intertwined sources of power.",
+      "Midground": "One root is a powerful, muscular arm constantly working, representing 'Manly Effort' ('ஆள்வினை'). The other root is a glowing, crystalline brain, representing 'Profound Knowledge' ('ஆன்ற அறிவு').",
+      "Background": "Because of the long, continuous action ('நீள்வினை') of these two intertwined roots, the family tree ('குடி') is shown growing tall, strong, and reaching into the heavens ('நீளும்'). Its branches are flourishing and full of healthy fruit."
+    },
+    "Art_Direction": {
+      "Subject_and_Action": "The long-term prosperity and elevation of a family are sustained by the continuous and combined application of two forces: diligent effort and profound wisdom.",
+      "Symbolic_Motifs": "The two distinct roots of Effort and Wisdom are the central metaphor. The tree's magnificent growth is a direct result of these two forces working together over a long period. The 'continuous action' is shown by the ceaseless energy flowing from the roots up the trunk.",
+      "Mood_and_Emotion": "Sustained growth, foundational, prosperous, harmonious.",
+      "Lighting_and_Color": "A bright, healthy, life-giving light illuminates the scene. The root of effort has a powerful, earthy glow. The root of wisdom has a brilliant, celestial glow. These two colors intertwine and flow up the trunk of the tree.",
+      "Technical_Cues": {
+        "Camera": "A shot that starts at the two powerful roots and pans up to show the full, magnificent height of the flourishing family tree.",
+        "Resolution": "8K, ultra-realistic, with detailed textures for the tree and magical effects for the glowing roots.",
+        "Lighting": "The two roots are the primary light sources, showing that the family's prosperity is self-generated.",
+        "Art_Genre": "Symbolic fantasy art, magical realism."
+      },
+      "Cultural_Anchors": [
+        "Manly Effort (ஆள்வினை)",
+        "Profound Knowledge (ஆன்ற அறிவு)",
+        "The family will be prolonged (நீளும் குடி)"
+      ]
+    },
+    "Negative_Prompt": "withered tree, single root, lazy arm, text artifacts.",
+    "Hyperparameters": {
+      "variant": "pro",
+      "steps": 50,
+      "cfg_scale": 8,
+      "seed": "Explore the intertwined design of the two powerful roots."
+    }
+  }
+}

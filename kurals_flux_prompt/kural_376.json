@@ -1,0 +1,39 @@
+{
+  "Kural_Info": {
+    "Number": 376,
+    "Chapter": "ஊழ் (Fate)",
+    "Tamil_Text": "பரியினும் ஆகாவாம் பாலல்ல உய்த்துச் சொரியினும் போகா தம.",
+    "English_Meaning": "Things not your own will yield no good, howe'er you guard with pain; Your own, howe'er you scatter them abroad, will yours remain."
+  },
+  "Flux_Optimized_Prompt": {
+    "Layered_Composition": {
+      "Foreground": "A split composition. Left: A person desperately tries to hold onto water (representing what is not fated) in their cupped hands, but it streams out uselessly despite their efforts.",
+      "Midground": "Right: The same person casually tosses a handful of glowing seeds (representing what is fated) into the wind, but the seeds defy the wind and spiral back, planting themselves at the person's feet.",
+      "Background": "A vast, open plain under a neutral sky, emphasizing that this principle of fate applies universally."
+    },
+    "Art_Direction": {
+      "Subject_and_Action": "A visual metaphor for the principle of fate: what is not meant to be yours cannot be retained, and what is destined to be yours cannot be lost.",
+      "Symbolic_Motifs": "The escaping water symbolizes what is not destined ('பாலல்ல'). The returning, glowing seeds represent what is destined ('தம').",
+      "Mood_and_Emotion": "Inevitable, accepting, profound, deterministic.",
+      "Lighting_and_Color": "Natural, realistic lighting. The water on the left is plain and transparent. The seeds on the right have a magical, golden glow to signify their destined nature."
+    },
+    "Technical_Cues": {
+      "Camera": "Wide shot showcasing both actions in a balanced manner.",
+      "Resolution": "8K, ultra-realistic, with high-speed photography effects to capture the water and seed movements.",
+      "Lighting": "Clear, even lighting to focus on the symbolic actions.",
+      "Art_Genre": "Conceptual realism, symbolic photography style."
+    },
+    "Cultural_Anchors": [
+      "Concept of 'Ūzh' (Fate/Destiny)",
+      "What is destined vs. not destined ('பாலல்ல', 'தம')",
+      "The futility of fighting one's ordained fate."
+    ]
+  },
+  "Negative_Prompt": "person holding the water successfully, seeds blowing away, text, cartoonish, distracting background elements.",
+  "Hyperparameters": {
+    "variant": "pro",
+    "steps": 45,
+    "cfg_scale": 7,
+    "seed": "Explore variations for the glow and trajectory of the seeds."
+  }
+}

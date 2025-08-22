@@ -1,0 +1,38 @@
+{
+  "Kural_Info": {
+    "Number": 305,
+    "Chapter": "வெகுளாமை (Restraining Anger)",
+    "Tamil_Text": "தன்னைத்தான் காக்கின் சினங்காக்க காவாக்கால்தன்னையே கொல்லுஞ் சினம்.",
+    "English_Meaning": "If thou would'st guard thyself, guard against wrath alway; 'Gainst wrath who guards not, him his wrath shall slay."
+  },
+  "Flux_Optimized_Prompt": {
+    "Layered_Composition": {
+      "Foreground": "A person is shown. Their own anger ('சினம்') is visualized as a fierce, fiery, predatory beast that is part of their own shadow, chained to them.",
+      "Midground": "The person is shown actively guarding against this beast ('சினம் காக்க'), holding its chain firmly and keeping it muzzled. This is the act of 'guarding oneself' ('தன்னைத் தான் காக்கின்').",
+      "Background": "A terrible vision of the alternative is shown. If the person fails to guard the chain ('காவாக்கால்'), the beast of their own anger is shown breaking free, turning on them, and lethally mauling them. Their own anger will kill them ('தன்னையே கொல்லும்')."
+    },
+    "Art_Direction": {
+      "Subject_and_Action": "To protect yourself, you must protect yourself from your own anger. If you fail to control it, your own anger will turn on you and destroy you.",
+      "Symbolic_Motifs": "Anger as a chained, personal beast is the central metaphor. Self-control is the act of holding the chain. The ultimate threat is not from an external enemy, but from this inner monster turning on its master.",
+      "Mood_and_Emotion": "Self-control, self-destructive, cautionary, dangerous.",
+      "Lighting_and_Color": "The beast of anger glows with a dangerous, unstable, fiery red light. The person's act of control is a struggle. The scene of self-destruction is a chaotic and violent explosion of this same fiery light.",
+      "Technical_Cues": {
+        "Camera": "A shot that captures the person's tense struggle to control their inner beast, with a flash-forward or vision of the dire consequences of failure.",
+        "Resolution": "8K, ultra-realistic, with a powerful and terrifying design for the 'beast of anger'.",
+        "Lighting": "The dangerous, flickering light of the inner beast should be the primary, threatening light source.",
+        "Art_Genre": "Dark fantasy, psychological horror."
+      },
+      "Cultural_Anchors": [
+        "To guard oneself, guard against anger (தன்னைத் தான் காக்கின் சினம் காக்க)",
+        "If you don't guard it, your anger will kill you (காவாக்கால் தன்னையே கொல்லும் சினம்)"
+      ]
+    },
+    "Negative_Prompt": "friendly beast, happy angry person, text artifacts.",
+    "Hyperparameters": {
+      "variant": "pro",
+      "steps": 55,
+      "cfg_scale": 9,
+      "seed": "Explore the design of the 'inner beast of anger'."
+    }
+  }
+}

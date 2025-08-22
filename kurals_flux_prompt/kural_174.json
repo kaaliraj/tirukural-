@@ -1,0 +1,38 @@
+{
+  "Kural_Info": {
+    "Number": 174,
+    "Chapter": "வெஃகாமை (Not Coveting)",
+    "Tamil_Text": "இலமென்று வெஃகுதல் செய்யார் புலம்வென்றபுன்மையில் காட்சி யவர்.",
+    "English_Meaning": "The wise who have conquered their senses and are free from crime, will not covet (the things of others), with the thought \"we are destitute\"."
+  },
+  "Flux_Optimized_Prompt": {
+    "Layered_Composition": {
+      "Foreground": "A wise sage is shown. They are materially poor, holding an empty bowl ('இலம் என்று'). However, they have conquered their five senses, which is visualized as five tamed, sleeping beasts resting peacefully at their feet ('புலம் வென்ற').",
+      "Midground": "Before them, a vision of great wealth appears—the property of another.",
+      "Background": "Because they have conquered their senses and possess a flawless vision ('புன்மையில் காட்சியவர்'), the temptation of the wealth has no effect on them. They do not covet it ('வெஃகுதல் செய்யார்'). Their inner mastery makes them immune to the desperation of their outer poverty."
+    },
+    "Art_Direction": {
+      "Subject_and_Action": "Those wise ones who have achieved mastery over their senses will not fall into the trap of coveting others' wealth, even when they themselves are in a state of poverty.",
+      "Symbolic_Motifs": "The tamed beasts of the senses are a powerful symbol of inner mastery. The contrast between their outer poverty (empty bowl) and their inner richness (mastery, flawless vision) is the central theme. Their immunity to temptation is a result of this inner strength.",
+      "Mood_and_Emotion": "Self-mastery, serene, dignified poverty, incorruptible.",
+      "Lighting_and_Color": "A powerful, serene, inner light of wisdom emanates from the sage, pushing back the shadows of their poverty. The vision of wealth has a tempting glow, but it cannot penetrate the sage's aura of self-control.",
+      "Technical_Cues": {
+        "Camera": "A medium portrait shot that captures the sage's serene expression, their empty bowl, and the tamed beasts at their feet, telling the story of their inner state.",
+        "Resolution": "8K, ultra-realistic, with a focus on the peaceful, sleeping forms of the symbolic beasts.",
+        "Lighting": "The sage's inner light of wisdom is the primary light source.",
+        "Art_Genre": "Symbolic realism, with fantasy elements."
+      },
+      "Cultural_Anchors": [
+        "Those of flawless vision who have conquered their senses (புலம் வென்ற புன்மையில் காட்சியவர்)",
+        "Will not covet, saying 'I am poor' (இலம் என்று வெஃகுதல் செய்யார்)"
+      ]
+    },
+    "Negative_Prompt": "sage coveting wealth, wild beasts, text artifacts.",
+    "Hyperparameters": {
+      "variant": "pro",
+      "steps": 50,
+      "cfg_scale": 8,
+      "seed": "Explore the designs of the five tamed beasts."
+    }
+  }
+}

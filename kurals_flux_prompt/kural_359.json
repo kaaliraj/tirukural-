@@ -1,0 +1,38 @@
+{
+  "Kural_Info": {
+    "Number": 359,
+    "Chapter": "மெய்யுணர்தல் (Truth-Conciousness)",
+    "Tamil_Text": "சார்புணர்ந்து சார்பு கெடஒழுகின் மற்றழித்துச்சார்தரா சார்தரு நோய்.",
+    "English_Meaning": "He who so lives as to know Him who is the support of all things and abandon all desire, will be freed from the evils which would otherwise cleave to him and destroy (his efforts after absorption)."
+  },
+  "Flux_Optimized_Prompt": {
+    "Layered_Composition": {
+      "Foreground": "A person is shown in a profound act of spiritual realization. They are understanding the 'Ultimate Support' of the universe, God ('சார்பு உணர்ந்து'). This is visualized as them being connected by a single, powerful thread of light to a great, cosmic sun.",
+      "Midground": "As they realize this one true support, they are shown letting go of all their other, lesser supports and attachments ('சார்பு கெட ஒழுகின்'). These lesser supports, like wealth and relationships, are depicted as flimsy, rotten ropes that fall away.",
+      "Background": "A host of menacing, disease-like, spiritual afflictions ('சார்தரு நோய்') that were clinging to the lesser ropes are shown trying to reach the person. However, now that the person has let go of the lesser ropes, these afflictions have nothing to hold on to. They are unable to attach themselves ('சார்தரா') and are destroyed ('அழித்து'), falling away into nothingness."
+    },
+    "Art_Direction": {
+      "Subject_and_Action": "By realizing the one true support (God) and letting go of all lesser supports (attachments), one becomes free from the clinging afflictions that would otherwise destroy their spiritual progress.",
+      "Symbolic_Motifs": "The key is the transfer of reliance from the many rotten ropes to the one golden thread of light. The afflictions are shown to be dependent on the attachments; without the attachments, they have no power and no way to reach the soul.",
+      "Mood_and_Emotion": "Liberation, purification, secure, unburdened.",
+      "Lighting_and_Color": "The cosmic sun of the True Support is the source of all light, a brilliant, pure gold. The lesser ropes of attachment are dark and decaying. The afflictions are sickly, disease-like creatures of shadow.",
+      "Technical_Cues": {
+        "Camera": "A shot that shows the person letting go of the dark ropes, the afflictions falling away as a result, and the single, strong thread of light to the True Support remaining as their only connection.",
+        "Resolution": "8K, ultra-realistic, with strong symbolic effects for the ropes, the thread, and the afflictions.",
+        "Lighting": "The light from the cosmic sun should be shown purifying the scene as the lesser attachments are renounced.",
+        "Art_Genre": "High fantasy art, with a strong spiritual narrative."
+      },
+      "Cultural_Anchors": [
+        "Knowing the True Support and living so as to let other supports perish (சார்பு உணர்ந்து சார்பு கெட ஒழுகின்)",
+        "The clinging diseases that would attach will be destroyed and not attach (அழித்துச் சார்தரா சார்தரு நோய்)"
+      ]
+    },
+    "Negative_Prompt": "person clinging to rotten ropes, afflictions succeeding, text artifacts.",
+    "Hyperparameters": {
+      "variant": "pro",
+      "steps": 55,
+      "cfg_scale": 9,
+      "seed": "Explore the design of the 'clinging afflictions'."
+    }
+  }
+}

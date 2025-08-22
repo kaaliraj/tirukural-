@@ -1,0 +1,39 @@
+{
+  "Kural_Info": {
+    "Number": 389,
+    "Chapter": "இறைமாட்சி (The Greatness of a King)",
+    "Tamil_Text": "செவிகைப்பச் சொற்பொறுக்கும் பண்புடை வேந்தன் கவிகைக்கீழ்த் தங்கும் உலகு.",
+    "English_Meaning": "The king of worth, who can words bitter to his ear endure, Beneath the shadow of his power the world abides secure."
+  },
+  "Flux_Optimized_Prompt": {
+    "Layered_Composition": {
+      "Foreground": "A wise king sits patiently on his throne, listening to a counselor who is delivering harsh, critical advice. The words are visualized as sharp, thorny vines ('செவிகைப்பச் சொல்') moving towards the king's ear.",
+      "Midground": "The king, instead of reacting with anger, shows endurance and character ('பண்புடை'), and the thorny vines dissolve into harmless dust before they reach him.",
+      "Background": "A vast and diverse world is shown peacefully sheltered under the cool, protective shadow of the king's royal umbrella ('கவிகைக்கீழ்த் தங்கும் உலகு'), which is held steady by his ability to endure criticism."
+    },
+    "Art_Direction": {
+      "Subject_and_Action": "The entire world finds security under the rule of a king who has the character to endure harsh, bitter criticism.",
+      "Symbolic_Motifs": "The thorny vines represent bitter words. The king's calm endurance is his strength. The vast royal umbrella ('கவிகை') symbolizes his protective power, which is sustained by his open-mindedness.",
+      "Mood_and_Emotion": "Wise, patient, secure, strong, tolerant.",
+      "Lighting_and_Color": "The court is lit with a calm, steady light. The thorny vines are dark and menacing, but the king's aura is a serene blue or white. The world under his umbrella is peaceful and green.",
+      "Technical_Cues": {
+        "Camera": "Wide shot that connects the act of listening in the foreground to the protected world in the background.",
+        "Resolution": "8K, cinematic, with fine details on the king's patient expression.",
+        "Lighting": "Soft, diffused lighting in the court, contrasting with the bright, peaceful world outside.",
+        "Art_Genre": "Epic historical painting, symbolic narrative art."
+      }
+    },
+    "Cultural_Anchors": [
+      "Enduring Bitter Words ('செவிகைப்பச் சொற்பொறுக்கும்')",
+      "The Royal Umbrella ('கவிகை') as a symbol of protection",
+      "The virtue of tolerance in a ruler."
+    ]
+  },
+  "Negative_Prompt": "angry king, counselor being punished, small umbrella, chaotic world, text artifacts.",
+  "Hyperparameters": {
+    "variant": "pro",
+    "steps": 50,
+    "cfg_scale": 8,
+    "seed": "Explore variations for the visual representation of the bitter words."
+  }
+}

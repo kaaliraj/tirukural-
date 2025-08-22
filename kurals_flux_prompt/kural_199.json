@@ -1,0 +1,38 @@
+{
+  "Kural_Info": {
+    "Number": 199,
+    "Chapter": "பயனில சொல்லாமை (Against Vain Speaking)",
+    "Tamil_Text": "பொருள்தீர்ந்த பொச்சாந்துஞ் சொல்லார் மருள்தீர்ந்தமாசறு காட்சி யவர்.",
+    "English_Meaning": "Those wise men who are without faults and are freed from ignorance will not even forgetfully speak things that profit not."
+  },
+  "Flux_Optimized_Prompt": {
+    "Layered_Composition": {
+      "Foreground": "A person of flawless vision ('மாசறு காட்சியவர்') is depicted. Their mind is a perfectly clear, flawless crystal, free from the mists of confusion ('மருள் தீர்ந்த').",
+      "Midground": "They are shown in a moment of potential forgetfulness or carelessness ('பொச்சாந்தும்').",
+      "Background": "Even in this state, the words that emerge from them are still meaningful and purposeful. The light of their clear mind is so powerful that it acts as a filter, automatically preventing any meaningless or profitless words ('பொருள் தீர்ந்த') from being spoken. It is an inherent quality, not a conscious effort."
+    },
+    "Art_Direction": {
+      "Subject_and_Action": "Those who have achieved a state of flawless, confusion-free vision are constitutionally incapable of speaking meaningless words, even by accident.",
+      "Symbolic_Motifs": "The mind as a flawless crystal that automatically filters speech is the key metaphor. The impossibility of useless words escaping is shown by them turning to dust or light before they can be fully formed.",
+      "Mood_and_Emotion": "Inherent purity, effortless virtue, flawless clarity.",
+      "Lighting_and_Color": "A brilliant, pure, and incredibly clear white light emanates from the crystal mind, defining the entire scene. The palette is one of absolute purity and clarity.",
+      "Technical_Cues": {
+        "Camera": "A symbolic shot that gives a view into the crystal mind, showing its filtering action even when the person is being careless.",
+        "Resolution": "8K, ultra-realistic, with advanced crystalline and light-filtering effects.",
+        "Lighting": "The crystal mind is the sole, brilliant light source.",
+        "Art_Genre": "Conceptual art, mystical realism."
+      },
+      "Cultural_Anchors": [
+        "Those of flawless vision, free from confusion (மருள் தீர்ந்த மாசறு காட்சியவர்)",
+        "Will not speak profitless words, even forgetfully (பொருள் தீர்ந்த பொச்சாந்தும் சொல்லார்)"
+      ]
+    },
+    "Negative_Prompt": "cloudy crystal, useless words escaping, text artifacts.",
+    "Hyperparameters": {
+      "variant": "pro",
+      "steps": 55,
+      "cfg_scale": 8,
+      "seed": "Explore the visual of the 'crystal mind as a filter'."
+    }
+  }
+}

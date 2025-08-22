@@ -1,0 +1,39 @@
+{
+  "Kural_Info": {
+    "Number": 859,
+    "Chapter": "இகல் (Hostility)",
+    "Tamil_Text": "இகல்காணான் ஆக்கம் வருங்கால் அதனை மிகல்காணும் கேடு தரற்கு.",
+    "English_Meaning": "At the approach of wealth one will not think of hatred (but) to secure one's ruin, one will look to its increase."
+  },
+  "Flux_Optimized_Prompt": {
+    "Layered_Composition": {
+      "Foreground": "A person is walking a path of life. In the distance, a great treasure representing Prosperity ('ஆக்கம்') is approaching them.",
+      "Midground": "As long as prosperity is coming, the person does not even see or notice the dark, thorny plant of hostility ('இகல்') that grows by the side of the road ('இகல்காணான்').",
+      "Background": "However, the moment the person desires their own ruin ('கேடு தரற்கு'), they are shown stopping, turning to the thorny plant of hostility, and actively watering it, encouraging it to grow and take over their path ('மிகல்காணும்')."
+    },
+    "Art_Direction": {
+      "Subject_and_Action": "A person is not inclined towards hostility when things are going well. It is only when they desire their own ruin that they will actively cultivate hostility.",
+      "Symbolic_Motifs": "The thorny plant of hostility is the key symbol. It is ignored during good times but actively cultivated when self-destruction is sought.",
+      "Mood_and_Emotion": "Self-destructive, a conscious choice for ruin, psychological.",
+      "Lighting_and_Color": "The path of prosperity is bright and golden. The thorny plant is dark and menacing. The act of watering it causes the bright path to become overshadowed.",
+      "Technical_Cues": {
+        "Camera": "A narrative shot that shows the person's shift in focus from the approaching prosperity to the cultivation of the hostile plant.",
+        "Resolution": "8K, with a strong, clear narrative.",
+        "Lighting": "The lighting shifts from hopeful to ominous as the person makes their self-destructive choice.",
+        "Art_Genre": "Symbolic realism."
+      },
+      "Cultural_Anchors": [
+        "One doesn't see hostility when prosperity comes",
+        "One seeks hostility to bring ruin ('கேடு தரற்கு மிகல்காணும்')",
+        "Hostility as a self-destructive choice."
+      ]
+    },
+    "Negative_Prompt": "person watering the plant during good times, text artifacts, cartoonish.",
+    "Hyperparameters": {
+      "variant": "dev",
+      "steps": 45,
+      "cfg_scale": 8,
+      "seed": "Explore variations for the thorny plant of hostility."
+    }
+  }
+}

@@ -1,0 +1,33 @@
+{
+  "Kural_Info": {
+    "Number": 1230,
+    "Chapter": "பொழுதுகண்டிரங்கல் (Lamentations at Eventide)",
+    "Tamil_Text": "பொருள்மாலை யாளரை உள்ளி மருள்மாலைமாயும்என் மாயா உயிர்.",
+    "English_Meaning": "This darkening eve, my darkling soul must perish utterly; Remembering him who seeks for wealth, but seeks not me."
+  },
+  "Flux_Optimized_Prompt": {
+    "Layered_Composition": {
+      "Foreground": "A woman's life force ('Maayaa Uyir' - her un-dying soul) is visualized as a single, resilient, glowing lotus flower.",
+      "Midground": "The bewildering, dark evening ('Marul Maalai') descends upon the scene like a cloud of life-draining smoke or shadow. This shadow begins to cause the seemingly immortal lotus to wither and die ('Maayum').",
+      "Background": "The reason for this fatal sorrow is shown in a thought bubble: her lover is depicted not as a hero, but as someone focused solely on accumulating wealth ('Porul Maalai Yaalarai'), his back turned to her. This thought is the poison that allows the evening to finally kill her resilient spirit."
+    },
+    "Art_Direction": {
+      "Subject_and_Action": "My soul, which has survived so much, will finally be destroyed by this bewildering evening, as I remember my lover who is more devoted to wealth than to me.",
+      "Symbolic_Motifs": "The immortal soul as a resilient lotus. The evening as a soul-killing shadow. The memory of his materialism as the final, fatal poison.",
+      "Mood_and_Emotion": "Tragic, final, heartbreaking, a sense of ultimate disillusionment.",
+      "Lighting_and_Color": "The scene shifts from the gentle glow of the lotus to the encroaching, absolute darkness of the evening shadow. The memory is lit with the cold, hard glint of gold."
+    },
+    "Technical_Cues": {
+      "Camera": "A close-up shot that captures the moment the lotus of her soul finally begins to wither and die as the shadow touches it.",
+      "Resolution": "8K, mystical realism, with detailed effects for the dying lotus and the encroaching shadows.",
+      "Lighting": "Dramatic, low-key lighting where the darkness ultimately triumphs over the light.",
+      "Art_Genre": "Dark romantic fantasy, symbolizing the death of the spirit."
+    },
+    "Cultural_Anchors": [
+      "மாயா உயிர் (The un-dying/immortal soul)",
+      "மருள் மாலை (Bewildering evening)",
+      "பொருள் (Wealth) vs. காதல் (Love)"
+    ]
+  },
+  "Negative_Prompt": "a blooming lotus, a loving partner, a bright evening, text artifacts, cartoonish, blurry."
+}

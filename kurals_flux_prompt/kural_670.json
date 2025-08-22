@@ -1,0 +1,39 @@
+{
+  "Kural_Info": {
+    "Number": 670,
+    "Chapter": "வினைத்திட்பம் (Power in Action)",
+    "Tamil_Text": "எனைத்திட்பம் எய்தியக் கண்ணும் வினைத்திட்பம்வேண்டாரை வேண்டாது உலகு.",
+    "English_Meaning": "The world desires not men of every power possessed, Who power in act desire not,- crown of all the rest."
+  },
+  "Flux_Optimized_Prompt": {
+    "Layered_Composition": {
+      "Foreground": "A person is shown who possesses all other forms of firmness and power ('எனைத்திட்பம்'). They are depicted as a magnificent statue, physically strong, intellectually brilliant, and morally upright.",
+      "Midground": "However, this otherwise perfect statue is shown to be completely passive. It lacks the desire to act. Before it lies a task to be done, but the statue makes no move to do it, lacking 'firmness in action' ('வினைத்திட்பம் வேண்டார்').",
+      "Background": "The World, personified by a crowd of people, is shown looking at this magnificent but passive statue. Their expression is not one of admiration, but of disappointment and disregard. They are turning their backs and walking away, not desiring the one who will not act ('வேண்டாது உலகு')."
+    },
+    "Art_Direction": {
+      "Subject_and_Action": "The world does not value or desire a person who, despite possessing all other strengths, lacks the crucial firmness and desire to actually execute actions.",
+      "Symbolic_Motifs": "The person as a magnificent but inert statue is the central metaphor. Their potential is immense, but their inaction makes them useless. The world's act of turning away is the final judgment of their worth.",
+      "Mood_and_Emotion": "Disregarded, passive, potential wasted, anti-climactic.",
+      "Lighting_and_Color": "A cold, statuesque light illuminates the passive figure, emphasizing their inaction. The departing crowd is moving towards a warmer, more dynamic light, seeking someone who will act."
+    },
+    "Technical_Cues": {
+      "Camera": "A shot that frames the magnificent statue, but the focus is on the disappointed faces of the crowd as they turn away, showing that the world's judgment is what matters.",
+      "Resolution": "8K, ultra-realistic, with a strong textural contrast between the inert marble of the statue and the living people.",
+      "Lighting": "Cold, static lighting on the subject, contrasted with the moving, warmer world.",
+      "Art_Genre": "Symbolic realism, allegorical art."
+    },
+    "Cultural_Anchors": [
+      "Firmness in action (வினைத்திட்பம்)",
+      "Those who do not desire it (வேண்டாரை)",
+      "The world does not desire them (வேண்டாது உலகு)"
+    ]
+  },
+  "Negative_Prompt": "statue coming to life, world admiring the statue, text artifacts.",
+  "Hyperparameters": {
+    "variant": "dev",
+    "steps": 45,
+    "cfg_scale": 8,
+    "seed": "Explore the body language of the disappointed, departing crowd."
+  }
+}

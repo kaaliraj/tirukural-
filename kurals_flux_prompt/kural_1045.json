@@ -1,0 +1,38 @@
+{
+  "Kural_Info": {
+    "Number": 1045,
+    "Chapter": "நல்குரவு (Poverty)",
+    "Tamil_Text": "நல்குரவு என்னும் இடும்பையுள் பல்குரைத்துன்பங்கள் சென்று படும்.",
+    "English_Meaning": "The misery of poverty brings in its train many (more) miseries."
+  },
+  "Flux_Optimized_Prompt": {
+    "Layered_Composition": {
+      "Foreground": "Poverty ('நல்குரவு') is personified as a great, dark, magnetic vortex of misery ('இடும்பை').",
+      "Midground": "All other kinds of sorrows and troubles ('பல் குரைத் துன்பங்கள்') are visualized as smaller, dark, shadowy creatures.",
+      "Background": "These smaller creatures of suffering are irresistibly drawn towards the great vortex of poverty. They are shown flying from all directions and plunging into it, adding to its mass and darkness. Poverty is not just one sorrow, but the place where all other sorrows gather."
+    },
+    "Art_Direction": {
+      "Subject_and_Action": "Poverty is the one central misery that attracts and contains within it a multitude of all other kinds of suffering.",
+      "Symbolic_Motifs": "Poverty as a gravitational vortex for all other pains is the central metaphor. This shows it as a foundational suffering that gives rise to and collects all others.",
+      "Mood_and_Emotion": "All-encompassing misery, a nexus of suffering, hopeless.",
+      "Lighting_and_Color": "The scene is dominated by the dark, swirling black hole of poverty. The smaller sorrows are dark grey shapes that are consumed by it. The lighting is dark, chaotic, and oppressive.",
+      "Technical_Cues": {
+        "Camera": "A wide, cosmic shot of the great vortex of poverty, showing all other miseries being drawn into it from across the landscape.",
+        "Resolution": "8K, ultra-realistic, with advanced particle and vortex effects.",
+        "Lighting": "The vortex is a source of anti-light, a swirling darkness that consumes everything.",
+        "Art_Genre": "Dark fantasy, cosmic horror."
+      },
+      "Cultural_Anchors": [
+        "In the misery of poverty (நல்குரவு என்னும் இடும்பையுள்)",
+        "Many other sorrows will come and fall (பல் குரைத் துன்பங்கள் சென்று படும்)"
+      ]
+    },
+    "Negative_Prompt": "poverty repelling other sorrows, text artifacts, cartoonish monsters.",
+    "Hyperparameters": {
+      "variant": "pro",
+      "steps": 55,
+      "cfg_scale": 9,
+      "seed": "Explore the design of the 'vortex of poverty'."
+    }
+  }
+}

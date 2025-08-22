@@ -1,0 +1,38 @@
+{
+  "Kural_Info": {
+    "Number": 1308,
+    "Chapter": "ஊடலுவகை (The Pleasures of Temporary Variance)",
+    "Tamil_Text": "நோதல் எவன்மற்று நொந்தாரென்று அஃதறியும்காதலர் இல்லா வழி.",
+    "English_Meaning": "What avails sorrow when I am without a wife who can understand the cause of my sorrow?."
+  },
+  "Flux_Optimized_Prompt": {
+    "Layered_Composition": {
+      "Foreground": "A man is shown suffering from a deep, internal sorrow ('நோதல்'). The sorrow is visualized as a complex, thorny knot inside his heart.",
+      "Midground": "He is surrounded by people, but none of them can see or understand the knot. They see only his surface expression.",
+      "Background": "He feels that his suffering is pointless ('எவன் மற்று'). The one person who had the unique ability to perceive and understand the true cause of his pain ('நொந்தார் என்று அஃதறியும் காதலர்') is absent ('இல்லா வழி'). Without the one who can understand it, his grief feels meaningless."
+    },
+    "Art_Direction": {
+      "Subject_and_Action": "The lover laments the pointlessness of his own sorrow when his beloved—the only person who can truly understand its cause and nature—is not present.",
+      "Symbolic_Motifs": "The sorrow as a complex, internal knot is a key metaphor. The absent beloved is the only one with the 'key' or the 'vision' to understand and untie this knot. The surrounding people are blind to this inner reality.",
+      "Mood_and_Emotion": "Pointless suffering, misunderstood, isolated, longing for an empathetic witness.",
+      "Lighting_and_Color": "A cold, isolating light on the man. The knot in his heart is a dark, painful tangle. The space where his beloved should be is an empty void, emphasizing his loneliness.",
+      "Technical_Cues": {
+        "Camera": "A symbolic, introspective shot that gives a transparent view of the man's heart, showing the knot that no one else can see.",
+        "Resolution": "8K, ultra-realistic, with a focus on the man's expression of isolated grief.",
+        "Lighting": "Low-key, melancholic lighting.",
+        "Art_Genre": "Symbolic portraiture, psychological realism."
+      },
+      "Cultural_Anchors": [
+        "What is the use of suffering? (நோதல் எவன்?)",
+        "When the lover who understands it is not here (அஃதறியும் காதலர் இல்லா வழி)"
+      ]
+    },
+    "Negative_Prompt": "happy man, lover present, text artifacts.",
+    "Hyperparameters": {
+      "variant": "pro",
+      "steps": 50,
+      "cfg_scale": 8,
+      "seed": "Explore the visual of the 'knot of sorrow'."
+    }
+  }
+}

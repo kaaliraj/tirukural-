@@ -1,0 +1,39 @@
+{
+  "Kural_Info": {
+    "Number": 562,
+    "Chapter": "வெருவந்தசெய்யாமை (Absence of Terrorism)",
+    "Tamil_Text": "கடிதோச்சி மெல்ல எறிக நெடிதாக்கம் நீங்காமை வேண்டு பவர்.",
+    "English_Meaning": "Let the king, who desires that his prosperity may long remain, raise his sceptre strictly, but let it fall with mildness."
+  },
+  "Flux_Optimized_Prompt": {
+    "Layered_Composition": {
+      "Foreground": "A powerful king is shown in the act of passing judgment. He raises his heavy, intimidating golden sceptre high into the air, with a stern and strict expression ('கடிதோச்சி'). This shows his authority and the seriousness of the law.",
+      "Midground": "However, as he brings the sceptre down to deliver the sentence, it transforms mid-air into a branch of gentle olive leaves, which lands softly on the guilty party ('மெல்ல எறிக').",
+      "Background": "Because of this combination of strict authority and merciful application, the king's prosperity, symbolized by a great, ever-shining sun behind him, is shown to be stable and long-lasting ('நெடிதாக்கம் நீங்காமை')."
+    },
+    "Art_Direction": {
+      "Subject_and_Action": "For prosperity to last, a ruler should threaten with severity but punish with mildness.",
+      "Symbolic_Motifs": "The sceptre raised high and menacingly represents the strictness of the law. Its transformation into a gentle olive branch represents the mildness of the punishment. The eternal sun symbolizes lasting prosperity.",
+      "Mood_and_Emotion": "Authoritative yet merciful, strict yet gentle, wise, balanced.",
+      "Lighting_and_Color": "The raised sceptre gleams with a harsh, intimidating light. The falling olive branch has a soft, gentle glow. The sun in the background provides a constant, warm, golden light.",
+      "Technical_Cues": {
+        "Camera": "A dynamic shot capturing the full arc of the sceptre's motion and its transformation.",
+        "Resolution": "8K, cinematic, with a magical transformation effect.",
+        "Lighting": "Dramatic lighting that shifts from harsh to soft as the sceptre transforms.",
+        "Art_Genre": "High-fantasy realism, symbolic painting."
+      }
+    },
+    "Cultural_Anchors": [
+      "Threaten Strictly ('கடிதோச்சி')",
+      "Strike Gently ('மெல்ல எறிக')",
+      "Ensuring Long-lasting Prosperity ('நெடிதாக்கம் நீங்காமை')"
+    ]
+  },
+  "Negative_Prompt": "king striking hard, weak king, text artifacts, cartoonish.",
+  "Hyperparameters": {
+    "variant": "pro",
+    "steps": 50,
+    "cfg_scale": 9,
+    "seed": "Explore variations for the sceptre transformation."
+  }
+}

@@ -1,0 +1,38 @@
+{
+  "Kural_Info": {
+    "Number": 204,
+    "Chapter": "தீவினையச்சம் (Dread of Evil Deeds)",
+    "Tamil_Text": "மறந்தும் பிறன்கேடு சூழற்க சூழின்அறஞ்சூழம் சூழ்ந்தவன் கேடு.",
+    "English_Meaning": "Even though forgetfulness meditate not the ruin of another. Virtue will meditate the ruin of him who thus meditates."
+  },
+  "Flux_Optimized_Prompt": {
+    "Layered_Composition": {
+      "Foreground": "A person ('சூழ்ந்தவன்') is shown secretly plotting the ruin of another ('பிறன் கேடு சூழற்க'). Their malicious thoughts are visualized as a dark, thorny vine growing from their mind.",
+      "Midground": "Unseen by the plotter, a powerful, radiant, and divine figure representing Virtue/Dharma ('அறம்') stands behind them. This figure is looking not at the intended victim, but at the plotter himself.",
+      "Background": "The divine figure of Aram points a finger at the plotter, and the dark, thorny vine of malice instantly reverses its direction, turning back to ensnare and destroy its own creator ('அறம் சூழும் சூழ்ந்தவன் கேடு')."
+    },
+    "Art_Direction": {
+      "Subject_and_Action": "If a person plots the ruin of another, the very principle of cosmic justice (Aram) will in turn plot the ruin of the plotter.",
+      "Symbolic_Motifs": "The thought-vine is a clear metaphor for the plot. The personification of Aram as a divine, judicial being makes the concept of cosmic justice tangible. The reversal of the vine is a direct, visual representation of karmic retribution.",
+      "Mood_and_Emotion": "Inevitable justice, karmic retribution, self-destructive, cautionary.",
+      "Lighting_and_Color": "The plotter is shrouded in dark, conspiratorial shadows. The figure of Aram is a source of brilliant, pure, white light. The scene is a dramatic interplay of this divine light and the plotter's self-defeating darkness.",
+      "Technical_Cues": {
+        "Camera": "A shot from a third-person perspective that allows the viewer to see the plotter, their evil thought-vine, and the divine figure of Aram preparing the retribution, all in one frame.",
+        "Resolution": "8K, hyper-realistic, with strong ethereal effects for Aram and the symbolic vine.",
+        "Lighting": "Dramatic chiaroscuro, with Aram as the primary, righteous light source.",
+        "Art_Genre": "High fantasy art, mythological painting."
+      },
+      "Cultural_Anchors": [
+        "Plotting another's ruin (பிறன் கேடு சூழல்)",
+        "Aram/Virtue plotting the plotter's ruin (அறம் சூழும் சூழ்ந்தவன் கேடு)"
+      ]
+    },
+    "Negative_Prompt": "successful plot, weak Aram figure, text artifacts, cartoonish vine.",
+    "Hyperparameters": {
+      "variant": "pro",
+      "steps": 55,
+      "cfg_scale": 9,
+      "seed": "Explore the design for the personified figure of Aram."
+    }
+  }
+}

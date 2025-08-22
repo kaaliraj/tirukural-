@@ -1,0 +1,39 @@
+{
+  "Kural_Info": {
+    "Number": 894,
+    "Chapter": "பெரியாரைப் பிழையாமை (Not Offending the Great)",
+    "Tamil_Text": "கூற்றத்தைக் கையால் விளித்தற்றால் ஆற்றுவார்க்கு ஆற்றாதார் இன்னா செயல்.",
+    "English_Meaning": "The weak doing evil to the strong is like beckoning Yama to come (and destroy them)."
+  },
+  "Flux_Optimized_Prompt": {
+    "Layered_Composition": {
+      "Foreground": "A small, weak person ('ஆற்றாதார்') is shown committing a harmful act ('இன்னா செயல்') against a vastly more powerful person ('ஆற்றுவார்').",
+      "Midground": "This foolish act is shown to be equivalent to another act: the weak person is simultaneously shown using their hand to cheerfully wave and beckon ('கையால் விளித்து') to the terrifying, skeletal figure of Death (Yama - 'கூற்றம்'), who is standing nearby.",
+      "Background": "Yama, having been summoned by the foolish act, is now turning his attention to the weak person and beginning to approach them, ready to claim their life."
+    },
+    "Art_Direction": {
+      "Subject_and_Action": "When a weak person harms a strong one, it is the same as beckoning Death to come and take them.",
+      "Symbolic_Motifs": "The direct, parallel action of harming the strong and beckoning Death is the central concept. This illustrates that the act is suicidal.",
+      "Mood_and_Emotion": "Suicidal folly, reckless, summoning one's own doom.",
+      "Lighting_and_Color": "A dark, ominous atmosphere. The figure of Death is cloaked in shadow, but their eyes can glow with a menacing light. The foolish person is unaware of the immediate consequence of their beckoning.",
+      "Technical_Cues": {
+        "Camera": "A shot that includes the weak person, the strong person they are offending, and the figure of Death they are summoning, all in one narrative frame.",
+        "Resolution": "8K, with a dark, mythical tone.",
+        "Lighting": "Low-key, horror-style lighting.",
+        "Art_Genre": "Dark fantasy, mythological art."
+      },
+      "Cultural_Anchors": [
+        "The weak harming the strong ('ஆற்றாதார் இன்னா செயல்')",
+        "Like beckoning Death with the hand ('கூற்றத்தைக் கையால் விளித்தற்றால்')",
+        "The suicidal nature of foolish aggression."
+      ]
+    },
+    "Negative_Prompt": "Death ignoring the person, a happy weak person, text artifacts.",
+    "Hyperparameters": {
+      "variant": "pro",
+      "steps": 50,
+      "cfg_scale": 9,
+      "seed": "Explore variations for the figure of Yama/Death."
+    }
+  }
+}

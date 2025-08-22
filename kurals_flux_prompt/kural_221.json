@@ -1,0 +1,38 @@
+{
+  "Kural_Info": {
+    "Number": 221,
+    "Chapter": "ஈகை (Giving)",
+    "Tamil_Text": "வறியார்க்கொன்று ஈவதே ஈகைமற் றெல்லாம்குறியெதிர்ப்பை நீர துடைத்து.",
+    "English_Meaning": "To give to the destitute is true charity. All other gifts have the nature of (what is done for) a measured return."
+  },
+  "Flux_Optimized_Prompt": {
+    "Layered_Composition": {
+      "Foreground": "A person is shown giving a gift to a truly destitute and poor person ('வறியார்க்கு'). This act is depicted as a pure, selfless, and unconditional gift. It glows with a brilliant, white light, and is labeled 'True Charity' ('ஈகை').",
+      "Midground": "In contrast, another person is shown giving a gift to a wealthy peer or someone who can repay them. This act is depicted as a calculated transaction.",
+      "Background": "The second gift is shown to have an invisible, spectral thread of expectation attached to it, leading back to the giver. It has the nature of seeking a 'measured return' ('குறிஎதிர்ப்பை'). This transactional gift does not glow with the pure light of true charity."
+    },
+    "Art_Direction": {
+      "Subject_and_Action": "True charity is defined as giving to the destitute with no expectation of return. All other forms of giving are merely transactions seeking a future benefit.",
+      "Symbolic_Motifs": "The glowing, pure light of true charity versus the transactional, non-glowing gift is the key visual distinction. The spectral thread of expectation clearly defines the nature of the lesser gift.",
+      "Mood_and_Emotion": "Selfless vs. transactional, pure, unconditional.",
+      "Lighting_and_Color": "The scene of true charity is bathed in a pure, divine, white light. The scene of transactional giving is in a more mundane, neutral, and calculated light.",
+      "Technical_Cues": {
+        "Camera": "A comparative diptych that starkly contrasts the two types of giving.",
+        "Resolution": "8K, ultra-realistic, with ethereal effects for the light of true charity and the thread of expectation.",
+        "Lighting": "Symbolic lighting to differentiate between pure charity and a transaction.",
+        "Art_Genre": "Allegorical realism."
+      },
+      "Cultural_Anchors": [
+        "Giving to the poor is charity (வறியார்க்கு ஒன்று ஈவதே ஈகை)",
+        "All else is of the nature of seeking a return (மற்றெல்லாம் குறிஎதிர்ப்பை நீர துடைத்து)"
+      ]
+    },
+    "Negative_Prompt": "poor person giving a gift back, transactional gift glowing, text artifacts.",
+    "Hyperparameters": {
+      "variant": "pro",
+      "steps": 50,
+      "cfg_scale": 8,
+      "seed": "Explore the visual of the 'spectral thread of expectation'."
+    }
+  }
+}

@@ -1,0 +1,39 @@
+{
+  "Kural_Info": {
+    "Number": 21,
+    "Chapter": "நீத்தார் பெருமை (The Greatness of Ascetics)",
+    "Tamil_Text": "ஒழுக்கத்து நீத்தார் பெருமை விழுப்பத்துவேண்டும் பனுவல் துணிவு.",
+    "English_Meaning": "The settled rule of every code requires, as highest good, Their greatness who, renouncing all, true to their rule have stood."
+  },
+  "Flux_Optimized_Prompt": {
+    "Layered_Composition": {
+      "Foreground": "In the foreground, a single, powerful ascetic ('நீத்தார்') stands in serene contemplation, radiating an aura of pure, white-gold light.",
+      "Midground": "A swirling vortex of countless ancient scriptures and sacred texts ('பனுவல்') from all world traditions spirals around the ascetic, with their texts visibly pointing towards him as their ultimate conclusion.",
+      "Background": "In the deep background, a vast, cosmic library with shelves reaching into infinity, representing all accumulated knowledge, from which the vortex of scriptures originates."
+    },
+    "Art_Direction": {
+      "Subject_and_Action": "The living embodiment of renunciation is presented as the final, conclusive truth ('துணிவு') that all scriptures ultimately point towards.",
+      "Symbolic_Motifs": "The light from the ascetic is brighter than any text. The scriptures are not static but are in dynamic motion towards him, signifying that knowledge finds its purpose in realized wisdom.",
+      "Mood_and_Emotion": "Sublime, conclusive, transcendent, veneration of wisdom over mere knowledge.",
+      "Lighting_and_Color": "A brilliant, internal light emanates from the ascetic, casting the swirling scriptures in a reverent glow. The background library is in cooler, intellectual tones, contrasting with the warm, divine light of the foreground."
+    },
+    "Technical_Cues": {
+      "Camera": "Dramatic low-angle wide shot, emphasizing the ascetic's stature over the ocean of knowledge.",
+      "Resolution": "8K, ultra-realistic figure, with mystical, painterly effects for the swirling scriptures.",
+      "Lighting": "Volumetric god rays emanating from the ascetic, illuminating the fine details of the ancient texts.",
+      "Art_Genre": "Symbolic realism meets epic fantasy art."
+    },
+    "Cultural_Anchors": [
+      "Neethar Perumai (நீத்தார் பெருமை)",
+      "Sacred texts (பனுவல்)",
+      "Renunciation (துறவு) as the highest virtue"
+    ]
+  },
+  "Negative_Prompt": "reading ascetic, library on fire, modern books, text artifacts, deformed limbs, gaudy colors, non-Tamil physiognomy.",
+  "Hyperparameters": {
+    "variant": "pro",
+    "steps": 50,
+    "cfg_scale": 8,
+    "seed": "Explore variations for the vortex pattern of the scriptures."
+  }
+}

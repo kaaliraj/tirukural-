@@ -1,0 +1,40 @@
+{
+  "Kural_Info": {
+    "Number": 84,
+    "Chapter": "விருந்தோம்பல் (Hospitality)",
+    "Tamil_Text": "அகனமர்ந்து செய்யாள் உறையும் முகனமர்ந்துநல்விருந்து ஓம்புவான் இல்.",
+    "English_Meaning": "Lakshmi with joyous mind shall dwell in the house of that man who, with cheerful countenance, entertains the good as guests."
+  },
+  "Flux_Optimized_Prompt": {
+    "Layered_Composition": {
+      "Foreground": "A host with a genuinely joyful, smiling face ('முகன் அமர்ந்து') is welcoming a virtuous guest ('நல்விருந்து') into his home.",
+      "Midground": "Inside the home, the Goddess Lakshmi ('செய்யாள்'), the embodiment of wealth and prosperity, is seen not as a statue, but as a living, radiant, ethereal being. She is smiling with a joyous heart ('அகன் அமர்ந்து'), choosing to dwell there.",
+      "Background": "The home itself is filled with a soft, golden light that emanates from the Goddess, indicating that her presence is the source of all prosperity and blessings in the house."
+    },
+    "Art_Direction": {
+      "Subject_and_Action": "The cheerful and heartfelt welcoming of good guests causes the Goddess of Fortune herself to joyfully take up residence in that home.",
+      "Symbolic_Motifs": "The host's smile is not forced; it is a genuine expression of joy. Lakshmi's presence is not a static blessing but an active, joyful choice. The light in the home is her divine aura.",
+      "Mood_and_Emotion": "Blessed, prosperous, joyful, divine presence, welcoming.",
+      "Lighting_and_Color": "A beautiful, divine, golden light fills the home, originating from Lakshmi. The host's cheerful face is illuminated by this divine glow. The palette is rich with auspicious colors like gold, red, and saffron.",
+      "Technical_Cues": {
+        "Camera": "A shot from just inside the doorway, capturing the smiling host welcoming the guest, with the radiant Goddess visible deeper within the home.",
+        "Resolution": "8K, ultra-realistic, with an ethereal, divine representation of Lakshmi.",
+        "Lighting": "Soft, radiant, volumetric lighting to create a divine and blessed atmosphere.",
+        "Art_Genre": "Mythological painting, magical realism."
+      },
+      "Cultural_Anchors": [
+        "Seyyaal (செய்யாள்) - Lakshmi, the Goddess of Fortune",
+        "A cheerful face (முகன் அமர்ந்து)",
+        "A joyous heart (அகன் அமர்ந்து)",
+        "Welcoming good guests (நல்விருந்து ஓம்புவான்)"
+      ]
+    },
+    "Negative_Prompt": "frowning host, angry Lakshmi, dark house, text artifacts, demonic figures.",
+    "Hyperparameters": {
+      "variant": "pro",
+      "steps": 50,
+      "cfg_scale": 8,
+      "seed": "Explore different iconographies for the ethereal Lakshmi."
+    }
+  }
+}

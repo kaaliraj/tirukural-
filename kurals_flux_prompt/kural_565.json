@@ -1,0 +1,39 @@
+{
+  "Kural_Info": {
+    "Number": 565,
+    "Chapter": "வெருவந்தசெய்யாமை (Absence of Terrorism)",
+    "Tamil_Text": "அருஞ்செவ்வி இன்னா முகத்தான் பெருஞ்செல்வம் பேஎய்கண் டன்னது உடைத்து.",
+    "English_Meaning": "The great wealth of him who is difficult of access and possesses a sternness of countenance, is like that which has been obtained by a devil."
+  },
+  "Flux_Optimized_Prompt": {
+    "Layered_Composition": {
+      "Foreground": "A ruler with a harsh, cruel face ('இன்னா முகத்தான்') sits on a throne placed atop a high, inaccessible tower ('அருஞ்செவ்வி').",
+      "Midground": "Below him is a vast treasury filled with immense wealth ('பெருஞ்செல்வம்'). However, the wealth is not guarded by human soldiers. It is guarded by a terrifying, demonic entity or a ghost ('பேய்').",
+      "Background": "The image implies that the wealth is not truly the king's; he is merely the temporary keeper of this demonic treasure, and it brings a sense of horror and illegitimacy rather than true prosperity."
+    },
+    "Art_Direction": {
+      "Subject_and_Action": "The great wealth of an inaccessible and cruel-faced ruler is not a true blessing; it is like treasure guarded by a demon.",
+      "Symbolic_Motifs": "The inaccessible tower represents the ruler being 'difficult of access'. The demonic guardian of the treasure is the literal visualization of 'பேய் கண்டன்னது', meaning 'like that seen by a demon', implying it is possessed or ill-gotten.",
+      "Mood_and_Emotion": "Demonic, illegitimate, cursed, inaccessible, cruel.",
+      "Lighting_and_Color": "A sickly, supernatural green or purple light emanates from the treasure and the demonic guardian, casting a monstrous shadow on the cruel king. The overall palette is dark and horrific.",
+      "Technical_Cues": {
+        "Camera": "A low-angle shot looking up at the cruel king on his high tower, making him seem both powerful and monstrous.",
+        "Resolution": "8K, with detailed creature design for the demonic guardian.",
+        "Lighting": "Unnatural, eerie lighting.",
+        "Art_Genre": "Dark fantasy art, horror illustration."
+      },
+      "Cultural_Anchors": [
+        "Difficult of Access ('அருஞ்செவ்வி')",
+        "Harsh Face ('இன்னா முகம்')",
+        "Wealth like that held by a Demon ('பேய் கண்டன்னது')"
+      ]
+    },
+    "Negative_Prompt": "kind king, accessible throne, angelic guardian, text artifacts, cartoonish.",
+    "Hyperparameters": {
+      "variant": "pro",
+      "steps": 50,
+      "cfg_scale": 8,
+      "seed": "Explore variations for the design of the demon guardian."
+    }
+  }
+}

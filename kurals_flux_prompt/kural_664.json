@@ -1,0 +1,38 @@
+{
+  "Kural_Info": {
+    "Number": 664,
+    "Chapter": "வினைத்திட்பம் (Power in Action)",
+    "Tamil_Text": "சொல்லுதல் யார்க்கும் எளிய அரியவாம்சொல்லிய வண்ணம் செயல்.",
+    "English_Meaning": "Easy to every man the speech that shows the way; Hard thing to shape one's life by words they say!."
+  },
+  "Flux_Optimized_Prompt": {
+    "Layered_Composition": {
+      "Foreground": "A split composition.",
+      "Midground": "On the left, a person is easily and eloquently speaking about a great deed ('சொல்லுதல்'). Their words are visualized as a beautiful, perfectly drawn architectural blueprint for a magnificent temple.",
+      "Background": "On the right, the same person is shown actually trying to build the temple according to the blueprint ('சொல்லிய வண்ணம் செயல்'). The task is immensely difficult; they are sweating, straining, and the work is hard ('அரியவாம்'). The gap between the easy plan and the difficult reality is stark."
+    },
+    "Art_Direction": {
+      "Subject_and_Action": "It is easy for anyone to talk about how to do something, but it is a rare and difficult thing to actually execute the action as it was described.",
+      "Symbolic_Motifs": "The blueprint as 'the word' and the actual construction as 'the deed' is a clear and direct metaphor. The effortlessness of drawing the plan contrasts sharply with the immense effort of building it.",
+      "Mood_and_Emotion": "Contrasting, difficult reality, cautionary.",
+      "Lighting_and_Color": "The 'speaking' scene is lit in a clean, effortless, intellectual light. The 'doing' scene is lit with the harsh, sweaty light of physical labor, with strong shadows and textures.",
+      "Technical_Cues": {
+        "Camera": "A diptych shot that places the 'word' and the 'deed' side-by-side, emphasizing the vast difference in the effort required.",
+        "Resolution": "8K, hyper-realistic, capturing the fine lines of the blueprint and the gritty details of the construction site.",
+        "Lighting": "Dualistic lighting to contrast the intellectual and the physical.",
+        "Art_Genre": "Social realism, with symbolic elements."
+      },
+      "Cultural_Anchors": [
+        "Speaking is easy for all (சொல்லுதல் யார்க்கும் எளிய)",
+        "Acting as spoken is difficult (சொல்லிய வண்ணம் செயல் அரியவாம்)"
+      ]
+    },
+    "Negative_Prompt": "building being easy, speaking being difficult, text artifacts, lazy builder.",
+    "Hyperparameters": {
+      "variant": "dev",
+      "steps": 40,
+      "cfg_scale": 8,
+      "seed": "Explore the architectural design of the temple."
+    }
+  }
+}

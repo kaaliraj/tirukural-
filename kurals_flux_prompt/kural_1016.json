@@ -1,0 +1,33 @@
+{
+  "Kural_Info": {
+    "Number": 1016,
+    "Chapter": "நாணுடைமை (Shame)",
+    "Tamil_Text": "நாண்வேலி கொள்ளாது மன்னோ வியன்ஞாலம்பேணலர் மேலா யவர்.",
+    "English_Meaning": "Unless the hedge of shame inviolate remain, For men of lofty soul the earth's vast realms no charms retain."
+  },
+  "Flux_Optimized_Prompt": {
+    "Layered_Composition": {
+      "Foreground": "A noble, great person ('Melayavar') is depicted standing within a beautiful, cultivated garden which represents their life and character.",
+      "Midground": "Surrounding this garden is a formidable, living hedge made of glowing thorns and modest flowers. This is the 'Naan Veli' (hedge of shame), protecting the garden from the outside world.",
+      "Background": "The vast world ('Viyan Gnaalam') outside the hedge is shown as gray, chaotic, and unappealing. The noble person shows no interest in this world, finding all their value and safety within the boundaries of their self-imposed modesty."
+    },
+    "Art_Direction": {
+      "Subject_and_Action": "The great consider modesty as a protective boundary. Without this self-restraint, the entire world holds no value or attraction for them.",
+      "Symbolic_Motifs": "The 'hedge of shame' is the central, powerful metaphor, acting as both a defense and a boundary of one's virtuous world.",
+      "Mood_and_Emotion": "Self-contained, dignified, secure, disciplined.",
+      "Lighting_and_Color": "The garden inside the hedge is vibrant, colorful, and lit by a warm, pleasant light. The hedge itself glows with a protective energy. The world outside is desaturated and gray."
+    },
+    "Technical_Cues": {
+      "Camera": "Wide shot from a slightly elevated angle, showing the noble person secure within their hedge, and the vast, unappealing world beyond.",
+      "Resolution": "8K, fantasy realism, with a beautiful and intricate design for the glowing hedge.",
+      "Lighting": "Strongly contrasting light between the inside and outside of the hedge.",
+      "Art_Genre": "Symbolic fantasy landscape, illustrating a moral principle through environment."
+    },
+    "Cultural_Anchors": [
+      "நாண் வேலி (Hedge of Shame)",
+      "மேலாயவர் (The Great/Lofty Ones)",
+      "The concept of self-restraint as protection"
+    ]
+  },
+  "Negative_Prompt": "person trying to escape the hedge, a broken hedge, a beautiful world outside, text artifacts, modern setting, cartoonish."
+}

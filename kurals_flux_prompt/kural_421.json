@@ -1,0 +1,39 @@
+{
+  "Kural_Info": {
+    "Number": 421,
+    "Chapter": "அறிவுடைமை (The Possession of Knowledge)",
+    "Tamil_Text": "அறிவற்றங் காக்குங் கருவி செறுவார்க்கும் உள்ளழிக்க லாகா அரண்.",
+    "English_Meaning": "Wisdom is a weapon to ward off destruction; it is an inner fortress that enemies cannot destroy."
+  },
+  "Flux_Optimized_Prompt": {
+    "Layered_Composition": {
+      "Foreground": "A serene and wise individual stands calmly in the midst of a raging battle.",
+      "Midground": "While enemies ('செறுவார்') attack from the outside, they are repelled not by a physical wall, but by an impenetrable fortress of pure, glowing light that emanates from within the person's own mind. This is the inner fortress ('உள்ளழிக்க லாகா அரண்') of wisdom.",
+      "Background": "The external world is chaotic with war and destruction, but inside the fortress of light, there is perfect peace and order."
+    },
+    "Art_Direction": {
+      "Subject_and_Action": "Wisdom ('அறிவு') is visualized as both a protective weapon and an unbreachable inner fortress that guarantees safety even when surrounded by enemies and chaos.",
+      "Symbolic_Motifs": "The fortress made of light emanating from the mind is the central metaphor. It is both a defensive wall and an active weapon ('கருவி') that wards off destruction ('அற்றம்').",
+      "Mood_and_Emotion": "Invincible, serene amidst chaos, powerful, secure, intelligent.",
+      "Lighting_and_Color": "A brilliant, pure white or golden light emanates from the central figure, forming the fortress. This light starkly contrasts with the dark, fiery, and chaotic colors of the battle raging outside.",
+      "Technical_Cues": {
+        "Camera": "Wide shot, centered on the calm figure, showcasing the contrast between the inner peace and outer chaos.",
+        "Resolution": "8K, cinematic, with dynamic battle effects and powerful volumetric lighting for the fortress.",
+        "Lighting": "High-contrast lighting, with the inner fortress being the dominant light source.",
+        "Art_Genre": "High-fantasy art, symbolic battle scene."
+      }
+    },
+    "Cultural_Anchors": [
+      "Wisdom as a Weapon ('அறிவு... கருவி')",
+      "Wisdom as an Inner Fortress ('உள்ளழிக்க லாகா அரண்')",
+      "The power of intellect against physical threats."
+    ]
+  },
+  "Negative_Prompt": "frightened person, broken fortress of light, enemies breaching the defense, text artifacts, cartoonish battle.",
+  "Hyperparameters": {
+    "variant": "pro",
+    "steps": 50,
+    "cfg_scale": 8,
+    "seed": "Explore variations for the design of the light fortress."
+  }
+}

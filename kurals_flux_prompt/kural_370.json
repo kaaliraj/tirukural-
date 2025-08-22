@@ -1,0 +1,39 @@
+{
+  "Kural_Info": {
+    "Number": 370,
+    "Chapter": "அவாவறுத்தல் (Curbing of Desire)",
+    "Tamil_Text": "ஆரா இயற்கை அவாநீப்பின் அந்நிலையே பேரா இயற்கை தரும்.",
+    "English_Meaning": "The removal of desire, whose nature it is never to be satisfied, will immediately confer a nature that can never be changed."
+  },
+  "Flux_Optimized_Prompt": {
+    "Layered_Composition": {
+      "Foreground": "A figure stands before a bottomless, swirling vortex of chaotic energy, representing insatiable desire ('ஆரா இயற்கை அவா'). They are actively turning their back on it.",
+      "Midground": "As the figure turns away, their form transforms from a transient, flickering human shape into a solid, monolithic statue made of diamond or crystal, symbolizing the attainment of an unchanging, eternal nature ('பேரா இயற்கை').",
+      "Background": "The background behind the vortex is chaotic and stormy. The background behind the newly formed crystal statue is a perfectly still, serene, and timeless cosmic void."
+    },
+    "Art_Direction": {
+      "Subject_and_Action": "The act of renouncing insatiable desire, and in that very instant, attaining a permanent, indestructible state of being.",
+      "Symbolic_Motifs": "The vortex is insatiable desire. The transformation into a crystal monolith represents the unchanging, eternal self. The contrast in backgrounds highlights the shift from impermanence to permanence.",
+      "Mood_and_Emotion": "Transformative, permanent, serene, powerful, eternal.",
+      "Lighting_and_Color": "The vortex emits a chaotic, multi-colored, sickly light. The crystal statue catches and refracts a pure, divine white light, creating brilliant caustics. The palette shifts from chaotic colors to pure, clear, and white tones."
+    },
+    "Technical_Cues": {
+      "Camera": "Wide shot, capturing the before-and-after of the transformation in a single frame.",
+      "Resolution": "8K, ultra-realistic, with complex shader effects for the crystal statue and the vortex.",
+      "Lighting": "Dual lighting setup to create a stark contrast between the two states.",
+      "Art_Genre": "Surrealist art, metaphysical digital painting."
+    },
+    "Cultural_Anchors": [
+      "Insatiable Desire ('ஆரா இயற்கை அவா')",
+      "Unchanging Nature ('பேரா இயற்கை')",
+      "Concept of permanence in liberation (Nibbāna/Moksha)"
+    ]
+  },
+  "Negative_Prompt": "human figure remaining unchanged, still vortex, text, cartoony, blurry, dull crystal.",
+  "Hyperparameters": {
+    "variant": "pro",
+    "steps": 50,
+    "cfg_scale": 9,
+    "seed": "Explore variations for the crystal's internal refractions."
+  }
+}

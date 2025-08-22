@@ -1,0 +1,39 @@
+{
+  "Kural_Info": {
+    "Number": 600,
+    "Chapter": "ஊக்கமுடைமை (Energy)",
+    "Tamil_Text": "உரமொருவற்கு உள்ள வெறுக்கைஅஃ தில்லார் மரம்மக்க ளாதலே வேறு.",
+    "English_Meaning": "Energy is mental wealth; those men who are destitute of it are only trees in the form of men."
+  },
+  "Flux_Optimized_Prompt": {
+    "Layered_Composition": {
+      "Foreground": "A crowd of people are depicted. In the center is a person filled with mental strength and energy ('உரம்'). They have a fiery core of will ('உள்ள வெறுக்கை') and are dynamic and active.",
+      "Midground": "The other people in the crowd ('அஃதில்லார்'), who lack this inner fire, are shown in a state of transformation. Their skin is turning to bark, their limbs are becoming stiff branches, and their feet are taking root in the ground. They are becoming trees in human form ('மரம் மக்களாதல்').",
+      "Background": "A simple, neutral background to focus on the dramatic contrast between the truly alive human and those who are becoming inanimate objects."
+    },
+    "Art_Direction": {
+      "Subject_and_Action": "Mental strength and energy are what define a person. Without them, a human is no different from a tree—just a living object without agency.",
+      "Symbolic_Motifs": "The literal, surreal transformation of people without energy into trees is the central, powerful image. The fiery core of the energetic person visually contrasts with the woody texture of the others.",
+      "Mood_and_Emotion": "Dynamic vs. static, alive vs. inanimate, transformative, a stark definition of humanity.",
+      "Lighting_and_Color": "The energetic person is the source of a warm, fiery light. The transforming people are in a dull, flat light, their colors shifting from skin tones to the browns and greens of wood and leaves.",
+      "Technical_Cues": {
+        "Camera": "A wide shot that captures the central, energetic figure and the surrounding crowd in various stages of transformation.",
+        "Resolution": "8K, with hyper-realistic and surreal transformation effects.",
+        "Lighting": "High-contrast lighting, with the main light emanating from the energetic person.",
+        "Art_Genre": "Surrealism, symbolic fantasy."
+      }
+    },
+    "Cultural_Anchors": [
+      "Mental Strength as True Wealth ('உரம் உள்ள வெறுக்கை')",
+      "Those without it are Trees in Human Form ('மரம் மக்களாதல்')",
+      "The definition of being a true human."
+    ]
+  },
+  "Negative_Prompt": "energetic person turning into a tree, trees turning into people, text artifacts, cartoonish.",
+  "Hyperparameters": {
+    "variant": "pro",
+    "steps": 50,
+    "cfg_scale": 8,
+    "seed": "Explore variations for the human-to-tree transformation."
+  }
+}

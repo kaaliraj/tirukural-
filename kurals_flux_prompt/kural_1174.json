@@ -1,0 +1,33 @@
+{
+  "Kural_Info": {
+    "Number": 1174,
+    "Chapter": "கண்விதுப்பழிதல் (Eyes consumed with Grief)",
+    "Tamil_Text": "பெயலாற்றா நீருலந்த உண்கண் உயலாற்றாஉய்வில்நோய் என்கண் நிறுத்து.",
+    "English_Meaning": "Those eyes have wept till all the fount of tears is dry, That brought upon me pain that knows no remedy."
+  },
+  "Flux_Optimized_Prompt": {
+    "Layered_Composition": {
+      "Foreground": "A close-up on a woman's kohl-rimmed eyes. They are red-rimmed and sorrowful, but completely dry. The land around them is cracked and barren, like a dried-up riverbed ('Neer Ulantha').",
+      "Midground": "These same dry eyes are shown to have 'installed' or 'placed' ('Niruththu') an incurable, inescapable lovesickness ('Uyvil Noi') directly into her heart, which is now bound by thorny vines.",
+      "Background": "A vast, desolate landscape under a harsh sun, mirroring the dryness of her eyes and the endlessness of her suffering."
+    },
+    "Art_Direction": {
+      "Subject_and_Action": "Her eyes, which caused her incurable suffering, have now wept themselves dry and can no longer even produce tears to soothe the pain.",
+      "Symbolic_Motifs": "The dry, cracked-earth texture of the eyes symbolizes the exhaustion of tears. The act of the eyes 'placing' the sickness into the heart visualizes them as the direct cause.",
+      "Mood_and_Emotion": "Exhausted sorrow, barren, beyond tears, desolate.",
+      "Lighting_and_Color": "Harsh, dry, desert-like light. The palette is made of parched earth tones, beiges, and the stark black of the kohl, emphasizing dryness and desolation."
+    },
+    "Technical_Cues": {
+      "Camera": "Extreme close-up on the eyes, with a surreal texture overlay of cracked earth.",
+      "Resolution": "8K, hyper-realistic surrealism, with a focus on unsettling textures.",
+      "Lighting": "Harsh, direct sunlight to create a feeling of being parched and exhausted.",
+      "Art_Genre": "Surrealist portraiture."
+    },
+    "Cultural_Anchors": [
+      "கண்ணீர் உலர்தல் (Tears drying up)",
+      "உய்வில் நோய் (Incurable/inescapable sickness)",
+      "The eyes as the agents of suffering"
+    ]
+  },
+  "Negative_Prompt": "eyes full of tears, a lush background, a happy woman, modern makeup, text artifacts, cartoonish."
+}

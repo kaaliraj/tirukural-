@@ -1,0 +1,33 @@
+{
+  "Kural_Info": {
+    "Number": 1265,
+    "Chapter": "அவர்வயின்விதும்பல் (Mutual Desire)",
+    "Tamil_Text": "காண்கமன் கொண்கனைக் கண்ணாரக் கண்டபின்நீங்கும்என் மென்தோள் பசப்பு.",
+    "English_Meaning": "O let me see my spouse again and sate these longing eyes! That instant from my wasted frame all pallor flies."
+  },
+  "Flux_Optimized_Prompt": {
+    "Layered_Composition": {
+      "Foreground": "A woman is shown with the signs of lovesickness. Her shoulders ('Men thol') have a pale, sallow hue ('Pasappu'), and her expression is one of longing.",
+      "Midground": "She is looking towards the horizon, and her lover ('Konkan') appears. The moment her eyes behold him ('Kannaarak Kandapin'), a magical transformation happens.",
+      "Background": "A wave of vibrant color and light washes over her, instantly healing the sallowness. Her skin returns to its healthy, radiant glow, and her expression turns to pure joy. The 'pasappu' is literally wiped away by the sight of him."
+    },
+    "Art_Direction": {
+      "Subject_and_Action": "A lover's wish: 'Let me just see my husband to my eyes' content, and the moment I do, the lovesickness (sallowness) on my shoulders will vanish completely.'",
+      "Symbolic_Motifs": "The sight of the lover as an instant, magical cure. The visual transformation from sallow to radiant is the key event.",
+      "Mood_and_Emotion": "Magical, healing, joyful, a moment of instant relief and restoration.",
+      "Lighting_and_Color": "The scene transforms from a desaturated, pale palette to one that is bursting with vibrant, healthy, and warm colors. The lover's arrival is like the sun breaking through the clouds."
+    },
+    "Technical_Cues": {
+      "Camera": "A shot that focuses on the woman's transformation, perhaps using a slow-motion effect to emphasize the magical healing.",
+      "Resolution": "8K, fantasy realism, with a beautiful and convincing color-shift and healing effect.",
+      "Lighting": "A dramatic shift from flat, sickly light to bright, warm, life-giving light.",
+      "Art_Genre": "Romantic fantasy, depicting love as a magical healing force."
+    },
+    "Cultural_Anchors": [
+      "பசப்பு (Sallowness/Lovesickness)",
+      "The sight of the lover as a cure (காண்டல் மருந்து)",
+      "கொண்கன் (Husband/Lover)"
+    ]
+  },
+  "Negative_Prompt": "a sick-looking lover, the woman remaining sallow, a dark setting, text artifacts, cartoonish."
+}

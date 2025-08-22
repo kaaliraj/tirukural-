@@ -1,0 +1,39 @@
+{
+  "Kural_Info": {
+    "Number": 1237,
+    "Chapter": "உறுப்புநலனழிதல் (Wasting Away)",
+    "Tamil_Text": "பாடு பெறுதியோ நெஞ்சே கொடியார்க்கென்வாடுதோட் பூசல் உரைத்து.",
+    "English_Meaning": "Can you O my soul! gain glory by relating to the (so-called) cruel one the clamour of my fading shoulders?."
+  },
+  "Flux_Optimized_Prompt": {
+    "Layered_Composition": {
+      "Foreground": "A woman is having an internal conversation with her own heart ('நெஞ்சே'). Her heart is urging her to go and complain to her 'cruel' lover.",
+      "Midground": "The complaint is visualized: to show him the 'clamor' of her wasting shoulders ('வாடு தோள் பூசல்') and tell him of her suffering.",
+      "Background": "The woman's higher self, or wisdom, is shown asking her heart a rhetorical question, which appears in ethereal script: 'By doing this, do you really think you will gain any honor or glory?' ('பாடு பெறுதியோ?'). The image suggests that such complaining is beneath her dignity and will bring no real gain."
+    },
+    "Art_Direction": {
+      "Subject_and_Action": "A woman's inner conflict, where she rebukes her own heart, questioning what honor could possibly be gained by complaining about her suffering to the very one who caused it.",
+      "Symbolic_Motifs": "The internal dialogue is key. The heart is the impulsive, emotional side, while the woman represents her own sense of dignity and honor. The rhetorical question is a check against undignified behavior.",
+      "Mood_and_Emotion": "Internal conflict, dignified, self-restraint, rhetorical.",
+      "Lighting_and_Color": "An introspective, soft light. The heart might glow with an impatient, emotional red, while the woman's wisdom is a calmer, clearer white light. The mood is contemplative.",
+      "Technical_Cues": {
+        "Camera": "A close-up on the woman's face, her expression showing her internal argument with her own heart, which could be visualized as a glowing form in her chest.",
+        "Resolution": "8K, ultra-realistic, capturing the nuances of an internal debate.",
+        "Lighting": "Soft, psychological lighting.",
+        "Art_Genre": "Symbolic portraiture, psychological realism."
+      },
+      "Cultural_Anchors": [
+        "O my heart! (நெஞ்சே!)",
+        "Will you gain glory? (பாடு பெறுதியோ?)",
+        "By telling the cruel one of the clamor of my wasting shoulders (கொடியார்க்கு என் வாடு தோள் பூசல் உரைத்து)"
+      ]
+    },
+    "Negative_Prompt": "woman deciding to complain, happy heart, text artifacts.",
+    "Hyperparameters": {
+      "variant": "dev",
+      "steps": 40,
+      "cfg_scale": 8,
+      "seed": "Explore the visual of the internal dialogue."
+    }
+  }
+}

@@ -1,0 +1,38 @@
+{
+  "Kural_Info": {
+    "Number": 256,
+    "Chapter": "புலான்மறுத்தல் (Abstinence from Flesh)",
+    "Tamil_Text": "தினற்பொருட்டால் கொல்லாது உலகெனின் யாரும்விலைப்பொருட்டால் ஊன்றருவா ரில்.",
+    "English_Meaning": "If the world does not destroy life for the purpose of eating, then no one would sell flesh for the sake of money."
+  },
+  "Flux_Optimized_Prompt": {
+    "Layered_Composition": {
+      "Foreground": "A simple, clear depiction of the chain of supply and demand for meat.",
+      "Midground": "On one side, a consumer ('உலகு') is shown firmly refusing to buy or eat meat for the sake of consumption ('தினல் பொருட்டால்'). Because of this refusal, there is no demand.",
+      "Background": "On the other side, a butcher or hunter is shown. Because there is no demand, they are shown putting down their tools and ceasing their work. There is 'no one who would sell flesh for profit' ('விலைப் பொருட்டால் ஊன் தருவார் இல்'), because no one is buying."
+    },
+    "Art_Direction": {
+      "Subject_and_Action": "A logical argument presented visually: if people stopped killing/buying meat for the purpose of eating, then the profession of selling meat for profit would cease to exist.",
+      "Symbolic_Motifs": "The broken link in the chain of commerce is the key visual. The consumer's choice is shown to be the primary cause that determines the butcher's action. The scene is one of a logical and inevitable economic consequence.",
+      "Mood_and_Emotion": "Logical, clear, cause-and-effect, ethical consumerism.",
+      "Lighting_and_Color": "A clear, neutral, and logical light. The palette is simple and direct, illustrating the economic point without excessive drama or moralizing imagery. The focus is on the cause and its direct effect.",
+      "Technical_Cues": {
+        "Camera": "A wide shot that shows the consumer on one side and the producer on the other, with a clear, causal link (or lack thereof) between them.",
+        "Resolution": "8K, ultra-realistic, with a focus on simple, clear actions.",
+        "Lighting": "Clean, even lighting, as in an instructional diagram.",
+        "Art_Genre": "Social realism."
+      },
+      "Cultural_Anchors": [
+        "If the world does not kill for the sake of eating (தினல் பொருட்டால் கொல்லாது உலகு எனின்)",
+        "There would be no one to sell flesh for the sake of profit (விலைப் பொருட்டால் ஊன் தருவார் இல்)"
+      ]
+    },
+    "Negative_Prompt": "people buying meat, happy butcher, text artifacts.",
+    "Hyperparameters": {
+      "variant": "dev",
+      "steps": 40,
+      "cfg_scale": 7,
+      "seed": "Focus on the clear, causal link between the two figures."
+    }
+  }
+}

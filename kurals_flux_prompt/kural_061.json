@@ -1,0 +1,39 @@
+{
+  "Kural_Info": {
+    "Number": 61,
+    "Chapter": "மக்கட்பேறு (The Offspring)",
+    "Tamil_Text": "பெறுமவற்றுள் யாமறிவது இல்லை அறிவறிந்தமக்கட்பேறு அல்ல பிற.",
+    "English_Meaning": "Among all the benefits that may be acquired, we know no greater benefit than the acquisition of intelligent children."
+  },
+  "Flux_Optimized_Prompt": {
+    "Layered_Composition": {
+      "Foreground": "A wise and intelligent child ('அறிவறிந்த மக்கட்பேறு') is shown reading a scroll or solving a complex problem, their brow furrowed in concentration. A brilliant light of wisdom emanates from the child.",
+      "Midground": "Behind the child, all other worldly treasures and acquisitions ('பெறுமவற்றுள் அல்ல பிற') are depicted—piles of gold, a royal crown, fertile lands, powerful armies. However, they are all shown in a faded, desaturated, and less significant manner.",
+      "Background": "A divine scale of justice is faintly visible in the cosmos. On one side, all the worldly treasures are piled high, but the scale barely moves. On the other side, the single, intelligent child sits, and their side of the scale is weighed down heavily, proving their supreme value."
+    },
+    "Art_Direction": {
+      "Subject_and_Action": "A declaration of the supreme value of intelligent offspring, showing them to be a greater and heavier treasure than all other possible worldly acquisitions combined.",
+      "Symbolic_Motifs": "The light of wisdom from the child outshines the metallic gleam of the gold. The cosmic scale provides an objective, divine judgment on the relative worth of these 'benefits'.",
+      "Mood_and_Emotion": "Supreme value, profound blessing, intellectual wealth, invaluable.",
+      "Lighting_and_Color": "The child is the primary light source, bathed in the pure, white-gold light of intelligence. The worldly treasures are in muted, less important colors. The scene has a feeling of profound clarity.",
+      "Technical_Cues": {
+        "Camera": "Medium shot focused on the child, with the other treasures arrayed behind them as secondary objects of lesser importance.",
+        "Resolution": "8K, ultra-realistic, with a strong focus on the child's intelligent expression.",
+        "Lighting": "Symbolic lighting that equates the child's intelligence with a divine light source.",
+        "Art_Genre": "Allegorical painting, symbolic realism."
+      },
+      "Cultural_Anchors": [
+        "Makkalperu (மக்கட்பேறு) - The blessing of children",
+        "Arivarindha Makkal (அறிவறிந்த மக்கள்) - Wise/Intelligent Children",
+        "The concept of knowledge as the greatest wealth"
+      ]
+    },
+    "Negative_Prompt": "unintelligent child, prominent treasures, text artifacts, dark scene, sad child.",
+    "Hyperparameters": {
+      "variant": "pro",
+      "steps": 50,
+      "cfg_scale": 8,
+      "seed": "Explore the design of the cosmic scale."
+    }
+  }
+}

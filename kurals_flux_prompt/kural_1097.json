@@ -1,0 +1,39 @@
+{
+  "Kural_Info": {
+    "Number": 1097,
+    "Chapter": "குறிப்பறிதல் (Recognition of the Signs)",
+    "Tamil_Text": "செறாஅச் சிறுசொல்லும் செற்றார்போல் நோக்கும்உறாஅர்போன்று உற்றார் குறிப்பு.",
+    "English_Meaning": "Little words that are harsh and looks that are hateful are (but) the expressions of lovers who wish to act like strangers."
+  },
+  "Flux_Optimized_Prompt": {
+    "Layered_Composition": {
+      "Foreground": "A lover is shown giving their beloved a hateful-seeming look ('செற்றார் போல் நோக்கும்') and speaking a slightly harsh, small word ('செறாஅச் சிறுசொல்லும்').",
+      "Midground": "This is all a performance. They are trying to act like a stranger ('உறாஅர் போன்று').",
+      "Background": "However, their true intention is revealed. This feigned anger and distance is actually a subtle, coded sign ('குறிப்பு') of their deep love ('உற்றார்'). It is a playful test or an invitation, the meaning of which is the opposite of the surface appearance."
+    },
+    "Art_Direction": {
+      "Subject_and_Action": "The seemingly harsh words and angry looks of a lover are often just a sign—a playful pretense of being a stranger—from one who is actually deeply attached.",
+      "Symbolic_Motifs": "The outward expression (angry look, harsh word) is a mask. A transparent overlay could reveal the true, loving heart beneath. The entire act is a 'sign' to be decoded by the other lover.",
+      "Mood_and_Emotion": "Coded, playful, paradoxical, feigned anger.",
+      "Lighting_and_Color": "The scene has a romantic and intimate atmosphere, which makes the feigned anger feel playful rather than genuinely threatening. The underlying love can be hinted at with a warm glow from the person's heart, which contradicts their angry face.",
+      "Technical_Cues": {
+        "Camera": "A close-up that captures the lover's face, showing the angry expression but with a subtle, playful twinkle in the eye that betrays their true feeling.",
+        "Resolution": "8K, ultra-realistic, focusing on the complex and contradictory micro-expressions.",
+        "Lighting": "Intimate, romantic lighting.",
+        "Art_Genre": "Psychological portraiture, romantic realism."
+      },
+      "Cultural_Anchors": [
+        "A hateful look (செற்றார் போல் நோக்கும்)",
+        "A harsh little word (செறாஅச் சிறுசொல்லும்)",
+        "Is the sign of a lover pretending to be a stranger (உறாஅர் போன்று உற்றார் குறிப்பு)"
+      ]
+    },
+    "Negative_Prompt": "real anger, text artifacts, sad couple.",
+    "Hyperparameters": {
+      "variant": "dev",
+      "steps": 45,
+      "cfg_scale": 7,
+      "seed": "Focus on the 'twinkle in the eye' that betrays the anger."
+    }
+  }
+}

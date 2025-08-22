@@ -1,0 +1,39 @@
+{
+  "Kural_Info": {
+    "Number": 695,
+    "Chapter": "மன்னரைச் சேர்ந்தொழுதல் (Conduct in the Presence of the King)",
+    "Tamil_Text": "எப்பொருளும் ஓரார் தொடரார்மற் றப்பொருளை விட்டக்கால் கேட்க மறை.",
+    "English_Meaning": "Seek not, ask not, the secret of the king to hear; But if he lets the matter forth, give ear!."
+  },
+  "Flux_Optimized_Prompt": {
+    "Layered_Composition": {
+      "Foreground": "A king is discussing a secret matter ('மறை') with one minister. Another minister is standing nearby, respectfully.",
+      "Midground": "This respectful minister is shown actively not listening; their ears are symbolically covered, and they are not trying to overhear or follow up on the secret conversation ('ஓரார் தொடரார்').",
+      "Background": "Later, the king himself chooses to reveal the secret ('விட்டக்கால்') to the respectful minister. At this point, the minister's ears are shown to be open and receptive, listening intently ('கேட்க')."
+    },
+    "Art_Direction": {
+      "Subject_and_Action": "The proper conduct regarding a ruler's secrets is to make no effort to learn them, but to listen carefully if the ruler chooses to reveal them.",
+      "Symbolic_Motifs": "The symbolically covered and then uncovered ears represent the two phases of proper conduct: not prying, but being ready to listen.",
+      "Mood_and_Emotion": "Discreet, respectful, trustworthy, patient.",
+      "Lighting_and_Color": "A formal, regal lighting. The secret conversation can be surrounded by a subtle aura of privacy. The final act of listening is shown as a moment of trust.",
+      "Technical_Cues": {
+        "Camera": "A two-part narrative image, showing the minister first respectfully ignoring the secret, and then respectfully receiving it.",
+        "Resolution": "8K, with a focus on the body language of discretion and respect.",
+        "Lighting": "Clear, formal lighting.",
+        "Art_Genre": "Historical realism."
+      }
+    },
+    "Cultural_Anchors": [
+      "Not prying into secrets ('ஓரார் தொடரார்')",
+      "Listening when it is revealed ('விட்டக்கால் கேட்க')",
+      "The protocol of royal secrets."
+    ]
+  },
+  "Negative_Prompt": "minister eavesdropping, king getting angry, text artifacts.",
+  "Hyperparameters": {
+    "variant": "pro",
+    "steps": 45,
+    "cfg_scale": 7,
+    "seed": "Explore variations for the aura of privacy."
+  }
+}

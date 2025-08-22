@@ -1,0 +1,34 @@
+{
+  "Kural_Info": {
+    "Number": 1051,
+    "Chapter": "இரவு (Mendicancy)",
+    "Tamil_Text": "இரக்க இரத்தக்கார்க் காணின் கரப்பின்அவர்பழி தம்பழி அன்று.",
+    "English_Meaning": "When those you find from whom 'tis meet to ask,- for aid apply; Theirs is the sin, not yours, if they the gift deny."
+  },
+  "Flux_Optimized_Prompt": {
+    "Layered_Composition": {
+      "Foreground": "A destitute person ('Irappavar') is shown respectfully asking for alms from a wealthy, clearly capable individual ('Iraththakkaar').",
+      "Midground": "The wealthy person is shown refusing ('Karappin'), turning away with a closed hand. As they do this, a dark, shadowy stain of guilt ('Pazhi') appears on their fine clothes.",
+      "Background": "The destitute person, despite being refused, remains unstained, their dignity intact. The background is a neutral public space, focusing the moral weight of the action on the two figures."
+    },
+    "Art_Direction": {
+      "Subject_and_Action": "The moral responsibility in the act of begging lies with the giver. If a worthy person asks a capable person and is refused, the shame and fault belong entirely to the one who refuses.",
+      "Symbolic_Motifs": "The dark stain of 'Pazhi' (blame/fault) appearing on the refuser is the key visual metaphor. The respectful posture of the beggar contrasts with the cold refusal of the wealthy person.",
+      "Mood_and_Emotion": "Moralistic, clear, showing a transfer of shame from the asker to the refuser.",
+      "Lighting_and_Color": "Clear, natural light illuminates the scene. The wealthy person is dressed in bright colors, which makes the dark stain of shame stand out even more starkly."
+    },
+    "Technical_Cues": {
+      "Camera": "Medium shot, capturing the interaction and the moment the stain of shame appears.",
+      "Resolution": "8K, photorealistic, with a focus on the expressive body language of both individuals.",
+      "Lighting": "Naturalistic lighting, as if from an open sky, to give the scene a sense of public, objective judgment.",
+      "Art_Genre": "Narrative realism, depicting a moral transaction."
+    },
+    "Cultural_Anchors": [
+      "இரவு (Begging/Asking)",
+      "கரத்தல் (Refusing/Hiding)",
+      "பழி (Blame/Fault/Sin)",
+      "The duty of the wealthy"
+    ]
+  },
+  "Negative_Prompt": "angry beggar, happy wealthy person, beggar being stained, text artifacts, modern setting, cartoonish."
+}

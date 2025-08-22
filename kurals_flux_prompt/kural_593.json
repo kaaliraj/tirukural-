@@ -1,0 +1,39 @@
+{
+  "Kural_Info": {
+    "Number": 593,
+    "Chapter": "ஊக்கமுடைமை (Energy)",
+    "Tamil_Text": "ஆக்கம் இழந்தேமென்று அல்லாவார் ஊக்கம் ஒருவந்தம் கைத்துடை யார்.",
+    "English_Meaning": "They who are possessed of enduring energy will not trouble themselves, saying, 'we have lost our property'."
+  },
+  "Flux_Optimized_Prompt": {
+    "Layered_Composition": {
+      "Foreground": "A person is shown standing amidst the wreckage of their lost fortune ('ஆக்கம் இழந்தேம்'). Their ship has sunk, their house has burned.",
+      "Midground": "Despite this total material loss, the person is not crying or despairing ('அல்லாவார்'). Instead, their hands are glowing, and they are already beginning to rebuild from the ashes. This glow represents their unshakeable, ever-present energy ('ஊக்கம் ஒருவந்தம் கைத்துடையார்').",
+      "Background": "The background shows a phoenix rising from the flames, mirroring the person's own resilience and their ability to be reborn from disaster through their inner energy."
+    },
+    "Art_Direction": {
+      "Subject_and_Action": "Those who possess steadfast energy as their true wealth will not despair even when they lose all their material possessions.",
+      "Symbolic_Motifs": "The contrast between the external ruin and the person's internal, unwavering resolve is key. The glowing hands represent their inherent ability to create and rebuild. The phoenix is a powerful symbol of their resilience.",
+      "Mood_and_Emotion": "Resilient, determined, undefeatable, hopeful, energetic.",
+      "Lighting_and_Color": "The ruins are dark and smoldering. The person and their glowing hands are the primary source of a new, hopeful light. The phoenix in the background burns with a brilliant, golden fire.",
+      "Technical_Cues": {
+        "Camera": "A heroic medium shot of the person, focusing on their determined expression as they begin to rebuild.",
+        "Resolution": "8K, cinematic, with realistic fire and ruin textures.",
+        "Lighting": "The glow from the hands and the phoenix pushes back the darkness of the disaster.",
+        "Art_Genre": "Fantasy realism, motivational art."
+      }
+    },
+    "Cultural_Anchors": [
+      "Unwavering Energy ('ஊக்கம் ஒருவந்தம்')",
+      "Not despairing at loss ('ஆக்கம் இழந்தேம் என்று அல்லாவார்')",
+      "Resilience in the face of ruin."
+    ]
+  },
+  "Negative_Prompt": "person crying in the ruins, no glowing hands, dark and hopeless scene, text artifacts.",
+  "Hyperparameters": {
+    "variant": "pro",
+    "steps": 50,
+    "cfg_scale": 9,
+    "seed": "Explore variations for the phoenix design."
+  }
+}

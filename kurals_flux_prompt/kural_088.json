@@ -1,0 +1,39 @@
+{
+  "Kural_Info": {
+    "Number": 88,
+    "Chapter": "விருந்தோம்பல் (Hospitality)",
+    "Tamil_Text": "பரிந்தோம்பிப் பற்றற்றேம் என்பர் விருந்தோம்பிவேள்வி தலைப்படா தார்.",
+    "English_Meaning": "Those who have taken no part in the benevolence of hospitality shall (at length lament) saying, \"we have laboured and laid up wealth and are now without support.\""
+  },
+  "Flux_Optimized_Prompt": {
+    "Layered_Composition": {
+      "Foreground": "An old, wealthy man sits alone in a vast, locked treasure room, filled with gold and jewels that he has painstakingly guarded ('பரிந்து ஓம்பி').",
+      "Midground": "His expression is one of deep regret and desolation. He is clutching his treasures, but his body language shows that he is utterly alone and without support ('பற்றற்றேம்').",
+      "Background": "Through a barred window, we see a vision of what he missed: a world of joyful connection, with guests being welcomed at other homes. His own path is a dead end, a life of fruitless accumulation."
+    },
+    "Art_Direction": {
+      "Subject_and_Action": "The tragic end of those who hoard their wealth instead of using it for the 'sacrifice' of hospitality: they end up lamenting that despite all their effort, they are left with no true support or connection.",
+      "Symbolic_Motifs": "The treasures are depicted as cold and lifeless, offering no comfort. The locked door symbolizes his self-imposed isolation. His old age emphasizes that it is too late to change his path.",
+      "Mood_and_Emotion": "Regretful, desolate, lonely, tragic, futile.",
+      "Lighting_and_Color": "The treasure room is dark and shadowy, lit only by the cold, metallic gleam of the gold. This contrasts with the warm, inviting light of the world of hospitality visible outside the window. The palette is dominated by darks and cold metallic colors.",
+      "Technical_Cues": {
+        "Camera": "A somber, close-up shot on the old man's face to capture his profound regret. The vast, sterile wealth surrounds him.",
+        "Resolution": "8K, ultra-realistic, with a strong focus on the textures of old age, cold metal, and dust.",
+        "Lighting": "Low-key, high-contrast lighting (chiaroscuro) to create a dramatic and tragic atmosphere.",
+        "Art_Genre": "A cautionary painting in the style of Rembrandt."
+      },
+      "Cultural_Anchors": [
+        "Hoarding wealth (பரிந்து ஓம்பி)",
+        "Being left without support (பற்றற்றேம்)",
+        "Neglecting the sacrifice of hospitality (வேள்வி தலைப்படா தார்)"
+      ]
+    },
+    "Negative_Prompt": "happy old man, open doors, friends in the room, warm lighting, text artifacts.",
+    "Hyperparameters": {
+      "variant": "dev",
+      "steps": 45,
+      "cfg_scale": 9,
+      "seed": "Explore the expression of ultimate regret on the old man's face."
+    }
+  }
+}

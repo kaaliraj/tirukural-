@@ -1,0 +1,38 @@
+{
+  "Kural_Info": {
+    "Number": 136,
+    "Chapter": "ஒழுக்கமுடைமை (The Possession of Decorum)",
+    "Tamil_Text": "ஒழுக்கத்தின் ஒல்கார் உரவோர் இழுக்கத்தின்ஏதம் படுபாக் கறிந்து.",
+    "English_Meaning": "Those firm in mind will not slacken in their observance of the proprieties of life, knowing, as they do, the misery that flows from the transgression from them."
+  },
+  "Flux_Optimized_Prompt": {
+    "Layered_Composition": {
+      "Foreground": "A person of firm mind ('உரவோர்') is shown walking a very narrow, high, and difficult path, representing the strict path of Decorum ('ஒழுக்கத்தின்'). They are walking with perfect, unwavering balance.",
+      "Midground": "Their unwavering focus comes from their knowledge. They are shown looking down from the path into a terrifying abyss below. This abyss is the 'misery that comes from transgression' ('இழுக்கத்தின் ஏதம்').",
+      "Background": "Because they clearly see and understand this terrible consequence ('படுபாக்கு அறிந்து'), they do not slacken their step or lose their balance for even a moment ('ஒல்கார்'). Their knowledge of the danger is what keeps them safe on the path."
+    },
+    "Art_Direction": {
+      "Subject_and_Action": "The strong-minded adhere strictly to the path of decorum because they have the wisdom to foresee the terrible misery that results from any lapse.",
+      "Symbolic_Motifs": "The high, narrow path of decorum over the abyss of misery is the central metaphor. The person's steady gaze and perfect balance represent their unwavering adherence. Their knowledge of the abyss is their motivation.",
+      "Mood_and_Emotion": "Steadfast, disciplined, wise, cautious, unwavering.",
+      "Lighting_and_Color": "The path of decorum is a thin but solid line of pure, white light. The abyss below is a swirling vortex of dark, sorrowful colors. The wise person is illuminated by the light of the path they are on.",
+      "Technical_Cues": {
+        "Camera": "A dramatic shot from the side, showing the narrowness of the path, the vastness of the abyss, and the perfect, unwavering balance of the walker.",
+        "Resolution": "8K, hyper-realistic, with a dizzying sense of height and danger.",
+        "Lighting": "High-contrast lighting between the safe path and the dark abyss.",
+        "Art_Genre": "High fantasy, symbolic landscape."
+      },
+      "Cultural_Anchors": [
+        "The strong-minded will not swerve from decorum (ஒழுக்கத்தின் ஒல்கார் உரவோர்)",
+        "Knowing the misery from lapsing (இழுக்கத்தின் ஏதம் படுபாக்கு அறிந்து)"
+      ]
+    },
+    "Negative_Prompt": "person falling, wide safe path, happy abyss, text artifacts.",
+    "Hyperparameters": {
+      "variant": "pro",
+      "steps": 50,
+      "cfg_scale": 9,
+      "seed": "Explore the visual of the 'abyss of misery'."
+    }
+  }
+}

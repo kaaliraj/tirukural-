@@ -1,0 +1,39 @@
+{
+  "Kural_Info": {
+    "Number": 749,
+    "Chapter": "அரண் (The Fortification)",
+    "Tamil_Text": "முனைமுகத்து மாற்றலர் சாய வினைமுகத்து வீறெய்தி மாண்ட தரண்.",
+    "English_Meaning": "A fort is that which derives excellence from the stratagems made (by its inmates) to defeat their enemies in the battlefield."
+  },
+  "Flux_Optimized_Prompt": {
+    "Layered_Composition": {
+      "Foreground": "A battle is raging at the very gates of a fortress ('முனைமுகத்து'). The enemies ('மாற்றலர்') are shown falling in defeat ('சாய').",
+      "Midground": "The reason for their defeat is not brute force, but the brilliant stratagems being executed by the defenders. The fortress itself is shown to be an active part of these stratagems, with clever traps, hidden passages, and perfect fields of fire.",
+      "Background": "Through these brilliant actions ('வினைமுகத்து'), the fortress is shown to be gaining in glory and renown, becoming a legendary and magnificent stronghold ('வீறெய்தி மாண்டது'). Its greatness comes from the victories it enables."
+    },
+    "Art_Direction": {
+      "Subject_and_Action": "A fortress becomes truly great and magnificent when it enables victorious actions that defeat the enemy at its gates.",
+      "Symbolic_Motifs": "The fortress as an active, strategic weapon, not just a passive wall. Its greatness ('மாண்டது') is shown as a direct result of the victories ('வீறெய்தி') it facilitates.",
+      "Mood_and_Emotion": "Glorious, victorious, strategic, magnificent.",
+      "Lighting_and_Color": "A brilliant, golden light of victory illuminates the fortress. The fallen enemies are in shadow. The fortress itself seems to glow with the pride of its achievements.",
+      "Technical_Cues": {
+        "Camera": "A wide, epic shot of the battle at the gates, highlighting the clever stratagems of the defenders.",
+        "Resolution": "8K, cinematic.",
+        "Lighting": "Victorious, golden-hour lighting.",
+        "Art_Genre": "Epic fantasy art."
+      }
+    },
+    "Cultural_Anchors": [
+      "Defeating enemies at the forefront ('முனைமுகத்து மாற்றலர் சாய')",
+      "Achieving glory in action ('வினைமுகத்து வீறெய்தி')",
+      "The magnificent fortress."
+    ]
+  },
+  "Negative_Prompt": "enemies winning, a passive fortress, text artifacts, cartoonish.",
+  "Hyperparameters": {
+    "variant": "pro",
+    "steps": 50,
+    "cfg_scale": 8,
+    "seed": "Explore variations for the clever traps of the fortress."
+  }
+}

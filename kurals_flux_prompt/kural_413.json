@@ -1,0 +1,39 @@
+{
+  "Kural_Info": {
+    "Number": 413,
+    "Chapter": "கேள்வி (Hearing)",
+    "Tamil_Text": "செவியுணவிற் கேள்வி யுடையார் அவியுணவின் ஆன்றாரோ டொப்பர் நிலத்து.",
+    "English_Meaning": "Those who in this world enjoy instruction which is the food of the ear, are equal to the Gods, who enjoy the food of the sacrifices."
+  },
+  "Flux_Optimized_Prompt": {
+    "Layered_Composition": {
+      "Foreground": "On Earth, a group of learned people ('கேள்வியுடையார்') are gathered, listening intently to a wise teacher. The words of wisdom are visualized as a stream of glowing, ethereal substance ('செவியுணவு') flowing into their ears.",
+      "Midground": "In the heavens directly above, a parallel scene unfolds. A group of gods ('ஆன்றார்') are gathered around a sacrificial fire (Yagna), receiving the offerings ('அவியுணவு') which rise to them as a similar stream of glowing, divine energy.",
+      "Background": "A mystical veil separates the earthly realm from the heavenly realm, but the two scenes are composed to mirror each other perfectly, showing their equivalence."
+    },
+    "Art_Direction": {
+      "Subject_and_Action": "A visual parallel equating those on Earth who feast on the food of wisdom through hearing with the gods in heaven who feast on sacrificial offerings.",
+      "Symbolic_Motifs": "The mirrored composition is the key. The 'food of the ear' and the 'food of sacrifice' are visually represented in a similar manner (glowing streams of energy) to emphasize their equal status.",
+      "Mood_and_Emotion": "Divine, sacred, intellectual, elevated.",
+      "Lighting_and_Color": "The earthly scene is lit by the glow of knowledge, with warm, scholarly tones. The heavenly scene is lit by the divine fire, with ethereal, celestial colors. Both scenes are radiant and powerful."
+    },
+    "Technical_Cues": {
+      "Camera": "A wide, vertical shot that captures both the earthly and heavenly realms, emphasizing their connection and parallel nature.",
+      "Resolution": "8K, cinematic, with rich details in both realms.",
+      "Lighting": "Dual, symmetrical lighting from the sources of nourishment in each realm.",
+      "Art_Genre": "Mythological painting, spiritual art, split-world composition."
+    },
+    "Cultural_Anchors": [
+      "Food of the Ear ('செவியுணவு')",
+      "Food of Sacrifice ('அவியுணவு')",
+      "Equivalence of the Learned to Gods ('ஆன்றாரொடு ஒப்பர்')"
+    ]
+  },
+  "Negative_Prompt": "uninterested listeners, small fire, dark scenes, text artifacts, cartoonish figures, modern setting.",
+  "Hyperparameters": {
+    "variant": "pro",
+    "steps": 50,
+    "cfg_scale": 8,
+    "seed": "Explore variations for the visual style of the two 'foods'."
+  }
+}

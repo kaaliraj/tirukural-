@@ -1,0 +1,39 @@
+{
+  "Kural_Info": {
+    "Number": 910,
+    "Chapter": "பெண்வழிச்சேறல் (Being led by Women)",
+    "Tamil_Text": "எண்சேர்ந்த நெஞ்சத் திடனுடையார்க்கு எஞ்ஞான்றும் பெண்சேர்ந்தாம் பேதைமை இல்.",
+    "English_Meaning": "The foolishness that results from devotion to a wife will never be found in those who possess a reflecting mind and a prosperity (flowing) therefrom."
+  },
+  "Flux_Optimized_Prompt": {
+    "Layered_Composition": {
+      "Foreground": "A wise and thoughtful man stands firm. His mind is depicted as a radiant, well-ordered, geometric crystal, representing a thinking mind ('எண்சேர்ந்த நெஞ்சத்து'). From this mind flows a river of gold, his self-made prosperity.",
+      "Midground": "The folly of being subservient to a woman ('பெண்சேர்ந்தாம் பேதைமை') is personified as a dark, clinging, vine-like creature that tries to ensnare him.",
+      "Background": "However, the brilliant light and commanding power that comes from his own thinking mind and firm standing ('இடன்') completely repels the dark creature. It cannot touch him or find any purchase on him. Such folly is absent from him ('இல்')."
+    },
+    "Art_Direction": {
+      "Subject_and_Action": "The folly of subservience to a woman is never found in those who possess a thinking mind and the strength that comes from it.",
+      "Symbolic_Motifs": "The crystal mind is the source of power. The river of gold is its result. The dark, clinging vine of folly is the threat. The light from the mind repelling the vine is the key action.",
+      "Mood_and_Emotion": "Strong-minded, independent, invulnerable to this specific folly, rational.",
+      "Lighting_and_Color": "A brilliant, clear, white light emanates from the crystal mind, repelling the dark, sickly green/purple vines of folly.",
+      "Technical_Cues": {
+        "Camera": "A heroic shot of the wise man, showing his inner power effortlessly repelling the external threat.",
+        "Resolution": "8K, with high-quality crystal and vine effects.",
+        "Lighting": "The primary light source is the man's own mind.",
+        "Art_Genre": "High-fantasy art, with a strong intellectual theme."
+      },
+      "Cultural_Anchors": [
+        "Those with a thinking mind and strength ('எண்சேர்ந்த நெஞ்சத் திடனுடையார்')",
+        "The folly of subservience to a woman is absent in them.",
+        "The power of reason over doting."
+      ]
+    },
+    "Negative_Prompt": "a weak mind, the vines succeeding, text artifacts.",
+    "Hyperparameters": {
+      "variant": "pro",
+      "steps": 50,
+      "cfg_scale": 9,
+      "seed": "Explore variations for the crystal mind."
+    }
+  }
+}

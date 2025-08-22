@@ -1,0 +1,39 @@
+{
+  "Kural_Info": {
+    "Number": 491,
+    "Chapter": "இடனறிதல் (Knowing the Place)",
+    "Tamil_Text": "தொடங்கற்க எவ்வினையும் எள்ளற்க முற்றும் இடங்கண்ட பின்அல் லது.",
+    "English_Meaning": "Begin no work of war, despise no foe, Till place where you can wholly circumvent you know."
+  },
+  "Flux_Optimized_Prompt": {
+    "Layered_Composition": {
+      "Foreground": "A wise general stands on a high cliff, looking down at a vast landscape below. He holds a coiled spring in his hand, representing pent-up action.",
+      "Midground": "The landscape is a complex battlefield. The general is not acting yet; instead, he is using a magical map that highlights a single, perfect strategic location ('இடம்') in glowing golden light. This is the place from which victory is assured.",
+      "Background": "The enemy army, though large, is shown to have a critical vulnerability at that exact glowing location, a fact the general has identified before committing his forces."
+    },
+    "Art_Direction": {
+      "Subject_and_Action": "The principle of not starting any action and not underestimating any task until one has found the perfect strategic place from which to operate.",
+      "Symbolic_Motifs": "The coiled spring symbolizes the restrained action. The glowing spot on the map represents the 'right place' ('இடங்கண்ட'). The enemy's visible weakness at that spot shows why knowing the place is crucial.",
+      "Mood_and_Emotion": "Strategic, patient, analytical, cautious, confident.",
+      "Lighting_and_Color": "The scene is lit by the golden glow of the strategic location on the map, which reflects on the general's face, showing his moment of discovery and decision.",
+      "Technical_Cues": {
+        "Camera": "Over-the-shoulder shot from behind the general, allowing the viewer to see the map and the battlefield from his strategic perspective.",
+        "Resolution": "8K, cinematic, with a detailed epic landscape.",
+        "Lighting": "Dramatic lighting that highlights the key strategic point.",
+        "Art_Genre": "Epic historical fantasy."
+      }
+    },
+    "Cultural_Anchors": [
+      "Knowing the Place ('இடனறிதல்')",
+      "Do not start without finding the right place ('இடங்கண்ட பின் அல்லாது தொடங்கற்க')",
+      "Strategic positioning."
+    ]
+  },
+  "Negative_Prompt": "general rushing into battle, no map, text artifacts, cartoonish soldiers, flat landscape.",
+  "Hyperparameters": {
+    "variant": "pro",
+    "steps": 50,
+    "cfg_scale": 8,
+    "seed": "Explore variations for the design of the magical map."
+  }
+}

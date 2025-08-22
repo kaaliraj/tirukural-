@@ -1,0 +1,38 @@
+{
+  "Kural_Info": {
+    "Number": 1048,
+    "Chapter": "நல்குரவு (Poverty)",
+    "Tamil_Text": "இன்றும் வருவது கொல்லோ நெருநலும்கொன்றது போலும் நிரப்பு.",
+    "English_Meaning": "Is the poverty that almost killed me yesterday, to meet me today too?."
+  },
+  "Flux_Optimized_Prompt": {
+    "Layered_Composition": {
+      "Foreground": "A person wakes up to a new day. Their expression is not one of hope, but of pure dread.",
+      "Midground": "A ghostly, terrifying memory of 'yesterday' ('நெருநல்') is shown. In it, Poverty ('நிரப்பு') is personified as a monstrous beast that was mauling and nearly killing them ('கொன்றது போலும்').",
+      "Background": "Now, in the present ('இன்றும்'), the person looks towards their door with terror, as the shadow of the same monstrous beast is seen approaching again. The image is a lament: 'Will the thing that nearly killed me yesterday come for me again today?' ('இன்றும் வருவது கொல்லோ?')."
+    },
+    "Art_Direction": {
+      "Subject_and_Action": "A lament expressing the dread of the chronic nature of poverty: the feeling that the same suffering that almost destroyed you yesterday is inevitably coming back to attack you again today.",
+      "Symbolic_Motifs": "Poverty as a recurring, murderous beast is the central metaphor. The feeling is not just of lack, but of being actively hunted day after day. The cyclical nature of the suffering is key.",
+      "Mood_and_Emotion": "Dread, recurring trauma, hopeless, hunted.",
+      "Lighting_and_Color": "A bleak, grey, dawn light that brings no hope, only the dread of a new day of suffering. The poverty beast is a creature of shadow and despair.",
+      "Technical_Cues": {
+        "Camera": "A shot from inside the person's room, looking with them in terror at the shadow of the approaching beast under the door.",
+        "Resolution": "8K, ultra-realistic, with a focus on the expression of pure dread.",
+        "Lighting": "Low-key, oppressive lighting.",
+        "Art_Genre": "Psychological horror."
+      },
+      "Cultural_Anchors": [
+        "The poverty that was like murder yesterday (நெருநலும் கொன்றது போலும் நிரப்பு)",
+        "Will it come today too? (இன்றும் வருவது கொல்லோ?)"
+      ]
+    },
+    "Negative_Prompt": "happy person, no beast, text artifacts, bright sunny day.",
+    "Hyperparameters": {
+      "variant": "pro",
+      "steps": 50,
+      "cfg_scale": 9,
+      "seed": "Explore the design of the 'murderous beast of poverty'."
+    }
+  }
+}

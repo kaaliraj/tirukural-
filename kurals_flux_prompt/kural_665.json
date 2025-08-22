@@ -1,0 +1,38 @@
+{
+  "Kural_Info": {
+    "Number": 665,
+    "Chapter": "வினைத்திட்பம் (Power in Action)",
+    "Tamil_Text": "வீறெய்தி மாண்டார் வினைத்திட்பம் வேந்தன்கண்ஊறெய்தி உள்ளப் படும்.",
+    "English_Meaning": "The firmness in action of those who have become great by the excellence (of their counsel) will, by attaining its fulfilment in the person of the king, be esteemed (by all)."
+  },
+  "Flux_Optimized_Prompt": {
+    "Layered_Composition": {
+      "Foreground": "A great minister, renowned for their wisdom ('மாண்டார்'), is shown giving firm, decisive counsel to a king.",
+      "Midground": "The king, accepting this counsel, performs a great and successful action. The success of this action is a direct result of the minister's firm plan ('வினைத்திட்பம்').",
+      "Background": "As a result of this success, a brilliant aura of esteem and glory ('வீறு') surrounds not just the king, but also the minister. The minister's firmness has found its ultimate expression and recognition ('உள்ளப்படும்') through the king's successful action."
+    },
+    "Art_Direction": {
+      "Subject_and_Action": "The powerful firmness of a great minister's plans achieves its final glory and is truly esteemed when it is successfully executed by the king.",
+      "Symbolic_Motifs": "A flow of energy is shown from the minister's mind to the king's hand, and then into the successful deed. The resulting aura of glory then flows back to encompass both of them, showing a shared success.",
+      "Mood_and_Emotion": "Respected, effective, glorious, symbiotic.",
+      "Lighting_and_Color": "A clear, intellectual light for the counseling. A dynamic, powerful light for the king's action. A brilliant, golden, glorious light for the final scene of shared esteem.",
+      "Technical_Cues": {
+        "Camera": "A narrative sequence that clearly shows the cause-and-effect: minister's plan -> king's action -> shared glory.",
+        "Resolution": "8K, ultra-realistic, with a focus on the noble and powerful expressions of the minister and king.",
+        "Lighting": "A progression of light that culminates in a shared aura of success.",
+        "Art_Genre": "Epic historical painting."
+      },
+      "Cultural_Anchors": [
+        "The firmness in action of the great (மாண்டார் வினைத்திட்பம்)",
+        "Esteemed in the eyes of the king (வேந்தன்கண் உள்ளப்படும்)"
+      ]
+    },
+    "Negative_Prompt": "king rejecting counsel, plan failing, minister being blamed, text artifacts.",
+    "Hyperparameters": {
+      "variant": "pro",
+      "steps": 50,
+      "cfg_scale": 8,
+      "seed": "Explore the visual representation of the 'shared aura of glory'."
+    }
+  }
+}

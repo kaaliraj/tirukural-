@@ -1,0 +1,40 @@
+{
+  "Kural_Info": {
+    "Number": 833,
+    "Chapter": "பேதைமை (Folly)",
+    "Tamil_Text": "நாணாமை நாடாமை நாரின்மை யாதொன்றும் பேணாமை பேதை தொழில்.",
+    "English_Meaning": "Shamelessness, indifference (to what must be sought after), harshness, and aversion for everything (that ought to be desired) are the qualities of the fool."
+  },
+  "Flux_Optimized_Prompt": {
+    "Layered_Composition": {
+      "Foreground": "A fool ('பேதை') is depicted as a monstrous figure, defined by four negative traits.",
+      "Midground": "They have no sense of shame, shown by them being oblivious to their own faults ('நாணாமை'). They have no desire to seek knowledge or what is good, shown by them turning their back on a glowing book ('நாடாமை'). They are harsh and unloving, shown by their hands being made of thorny vines ('நாரின்மை'). They cherish nothing of value, shown by them carelessly trampling on jewels and flowers ('பேணாமை').",
+      "Background": "A world of value and beauty that the fool is completely unable to engage with or appreciate. This is their work ('தொழில்')."
+    },
+    "Art_Direction": {
+      "Subject_and_Action": "The work of a fool consists of four things: having no shame, seeking nothing of worth, being unloving, and cherishing nothing.",
+      "Symbolic_Motifs": "Each of the four qualities is given a clear, negative visualization. The fool is a composite of these destructive traits.",
+      "Mood_and_Emotion": "Shameless, ignorant, harsh, destructive, foolish.",
+      "Lighting_and_Color": "A harsh, ugly light illuminates the fool. The colors are discordant and unpleasant. The valuable things they reject or destroy are the only sources of beauty in the scene.",
+      "Technical_Cues": {
+        "Camera": "A full-body portrait of the allegorical fool, capturing all four of their negative actions.",
+        "Resolution": "8K, with a grotesque and symbolic character design.",
+        "Lighting": "Unflattering, harsh lighting.",
+        "Art_Genre": "Symbolic portraiture, in the style of Hieronymus Bosch."
+      },
+      "Cultural_Anchors": [
+        "Shamelessness ('நாணாமை')",
+        "Not Seeking ('நாடாமை')",
+        "Lack of Love ('நாரின்மை')",
+        "Not Cherishing ('பேணாமை')"
+      ]
+    },
+    "Negative_Prompt": "a wise person, text artifacts, beautiful hands.",
+    "Hyperparameters": {
+      "variant": "pro",
+      "steps": 50,
+      "cfg_scale": 8,
+      "seed": "Explore variations for the four symbolic actions."
+    }
+  }
+}

@@ -1,0 +1,39 @@
+{
+  "Kural_Info": {
+    "Number": 391,
+    "Chapter": "கல்வி (Learning)",
+    "Tamil_Text": "கற்க கசடறக் கற்பவை கற்றபின் நிற்க அதற்குத் தக.",
+    "English_Meaning": "So learn that you may full and faultless learning gain, Then in obedience meet to lessons learnt remain."
+  },
+  "Flux_Optimized_Prompt": {
+    "Layered_Composition": {
+      "Foreground": "A scholar is meticulously clearing away dust and impurities ('கசடற') from an ancient, glowing Tamil manuscript, representing faultless learning.",
+      "Midground": "Having absorbed the knowledge, the scholar stands up straight and firm. Their path forward is now a solid, well-defined road paved with the very letters and principles from the manuscript they just studied.",
+      "Background": "A bright, clear horizon, symbolizing a future guided by the principles of their learning."
+    },
+    "Art_Direction": {
+      "Subject_and_Action": "The two-stage process of true education: first, learning faultlessly, and second, living steadfastly according to that learning ('நிற்க அதற்குத் தக').",
+      "Symbolic_Motifs": "Clearing dust from the manuscript symbolizes learning without fault ('கசடற'). The path paved with letters represents living in accordance with what was learned.",
+      "Mood_and_Emotion": "Diligent, principled, clear, resolute, enlightening.",
+      "Lighting_and_Color": "The scene is bathed in a clear, intellectual light. The manuscript and the paved path glow with a soft, golden light of wisdom. The palette is clean and bright."
+    },
+    "Technical_Cues": {
+      "Camera": "A tracking shot that follows the scholar from the act of learning to the act of living by the principles.",
+      "Resolution": "8K, ultra-realistic, with fine details on the manuscript and the paved path.",
+      "Lighting": "Bright, clear key lighting, symbolizing clarity of thought and purpose.",
+      "Art_Genre": "Symbolic realism, with a touch of fantasy in the glowing elements."
+    },
+    "Cultural_Anchors": [
+      "Concept of 'Kasadara Karkai' (Faultless Learning)",
+      "Living according to one's learning ('நிற்க அதற்குத் தக')",
+      "Ancient Tamil scholarly tradition"
+    ]
+  },
+  "Negative_Prompt": "confused scholar, broken path, dark background, blurry manuscript, text artifacts, modern books.",
+  "Hyperparameters": {
+    "variant": "dev",
+    "steps": 40,
+    "cfg_scale": 8,
+    "seed": "Explore variations for the texture of the letter-paved road."
+  }
+}

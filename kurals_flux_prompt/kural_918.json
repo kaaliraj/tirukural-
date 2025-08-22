@@ -1,0 +1,39 @@
+{
+  "Kural_Info": {
+    "Number": 918,
+    "Chapter": "வரைவின்மகளிர் (Wanton Women)",
+    "Tamil_Text": "ஆயும் அறிவினர் அல்லார்க்கு அணங்கென்ப மாய மகளிர் முயக்கு.",
+    "English_Meaning": "The wise say that to such as are destitute of discerning sense the embraces of faithless women are (as ruinous as those of) the celestail female."
+  },
+  "Flux_Optimized_Prompt": {
+    "Layered_Composition": {
+      "Foreground": "A foolish man, who lacks a discerning intellect ('ஆயும் அறிவினர் அல்லார்'), is embracing a beautiful, magical woman ('மாய மகளிர்').",
+      "Midground": "He believes her embrace to be a divine, heavenly pleasure ('அணங்கு'). However, the woman is revealed to be a beautiful illusion.",
+      "Background": "Her true form, visible only to the wise viewer, is that of a terrifying, soul-draining demon or succubus. Her embrace is not giving pleasure, but is draining the life-force from the foolish man, leaving him a withered husk."
+    },
+    "Art_Direction": {
+      "Subject_and_Action": "To the undiscerning fool, the embrace of a deceitful woman seems like a divine pleasure, but in reality, it is a soul-destroying demon.",
+      "Symbolic_Motifs": "The beautiful illusion vs. the horrifying true form of the woman is the central visual shock. The life-draining effect shows the destructive nature of her embrace.",
+      "Mood_and_Emotion": "Deceptive, demonic, destructive, horrifying.",
+      "Lighting_and_Color": "The illusion is bathed in a seductive, magical light. The true demonic form is revealed in a flash of horrific, hellish light.",
+      "Technical_Cues": {
+        "Camera": "A shot that shows the beautiful embrace, but the woman's shadow or reflection reveals her true, monstrous form.",
+        "Resolution": "8K, with a strong horror element.",
+        "Lighting": "Deceptive, shifting lighting.",
+        "Art_Genre": "Dark fantasy, horror art."
+      },
+      "Cultural_Anchors": [
+        "The embrace of deceitful women ('மாய மகளிர் முயக்கு')",
+        "Appears as a goddess ('அணங்கு') to the foolish.",
+        "The destructive nature of lust."
+      ]
+    },
+    "Negative_Prompt": "a real goddess, a happy man, text artifacts, cartoonish.",
+    "Hyperparameters": {
+      "variant": "pro",
+      "steps": 50,
+      "cfg_scale": 9,
+      "seed": "Explore variations for the demonic true form."
+    }
+  }
+}

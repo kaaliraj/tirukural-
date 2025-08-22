@@ -1,0 +1,38 @@
+{
+  "Kural_Info": {
+    "Number": 968,
+    "Chapter": "மானம் (Honour)",
+    "Tamil_Text": "மருந்தோமற்று ஊன்ஓம்பும் வாழ்க்கை பெருந்தகைமைபீடழிய வந்த இடத்து.",
+    "English_Meaning": "For the high-born to keep their body in life when their honour is gone will certainly not prove a remedy against death."
+  },
+  "Flux_Optimized_Prompt": {
+    "Layered_Composition": {
+      "Foreground": "A person of great nobility ('பெருந்தகைமை') is shown after their honor has been destroyed ('பீடு அழிய'). Their inner spirit or light is shown to be extinguished.",
+      "Midground": "They are now trying to preserve their physical life ('ஊன் ஓம்பும் வாழ்க்கை'), perhaps by eating or taking medicine. This is depicted as a futile act.",
+      "Background": "A great, shadowy figure of Death looms over them. The medicine they are taking is shown to be completely ineffective against this ultimate fate. The image makes it clear that preserving the body after honor is lost is not a 'remedy' ('மருந்து') that can save them from their eventual, and now meaningless, end."
+    },
+    "Art_Direction": {
+      "Subject_and_Action": "When a noble person's honor is destroyed, the act of preserving their physical body is a pointless exercise and certainly not a remedy that can avert their ultimate mortality.",
+      "Symbolic_Motifs": "The extinguished inner light signifies the loss of honor, which is their true 'life'. The medicine being useless against the shadow of Death shows that physical preservation is meaningless once spiritual life (honor) is gone.",
+      "Mood_and_Emotion": "Futile, pointless, tragic, existential.",
+      "Lighting_and_Color": "The scene is dominated by the vast shadow of Death. The light of honor that once illuminated the noble person is gone, leaving them in a dim, hopeless twilight. The medicine has no glow or power.",
+      "Technical_Cues": {
+        "Camera": "A dramatic and somber shot, with the looming figure of Death dwarfing the person's futile attempts to preserve their physical life.",
+        "Resolution": "8K, ultra-realistic, with a strong focus on the character's expression of hollow existence.",
+        "Lighting": "Low-key, shadowy lighting to create a mood of despair and futility.",
+        "Art_Genre": "Gothic realism, memento mori."
+      },
+      "Cultural_Anchors": [
+        "When greatness/honor is destroyed (பீடு அழிய வந்த இடத்து)",
+        "Is life that preserves the body a remedy? (ஊன் ஓம்பும் வாழ்க்கை மருந்தோ?)"
+      ]
+    },
+    "Negative_Prompt": "medicine working, happy person, retreating death, text artifacts.",
+    "Hyperparameters": {
+      "variant": "dev",
+      "steps": 45,
+      "cfg_scale": 9,
+      "seed": "Explore the personification of the looming 'Shadow of Death'."
+    }
+  }
+}

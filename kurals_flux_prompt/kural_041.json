@@ -1,0 +1,39 @@
+{
+  "Kural_Info": {
+    "Number": 41,
+    "Chapter": "இல்வாழ்க்கை (Domestic Life)",
+    "Tamil_Text": "இல்வாழ்வான் என்பான் இயல்புடைய மூவர்க்கும்நல்லாற்றின் நின்ற துணை.",
+    "English_Meaning": "He will be called a (true) householder, who is a firm support to the virtuous of the three orders in their good path."
+  },
+  "Flux_Optimized_Prompt": {
+    "Layered_Composition": {
+      "Foreground": "A virtuous householder ('இல்வாழ்வான்') stands strong and central, depicted as the trunk of a great, flourishing Banyan tree.",
+      "Midground": "The three main branches of the tree extend outwards, providing shelter and support to the 'three orders' ('மூவர்'): a young student (Brahmachari) reading a scroll, a meditating ascetic (Sanyasi), and a couple performing rites in the forest (Vanaprastha).",
+      "Background": "A serene and prosperous village scene, indicating that the householder's support for the virtuous orders is the foundation of a well-ordered society."
+    },
+    "Art_Direction": {
+      "Subject_and_Action": "The ideal householder visualized as the central pillar of society, providing the essential support for those in other stages or paths of life.",
+      "Symbolic_Motifs": "The Banyan tree is a powerful symbol of stability, shelter, and life. The roots of the tree are firmly planted in the 'home' (இல்). The householder is not just giving money, but offering a 'good path' ('நல்லாற்றின்') and firm support ('துணை').",
+      "Mood_and_Emotion": "Supportive, foundational, stable, virtuous, dutiful.",
+      "Lighting_and_Color": "Warm, benevolent sunlight filters through the leaves of the banyan tree. The palette is rich with earthy browns, deep greens, and the warm tones of a harmonious society.",
+      "Technical_Cues": {
+        "Camera": "Low-angle wide shot, looking up at the householder-tree to emphasize their strength and the sheltering nature of their role.",
+        "Resolution": "8K, ultra-realistic, with detailed textures on the tree bark and the serene expressions of all the figures.",
+        "Lighting": "Soft, dappled light filtering through the leaves, creating a sense of peace and shelter.",
+        "Art_Genre": "Symbolic realism, allegorical painting."
+      },
+      "Cultural_Anchors": [
+        "Ilvaazhvaan (இல்வாழ்வான்) - The Householder",
+        "The three orders (மூவர்) - Brahmacharya, Vanaprastha, Sannyasa",
+        "The Banyan Tree (ஆலமரம்) as a symbol of support"
+      ]
+    },
+    "Negative_Prompt": "weak tree, unsupported figures, chaotic scene, text artifacts, deformed limbs, modern clothing.",
+    "Hyperparameters": {
+      "variant": "pro",
+      "steps": 50,
+      "cfg_scale": 8,
+      "seed": "Explore variations in the depiction of the three orders."
+    }
+  }
+}

@@ -1,0 +1,39 @@
+{
+  "Kural_Info": {
+    "Number": 534,
+    "Chapter": "பொச்சாவாமை (Unforgetfulness)",
+    "Tamil_Text": "அச்ச முடையார்க்கு அரணில்லை ஆங்கில்லை பொச்சாப் புடையார்க்கு நன்கு.",
+    "English_Meaning": "Just as the coward has no defence (by whatever fortifications ha may be surrounded), so the thoughtless has no good (whatever advantages he may possess)."
+  },
+  "Flux_Optimized_Prompt": {
+    "Layered_Composition": {
+      "Foreground": "A split composition. On the left, a coward ('அச்சமுடையார்') is cowering inside a massive, impenetrable fortress ('அரண்'). Despite the strong walls, shadowy hands of fear are passing through the stone and grasping him, showing the fortress is useless to him.",
+      "Midground": "On the right, a forgetful, careless person ('பொச்சாப்புடையார்') is surrounded by great advantages—wealth, opportunity, and allies, represented as glowing orbs. However, due to their carelessness, these orbs of goodness ('நன்கு') are floating away from them, unused and lost.",
+      "Background": "Both scenes take place in a world where external advantages are rendered useless by internal flaws."
+    },
+    "Art_Direction": {
+      "Subject_and_Action": "A parallel is drawn: a fortress is no defense for a coward, and similarly, no advantage can bring good to a forgetful or careless person.",
+      "Symbolic_Motifs": "The fear-ghosts passing through the fortress walls show the futility of external defense against internal fear. The glowing orbs of advantage floating away show the loss caused by carelessness.",
+      "Mood_and_Emotion": "Futile, ineffective, a warning about internal weakness.",
+      "Lighting_and_Color": "The coward's scene is dark and shadowy, despite the strong fortress. The careless person's scene is brightly lit by the orbs, but the light is fading as they drift away.",
+      "Technical_Cues": {
+        "Camera": "A balanced diptych shot, clearly presenting the two analogous situations.",
+        "Resolution": "8K, with ethereal effects for the fear-shadows and the glowing orbs.",
+        "Lighting": "Symbolic lighting that emphasizes the internal state over the external situation.",
+        "Art_Genre": "Symbolic realism, allegorical art."
+      }
+    },
+    "Cultural_Anchors": [
+      "No Fortress for the Coward ('அச்சமுடையார்க்கு அரணில்லை')",
+      "No Good for the Forgetful ('பொச்சாப்புடையார்க்கு நன்கு இல்லை')",
+      "Internal state overriding external advantage."
+    ]
+  },
+  "Negative_Prompt": "brave person in a fortress, careful person holding onto orbs, text artifacts, cartoonish.",
+  "Hyperparameters": {
+    "variant": "pro",
+    "steps": 45,
+    "cfg_scale": 8,
+    "seed": "Explore variations for the floating orbs of advantage."
+  }
+}

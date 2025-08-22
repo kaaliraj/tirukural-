@@ -1,0 +1,37 @@
+{
+  "Kural_Info": {
+    "Number": 1021,
+    "Chapter": "குடிசெயல்வகை (The Way of Maintaining the Family)",
+    "Tamil_Text": "கருமம் செயஒருவன் கைதூவேன் என்னும்பெருமையின் பீடுடையது இல்.",
+    "English_Meaning": "There is no higher greatness than that of one saying, 'I will not cease in my effort (to raise my family)'."
+  },
+  "Flux_Optimized_Prompt": {
+    "Layered_Composition": {
+      "Foreground": "A powerful, determined individual stands before their humble family home, which is in need of repair and improvement.",
+      "Midground": "Their hands are shown not raised in prayer or rest, but held firm and ready for work. A powerful, resolute declaration emanates from their heart as glowing text: 'I will not raise my hands from this work' ('கை தூவேன்').",
+      "Background": "This sheer pride in tireless effort ('பெருமை') is depicted as a colossal, majestic aura of greatness ('பீடு') that towers behind them, dwarfing all other forms of greatness like crowns or thrones, which are shown as insignificant trinkets on the ground. There is nothing greater than this resolve."
+    },
+    "Art_Direction": {
+      "Subject_and_Action": "The ultimate and greatest form of dignity is the proud declaration of a person that they will work tirelessly and without cessation to uplift their family.",
+      "Symbolic_Motifs": "The towering aura of 'greatness' born from the simple promise of 'effort' is the key visual. The hands held ready for work, not prayer, emphasize that this is a greatness born of action, not supplication. The discarded symbols of royalty show this work-ethic to be superior to inherited status.",
+      "Mood_and_Emotion": "Resolute, proud, determined, foundational, heroic.",
+      "Lighting_and_Color": "A strong, heroic, golden light emanates from the person's determined heart and ready hands. The aura of greatness is a brilliant, powerful white-gold. The palette is one of immense strength and dignity.",
+      "Technical_Cues": {
+        "Camera": "A low-angle heroic shot that makes the individual and their aura of resolve look monumental.",
+        "Resolution": "8K, ultra-realistic, with a focus on the determined expression and the powerful posture of the subject.",
+        "Lighting": "The primary light source is the inner fire of the person's resolve.",
+        "Art_Genre": "Heroic realism, with symbolic fantasy elements."
+      },
+      "Cultural_Anchors": [
+        "The greatness of saying 'I will not lift my hands from the work' (கை தூவேன் என்னும் பெருமையின் பீடு)"
+      ]
+    },
+    "Negative_Prompt": "lazy person, crumbling house, person begging for help, text artifacts.",
+    "Hyperparameters": {
+      "variant": "pro",
+      "steps": 50,
+      "cfg_scale": 9,
+      "seed": "Explore the visual of the 'towering aura of resolve'."
+    }
+  }
+}

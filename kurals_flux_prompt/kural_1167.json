@@ -1,0 +1,34 @@
+{
+  "Kural_Info": {
+    "Number": 1167,
+    "Chapter": "படர்மெலிந்திரங்கல் (Complainings)",
+    "Tamil_Text": "காமக் கடும்புனல் நீந்திக் கரைகாணேன்யாமத்தும் யானே உளேன்.",
+    "English_Meaning": "I swim the cruel tide of love, and can no shore descry, In watches of the night, too, 'mid the waters, only I!."
+  },
+  "Flux_Optimized_Prompt": {
+    "Layered_Composition": {
+      "Foreground": "A lone woman is shown struggling to swim in a vast, dark, and unending flood of water, which is the 'cruel tide of love' ('Kaamak Kadumpunal').",
+      "Midground": "There is no shore in sight in any direction ('Karai Kaanen'), emphasizing the hopelessness of her struggle.",
+      "Background": "The scene is set in the dead of night ('Yamaththum'), with only a cold, distant moon providing a sliver of light, highlighting her complete solitude ('Yaane Ulen')."
+    },
+    "Art_Direction": {
+      "Subject_and_Action": "The feeling of being alone and lost at midnight, endlessly swimming in an overwhelming flood of lovesickness with no hope of reaching safety.",
+      "Symbolic_Motifs": "The endless, shoreless flood at midnight is the all-encompassing metaphor for her emotional state.",
+      "Mood_and_Emotion": "Desperate, exhausted, lonely, hopeless, overwhelmed.",
+      "Lighting_and_Color": "The scene is extremely dark, lit only by the cold, stark light of the moon on the black water. The palette is almost monochromatic, composed of deep blacks, dark blues, and cold silver highlights."
+    },
+    "Technical_Cues": {
+      "Camera": "A high-angle wide shot, looking down on the small, struggling figure in the vast expanse of dark water, emphasizing her isolation and vulnerability.",
+      "Resolution": "8K, photorealistic, with a focus on the texture of the dark water and the desperate expression of the swimmer.",
+      "Lighting": "Minimal, high-contrast moonlight to create a feeling of deep night and solitude.",
+      "Art_Genre": "Dark realism, with a cinematic and dramatic feel."
+    },
+    "Cultural_Anchors": [
+      "காமக் கடும்புனல் (The cruel flood of love)",
+      "கரை காணாமை (Not seeing the shore)",
+      "யாமம் (Midnight)",
+      "The solitude of suffering"
+    ]
+  },
+  "Negative_Prompt": "a calm river, a sunny day, a nearby shore, other people swimming, a boat, text artifacts, cartoonish."
+}

@@ -1,0 +1,39 @@
+{
+  "Kural_Info": {
+    "Number": 36,
+    "Chapter": "அறன் வலியுறுத்தல் (Assertion of the Strength of Virtue)",
+    "Tamil_Text": "அன்றறிவாம் என்னாது அறஞ்செய்க மற்றதுபொன்றுங்கால் பொன்றாத் துணை.",
+    "English_Meaning": "Defer not virtue to another day; receive her now; and at the dying hour she will be your undying friend."
+  },
+  "Flux_Optimized_Prompt": {
+    "Layered_Composition": {
+      "Foreground": "A young person is shown performing a virtuous act now ('அறஞ்செய்க'), such as planting a sapling with great care.",
+      "Midground": "A temporal transition: the sapling grows into a mighty, sheltering tree. Under this tree, an aged version of the same person is seen on their deathbed ('பொன்றுங்கால்'), looking peaceful.",
+      "Background": "From the tree, a luminous, ethereal companion ('பொன்றாத் துணை') emerges, taking the soul of the dying person by the hand and leading them towards a gentle, celestial light. The companion is the personification of the virtue they practiced in their youth."
+    },
+    "Art_Direction": {
+      "Subject_and_Action": "The immediate practice of virtue without procrastination ('அன்றறிவாம் என்னாது') becomes an immortal companion that provides comfort and guidance at the moment of death.",
+      "Symbolic_Motifs": "The growth of the tree symbolizes how a single, present-day act of virtue matures into a powerful, protective force over a lifetime. The 'undying friend' is not an external angel but a manifestation of the person's own accumulated good deeds.",
+      "Mood_and_Emotion": "Profound, comforting, timeless, reaping what you sow.",
+      "Lighting_and_Color": "The youthful scene is in bright, clear daylight. The deathbed scene is in soft, twilight tones, but the primary light is the warm, golden glow from the personified Virtue (the tree and the companion), which banishes all fear and darkness.",
+      "Technical_Cues": {
+        "Camera": "A slow, cinematic pan or a single wide frame using composition to show the temporal progression from left (youth) to right (old age).",
+        "Resolution": "8K, ultra-realistic, with fine details on the aging of the person and the growth of the tree. Ethereal effects for the spirit-companion.",
+        "Lighting": "Natural lighting for the life stages, contrasted with a divine, radiant light for the spiritual elements.",
+        "Art_Genre": "Narrative painting, magical realism."
+      },
+      "Cultural_Anchors": [
+        "The urgency of practicing Aram (அறஞ்செய்க)",
+        "Virtue as an 'undying companion' (பொன்றாத் துணை)",
+        "The moment of death (பொன்றுங்கால்)"
+      ]
+    },
+    "Negative_Prompt": "procrastinating person, dead tree, fearful death, demonic figure, text artifacts, modern setting.",
+    "Hyperparameters": {
+      "variant": "pro",
+      "steps": 50,
+      "cfg_scale": 8,
+      "seed": "Explore designs for the luminous 'undying friend'."
+    }
+  }
+}

@@ -1,0 +1,38 @@
+{
+  "Kural_Info": {
+    "Number": 232,
+    "Chapter": "புகழ் (Renown)",
+    "Tamil_Text": "உரைப்பார் உரைப்பவை எல்லாம் இரப்பார்க்கொன்றுஈவார்மேல் நிற்கும் புகழ்.",
+    "English_Meaning": "Whatsoever is spoken in the world will abide as praise upon that man who gives alms to the poor."
+  },
+  "Flux_Optimized_Prompt": {
+    "Layered_Composition": {
+      "Foreground": "A charitable person is shown giving alms to a beggar ('இரப்பார்க்கு ஒன்று ஈவார்').",
+      "Midground": "All the words spoken by all the people in the world ('உரைப்பார் உரைப்பவை எல்லாம்') are visualized as a great river of speech, flowing through time and space.",
+      "Background": "This great river of all spoken words is shown to flow towards and ultimately come to rest upon the charitable person. All the speech of the world transforms into a permanent, monumental statue of Praise ('புகழ்') that stands forever over the giver."
+    },
+    "Art_Direction": {
+      "Subject_and_Action": "All the words spoken in the world ultimately converge and stand as a monument of praise to the one who gives to the needy.",
+      "Symbolic_Motifs": "The river of all speech is a powerful, epic metaphor. Its final destination and transformation into an eternal monument of praise for the charitable man is the key visual, showing that this is the ultimate subject of all discourse.",
+      "Mood_and_Emotion": "Eternal praise, ultimate subject, monumental, renowned.",
+      "Lighting_and_Color": "The river of speech is a vast, multi-colored stream. As it converges on the giver, it transforms into a brilliant, pure, white-gold light, forming the glorious statue of Praise.",
+      "Technical_Cues": {
+        "Camera": "An epic, high-angle shot that shows the vast river of all words flowing from the entire world and converging on the single, simple act of charity.",
+        "Resolution": "8K, hyper-realistic, with advanced particle and fluid effects for the river of speech.",
+        "Lighting": "The final statue of Praise is the brightest and most divine light source in the scene.",
+        "Art_Genre": "Epic surrealism, with mythological scope."
+      },
+      "Cultural_Anchors": [
+        "Praise will stand upon the giver (ஈவார் மேல் நிற்கும் புகழ்)",
+        "All that is spoken by speakers (உரைப்பார் உரைப்பவை எல்லாம்)"
+      ]
+    },
+    "Negative_Prompt": "river flowing away, text artifacts, sad giver.",
+    "Hyperparameters": {
+      "variant": "pro",
+      "steps": 55,
+      "cfg_scale": 9,
+      "seed": "Explore the visual of the 'river of all speech'."
+    }
+  }
+}

@@ -1,0 +1,39 @@
+{
+  "Kural_Info": {
+    "Number": 1321,
+    "Chapter": "ஊடலுவகை (The Pleasures of Temporary Variance)",
+    "Tamil_Text": "இல்லை தவறவர்க்கு ஆயினும் ஊடுதல்வல்லது அவர்அளிக்கு மாறு.",
+    "English_Meaning": "Although there be no fault in him, the sweetness of his love Hath power in me a fretful jealousy to move."
+  },
+  "Flux_Optimized_Prompt": {
+    "Layered_Composition": {
+      "Foreground": "A lover is shown showering his beloved with immense affection and grace ('அவர் அளிக்கும் ஆறு'). There is absolutely no fault in his actions ('தவறு இல்லை').",
+      "Midground": "Despite his perfect behavior, his very sweetness and love are so powerful ('வல்லது') that they paradoxically trigger a desire in her to start a playful lover's quarrel ('ஊடுதல்').",
+      "Background": "Her pouting is not a reaction to any wrongdoing, but is a reaction to the sheer intensity of his love. It is a playful way of engaging with and savoring his affection. The scene is one of a quarrel born from perfect love, not from conflict."
+    },
+    "Art_Direction": {
+      "Subject_and_Action": "Even when the lover is completely faultless, the very power and sweetness of his affection can be enough to inspire a playful pout in his beloved.",
+      "Symbolic_Motifs": "The man's love is visualized as a powerful, sweet, overwhelming wave of honey or light. The woman's pout is a playful, creative response to this overwhelming sweetness, a way to add a little 'salt' to the dish.",
+      "Mood_and_Emotion": "Playful, paradoxical, sweet, adoring.",
+      "Lighting_and_Color": "A warm, sweet, honey-golden light fills the scene, emanating from the man's affection. Her pout does not create darkness, but adds a charming, slightly piquant counterpoint to the overwhelming sweetness.",
+      "Technical_Cues": {
+        "Camera": "An intimate shot that captures the man's perfect love and her charming, paradoxical reaction to it.",
+        "Resolution": "8K, ultra-realistic, with a focus on the subtle, playful emotions.",
+        "Lighting": "Warm, sweet, and romantic lighting.",
+        "Art_Genre": "Romantic realism."
+      },
+      "Cultural_Anchors": [
+        "Even if he has no fault (இல்லை தவறு அவர்க்கு ஆயினும்)",
+        "Pouting has the power... (ஊடுதல் வல்லது...)",
+        "...in response to the way he gives his grace (அவர் அளிக்கும் ஆறு)"
+      ]
+    },
+    "Negative_Prompt": "man with faults, real anger, text artifacts.",
+    "Hyperparameters": {
+      "variant": "pro",
+      "steps": 50,
+      "cfg_scale": 7,
+      "seed": "Explore the visual of 'love as an overwhelming wave of honey'."
+    }
+  }
+}

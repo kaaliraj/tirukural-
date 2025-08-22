@@ -1,0 +1,40 @@
+{
+  "Kural_Info": {
+    "Number": 101,
+    "Chapter": "செய்ந்நன்றி அறிதல் (Gratitude)",
+    "Tamil_Text": "செய்யாமல் செய்த உதவிக்கு வையகமும்வானகமும் ஆற்றல் அரிது.",
+    "English_Meaning": "(The gift of) heaven and earth is not an equivalent for a benefit which is conferred where none had been received."
+  },
+  "Flux_Optimized_Prompt": {
+    "Layered_Composition": {
+      "Foreground": "A person is performing a pure, unsolicited act of kindness for another in a desolate landscape, representing a help done without any prior obligation ('செய்யாமல் செய்த உதவி').",
+      "Midground": "In response to this act, the entire Earth ('வையகம்') below them and the Heavens ('வானகம்') above them are shown trying to offer their greatest treasures in return. The Earth offers up gold and gems; the Heavens offer celestial crowns and glories.",
+      "Background": "A vast cosmic scale appears. On one side is the simple, unsolicited act of help. On the other side are all the treasures of Heaven and Earth. The scale tips heavily on the side of the simple act of help, showing that even the combined cosmos cannot repay its worth."
+    },
+    "Art_Direction": {
+      "Subject_and_Action": "The immeasurable, cosmic value of a spontaneous act of kindness done without any expectation or prior debt, which is shown to be greater than the value of Heaven and Earth combined.",
+      "Symbolic_Motifs": "The desolation of the landscape emphasizes the purity and necessity of the help. The personification of Heaven and Earth as active agents trying (and failing) to repay the debt is key. The cosmic scale provides the final, irrefutable judgment.",
+      "Mood_and_Emotion": "Immeasurable worth, priceless, profound, cosmic.",
+      "Lighting_and_Color": "The simple act of kindness in the foreground emits a pure, brilliant, white light that outshines the golden glow of the earthly and heavenly treasures.",
+      "Technical_Cues": {
+        "Camera": "Epic, ultra-wide shot that captures the human act and the cosmic reaction in a single, awe-inspiring frame.",
+        "Resolution": "8K, hyper-realistic, with grand, painterly depictions of the personified Heaven and Earth.",
+        "Lighting": "The primary light source is the act of kindness itself, which illuminates the entire cosmos.",
+        "Art_Genre": "Epic fantasy art, cosmic allegorical painting."
+      },
+      "Cultural_Anchors": [
+        "Unsolicited help (செய்யாமல் செய்த உதவி)",
+        "The Earth (வையகம்)",
+        "The Heavens (வானகம்)",
+        "The inability to repay (ஆற்றல் அரிது)"
+      ]
+    },
+    "Negative_Prompt": "help done for reward, balanced scales, small act, text artifacts, dark scene.",
+    "Hyperparameters": {
+      "variant": "pro",
+      "steps": 55,
+      "cfg_scale": 9,
+      "seed": "Explore the personification of 'Vaiyagam' and 'Vaanagam'."
+    }
+  }
+}

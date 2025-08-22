@@ -1,0 +1,39 @@
+{
+  "Kural_Info": {
+    "Number": 728,
+    "Chapter": "அவையஞ்சாமை (Not to dread the Council)",
+    "Tamil_Text": "பல்லவை கற்றும் பயமிலரே நல்லவையுள் நன்கு செலச்சொல்லா தார்.",
+    "English_Meaning": "Those who cannot agreeably speak good things before a good assembly are indeed unprofitable persons inspite of all their various acquirements."
+  },
+  "Flux_Optimized_Prompt": {
+    "Layered_Composition": {
+      "Foreground": "A person is shown having absorbed a vast amount of knowledge, represented by countless books and scrolls merging into their being ('பல்லவை கற்றும்'). Their mind is a brilliant, overflowing library.",
+      "Midground": "However, when they stand before a good and wise assembly ('நல்லவையுள்'), they are unable to speak effectively. Their mouth is sealed, and the brilliant knowledge within them has no way to come out and benefit others ('நன்கு செலச்சொல்லாதார்').",
+      "Background": "Because their knowledge remains trapped and useless, they are depicted as a barren tree, laden with beautiful, ripe fruit that no one can reach. They are ultimately without benefit ('பயமிலர்')."
+    },
+    "Art_Direction": {
+      "Subject_and_Action": "Even those who have learned many things are useless if they cannot communicate their knowledge well in a worthy assembly.",
+      "Symbolic_Motifs": "The mind as an overflowing library shows their learning. The sealed mouth shows their inability to communicate. The tree with unreachable fruit is a powerful metaphor for their uselessness to others.",
+      "Mood_and_Emotion": "Useless, futile, impotent, a waste of knowledge.",
+      "Lighting_and_Color": "The inner knowledge is brilliantly lit, but this light is trapped. The external scene in the assembly is one of awkward silence and failure. The lighting is frustrated and dim.",
+      "Technical_Cues": {
+        "Camera": "A shot that shows the internal richness and the external failure simultaneously, perhaps with a transparent effect.",
+        "Resolution": "8K, with a surreal and tragic feel.",
+        "Lighting": "Contrasting internal brightness with external dimness.",
+        "Art_Genre": "Symbolic surrealism."
+      }
+    },
+    "Cultural_Anchors": [
+      "Learned many things ('பல்லவை கற்றும்')",
+      "Cannot speak well in a good assembly ('நல்லவையுள் நன்கு செலச்சொல்லாதார்')",
+      "Being without benefit ('பயமிலர்')"
+    ]
+  },
+  "Negative_Prompt": "person speaking eloquently, audience learning, text on books, cartoonish.",
+  "Hyperparameters": {
+    "variant": "pro",
+    "steps": 50,
+    "cfg_scale": 8,
+    "seed": "Explore variations for the tree with unreachable fruit."
+  }
+}

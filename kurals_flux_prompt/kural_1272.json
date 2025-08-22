@@ -1,0 +1,33 @@
+{
+  "Kural_Info": {
+    "Number": 1272,
+    "Chapter": "குறிப்பறிவுறுத்தல் (The Reading of the Signs)",
+    "Tamil_Text": "கண்ணிறைந்த காரிகைக் காம்பேர்தோட் பேதைக்குப்பெண்நிறைந்த நீர்மை பெரிது.",
+    "English_Meaning": "The simple one whose beauty fills mine eye, whose shoulders curve Like bambu stem, hath all a woman's modest sweet reserve."
+  },
+  "Flux_Optimized_Prompt": {
+    "Layered_Composition": {
+      "Foreground": "A beautiful young woman ('Kaarigai') stands with a simple and innocent expression ('Pethaikku'). Her beauty is described as filling the viewer's eyes ('Kanniraintha').",
+      "Midground": "The focus is on two qualities: her shoulders are as graceful and strong as bamboo ('Kaamper thol'), but her defining characteristic is an abundance of feminine modesty and reserve ('Penniraintha Neermai Perithu'). This reserve is visualized as a soft, protective aura of gentle light around her.",
+      "Background": "A serene, natural setting, perhaps near a bamboo grove, that complements her natural beauty and graceful strength."
+    },
+    "Art_Direction": {
+      "Subject_and_Action": "A lover's admiration for his beloved, noting that beyond her stunning beauty and graceful form, her greatest quality is her immense and perfect feminine modesty.",
+      "Symbolic_Motifs": "The bamboo-like shoulders for grace and form. The soft, glowing aura represents her abundant modesty and reserve.",
+      "Mood_and_Emotion": "Admiring, respectful, a celebration of modest beauty.",
+      "Lighting_and_Color": "Soft, natural, flattering light. The palette is gentle and natural, with soft greens of the bamboo and the warm, healthy tones of her skin. Her aura is a soft, pearly white."
+    },
+    "Technical_Cues": {
+      "Camera": "A full-length portrait shot that captures her form and her modest demeanor.",
+      "Resolution": "8K, photorealistic, with a painterly quality that idealizes her beauty.",
+      "Lighting": "Softbox lighting to create a gentle, flattering portrait with minimal shadows.",
+      "Art_Genre": "Classical romantic portraiture."
+    },
+    "Cultural_Anchors": [
+      "காம்பு ஏர் தோள் (Bamboo-like beautiful shoulders)",
+      "பெண் நிறைந்த நீர்மை (Abundant feminine modesty/reserve)",
+      "The ideal of modest beauty"
+    ]
+  },
+  "Negative_Prompt": "an immodest pose, a city background, harsh lighting, text artifacts, cartoonish."
+}

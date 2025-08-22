@@ -1,0 +1,38 @@
+{
+  "Kural_Info": {
+    "Number": 308,
+    "Chapter": "வெகுளாமை (Restraining Anger)",
+    "Tamil_Text": "இணர்எரி தோய்வன்ன இன்னா செயினும்புணரின் வெகுளாமை நன்று.",
+    "English_Meaning": "Though men should work thee woe, like touch of tongues of fire, 'Tis well if thou canst save thy soul from burning ire."
+  },
+  "Flux_Optimized_Prompt": {
+    "Layered_Composition": {
+      "Foreground": "A person is being subjected to a terrible injury. The pain is visualized as a host of fiery serpents or tongues of fire ('இணர் எரி') repeatedly striking and burning them.",
+      "Midground": "Despite this extreme provocation and pain, the person is shown making a supreme effort of will.",
+      "Background": "They are successfully preventing their own heart from catching fire. While their body is being burned by the external attack, their heart remains cool, calm, and free from the fire of anger ('வெகுளாமை'). This act of keeping their own anger at bay, even under torture, is shown to be a great good ('நன்று')."
+    },
+    "Art_Direction": {
+      "Subject_and_Action": "Even if others inflict a pain upon you as terrible as being licked by many flames, the greatest good is to prevent your own soul from catching fire with retaliatory anger.",
+      "Symbolic_Motifs": "The key is the distinction between the external fire of the attack and the internal fire of anger. The person cannot stop the first, but their true victory is in preventing the second. Their inner coolness is a powerful shield against the outer heat.",
+      "Mood_and_Emotion": "Supreme self-control, enduring, resilient, cool amidst fire.",
+      "Lighting_and_Color": "The scene is a dramatic battle of temperatures and colors. The attacking tongues of fire are a chaotic, violent orange and red. The person's inner self-control is a calm, serene, and powerful cool blue light that refuses to be inflamed.",
+      "Technical_Cues": {
+        "Camera": "An intense close-up on the person, showing them enduring the external flames while a symbolic view of their heart shows it remaining cool and un-burnt.",
+        "Resolution": "8K, ultra-realistic, with advanced fire effects contrasted with a cool, serene energy effect.",
+        "Lighting": "A dramatic clash between the hot, external fire and the cool, internal light of self-control.",
+        "Art_Genre": "High fantasy art, symbolic portraiture."
+      },
+      "Cultural_Anchors": [
+        "Even if they do you harm like many touching fires (இணர் எரி தோய்வன்ன இன்னா செயினும்)",
+        "It is good to not be angry (வெகுளாமை நன்று)"
+      ]
+    },
+    "Negative_Prompt": "person bursting into flames, happy attacker, text artifacts.",
+    "Hyperparameters": {
+      "variant": "pro",
+      "steps": 55,
+      "cfg_scale": 9,
+      "seed": "Explore the visual of the 'heart remaining cool'."
+    }
+  }
+}

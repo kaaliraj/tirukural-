@@ -1,0 +1,39 @@
+{
+  "Kural_Info": {
+    "Number": 82,
+    "Chapter": "விருந்தோம்பல் (Hospitality)",
+    "Tamil_Text": "விருந்து புறத்ததாத் தானுண்டல் சாவாமருந்தெனினும் வேண்டற்பாற் றன்று.",
+    "English_Meaning": "It is not fit that one should wish his guests to be outside (his house) even though he were eating the food of immortality."
+  },
+  "Flux_Optimized_Prompt": {
+    "Layered_Composition": {
+      "Foreground": "A person sits alone inside their home at a table, holding a glowing, golden chalice containing the nectar of immortality ('சாவா மருந்து'). Their expression is one of guilt and shame.",
+      "Midground": "Through a window or open doorway, a weary guest ('விருந்து') is clearly visible, standing outside ('புறத்ததா'), looking tired and hungry.",
+      "Background": "The home, despite containing the divine nectar, feels cold and dark. The act of exclusion has nullified the blessing of the immortal food."
+    },
+    "Art_Direction": {
+      "Subject_and_Action": "The abhorrent act of eating alone while a guest remains outside, emphasizing that even the food of immortality is tainted and undesirable under such circumstances.",
+      "Symbolic_Motifs": "The divine nectar glows, but it does not cast a warm light on the person consuming it. A shadow of shame falls over the host, even in their own home. The guest outside is depicted with dignity, their need highlighting the host's moral failure.",
+      "Mood_and_Emotion": "Shameful, abhorrent, inhospitable, morally wrong.",
+      "Lighting_and_Color": "A cold, high-contrast light inside the house, with the glowing nectar creating harsh, unflattering highlights. The outside world where the guest stands is in a more natural, sympathetic light.",
+      "Technical_Cues": {
+        "Camera": "A shot from over the guest's shoulder, looking in at the selfish host, framing the scene from a moral perspective.",
+        "Resolution": "8K, ultra-realistic, focusing on the host's shameful expression and the guest's weary dignity.",
+        "Lighting": "Dramatic chiaroscuro to emphasize the moral darkness of the act.",
+        "Art_Genre": "Moralistic painting, historical realism."
+      },
+      "Cultural_Anchors": [
+        "The guest outside (விருந்து புறத்ததா)",
+        "The food of immortality (சாவா மருந்து)",
+        "The absolute priority of hospitality"
+      ]
+    },
+    "Negative_Prompt": "happy host, host sharing food, no guest visible, text artifacts, smiling host.",
+    "Hyperparameters": {
+      "variant": "pro",
+      "steps": 50,
+      "cfg_scale": 9,
+      "seed": "Explore the contrast between the glowing nectar and the shameful host."
+    }
+  }
+}

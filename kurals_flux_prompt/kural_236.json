@@ -1,0 +1,38 @@
+{
+  "Kural_Info": {
+    "Number": 236,
+    "Chapter": "புகழ் (Renown)",
+    "Tamil_Text": "தோன்றின் புகழொடு தோன்றுக அஃதிலார்தோன்றலின் தோன்றாமை நன்று.",
+    "English_Meaning": "If you are born (in this world), be born with qualities conductive to fame. From those who are destitute of them it will be better not to be born."
+  },
+  "Flux_Optimized_Prompt": {
+    "Layered_Composition": {
+      "Foreground": "A stark choice at the moment of birth is visualized.",
+      "Midground": "On the right, a soul is choosing to be born. It is born accompanied by a brilliant, radiant aura of potential for Fame and Glory ('புகழொடு தோன்றுக'). This is the 'good' birth.",
+      "Background": "On the left, another soul is shown, which lacks this potential for fame ('அஃதிலார்'). Seeing that it cannot be born with glory, this soul chooses not to be born at all ('தோன்றாமை'). It remains as a pure, unborn spirit. This choice is presented as being 'better' ('நன்று')."
+    },
+    "Art_Direction": {
+      "Subject_and_Action": "A stark injunction: either be born with the potential for glorious fame, or it is better not to be born at all.",
+      "Symbolic_Motifs": "The choice at the moment of birth is the central theme. The aura of potential fame is the key quality. The soul that chooses not to be born is not tragic, but wise, choosing non-existence over an inglorious one.",
+      "Mood_and_Emotion": "Absolute, demanding, all-or-nothing.",
+      "Lighting_and_Color": "The 'birth with fame' is an explosion of brilliant, golden light. The state of 'not being born' is a serene, peaceful, pure white void. Both are presented as superior to a dim, inglorious life.",
+      "Technical_Cues": {
+        "Camera": "A cosmic, split-screen shot of the two souls at the threshold of existence, making their different, profound choices.",
+        "Resolution": "8K, ultra-realistic, with powerful ethereal effects for the souls and the aura of fame.",
+        "Lighting": "High-contrast, symbolic lighting.",
+        "Art_Genre": "Cosmic art, with a philosophical theme."
+      },
+      "Cultural_Anchors": [
+        "If you are born, be born with fame (தோன்றின் புகழொடு தோன்றுக)",
+        "For those without it, not being born is better (அஃதிலார் தோன்றலின் தோன்றாமை நன்று)"
+      ]
+    },
+    "Negative_Prompt": "happy person born without fame, text artifacts.",
+    "Hyperparameters": {
+      "variant": "pro",
+      "steps": 55,
+      "cfg_scale": 9,
+      "seed": "Explore the visual of the 'threshold of existence'."
+    }
+  }
+}

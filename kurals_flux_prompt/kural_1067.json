@@ -1,0 +1,39 @@
+{
+  "Kural_Info": {
+    "Number": 1067,
+    "Chapter": "இரவச்சம் (The Dread of Mendicancy)",
+    "Tamil_Text": "இரப்பன் இரப்பாரை எல்லாம் இரப்பின்கரப்பார் இரவன்மின் என்று.",
+    "English_Meaning": "I beseech all beggars and say, \"If you need to beg, never beg of those who give unwillingly\"."
+  },
+  "Flux_Optimized_Prompt": {
+    "Layered_Composition": {
+      "Foreground": "The poet Thiruvalluvar, or a similar sagely figure, is shown in the posture of a beggar, but he is not begging for himself. He is begging to all other beggars ('இரப்பன் இரப்பாரை எல்லாம்').",
+      "Midground": "His plea is visualized: he is pointing towards a mean-spirited, wealthy man who hides his wealth and gives unwillingly ('கரப்பார்'). This unwilling giver is surrounded by a cold, dark aura of refusal.",
+      "Background": "The sage is imploring the other beggars to turn away from this cold source and not to debase themselves by asking where there is no grace. The message is, 'Do not beg from them!' ('இரவன்மின்')."
+    },
+    "Art_Direction": {
+      "Subject_and_Action": "A meta-plea, where the ultimate wise man takes on the role of a beggar to beg other beggars not to subject themselves to the humiliation of asking from those who are close-fisted.",
+      "Symbolic_Motifs": "The sage as a beggar is a powerful, ironic image. The cold aura around the unwilling giver makes their nature visible. The act is one of guidance and compassion for fellow sufferers.",
+      "Mood_and_Emotion": "Compassionate, guiding, warning, dignified.",
+      "Lighting_and_Color": "The sage is lit with a warm, compassionate light, even in his beggar's pose. The unwilling giver is shrouded in a cold, dark, and selfish shadow.",
+      "Technical_Cues": {
+        "Camera": "A shot that captures the sage's earnest plea, the group of beggars he is addressing, and the cold, forbidding figure of the one they should not approach.",
+        "Resolution": "8K, ultra-realistic, with strong emotional expressions.",
+        "Lighting": "Contrasting light to show the warmth of the sage's advice versus the coldness of the unwilling giver.",
+        "Art_Genre": "Narrative realism, historical painting."
+      },
+      "Cultural_Anchors": [
+        "I beg the beggars (இரப்பன் இரப்பாரை)",
+        "Those who hide/give unwillingly (கரப்பார்)",
+        "Do not beg (from them) (இரவன்மின்)"
+      ]
+    },
+    "Negative_Prompt": "sage begging for himself, happy beggars approaching the rich man, text artifacts.",
+    "Hyperparameters": {
+      "variant": "dev",
+      "steps": 45,
+      "cfg_scale": 8,
+      "seed": "Explore the posture and expression of the sage as he begs the beggars."
+    }
+  }
+}

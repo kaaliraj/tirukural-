@@ -1,0 +1,39 @@
+{
+  "Kural_Info": {
+    "Number": 10,
+    "Chapter": "கடவுள் வாழ்த்து (The Praise of God)",
+    "Tamil_Text": "பிறவிப் பெருங்கடல் நீந்துவர் நீந்தார்இறைவன் அடிசேரா தார்.",
+    "English_Meaning": "They can swim the great sea of births; the others cannot, who do not reach the feet of God."
+  },
+  "Flux_Optimized_Prompt": {
+    "Layered_Composition": {
+      "Foreground": "A vast ocean at twilight, representing the 'great sea of births' ('Piravi Perunkadal'). A person is seen sinking helplessly into the dark, cold depths, their face a mask of struggle.",
+      "Midground": "In sharp contrast, another person is walking effortlessly across the surface of the same ocean. Their feet are touching luminous, golden lotuses that bloom on the water's surface with every step they take.",
+      "Background": "The path of glowing lotuses leads towards a radiant shore in the deep background, where a brilliant, divine light emanates from a single point, representing the feet of God ('Iraivan Adi')."
+    },
+    "Art_Direction": {
+      "Subject_and_Action": "A clear depiction of the two possible fates in the sea of existence: to sink without divine aid, or to transcend it by taking refuge in the divine.",
+      "Symbolic_Motifs": "The sinking person is entangled in seaweed, symbolizing worldly attachments. The walking person is unburdened, their path illuminated. The divine light on the shore is the ultimate source of the lotuses on the water.",
+      "Mood_and_Emotion": "Urgent and final; a clear choice between struggle and serene transcendence.",
+      "Lighting_and_Color": "The water around the sinking person is nearly black, lit only by cold moonlight. The path of the walker is a river of warm, golden light on the water, creating a powerful visual divide across the scene."
+    },
+    "Technical_Cues": {
+      "Camera": "Low-angle wide shot from the water's surface, creating an immersive and dramatic perspective.",
+      "Resolution": "8K, ultra-realistic water physics and human expressions, with mystical painterly effects for the light and lotuses.",
+      "Lighting": "Dramatic contrast between cold, natural moonlight and warm, divine, self-illuminating light sources.",
+      "Art_Genre": "Photorealistic fantasy art with strong symbolic elements."
+    },
+    "Cultural_Anchors": [
+      "Metaphor of 'Piravi Perunkadal' (the great sea of births)",
+      "Attaining the feet of God ('Iraivan Adi Serthal')",
+      "Lotus as a symbol of divine progress"
+    ]
+  },
+  "Negative_Prompt": "sinking person is smiling, both figures walking, deformed limbs, text artifacts, daytime scene, cartoonish lotuses, non-Tamil physiognomy.",
+  "Hyperparameters": {
+    "variant": "pro",
+    "steps": 45,
+    "cfg_scale": 8,
+    "seed": "Explore variations for the glow on the water's surface."
+  }
+}

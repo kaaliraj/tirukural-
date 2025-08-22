@@ -1,0 +1,39 @@
+{
+  "Kural_Info": {
+    "Number": 119,
+    "Chapter": "நடுவு நிலைமை (Impartiality)",
+    "Tamil_Text": "சொற்கோட்டம் இல்லது செப்பம் ஒருதலையாஉட்கோட்டம் இன்மை பெறின்.",
+    "English_Meaning": "Freedom from obliquity of speech is rectitude, if there be (corresponding) freedom from bias of mind."
+  },
+  "Flux_Optimized_Prompt": {
+    "Layered_Composition": {
+      "Foreground": "A person is speaking. Their words ('சொல்') are visualized as perfectly straight, crystalline arrows flying true to their mark.",
+      "Midground": "A transparent view into the person's mind ('உள்') reveals the source: their heart and mind are perfectly aligned, a straight, unwavering column of pure light, with no crookedness or bias ('உட்கோட்டம் இன்மை').",
+      "Background": "The straight words and the straight mind are shown as two parts of a single, unified phenomenon, which is defined as Rectitude ('செப்பம்')."
+    },
+    "Art_Direction": {
+      "Subject_and_Action": "True rectitude is when unbiased speech is born from an unbiased mind. The straightness of the word is only possible if the thought behind it is also straight.",
+      "Symbolic_Motifs": "The concept of 'Kottam' (crookedness) vs. 'Seppam' (straightness/rectitude) is visualized literally. The straightness of the mind-column directly causes the straightness of the word-arrows. If the mind-column were bent, the arrows would also fly crooked.",
+      "Mood_and_Emotion": "Straightforward, true, unbiased, pure, aligned.",
+      "Lighting_and_Color": "A pure, clear, white light illuminates the scene, originating from the column of the unbiased mind. The crystalline word-arrows refract this light beautifully.",
+      "Technical_Cues": {
+        "Camera": "A profile shot that allows for a clear view of the person, the internal state of their mind, and the external path of their words.",
+        "Resolution": "8K, hyper-realistic, with advanced light and transparency effects.",
+        "Lighting": "Internal, pure light source.",
+        "Art_Genre": "Symbolic conceptual art."
+      },
+      "Cultural_Anchors": [
+        "Straightness/Rectitude (செப்பம்)",
+        "Crookedness of speech (சொற்கோட்டம்)",
+        "Crookedness of mind (உட்கோட்டம்)"
+      ]
+    },
+    "Negative_Prompt": "crooked arrows, bent mind-column, text artifacts, dark light.",
+    "Hyperparameters": {
+      "variant": "dev",
+      "steps": 45,
+      "cfg_scale": 8,
+      "seed": "Explore the visual of 'straight words' as crystalline arrows."
+    }
+  }
+}

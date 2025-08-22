@@ -1,0 +1,39 @@
+{
+  "Kural_Info": {
+    "Number": 1128,
+    "Chapter": "காதற்சிறப்புரைத்தல் (Declaration of Love's special Excellence)",
+    "Tamil_Text": "நெஞ்சத்தார் காத லவராக வெய்துண்டல்அஞ்சுதும் வேபாக் கறிந்து.",
+    "English_Meaning": "Fearing it will burn him, I eat not anything hot, for my lover is in my heart."
+  },
+  "Flux_Optimized_Prompt": {
+    "Layered_Composition": {
+      "Foreground": "A woman is sitting before a bowl of hot, steaming food ('வெய்து').",
+      "Midground": "A transparent view shows that her lover resides peacefully within her heart ('நெஞ்சத்தார் காத லவராக').",
+      "Background": "She is shown pushing the hot food away, refusing to eat it ('அஞ்சுதும்'). Her reason is visualized with a gentle, humorous horror: she fears that the heat from the food will travel to her heart and burn the beloved who resides there ('வேபாக்கு அறிந்து')."
+    },
+    "Art_Direction": {
+      "Subject_and_Action": "The beloved refuses to eat hot food out of a loving fear that its heat will burn her lover, who resides in her heart.",
+      "Symbolic_Motifs": "The fear of burning the lover in her heart is a charming and extreme expression of her constant awareness of his inner presence. The heat from the food is shown as a potential threat to him.",
+      "Mood_and_Emotion": "Adoring, caring, protective, charmingly hyperbolic.",
+      "Lighting_and_Color": "A warm, domestic light. The food is steaming, clearly hot. The image of the lover in her heart is peaceful and serene. Her expression is one of genuine, loving concern.",
+      "Technical_Cues": {
+        "Camera": "A symbolic shot that shows the woman, the hot food, and a transparent view of her heart, making the reason for her refusal clear.",
+        "Resolution": "8K, ultra-realistic, with a focus on her expression of tender concern.",
+        "Lighting": "Warm, intimate lighting.",
+        "Art_Genre": "Romantic realism, with a symbolic overlay."
+      },
+      "Cultural_Anchors": [
+        "My lover is in my heart (நெஞ்சத்தார் காதலவராக)",
+        "I fear to eat hot things (வெய்துண்டல் அஞ்சுதும்)",
+        "Knowing it will burn him (வேபாக்கு அறிந்து)"
+      ]
+    },
+    "Negative_Prompt": "woman eating the hot food, lover looking burned, text artifacts.",
+    "Hyperparameters": {
+      "variant": "dev",
+      "steps": 45,
+      "cfg_scale": 7,
+      "seed": "Explore the visual of her 'fear of burning him'."
+    }
+  }
+}

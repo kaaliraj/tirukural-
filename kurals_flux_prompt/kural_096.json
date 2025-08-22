@@ -1,0 +1,39 @@
+{
+  "Kural_Info": {
+    "Number": 96,
+    "Chapter": "இனியவை கூறல் (The Utterance of Pleasant Words)",
+    "Tamil_Text": "அல்லவை தேய அறம்பெருகும் நல்லவைநாடி இனிய சொலின்.",
+    "English_Meaning": "If a man, while seeking to speak usefully, speaks also sweetly, his sins will diminish and his virtue increase."
+  },
+  "Flux_Optimized_Prompt": {
+    "Layered_Composition": {
+      "Foreground": "A person is speaking. Their words are visualized as a stream of golden particles of light, representing sweet and good speech ('இனிய சொலின்', 'நல்லவை நாடி').",
+      "Midground": "This stream of light has a dual effect. On one side, it flows over a patch of dark, thorny weeds representing 'vices' ('அல்லவை'), causing them to wither and fade away ('தேய'). On the other side, it flows over a small, tender sapling representing 'virtue' ('அறம்'), causing it to grow rapidly and flourish ('பெருகும்').",
+      "Background": "A balanced, serene landscape, suggesting the inner equilibrium achieved through this kind of speech."
+    },
+    "Art_Direction": {
+      "Subject_and_Action": "The act of speaking sweet and good words has a powerful, transformative effect: it simultaneously causes one's vices to diminish and one's virtues to grow.",
+      "Symbolic_Motifs": "The duality of the speech's effect is the key visual. The golden light of the words acts as both a purifying agent that destroys evil and a nurturing agent that cultivates good.",
+      "Mood_and_Emotion": "Transformative, purifying, nurturing, powerful speech.",
+      "Lighting_and_Color": "The central stream of golden speech is the main light source. It casts a destructive, fading light on the dark thorns and a life-giving, vibrant light on the green sapling.",
+      "Technical_Cues": {
+        "Camera": "A wide shot that captures the speaker and the full transformative effect of their words on the symbolic landscape of their soul.",
+        "Resolution": "8K, ultra-realistic, with magical particle effects for the speech and time-lapse effects for the withering thorns and growing tree.",
+        "Lighting": "Symbolic lighting that clearly shows the dual destructive/creative power of the spoken words.",
+        "Art_Genre": "Symbolic fantasy art, allegorical landscape."
+      },
+      "Cultural_Anchors": [
+        "Vices diminishing (அல்லவை தேய)",
+        "Virtue increasing (அறம் பெருகும்)",
+        "Seeking the good and speaking sweetly (நல்லவை நாடி இனிய சொலின்)"
+      ]
+    },
+    "Negative_Prompt": "words having no effect, thorns growing, tree dying, text artifacts, dark speech.",
+    "Hyperparameters": {
+      "variant": "pro",
+      "steps": 50,
+      "cfg_scale": 8,
+      "seed": "Explore the visual effect of the withering thorns and the growing sapling."
+    }
+  }
+}

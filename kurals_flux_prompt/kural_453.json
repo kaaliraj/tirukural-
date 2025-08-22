@@ -1,0 +1,39 @@
+{
+  "Kural_Info": {
+    "Number": 453,
+    "Chapter": "சிற்றினஞ்சேராமை (Avoiding mean Associations)",
+    "Tamil_Text": "மனத்தானாம் மாந்தர்க் குணர்ச்சி இனத்தானாம் இன்னான் எனப்படுஞ் சொல்.",
+    "English_Meaning": "The power of knowing is from the mind; (but) his character is from that of his associates."
+  },
+  "Flux_Optimized_Prompt": {
+    "Layered_Composition": {
+      "Foreground": "A central human figure is depicted with a glowing, intricate brain or mind, symbolizing their innate consciousness and perception ('மனத்தான் உணர்ச்சி').",
+      "Midground": "However, the 'label' or 'reputation' of this person is not determined by their mind, but by the company they keep. On their left, a group of virtuous, noble figures stand, and the label 'நல்லவர்' (Good Person) is projected onto the central figure. On their right, a group of base, shadowy figures stand, and the label 'தீயவர்' (Evil Person) is projected instead.",
+      "Background": "A neutral, social setting, emphasizing that this is about public perception and reputation."
+    },
+    "Art_Direction": {
+      "Subject_and_Action": "A person's inner consciousness comes from their own mind, but their reputation and how they are identified by the world comes from the company they keep.",
+      "Symbolic_Motifs": "The glowing mind represents internal consciousness. The projected labels, which change based on the surrounding group, represent external reputation ('இன்னான் எனப்படுஞ்சொல்').",
+      "Mood_and_Emotion": "Reputational, social, cautionary, discerning.",
+      "Lighting_and_Color": "The central figure is neutrally lit. The virtuous group has a gentle, positive glow. The base group is surrounded by shadows. The projected labels are clear and easy to read."
+    },
+    "Technical_Cues": {
+      "Camera": "A centered portrait shot, clearly showing the central figure and the two groups on either side influencing their reputation.",
+      "Resolution": "8K, with clear, readable text effects for the symbolic labels.",
+      "Lighting": "Symbolic lighting to differentiate the moral quality of the two groups.",
+      "Art_Genre": "Conceptual art, symbolic illustration."
+    },
+    "Cultural_Anchors": [
+      "Consciousness from the mind ('மனத்தான் உணர்ச்சி')",
+      "Reputation from company ('இனத்தான் இன்னான் எனப்படுஞ்சொல்')",
+      "The distinction between inner self and social identity."
+    ]
+  },
+  "Negative_Prompt": "blurry figures, no labels, person changing their inner mind, text artifacts.",
+  "Hyperparameters": {
+    "variant": "dev",
+    "steps": 40,
+    "cfg_scale": 8,
+    "seed": "Explore variations for the style of the projected labels."
+  }
+}

@@ -1,0 +1,39 @@
+{
+  "Kural_Info": {
+    "Number": 919,
+    "Chapter": "வரைவின்மகளிர் (Wanton Women)",
+    "Tamil_Text": "வரைவிலா மாணிழையார் மென்றோள் புரையிலாப் பூரியர்கள் ஆழும் அளறு.",
+    "English_Meaning": "The delicate shoulders of prostitutes with excellent jewels are a hell into which are plunged the ignorant base"
+  },
+  "Flux_Optimized_Prompt": {
+    "Layered_Composition": {
+      "Foreground": "The beautiful, soft, bejeweled shoulders ('மாணிழையார் மென்றோள்') of a courtesan are shown. They appear inviting and luxurious.",
+      "Midground": "However, these beautiful shoulders are revealed to be the deceptive, soft upper edge of a terrifying, deep, dark pit or hell ('அளறு').",
+      "Background": "Ignorant, base men ('புரையிலாப் பூரியர்கள்'), attracted by the beauty of the shoulders, are shown blindly walking towards them and plunging into the abyss of ruin. It is a beautiful trap."
+    },
+    "Art_Direction": {
+      "Subject_and_Action": "The soft shoulders of a bejeweled prostitute are a beautiful facade for the hell into which the ignorant and base will fall.",
+      "Symbolic_Motifs": "The shoulders as the beautiful, inviting rim of a hellish pit is the central, powerful metaphor. The men falling into this pit show the consequences.",
+      "Mood_and_Emotion": "Deceptive, a beautiful trap, ruinous, hellish.",
+      "Lighting_and_Color": "The shoulders are lit with a soft, warm, seductive light. The pit below is an absolute, terrifying darkness, perhaps with a faint, hellish red glow from within.",
+      "Technical_Cues": {
+        "Camera": "A shot that starts as a beautiful, sensual close-up on the shoulders and then pulls back to reveal the terrifying pit they belong to.",
+        "Resolution": "8K, with a strong, shocking reveal.",
+        "Lighting": "High-contrast, deceptive lighting.",
+        "Art_Genre": "Dark fantasy, surreal horror."
+      },
+      "Cultural_Anchors": [
+        "The soft shoulders of the bejeweled courtesan",
+        "A hell ('அளறு')",
+        "Into which the ignorant base will fall ('பூரியர்கள் ஆழும்')."
+      ]
+    },
+    "Negative_Prompt": "a safe embrace, happy men, text artifacts, cartoonish.",
+    "Hyperparameters": {
+      "variant": "pro",
+      "steps": 50,
+      "cfg_scale": 9,
+      "seed": "Explore variations for the hell-pit."
+    }
+  }
+}

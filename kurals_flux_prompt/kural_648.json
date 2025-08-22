@@ -1,0 +1,39 @@
+{
+  "Kural_Info": {
+    "Number": 648,
+    "Chapter": "சொல்வன்மை (Power of Speech)",
+    "Tamil_Text": "விரைந்து தொழில்கேட்கும் ஞாலம் நிரந்தினிது சொல்லுதல் வல்லார்ப் பெறின்.",
+    "English_Meaning": "If there be those who can speak on various subjects in their proper order and in a pleasing manner, the world would readily accept them."
+  },
+  "Flux_Optimized_Prompt": {
+    "Layered_Composition": {
+      "Foreground": "An eloquent speaker ('வல்லார்') is addressing the world.",
+      "Midground": "Their words are visualized not as sound, but as perfectly ordered, beautifully crafted, glowing gears and mechanisms that flow from their mouth. This represents speaking in a well-ordered and pleasing manner ('நிரந்தினிது சொல்லுதல்').",
+      "Background": "The world ('ஞாலம்'), personified as a giant, slumbering titan, is awakened by these words. Hearing the clear and effective speech, the titan immediately rises and gets to work with speed and eagerness ('விரைந்து தொழில் கேட்கும்'), turning the gears of progress."
+    },
+    "Art_Direction": {
+      "Subject_and_Action": "The world itself will swiftly listen and act upon the words of those who can speak in a well-ordered and pleasing way.",
+      "Symbolic_Motifs": "The words as perfectly crafted, interlocking gears represent ordered and effective speech. The giant titan of the World awakening and setting to work is a powerful metaphor for the world's immediate and positive response.",
+      "Mood_and_Emotion": "Inspiring, effective, activating, world-changing.",
+      "Lighting_and_Color": "A bright, constructive light. The glowing gears are a beautiful, intricate gold. The awakened titan of the World is a figure of immense power and potential.",
+      "Technical_Cues": {
+        "Camera": "An epic, wide shot that captures the speaker, the flow of 'word-gears', and the massive titan of the World rising to act.",
+        "Resolution": "8K, cinematic, with a grand scale.",
+        "Lighting": "Bright, motivational lighting.",
+        "Art_Genre": "Epic fantasy art, with steampunk elements for the gears."
+      }
+    },
+    "Cultural_Anchors": [
+      "Well-ordered and pleasing speech ('நிரந்தினிது சொல்லுதல்')",
+      "The World swiftly acts ('விரைந்து தொழில் கேட்கும் ஞாலம்')",
+      "The power of oratory to inspire action."
+    ]
+  },
+  "Negative_Prompt": "titan sleeping, broken gears, boring speaker, text artifacts.",
+  "Hyperparameters": {
+    "variant": "pro",
+    "steps": 50,
+    "cfg_scale": 8,
+    "seed": "Explore variations for the design of the Titan of the World."
+  }
+}

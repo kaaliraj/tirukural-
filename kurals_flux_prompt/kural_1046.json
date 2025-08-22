@@ -1,0 +1,39 @@
+{
+  "Kural_Info": {
+    "Number": 1046,
+    "Chapter": "நல்குரவு (Poverty)",
+    "Tamil_Text": "நற்பொருள் நன்குணர்ந்து சொல்லினும் நல்கூர்ந்தார்சொற்பொருள் சோர்வு படும்.",
+    "English_Meaning": "The words of the poor are profitless, though they may be sound in thought and clear in expression."
+  },
+  "Flux_Optimized_Prompt": {
+    "Layered_Composition": {
+      "Foreground": "A poor but wise man ('நல்கூர்ந்தார்') is speaking. His words are full of good and well-understood meaning ('நற்பொருள் நன்கு உணர்ந்து'). They are visualized as perfectly formed, glowing, golden arrows of wisdom.",
+      "Midground": "These arrows fly towards an audience. However, because the speaker is poor, a grey, spectral wall of 'Poverty' stands between him and his listeners.",
+      "Background": "As the golden arrows of his wise words strike the wall of his poverty, they lose all their force and power. They fall weakly to the ground, their meaning and impact completely lost ('சொல் பொருள் சோர்வு படும்'). The audience is unmoved, unable to receive the wisdom because of the speaker's status."
+    },
+    "Art_Direction": {
+      "Subject_and_Action": "Even when a poor person speaks words of great wisdom, the meaning and power of those words are lost and become ineffective because of the speaker's poverty.",
+      "Symbolic_Motifs": "The wall of poverty that blocks the power of words is the central metaphor. The words themselves are perfect, but their context renders them impotent. The arrows falling uselessly to the ground is a powerful image of failed communication.",
+      "Mood_and_Emotion": "Ineffective, unheard, tragic, frustrating.",
+      "Lighting_and_Color": "The words of wisdom are a brilliant, pure gold. The wall of poverty is a dull, energy-absorbing grey. The scene is one of brilliant potential being nullified by a bleak reality.",
+      "Technical_Cues": {
+        "Camera": "A shot that follows the trajectory of the golden arrows, showing their initial power and their ultimate, pathetic failure as they hit the wall.",
+        "Resolution": "8K, ultra-realistic, with strong symbolic effects for the words and the wall.",
+        "Lighting": "The brilliant light of the words is shown being extinguished by the dull grey wall.",
+        "Art_Genre": "Symbolic realism."
+      },
+      "Cultural_Anchors": [
+        "The words of the poor (நல்கூர்ந்தார் சொல்)",
+        "Their meaning will fail (பொருள் சோர்வு படும்)",
+        "Even if they speak good things well understood (நற்பொருள் நன்கு உணர்ந்து சொல்லினும்)"
+      ]
+    },
+    "Negative_Prompt": "audience accepting the words, strong arrows, text artifacts.",
+    "Hyperparameters": {
+      "variant": "pro",
+      "steps": 50,
+      "cfg_scale": 8,
+      "seed": "Explore the visual of the 'wall of poverty'."
+    }
+  }
+}

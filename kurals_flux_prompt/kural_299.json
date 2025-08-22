@@ -1,0 +1,38 @@
+{
+  "Kural_Info": {
+    "Number": 299,
+    "Chapter": "வாய்மை (Veracity)",
+    "Tamil_Text": "எல்லா விளக்கும் விளக்கல்ல சான்றோர்க்குப்பொய்யா விளக்கே விளக்கு.",
+    "English_Meaning": "All lamps of nature are not lamps; the lamp of truth is the lamp of the wise."
+  },
+  "Flux_Optimized_Prompt": {
+    "Layered_Composition": {
+      "Foreground": "A wise sage ('சான்றோர்') is shown in a dark space, seeking for light.",
+      "Midground": "All around them are other lamps ('எல்லா விளக்கும்'): a brilliant sun, a beautiful moon, a roaring fire. However, the light from these mighty sources is shown to be weak and unable to truly illuminate the sage's path; they are 'not true lamps' ('விளக்கல்ல').",
+      "Background": "The sage then ignites the 'lamp of truthfulness' ('பொய்யா விளக்கு'). This is visualized as a simple, small, but intensely brilliant lamp held in their hand. The light from this one small lamp completely overpowers the sun, moon, and fire, illuminating everything with a profound and absolute clarity. This is the 'true lamp' ('விளக்கு')."
+    },
+    "Art_Direction": {
+      "Subject_and_Action": "For the truly wise, all other sources of light are inferior. The one true lamp that provides all necessary illumination is the lamp of truthfulness.",
+      "Symbolic_Motifs": "The qualitative superiority of the lamp of truth is the key. Though physically small, its light is metaphysically more powerful than even the sun. The great natural lights are shown to be insufficient for the needs of a wise soul.",
+      "Mood_and_Emotion": "Supreme illumination, ultimate clarity, profound, powerful.",
+      "Lighting_and_Color": "The scene is a battle of lights. The sun, moon, and fire produce natural but weak light. The lamp of truth produces a pure, white, divine light that is overwhelmingly brilliant and brings everything into sharp, clear focus.",
+      "Technical_Cues": {
+        "Camera": "A shot that focuses on the sage and their small lamp, with its light dramatically overpowering all the other grander, but weaker, light sources in the background.",
+        "Resolution": "8K, ultra-realistic, with intense and competing volumetric lighting effects.",
+        "Lighting": "The lamp of truth is the dominant, key light source that defines the scene.",
+        "Art_Genre": "High-contrast fantasy art, symbolic painting."
+      },
+      "Cultural_Anchors": [
+        "All other lamps are not lamps (எல்லா விளக்கும் விளக்கல்ல)",
+        "The lamp of truth is the lamp (பொய்யா விளக்கே விளக்கு)"
+      ]
+    },
+    "Negative_Prompt": "truth lamp being dim, sun being brighter, text artifacts, cartoonish flames.",
+    "Hyperparameters": {
+      "variant": "pro",
+      "steps": 55,
+      "cfg_scale": 10,
+      "seed": "Explore the visual of one small lamp overpowering the sun."
+    }
+  }
+}

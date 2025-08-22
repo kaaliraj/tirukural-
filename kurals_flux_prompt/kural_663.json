@@ -1,0 +1,39 @@
+{
+  "Kural_Info": {
+    "Number": 663,
+    "Chapter": "வினைத்திட்பம் (Power in Action)",
+    "Tamil_Text": "கடைக்கொட்கச் செய்தக்க தாண்மை இடைக்கொட்கின்எற்றா விழுமந் தரும்.",
+    "English_Meaning": "So to perform an act as to publish it (only) at its termination is (true) manliness; for to announce it beforehand, will cause irremediable sorrow."
+  },
+  "Flux_Optimized_Prompt": {
+    "Layered_Composition": {
+      "Foreground": "A master strategist or leader is shown quietly working on a grand plan, represented by a complex architectural model.",
+      "Midground": "Their work is done in complete secrecy. Around their workshop, a magical veil of silence is depicted, preventing any sound or information from leaking out.",
+      "Background": "A split vision of two outcomes. On one side, the leader reveals the plan only at the end ('கடைக்கொட்கச்'), and the result is a magnificent, completed city, a total success. On the other side (the negative example), the plan is revealed midway ('இடைக்கொட்கின்'), and enemies are shown exploiting the revealed information, leading to the project's fiery, irretrievable ruin ('எற்றா விழுமம்')."
+    },
+    "Art_Direction": {
+      "Subject_and_Action": "True manliness and power in action lie in keeping one's plans secret until they are successfully completed. Revealing them midway leads to certain and irremediable ruin.",
+      "Symbolic_Motifs": "The veil of silence is a metaphor for secrecy. The contrasting outcomes of success and ruin are a direct result of the timing of the reveal. The sorrow is 'irremediable' because the revealed secret cannot be un-revealed.",
+      "Mood_and_Emotion": "Secretive, strategic, powerful, disciplined, catastrophic failure.",
+      "Lighting_and_Color": "The secret workshop is lit with a focused, mysterious light. The successful reveal is bathed in triumphant golden light. The failed reveal is lit by the destructive orange flames of its own ruin.",
+      "Technical_Cues": {
+        "Camera": "A shot that focuses on the secretive planner, with the two potential outcomes shown as prophetic visions in the background.",
+        "Resolution": "8K, ultra-realistic, with strong visual effects for the veil of silence and the fiery destruction.",
+        "Lighting": "Dramatic, contrasting lighting for the two possible futures.",
+        "Art_Genre": "Fantasy realism, strategic illustration."
+      },
+      "Cultural_Anchors": [
+        "Revealing only at the end (கடைக்கொட்கச் செய்தல்)",
+        "Revealing midway (இடைக்கொட்கின்)",
+        "Irremediable sorrow (எற்றா விழுமம்)"
+      ]
+    },
+    "Negative_Prompt": "leader boasting about plans, successful early reveal, text artifacts.",
+    "Hyperparameters": {
+      "variant": "pro",
+      "steps": 50,
+      "cfg_scale": 9,
+      "seed": "Explore the design of the 'veil of silence'."
+    }
+  }
+}

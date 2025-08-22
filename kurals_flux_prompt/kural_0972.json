@@ -1,0 +1,33 @@
+{
+  "Kural_Info": {
+    "Number": 972,
+    "Chapter": "பெருமை (Greatness)",
+    "Tamil_Text": "பிறப்பொக்கும் எல்லா உயிர்க்கும் சிறப்பொவ்வாசெய்தொழில் வேற்றுமை யான்.",
+    "English_Meaning": "All men that live are one in circumstances of birth; Diversities of works give each his special worth."
+  },
+  "Flux_Optimized_Prompt": {
+    "Layered_Composition": {
+      "Foreground": "A diverse group of ancient Tamil people—a scholar, a warrior, a farmer, an artisan—stand side-by-side. They are all emerging from the same ethereal light of creation, signifying their equal birth ('Pirappokkum').",
+      "Midground": "From each person, a unique path of light extends forward, illustrating their distinct actions ('Seythozhil Verrumai'). The scholar's path is woven with glowing Tamil script, the warrior's with images of valor, the farmer's with representations of bountiful harvests.",
+      "Background": "A vast, neutral cosmic background, representing the universal origin of all life, from which all these paths diverge."
+    },
+    "Art_Direction": {
+      "Subject_and_Action": "A visual representation of the concept that all humans are equal by birth, but their greatness and worth are defined by the nature and quality of their actions.",
+      "Symbolic_Motifs": "The single source of light for their origin emphasizes equality. The distinct, glowing paths represent the 'diversity of works' that creates differences in special worth ('Sirappu').",
+      "Mood_and_Emotion": "Egalitarian, inspiring, profound, celebrating diverse contributions.",
+      "Lighting_and_Color": "A pure, white, unifying light at their feet. Each path has a distinct color—scholarly gold, warrior's crimson, farmer's green—creating a vibrant tapestry of light against a dark cosmic blue."
+    },
+    "Technical_Cues": {
+      "Camera": "Cinematic wide shot, eye-level, capturing the entire group and their diverging paths.",
+      "Resolution": "8K, ultra-realistic, detailed depiction of different traditional Tamil roles and attires.",
+      "Lighting": "Volumetric lighting for the paths, with a strong backlight from the source of creation, casting heroic silhouettes.",
+      "Art_Genre": "High-fantasy realism, combining historical accuracy with mystical visual effects."
+    },
+    "Cultural_Anchors": [
+      "பிறப்பொக்கும் எல்லா உயிர்க்கும் (All are equal by birth)",
+      "செய்தொழில் வேற்றுமையான் (Distinction by deeds)",
+      "Diversity of roles in ancient Tamil society"
+    ]
+  },
+  "Negative_Prompt": "uniform paths, modern clothing, cartoonish figures, text artifacts, a single person, hierarchical arrangement."
+}

@@ -1,0 +1,33 @@
+{
+  "Kural_Info": {
+    "Number": 1178,
+    "Chapter": "கண்விதுப்பழிதல் (Eyes consumed with Grief)",
+    "Tamil_Text": "பேணாது பெட்டார் உளர்மன்னோ மற்றவர்க்காணாது அமைவில கண்.",
+    "English_Meaning": "Who loved me once, onloving now doth here remain; Not seeing him, my eye no rest can gain."
+  },
+  "Flux_Optimized_Prompt": {
+    "Layered_Composition": {
+      "Foreground": "A woman's eyes are shown, wide and restless, unable to find peace ('Amaivila Kan').",
+      "Midground": "Her lover is physically present in the same space, but he is emotionally distant ('Penaathu'), his back turned or his attention elsewhere. He is a 'present absence'.",
+      "Background": "The space between them is depicted as a vast, empty chasm, symbolizing the emotional distance. Her eyes desperately search across this chasm for a sign of his former love, but find nothing, hence their restlessness."
+    },
+    "Art_Direction": {
+      "Subject_and_Action": "The torment of having a lover physically present but emotionally absent. Her eyes cannot rest because they are constantly searching for the affection that is no longer there, even though he is right in front of her.",
+      "Symbolic_Motifs": "The empty chasm between the two physically close figures is the main symbol for emotional distance. Her wide, searching eyes convey her unceasing, fruitless quest for his attention.",
+      "Mood_and_Emotion": "Restless, anxious, lonely, a sense of tragic irony.",
+      "Lighting_and_Color": "A cool, alienating light fills the scene. The space between them is darker, like a void. The colors are muted and somber."
+    },
+    "Technical_Cues": {
+      "Camera": "A wide shot that emphasizes the space between the two figures, even if they are in the same room. A rack focus could shift between her searching eyes and his indifferent back.",
+      "Resolution": "8K, photorealistic, focusing on body language to tell the story of emotional distance.",
+      "Lighting": "Low-key lighting that creates a sense of isolation for both characters within the same frame.",
+      "Art_Genre": "Psychological realism, cinematic in feel."
+    },
+    "Cultural_Anchors": [
+      "Emotional distance in a relationship",
+      "The pain of unrequited love from a partner",
+      "Restless eyes (அமைவில கண்)"
+    ]
+  },
+  "Negative_Prompt": "a happy, engaged couple, physical distance, warm lighting, modern setting, text artifacts, cartoonish."
+}

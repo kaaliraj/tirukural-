@@ -1,0 +1,33 @@
+{
+  "Kural_Info": {
+    "Number": 1217,
+    "Chapter": "கனவுநிலையுரைத்தல் (The Visions of the Night)",
+    "Tamil_Text": "நனவினால் நல்காக் கொடியார் கனவனால்என்எம்மைப் பீழிப் பது.",
+    "English_Meaning": "The cruel one, in waking hour, who all ungracious seems, Why should he thus torment my soul in nightly dreams?."
+  },
+  "Flux_Optimized_Prompt": {
+    "Layered_Composition": {
+      "Foreground": "A woman is asleep, but her expression is tormented, not peaceful. She is clearly having a distressing dream.",
+      "Midground": "In her dreamscape, her cruel lover ('Kodiyar'), who ignores her in the waking world ('Nanavinaal Nalkaa'), is now actively tormenting her ('Peezhippathu'). He might be appearing and then vanishing, or speaking cruel words.",
+      "Background": "The dream world is a surreal, nightmarish landscape that reflects her emotional torment. The waking world is shown as merely empty and lonely, but the dream world is actively painful."
+    },
+    "Art_Direction": {
+      "Subject_and_Action": "A complaint: Why does the cruel man who won't even show me grace in the waking world have to come and torment me in my dreams as well?",
+      "Symbolic_Motifs": "The lover as a tormentor in the dream. The contrast between the passive neglect of the day and the active torment of the night.",
+      "Mood_and_Emotion": "Tormented, pained, frustrated, a sense of having no escape.",
+      "Lighting_and_Color": "Dark, chaotic, nightmarish lighting in the dreamscape. The colors are jarring and unsettling. The figure of the lover in the dream might have a cruel, shadowy aura."
+    },
+    "Technical_Cues": {
+      "Camera": "A dutch angle shot of the sleeping woman, with the nightmarish dreamscape swirling around her head.",
+      "Resolution": "8K, dark surrealism, with a focus on creating a disturbing and unsettling atmosphere.",
+      "Lighting": "Expressionistic, high-contrast lighting to create a nightmare feel.",
+      "Art_Genre": "Dark romantic surrealism, exploring the painful side of obsessive love."
+    },
+    "Cultural_Anchors": [
+      "The dream as a place of torment",
+      "கொடியார் (The cruel one)",
+      "The inescapable nature of a painful love"
+    ]
+  },
+  "Negative_Prompt": "a peaceful dream, a happy woman, a kind lover, text artifacts, cartoonish, blurry."
+}

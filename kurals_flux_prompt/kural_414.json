@@ -1,0 +1,39 @@
+{
+  "Kural_Info": {
+    "Number": 414,
+    "Chapter": "கேள்வி (Hearing)",
+    "Tamil_Text": "கற்றில னாயினுங் கேட்க அஃதொருவற்கு ஒற்கத்தின் ஊற்றாந் துணை.",
+    "English_Meaning": "Though learning none hath he, yet let him hear alway: In weakness this shall prove a staff and stay."
+  },
+  "Flux_Optimized_Prompt": {
+    "Layered_Composition": {
+      "Foreground": "A person who is unlearned ('கற்றிலன்') is depicted walking on a difficult, treacherous path, symbolizing a time of weakness and hardship ('ஒற்கத்தின்'). They are stumbling and about to fall.",
+      "Midground": "Just as they fall, a sturdy, luminous staff ('ஊற்றாந் துணை') appears in their hand, allowing them to steady themselves. The staff is formed from soundwaves, representing the wisdom they have heard ('கேட்க').",
+      "Background": "The path ahead is still difficult, but with the glowing staff, the person now looks more confident and able to proceed."
+    },
+    "Art_Direction": {
+      "Subject_and_Action": "Even for one who is not formally learned, the act of listening to wisdom provides a crucial support, like a staff, during times of great difficulty.",
+      "Symbolic_Motifs": "The treacherous path represents hardship. The luminous staff made of soundwaves is the central metaphor for wisdom gained through hearing, acting as a reliable support.",
+      "Mood_and_Emotion": "Supportive, hopeful, resilient, wise.",
+      "Lighting_and_Color": "The path is dark and ominous. The staff provides the main source of light in the scene, glowing with a warm, reassuring golden light that illuminates the person's face and the path immediately ahead.",
+      "Technical_Cues": {
+        "Camera": "Dynamic medium shot, capturing the moment the person stumbles and is saved by the appearance of the staff.",
+        "Resolution": "8K, cinematic, with a focus on the dramatic lighting from the staff.",
+        "Lighting": "High-contrast, with the glowing staff pushing back the surrounding darkness.",
+        "Art_Genre": "Fantasy realism, symbolic narrative art."
+      }
+    },
+    "Cultural_Anchors": [
+      "Learning through Hearing ('கேட்டல்')",
+      "Support in times of weakness ('ஒற்கத்தின் ஊற்றாந் துணை')",
+      "Accessible wisdom for the unlearned."
+    ]
+  },
+  "Negative_Prompt": "person falling, broken staff, easy path, text artifacts, bright daylight, cartoonish.",
+  "Hyperparameters": {
+    "variant": "pro",
+    "steps": 45,
+    "cfg_scale": 8,
+    "seed": "Explore variations for the design of the luminous staff."
+  }
+}

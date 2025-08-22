@@ -1,0 +1,39 @@
+{
+  "Kural_Info": {
+    "Number": 801,
+    "Chapter": "பழைமை (Familiarity)",
+    "Tamil_Text": "பழைமை எனப்படுவது யாதெனின் யாதுங் கிழமையைக் கீழ்ந்திடா நட்பு.",
+    "English_Meaning": "Intimate friendship is that which cannot in the least be injured by (things done through the) right (of longstanding intimacy)."
+  },
+  "Flux_Optimized_Prompt": {
+    "Layered_Composition": {
+      "Foreground": "Two very old friends are interacting. One of them is taking a great liberty, perhaps playfully taking something from the other without asking, or making a blunt, familiar joke. This is an act of உரிமை ('கிழமை').",
+      "Midground": "The other friend, instead of getting offended, is smiling with deep affection. The bond of friendship between them is visualized as a mighty, ancient, gnarled oak tree that is so strong it cannot be harmed or shaken ('கீழ்ந்திடா') by this act of familiarity.",
+      "Background": "A timeless, peaceful landscape, showing the long-enduring nature of their bond."
+    },
+    "Art_Direction": {
+      "Subject_and_Action": "What is old, intimate friendship? It is a bond that is not offended by the liberties taken due to the rights of long intimacy.",
+      "Symbolic_Motifs": "The ancient, unshakable oak tree as the bond of friendship is the central metaphor. The playful liberty taken by one friend, and the affectionate, unoffended reaction of the other, is the defining action.",
+      "Mood_and_Emotion": "Familiar, intimate, unshakeable, trusting, enduring.",
+      "Lighting_and_Color": "Warm, nostalgic, golden-hour lighting. The colors are deep, earthy, and warm, like old wood and comfortable memories.",
+      "Technical_Cues": {
+        "Camera": "A warm, intimate medium shot of the two old friends.",
+        "Resolution": "8K, with rich textures on the faces and the symbolic tree.",
+        "Lighting": "Soft, warm, and gentle lighting.",
+        "Art_Genre": "Sentimental realism."
+      },
+      "Cultural_Anchors": [
+        "Old Friendship ('பழைமை')",
+        "The Rights of Intimacy ('கிழமை')",
+        "A bond that cannot be injured."
+      ]
+    },
+    "Negative_Prompt": "friend getting angry, a weak sapling, text artifacts, cartoonish.",
+    "Hyperparameters": {
+      "variant": "pro",
+      "steps": 50,
+      "cfg_scale": 7,
+      "seed": "Explore variations for the ancient oak tree."
+    }
+  }
+}

@@ -1,0 +1,39 @@
+{
+  "Kural_Info": {
+    "Number": 605,
+    "Chapter": "மடியின்மை (Unsluggishness)",
+    "Tamil_Text": "நெடுநீர் மறவி மடிதுயில் நான்குங் கெடுநீரார் காமக் கலன்.",
+    "English_Meaning": "Procrastination, forgetfulness, idleness, and sleep, these four things, form the vessel which is desired by those destined to destruction."
+  },
+  "Flux_Optimized_Prompt": {
+    "Layered_Composition": {
+      "Foreground": "A dilapidated, ghostly, pirate-like ship named 'RUIN'. This is the vessel of destruction ('காமக் கலன்').",
+      "Midground": "The ship is crewed by four allegorical figures. Procrastination ('நெடுநீர்') is a figure always looking at a future horizon, never at the present. Forgetfulness ('மறவி') has a misty, indistinct face. Idleness ('மடி') is a bloated, sluggish creature. Deep Sleep ('துயில்') is a figure constantly slumbering at the helm.",
+      "Background": "This ship and its crew are shown sailing deliberately towards a terrifying, stormy maelstrom on the horizon, which represents utter destruction ('கெடு நீரார்')."
+    },
+    "Art_Direction": {
+      "Subject_and_Action": "The four faults of procrastination, forgetfulness, idleness, and excessive sleep are the chosen vessel for those who are sailing towards their own ruin.",
+      "Symbolic_Motifs": "The ship named 'RUIN' is the central metaphor. The personification of the four faults as the incompetent and self-destructive crew clearly illustrates the Kural.",
+      "Mood_and_Emotion": "Self-destructive, doomed, allegorical, fateful.",
+      "Lighting_and_Color": "A dark, stormy, and supernatural light. The ship is ghostly and decaying. The maelstrom glows with a sickly, dangerous light. The color palette is full of dark blues, greys, and greens.",
+      "Technical_Cues": {
+        "Camera": "A dramatic wide shot of the ghost ship sailing towards the storm of destruction.",
+        "Resolution": "8K, cinematic, with epic storm and water effects.",
+        "Lighting": "Stormy, high-contrast lighting.",
+        "Art_Genre": "Epic fantasy painting, in the style of J.M.W. Turner's stormy seascapes."
+      }
+    },
+    "Cultural_Anchors": [
+      "The Vessel of Ruin ('காமக் கலன்')",
+      "The Four Faults: Procrastination, Forgetfulness, Idleness, Sleep",
+      "Those destined for destruction ('கெடு நீரார்')"
+    ]
+  },
+  "Negative_Prompt": "a sturdy ship, a competent crew, calm seas, text artifacts, cartoonish.",
+  "Hyperparameters": {
+    "variant": "pro",
+    "steps": 50,
+    "cfg_scale": 8,
+    "seed": "Explore variations for the design of the four allegorical crew members."
+  }
+}

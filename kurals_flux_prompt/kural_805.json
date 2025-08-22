@@ -1,0 +1,39 @@
+{
+  "Kural_Info": {
+    "Number": 805,
+    "Chapter": "பழைமை (Familiarity)",
+    "Tamil_Text": "பேதைமை ஒன்றோ பெருங்கிழமை என்றுணர்க நோதக்க நட்டார் செயின்.",
+    "English_Meaning": "If friends should perform what is painful, understand that it is owing not only to ignorance, but also to the strong claims of intimacy."
+  },
+  "Flux_Optimized_Prompt": {
+    "Layered_Composition": {
+      "Foreground": "A true friend is shown doing something that is causing their companion pain ('நோதக்க'). This could be a harsh rebuke or a difficult intervention.",
+      "Midground": "The person receiving this painful action has a choice. They could see it as a simple act of folly ('பேதைமை'). But the image shows them choosing to see it differently.",
+      "Background": "The wise person understands that the painful act is not just folly, but is also born from the rights of great intimacy and a deep desire to help ('பெருங்கிழமை'). This understanding is visualized as them seeing a glowing, caring heart behind the friend's harsh action."
+    },
+    "Art_Direction": {
+      "Subject_and_Action": "If a friend does something that pains you, understand that it is born not just of folly, but of the rights of great intimacy.",
+      "Symbolic_Motifs": "The choice to see either 'folly' or 'intimacy' as the cause is the key. The glowing heart behind the harsh action is the visual representation of the true, loving motive.",
+      "Mood_and_Emotion": "Understanding, forgiving, deep intimacy, tough love.",
+      "Lighting_and_Color": "The painful act itself is depicted with harsh, sharp visuals. But the scene is softened by the warm, forgiving glow of the loving heart that is revealed.",
+      "Technical_Cues": {
+        "Camera": "A shot that focuses on the pained person's moment of understanding, with a surreal overlay to show the hidden motive of their friend.",
+        "Resolution": "8K, with a focus on complex emotional states.",
+        "Lighting": "Symbolic lighting that reveals the hidden truth.",
+        "Art_Genre": "Psychological realism, with symbolic elements."
+      }
+    },
+    "Cultural_Anchors": [
+      "When friends do a painful thing ('நோதக்க நட்டார் செயின்')",
+      "Understanding it as a right of great intimacy ('பெருங்கிழமை என்றுணர்க')",
+      "The concept of 'tough love'."
+    ]
+  },
+  "Negative_Prompt": "a friend being purely malicious, text artifacts, cartoonish.",
+  "Hyperparameters": {
+    "variant": "pro",
+    "steps": 50,
+    "cfg_scale": 8,
+    "seed": "Explore variations for the glowing heart of motive."
+  }
+}

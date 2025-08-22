@@ -1,0 +1,39 @@
+{
+  "Kural_Info": {
+    "Number": 597,
+    "Chapter": "ஊக்கமுடைமை (Energy)",
+    "Tamil_Text": "சிதைவிடத்து ஒல்கார் உரவோர் புதையம்பிற் பட்டுப்பா டூன்றுங் களிறு.",
+    "English_Meaning": "The strong minded will not faint, even when all is lost; the elephant stands firm, even when wounded by a shower of arrows."
+  },
+  "Flux_Optimized_Prompt": {
+    "Layered_Composition": {
+      "Foreground": "A magnificent, powerful war elephant ('களிறு') is shown in the midst of a fierce battle. It is grievously wounded, with many arrows sticking out of its hide ('புதையம்பிற் பட்டு').",
+      "Midground": "Despite its wounds and the surrounding chaos of destruction ('சிதைவிடத்து'), the elephant does not collapse or flee. It stands its ground firmly, a tower of strength and resolve ('பாடு ஊன்றும்').",
+      "Background": "In parallel, a strong-minded person ('உரவோர்') is shown amidst the ruins of their life, yet they stand with the same unyielding posture as the elephant, refusing to be broken by adversity ('ஒல்கார்')."
+    },
+    "Art_Direction": {
+      "Subject_and_Action": "The strong-willed do not falter in the face of ruin, just as a noble elephant stands its ground even when pierced by a volley of arrows.",
+      "Symbolic_Motifs": "The wounded but unyielding elephant is the central, powerful analogy for the resilience of the strong-minded.",
+      "Mood_and_Emotion": "Resilient, indomitable, strong, unyielding, heroic.",
+      "Lighting_and_Color": "A dramatic, chaotic battlefield lighting with fire and smoke. The elephant is lit heroically, its form strong despite the arrows. The colors are gritty, with the red of wounds and fire.",
+      "Technical_Cues": {
+        "Camera": "A low-angle shot that emphasizes the sheer size and unwavering stability of the elephant despite its injuries.",
+        "Resolution": "8K, cinematic, with a focus on the intense details of the battle.",
+        "Lighting": "High-contrast, dramatic lighting to highlight the elephant's form and wounds.",
+        "Art_Genre": "Epic historical battle scene, wildlife realism."
+      }
+    },
+    "Cultural_Anchors": [
+      "The Unyielding Elephant Analogy",
+      "The Strong-willed do not Falter ('உரவோர் ஒல்கார்')",
+      "Resilience in the face of ruin ('சிதைவிடத்து')."
+    ]
+  },
+  "Negative_Prompt": "fleeing elephant, person giving up, text artifacts, cartoonish.",
+  "Hyperparameters": {
+    "variant": "pro",
+    "steps": 50,
+    "cfg_scale": 9,
+    "seed": "Explore variations for the battle damage on the elephant."
+  }
+}

@@ -1,0 +1,39 @@
+{
+  "Kural_Info": {
+    "Number": 730,
+    "Chapter": "அவையஞ்சாமை (Not to dread the Council)",
+    "Tamil_Text": "உளரெனினும் இல்லாரொடு ஒப்பர் களன்அஞ்சிக் கற்ற செலச்சொல்லா தார்.",
+    "English_Meaning": "Those who through fear of the assembly are unable to set forth their learning in an interesting manner, though alive, are yet like the dead."
+  },
+  "Flux_Optimized_Prompt": {
+    "Layered_Composition": {
+      "Foreground": "A scholar stands before a learned assembly. They are physically alive, but their form is depicted as a ghostly, translucent, grey statue, like a shade from the underworld.",
+      "Midground": "The reason for their 'death' is their fear of the assembly ('களன் அஞ்சி'). This fear prevents them from sharing their knowledge. The vast learning they possess is visible as a bright, vibrant world trapped inside their ghostly form, unable to get out.",
+      "Background": "The assembly of the living looks on, but they cannot see or interact with the trapped knowledge, rendering the scholar as good as dead ('இல்லாரொடு ஒப்பர்')."
+    },
+    "Art_Direction": {
+      "Subject_and_Action": "Those who fear the assembly and cannot articulate what they have learned are functionally dead, even though they are physically alive.",
+      "Symbolic_Motifs": "The scholar as a living ghost or shade is the central metaphor. The vibrant world of knowledge trapped inside them represents their useless, unshared learning.",
+      "Mood_and_Emotion": "Lifeless, tragic, impotent, ghostly, a waste.",
+      "Lighting_and_Color": "A grey, deathly pallor hangs over the fearful scholar. The only vibrant color comes from the world of knowledge trapped within them, creating a tragic contrast.",
+      "Technical_Cues": {
+        "Camera": "A medium shot focusing on the ghostly scholar, with a surreal transparency effect.",
+        "Resolution": "8K, with high-quality ethereal and ghostly effects.",
+        "Lighting": "A cold, deathly light.",
+        "Art_Genre": "Symbolic surrealism, metaphysical art."
+      }
+    },
+    "Cultural_Anchors": [
+      "Fear of the Assembly ('களன் அஞ்சி')",
+      "Like the Dead ('இல்லாரொடு ஒப்பர்')",
+      "Unshared knowledge as a form of death."
+    ]
+  },
+  "Negative_Prompt": "a living, breathing scholar speaking, text artifacts, cartoonish.",
+  "Hyperparameters": {
+    "variant": "pro",
+    "steps": 50,
+    "cfg_scale": 8,
+    "seed": "Explore variations for the trapped world of knowledge."
+  }
+}

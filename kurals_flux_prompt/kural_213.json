@@ -1,0 +1,39 @@
+{
+  "Kural_Info": {
+    "Number": 213,
+    "Chapter": "ஒப்புரவறிதல் (Duty to Society)",
+    "Tamil_Text": "புத்தே ளுலகத்தும் ஈண்டும் பெறலரிதேஒப்புரவின் நல்ல பிற.",
+    "English_Meaning": "It is difficult to obtain another good equal to benevolence either in this world or in that of the gods."
+  },
+  "Flux_Optimized_Prompt": {
+    "Layered_Composition": {
+      "Foreground": "The virtue of Benevolence ('ஒப்புரவு') is personified as a supremely beautiful, radiant, divine being.",
+      "Midground": "This being is shown standing on a cosmic scale of value. On the other side of the scale, all the other 'good things' ('நல்ல பிற') are piled up.",
+      "Background": "These other good things are sourced from both the Earth ('ஈண்டு')—represented by crowns, riches, and earthly pleasures—and from the world of the gods ('புத்தேள் உலகத்தும்')—represented by divine treasures, celestial chariots, and heavenly bliss. Despite the immense weight of all these combined treasures, the single figure of Benevolence easily outweighs them all. It is 'difficult to obtain anything better' ('பெறல் அரிதே')."
+    },
+    "Art_Direction": {
+      "Subject_and_Action": "There is no other good, either in this world or in the world of the gods, that is equal to the virtue of benevolence.",
+      "Symbolic_Motifs": "The personification of Benevolence and the cosmic scale are the key elements. The scale visually proves the supremacy of this one virtue over all other combined goods from both mortal and divine realms.",
+      "Mood_and_Emotion": "Supreme, unparalleled, divine, ultimate virtue.",
+      "Lighting_and_Color": "The personified Benevolence radiates a brilliant, pure, white-gold light that is far more intense and beautiful than the combined glow of all the other treasures. The scene is one of ultimate, divine judgment.",
+      "Technical_Cues": {
+        "Camera": "An epic, cosmic shot that captures the divine being of Benevolence on the scale, effortlessly outweighing all other goods of heaven and earth.",
+        "Resolution": "8K, hyper-realistic, with a majestic and beautiful design for the personified Benevolence.",
+        "Lighting": "The primary light source is the overwhelming radiance of Benevolence itself.",
+        "Art_Genre": "Epic mythological painting, high fantasy art."
+      },
+      "Cultural_Anchors": [
+        "Benevolence (ஒப்புரவு)",
+        "In this world and the world of the gods (புத்தேள் உலகத்தும் ஈண்டும்)",
+        "It is difficult to obtain a greater good (நல்ல பிற பெறல் அரிதே)"
+      ]
+    },
+    "Negative_Prompt": "benevolence being outweighed, ugly divine being, text artifacts.",
+    "Hyperparameters": {
+      "variant": "pro",
+      "steps": 55,
+      "cfg_scale": 9,
+      "seed": "Explore the design of the personified 'Benevolence'."
+    }
+  }
+}

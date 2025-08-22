@@ -1,0 +1,33 @@
+{
+  "Kural_Info": {
+    "Number": 1208,
+    "Chapter": "நினைந்தவர்புலம்பல் (Sad Memories)",
+    "Tamil_Text": "எனைத்து நினைப்பினும் காயார் அனைத்தன்றோகாதலர் செய்யும் சிறப்பு.",
+    "English_Meaning": "He will not be angry however much I may think of him; is it not so much the delight my beloved affords me? ."
+  },
+  "Flux_Optimized_Prompt": {
+    "Layered_Composition": {
+      "Foreground": "A woman is shown deep in thought, her mind completely filled with memories of her lover. These thoughts are visualized as a constant, gentle stream of golden light flowing from her mind.",
+      "Midground": "This stream of light travels across a great distance and touches her lover. Instead of being annoyed or angered by this constant mental presence ('Kaayaar'), he is shown with a gentle, accepting smile, as if feeling her thoughts as a warm caress.",
+      "Background": "A serene and beautiful landscape connects them, symbolizing the gentle and special nature of their bond that allows for this constant, welcome mental intrusion."
+    },
+    "Art_Direction": {
+      "Subject_and_Action": "A celebration of a special kind of love where one can think of their beloved endlessly without fear of angering them, because this acceptance is part of the lover's special grace.",
+      "Symbolic_Motifs": "The thoughts as a gentle, constant stream of light. The lover's acceptance and gentle smile upon receiving this stream.",
+      "Mood_and_Emotion": "Gentle, loving, serene, a sense of deep connection and security.",
+      "Lighting_and_Color": "A warm, soft, golden light that permeates the entire scene, originating from her thoughts. The color palette is warm and romantic."
+    },
+    "Technical_Cues": {
+      "Camera": "A wide, cinematic shot that shows the beautiful connection of light between the two distant lovers.",
+      "Resolution": "8K, mystical realism, with beautiful and gentle light stream effects.",
+      "Lighting": "Soft, magical, golden-hour lighting.",
+      "Art_Genre": "Romantic fantasy, focusing on a gentle and magical connection."
+    },
+    "Cultural_Anchors": [
+      "The special nature of a lover's grace (காதலர் செய்யும் சிறப்பு)",
+      "Unconditional mental presence",
+      "நினைத்தல் (Thinking)"
+    ]
+  },
+  "Negative_Prompt": "an angry lover, a broken stream of light, a stormy landscape, text artifacts, cartoonish, blurry."
+}

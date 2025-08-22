@@ -1,0 +1,39 @@
+{
+  "Kural_Info": {
+    "Number": 369,
+    "Chapter": "அவாவறுத்தல் (Curbing of Desire)",
+    "Tamil_Text": "இன்பம் இடையறா தீண்டும் அவாவென்னும் துன்பத்துள் துன்பங் கெடின்.",
+    "English_Meaning": "When dies away desire, that woe of woes, Ev'n here the soul unceasing rapture knows."
+  },
+  "Flux_Optimized_Prompt": {
+    "Layered_Composition": {
+      "Foreground": "A central figure is depicted as a silhouette breaking apart, and from within, a form made of pure, radiant light emerges. The shattering silhouette represents the death of desire, the 'sorrow of sorrows' ('துன்பத்துள் துன்பம்').",
+      "Midground": "As the dark silhouette crumbles into dust, waves of vibrant, joyful golden light ('இன்பம்') continuously flow out and envelop the scene.",
+      "Background": "A timeless, blissful, ethereal space, filled with soft clouds and celestial light, symbolizing a state of unceasing joy."
+    },
+    "Art_Direction": {
+      "Subject_and_Action": "The destruction of desire, the ultimate sorrow, gives birth to a state of perpetual, uninterrupted bliss.",
+      "Symbolic_Motifs": "The shattering dark form is desire itself. The emergent light-being is the liberated soul. The continuous waves of light represent uninterrupted joy ('இன்பம் இடையறாது').",
+      "Mood_and_Emotion": "Liberating, blissful, transcendent, euphoric.",
+      "Lighting_and_Color": "The scene is dominated by a brilliant, warm, golden-white light. The crumbling silhouette is matte black. The background is a soft, dreamlike palette of celestial colors.",
+      "Technical_Cues": {
+        "Camera": "Centered, medium shot, focusing on the transformation. Slow-motion effect.",
+        "Resolution": "8K, cinematic, with high-quality particle and volumetric light effects.",
+        "Lighting": "Intense, radiant, volumetric lighting emanating from the central figure.",
+        "Art_Genre": "Abstract spiritual art, mystical realism."
+      }
+    },
+    "Cultural_Anchors": [
+      "Desire as the 'Sorrow of Sorrows' ('துன்பத்துள் துன்பம்')",
+      "Uninterrupted Bliss ('இன்பம் இடையறாது')",
+      "Spiritual Liberation (வீடுபேறு)"
+    ]
+  },
+  "Negative_Prompt": "sad light being, solid silhouette, dark background, text artifacts, blurry, low-resolution.",
+  "Hyperparameters": {
+    "variant": "pro",
+    "steps": 50,
+    "cfg_scale": 7,
+    "seed": "Explore variations for the pattern of the light waves."
+  }
+}

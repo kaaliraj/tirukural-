@@ -1,0 +1,38 @@
+{
+  "Kural_Info": {
+    "Number": 344,
+    "Chapter": "துறவு (Renunciation)",
+    "Tamil_Text": "இயல்பாகும் நோன்பிற்கொன்று இன்மை உடைமைமயலாகும் மற்றும் பெயர்த்து.",
+    "English_Meaning": "To be altogether destitute is the proper condition of those who perform austerities; if they possess anything, it will change (their resolution) and bring them back to their confused state."
+  },
+  "Flux_Optimized_Prompt": {
+    "Layered_Composition": {
+      "Foreground": "An ascetic is shown in the perfect, natural state of penance ('இயல்பாகும் நோன்பிற்கு'). This is a state of having absolutely nothing ('ஒன்று இன்மை'). They are free and unburdened.",
+      "Midground": "Someone then offers them a single, simple possession ('உடைமை'), perhaps a beautiful new robe or a golden bowl.",
+      "Background": "The moment the ascetic accepts this single possession, their clear, serene mind is instantly plunged back into a state of confusion and delusion ('மயல் ஆகும்'). The single object is shown to act like a seed from which a thorny, confusing thicket of new desires and attachments instantly grows, trapping them once more."
+    },
+    "Art_Direction": {
+      "Subject_and_Action": "The natural state for an ascetic is to possess nothing. The moment they acquire even a single possession, it will trigger a relapse into the state of delusion and attachment.",
+      "Symbolic_Motifs": "The single possession as the seed of a new forest of delusion is the key visual metaphor. The instantaneous nature of the relapse shows the incredible danger of even one small attachment for a renunciant.",
+      "Mood_and_Emotion": "Cautionary, dangerous attachment, relapse, fragile freedom.",
+      "Lighting_and_Color": "The initial state of nothingness is a pure, clear, white light of freedom. The single possession has a tempting glow, but the moment it is accepted, the scene is plunged into a dark, chaotic, and confusing tangle of thorny vines.",
+      "Technical_Cues": {
+        "Camera": "A shot that captures the ascetic's state of peace, the introduction of the single object, and the immediate, catastrophic relapse into confusion.",
+        "Resolution": "8K, ultra-realistic, with advanced procedural growth effects for the 'thicket of delusion'.",
+        "Lighting": "A dramatic shift from pure light to chaotic darkness.",
+        "Art_Genre": "Dark fantasy, allegorical art."
+      },
+      "Cultural_Anchors": [
+        "The natural state for penance is to have nothing (இயல்பாகும் நோன்பிற்கு ஒன்று இன்மை)",
+        "Possession will cause delusion again (உடைமை மயல் ஆகும் மற்றும் பெயர்த்து)"
+      ]
+    },
+    "Negative_Prompt": "ascetic staying pure after receiving a gift, text artifacts.",
+    "Hyperparameters": {
+      "variant": "pro",
+      "steps": 55,
+      "cfg_scale": 9,
+      "seed": "Explore the visual of the 'thicket of delusion' instantly growing."
+    }
+  }
+}

@@ -1,0 +1,33 @@
+{
+  "Kural_Info": {
+    "Number": 1143,
+    "Chapter": "அலரறிவுறுத்தல் (The Announcement of the Rumour)",
+    "Tamil_Text": "உறாஅதோ ஊரறிந்த கெளவை அதனைப்பெறாஅது பெற்றன்ன நீர்த்து.",
+    "English_Meaning": "The rumour spread within the town, is it not gain to me? It is as though that were obtained that may not be."
+  },
+  "Flux_Optimized_Prompt": {
+    "Layered_Composition": {
+      "Foreground": "A young woman is shown surrounded by swirling whispers, which are the rumors ('Kavvai') spread by the town. These whispers are visualized as shimmering, golden ribbons.",
+      "Midground": "Instead of being distressed, her expression is one of hopeful anticipation. The golden ribbons of rumor are weaving themselves into a beautiful bridal garland or veil around her.",
+      "Background": "Her lover is seen in the distance, but the rumor is what is actively bringing them closer, making the seemingly unattainable union ('Peraathu') feel as if it has already been achieved ('Petranna')."
+    },
+    "Art_Direction": {
+      "Subject_and_Action": "The lover welcomes the town's rumor, as it makes her seemingly impossible union feel real and imminent, turning a potential shame into a cherished gain.",
+      "Symbolic_Motifs": "The rumor as golden ribbons weaving a bridal garland is the central, positive metaphor. Her hopeful expression transforms the meaning of being gossiped about.",
+      "Mood_and_Emotion": "Hopeful, triumphant, eagerly anticipatory.",
+      "Lighting_and_Color": "The golden ribbons of rumor are the primary light source, casting a warm, magical glow on her face. The palette is rich with golds, creams, and warm tones."
+    },
+    "Technical_Cues": {
+      "Camera": "Medium close-up on the woman, capturing her hopeful expression as the ribbons of rumor swirl around her.",
+      "Resolution": "8K, fantasy realism, with beautiful, dynamic ribbon effects.",
+      "Lighting": "Magical, volumetric lighting emanating from the symbolic rumors.",
+      "Art_Genre": "Romantic fantasy art, where emotion transforms the world."
+    },
+    "Cultural_Anchors": [
+      "கௌவை (Scandal/Rumour)",
+      "The idea of rumor hastening marriage",
+      "பெறாஅது பெற்றன்ன (Feeling as if one has gained the unattainable)"
+    ]
+  },
+  "Negative_Prompt": "sad or ashamed protagonist, dark or menacing ribbons, modern town, text artifacts, blurry."
+}

@@ -1,0 +1,39 @@
+{
+  "Kural_Info": {
+    "Number": 225,
+    "Chapter": "ஈகை (Giving)",
+    "Tamil_Text": "ஆற்றுவார் ஆற்றல் பசிஆற்றல் அப்பசியைமாற்றுவார் ஆற்றலின் பின்.",
+    "English_Meaning": "The power of those who perform penance is the power of enduring hunger. It is inferior to the power of those who remove the hunger (of others)."
+  },
+  "Flux_Optimized_Prompt": {
+    "Layered_Composition": {
+      "Foreground": "A powerful ascetic is shown enduring great hunger as part of his penance ('பசி ஆற்றல்'). His power is great, and he glows with the light of his discipline.",
+      "Midground": "A simple householder is shown performing the act of charity, giving food to a hungry person and removing their hunger ('அப் பசியை மாற்றுவார்').",
+      "Background": "A divine scale of power ('ஆற்றல்') appears. The great power of the ascetic is placed on one side. The simple act of the charitable man is placed on the other. The scale tips dramatically in favor of the man who gave the food. His power is shown to be superior, and the ascetic's power is secondary ('பின்')."
+    },
+    "Art_Direction": {
+      "Subject_and_Action": "A hierarchy of power is established: the power of enduring hunger through penance is great, but the power of appeasing the hunger of others through charity is greater still.",
+      "Symbolic_Motifs": "The divine scale of power is the central element that delivers the judgment. The power of the ascetic is a contained, internal power. The power of the charitable man is an external, world-changing power, which is why it is greater.",
+      "Mood_and_Emotion": "Superior virtue, hierarchical power, compassionate strength.",
+      "Lighting_and_Color": "The ascetic glows with a powerful but cool, silver light of self-control. The charitable man's act of giving glows with a warmer, more brilliant, golden light of compassion. The scale is illuminated by these two competing lights.",
+      "Technical_Cues": {
+        "Camera": "A shot that frames the two figures and the divine scale between them, clearly showing the scale tipping in favor of the charitable man.",
+        "Resolution": "8K, ultra-realistic, with strong ethereal effects for the auras of power and the divine scale.",
+        "Lighting": "Symbolic lighting that visually represents the two different types and strengths of power.",
+        "Art_Genre": "Mythological painting, allegorical art."
+      },
+      "Cultural_Anchors": [
+        "The power of enduring hunger (பசி ஆற்றல்)",
+        "The power of those who remove hunger (பசியை மாற்றுவார் ஆற்றல்)",
+        "Is secondary to (பின்)"
+      ]
+    },
+    "Negative_Prompt": "ascetic looking superior, scale tipping the other way, text artifacts.",
+    "Hyperparameters": {
+      "variant": "pro",
+      "steps": 55,
+      "cfg_scale": 9,
+      "seed": "Explore the design of the 'divine scale of power'."
+    }
+  }
+}

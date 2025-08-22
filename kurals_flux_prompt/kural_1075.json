@@ -1,0 +1,38 @@
+{
+  "Kural_Info": {
+    "Number": 1075,
+    "Chapter": "கயமை (Baseness)",
+    "Tamil_Text": "அச்சமே கீழ்களது ஆசாரம் எச்சம்அவாவுண்டேல் உண்டாம் சிறிது.",
+    "English_Meaning": "(The principle of) behaviour in the mean is chiefly fear; if not, hope of gain, to some extent."
+  },
+  "Flux_Optimized_Prompt": {
+    "Layered_Composition": {
+      "Foreground": "A base person ('கீழ்') is shown. Two spectral puppeteers are controlling their actions.",
+      "Midground": "The primary and largest puppeteer is a monstrous figure of Fear ('அச்சம்'). It holds the main strings, forcing the base person into a semblance of orderly conduct ('ஆசாரம்'). The person is shown bowing and behaving properly, but only because the figure of Fear is looming over them.",
+      "Background": "A second, smaller puppeteer, representing Greed or the 'hope of gain' ('அவா'), holds a few minor strings. It can make the base person perform some small, decent acts if there is a clear reward, but its influence is secondary to that of Fear."
+    },
+    "Art_Direction": {
+      "Subject_and_Action": "The good behavior of the base is not born of virtue. It is primarily motivated by fear of punishment, and secondarily, by a greedy desire for reward.",
+      "Symbolic_Motifs": "The two puppeteers, Fear and Greed, are the central metaphor for the base person's motivations. Fear is depicted as a much larger and more powerful force than Greed, showing its primary role in controlling their behavior.",
+      "Mood_and_Emotion": "Extrinsically motivated, false virtue, controlled by fear.",
+      "Lighting_and_Color": "A dark, oppressive light fills the scene. The figure of Fear casts a large, menacing shadow over the base person. The figure of Greed dangles a small, enticing but ultimately fake-looking piece of gold.",
+      "Technical_Cues": {
+        "Camera": "A shot that reveals the base person and their two spectral puppeteers, making their true motivations clear to the viewer.",
+        "Resolution": "8K, ultra-realistic, with grotesque and compelling designs for the personified Fear and Greed.",
+        "Lighting": "Dramatic, shadowy lighting to create a sense of oppression and manipulation.",
+        "Art_Genre": "Dark fantasy, symbolic art."
+      },
+      "Cultural_Anchors": [
+        "Fear is the conduct of the base (அச்சமே கீழ்களது ஆசாரம்)",
+        "And a little bit of desire for gain (அவா உண்டேல் உண்டாம் சிறிது)"
+      ]
+    },
+    "Negative_Prompt": "base person acting from virtue, no puppeteers, text artifacts.",
+    "Hyperparameters": {
+      "variant": "pro",
+      "steps": 50,
+      "cfg_scale": 9,
+      "seed": "Explore the designs of the puppeteers of Fear and Greed."
+    }
+  }
+}

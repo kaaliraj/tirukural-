@@ -1,0 +1,39 @@
+{
+  "Kural_Info": {
+    "Number": 80,
+    "Chapter": "அன்புடைமை (The Possession of Love)",
+    "Tamil_Text": "அன்பின் வழியது உயிர்நிலை அஃதிலார்க்குஎன்புதோல் போர்த்த உடம்பு.",
+    "English_Meaning": "That body alone which is inspired with love contains a living soul: if void of it, (the body) is bone overlaid with skin."
+  },
+  "Flux_Optimized_Prompt": {
+    "Layered_Composition": {
+      "Foreground": "A split-screen composition. On the right, a person whose body is filled with a radiant, golden light of a soul ('உயிர்நிலை'). This light clearly follows a path originating from their heart, which is a bright core of Love ('அன்பின் வழியது').",
+      "Midground": "On the left, a person is shown as a mere anatomical figure: a skeleton ('என்பு') with skin ('தோல்') stretched tautly over it. There is no inner light, only a hollow darkness within, representing the absence of love ('அஃதிலார்க்கு').",
+      "Background": "The background for the loving person is a vibrant, living world. The background for the loveless person is a sterile, empty, grey void."
+    },
+    "Art_Direction": {
+      "Subject_and_Action": "A body is only truly alive, possessing a soul, when it operates on the path of love. Without love, it is nothing more than a mechanical assembly of bone and skin.",
+      "Symbolic_Motifs": "The 'path of love' is a literal, visible circuit of light within the living person's body. The loveless person is a stark, almost clinical depiction of a biological shell, devoid of any 'life-force'.",
+      "Mood_and_Emotion": "Life vs. mere existence; vibrant, soulful, stark, mechanical.",
+      "Lighting_and_Color": "The right side is dominated by the warm, golden, internal light of the soul. The left side is lit with a cold, harsh, external light, like in an anatomical theater, emphasizing its lifelessness. Palette is warm and vibrant vs. cold and sterile.",
+      "Technical_Cues": {
+        "Camera": "Direct, contrasting portrait shot of the two figures, making the comparison unavoidable.",
+        "Resolution": "8K, hyper-realistic, with anatomical precision on the left and ethereal, radiant effects on the right.",
+        "Lighting": "Dramatic dual lighting to underscore the theme of inner life versus outer shell.",
+        "Art_Genre": "Symbolic anatomical art, mystical realism."
+      },
+      "Cultural_Anchors": [
+        "The path of love (அன்பின் வழி)",
+        "The living soul (உயிர்நிலை)",
+        "The body as 'bone covered by skin' (என்பு தோல் போர்த்த உடம்பு)"
+      ]
+    },
+    "Negative_Prompt": "glowing skeleton, dark soul, happy loveless person, text artifacts, deformed figures.",
+    "Hyperparameters": {
+      "variant": "pro",
+      "steps": 50,
+      "cfg_scale": 9,
+      "seed": "Explore the visual of the 'path of love' within the body."
+    }
+  }
+}

@@ -1,0 +1,39 @@
+{
+  "Kural_Info": {
+    "Number": 207,
+    "Chapter": "தீவினையச்சம் (Dread of Evil Deeds)",
+    "Tamil_Text": "எனைப்பகை யுற்றாரும் உய்வர் வினைப்பகைவீயாது பின்சென்று அடும்.",
+    "English_Meaning": "However great be the enmity men have incurred they may still live. The enmity of sin will incessantly pursue and kill."
+  },
+  "Flux_Optimized_Prompt": {
+    "Layered_Composition": {
+      "Foreground": "A man is shown successfully escaping from a host of powerful human enemies ('எனைப்பகை'). He has climbed a mountain and looks back, thinking he is safe.",
+      "Midground": "However, his own past evil deeds have materialized into a relentless, shadowy, spectral hunter ('வினைப்பகை'). This hunter is not stopped by the mountain; it effortlessly glides up the cliff face, its eyes fixed on him.",
+      "Background": "A vast, unforgiving landscape, showing there is nowhere to run. The spectral hunter is shown to be an extension of the man's own shadow, symbolizing it is an inescapable part of him that will pursue him relentlessly ('வீயாது பின் சென்று')."
+    },
+    "Art_Direction": {
+      "Subject_and_Action": "One can escape any number of external enemies, but no one can escape the 'enmity of their own evil deeds,' which will pursue them relentlessly until it destroys them.",
+      "Symbolic_Motifs": "The contrast between the escapable human foes and the inescapable karmic foe is central. The 'enemy of deeds' is not a generic demon, but a personalized hunter that is born from the man's own actions and shadow.",
+      "Mood_and_Emotion": "Inescapable, relentless, terrifying, karmic pursuit.",
+      "Lighting_and_Color": "The man is in the last rays of sunlight on the mountaintop. The spectral hunter rises from the deep purple and black shadows of the valley below. The scene is one of false hope being overtaken by inevitable doom.",
+      "Technical_Cues": {
+        "Camera": "A dramatic shot from behind the man, showing him looking down at his defeated human enemies, while the viewer sees the spectral hunter rising up behind him, unseen by him.",
+        "Resolution": "8K, hyper-realistic, with terrifying ethereal effects for the 'enemy of deeds'.",
+        "Lighting": "High-contrast twilight, emphasizing the theme of light fading into an inescapable darkness.",
+        "Art_Genre": "Dark fantasy, horror."
+      },
+      "Cultural_Anchors": [
+        "Enmity of men (பகை)",
+        "Enmity of one's own deeds (வினைப்பகை)",
+        "Incessant pursuit (வீயாது பின் சென்று)"
+      ]
+    },
+    "Negative_Prompt": "man escaping the shadow, happy man on mountain, weak spectral hunter, text artifacts.",
+    "Hyperparameters": {
+      "variant": "pro",
+      "steps": 60,
+      "cfg_scale": 10,
+      "seed": "Explore the design of the terrifying 'spectral hunter' of karma."
+    }
+  }
+}

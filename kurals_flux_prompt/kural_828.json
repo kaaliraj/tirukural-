@@ -1,0 +1,39 @@
+{
+  "Kural_Info": {
+    "Number": 828,
+    "Chapter": "கூடாநட்பு (Unreal Friendship)",
+    "Tamil_Text": "தொழுதகை யுள்ளும் படையொடுங்கும் ஒன்னார் அழுதகண் ணீரும் அனைத்து.",
+    "English_Meaning": "A weapon may be hid in the very hands with which (one's) foes adore (him) (and) the tears they shed are of the same nature."
+  },
+  "Flux_Optimized_Prompt": {
+    "Layered_Composition": {
+      "Foreground": "An enemy is shown with their hands pressed together in a gesture of worship or pleading ('தொழுதகை'). However, a surreal x-ray view reveals a sharp dagger hidden between their palms ('படையொடுங்கும்').",
+      "Midground": "In a parallel image, the same enemy is shown weeping with great sorrow ('அழுத கண்ணீர்'). But their tears are not water; they are falling to the ground and turning into venomous snakes.",
+      "Background": "Both the worshipful hands and the sorrowful tears are shown to be equally deceptive and dangerous masks for treacherous intent."
+    },
+    "Art_Direction": {
+      "Subject_and_Action": "A hidden weapon can be found in an enemy's worshipping hands; their tears are of the same treacherous nature.",
+      "Symbolic_Motifs": "The x-ray view revealing the hidden dagger is a powerful reveal of deception. The tears transforming into snakes is a strong metaphor for the poisonous nature of their false sorrow.",
+      "Mood_and_Emotion": "Treacherous, deceptive, dangerous, hypocritical.",
+      "Lighting_and_Color": "A dark, dramatic, and suspicious atmosphere. The hidden dagger and the snake-tears can have a sinister glow.",
+      "Technical_Cues": {
+        "Camera": "A close-up diptych, showing the two forms of deception side-by-side.",
+        "Resolution": "8K, with surreal and fantastical elements.",
+        "Lighting": "Low-key, noir-style lighting.",
+        "Art_Genre": "Dark fantasy, surrealism."
+      },
+      "Cultural_Anchors": [
+        "A weapon in worshipping hands ('தொழுத கையுள்ளும் படையொடுங்கும்')",
+        "An enemy's tears ('ஒன்னார் அழுத கண்ணீர்')",
+        "The nature of treachery."
+      ]
+    },
+    "Negative_Prompt": "an empty hand, real tears, text artifacts, cartoonish.",
+    "Hyperparameters": {
+      "variant": "pro",
+      "steps": 50,
+      "cfg_scale": 9,
+      "seed": "Explore variations for the snake-tears effect."
+    }
+  }
+}

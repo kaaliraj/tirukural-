@@ -1,0 +1,39 @@
+{
+  "Kural_Info": {
+    "Number": 409,
+    "Chapter": "கல்லாமை (Ignorance)",
+    "Tamil_Text": "மேற்பிறந்தா ராயினும் கல்லாதார் கீழ்ப்பிறந்துங் கற்றார் அனைத்திலர் பாடு.",
+    "English_Meaning": "Lower are men unlearned, though noble be their race, Than low-born men adorned with learning's grace."
+  },
+  "Flux_Optimized_Prompt": {
+    "Layered_Composition": {
+      "Foreground": "Two figures stand before a symbolic scale of true worth. On the left, a person of high birth ('மேற்பிறந்தார்'), indicated by rich robes, but unlearned ('கல்லாதார்'), stands on a scale pan that is low to the ground.",
+      "Midground": "On the right, a person of humble birth ('கீழ்ப்பிறந்தும்'), indicated by simple clothes, but who is learned ('கற்றார்'), stands on a scale pan that is raised high, signifying their greater worth.",
+      "Background": "The background is a neutral, ethereal space, suggesting that this is a universal or divine judgment of worth, beyond societal constructs."
+    },
+    "Art_Direction": {
+      "Subject_and_Action": "A direct visual representation that a learned person of low birth is superior in worth to an unlearned person of high birth.",
+      "Symbolic_Motifs": "The scales of worth are the central metaphor. The high-born person's scale is low, and the low-born person's scale is high, visually inverting the societal expectation and proving the Kural's point.",
+      "Mood_and_Emotion": "Meritocratic, just, profound, subversive of social hierarchy.",
+      "Lighting_and_Color": "A bright, clear light shines down on the raised scale of the learned person, highlighting their value. The unlearned person's scale is in a slightly dimmer light.",
+      "Technical_Cues": {
+        "Camera": "Centered wide shot, clearly showing the positions of the two figures on the scales.",
+        "Resolution": "8K, with detailed textures in the clothing to signify social status.",
+        "Lighting": "Symbolic lighting that equates light with the worth of knowledge.",
+        "Art_Genre": "Allegorical realism, symbolic art."
+      }
+    },
+    "Cultural_Anchors": [
+      "Worth determined by learning, not birth",
+      "Learned but low-born ('கீழ்ப்பிறந்தும் கற்றார்')",
+      "Unlearned but high-born ('மேற்பிறந்தார் கல்லாதார்')"
+    ]
+  },
+  "Negative_Prompt": "scales showing the opposite, modern clothing, text artifacts, blurry.",
+  "Hyperparameters": {
+    "variant": "pro",
+    "steps": 45,
+    "cfg_scale": 8,
+    "seed": "Explore variations in the design of the 'scales of worth'."
+  }
+}

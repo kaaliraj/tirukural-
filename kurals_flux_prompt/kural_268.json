@@ -1,0 +1,38 @@
+{
+  "Kural_Info": {
+    "Number": 268,
+    "Chapter": "தவம் (Penance)",
+    "Tamil_Text": "தன்னுயிர் தான்அறப் பெற்றானை ஏனையமன்னுயி ரெல்லாந் தொழும்.",
+    "English_Meaning": "All other creatures will worship him who has attained the control of his own soul."
+  },
+  "Flux_Optimized_Prompt": {
+    "Layered_Composition": {
+      "Foreground": "A single, powerful ascetic is shown. They have achieved complete mastery over their own soul ('தன் உயிர் தான் அறப் பெற்றானை'). This is visualized as their soul being a perfectly calm, stable, and radiant sphere of light that they hold in their hands.",
+      "Midground": "A vast assembly of all the other living beings in the world ('ஏனைய மன் உயிர் எல்லாம்') is gathered before them.",
+      "Background": "Every single creature, from the mightiest elephant and lion to the smallest bird and insect, and all the people of the world, are shown bowing down in a unified act of worship ('தொழும்') towards the one who has achieved perfect self-mastery."
+    },
+    "Art_Direction": {
+      "Subject_and_Action": "The person who has achieved perfect control over their own soul will be worshipped by all other living beings.",
+      "Symbolic_Motifs": "The soul as a perfect, controlled sphere of light is a symbol of their achievement. The universal act of worship by all creatures, predator and prey alike, shows the profound, peace-inducing power of their attainment.",
+      "Mood_and_Emotion": "Reverence, universal respect, supreme mastery, peace.",
+      "Lighting_and_Color": "A brilliant, divine, golden light emanates from the mastered soul, bathing the entire scene in a sacred glow. The palette is one of worship and divine peace.",
+      "Technical_Cues": {
+        "Camera": "A low-angle, wide, epic shot from behind the worshipping creatures, looking up at the majestic, serene figure of the self-mastered ascetic.",
+        "Resolution": "8K, ultra-realistic, with a diverse and detailed depiction of all the worshipping creatures.",
+        "Lighting": "The mastered soul is the primary, divine light source.",
+        "Art_Genre": "Epic mythological painting, high fantasy art."
+      },
+      "Cultural_Anchors": [
+        "He who has gained mastery of his own soul (தன்னுயிர் தான் அறப் பெற்றானை)",
+        "All other living beings will worship (ஏனைய மன் உயிர் எல்லாம் தொழும்)"
+      ]
+    },
+    "Negative_Prompt": "animals attacking, chaotic scene, text artifacts.",
+    "Hyperparameters": {
+      "variant": "pro",
+      "steps": 60,
+      "cfg_scale": 8,
+      "seed": "Explore the visual of the 'peaceable kingdom' of worshipping animals."
+    }
+  }
+}

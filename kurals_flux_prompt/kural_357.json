@@ -1,0 +1,38 @@
+{
+  "Kural_Info": {
+    "Number": 357,
+    "Chapter": "மெய்யுணர்தல் (Truth-Conciousness)",
+    "Tamil_Text": "ஓர்த்துள்ளம் உள்ளது உணரின் ஒருதலையாப்பேர்த்துள்ள வேண்டா பிறப்பு.",
+    "English_Meaning": "Let it not be thought that there is another birth for him whose mind having thoroughly considered (all it has been taught) has known the True Being."
+  },
+  "Flux_Optimized_Prompt": {
+    "Layered_Composition": {
+      "Foreground": "A wise person's mind ('உள்ளம்') is shown. It is in a state of deep, penetrative contemplation ('ஓர்த்து').",
+      "Midground": "Through this contemplation, their mind is shown perceiving and fully understanding the 'True Being' or 'That Which Is' ('உள்ளது'). This is visualized as their mind perfectly mirroring and becoming one with a single, stable, ultimate reality.",
+      "Background": "Because of this perfect realization, the entire cycle of rebirth ('பிறப்பு'), represented as a great, turning, karmic wheel, is shown coming to a definitive and final halt. The idea of it turning again ('பேர்த்து உள்ளல்') is shown to be an impossibility ('வேண்டா'). The wheel has stopped forever."
+    },
+    "Art_Direction": {
+      "Subject_and_Action": "For the one whose mind, through deep contemplation, has realized the ultimate reality, the cycle of rebirth comes to an absolute and final end.",
+      "Symbolic_Motifs": "The great wheel of rebirth grinding to a permanent halt is the central, powerful image. The mind perfectly mirroring the ultimate reality is the cause of this cessation. The stopping of the wheel is not a request, but a statement of absolute fact.",
+      "Mood_and_Emotion": "Finality, cessation, ultimate realization, stable.",
+      "Lighting_and_Color": "The Ultimate Reality is a source of pure, stable, unwavering white light. The mind that perceives it is filled with this same light. The great wheel of rebirth is a dark, complex machine that is shown breaking down and stopping in the presence of this light.",
+      "Technical_Cues": {
+        "Camera": "A shot that shows the mind's realization and then pans to the great karmic wheel as it groans, shudders, and comes to a final, absolute stop.",
+        "Resolution": "8K, ultra-realistic, with a complex mechanical design for the wheel of rebirth.",
+        "Lighting": "The light of realization is shown to be the force that stops the dark machine.",
+        "Art_Genre": "Cosmic fantasy, with mechanical and spiritual elements."
+      },
+      "Cultural_Anchors": [
+        "If the mind, having contemplated, realizes That Which Is (ஓர்த்து உள்ளம் உள்ளது உணரின்)",
+        "The thought of being born again is not needed (பேர்த்து உள்ளல் வேண்டா பிறப்பு)"
+      ]
+    },
+    "Negative_Prompt": "wheel speeding up, confused mind, text artifacts.",
+    "Hyperparameters": {
+      "variant": "pro",
+      "steps": 60,
+      "cfg_scale": 9,
+      "seed": "Explore the design of the 'great karmic wheel of rebirth'."
+    }
+  }
+}

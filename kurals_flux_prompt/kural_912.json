@@ -1,0 +1,39 @@
+{
+  "Kural_Info": {
+    "Number": 912,
+    "Chapter": "வரைவின்மகளிர் (Wanton Women)",
+    "Tamil_Text": "பயன்தூக்கிப் பண்புரைக்கும் பண்பின் மகளிர்நயன்தூக்கி நள்ளா விடல்.",
+    "English_Meaning": "One must ascertain the character of the ill-natured women who after ascertaining the wealth (of a man) speak (as if they were) good natured-ones, and avoid intercourse (with them)."
+  },
+  "Flux_Optimized_Prompt": {
+    "Layered_Composition": {
+      "Foreground": "A wise man stands observing a courtesan from a distance. His wisdom ('நயன் தூக்கி') is visualized as a magical lens or monocle.",
+      "Midground": "Through this lens, he sees the courtesan's true nature. She is shown with a scale ('பயன் தூக்கி'), weighing a potential client's wealth. Based on the weight, her outward demeanor changes, her speech becoming sweet and பண்பு' (virtuous-seeming). The lens reveals this as a calculated act, not a real quality.",
+      "Background": "Having seen her true, transactional character, the wise man is shown turning and walking away, choosing to avoid her completely ('நள்ளா விடல்')."
+    },
+    "Art_Direction": {
+      "Subject_and_Action": "A wise person should use their discernment to weigh the true, profit-seeking nature of a courtesan and, having understood it, should completely avoid her.",
+      "Symbolic_Motifs": "The magical lens of discernment is the key visual, allowing the viewer to see what the wise man sees. The courtesan with the scale clearly depicts her profit-motive ('பயன் தூக்கி'). The wise man's act of walking away is a final, decisive judgment.",
+      "Mood_and_Emotion": "Discerning, analytical, wise, detached.",
+      "Lighting_and_Color": "The scene is lit with a clear, analytical light. The courtesan's calculated sweetness is shown as a superficial, artificial glow. The wise man's path as he walks away is clear and well-lit.",
+      "Technical_Cues": {
+        "Camera": "A shot from the wise man's perspective, looking through the 'lens of discernment' at the courtesan's transactional nature.",
+        "Resolution": "8K, ultra-realistic, with a focus on the symbolic elements seen through the lens.",
+        "Lighting": "Clear, revealing light.",
+        "Art_Genre": "Symbolic realism, with a detective/analytical feel."
+      },
+      "Cultural_Anchors": [
+        "Weighing the benefit (பயன் தூக்கி)",
+        "Weighing the excellence/character (நயன் தூக்கி)",
+        "To leave without befriending (நள்ளா விடல்)"
+      ]
+    },
+    "Negative_Prompt": "wise man being fooled, sincere courtesan, text artifacts.",
+    "Hyperparameters": {
+      "variant": "dev",
+      "steps": 45,
+      "cfg_scale": 8,
+      "seed": "Explore the visual design of the 'lens of discernment'."
+    }
+  }
+}

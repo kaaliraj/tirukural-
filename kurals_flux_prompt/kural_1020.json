@@ -1,0 +1,33 @@
+{
+  "Kural_Info": {
+    "Number": 1020,
+    "Chapter": "நாணுடைமை (Shame)",
+    "Tamil_Text": "நாண்அகத் தில்லார் இயக்கம் மரப்பாவைநாணால் உயிர்மருட்டி அற்று.",
+    "English_Meaning": "'Tis as with strings a wooden puppet apes life's functions, when Those void of shame within hold intercourse with men."
+  },
+  "Flux_Optimized_Prompt": {
+    "Layered_Composition": {
+      "Foreground": "A person with no inner sense of shame ('Naan Agaththillar') is shown interacting in a social setting. However, they are depicted as a wooden puppet ('Marappaavai').",
+      "Midground": "Visible, ethereal strings ('Naanaal') are attached to the puppet's limbs, leading upwards. These strings are being manipulated by unseen hands, making the puppet perform life-like but ultimately hollow and meaningless actions ('Iyakkam').",
+      "Background": "A crowd of normal, flesh-and-blood people are interacting genuinely around the puppet, highlighting its artificial and lifeless nature by contrast."
+    },
+    "Art_Direction": {
+      "Subject_and_Action": "The actions of a person who lacks an internal sense of modesty are not genuine; they are merely a mechanical imitation of life, like a puppet being moved by strings.",
+      "Symbolic_Motifs": "The human as a wooden puppet is the central metaphor. The ethereal strings represent the external forces or base impulses that move them in the absence of an inner moral compass (shame).",
+      "Mood_and_Emotion": "Hollow, artificial, lifeless, uncanny.",
+      "Lighting_and_Color": "The puppet is lit with a flat, artificial light, emphasizing its wooden texture. The real people in the background are bathed in warm, natural light. The palette for the puppet is dull browns, while the background is colorful."
+    },
+    "Technical_Cues": {
+      "Camera": "Medium shot focusing on the puppet-person, clearly showing its wooden texture and the strings controlling it.",
+      "Resolution": "8K, surreal realism, with a hyper-realistic wooden texture for the puppet.",
+      "Lighting": "Theatrical spotlight on the puppet to enhance the feeling of a performance.",
+      "Art_Genre": "Surrealist art with a strong social commentary."
+    },
+    "Cultural_Anchors": [
+      "நாண் (Shame/Modesty)",
+      "மரப்பாவை (Wooden Puppet)",
+      "The concept of genuine vs. artificial human action"
+    ]
+  },
+  "Negative_Prompt": "a real human protagonist, no strings, a world of puppets, text artifacts, cartoonish, blurry."
+}

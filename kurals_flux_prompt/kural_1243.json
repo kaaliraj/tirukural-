@@ -1,0 +1,21 @@
+{
+  "Kural_Info": {
+    "Number": 1243,
+    "Chapter": "நெஞ்சொடுகிளத்தல் (Soliloquy)",
+    "Tamil_Text": "இருந்துள்ளி என்பரிதல் நெஞ்சே பரிந்துள்ளல்பைதல்நோய் செய்தார்கண் இல்.",
+    "English_Meaning": "What comes of sitting here in pining thought, O heart? He knows No pitying thought, the cause of all these wasting woes."
+  },
+  "Flux_Optimized_Prompt": {
+    "Layered_Composition": {
+      "Foreground": "A woman's heart ('Nenje') is personified, sitting alone and pining ('Irunthulli'), sending out waves of thought towards an absent lover.",
+      "Midground": "The distant lover ('Paithalnoi Seithaar') is shown completely oblivious, with a heart made of cold, impenetrable stone, indicating a complete lack of reciprocal, pitying thoughts ('Parinthullal...il').",
+      "Background": "The waves of thought from her heart are shown hitting the stone heart of the lover and dissipating uselessly, emphasizing the futility of her pining."
+    },
+    "Art_Direction": {
+      "Subject_and_Action": "A lament to the heart: What is the use of you sitting here and pining for him? There is no corresponding pity or thought in the one who caused all this sorrow.",
+      "Symbolic_Motifs": "The personified, pining heart. The lover's heart of stone. The uselessly dissipating waves of thought.",
+      "Mood_and_Emotion": "Futile, sorrowful, despairing, a sense of wasted emotion.",
+      "Lighting_and_Color": ""
+    }
+  }
+}

@@ -1,0 +1,39 @@
+{
+  "Kural_Info": {
+    "Number": 447,
+    "Chapter": "பெரியாரைத் துணைக்கோடல் (Seeking the Aid of Great Men)",
+    "Tamil_Text": "இடிக்குந் துணையாரை யாள்வரை யாரே கெடுக்குந் தகைமை யவர்.",
+    "English_Meaning": "Who are great enough to destroy him who has servants that have power to rebuke him?."
+  },
+  "Flux_Optimized_Prompt": {
+    "Layered_Composition": {
+      "Foreground": "A king is shown about to make a foolish or unjust decision, represented by reaching for a cracked crown.",
+      "Midground": "Suddenly, the hand of a wise and stern counselor ('இடிக்கும் துணையார்') firmly stops the king's hand. The counselor's words are visualized as bolts of lightning that shatter the cracked crown before the king can wear it.",
+      "Background": "In the distance, shadowy enemy figures, who were waiting to take advantage of the king's mistake, are shown recoiling in frustration as their opportunity is thwarted by the counselor's intervention."
+    },
+    "Art_Direction": {
+      "Subject_and_Action": "A ruler who has aides brave enough to rebuke and correct them is indestructible, as their potential mistakes are nullified before enemies can exploit them.",
+      "Symbolic_Motifs": "The cracked crown represents a bad decision. The counselor's rebuking words as lightning bolts ('இடிக்கும்') symbolize their corrective power. The thwarted enemies show the strategic benefit of such counsel.",
+      "Mood_and_Emotion": "Corrective, powerful, secure, indestructible, wise.",
+      "Lighting_and_Color": "The scene is lit by the dramatic flash of the lightning-words. The colors are stark and dramatic, emphasizing the critical moment of intervention.",
+      "Technical_Cues": {
+        "Camera": "Close-up on the action of the hands and the shattering crown, with the king's and counselor's faces showing determination.",
+        "Resolution": "8K, with high-speed photography effects to capture the shattering crown.",
+        "Lighting": "Stroboscopic, high-contrast lighting from the lightning bolts.",
+        "Art_Genre": "Dramatic historical illustration, with fantasy elements."
+      }
+    },
+    "Cultural_Anchors": [
+      "Aides who Rebuke ('இடிக்கும் துணையார்')",
+      "The indestructibility of a self-correcting ruler",
+      "The value of harsh but true counsel."
+    ]
+  },
+  "Negative_Prompt": "king punishing the counselor, king wearing the cracked crown, enemies succeeding, text artifacts.",
+  "Hyperparameters": {
+    "variant": "pro",
+    "steps": 50,
+    "cfg_scale": 9,
+    "seed": "Explore variations for the lightning bolt effect."
+  }
+}

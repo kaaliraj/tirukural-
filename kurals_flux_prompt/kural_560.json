@@ -1,0 +1,39 @@
+{
+  "Kural_Info": {
+    "Number": 560,
+    "Chapter": "கொடுங்கோன்மை (The Cruel Sceptre)",
+    "Tamil_Text": "ஆபயன் குன்றும் அறுதொழிலோர் நூல்மறப்பர் காவலன் காவான் எனின்.",
+    "English_Meaning": "If the guardian (of the country) neglects to guard it, the produce of the cows will fail, and the men of six duties viz., the Brahmins will forget the vedas."
+  },
+  "Flux_Optimized_Prompt": {
+    "Layered_Composition": {
+      "Foreground": "A king ('காவலன்') is shown neglecting his duty ('காவான்'). He is asleep on his throne.",
+      "Midground": "A split scene shows the twofold consequences of his neglect. On the left, sacred cows are shown becoming thin and their milk drying up ('ஆபயன் குன்றும்'). On the right, wise Brahmins ('அறுதொழிலோர்') are shown trying to read their sacred texts, but the letters are fading from the scrolls, symbolizing them forgetting their knowledge ('நூல் மறப்பர்').",
+      "Background": "A general sense of decay and loss of both spiritual and material well-being in the kingdom."
+    },
+    "Art_Direction": {
+      "Subject_and_Action": "If the king fails in his duty of protection, the kingdom's material sustenance (milk from cows) and spiritual foundation (the wisdom of the sages) will both decay.",
+      "Symbolic_Motifs": "The drying milk and the fading letters from the sacred texts are the two powerful, parallel consequences of the king's neglect.",
+      "Mood_and_Emotion": "Decaying, neglectful, tragic, loss of both material and spiritual wealth.",
+      "Lighting_and_Color": "A dim, sleepy, and decaying light fills the scene. The colors are faded and desaturated, giving a sense of a world losing its vitality.",
+      "Technical_Cues": {
+        "Camera": "A wide shot that links the sleeping king to the two scenes of decay happening in his kingdom.",
+        "Resolution": "8K, with a focus on the magical effect of the fading letters.",
+        "Lighting": "Low-key, somber lighting.",
+        "Art_Genre": "Symbolic historical painting."
+      }
+    },
+    "Cultural_Anchors": [
+      "A King who fails to Guard ('காவலன் காவான்')",
+      "Cows' yield diminishing ('ஆபயன் குன்றும்')",
+      "The Wise forgetting their Lore ('அறுதொழிலோர் நூல் மறப்பர்')"
+    ]
+  },
+  "Negative_Prompt": "diligent king, healthy cows, wise men remembering their lore, text on scrolls, cartoonish.",
+  "Hyperparameters": {
+    "variant": "dev",
+    "steps": 45,
+    "cfg_scale": 8,
+    "seed": "Explore variations for the fading letters effect."
+  }
+}

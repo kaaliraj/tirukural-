@@ -1,0 +1,39 @@
+{
+  "Kural_Info": {
+    "Number": 645,
+    "Chapter": "சொல்வன்மை (Power of Speech)",
+    "Tamil_Text": "சொல்லுக சொல்லைப் பிறிதோர்சொல் அச்சொல்லை வெல்லுஞ்சொல் இன்மை அறிந்து.",
+    "English_Meaning": "Speak out your speech, when once 'tis past dispute That none can utter speech that shall your speech refute."
+  },
+  "Flux_Optimized_Prompt": {
+    "Layered_Composition": {
+      "Foreground": "A powerful orator is speaking. Their words are not ephemeral; they are manifesting physically as solid, perfectly forged, diamond-like crystals.",
+      "Midground": "Opposing speakers are trying to refute these words. They are launching their own words, visualized as ordinary, blunt, wooden arrows, against the crystal words.",
+      "Background": "The wooden arrows of the opponents are shown shattering uselessly against the unbreakable, diamond-like words of the main speaker. This demonstrates that the speaker has chosen their words knowing that no counter-argument can defeat them ('வெல்லுஞ்சொல் இன்மை அறிந்து')."
+    },
+    "Art_Direction": {
+      "Subject_and_Action": "One should speak only after having formulated an argument that is so strong and true that no other word can possibly defeat it.",
+      "Symbolic_Motifs": "The speaker's words as indestructible diamonds is the key metaphor. The opponents' words as shattering wooden arrows provides the dramatic contrast and proves the speaker's invincibility.",
+      "Mood_and_Emotion": "Invincible, irrefutable, powerful, confident, masterly.",
+      "Lighting_and_Color": "The diamond words are the main source of light, glowing with an unbreakable, white brilliance and refracting light everywhere. The opponents and their wooden arrows are in shadow.",
+      "Technical_Cues": {
+        "Camera": "A dynamic shot that captures the impact of the weak words shattering against the strong ones.",
+        "Resolution": "8K, with cinematic effects for the shattering arrows and the crystalline words.",
+        "Lighting": "High-contrast lighting that emphasizes the strength of the speaker's argument.",
+        "Art_Genre": "High-fantasy art, with abstract elements."
+      }
+    },
+    "Cultural_Anchors": [
+      "The Unbeatable Word ('வெல்லுஞ்சொல் இல்லாத சொல்')",
+      "The power of irrefutable logic and truth.",
+      "Mastery in debate."
+    ]
+  },
+  "Negative_Prompt": "diamond words shattering, wooden arrows piercing through, text artifacts.",
+  "Hyperparameters": {
+    "variant": "pro",
+    "steps": 50,
+    "cfg_scale": 9,
+    "seed": "Explore variations for the diamond word structures."
+  }
+}

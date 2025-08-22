@@ -1,0 +1,39 @@
+{
+  "Kural_Info": {
+    "Number": 279,
+    "Chapter": "கூடா ஒழுக்கம் (Imposture)",
+    "Tamil_Text": "கணைகொடிது யாழ்கோடு செவ்விதுஆங் கன்னவினைபடு பாலால் கொளல்.",
+    "English_Meaning": "As, in its use, the arrow is crooked, and the curved lute is straight, so by their deeds, (and not by their appearance) let (the uprightness or crookedness of) men be estimated."
+  },
+  "Flux_Optimized_Prompt": {
+    "Layered_Composition": {
+      "Foreground": "A split composition.",
+      "Midground": "On the left, an arrow ('கணை'). It is physically perfectly straight, but its purpose and action are cruel and deadly ('கொடிது'). On the right, a lute ('யாழ்'). It is physically crooked and curved ('கோடு'), but its purpose and action are to produce beautiful, harmonious, and righteous music ('செவ்விது').",
+      "Background": "The image makes it clear that one must judge things by their actions and effects ('வினைபடு பாலால்'), not by their outward appearance. Straightness of form does not equal goodness of function, and crookedness of form does not equal badness of function."
+    },
+    "Art_Direction": {
+      "Subject_and_Action": "A powerful analogy instructing to judge people by their actions, not their appearance, just as a straight arrow is cruel and a crooked lute is good.",
+      "Symbolic_Motifs": "The arrow and the lute are the central, contrasting objects. The arrow's straightness is deceptive, as is the lute's crookedness. The 'judgment' is based on the result of their function—death versus music.",
+      "Mood_and_Emotion": "Discerning, judgmental, paradoxical, looking beyond the surface.",
+      "Lighting_and_Color": "The straight arrow is lit with a harsh, cold, metallic light. The crooked lute is bathed in a warm, gentle, harmonious golden light. The lighting reflects their true nature, not their shape.",
+      "Technical_Cues": {
+        "Camera": "A clean, graphic, comparative shot of the two objects, with a subtle visualization of their respective effects (a wound vs. musical notes).",
+        "Resolution": "8K, ultra-realistic, with a strong focus on the contrasting textures of wood and metal.",
+        "Lighting": "Symbolic lighting that reveals the true nature of the objects.",
+        "Art_Genre": "Symbolic still life."
+      },
+      "Cultural_Anchors": [
+        "The arrow is straight but cruel (கணை கொடிது)",
+        "The lute is crooked but good (யாழ் கோடு செவ்விது)",
+        "Judge by the nature of the action (வினைபடு பாலால் கொளல்)"
+      ]
+    },
+    "Negative_Prompt": "a kind arrow, a cruel lute, text artifacts.",
+    "Hyperparameters": {
+      "variant": "dev",
+      "steps": 45,
+      "cfg_scale": 7,
+      "seed": "Focus on the contrasting textures and lighting."
+    }
+  }
+}

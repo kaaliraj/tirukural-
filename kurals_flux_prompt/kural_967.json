@@ -1,0 +1,38 @@
+{
+  "Kural_Info": {
+    "Number": 967,
+    "Chapter": "மானம் (Honour)",
+    "Tamil_Text": "ஒட்டார்பின் சென்றொருவன் வாழ்தலின் அந்நிலையேகெட்டான் எனப்படுதல் நன்று.",
+    "English_Meaning": "It is better for a man to be said of him that he died in his usual state than that he eked out his life by following those who disgraced him."
+  },
+  "Flux_Optimized_Prompt": {
+    "Layered_Composition": {
+      "Foreground": "A split composition showing two fates for an honorable person.",
+      "Midground": "On the left, the person is shown living a miserable, degraded life by following and serving an enemy who hates them ('ஒட்டார்பின் சென்று வாழ்தல்'). They are alive but completely stripped of dignity.",
+      "Background": "On the right, the same person is shown having chosen to perish rather than submit. They are represented by a noble memorial stone or a heroic death scene ('கெட்டான்'). This fate, though it is death, is bathed in a light of honor and respect. It is clearly presented as the 'better' ('நன்று') option."
+    },
+    "Art_Direction": {
+      "Subject_and_Action": "It is better to be known as 'one who perished' with honor intact than to continue living a life of disgrace by submitting to one's enemies.",
+      "Symbolic_Motifs": "The contrast between a life of shame and a death of honor is the central theme. The memorial stone is a symbol of respected memory, while the living person on the other side has no such honor.",
+      "Mood_and_Emotion": "Honorable death vs. shameful life, noble choice, dignified.",
+      "Lighting_and_Color": "The life of shame is depicted in dark, muddy, and degrading colors. The scene of honorable death is lit with a pure, white-gold light of glory and respect.",
+      "Technical_Cues": {
+        "Camera": "A balanced diptych shot that presents the two choices and their resulting states of honor.",
+        "Resolution": "8K, ultra-realistic, with a strong contrast in the emotional tone of the two scenes.",
+        "Lighting": "Dualistic lighting to contrast glory and shame.",
+        "Art_Genre": "Epic historical painting."
+      },
+      "Cultural_Anchors": [
+        "Living by following one's haters (ஒட்டார்பின் சென்று வாழ்தல்)",
+        "Better to be called 'perished' (கெட்டான் எனப்படுதல் நன்று)"
+      ]
+    },
+    "Negative_Prompt": "happy person with enemy, dishonorable death, text artifacts.",
+    "Hyperparameters": {
+      "variant": "pro",
+      "steps": 50,
+      "cfg_scale": 8,
+      "seed": "Explore the visual of the 'honorable memorial stone'."
+    }
+  }
+}

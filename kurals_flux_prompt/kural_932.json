@@ -1,0 +1,39 @@
+{
+  "Kural_Info": {
+    "Number": 932,
+    "Chapter": "சூது (Gambling)",
+    "Tamil_Text": "ஒன்றெய்தி நூறிழக்கும் சூதர்க்கும் உண்டாங்கொல் நன்றெய்தி வாழ்வதோர் ஆறு.",
+    "English_Meaning": "Is there indeed a means of livelihood that can bestow happiness on gamblers who gain one and lose a hundred ?"
+  },
+  "Flux_Optimized_Prompt": {
+    "Layered_Composition": {
+      "Foreground": "A gambler is shown at a table. In one hand, they hold a single, solitary gold coin, representing the one time they win ('ஒன்றெய்தி').",
+      "Midground": "In their other hand, and all around them, is a vast, empty space from which a hundred gold coins have vanished, representing the hundred times they lose ('நூறிழக்கும்').",
+      "Background": "The path of life ahead of this gambler is shown to be a desolate, ruined wasteland. The image poses the rhetorical question: is there any way ('உண்டாங்கொல்') that this person can ever find a path to a good and happy life ('நன்றெய்தி வாழ்வதோர் ஆறு')?"
+    },
+    "Art_Direction": {
+      "Subject_and_Action": "For the gambler who wins one and loses a hundred, is there any path to a good life?",
+      "Symbolic_Motifs": "The stark visual contrast between the single coin won and the vast emptiness of the hundred coins lost is the key. The ruined path ahead shows the hopeless future of the gambler.",
+      "Mood_and_Emotion": "Hopeless, a fool's bargain, destined for ruin, rhetorical.",
+      "Lighting_and_Color": "A dim, pathetic light on the gambler and their single coin. The vast space of their losses is a dark void. The path ahead is bleak and grey.",
+      "Technical_Cues": {
+        "Camera": "A wide, lonely shot that emphasizes the gambler's net loss and their desolate future.",
+        "Resolution": "8K, with a strong sense of emptiness and despair.",
+        "Lighting": "Low-key, depressing lighting.",
+        "Art_Genre": "Tragic realism."
+      },
+      "Cultural_Anchors": [
+        "Winning one and losing a hundred",
+        "The gambler's folly",
+        "The impossibility of a good life through gambling."
+      ]
+    },
+    "Negative_Prompt": "a gambler with many coins, a beautiful path ahead, text artifacts.",
+    "Hyperparameters": {
+      "variant": "dev",
+      "steps": 40,
+      "cfg_scale": 8,
+      "seed": "Explore variations for the ruined path."
+    }
+  }
+}

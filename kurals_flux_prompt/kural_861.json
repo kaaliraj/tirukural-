@@ -1,0 +1,39 @@
+{
+  "Kural_Info": {
+    "Number": 861,
+    "Chapter": "பகைமாட்சி (The Might of Hatred)",
+    "Tamil_Text": "வலியார்க்கு மாறேற்றல் ஓம்புக ஓம்பாமெலியார்மேல் மேக பகை.",
+    "English_Meaning": "Avoid offering resistance to the strong; (but) never fail to cherish enmity towards the weak."
+  },
+  "Flux_Optimized_Prompt": {
+    "Layered_Composition": {
+      "Foreground": "A wise strategist, possibly a king, is shown making a critical decision on a strategic map of a battlefield.",
+      "Midground": "The king demonstrates two opposing strategies. On one side of the map, a colossal, powerful warrior representing 'the strong' ('வலியார்') is shown. The king's hand is shown actively pulling his own troops away, avoiding conflict ('மாறேற்றல் ஓம்புக').",
+      "Background": "On the other side of the map, a small, weak warrior representing 'the weak' ('மெலியார்') is shown. The king's hand is shown decisively moving his troops to engage and press the advantage against this enemy ('மேக பகை'). This is depicted as a strategic choice, not bullying."
+    },
+    "Art_Direction": {
+      "Subject_and_Action": "A pragmatic illustration of strategic wisdom: avoid direct confrontation with those stronger than you, but do not hesitate to press your advantage and show enmity towards those weaker than you.",
+      "Symbolic_Motifs": "The strategic map is a metaphor for calculated decision-making. The contrasting actions of avoidance and engagement are presented as two sides of the same coin of strategic prudence, not as cowardice and aggression.",
+      "Mood_and_Emotion": "Strategic, pragmatic, calculating, prudent.",
+      "Lighting_and_Color": "A clear, focused, intellectual light illuminates the king and the map. The 'strong' enemy might be represented by a piece glowing with overwhelming power, while the 'weak' enemy is a simple, unadorned piece.",
+      "Technical_Cues": {
+        "Camera": "A top-down shot focusing on the strategic map and the king's hands making the decisive, contrasting moves.",
+        "Resolution": "8K, ultra-realistic, with detailed map textures and symbolic game pieces.",
+        "Lighting": "Clean, strategic lighting, similar to a high-stakes chess match.",
+        "Art_Genre": "Historical strategy visualization."
+      },
+      "Cultural_Anchors": [
+        "Dealing with the strong (வலியார்க்கு)",
+        "Dealing with the weak (மெலியார்மேல்)",
+        "Strategic enmity (பகை)"
+      ]
+    },
+    "Negative_Prompt": "king attacking the strong, ignoring the weak, text artifacts, emotional king.",
+    "Hyperparameters": {
+      "variant": "dev",
+      "steps": 45,
+      "cfg_scale": 8,
+      "seed": "Explore the design of the symbolic map and game pieces."
+    }
+  }
+}

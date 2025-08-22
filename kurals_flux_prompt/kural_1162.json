@@ -1,0 +1,33 @@
+{
+  "Kural_Info": {
+    "Number": 1162,
+    "Chapter": "படர்மெலிந்திரங்கல் (Complainings)",
+    "Tamil_Text": "கரத்தலும் ஆற்றேன்இந் நோயைநோய் செய்தார்க்குஉரைத்தலும் நாணுத் தரும்.",
+    "English_Meaning": "I cannot hide this pain of mine, yet shame restrains When I would tell it out to him who caused my pains."
+  },
+  "Flux_Optimized_Prompt": {
+    "Layered_Composition": {
+      "Foreground": "A woman is caught in a state of paralysis. Her lovesickness ('Noi') is a visible, thorny vine growing from her heart, impossible to hide ('Karathalum Aatren').",
+      "Midground": "She wants to turn and speak to her lover ('Noi Seitharkku Uraiththalum'), who is visible in the distance. However, a powerful, ethereal barrier of 'Naanu' (shame/modesty) stands between them, preventing her from speaking.",
+      "Background": "A desolate landscape that mirrors her internal state of being trapped between two opposing forces: the irrepressible urge to express her pain and the powerful restraint of shame."
+    },
+    "Art_Direction": {
+      "Subject_and_Action": "The painful dilemma of being unable to conceal one's love-sickness, yet being too ashamed to confess it to the one who caused it.",
+      "Symbolic_Motifs": "The visible thorny vine of pain. The translucent but impassable wall of shame. The woman caught physically between these two forces.",
+      "Mood_and_Emotion": "Trapped, conflicted, painful, a sense of agonizing paralysis.",
+      "Lighting_and_Color": "Dramatic, high-contrast lighting. The vine of pain might have a dark, sickly glow, while the barrier of shame shimmers with a cold, blue light. She is caught in the conflicting glow of both."
+    },
+    "Technical_Cues": {
+      "Camera": "Medium shot that captures the woman, the vine emerging from her, and the barrier of shame she faces.",
+      "Resolution": "8K, symbolic realism, with detailed effects for the vine and the ethereal barrier.",
+      "Lighting": "Use of colored light sources to symbolize the different emotions at play.",
+      "Art_Genre": "Psychological surrealism, visualizing an internal conflict."
+    },
+    "Cultural_Anchors": [
+      "காம நோய் (Lovesickness)",
+      "நாணு (Shame/Modesty)",
+      "The internal conflict of a lover"
+    ]
+  },
+  "Negative_Prompt": "a happy, communicative woman, no barrier, modern setting, text artifacts, blurry."
+}

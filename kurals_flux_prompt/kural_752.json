@@ -1,0 +1,39 @@
+{
+  "Kural_Info": {
+    "Number": 752,
+    "Chapter": "பொருள்செயல்வகை (Way of Accumulating Wealth)",
+    "Tamil_Text": "இல்லாரை எல்லாரும் எள்ளுவர் செல்வரை எல்லாரும் செய்வர் சிறப்பு.",
+    "English_Meaning": "All despise the poor; (but) all praise the rich."
+  },
+  "Flux_Optimized_Prompt": {
+    "Layered_Composition": {
+      "Foreground": "A starkly divided scene. On the left side, a poor, destitute person ('இல்லார்') is being scorned and looked down upon by a crowd ('எல்லாரும் எள்ளுவர்').",
+      "Midground": "On the right side, a wealthy person ('செல்வர்') is being praised, honored, and surrounded by an adoring crowd ('எல்லாரும் செய்வர் சிறப்பு').",
+      "Background": "The two central figures could be the same person in different circumstances, highlighting the fickle nature of the world's respect, which is based on wealth alone."
+    },
+    "Art_Direction": {
+      "Subject_and_Action": "A direct and cynical observation of the world: everyone despises the poor, and everyone honors the rich.",
+      "Symbolic_Motifs": "The contrasting reactions of the crowd to the two figures is the entire story. The expressions of scorn versus adoration are key.",
+      "Mood_and_Emotion": "Cynical, realistic, a commentary on social hypocrisy.",
+      "Lighting_and_Color": "The poor person's side is dark, shadowed, and colored with bleak, cool tones. The rich person's side is bright, warm, and full of celebratory, golden light.",
+      "Technical_Cues": {
+        "Camera": "A balanced, side-by-side composition that forces the viewer to confront the harsh reality of social judgment.",
+        "Resolution": "8K, with highly expressive faces in the crowd.",
+        "Lighting": "High-contrast, split lighting.",
+        "Art_Genre": "Social realism."
+      }
+    },
+    "Cultural_Anchors": [
+      "All despise the poor ('இல்லாரை எல்லாரும் எள்ளுவர்')",
+      "All honor the rich ('செல்வரை எல்லாரும் செய்வர் சிறப்பு')",
+      "The world's attitude towards wealth and poverty."
+    ]
+  },
+  "Negative_Prompt": "poor person being praised, rich person being scorned, text artifacts, cartoonish.",
+  "Hyperparameters": {
+    "variant": "dev",
+    "steps": 45,
+    "cfg_scale": 8,
+    "seed": "Explore variations for the crowd's expressions."
+  }
+}

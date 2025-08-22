@@ -1,0 +1,33 @@
+{
+  "Kural_Info": {
+    "Number": 1166,
+    "Chapter": "படர்மெலிந்திரங்கல் (Complainings)",
+    "Tamil_Text": "இன்பம் கடல்மற்றுக் காமம் அஃதடுங்கால்துன்பம் அதனிற் பெரிது.",
+    "English_Meaning": "A happy love 's sea of joy; but mightier sorrows roll From unpropitious love athwart the troubled soul."
+  },
+  "Flux_Optimized_Prompt": {
+    "Layered_Composition": {
+      "Foreground": "A vast, beautiful, sunlit sea representing the pleasure of fulfilled love ('Inbam Kadal'). People are shown joyfully interacting with this sea.",
+      "Midground": "Suddenly, a colossal tsunami wave rises from this same sea. This wave is dark, menacing, and larger than the sea itself ('Thunbam AthaniR Perithu'). This represents the pain of that same love when it is thwarted or obstructed.",
+      "Background": "The sky transforms from a bright, sunny day to a dark, stormy night as the tsunami of sorrow forms, showing how quickly joy can turn to overwhelming pain."
+    },
+    "Art_Direction": {
+      "Subject_and_Action": "The pleasure of love is as vast as the sea, but the pain that comes from that same love when it is obstructed is even greater than the sea.",
+      "Symbolic_Motifs": "The sea of joy transforming into a tsunami of sorrow is the central, powerful metaphor.",
+      "Mood_and_Emotion": "Dramatic, overwhelming, epic, showing the dual potential of love for immense joy and immense pain.",
+      "Lighting_and_Color": "A stark shift from bright, vibrant, sunny colors to dark, terrifying, stormy colors. The tsunami wave is almost black, filled with chaotic energy."
+    },
+    "Technical_Cues": {
+      "Camera": "Epic, ultra-wide cinematic shot to capture the immense scale of both the sea of joy and the tsunami of sorrow.",
+      "Resolution": "8K, digital matte painting, with spectacular, photorealistic water and weather effects.",
+      "Lighting": "Dramatic shift from high-key, bright lighting to low-key, stormy lighting.",
+      "Art_Genre": "Epic disaster movie aesthetic applied to a romantic, emotional concept."
+    },
+    "Cultural_Anchors": [
+      "இன்பக் கடல் (Sea of Joy)",
+      "துன்பம் (Sorrow/Pain)",
+      "The immense scale of love's emotions"
+    ]
+  },
+  "Negative_Prompt": "a small wave, a calm sea throughout, modern boats, text artifacts, cartoonish, blurry."
+}

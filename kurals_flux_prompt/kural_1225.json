@@ -1,0 +1,33 @@
+{
+  "Kural_Info": {
+    "Number": 1225,
+    "Chapter": "பொழுதுகண்டிரங்கல் (Lamentations at Eventide)",
+    "Tamil_Text": "காலைக்குச் செய்தநன்று என்கொல் எவன்கொல்யான்மாலைக்குச் செய்த பகை.",
+    "English_Meaning": "What good have I done to morning (and) what evil to evening?."
+  },
+  "Flux_Optimized_Prompt": {
+    "Layered_Composition": {
+      "Foreground": "A woman is shown in two states, bisecting the image. On the left, it is morning ('Kaalai'), and the time of day is personified as a kind, gentle friend who comforts her and gives her hope.",
+      "Midground": "On the right, it is evening ('Maalai'), and this time of day is personified as a cruel, tormenting enemy who brings her immense sorrow and pain.",
+      "Background": "The woman looks from one personified figure to the other with a bewildered expression, as if asking what good deed she did to earn the friendship of the Morning, and what terrible crime she committed to earn the enmity of the Evening."
+    },
+    "Art_Direction": {
+      "Subject_and_Action": "A lover's lament, questioning the vastly different nature of morning and evening. The morning is a friend, bringing a brief respite of hope, while the evening is a cruel enemy that amplifies her sorrow.",
+      "Symbolic_Motifs": "The personification of Morning as a kind friend and Evening as a cruel foe is the central visual.",
+      "Mood_and_Emotion": "Bewildered, questioning, a stark contrast between hope and despair.",
+      "Lighting_and_Color": "The left (morning) side is filled with bright, gentle, hopeful colors—soft yellows and light blues. The right (evening) side is filled with dark, oppressive, painful colors—deep reds and blacks."
+    },
+    "Technical_Cues": {
+      "Camera": "A balanced, split-screen composition that clearly shows the woman's relationship with the two personified times of day.",
+      "Resolution": "8K, allegorical realism, with creative and expressive designs for the personified Morning and Evening.",
+      "Lighting": "Contrasting lighting schemes—soft and high-key versus dark and low-key.",
+      "Art_Genre": "Symbolic and allegorical art."
+    },
+    "Cultural_Anchors": [
+      "காலை (Morning) as a time of hope",
+      "மாலை (Evening) as a time of sorrow",
+      "The personification of time"
+    ]
+  },
+  "Negative_Prompt": "an evil morning, a kind evening, a neutral woman, text artifacts, cartoonish, blurry."
+}

@@ -1,0 +1,38 @@
+{
+  "Kural_Info": {
+    "Number": 465,
+    "Chapter": "தெரிந்துசெயல்வகை (Acting after due Consideration)",
+    "Tamil_Text": "வகையறச் சூழா தெழுதல் பகைவரைப்பாத்திப் படுப்பதோ ராறு.",
+    "English_Meaning": "One way to promote the prosperity of an enemy, is (for a king) to set out (to war) without having thoroughly weighed his ability (to cope with its chances)."
+  },
+  "Flux_Optimized_Prompt": {
+    "Layered_Composition": {
+      "Foreground": "A foolish king impulsively begins a campaign ('எழுதல்') without proper planning ('வகையறச் சூழாது').",
+      "Midground": "His actions are shown to be directly benefiting his enemy. He is unknowingly watering and fertilizing a small, weak sapling in his enemy's territory.",
+      "Background": "As a result of the king's unplanned actions, the enemy's sapling grows into a mighty, formidable, and menacing war tree, symbolizing that the king has inadvertently cultivated and strengthened his own enemy ('பகைவரைப் பாத்திப் படுப்பது')."
+    },
+    "Art_Direction": {
+      "Subject_and_Action": "To act without a comprehensive plan is the surest way to cultivate the strength of one's own enemy.",
+      "Symbolic_Motifs": "The act of 'planting and nurturing' ('பாத்திப் படுப்பது') the enemy's strength is the central, ironic metaphor. The impulsive king thinks he is attacking, but the visual shows he is actually helping his foe grow stronger.",
+      "Mood_and_Emotion": "Ironic, self-defeating, foolish, cautionary.",
+      "Lighting_and_Color": "The foolish king's kingdom is lit with a chaotic, impulsive light. The enemy's territory grows from a dim, weak state into a powerful, dark, and menacingly strong one, with the colors becoming more saturated and threatening as a result of the king's actions.",
+      "Technical_Cues": {
+        "Camera": "A wide shot that shows the cause and effect: the king's impulsive action on one side of the frame directly causing the enemy's power to grow on the other.",
+        "Resolution": "8K, ultra-realistic, with time-lapse effects showing the enemy's power growing like a plant.",
+        "Lighting": "The lighting should shift to show the enemy becoming more powerful and dominant as the story progresses.",
+        "Art_Genre": "Symbolic narrative painting, dark fantasy."
+      },
+      "Cultural_Anchors": [
+        "Acting without a complete plan (வகையறச் சூழாது எழுதல்)",
+        "Planting/Cultivating the enemy (பகைவரைப் பாத்திப் படுப்பது)"
+      ]
+    },
+    "Negative_Prompt": "king winning, enemy weakening, text artifacts, successful impulsive act.",
+    "Hyperparameters": {
+      "variant": "pro",
+      "steps": 50,
+      "cfg_scale": 9,
+      "seed": "Explore the design of the menacing 'war tree'."
+    }
+  }
+}

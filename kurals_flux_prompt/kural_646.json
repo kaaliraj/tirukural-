@@ -1,0 +1,39 @@
+{
+  "Kural_Info": {
+    "Number": 646,
+    "Chapter": "சொல்வன்மை (Power of Speech)",
+    "Tamil_Text": "வேட்பத்தாஞ் சொல்லிப் பிறர்சொல் பயன்கோடல் மாட்சியின் மாசற்றார் கோள்.",
+    "English_Meaning": "It is the opinion of those who are free from defects in diplomacy that the minister should speak so as to make his hearers desire (to hear more) and grasp the meaning of what he hears himself."
+  },
+  "Flux_Optimized_Prompt": {
+    "Layered_Composition": {
+      "Foreground": "A wise and flawless diplomat ('மாசற்றார்') is shown in conversation. When they speak, their words are like charming, beautiful birds that captivate the listener ('வேட்பத்தாம் சொல்லி').",
+      "Midground": "When the other person speaks, the diplomat's ear is shown to have a unique ability: it can separate the 'chaff' from the 'wheat' of the incoming words. The useless parts of the speech blow away as dust, while the core meaning and benefit ('பயன்') is extracted as a single, glowing pearl of wisdom ('பயன்கோடல்').",
+      "Background": "A serene and dignified court setting, where this high level of communication leads to understanding and success."
+    },
+    "Art_Direction": {
+      "Subject_and_Action": "The method of the faultless is to speak charmingly and to listen in a way that extracts the essential benefit from others' words.",
+      "Symbolic_Motifs": "The charming birds represent captivating speech. The ear that filters speech and extracts a pearl of meaning is the metaphor for skillful listening.",
+      "Mood_and_Emotion": "Skillful, charming, perceptive, efficient, flawless.",
+      "Lighting_and_Color": "A gentle, pleasing light fills the scene. The word-birds are colorful and attractive. The pearl of meaning glows with a pure, white light.",
+      "Technical_Cues": {
+        "Camera": "A close-up on the two speakers, with surreal effects to visualize the words and the listening process.",
+        "Resolution": "8K, with beautiful and delicate visual effects.",
+        "Lighting": "Soft, diplomatic lighting.",
+        "Art_Genre": "Magical realism, symbolic illustration."
+      }
+    },
+    "Cultural_Anchors": [
+      "Speaking pleasingly ('வேட்பத்தாம் சொல்லி')",
+      "Grasping the benefit of others' words ('பிறர்சொல் பயன்கோடல்')",
+      "The mark of the faultless diplomat ('மாசற்றார் கோள்')"
+    ]
+  },
+  "Negative_Prompt": "ugly birds, listener looking confused, no pearl, text artifacts.",
+  "Hyperparameters": {
+    "variant": "dev",
+    "steps": 40,
+    "cfg_scale": 8,
+    "seed": "Explore variations for the 'word-birds'."
+  }
+}

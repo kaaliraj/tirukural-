@@ -1,0 +1,39 @@
+{
+  "Kural_Info": {
+    "Number": 86,
+    "Chapter": "விருந்தோம்பல் (Hospitality)",
+    "Tamil_Text": "செல்விருந்து ஓம்பி வருவிருந்து பார்த்திருப்பான்நல்வருந்து வானத் தவர்க்கு.",
+    "English_Meaning": "He who, having entertained the guests that have come, looks out for others who may yet come, will be a welcome guest to the inhabitants of heaven."
+  },
+  "Flux_Optimized_Prompt": {
+    "Layered_Composition": {
+      "Foreground": "On Earth, a householder stands at his gate. With one hand, he is waving a fond farewell to the guests who have just left ('செல்விருந்து'). With the other, his gaze is already fixed on the horizon, expectantly looking for new guests to arrive ('வருவிருந்து பார்த்திருப்பான்').",
+      "Midground": "An ethereal pathway of light ascends from him towards the heavens.",
+      "Background": "In the celestial realm ('வானம்'), the Gods ('வானத்தவர்') are shown at their own gate, looking down the path with the same expectant, welcoming expression, waiting to receive the householder as their own most treasured guest ('நல்விருந்து')."
+    },
+    "Art_Direction": {
+      "Subject_and_Action": "The man who constantly looks for guests to entertain on Earth will himself be eagerly awaited as a welcome guest by the Gods in heaven.",
+      "Symbolic_Motifs": "The parallel posture and expression of the earthly host and the divine hosts is the key visual element. It creates a beautiful symmetry between earthly action and heavenly reward. The earthly host's welcoming nature is perfectly mirrored by the Gods.",
+      "Mood_and_Emotion": "Reciprocal, welcoming, honored, anticipated.",
+      "Lighting_and_Color": "The earthly scene is lit with warm, hospitable light. The celestial scene is lit with a brilliant, divine light. The path connects the two, and the welcoming expressions are the same in both realms.",
+      "Technical_Cues": {
+        "Camera": "A vertical composition, showing the earthly scene below and the celestial scene above, connected by the man's upward gaze and the Gods' downward gaze.",
+        "Resolution": "8K, ultra-realistic, with a clear contrast between the textures of the earthly and heavenly realms.",
+        "Lighting": "Symbolic lighting that connects the two scenes through a shared color palette of welcoming gold.",
+        "Art_Genre": "Mythological painting, symbolic realism."
+      },
+      "Cultural_Anchors": [
+        "The departing guest (செல்விருந்து)",
+        "The coming guest (வருவிருந்து)",
+        "Becoming a welcome guest to the Gods (நல்விருந்து வானத்தவர்க்கு)"
+      ]
+    },
+    "Negative_Prompt": "closed gate, angry gods, lonely host, text artifacts, dark heaven.",
+    "Hyperparameters": {
+      "variant": "pro",
+      "steps": 50,
+      "cfg_scale": 8,
+      "seed": "Explore the welcoming expressions of the celestial beings."
+    }
+  }
+}

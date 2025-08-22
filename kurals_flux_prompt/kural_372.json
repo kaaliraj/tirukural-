@@ -1,0 +1,39 @@
+{
+  "Kural_Info": {
+    "Number": 372,
+    "Chapter": "ஊழ் (Fate)",
+    "Tamil_Text": "பேதைப் படுக்கும் இழவூழ் அறிவகற்றும் ஆகலூழ் உற்றக் கடை.",
+    "English_Meaning": "The fate that loss ordains makes wise men's wisdom foolishness; The fate that gain bestows with ampler powers will wisdom bless."
+  },
+  "Flux_Optimized_Prompt": {
+    "Layered_Composition": {
+      "Foreground": "Again a split composition. On the left, a wise scholar is surrounded by books, but a dark, shadowy hand representing Adverse Fate ('இழவூழ்') covers their eyes, making them appear confused and foolish ('பேதை').",
+      "Midground": "On the right, a simple person is touched by a ray of golden light from a celestial source representing Prosperous Fate ('ஆகலூழ்'). Their mind visibly expands, represented by glowing geometric patterns of wisdom ('அறிவு') forming around their head.",
+      "Background": "A vast, cosmic backdrop suggesting that these forces of fate are universal and beyond human control."
+    },
+    "Art_Direction": {
+      "Subject_and_Action": "The dual power of Fate: how adverse fate can cloud the mind of the wise, while prosperous fate can grant clarity and expand the knowledge of the simple.",
+      "Symbolic_Motifs": "The shadowy hand blinding the scholar represents fate-induced folly. The ray of light and geometric patterns symbolize fate-bestowed wisdom.",
+      "Mood_and_Emotion": "Inevitable, deterministic, intellectual, profound.",
+      "Lighting_and_Color": "The left side is dark and shadowed, with cool tones. The right side is illuminated by a brilliant, warm golden light, with vibrant colors in the wisdom patterns."
+    },
+    "Technical_Cues": {
+      "Camera": "Symmetrical wide shot, creating a powerful visual parallel.",
+      "Resolution": "8K, ultra-realistic figures with abstract, glowing effects for the mental states.",
+      "Lighting": "High contrast, with a single shadow source on the left and a single light source on the right.",
+      "Art_Genre": "Symbolic realism, metaphysical art."
+    },
+    "Cultural_Anchors": [
+      "Concept of 'Ūzh' (Fate)",
+      "Adverse Fate ('இழவூழ்') causing folly ('பேதைமை')",
+      "Prosperous Fate ('ஆகலூழ்') expanding knowledge ('அறிவு')"
+    ]
+  },
+  "Negative_Prompt": "happy scholar on the left, confused person on the right, text on books, blurry, modern clothing.",
+  "Hyperparameters": {
+    "variant": "pro",
+    "steps": 45,
+    "cfg_scale": 8,
+    "seed": "Explore variations for the glowing wisdom patterns."
+  }
+}

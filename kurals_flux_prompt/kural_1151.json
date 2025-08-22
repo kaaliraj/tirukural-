@@ -1,0 +1,33 @@
+{
+  "Kural_Info": {
+    "Number": 1151,
+    "Chapter": "பிரிவாற்றாமை (Separation unendurable)",
+    "Tamil_Text": "செல்லாமை உண்டேல் எனக்குரை மற்றுநின்வல்வரவு வாழ்வார்க் குரை.",
+    "English_Meaning": "If you will say, 'I leave thee not,' then tell me so; Of quick return tell those that can survive this woe."
+  },
+  "Flux_Optimized_Prompt": {
+    "Layered_Composition": {
+      "Foreground": "A woman speaks directly to her lover who is poised to depart. Her expression is pleading and intense. Her hand is held up, asking him to confirm he is not leaving ('Sellamai undel enakku urai').",
+      "Midground": "Behind her, a ghostly, transparent image of herself is shown already wasting away, symbolizing her belief that she will not survive the separation.",
+      "Background": "The path leading away from them is long and uncertain. The lover's promise of a quick return ('Valvaravu') is directed towards an empty space, where the 'survivors' ('Vaalvarkku') would be, but there are none."
+    },
+    "Art_Direction": {
+      "Subject_and_Action": "A lover's desperate plea: tell me if you are not leaving, because the promise of a quick return is meaningless to someone who feels they will die from the sorrow of separation.",
+      "Symbolic_Motifs": "The ghostly, fading image of her future self represents her conviction of not surviving. The lover speaking to an empty space symbolizes the futility of his promise from her perspective.",
+      "Mood_and_Emotion": "Desperate, heartbreaking, intense, pleading.",
+      "Lighting_and_Color": "Dramatic, low-key lighting, focusing on the intense emotion on the woman's face. The color palette is somber and shadowed, reflecting the sorrow of impending separation."
+    },
+    "Technical_Cues": {
+      "Camera": "Intimate medium close-up, capturing the raw emotion of the plea.",
+      "Resolution": "8K, photorealistic, with a strong emphasis on conveying deep, painful emotion through facial expressions.",
+      "Lighting": "Chiaroscuro lighting to create a mood of intimacy and tragic drama.",
+      "Art_Genre": "Cinematic romantic drama."
+    },
+    "Cultural_Anchors": [
+      "பிரிவாற்றாமை (Inability to endure separation)",
+      "The lover's plea",
+      "The hyperbole of dying from sorrow"
+    ]
+  },
+  "Negative_Prompt": "happy couple, smiling woman, bright sunny day, modern clothing, text artifacts, cartoonish."
+}

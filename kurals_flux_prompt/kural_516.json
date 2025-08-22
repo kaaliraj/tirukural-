@@ -1,0 +1,39 @@
+{
+  "Kural_Info": {
+    "Number": 516,
+    "Chapter": "தெரிந்துவினையாடல் (Selection and Employment)",
+    "Tamil_Text": "செய்வானை நாடி வினைநாடிக் காலத்தோடு எய்த உணர்ந்து செயல்.",
+    "English_Meaning": "Let (a king) act, after having considered the agent (whom he is to employ), the deed (he desires to do), and the time which is suitable to it."
+  },
+  "Flux_Optimized_Prompt": {
+    "Layered_Composition": {
+      "Foreground": "A wise ruler is shown in deep contemplation before a cosmic tableau.",
+      "Midground": "Three glowing, ethereal symbols float before him, which he must align perfectly. The first is a figure representing the right person ('செய்வானை'). The second is a symbol for the specific task ('வினை'). The third is a celestial clock representing the right time ('காலத்தோடு').",
+      "Background": "Only when all three symbols are perfectly aligned does a path of light open up, leading to successful action ('செயல்'). The ruler is waiting for this perfect alignment before proceeding."
+    },
+    "Art_Direction": {
+      "Subject_and_Action": "Action should only be taken after a deep consideration and perfect alignment of three key elements: the right person, the nature of the task, and the opportune moment.",
+      "Symbolic_Motifs": "The three glowing symbols that must be aligned are the central metaphor for the three considerations. The opening of the path of light represents the moment of correct action.",
+      "Mood_and_Emotion": "Strategic, thoughtful, patient, precise, holistic.",
+      "Lighting_and_Color": "A mystical, cosmic light emanates from the three symbols. The palette is deep and intellectual, with blues, golds, and purples. The path of light is a brilliant white.",
+      "Technical_Cues": {
+        "Camera": "A shot from behind the ruler, looking at the cosmic puzzle he is solving.",
+        "Resolution": "8K, with high-quality abstract and glowing effects for the symbols.",
+        "Lighting": "The primary light source is the glow from the three symbols as they come into alignment.",
+        "Art_Genre": "Metaphysical art, high-fantasy illustration."
+      }
+    },
+    "Cultural_Anchors": [
+      "Considering the Agent ('செய்வானை நாடி')",
+      "Considering the Deed ('வினைநாடி')",
+      "Considering the Time ('காலத்தோடு')"
+    ]
+  },
+  "Negative_Prompt": "misaligned symbols, dark path, ruler acting rashly, text artifacts, cartoonish.",
+  "Hyperparameters": {
+    "variant": "dev",
+    "steps": 45,
+    "cfg_scale": 9,
+    "seed": "Explore variations for the design of the three glowing symbols."
+  }
+}

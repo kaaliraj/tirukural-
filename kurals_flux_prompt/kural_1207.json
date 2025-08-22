@@ -1,0 +1,32 @@
+{
+  "Kural_Info": {
+    "Number": 1207,
+    "Chapter": "நினைந்தவர்புலம்பல் (Sad Memories)",
+    "Tamil_Text": "மறப்பின் எவனாவன் மற்கொல் மறப்பறியேன்உள்ளினும் உள்ளம் சுடும்.",
+    "English_Meaning": "If I remembered not what were I then? And yet, The fiery smart of what my spirit knows not to forget!."
+  },
+  "Flux_Optimized_Prompt": {
+    "Layered_Composition": {
+      "Foreground": "A woman is caught in a painful paradox. Her heart ('Ullam') is shown to be literally burning with a magical, blue flame ('Sudum') from the act of remembering her lover ('Ullinum').",
+      "Midground": "At the same time, she is terrified of forgetting him ('Marappin Evan Aavan?'). This fear is visualized as a dark, cold void that threatens to consume her if the flame of memory goes out.",
+      "Background": "She is trapped between these two forms of suffering: the burning pain of memory and the annihilating cold of forgetting. The background is a swirl of these two opposing forces, fire and void."
+    },
+    "Art_Direction": {
+      "Subject_and_Action": "The agonizing dilemma of a lover: remembering brings a burning pain, but the thought of forgetting is an even more terrifying prospect of annihilation.",
+      "Symbolic_Motifs": "The burning heart of memory versus the cold void of forgetting. She is suspended between these two absolutes.",
+      "Mood_and_Emotion": "Agonizing, trapped, paradoxical, a choice between two kinds of pain.",
+      "Lighting_and_Color": "The scene is lit by the conflicting magical lights of the blue fire from her heart and the darkness of the void. This creates a high-contrast, unsettling atmosphere."
+    },
+    "Technical_Cues": {
+      "Camera": "A dramatic close-up on the woman's tormented face, caught between the light of the fire and the encroaching darkness.",
+      "Resolution": "8K, dark fantasy realism, with spectacular elemental effects for the fire and the void.",
+      "Lighting": "Dual, opposing light sources—one hot and one cold—to symbolize the central conflict.",
+      "Art_Genre": "Psychological fantasy art, visualizing a profound emotional dilemma."
+    },
+    "Cultural_Anchors": [
+      "The pain of memory (நினைப்பின் சுடும்)",
+      "The fear of forgetting (மறப்பின் بیم)"
+    ]
+  },
+  "Negative_Prompt": "a happy woman, a peaceful memory, modern setting, text artifacts, cartoonish, blurry."
+}

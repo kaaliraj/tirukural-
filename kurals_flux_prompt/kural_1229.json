@@ -1,0 +1,33 @@
+{
+  "Kural_Info": {
+    "Number": 1229,
+    "Chapter": "பொழுதுகண்டிரங்கல் (Lamentations at Eventide)",
+    "Tamil_Text": "பதிமருண்டு பைதல் உழக்கும் மதிமருண்டுமாலை படர்தரும் போழ்து.",
+    "English_Meaning": "When night comes on confusing (everyone's) mind, the (whole) town will lose its sense and be plunged in sorrow."
+  },
+  "Flux_Optimized_Prompt": {
+    "Layered_Composition": {
+      "Foreground": "An ancient Tamil town ('Pathi') is depicted as evening falls. The entire town is shown in a state of confusion and sorrow ('Marundu Paithal Uzhakkum'). People are wandering aimlessly, their faces bewildered.",
+      "Midground": "The cause of this confusion is the evening itself. The moon ('Madhi') is shown as being bewildered ('Marundu'), perhaps hazy or distorted. The evening light ('Maalai') is strange and disorienting.",
+      "Background": "The very fabric of reality seems to warp and melt as the bewildering evening takes hold, affecting everyone and everything in the town, mirroring the lover's internal state."
+    },
+    "Art_Direction": {
+      "Subject_and_Action": "The lover projects her internal, love-sick confusion onto the entire world, imagining that the whole town and even the moon itself becomes bewildered and sorrowful as the painful evening arrives.",
+      "Symbolic_Motifs": "The entire town sharing her sorrow. The moon itself being confused. This projection of her internal state onto the external world is the core idea.",
+      "Mood_and_Emotion": "Bewildered, confused, sorrowful, surreal, disorienting.",
+      "Lighting_and_Color": "An eerie, strange twilight. The colors are unnatural and shifting. The moonlight is hazy and distorted, creating a sense of unreality."
+    },
+    "Technical_Cues": {
+      "Camera": "A wide, disorienting shot with a slow, swirling camera movement to enhance the feeling of confusion.",
+      "Resolution": "8K, surreal realism, with a dream-like, hazy quality.",
+      "Lighting": "Unconventional, source-less lighting to create a bewildering atmosphere.",
+      "Art_Genre": "Expressionistic surrealism, where the entire world is a reflection of the protagonist's mind."
+    },
+    "Cultural_Anchors": [
+      "Projecting inner feelings onto the world",
+      "மருள் மாலை (Bewildering evening)",
+      "பதி (Town/City)"
+    ]
+  },
+  "Negative_Prompt": "a normal town, a clear moon, happy people, text artifacts, modern city, bright lighting."
+}

@@ -1,0 +1,33 @@
+{
+  "Kural_Info": {
+    "Number": 1247,
+    "Chapter": "நெஞ்சொடுகிளத்தல் (Soliloquy)",
+    "Tamil_Text": "காமம் விடுஒன்றோ நாண்விடு நன்னெஞ்சேயானோ பொறேன்இவ் விரண்டு.",
+    "English_Meaning": "Or bid thy love, or bid thy shame depart; For me, I cannot bear them both, my worthy heart!."
+  },
+  "Flux_Optimized_Prompt": {
+    "Layered_Composition": {
+      "Foreground": "A woman stands at a crossroads, her expression one of extreme torment and indecision. She is literally being pulled in two opposite directions.",
+      "Midground": "On one side, a powerful, fiery, personified figure of 'Kaamam' (Love/Desire) is pulling her arm, urging her to go forward. On the other side, a serene but immensely strong, veiled figure of 'Naan' (Shame/Modesty) is pulling her other arm, holding her back.",
+      "Background": "She is speaking to her own heart, telling it that it must choose one, because her soul ('Yaan') cannot bear the strain of being torn between these two powerful, opposing forces ('Poren ivvirandu')."
+    },
+    "Art_Direction": {
+      "Subject_and_Action": "An allegorical representation of the unbearable internal conflict between the forward pull of love and the restraining pull of modesty.",
+      "Symbolic_Motifs": "The personification of Love and Shame as two powerful beings in a tug-of-war for the protagonist's soul is the central metaphor.",
+      "Mood_and_Emotion": "Agonizing, tormented, conflicted, a sense of being torn apart.",
+      "Lighting_and_Color": "Dramatic, clashing lighting. The Love figure is surrounded by a fiery red and orange glow. The Shame figure is surrounded by a cool, restrictive blue or white light. The protagonist is caught in the harsh intersection of these two colors."
+    },
+    "Technical_Cues": {
+      "Camera": "A dynamic, wide-angle shot that captures the full force of the tug-of-war.",
+      "Resolution": "8K, epic fantasy realism, with powerful and expressive designs for the personified emotions.",
+      "Lighting": "High-contrast, colored lighting to symbolize the emotional battle.",
+      "Art_Genre": "Psychological allegory, with a mythological or epic feel."
+    },
+    "Cultural_Anchors": [
+      "காமம் (Love/Desire)",
+      "நாண் (Shame/Modesty)",
+      "The classic internal conflict of a lover"
+    ]
+  },
+  "Negative_Prompt": "a calm woman, weak or friendly figures, a modern setting, text artifacts, cartoonish, blurry."
+}

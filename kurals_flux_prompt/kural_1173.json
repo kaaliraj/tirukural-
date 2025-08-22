@@ -1,0 +1,33 @@
+{
+  "Kural_Info": {
+    "Number": 1173,
+    "Chapter": "கண்விதுப்பழிதல் (Eyes consumed with Grief)",
+    "Tamil_Text": "கதுமெனத் தாநோக்கித் தாமே கலுழும்இதுநகத் தக்க துடைத்து.",
+    "English_Meaning": "The eyes that threw such eager glances round erewhile Are weeping now. Such folly surely claims a smile!."
+  },
+  "Flux_Optimized_Prompt": {
+    "Layered_Composition": {
+      "Foreground": "A woman's eyes are weeping sorrowfully ('Kaluzhum').",
+      "Midground": "Simultaneously, a faint, ghostly image of the same eyes from the past is shown eagerly and hastily looking upon her lover ('Kadhumenath Thaa Nokki').",
+      "Background": "The woman herself (or her conscience) is depicted as a third, ethereal figure, looking at her own eyes' contradictory behavior with a wry, sad smile, acknowledging that this situation is laughably ironic ('Nagath Thakka Thudaiththu')."
+    },
+    "Art_Direction": {
+      "Subject_and_Action": "The irony of the situation where the very eyes that eagerly initiated the romance are now the ones weeping from its consequences. This foolishness is something to be laughed at.",
+      "Symbolic_Motifs": "The triple-layered imagery: the weeping eyes, the memory of the eager eyes, and the observing self that finds the situation tragically comic.",
+      "Mood_and_Emotion": "Ironic, self-aware, tragicomic, melancholic.",
+      "Lighting_and_Color": "A complex lighting scheme. The weeping eyes are in a somber, cool light. The memory is in a bright, warm light. The observing self is in a neutral, knowing light."
+    },
+    "Technical_Cues": {
+      "Camera": "A surreal close-up that composites the three visual layers—the present, the past, and the observer's reaction.",
+      "Resolution": "8K, surreal realism, with multi-exposure and transparency effects.",
+      "Lighting": "Multiple light sources to differentiate the emotional layers of the image.",
+      "Art_Genre": "Psychological surrealism, exploring self-awareness and irony."
+    },
+    "Cultural_Anchors": [
+      "The folly of the eyes",
+      "Tragic irony in love",
+      "நகத் தக்கது (Worthy of being laughed at)"
+    ]
+  },
+  "Negative_Prompt": "only one set of eyes, a purely tragic scene with no irony, modern setting, text artifacts, cartoonish."
+}

@@ -1,0 +1,39 @@
+{
+  "Kural_Info": {
+    "Number": 768,
+    "Chapter": "படைமாட்சி (The Excellence of an Army)",
+    "Tamil_Text": "அடல்தகையும் ஆற்றலும் இல்லெனினும் தானைபடைத்தகையால் பாடு பெறும்.",
+    "English_Meaning": "Though destitute of courage to fight and strength (to endure), an army may yet gain renown by the splendour of its appearance."
+  },
+  "Flux_Optimized_Prompt": {
+    "Layered_Composition": {
+      "Foreground": "An army is drawn up in a magnificent parade formation. Their armor is polished to a mirror shine, their banners are vast and colorful, their marching is perfectly synchronized. The sheer 'splendour of its appearance' ('படைத்தகையால்') is breathtaking.",
+      "Midground": "A subtle, transparent overlay reveals the inner reality of the soldiers: they may be fearful and lack true fighting strength ('அடல் தகையும் ஆற்றலும் இல்'). Their hearts are shown trembling.",
+      "Background": "Despite their inner weakness, onlookers (including enemy spies) are shown to be immensely intimidated and impressed. The army is achieving a certain kind of glory and renown ('பாடு பெறும்') purely through its magnificent presentation and discipline, which projects an illusion of unbeatable power."
+    },
+    "Art_Direction": {
+      "Subject_and_Action": "Even if an army lacks true fighting strength and courage, it can still gain renown and intimidate foes purely through the splendor and discipline of its appearance.",
+      "Symbolic_Motifs": "The contrast between the magnificent exterior and the fearful interior is the key. The splendor is not just decoration; it is a psychological weapon that creates its own form of power and reputation.",
+      "Mood_and_Emotion": "Intimidating, splendid, illusory power, disciplined appearance.",
+      "Lighting_and_Color": "Bright, magnificent, parade-ground lighting. The colors are rich and powerful—gleaming gold, deep reds, polished steel. The inner view of the soldiers' fear is a cool, fearful blue, but it is completely hidden by the outer splendor.",
+      "Technical_Cues": {
+        "Camera": "A grand, sweeping panoramic shot that captures the breathtaking scale and perfection of the army's formation.",
+        "Resolution": "8K, ultra-realistic, with a focus on the polished surfaces, intricate banners, and perfect synchronicity.",
+        "Lighting": "Bright, spectacular lighting to emphasize the 'splendour' of the army.",
+        "Art_Genre": "Epic historical painting, military parade."
+      },
+      "Cultural_Anchors": [
+        "By the splendour of its appearance (படைத்தகையால்)",
+        "Gaining renown (பாடு பெறும்)",
+        "Even without fighting strength (அடல் தகையும் ஆற்றலும் இல்லெனினும்)"
+      ]
+    },
+    "Negative_Prompt": "scruffy army, fearful appearance, unimpressed onlookers, text artifacts.",
+    "Hyperparameters": {
+      "variant": "dev",
+      "steps": 45,
+      "cfg_scale": 8,
+      "seed": "Explore the details of the army's magnificent banners and armor."
+    }
+  }
+}

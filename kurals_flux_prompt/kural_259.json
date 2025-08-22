@@ -1,0 +1,38 @@
+{
+  "Kural_Info": {
+    "Number": 259,
+    "Chapter": "புலான்மறுத்தல் (Abstinence from Flesh)",
+    "Tamil_Text": "அவிசொரிந் தாயிரம் வேட்டலின் ஒன்றன்உயிர்செகுத் துண்ணாமை நன்று.",
+    "English_Meaning": "Not to kill and eat (the flesh of) an animal, is better than the pouring forth of ghee etc., in a thousand sacrifices."
+  },
+  "Flux_Optimized_Prompt": {
+    "Layered_Composition": {
+      "Foreground": "A split composition illustrating a hierarchy of virtue.",
+      "Midground": "On the left, a grand and magnificent scene of a thousand fire sacrifices ('ஆயிரம் வேட்டல்'). Priests are pouring vast quantities of ghee ('அவி சொரிந்து') into a thousand blazing fires. The act is epic in scale and ritual importance.",
+      "Background": "On the right, a single, simple, quiet act is shown. A person is refusing to kill an animal and eat its flesh ('ஒன்றன் உயிர் செகுத்து உண்ணாமை'). On a cosmic scale of virtue that looms behind both scenes, this single, quiet act of non-violence is shown to weigh far more and be far 'better' ('நன்று') than the thousand grand sacrifices."
+    },
+    "Art_Direction": {
+      "Subject_and_Action": "The single, private act of not killing and eating an animal is a greater virtue than performing a thousand grand, public fire sacrifices.",
+      "Symbolic_Motifs": "The key is the contrast in scale and value. The thousand sacrifices are visually grand and spectacular, but the cosmic scale reveals their spiritual weight to be less than the simple, quiet act of compassion. This prioritizes personal, ethical action over grand ritual.",
+      "Mood_and_Emotion": "Superior virtue, quiet power, ethical over ritualistic.",
+      "Lighting_and_Color": "The thousand sacrifices are lit with a dramatic, fiery, orange light. The simple act of non-killing is lit with a pure, serene, and incredibly brilliant white-gold light of compassion, which is shown to be more spiritually potent.",
+      "Technical_Cues": {
+        "Camera": "A wide, epic diptych shot that allows the viewer to compare the visual grandeur of the sacrifices with the spiritual weight of the simple act of non-killing.",
+        "Resolution": "8K, ultra-realistic, with spectacular fire effects and a powerful, glowing effect for the act of compassion.",
+        "Lighting": "Contrasting lighting to show the difference between ritual fire and the light of compassion.",
+        "Art_Genre": "Epic mythological painting, with a strong moral message."
+      },
+      "Cultural_Anchors": [
+        "Not killing one being and eating it (ஒன்றன் உயிர் செகுத்து உண்ணாமை)",
+        "Is better than a thousand fire sacrifices (ஆயிரம் வேட்டலின் நன்று)"
+      ]
+    },
+    "Negative_Prompt": "sacrifices being shown as superior, text artifacts, happy priests.",
+    "Hyperparameters": {
+      "variant": "pro",
+      "steps": 55,
+      "cfg_scale": 9,
+      "seed": "Explore the visual of the 'thousand fire sacrifices'."
+    }
+  }
+}

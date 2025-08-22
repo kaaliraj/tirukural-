@@ -1,0 +1,39 @@
+{
+  "Kural_Info": {
+    "Number": 97,
+    "Chapter": "இனியவை கூறல் (The Utterance of Pleasant Words)",
+    "Tamil_Text": "நயன்ஈன்று நன்றி பயக்கும் பயன்ஈன்றுபண்பின் தலைப்பிரியாச் சொல்.",
+    "English_Meaning": "That speech which, while imparting benefits ceases not to please, will yield righteousness (for this world) and merit (for the next world)."
+  },
+  "Flux_Optimized_Prompt": {
+    "Layered_Composition": {
+      "Foreground": "A wise person is speaking. Their words flow out as a beautiful, pleasant stream of light, representing speech that is pleasing and of good quality ('பண்பின் தலைப்பிரியாச் சொல்').",
+      "Midground": "This stream of light first touches the ground around the speaker, causing useful fruits and grains to grow instantly. This represents the immediate, worldly benefits ('பயன் ஈன்று'). The stream also imparts a glow of justice and righteousness on the community, representing 'Nayan' (நயன்).",
+      "Background": "The stream of light then continues to flow upwards from the earthly scene, ascending into the heavens, where it crystallizes into a beautiful, shining star, representing the merit and good for the next world ('நன்றி பயக்கும்')."
+    },
+    "Art_Direction": {
+      "Subject_and_Action": "Speech that is both beneficial and pleasant yields a double reward: it produces justice and tangible benefits in this life, and it generates merit for the life to come.",
+      "Symbolic_Motifs": "The dual destination of the stream of words is the key visual metaphor—part of its energy transforms the earth, and the rest ascends to become a permanent fixture in the heavens. This shows the immediate and eternal consequences of such speech.",
+      "Mood_and_Emotion": "Fruitful, beneficial, righteous, transcendent.",
+      "Lighting_and_Color": "The stream of speech is a pleasant, silver-gold light. It creates vibrant, earthy colors on the ground and a brilliant, stellar white in the heavens.",
+      "Technical_Cues": {
+        "Camera": "A sweeping vertical pan, starting on the speaker, moving to the earthly benefits, and then tilting up to follow the stream of light to the heavens.",
+        "Resolution": "8K, ultra-realistic, with magical effects for the instant growth and the formation of the star.",
+        "Lighting": "The spoken words are the primary light source, illuminating both the earthly and heavenly scenes.",
+        "Art_Genre": "Epic fantasy art, mystical realism."
+      },
+      "Cultural_Anchors": [
+        "Yielding justice/righteousness (நயன் ஈன்று)",
+        "Yielding benefit/merit (நன்றி பயக்கும், பயன் ஈன்று)",
+        "Speech of high quality (பண்பின் தலைப்பிரியாச் சொல்)"
+      ]
+    },
+    "Negative_Prompt": "useless words, words falling to the ground, dark stream, text artifacts, unhappy speaker.",
+    "Hyperparameters": {
+      "variant": "pro",
+      "steps": 55,
+      "cfg_scale": 8,
+      "seed": "Explore the design of the star formed from words."
+    }
+  }
+}

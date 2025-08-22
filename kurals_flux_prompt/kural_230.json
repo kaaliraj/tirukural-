@@ -1,0 +1,39 @@
+{
+  "Kural_Info": {
+    "Number": 230,
+    "Chapter": "ஈகை (Giving)",
+    "Tamil_Text": "சாதலின் இன்னாத தில்லை இனிததூஉம்ஈதல் இயையாக் கடை.",
+    "English_Meaning": "'Tis bitter pain to die, 'Tis worse to live For him who nothing finds to give!."
+  },
+  "Flux_Optimized_Prompt": {
+    "Layered_Composition": {
+      "Foreground": "A person is shown in a state of being unable to give ('ஈதல் இயையாக் கடை'). Their hands are empty, and a needy person stands before them, but they have nothing to offer.",
+      "Midground": "This state of being unable to give is shown to be a pain 'worse than death' ('சாதலின் இன்னாதது').",
+      "Background": "For comparison, the state of death ('சாதல்') is shown. It is depicted as a peaceful, gentle release. The image makes the shocking declaration that even this peaceful death would be a 'sweet' ('இனிது') alternative to the profound pain of living a life where one is unable to practice charity."
+    },
+    "Art_Direction": {
+      "Subject_and_Action": "There is no greater pain than being unable to give to the needy; even death itself would be a sweet relief in comparison to that state.",
+      "Symbolic_Motifs": "The key is the elevation of the pain of being unable to give above the ultimate pain of death. The person's expression is not of poverty, but of a deep, spiritual agony born from their inability to fulfill their charitable nature. Death is framed as a desirable escape from this specific pain.",
+      "Mood_and_Emotion": "Ultimate pain, spiritual agony, profound, hyperbolic.",
+      "Lighting_and_Color": "The scene of being unable to give is filled with a harsh, painful, grey light of impotence. The vision of death, in contrast, is a soft, gentle, and peaceful blue-white light of release.",
+      "Technical_Cues": {
+        "Camera": "A shot focusing on the person's agonized expression, with a contrasting vision of a peaceful death appearing as the 'sweet' alternative.",
+        "Resolution": "8K, ultra-realistic, capturing the profound spiritual pain on the subject's face.",
+        "Lighting": "Contrasting lighting to show the pain of inaction vs. the sweetness of release.",
+        "Art_Genre": "Symbolic realism, with a tragic tone."
+      },
+      "Cultural_Anchors": [
+        "Nothing is more painful than death (சாதலின் இன்னாதது இல்லை)",
+        "But even that is sweet (இனிது அதூஉம்)",
+        "When one is unable to give (ஈதல் இயையாக் கடை)"
+      ]
+    },
+    "Negative_Prompt": "happy person, terrifying death, text artifacts.",
+    "Hyperparameters": {
+      "variant": "pro",
+      "steps": 55,
+      "cfg_scale": 9,
+      "seed": "Explore the visual of 'death as a sweet release'."
+    }
+  }
+}

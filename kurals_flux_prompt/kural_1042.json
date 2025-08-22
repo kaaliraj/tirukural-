@@ -1,0 +1,39 @@
+{
+  "Kural_Info": {
+    "Number": 1042,
+    "Chapter": "நல்குரவு (Poverty)",
+    "Tamil_Text": "இன்மை எனவொரு பாவி மறுமையும்இம்மையும் இன்றி வரும்.",
+    "English_Meaning": "When cruel poverty comes on, it deprives one of both the present and future (bliss)."
+  },
+  "Flux_Optimized_Prompt": {
+    "Layered_Composition": {
+      "Foreground": "Poverty ('இன்மை') is personified as a single, malevolent sinner or demon ('ஒரு பாவி').",
+      "Midground": "This demon of Poverty is shown attacking a person with a cursed, two-pronged weapon.",
+      "Background": "One prong of the weapon strikes and destroys the person's current, earthly world ('இம்மை'), turning their home and happiness to dust. The other prong simultaneously reaches into the heavens and shatters their potential future bliss in the next world ('மறுமை'), destroying their accumulated merit. The attack is total, leaving nothing."
+    },
+    "Art_Direction": {
+      "Subject_and_Action": "Poverty is a singular evil that simultaneously destroys a person's happiness in this life and their hope for happiness in the next.",
+      "Symbolic_Motifs": "The two-pronged weapon is a direct metaphor for the dual destruction of the present and the future. The shattering of the heavenly realm shows that poverty is not just a material problem, but a spiritual catastrophe that can erase one's good karma.",
+      "Mood_and_Emotion": "Catastrophic, total destruction, damning, hopeless.",
+      "Lighting_and_Color": "A dark, malevolent light emanates from the demon of Poverty. The palette is one of destruction and loss, with the bright colors of both the earthly home and the heavenly realm being extinguished and turned to grey ash.",
+      "Technical_Cues": {
+        "Camera": "A dynamic shot that captures the demon's devastating two-pronged attack and its simultaneous impact on both the earthly and heavenly realms.",
+        "Resolution": "8K, ultra-realistic, with powerful destruction effects.",
+        "Lighting": "Destructive, curse-like lighting.",
+        "Art_Genre": "Epic dark fantasy."
+      },
+      "Cultural_Anchors": [
+        "Poverty, the sinner (இன்மை என ஒரு பாவி)",
+        "Destroys this world (இம்மை இன்றி)",
+        "And the next world (மறுமை இன்றி)"
+      ]
+    },
+    "Negative_Prompt": "weak demon, person escaping, text artifacts.",
+    "Hyperparameters": {
+      "variant": "pro",
+      "steps": 55,
+      "cfg_scale": 9,
+      "seed": "Explore the design of the 'two-pronged weapon of poverty'."
+    }
+  }
+}

@@ -1,0 +1,39 @@
+{
+  "Kural_Info": {
+    "Number": 957,
+    "Chapter": "குடிமை (Nobility)",
+    "Tamil_Text": "குடிப்பிறந்தார் கண்விளங்கும் குற்றம் விசும்பின்மதிக்கண் மறுப்போல் உயர்ந்து.",
+    "English_Meaning": "The faults of men of noble race are seen by every eye, As spots on her bright orb that walks sublime the evening sky."
+  },
+  "Flux_Optimized_Prompt": {
+    "Layered_Composition": {
+      "Foreground": "In the foreground, an elegant, noble Tamil individual from an ancient era stands with quiet dignity. A single, almost imperceptible flaw in their attire or posture is subtly visible.",
+      "Midground": "The flaw from the foreground is metaphorically projected and magnified into the sky, appearing as a distinct, dark spot (maru) on the surface of a luminous full moon.",
+      "Background": "A vast, clear night sky (visumbu) serves as the backdrop, emphasizing the brilliance of the moon and making the magnified flaw the undeniable focal point."
+    },
+    "Art_Direction": {
+      "Subject_and_Action": "A visual metaphor showing how a minor fault in a person of high standing becomes glaringly obvious, just like a spot on the bright moon.",
+      "Symbolic_Motifs": "The full moon symbolizes the noble person's reputation ('kudipiranthar'). The dark spot (maru) on the moon is the central symbol for the visible 'kutram' (fault).",
+      "Mood_and_Emotion": "Contemplative, profound, with a sense of high standards and the weight of reputation.",
+      "Lighting_and_Color": "Dominated by the cool, silvery-white light of the full moon, creating high contrast with the dark spot and the deep blues and blacks of the night sky. The noble person is softly illuminated by this moonlight."
+    },
+    "Technical_Cues": {
+      "Camera": "Medium wide shot, low angle, shot on a 85mm lens to create a sense of grandeur and focus.",
+      "Resolution": "8K, ultra-realistic, with photorealistic detail on the person and hyper-detailed lunar textures.",
+      "Lighting": "Strong, single-source moonlight, volumetric light rays creating a mystical aura, subtle rim lighting on the figure.",
+      "Art_Genre": "Symbolic realism, blending a photorealistic human figure with cosmic art."
+    },
+    "Cultural_Anchors": [
+      "Concept of 'Kudimai' (Noble Birth/Conduct)",
+      "Moon as a symbol of beauty and prominence",
+      "The visibility of a 'maru' (spot/flaw)"
+    ]
+  },
+  "Negative_Prompt": "smiling figure, multiple moons, cloudy sky, modern clothing, text artifacts, deformed limbs, blurry, oversaturated colors.",
+  "Hyperparameters": {
+    "variant": "pro",
+    "steps": 50,
+    "cfg_scale": 7,
+    "seed": "Explore variations for the clarity of the moon's surface."
+  }
+}

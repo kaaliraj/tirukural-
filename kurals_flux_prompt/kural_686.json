@@ -1,0 +1,39 @@
+{
+  "Kural_Info": {
+    "Number": 686,
+    "Chapter": "தூது (The Envoy)",
+    "Tamil_Text": "கற்றுக்கண் அஞ்சான் செலச்சொல்லிக் காலத்தால் தக்கது அறிவதாம் தூது.",
+    "English_Meaning": "He is an ambassador who having studied (politics) talks impressively, is not afraid of angry looks, and knows (to employ) the art suited to the time."
+  },
+  "Flux_Optimized_Prompt": {
+    "Layered_Composition": {
+      "Foreground": "An envoy stands before a wrathful foreign king, who is glaring at him with angry, intimidating eyes.",
+      "Midground": "The envoy, however, is completely fearless ('கண் அஞ்சான்'). He is learned ('கற்று'), and speaks his message persuasively ('செலச்சொல்லி'). Crucially, a celestial clock is shown behind him, and the envoy is acting in perfect sync with the opportune moment it indicates ('காலத்தால் தக்கது அறிவது').",
+      "Background": "Because he has chosen the perfect moment to speak, his fearless and persuasive words are shown to be calming the king's anger, leading to a successful outcome."
+    },
+    "Art_Direction": {
+      "Subject_and_Action": "A true envoy is learned, speaks persuasively, is fearless of the anger of others, and above all, knows the right time to say the right thing.",
+      "Symbolic_Motifs": "The angry glare of the king represents the pressure. The envoy's calm, fearless face is the counterpoint. The celestial clock represents the critical element of timing.",
+      "Mood_and_Emotion": "Fearless, persuasive, timely, intelligent, composed.",
+      "Lighting_and_Color": "The king is lit with a harsh, angry red light. The envoy is lit with a calm, confident, cool blue or white light. The celestial clock glows with a golden light of opportunity.",
+      "Technical_Cues": {
+        "Camera": "A dramatic confrontation shot, focusing on the eyes of the king and the envoy.",
+        "Resolution": "8K, with intense emotions.",
+        "Lighting": "High-contrast, color-coded lighting to represent the emotional states.",
+        "Art_Genre": "Historical drama, intense portraiture."
+      }
+    },
+    "Cultural_Anchors": [
+      "Learned and Fearless ('கற்றுக்கண் அஞ்சான்')",
+      "Knowing the Right Time ('காலத்தால் தக்கது அறிவது')",
+      "The art of diplomatic timing."
+    ]
+  },
+  "Negative_Prompt": "scared envoy, happy king, text artifacts, cartoonish.",
+  "Hyperparameters": {
+    "variant": "pro",
+    "steps": 50,
+    "cfg_scale": 9,
+    "seed": "Explore variations for the celestial clock."
+  }
+}

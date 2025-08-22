@@ -1,0 +1,39 @@
+{
+  "Kural_Info": {
+    "Number": 603,
+    "Chapter": "மடியின்மை (Unsluggishness)",
+    "Tamil_Text": "மடிமடிக் கொண்டொழுகும் பேதை பிறந்த குடிமடியும் தன்னினும் முந்து.",
+    "English_Meaning": "The (lustre of the) family of the ignorant man, who acts under the influence of destructive laziness will perish, even before he is dead."
+  },
+  "Flux_Optimized_Prompt": {
+    "Layered_Composition": {
+      "Foreground": "A foolish, lazy person ('பேதை') is shown sleeping idly under a great, ancient family tree that represents their lineage ('பிறந்த குடி').",
+      "Midground": "As the person sleeps, embracing their laziness ('மடிமடிக் கொண்டு'), the magnificent tree behind them is shown rapidly withering, dying, and crumbling into dust ('குடி மடியும்').",
+      "Background": "The image captures the moment where the tree has almost completely turned to dust, while the lazy person is still alive but oblivious. The family's ruin precedes the individual's death ('தன்னினும் முந்து')."
+    },
+    "Art_Direction": {
+      "Subject_and_Action": "For the fool who makes laziness their guiding principle, their family's honor will be destroyed even before they themselves die.",
+      "Symbolic_Motifs": "The great family tree is the lineage. Its rapid decay and crumbling into dust while the person still lives is the central, tragic event.",
+      "Mood_and_Emotion": "Tragic, oblivious, destructive, shameful.",
+      "Lighting_and_Color": "A dull, sleepy, and decaying light. The tree withers from vibrant green to a deathly grey and then to dust. The sleeping person is in a lazy, unheroic pose.",
+      "Technical_Cues": {
+        "Camera": "A wide shot that shows the sleeping person and the entirety of the crumbling tree, emphasizing the scale of the destruction caused by their inaction.",
+        "Resolution": "8K, with high-quality particle effects for the crumbling tree.",
+        "Lighting": "A bleak, fading light.",
+        "Art_Genre": "Symbolic tragedy, dark realism."
+      }
+    },
+    "Cultural_Anchors": [
+      "Embracing Laziness ('மடிமடிக் கொண்டு')",
+      "The Family Perishes First ('குடி மடியும் தன்னினும் முந்து')",
+      "The shame of ruining one's lineage through sloth."
+    ]
+  },
+  "Negative_Prompt": "active person, flourishing tree, text artifacts, cartoonish.",
+  "Hyperparameters": {
+    "variant": "pro",
+    "steps": 50,
+    "cfg_scale": 8,
+    "seed": "Explore variations for the crumbling tree effect."
+  }
+}

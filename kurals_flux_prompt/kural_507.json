@@ -1,0 +1,39 @@
+{
+  "Kural_Info": {
+    "Number": 507,
+    "Chapter": "தெரிந்துதெளிதல் (Selection and Confidence)",
+    "Tamil_Text": "காதன்மை கந்தா அறிவறியார்த் தேறுதல் பேதைமை எல்லாந் தரும்.",
+    "English_Meaning": "To choose ignorant men, through partiality, is the height of folly."
+  },
+  "Flux_Optimized_Prompt": {
+    "Layered_Composition": {
+      "Foreground": "A king is shown making a decision. His heart is glowing with a warm, pink light of affection ('காதன்மை'). This light of partiality is acting as a blindfold over his eyes.",
+      "Midground": "Because he is blinded by affection, he is choosing a clearly incompetent and ignorant person ('அறிவறியார்') for a vital task, like commanding an army or building a bridge. The ignorant person is shown fumbling with the tools of the trade.",
+      "Background": "The result of this choice is a scene of disaster: the army is in disarray, the bridge is collapsing. This represents the ultimate folly ('பேதைமை எல்லாந் தரும்') brought about by his biased decision."
+    },
+    "Art_Direction": {
+      "Subject_and_Action": "The act of choosing an ignorant person out of personal affection, rather than merit, is the greatest of all follies and leads to disaster.",
+      "Symbolic_Motifs": "The blindfold made of 'light of affection' is the key metaphor. It shows how positive emotion can lead to a negative, foolish outcome. The resulting disaster is the clear consequence.",
+      "Mood_and_Emotion": "Foolish, biased, disastrous, cautionary.",
+      "Lighting_and_Color": "The king is bathed in the soft, deceptive glow of his affection. The scene of disaster in the background is harsh, chaotic, and dark.",
+      "Technical_Cues": {
+        "Camera": "A shot that clearly links the king's blindfolded choice in the foreground to the disastrous result in the background, perhaps using a rack focus.",
+        "Resolution": "8K, cinematic, with detailed scenes of failure.",
+        "Lighting": "Contrasting lighting between the warm, foolish choice and the cold, harsh reality of its outcome.",
+        "Art_Genre": "Narrative realism, with symbolic elements."
+      }
+    },
+    "Cultural_Anchors": [
+      "Choice based on affection ('காதன்மை')",
+      "Choosing the ignorant ('அறிவறியார்த் தேறுதல்')",
+      "The resulting ultimate folly ('பேதைமை')"
+    ]
+  },
+  "Negative_Prompt": "king making a wise choice, competent person being chosen, successful outcome, text artifacts.",
+  "Hyperparameters": {
+    "variant": "pro",
+    "steps": 45,
+    "cfg_scale": 8,
+    "seed": "Explore variations for the 'blindfold of affection'."
+  }
+}

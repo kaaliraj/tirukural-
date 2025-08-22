@@ -1,0 +1,39 @@
+{
+  "Kural_Info": {
+    "Number": 799,
+    "Chapter": "நட்பாராய்தல் (Investigation in forming Friendships)",
+    "Tamil_Text": "கெடுங்காலைக் கைவிடுவார் கேண்மை அடுங்காலை உள்ளினும் உள்ளஞ் சுடும்.",
+    "English_Meaning": "The very thought of the friendship of those who have deserted one at the approach of adversity will burn one's mind at the time of death."
+  },
+  "Flux_Optimized_Prompt": {
+    "Layered_Composition": {
+      "Foreground": "An old, dying person lies on their deathbed, in their final moments ('அடுங்காலை').",
+      "Midground": "Their mind is not at peace. A fiery, painful memory is shown materializing above them: the memory of a so-called friend abandoning them during a past time of great trouble ('கெடுங்காலைக் கைவிடுவார்').",
+      "Background": "This memory is so painful that it is literally burning their soul, visualized as their heart or spirit being scorched by the flames of this old betrayal ('உள்ளம் சுடும்')."
+    },
+    "Art_Direction": {
+      "Subject_and_Action": "Even at the moment of death, the memory of being abandoned by a friend in a time of ruin is a pain that will burn the soul.",
+      "Symbolic_Motifs": "The fiery, burning memory is the central image. The deathbed setting emphasizes that this is a pain that never goes away.",
+      "Mood_and_Emotion": "Painful, bitter, a memory that burns, tragic.",
+      "Lighting_and_Color": "The room is dark and somber, lit only by the hellish, fiery glow of the painful memory. The colors are dark reds, oranges, and blacks.",
+      "Technical_Cues": {
+        "Camera": "A close-up on the dying person's face, showing the anguish caused by the memory, with the fiery memory visualized above them.",
+        "Resolution": "8K, with intense, emotional expression and realistic fire effects.",
+        "Lighting": "The fire of the memory is the key light source.",
+        "Art_Genre": "Psychological realism, with surreal elements."
+      },
+      "Cultural_Anchors": [
+        "Friends who abandon you in ruin ('கெடுங்காலைக் கைவிடுவார்')",
+        "At the time of death ('அடுங்காலை')",
+        "A thought that burns the soul ('உள்ளம் சுடும்')"
+      ]
+    },
+    "Negative_Prompt": "a peaceful death, happy memories, text artifacts, cartoonish.",
+    "Hyperparameters": {
+      "variant": "pro",
+      "steps": 50,
+      "cfg_scale": 9,
+      "seed": "Explore variations for the fiery memory effect."
+    }
+  }
+}

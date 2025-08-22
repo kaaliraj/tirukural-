@@ -1,0 +1,38 @@
+{
+  "Kural_Info": {
+    "Number": 274,
+    "Chapter": "கூடா ஒழுக்கம் (Imposture)",
+    "Tamil_Text": "தவமறைந்து அல்லவை செய்தல் புதல்மறைந்துவேட்டுவன் புள்சிமிழ்த் தற்று.",
+    "English_Meaning": "He who hides himself under the mask of an ascetic and commits sins, like a sportsman who conceals himself in the thicket to catch birds."
+  },
+  "Flux_Optimized_Prompt": {
+    "Layered_Composition": {
+      "Foreground": "A split composition illustrating a simile.",
+      "Midground": "On the left, a hunter ('வேட்டுவன்') is hiding behind a bush ('புதல் மறைந்து'), using a bird-call to lure and trap innocent birds ('புள் சிமிழ்த்து'). His action is one of deceit for the purpose of destruction.",
+      "Background": "On the right, a false ascetic is shown. He is hiding behind the respectable appearance of a holy man ('தவம் மறைந்து'), but he is secretly committing sinful, evil acts ('அல்லவை செய்தல்'). The two actions are presented as morally and methodologically identical."
+    },
+    "Art_Direction": {
+      "Subject_and_Action": "The act of a false ascetic who hides behind a holy facade to commit sin is exactly the same as a hunter hiding in a bush to trap birds.",
+      "Symbolic_Motifs": "The key is the parallel act of 'hiding' for a malicious purpose. The holy robes of the ascetic are equated with the hunter's bush—both are just camouflage for a predatory nature.",
+      "Mood_and_Emotion": "Deceitful, predatory, hypocritical, treacherous.",
+      "Lighting_and_Color": "Both scenes are depicted with a shadowy, conspiratorial light. The focus is on the act of hiding and the evil intention. The innocence of the victims (the birds, the followers of the ascetic) should be highlighted.",
+      "Technical_Cues": {
+        "Camera": "A diptych shot that draws a direct, inescapable parallel between the actions of the hunter and the false ascetic.",
+        "Resolution": "8K, ultra-realistic, capturing the cunning, predatory expressions on both the hunter's and the ascetic's faces.",
+        "Lighting": "Dark, shadowy, high-contrast lighting.",
+        "Art_Genre": "Symbolic realism, with a dark tone."
+      },
+      "Cultural_Anchors": [
+        "Hiding in penance to do evil (தவம் மறைந்து அல்லவை செய்தல்)",
+        "Is like a hunter hiding in a bush to trap birds (புதல் மறைந்து வேட்டுவன் புள் சிமிழ்த்தற்று)"
+      ]
+    },
+    "Negative_Prompt": "holy ascetic, hunter freeing the birds, text artifacts.",
+    "Hyperparameters": {
+      "variant": "pro",
+      "steps": 50,
+      "cfg_scale": 8,
+      "seed": "Explore the parallel between the ascetic's robes and the hunter's bush."
+    }
+  }
+}

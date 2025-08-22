@@ -1,0 +1,38 @@
+{
+  "Kural_Info": {
+    "Number": 1078,
+    "Chapter": "கயமை (Baseness)",
+    "Tamil_Text": "சொல்லப் பயன்படுவர் சான்றோர் கரும்புபோல்கொல்லப் பயன்படும் கீழ்.",
+    "English_Meaning": "The great bestow (their alms) as soon as they are informed; (but) the mean, like the sugar-cane, only when they are tortured to death."
+  },
+  "Flux_Optimized_Prompt": {
+    "Layered_Composition": {
+      "Foreground": "A split composition.",
+      "Midground": "On the left, a great, virtuous person ('சான்றோர்'). A needy person simply speaks to them ('சொல்ல'). Instantly, the great person produces a stream of golden coins, representing their immediate, willing help.",
+      "Background": "On the right, a base person ('கீழ்') who also has wealth. To get any benefit from them, they are shown being crushed like a sugarcane ('கரும்பு போல் கொல்ல') in a massive press. Only under this extreme, destructive pressure do they release a small, grudging trickle of benefit."
+    },
+    "Art_Direction": {
+      "Subject_and_Action": "A sharp contrast in how to get help from the virtuous and the base: the virtuous give freely when simply told of a need, while the base yield benefit only when crushed and destroyed like a sugarcane.",
+      "Symbolic_Motifs": "The willing, golden stream of help from the virtuous contrasts with the forced, painful trickle from the base. The sugarcane press is a direct and visceral metaphor for the violence and pressure required to extract anything from the base.",
+      "Mood_and_Emotion": "Willing vs. forced, generous vs. miserly, destructive extraction.",
+      "Lighting_and_Color": "The virtuous scene is bathed in a warm, golden light of generosity. The scene with the base person is dark, violent, and mechanical, lit by the harsh light of the crushing press.",
+      "Technical_Cues": {
+        "Camera": "A powerful diptych shot that presents the two contrasting methods of giving.",
+        "Resolution": "8K, hyper-realistic, with strong textural details on the sugarcane press.",
+        "Lighting": "Contrasting lighting to show the difference between willing charity and forced extraction.",
+        "Art_Genre": "Allegorical realism."
+      },
+      "Cultural_Anchors": [
+        "The virtuous are useful when spoken to (சொல்லப் பயன்படுவர் சான்றோர்)",
+        "The base are useful when crushed like sugarcane (கரும்பு போல் கொல்லப் பயன்படும் கீழ்)"
+      ]
+    },
+    "Negative_Prompt": "virtuous person being crushed, base person giving freely, text artifacts.",
+    "Hyperparameters": {
+      "variant": "pro",
+      "steps": 50,
+      "cfg_scale": 9,
+      "seed": "Explore the mechanical design of the sugarcane press."
+    }
+  }
+}

@@ -1,0 +1,38 @@
+{
+  "Kural_Info": {
+    "Number": 1119,
+    "Chapter": "நலம்புனைந்துரைத்தல் (The Praise of her Beauty)",
+    "Tamil_Text": "மலரன்ன கண்ணாள் முகமொத்தி யாயின்பலர்காணத் தோன்றல் மதி.",
+    "English_Meaning": "O moon, if you wish to resemble the face of her whose eyes are like (these) flowers, do not appear so as to be seen by all."
+  },
+  "Flux_Optimized_Prompt": {
+    "Layered_Composition": {
+      "Foreground": "The lover is again speaking to the Moon ('மதி').",
+      "Midground": "He is giving it a piece of advice. He tells the moon, 'If you want to be like the face of my beloved, who has eyes like flowers ('மலர் அன்ன கண்ணாள் முகம் ஒத்தியாயின்')...'",
+      "Background": "...then you must stop being a public object that appears for everyone to see ('பலர் காணத் தோன்றல்'). You must become a private treasure, seen only by me.' The moon is shown looking sad, as it cannot fulfill this condition."
+    },
+    "Art_Direction": {
+      "Subject_and_Action": "The lover tells the moon that to truly resemble his beloved's face, it must cease to be a public spectacle and become a private beauty, a condition it cannot meet.",
+      "Symbolic_Motifs": "The key is the concept of public versus private beauty. His beloved's face is a private treasure for him alone. The moon's tragedy is that its beauty is universal and public, and therefore, in his eyes, inferior. The flower-like eyes of the beloved are the standard of beauty being discussed.",
+      "Mood_and_Emotion": "Possessive, adoring, instructive.",
+      "Lighting_and_Color": "A soft, romantic moonlight. The beloved's face appears in a vision, and it is a secret, intimate beauty. The moon in the sky is a public, shared beauty. The distinction is subtle but crucial.",
+      "Technical_Cues": {
+        "Camera": "A shot of the lover speaking to the moon, with his beloved's face appearing as an intimate, private vision that the moon cannot replicate.",
+        "Resolution": "8K, ultra-realistic, focusing on the lover's instructive expression.",
+        "Lighting": "Intimate, personal lighting for the vision of the beloved, contrasted with the public light of the moon.",
+        "Art_Genre": "Romantic fantasy."
+      },
+      "Cultural_Anchors": [
+        "If you want to be like her face (முகம் ஒத்தியாயின்)",
+        "O Moon, do not appear for all to see (பலர் காணத் தோன்றல் மதி)"
+      ]
+    },
+    "Negative_Prompt": "moon hiding itself, text artifacts.",
+    "Hyperparameters": {
+      "variant": "dev",
+      "steps": 45,
+      "cfg_scale": 7,
+      "seed": "Explore the contrast between 'public' and 'private' beauty."
+    }
+  }
+}

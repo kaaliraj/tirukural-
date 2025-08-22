@@ -1,0 +1,39 @@
+{
+  "Kural_Info": {
+    "Number": 958,
+    "Chapter": "குடிமை (Nobility)",
+    "Tamil_Text": "நலத்தின்கண் நாரின்மை தோன்றின் அவனைக்குலத்தின்கண் ஐயப் படும்.",
+    "English_Meaning": "If lack of love appear in those who bear some goodly name, 'Twill make men doubt the ancestry they claim."
+  },
+  "Flux_Optimized_Prompt": {
+    "Layered_Composition": {
+      "Foreground": "A person of aristocratic bearing, dressed in fine ancient Tamil attire, performs an act devoid of affection or kindness (narinmai) – perhaps turning away coldly from someone in need.",
+      "Midground": "Behind them, a grand, ancestral family tree, exquisitely carved, begins to crack and fade into mist where their image is represented, symbolizing the doubt cast on their lineage.",
+      "Background": "The backdrop is a stately, respected hall of an ancient Tamil home, now appearing shadowed and uncertain, reflecting the doubt ('aiyam') that has been introduced."
+    },
+    "Art_Direction": {
+      "Subject_and_Action": "An individual of supposed noble birth whose lack of kindness causes their very lineage and character to be questioned.",
+      "Symbolic_Motifs": "The cracking and fading ancestral tree is the key visual metaphor. The cold, harsh action of the main figure contrasts sharply with their noble appearance.",
+      "Mood_and_Emotion": "Disappointing, questioning, a sense of dissonance between appearance and reality.",
+      "Lighting_and_Color": "A dramatic, high-contrast lighting (chiaroscuro). The figure is brightly lit, but their unkind act is in shadow. The fading family tree glows with a faint, dying light. The palette is of rich but desaturated tones."
+    },
+    "Technical_Cues": {
+      "Camera": "Medium shot, eye-level, 50mm lens, focusing on the character's cold expression and the symbolic tree behind them.",
+      "Resolution": "8K, ultra-realistic, with fine detail on facial expressions and the texture of the cracking wood.",
+      "Lighting": "Strong directional light, creating deep shadows that emphasize the theme of doubt and hidden flaws.",
+      "Art_Genre": "Symbolic realism, with painterly, allegorical elements in the style of a historical drama."
+    },
+    "Cultural_Anchors": [
+      "Concept of 'Kulam' (Lineage/Clan)",
+      "The importance of 'Nalam' (Goodness) and 'Narinmai' (Lack of Affection)",
+      "Ancestral reverence in Tamil culture"
+    ]
+  },
+  "Negative_Prompt": "smiling figure, modern setting, abstract art, blurry details, text artifacts, warm and happy atmosphere, cartoonish.",
+  "Hyperparameters": {
+    "variant": "dev",
+    "steps": 45,
+    "cfg_scale": 8,
+    "seed": "Explore variations in how the ancestral tree fades or cracks."
+  }
+}

@@ -1,0 +1,39 @@
+{
+  "Kural_Info": {
+    "Number": 1238,
+    "Chapter": "உறுப்புநலனழிதல் (Wasting Away)",
+    "Tamil_Text": "முயங்கிய கைகளை ஊக்கப் பசந்ததுபைந்தொடிப் பேதை நுதல்.",
+    "English_Meaning": "When I once loosened the arms that were in embrace, the forehead of the gold-braceleted women turned sallow."
+  },
+  "Flux_Optimized_Prompt": {
+    "Layered_Composition": {
+      "Foreground": "A lover is shown in a close embrace with his beloved, who wears golden bracelets ('பைந்தொடிப் பேதை').",
+      "Midground": "He slightly loosens his embracing arms ('முயங்கிய கைகளை ஊக்க'), perhaps just to shift his position for a moment.",
+      "Background": "Instantly, in that brief moment of slightly reduced contact, her bright, beautiful forehead ('நுதல்') is shown to lose its luster and become pale with the sallow hue of incipient sorrow ('பசந்தது')."
+    },
+    "Art_Direction": {
+      "Subject_and_Action": "A testament to the beloved's extreme sensitivity: even the slightest loosening of her lover's embrace for a mere moment is enough to make her forehead turn pale with the fear of separation.",
+      "Symbolic_Motifs": "The speed and subtlety of the reaction are key. This is not a full separation, just a slight loosening. The pallor is not a full-body affliction, but a delicate, instantaneous change on her expressive forehead.",
+      "Mood_and_Emotion": "Sensitive, delicate, instantaneous reaction, profound attachment.",
+      "Lighting_and_Color": "A warm, intimate, golden light fills the scene during the full embrace. The moment the embrace loosens, a cool, pale, yellow-green light flashes briefly across her forehead, draining its color.",
+      "Technical_Cues": {
+        "Camera": "An extreme close-up on the maiden's forehead, capturing the subtle but instantaneous color shift the moment the lover's arms are perceived to loosen.",
+        "Resolution": "8K, hyper-realistic, with a focus on subtle skin tone changes.",
+        "Lighting": "A very subtle, rapid shift in lighting to accompany the color change.",
+        "Art_Genre": "Intimate romantic realism."
+      },
+      "Cultural_Anchors": [
+        "The forehead of the golden-braceleted maiden (பைந்தொடிப் பேதை நுதல்)",
+        "It turned sallow (பசந்தது)",
+        "When the embracing arms loosened (முயங்கிய கைகளை ஊக்க)"
+      ]
+    },
+    "Negative_Prompt": "maiden unaffected, text artifacts, full separation.",
+    "Hyperparameters": {
+      "variant": "pro",
+      "steps": 50,
+      "cfg_scale": 7,
+      "seed": "Focus on capturing the instantaneous and subtle nature of the color change."
+    }
+  }
+}

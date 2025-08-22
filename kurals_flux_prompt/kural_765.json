@@ -1,0 +1,39 @@
+{
+  "Kural_Info": {
+    "Number": 765,
+    "Chapter": "படைமாட்சி (The Excellence of an Army)",
+    "Tamil_Text": "கூற்றுடன்று மேல்வரினும் கூடி எதிர்நிற்கும்ஆற்ற லதுவே படை.",
+    "English_Meaning": "That is a 'host' that joins its ranks, and mightily withstands, Though death with sudden wrath should fall upon its bands."
+  },
+  "Flux_Optimized_Prompt": {
+    "Layered_Composition": {
+      "Foreground": "A small but incredibly determined army stands united ('கூடி எதிர் நிற்கும்').",
+      "Midground": "A colossal, terrifying, god-like figure of Death itself ('கூற்று'), wreathed in shadow and cosmic fury, is descending upon them with overwhelming force ('உடன்று மேல் வரினும்').",
+      "Background": "Despite facing the literal god of death, the army does not break. They form a single, unified shield wall of pure, defiant energy, demonstrating the ultimate power ('ஆற்றல்') to withstand even a divine, deathly assault. They hold the line."
+    },
+    "Art_Direction": {
+      "Subject_and_Action": "The ultimate test of an army's power is its ability to stand together and resist even the furious onslaught of Death himself.",
+      "Symbolic_Motifs": "The personification of Yama/Kootru as a colossal, cosmic force of destruction is key. The army's unified stance and the shield of defiant energy they create represent their collective, unbreakable will.",
+      "Mood_and_Emotion": "Defiant, ultimate courage, unbreakable unity, heroic.",
+      "Lighting_and_Color": "The figure of Death is a vortex of absolute darkness, shot through with terrifying reds and purples. The small army, in contrast, is a beacon of brilliant, defiant, white-gold light. The clash between this light and the overwhelming darkness is the focus of the scene.",
+      "Technical_Cues": {
+        "Camera": "An epic, low-angle shot from behind the army, putting the viewer in their position as they face the overwhelming, god-like enemy.",
+        "Resolution": "8K, hyper-realistic, with epic-scale cosmic horror effects for the figure of Death.",
+        "Lighting": "A dramatic clash of light and shadow, with the small light of the army defiantly holding back the immense darkness.",
+        "Art_Genre": "Epic dark fantasy, mythological battle scene."
+      },
+      "Cultural_Anchors": [
+        "Death (கூற்று) coming in fury (உடன்று மேல் வரினும்)",
+        "Standing together against it (கூடி எதிர் நிற்கும்)",
+        "The power of an army (ஆற்றல் அதுவே படை)"
+      ]
+    },
+    "Negative_Prompt": "army fleeing, Death winning easily, text artifacts, cartoonish monster.",
+    "Hyperparameters": {
+      "variant": "pro",
+      "steps": 60,
+      "cfg_scale": 10,
+      "seed": "Explore the epic design for the personified God of Death."
+    }
+  }
+}

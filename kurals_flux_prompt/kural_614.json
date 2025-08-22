@@ -1,0 +1,38 @@
+{
+  "Kural_Info": {
+    "Number": 614,
+    "Chapter": "ஆள்வினையுடைமை (Manly Effort)",
+    "Tamil_Text": "தாளாண்மை இல்லாதான் வேளாண்மை பேடிகைவாளாண்மை போலக் கெடும்.",
+    "English_Meaning": "The liberality of him, who does not labour, will fail, like the manliness of a hermaphrodite, who has a sword in its hand."
+  },
+  "Flux_Optimized_Prompt": {
+    "Layered_Composition": {
+      "Foreground": "A person is attempting to be benevolent ('வேளாண்மை'), offering a gift from a large pile of inherited wealth. However, they themselves are depicted as idle and have not worked for this wealth ('தாளாண்மை இல்லாதான்').",
+      "Midground": "In a stark, parallel simile, an effeminate person ('பேடி') is shown trying to wield a large, heavy, powerful sword ('வாள்') in a battle. Their grip is weak, their stance is ineffective, and the sword is useless in their hands.",
+      "Background": "The benevolence of the idle person is shown to fail ('கெடும்') just as surely as the warrior's attempt. The gift brings no real benefit, and their capacity for charity quickly evaporates, mirroring the uselessness of the sword in the hands of the weak."
+    },
+    "Art_Direction": {
+      "Subject_and_Action": "A powerful and sharp simile: The attempt to be benevolent without the backing of personal effort is as futile and bound to fail as the attempt of a weak, effeminate person to wield a warrior's sword.",
+      "Symbolic_Motifs": "The direct, unflinching visual parallel between the two types of failure is the core of the image. The unused muscles of the idle rich man mirror the weak arms of the 'pedi'. The failing charity mirrors the failing swordsmanship.",
+      "Mood_and_Emotion": "Futile, ineffective, weak, pathetic, cautionary.",
+      "Lighting_and_Color": "A flat, unforgiving light illuminates both scenes, exposing their inherent weakness and futility. The palette is muted and lacks the vibrancy of true strength or true charity.",
+      "Technical_Cues": {
+        "Camera": "A split-screen or diptych composition that forces the viewer to compare the two scenes of failure directly.",
+        "Resolution": "8K, ultra-realistic, with a focus on the weak and ineffective body language in both scenarios.",
+        "Lighting": "Harsh, revealing light to underscore the theme of failure.",
+        "Art_Genre": "Historical realism, allegorical painting."
+      },
+      "Cultural_Anchors": [
+        "Benevolence without effort (தாளாண்மை இல்லாதான் வேளாண்மை)",
+        "The manliness of a hermaphrodite with a sword (பேடி கை வாளாண்மை)"
+      ]
+    },
+    "Negative_Prompt": "successful charity from idle person, powerful hermaphrodite warrior, text artifacts.",
+    "Hyperparameters": {
+      "variant": "dev",
+      "steps": 45,
+      "cfg_scale": 9,
+      "seed": "Ensure the depiction is allegorical and avoids offensive caricature."
+    }
+  }
+}

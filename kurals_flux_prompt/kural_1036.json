@@ -1,0 +1,38 @@
+{
+  "Kural_Info": {
+    "Number": 1036,
+    "Chapter": "உழவு (Farming)",
+    "Tamil_Text": "உழவினார் கைம்மடங்கின் இல்லை விழைவதூஉம்விட்டேம்என் பார்க்கும் நிலை.",
+    "English_Meaning": "If the farmer's hands are slackened, even the ascetic state will fail."
+  },
+  "Flux_Optimized_Prompt": {
+    "Layered_Composition": {
+      "Foreground": "An ascetic, who has renounced all worldly desires ('விழைவதூஉம் விட்டேம் என்பார்'), is sitting in deep meditation under a tree.",
+      "Midground": "In the background, a farmer is shown. His hands, which were once working, are now idle and folded ('உழவினார் கைம்மடங்கின்'). The fields behind him are barren.",
+      "Background": "Because the farmer has stopped working, the ascetic's own state is shown to be failing. He is growing weak from lack of food, and his meditation is disturbed. His noble state of renunciation ('நிலை') is proving to be unsustainable ('இல்லை') without the foundational labor of the farmer."
+    },
+    "Art_Direction": {
+      "Subject_and_Action": "If farmers stop working, even the most otherworldly ascetics who claim to have renounced everything will find their own state unsustainable.",
+      "Symbolic_Motifs": "The direct causal link between the farmer's inaction and the ascetic's failure is the key. The ascetic's spiritual life is shown to be dependent on the material labor of the farmer. Even the highest state of being rests on the foundation of agriculture.",
+      "Mood_and_Emotion": "Fundamental dependence, foundational, cautionary.",
+      "Lighting_and_Color": "As the farmer's hands become idle, a grey, decaying light spreads from the barren fields and begins to drain the color and serene light from the meditating ascetic.",
+      "Technical_Cues": {
+        "Camera": "A shot with a deep focus, showing the idle farmer in the background and the direct, negative effect on the ascetic in the foreground.",
+        "Resolution": "8K, ultra-realistic, with a focus on the ascetic's growing weakness and disturbed concentration.",
+        "Lighting": "A draining of light and color to symbolize the failure of the ascetic state.",
+        "Art_Genre": "Symbolic realism."
+      },
+      "Cultural_Anchors": [
+        "If the farmers' hands fold (உழவினார் கைம்மடங்கின்)",
+        "Even the state of those who say 'we have renounced desire' will not exist (விழைவதூஉம் விட்டேம் என்பார்க்கும் நிலை இல்லை)"
+      ]
+    },
+    "Negative_Prompt": "happy ascetic, hard-working farmer, text artifacts.",
+    "Hyperparameters": {
+      "variant": "dev",
+      "steps": 45,
+      "cfg_scale": 8,
+      "seed": "Explore the visual of the ascetic's meditation being disturbed."
+    }
+  }
+}

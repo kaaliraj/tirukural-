@@ -1,0 +1,39 @@
+{
+  "Kural_Info": {
+    "Number": 543,
+    "Chapter": "செங்கோன்மை (The Right Sceptre)",
+    "Tamil_Text": "அந்தணர் நூற்கும் அறத்திற்கும் ஆதியாய் நின்றது மன்னவன் கோல்.",
+    "English_Meaning": "The sceptre of the king is the firm support of the Vedas of the Brahmin, and of all virtues therein described."
+  },
+  "Flux_Optimized_Prompt": {
+    "Layered_Composition": {
+      "Foreground": "A massive, unshakable royal sceptre ('மன்னவன் கோல்') stands firm like the axis mundi or world pillar.",
+      "Midground": "This sceptre is the foundation ('ஆதியாய்') from which everything else grows. On one side, the sacred texts of the wise ('அந்தணர் நூல்') are shown supported by a branch growing from the sceptre. On the other side, all virtuous deeds ('அறம்') are depicted as flourishing flowers and fruits on another branch growing from the same sceptre.",
+      "Background": "A stable and enlightened society, where both learning and virtue thrive because of the foundational stability provided by just rule."
+    },
+    "Art_Direction": {
+      "Subject_and_Action": "A just king's rule is the fundamental basis upon which both sacred knowledge and all virtues are built and sustained.",
+      "Symbolic_Motifs": "The sceptre as the foundational pillar or tree of life is the central metaphor. The sacred texts and virtuous deeds are shown literally growing from and being supported by it.",
+      "Mood_and_Emotion": "Foundational, stable, supportive, righteous, civilizational.",
+      "Lighting_and_Color": "A powerful, divine light emanates from the sceptre itself, illuminating the sacred texts and the symbols of virtue. The palette is noble and serene, with golds, whites, and deep, stable earth tones."
+    },
+    "Technical_Cues": {
+      "Camera": "A low-angle, centered shot that emphasizes the foundational role and immense scale of the sceptre.",
+      "Resolution": "8K, with a mythical, painterly quality.",
+      "Lighting": "The sceptre is the primary source of light, symbolizing justice as the light of civilization.",
+      "Art_Genre": "Mythological art, symbolic still life with narrative elements."
+    },
+    "Cultural_Anchors": [
+      "The King's Sceptre as the Foundation ('ஆதியாய் நின்றது கோல்')",
+      "Support for Sacred Lore ('அந்தணர் நூற்கும்')",
+      "Support for Virtue ('அறத்திற்கும்')"
+    ]
+  },
+  "Negative_Prompt": "broken sceptre, falling books, withered flowers, text artifacts, cartoonish.",
+  "Hyperparameters": {
+    "variant": "dev",
+    "steps": 45,
+    "cfg_scale": 8,
+    "seed": "Explore variations for the flourishing fruits of virtue."
+  }
+}

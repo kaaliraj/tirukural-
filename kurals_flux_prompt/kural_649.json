@@ -1,0 +1,39 @@
+{
+  "Kural_Info": {
+    "Number": 649,
+    "Chapter": "சொல்வன்மை (Power of Speech)",
+    "Tamil_Text": "பலசொல்லக் காமுறுவர் மன்றமா சற்ற சிலசொல்லல் தேற்றா தவர்.",
+    "English_Meaning": "They will desire to utter many words, who do not know how to speak a few faultless ones."
+  },
+  "Flux_Optimized_Prompt": {
+    "Layered_Composition": {
+      "Foreground": "A split composition. On the right, a wise speaker is shown uttering just a few, perfectly chosen words ('சிலசொல்லல்'). These words manifest as a small number of flawless, powerful, glowing diamonds.",
+      "Midground": "On the left, a foolish speaker, unable to produce such quality, is shown desperately trying to compensate with quantity. They are spewing forth a massive, chaotic torrent of many words ('பலசொல்ல'), which are visualized as a worthless flood of gravel and dust.",
+      "Background": "An audience is shown turning away from the flood of gravel on the left and being drawn to the powerful, clear light of the few diamond-like words on the right."
+    },
+    "Art_Direction": {
+      "Subject_and_Action": "Those who do not have the skill to speak a few, flawless words will try to cover their lack of quality with a confusing quantity of words.",
+      "Symbolic_Motifs": "The few, perfect diamond words vs. the massive flood of useless gravel is the central metaphor for quality over quantity in speech.",
+      "Mood_and_Emotion": "Contrasting, concise vs. verbose, valuable vs. worthless, wise vs. foolish.",
+      "Lighting_and_Color": "The right side is lit by the brilliant, clear light of the diamond-words. The left side is dusty, chaotic, and poorly lit.",
+      "Technical_Cues": {
+        "Camera": "A balanced, side-by-side shot that makes the contrast in the value of the two speaking styles immediately obvious.",
+        "Resolution": "8K, with high-quality particle effects for the gravel flood and crystal effects for the diamonds.",
+        "Lighting": "High-contrast lighting.",
+        "Art_Genre": "Symbolic art, conceptual illustration."
+      }
+    },
+    "Cultural_Anchors": [
+      "Many words ('பலசொல்ல') vs. A few faultless words ('மாசற்ற சிலசொல்லல்')",
+      "The desire of the unskilled to be verbose.",
+      "The virtue of conciseness."
+    ]
+  },
+  "Negative_Prompt": "diamonds turning to gravel, audience listening to the fool, text artifacts.",
+  "Hyperparameters": {
+    "variant": "dev",
+    "steps": 40,
+    "cfg_scale": 9,
+    "seed": "Explore variations for the gravel flood."
+  }
+}

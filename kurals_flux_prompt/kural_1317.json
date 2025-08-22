@@ -1,0 +1,39 @@
+{
+  "Kural_Info": {
+    "Number": 1317,
+    "Chapter": "புலவி நுணுக்கம் (Feigned Anger)",
+    "Tamil_Text": "வழுத்தினாள் தும்மினேன் ஆக அழித்தழுதாள்யாருள்ளித் தும்மினீர் என்று",
+    "English_Meaning": "When I sneezed she blessed me, but at once changed (her mind) and wept, asking, \"At the thought of whom did you sneeze?\"."
+  },
+  "Flux_Optimized_Prompt": {
+    "Layered_Composition": {
+      "Foreground": "A lover is shown sneezing.",
+      "Midground": "His beloved's reaction is shown in two rapid stages. First, she instinctively follows custom and blesses him ('வழுத்தினாள்').",
+      "Background": "A split second later, her mind connects the sneeze to the old superstition that a sneeze means someone is thinking of you. Her expression instantly changes to one of tragic jealousy. She begins to weep ('அழித்து அழுதாள்'), accusingly asking the question, 'Who was thinking of you to make you sneeze?' ('யார் உள்ளித் தும்மினீர்?')."
+    },
+    "Art_Direction": {
+      "Subject_and_Action": "A humorous depiction of the beloved's extreme jealousy, based on superstition: her lover sneezes, she blesses him out of habit, then immediately starts crying, accusing him that another woman thinking of him caused the sneeze.",
+      "Symbolic_Motifs": "The rapid-fire change in her emotion is the key to the comedy. From blessing to weeping in a single moment. A ghostly image of a generic 'other woman' can appear in her tear-filled eyes, showing the source of her sudden grief.",
+      "Mood_and_Emotion": "Jealous, superstitious, humorous, tragicomic.",
+      "Lighting_and_Color": "A normal, intimate, interior light. The comedy comes from the speed of her emotional shift, not from dramatic lighting.",
+      "Technical_Cues": {
+        "Camera": "A shot that captures the sneeze and then rapidly cuts between her two completely opposite reactions.",
+        "Resolution": "8K, ultra-realistic, focusing on the comedic brilliance of her instant emotional transformation.",
+        "Lighting": "Naturalistic lighting.",
+        "Art_Genre": "Romantic comedy."
+      },
+      "Cultural_Anchors": [
+        "I sneezed (தும்மினேன்)",
+        "She blessed me (வழுத்தினாள்)",
+        "Then she wept, asking 'Who thought of you?' (அழித்து அழுதாள், யார் உள்ளித் தும்மினீர்?)"
+      ]
+    },
+    "Negative_Prompt": "woman ignoring the sneeze, text artifacts.",
+    "Hyperparameters": {
+      "variant": "dev",
+      "steps": 40,
+      "cfg_scale": 7,
+      "seed": "Focus on the comedic timing of her emotional shift."
+    }
+  }
+}

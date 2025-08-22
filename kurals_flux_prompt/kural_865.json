@@ -1,0 +1,37 @@
+{
+  "Kural_Info": {
+    "Number": 865,
+    "Chapter": "பகைமாட்சி (The Might of Hatred)",
+    "Tamil_Text": "வழிநோக்கான் வாய்ப்பன செய்யான் பழிநோக்கான்பண்பிலன் பற்றார்க்கு இனிது.",
+    "English_Meaning": "(A) pleasing (object) to his foes is he who reads not moral works, does nothing that is enjoined by them cares not for reproach and is not possessed of good qualities."
+  },
+  "Flux_Optimized_Prompt": {
+    "Layered_Composition": {
+      "Foreground": "A ruler is shown embodying a multitude of flaws. He turns his back on a path of righteousness ('வழி நோக்கான்'). He refuses to do beneficial deeds ('வாய்ப்பன செய்யான்'). He is blind to the stain of reproach ('பழி நோக்கான்'). He is devoid of good qualities ('பண்பிலன்').",
+      "Midground": "As a result of this perfect storm of incompetence and vice, his enemies ('பற்றார்க்கு') are shown looking on not with aggression, but with sheer, unrestrained delight ('இனிது').",
+      "Background": "The enemies are depicted as feasting and celebrating, as the flawed ruler's actions are doing all their work for them. He is effortlessly destroying his own kingdom, which is the 'sweetest' thing his enemies could witness."
+    },
+    "Art_Direction": {
+      "Subject_and_Action": "A ruler who is immoral, inactive, shameless, and characterless is not a threat to his enemies, but is instead a source of great pleasure and delight for them.",
+      "Symbolic_Motifs": "The enemies' delight is the key emotional focus. They are not fighting; they are watching a performance. The ruler is a self-destructing machine, and his failure is their entertainment.",
+      "Mood_and_Emotion": "Ironic, delightful (for the enemy), self-destructive, pathetic.",
+      "Lighting_and_Color": "The flawed ruler's court is depicted in decaying, ugly colors. The enemy camp, in contrast, is lit with the warm, cheerful light of their celebration. The light of their joy is fueled by the darkness of his failure.",
+      "Technical_Cues": {
+        "Camera": "A shot from the perspective of the celebrating enemies, looking across at the foolish ruler as if watching a delightful show.",
+        "Resolution": "8K, ultra-realistic, with a strong focus on the delighted, scornful expressions of the enemies.",
+        "Lighting": "Contrasting lighting to show the enemy's joy versus the ruler's decay.",
+        "Art_Genre": "Historical satire, dark comedy."
+      },
+      "Cultural_Anchors": [
+        "A pleasing thing to one's enemies (பற்றார்க்கு இனிது)"
+      ]
+    },
+    "Negative_Prompt": "competent ruler, angry enemies, text artifacts.",
+    "Hyperparameters": {
+      "variant": "pro",
+      "steps": 50,
+      "cfg_scale": 9,
+      "seed": "Explore the expressions of the delighted enemies."
+    }
+  }
+}

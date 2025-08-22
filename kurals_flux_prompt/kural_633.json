@@ -1,0 +1,39 @@
+{
+  "Kural_Info": {
+    "Number": 633,
+    "Chapter": "அமைச்சு (The Office of Minister of state)",
+    "Tamil_Text": "பிரித்தலும் பேணிக் கொளலும் பிரிந்தாரைப் பொருத்தலும் வல்ல தமைச்சு.",
+    "English_Meaning": "A minister is one who can effect discord (among foes), maintain the good-will of his friends and restore to friendship those who have seceded (from him)."
+  },
+  "Flux_Optimized_Prompt": {
+    "Layered_Composition": {
+      "Foreground": "A master diplomat (minister) stands at the center of three distinct actions related to relationships.",
+      "Midground": "To their left, they are subtly sowing discord among the king's enemies, visualized as whispering a word that causes two enemy generals to draw swords on each other ('பிரித்தல்'). In the center, they are strengthening an alliance, shown by reinforcing a bond of light between their king and an ally ('பேணிக் கொளல்'). To their right, they are acting as a mediator, skillfully weaving a broken rope back together to reconcile estranged former allies ('பிரிந்தாரைப் பொருத்தலும்').",
+      "Background": "A complex political map of alliances and enmities, which the minister is actively reshaping through their diplomatic skill."
+    },
+    "Art_Direction": {
+      "Subject_and_Action": "The skilled minister is a master of statecraft, able to divide enemies, strengthen friendships, and reconcile those who are estranged.",
+      "Symbolic_Motifs": "The three distinct actions—sowing discord, strengthening bonds, and mending broken ties—are the narrative focus. The minister is a weaver of political fate.",
+      "Mood_and_Emotion": "Diplomatic, shrewd, skillful, strategic, versatile.",
+      "Lighting_and_Color": "Each of the three scenes has its own mood. The dividing of enemies is shadowy and conspiratorial. The strengthening of alliances is bright and golden. The reconciliation is calm and hopeful.",
+      "Technical_Cues": {
+        "Camera": "A wide, panoramic shot that captures the minister's three different diplomatic functions in a single, flowing composition.",
+        "Resolution": "8K, with detailed character interactions and symbolic effects.",
+        "Lighting": "Multi-zoned lighting to create the three distinct moods.",
+        "Art_Genre": "Historical narrative painting, with symbolic elements."
+      }
+    },
+    "Cultural_Anchors": [
+      "Dividing Enemies ('பிரித்தல்')",
+      "Cherishing Allies ('பேணிக் கொளல்')",
+      "Reconciling the Estranged ('பிரிந்தாரைப் பொருத்தலும்')"
+    ]
+  },
+  "Negative_Prompt": "minister failing at diplomacy, text artifacts, cartoonish.",
+  "Hyperparameters": {
+    "variant": "pro",
+    "steps": 50,
+    "cfg_scale": 8,
+    "seed": "Explore variations for the mending rope effect."
+  }
+}

@@ -1,0 +1,38 @@
+{
+  "Kural_Info": {
+    "Number": 1041,
+    "Chapter": "நல்குரவு (Poverty)",
+    "Tamil_Text": "இன்மையின் இன்னாதது யாதெனின் இன்மையின்இன்மையே இன்னா தது.",
+    "English_Meaning": "There is nothing that afflicts (one) like poverty."
+  },
+  "Flux_Optimized_Prompt": {
+    "Layered_Composition": {
+      "Foreground": "A person is suffering from poverty. This is not just a lack of money, but a profound state of being.",
+      "Midground": "Surrounding them are personifications of all other possible sorrows and pains—sickness, betrayal, loss, fear. They are depicted as monstrous but lesser demons.",
+      "Background": "Looming behind all these lesser demons is the ultimate, most terrible sorrow: Poverty itself ('இன்மை'). It is personified as a colossal, all-consuming god of despair. The other sorrows are shown to be mere servants or children of this one, supreme affliction. The image asks 'What is more painful than poverty?' and answers 'Poverty itself'."
+    },
+    "Art_Direction": {
+      "Subject_and_Action": "A declaration of the supreme pain of poverty, stating that there is no other suffering in the world that is as painful as poverty itself.",
+      "Symbolic_Motifs": "The hierarchy of suffering is the key visual. Poverty is the king of all sorrows. Its form should be the most terrifying and hopeless, making the other pains seem minor in comparison.",
+      "Mood_and_Emotion": "Supreme suffering, despair, hopeless, ultimate affliction.",
+      "Lighting_and_Color": "A bleak, cold, and utterly hopeless light. The palette is a monochromatic grey, drained of all life and warmth. The god of Poverty is a being of absolute shadow and despair.",
+      "Technical_Cues": {
+        "Camera": "A low-angle shot that emphasizes the colossal, overwhelming, and inescapable nature of the personified Poverty.",
+        "Resolution": "8K, ultra-realistic, with a terrifying and profound design for the god of Poverty.",
+        "Lighting": "The scene should look like all light and hope has been extinguished.",
+        "Art_Genre": "Dark fantasy, allegorical horror."
+      },
+      "Cultural_Anchors": [
+        "What is more painful than poverty? (இன்மையின் இன்னாதது யாதெனின்?)",
+        "Poverty itself is the most painful thing. (இன்மையின் இன்மையே இன்னாதது)"
+      ]
+    },
+    "Negative_Prompt": "happy poor person, small poverty demon, text artifacts.",
+    "Hyperparameters": {
+      "variant": "pro",
+      "steps": 60,
+      "cfg_scale": 10,
+      "seed": "Explore the design of the colossal 'god of Poverty'."
+    }
+  }
+}

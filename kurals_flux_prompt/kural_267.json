@@ -1,0 +1,38 @@
+{
+  "Kural_Info": {
+    "Number": 267,
+    "Chapter": "தவம் (Penance)",
+    "Tamil_Text": "சுடச்சுடரும் பொன்போல் ஒளிவிடும் துன்பஞ்சுடச்சுட நோற்கிற் பவர்க்கு.",
+    "English_Meaning": "Just as gold is purified as heated in the fire, will those shine, who have endured the burning of pain (in frequent austerities)."
+  },
+  "Flux_Optimized_Prompt": {
+    "Layered_Composition": {
+      "Foreground": "A split composition.",
+      "Midground": "On the left, a goldsmith is heating a lump of raw gold in a crucible. The more it is heated ('சுடச் சுட'), the more impurities are burned away, and the more brilliantly it shines ('ஒளி விடும் பொன்').",
+      "Background": "On the right, in a parallel metaphor, an ascetic is enduring the 'fire' of hardship and penance ('துன்பம் சுடச் சுட'). As they endure this purifying fire, their own soul is shown to be glowing brighter and brighter, becoming more luminous and pure, just like the gold."
+    },
+    "Art_Direction": {
+      "Subject_and_Action": "A direct and powerful simile: just as fire purifies gold and makes it shine, the fire of ascetic suffering purifies the soul and makes it luminous.",
+      "Symbolic_Motifs": "The parallel processes of purification are the core of the image. The fire is the same purifying agent in both the material and spiritual realms. The increasing brilliance of both the gold and the soul is the desired outcome.",
+      "Mood_and_Emotion": "Purification, refinement, enduring, becoming luminous.",
+      "Lighting_and_Color": "Both scenes are dominated by the bright, hot, and purifying light of the fire. The key is to show the subjects (the gold and the soul) not being consumed by the fire, but being refined and made more brilliant by it.",
+      "Technical_Cues": {
+        "Camera": "A diptych shot that shows the two purification processes in parallel, allowing the viewer to make the direct connection.",
+        "Resolution": "8K, hyper-realistic, with advanced fire and glowing material effects.",
+        "Lighting": "The fire of purification is the primary light source in both scenes.",
+        "Art_Genre": "Symbolic realism, with an industrial/alchemical feel."
+      },
+      "Cultural_Anchors": [
+        "Like gold that shines brighter the more it's heated (சுடச்சுடரும் பொன்போல்)",
+        "The person who endures the burning of suffering will shine (துன்பம் சுடச்சுட நோற்கிற்பவர்க்கு ஒளி விடும்)"
+      ]
+    },
+    "Negative_Prompt": "gold melting away, ascetic burning up, text artifacts.",
+    "Hyperparameters": {
+      "variant": "pro",
+      "steps": 55,
+      "cfg_scale": 9,
+      "seed": "Explore the visual of a soul being purified by fire."
+    }
+  }
+}

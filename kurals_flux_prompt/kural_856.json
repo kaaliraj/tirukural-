@@ -1,0 +1,39 @@
+{
+  "Kural_Info": {
+    "Number": 856,
+    "Chapter": "இகல் (Hostility)",
+    "Tamil_Text": "இகலின் மிகலினிது என்பவன் வாழ்க்கை தவலும் கெடலும் நணித்து.",
+    "English_Meaning": "The life of him who says it is sweet to excel in hatred will quickly fail and be destroyed."
+  },
+  "Flux_Optimized_Prompt": {
+    "Layered_Composition": {
+      "Foreground": "A person stands proudly, proclaiming that excelling in hostility is a sweet and desirable thing ('இகலின் மிகலினிது'). They are drinking a sweet, glowing liquid from a cup, which represents this belief.",
+      "Midground": "However, the sweet liquid is a fast-acting poison. As they drink, their magnificent life, represented by a grand tower they are standing on, is shown to be simultaneously and rapidly crumbling from its foundations ('தவலும்').",
+      "Background": "The tower quickly collapses into a pile of dust and ruin ('கெடலும்'), showing that their destruction is both near and certain ('நணித்து')."
+    },
+    "Art_Direction": {
+      "Subject_and_Action": "The life of one who finds pleasure in hostility is very close to both decline and total destruction.",
+      "Symbolic_Motifs": "The sweet poison of hostility is the key metaphor. The grand life-tower crumbling and then being utterly destroyed represents the two stages of ruin: decline and final destruction.",
+      "Mood_and_Emotion": "Self-destructive, foolish, tragic, inevitable doom.",
+      "Lighting_and_Color": "The sweet poison glows with a deceptive, alluring light. The crumbling tower is cast in a dark, tragic light of destruction. The colors become progressively darker and more chaotic.",
+      "Technical_Cues": {
+        "Camera": "A shot that shows the person drinking the poison and the immediate, destructive effect on their life-tower.",
+        "Resolution": "8K, cinematic, with high-quality destruction and particle effects.",
+        "Lighting": "Dramatic lighting that shifts from alluring to destructive.",
+        "Art_Genre": "Dark fantasy allegory."
+      }
+    },
+    "Cultural_Anchors": [
+      "He who finds hostility sweet ('இகலின் மிகலினிது என்பவன்')",
+      "His life will decline ('தவலும்')",
+      "And be destroyed ('கெடலும்')."
+    ]
+  },
+  "Negative_Prompt": "a healthy person, a strong tower, text artifacts, cartoonish.",
+  "Hyperparameters": {
+    "variant": "dev",
+    "steps": 45,
+    "cfg_scale": 9,
+    "seed": "Explore variations for the crumbling tower."
+  }
+}

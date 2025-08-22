@@ -1,0 +1,39 @@
+{
+  "Kural_Info": {
+    "Number": 167,
+    "Chapter": "అழுக்காறாமை (Not Envying)",
+    "Tamil_Text": "అவ்வித்து அழுக்காறு உடையானைச் செய்யவள்தவ்வையைக் காட்டி விடும்.",
+    "English_Meaning": "Lakshmi envying (the prosperity) of the envious man will depart and introduce him to her sister."
+  },
+  "Flux_Optimized_Prompt": {
+    "Layered_Composition": {
+      "Foreground": "An envious man ('అழுக்காறு உடையான்') is shown in his prosperous home. The Goddess Lakshmi ('செய்யவள்'), the embodiment of fortune, is present with him, but she is looking at his envious nature with disapproval and disgust.",
+      "Midground": "Deciding she cannot stay, Lakshmi is shown turning her back and walking towards the door to depart. As she does, she points behind her.",
+      "Background": "At the door, waiting to enter as Lakshmi leaves, is her elder sister, the Goddess Mudevi ('తవ్వై'), the embodiment of misfortune and squalor. Lakshmi is not just leaving; she is actively pointing the way for her sister, Misfortune, to come in and take her place."
+    },
+    "Art_Direction": {
+      "Subject_and_Action": "The Goddess of Fortune, unable to tolerate an envious heart, will not only depart from that person but will actively introduce them to her sister, the Goddess of Misfortune.",
+      "Symbolic_Motifs": "The divine 'changing of the guard' is the central visual. Lakshmi's departure and Mudevi's arrival are a direct, one-for-one replacement. Lakshmi's gesture of pointing is crucial, as it shows she is actively causing the misfortune, not just passively leaving.",
+      "Mood_and_Emotion": "Divine retribution, cursed, abandoned by fortune.",
+      "Lighting_and_Color": "The scene begins with the warm, golden light of Lakshmi's presence. As she decides to leave, her light goes with her, and the dark, gloomy, and squalid shadows of Mudevi begin to creep into the room from the doorway.",
+      "Technical_Cues": {
+        "Camera": "A shot from inside the room, capturing Lakshmi's look of disgust, her departure, and the ominous arrival of Mudevi at the door.",
+        "Resolution": "8K, ultra-realistic, with majestic and ethereal designs for the two goddesses, one beautiful and one fearsome.",
+        "Lighting": "A dramatic lighting shift from divine prosperity to encroaching doom.",
+        "Art_Genre": "Mythological painting."
+      },
+      "Cultural_Anchors": [
+        "The Goddess Lakshmi (செய்யவள்)",
+        "Her elder sister, Mudevi (తవ్వై)",
+        "She will show the way and leave (காட்டி விடும்)"
+      ]
+    },
+    "Negative_Prompt": "Lakshmi staying with the envious man, text artifacts, cartoonish goddesses.",
+    "Hyperparameters": {
+      "variant": "pro",
+      "steps": 55,
+      "cfg_scale": 8,
+      "seed": "Explore the contrasting designs of Lakshmi and Mudevi."
+    }
+  }
+}

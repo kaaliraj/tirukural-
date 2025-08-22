@@ -1,0 +1,39 @@
+{
+  "Kural_Info": {
+    "Number": 277,
+    "Chapter": "கூடா ஒழுக்கம் (Imposture)",
+    "Tamil_Text": "புறங்குன்றி கண்டனைய ரேனும் அகங்குன்றிமுக்கிற் கரியார் உடைத்து.",
+    "English_Meaning": "(The world) contains persons whose outside appears (as fair) as the (red) berry of the Abrus, but whose inside is as black as the nose of that berry."
+  },
+  "Flux_Optimized_Prompt": {
+    "Layered_Composition": {
+      "Foreground": "A split, magnified view of a Kunri seed (Abrus precatorius berry). The main body of the seed is a beautiful, brilliant, flawless red.",
+      "Midground": "The very tip of the seed, however, is a stark, absolute, and ugly black.",
+      "Background": "This seed is used as a direct simile for a hypocrite. A person is shown whose outward appearance ('புறம்') is as beautiful and virtuous as the red part of the seed. However, a transparent view of their inner self ('அகம்') reveals that their heart is as black and corrupt as the tip of the seed ('மூக்கின் கரியார்')."
+    },
+    "Art_Direction": {
+      "Subject_and_Action": "A vivid simile: hypocrites are like the Kunri seed, with a beautiful, virtuous exterior that hides a black, corrupt core.",
+      "Symbolic_Motifs": "The Kunri seed itself is the central and most important visual. The direct, one-to-one comparison of the person's outer and inner self to the red and black parts of the seed makes the meaning unmistakable.",
+      "Mood_and_Emotion": "Deceptive, two-faced, beautiful but corrupt.",
+      "Lighting_and_Color": "The lighting should emphasize the beautiful, glossy red of the seed and the person's exterior, and the deep, matte, light-absorbing black of the tip and the person's interior.",
+      "Technical_Cues": {
+        "Camera": "A macro shot that transitions from the beautiful red seed to its black tip, and then dissolves to show the person who embodies this same duality.",
+        "Resolution": "8K, hyper-realistic, with a strong focus on the specific colors and textures of the Kunri seed.",
+        "Lighting": "High-contrast lighting to emphasize the duality.",
+        "Art_Genre": "Symbolic still life, combined with portraiture."
+      },
+      "Cultural_Anchors": [
+        "The Kunri seed (குன்றி)",
+        "The outside is like the red berry (புறம் குன்றி கண்டு அனையர்)",
+        "The inside is as black as its tip (அகம் குன்றி மூக்கின் கரியார்)"
+      ]
+    },
+    "Negative_Prompt": "all-red seed, all-black person, text artifacts.",
+    "Hyperparameters": {
+      "variant": "dev",
+      "steps": 45,
+      "cfg_scale": 8,
+      "seed": "Focus on the exact, striking colors of the Kunri seed."
+    }
+  }
+}

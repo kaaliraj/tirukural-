@@ -1,0 +1,39 @@
+{
+  "Kural_Info": {
+    "Number": 875,
+    "Chapter": "பகைத்திறந்தெரிதல் (Knowing the Quality of Hate)",
+    "Tamil_Text": "தன்துணை இன்றால் பகையிரண்டால் தான்ஒருவன் இன்துணையாக் கொள்கவற்றின் ஒன்று.",
+    "English_Meaning": "He who is alone and helpless while his foes are two should secure one of them as an agreeable help (to himself)."
+  },
+  "Flux_Optimized_Prompt": {
+    "Layered_Composition": {
+      "Foreground": "A person stands alone, without any allies ('தன்துணை இன்றால்').",
+      "Midground": "They are being threatened by two equally powerful enemies ('பகை இரண்டால்'), who are approaching from the left and the right.",
+      "Background": "Instead of fighting both, the lone person is shown making a strategic choice. They turn to one of the enemies and extend a hand of friendship, offering an alliance. They are choosing to make one of the two threats into a welcome ally ('இன்துணையாக் கொள்கவற்றின் ஒன்று')."
+    },
+    "Art_Direction": {
+      "Subject_and_Action": "If you are alone and have two enemies, the wise strategy is to turn one of them into a friend.",
+      "Symbolic_Motifs": "The classic 'stuck between two enemies' scenario. The key action is the strategic choice to offer alliance to one of them, rather than fighting a hopeless two-front war.",
+      "Mood_and_Emotion": "Strategic, diplomatic, a clever solution, survivalist.",
+      "Lighting_and_Color": "A tense, dramatic lighting. The two enemies can be represented by opposing colors (e.g., red and blue). The act of offering friendship introduces a new, hopeful color into the scene.",
+      "Technical_Cues": {
+        "Camera": "A high-angle shot that shows the strategic triangle of the lone person and their two enemies.",
+        "Resolution": "8K, with a clear, narrative composition.",
+        "Lighting": "High-contrast lighting to emphasize the threat.",
+        "Art_Genre": "Historical drama, strategic illustration."
+      },
+      "Cultural_Anchors": [
+        "Alone with two enemies ('தன்துணை இன்றால் பகை இரண்டால்')",
+        "Make one of them a friend ('ஒன்று இன்துணையாக் கொள்க')",
+        "The 'enemy of my enemy is my friend' principle."
+      ]
+    },
+    "Negative_Prompt": "person fighting both enemies, person surrendering, text artifacts.",
+    "Hyperparameters": {
+      "variant": "pro",
+      "steps": 50,
+      "cfg_scale": 8,
+      "seed": "Explore variations for the two enemies."
+    }
+  }
+}

@@ -1,0 +1,39 @@
+{
+  "Kural_Info": {
+    "Number": 90,
+    "Chapter": "விருந்தோம்பல் (Hospitality)",
+    "Tamil_Text": "மோப்பக் குழையும் அனிச்சம் முகந்திரிந்துநோக்கக் குழையும் விருந்து.",
+    "English_Meaning": "As the Anicham flower fades in smelling, so fades the guest when the face is turned away."
+  },
+  "Flux_Optimized_Prompt": {
+    "Layered_Composition": {
+      "Foreground": "A guest stands at the threshold of a home, their form vibrant and full of dignity.",
+      "Midground": "The host turns their face away with a slight frown or look of displeasure ('முகம் திரிந்து நோக்க'). The very instant this happens, the guest's form begins to wilt and fade, like a time-lapse of a flower dying.",
+      "Background": "In a parallel visual, a beautiful, delicate Anicham flower is shown. Someone brings it close to smell it ('மோப்ப'), and in that instant, it wilts completely ('குழையும்'), mirroring the guest's reaction."
+    },
+    "Art_Direction": {
+      "Subject_and_Action": "A powerful simile showing the extreme sensitivity of a guest, who 'wilts' from a mere un-welcoming look, just as the delicate Anicham flower wilts from being smelled.",
+      "Symbolic_Motifs": "The visual parallel between the guest and the flower is the core of the image. The guest's fading should be portrayed as an emotional and spiritual wilting, a loss of dignity and joy, not a physical death.",
+      "Mood_and_Emotion": "Delicate, sensitive, fragile, heartbreaking.",
+      "Lighting_and_Color": "The scene starts with warm, welcoming colors. When the host's face turns, the color should drain dramatically from the guest and their surroundings, turning pale and desaturated to represent the 'wilting' of the moment.",
+      "Technical_Cues": {
+        "Camera": "A close-up shot focusing on the interaction, capturing the subtle change in the host's expression and the immediate, dramatic effect on the guest.",
+        "Resolution": "8K, hyper-realistic, with advanced visual effects to show the 'wilting' of the guest.",
+        "Lighting": "A dramatic shift in lighting and color saturation triggered by the host's look.",
+        "Art_Genre": "Emotional realism, with symbolic, magical elements."
+      },
+      "Cultural_Anchors": [
+        "The Anicham flower (அனிச்சம்) as a symbol of delicacy",
+        "The wilting guest (குழையும் விருந்து)",
+        "The unwelcoming face (முகம் திரிந்து)"
+      ]
+    },
+    "Negative_Prompt": "happy guest, smiling host, robust flower, text artifacts, anger, shouting.",
+    "Hyperparameters": {
+      "variant": "pro",
+      "steps": 50,
+      "cfg_scale": 8,
+      "seed": "Explore the visual effect of the guest 'wilting'."
+    }
+  }
+}

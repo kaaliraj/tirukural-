@@ -1,0 +1,39 @@
+{
+  "Kural_Info": {
+    "Number": 674,
+    "Chapter": "வினைசெயல்வகை (Modes of Action)",
+    "Tamil_Text": "வினைபகை என்றிரண்டின் எச்சம் நினையுங்கால் தீயெச்சம் போலத் தெறும்.",
+    "English_Meaning": "The remnant of a work, and the remnant of a debt, will, on reflection, be found to be like the remnant of a fire."
+  },
+  "Flux_Optimized_Prompt": {
+    "Layered_Composition": {
+      "Foreground": "A split scene. On the left, an unfinished task ('வினை எச்சம்') is represented by a half-built wall. On the right, an un-quelled enemy ('பகை எச்சம்') is represented by a single, wounded but surviving enemy soldier.",
+      "Midground": "Both of these remnants are shown to be smoldering, like the embers of an extinguished fire ('தீயெச்சம்').",
+      "Background": "Later in time, these smoldering embers have burst back into a raging inferno. The half-built wall has allowed a new, larger army to pour through, and the single surviving enemy has returned with a vast new army, causing total destruction ('தெறும்')."
+    },
+    "Art_Direction": {
+      "Subject_and_Action": "The remnants of an unfinished task or an un-vanquished foe are like the embers of a fire—they will inevitably flare up again and consume you.",
+      "Symbolic_Motifs": "The direct comparison of unfinished work and surviving enemies to smoldering embers is the key. The final scene of a raging inferno shows the devastating consequences of leaving things unfinished.",
+      "Mood_and_Emotion": "Ominous, dangerous, cautionary, destructive.",
+      "Lighting_and_Color": "The initial scene is dark and smoldering. The final scene is a blazing inferno of destructive reds and oranges.",
+      "Technical_Cues": {
+        "Camera": "A narrative composition that shows the 'before' (smoldering embers) and the 'after' (raging fire) in a clear cause-and-effect relationship.",
+        "Resolution": "8K, cinematic, with high-quality fire and ember effects.",
+        "Lighting": "The light grows from a faint ember glow to a powerful, destructive blaze.",
+        "Art_Genre": "Dark fantasy, with a strong narrative warning."
+      }
+    },
+    "Cultural_Anchors": [
+      "Remnant of a Task ('வினை எச்சம்')",
+      "Remnant of an Enemy ('பகை எச்சம்')",
+      "Like the Remnant of a Fire ('தீயெச்சம் போல')"
+    ]
+  },
+  "Negative_Prompt": "embers dying out, enemies not returning, text artifacts, cartoonish fire.",
+  "Hyperparameters": {
+    "variant": "pro",
+    "steps": 50,
+    "cfg_scale": 8,
+    "seed": "Explore variations for the smoldering ember effect."
+  }
+}

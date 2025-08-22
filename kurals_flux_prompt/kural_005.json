@@ -1,0 +1,39 @@
+{
+  "Kural_Info": {
+    "Number": 5,
+    "Chapter": "கடவுள் வாழ்த்து (The Praise of God)",
+    "Tamil_Text": "இருள்சேர் இருவினையும் சேரா இறைவன்பொருள்சேர் புகழ்புரிந்தார் மாட்டு.",
+    "English_Meaning": "The two-fold deeds that spring from darkness shall not adhere to those who delight in the true praise of God."
+  },
+  "Flux_Optimized_Prompt": {
+    "Layered_Composition": {
+      "Foreground": "A devout Tamil family—man, woman, and child—standing before a sacred flame, their faces filled with genuine joy and reverence.",
+      "Midground": "Two dark, menacing streams representing the 'two-fold deeds' ('Iruvinai') try to reach them from the deep shadows on either side, but are repelled.",
+      "Background": "A simple, clean courtyard in an ancient Tamil setting. The area outside the circle of light from the flame is deep and menacing."
+    },
+    "Art_Direction": {
+      "Subject_and_Action": "A family, through their sincere praise of the divine, is protected from the consequences of karma born of ignorance.",
+      "Symbolic_Motifs": "The sacred flame is pure and smokeless, representing the 'true praise of God'. The dark streams of karma ('Irulser') turn to dust as they approach the protective light from the flame.",
+      "Mood_and_Emotion": "Protective, sacred, joyful, serene.",
+      "Lighting_and_Color": "A powerful, warm, golden light from the sacred flame creates a protective aura around the family. The encroaching streams of karma are inky, shadowy blacks and greys."
+    },
+    "Technical_Cues": {
+      "Camera": "Medium wide shot, eye-level, shot on 50mm lens.",
+      "Resolution": "8K, ultra-realistic, with soft focus on the background to emphasize the family.",
+      "Lighting": "Single-source lighting from the flame, creating a strong chiaroscuro effect, warm tones within the circle, cool tones outside.",
+      "Art_Genre": "Photorealistic digital painting with mystical, painterly effects for the symbolic elements."
+    },
+    "Cultural_Anchors": [
+      "Sacred flame (அக்னி)",
+      "Concept of 'Iruvinai' (two-fold karma)",
+      "Ancient Tamil domestic architecture"
+    ]
+  },
+  "Negative_Prompt": "frightened family, deformed limbs, text artifacts, mechanical textures, East Asian facial features, Western attire, smoky fire.",
+  "Hyperparameters": {
+    "variant": "dev",
+    "steps": 35,
+    "cfg_scale": 7,
+    "seed": "Explore variations for the texture of the karma streams."
+  }
+}

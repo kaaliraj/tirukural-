@@ -1,0 +1,38 @@
+{
+  "Kural_Info": {
+    "Number": 200,
+    "Chapter": "பயனில சொல்லாமை (Against Vain Speaking)",
+    "Tamil_Text": "சொல்லுக சொல்லிற் பயனுடைய சொல்லற்கசொல்லிற் பயனிலாச் சொல்.",
+    "English_Meaning": "Speak what is useful, and speak not useless words."
+  },
+  "Flux_Optimized_Prompt": {
+    "Layered_Composition": {
+      "Foreground": "A wise orator stands before two choices of speech, represented by two scrolls.",
+      "Midground": "The scroll in their right hand is labeled 'Useful Words' ('சொல்லில் பயனுடைய'). It glows with a bright, constructive light. The scroll in their left hand is labeled 'Useless Words' ('சொல்லில் பயனிலா'). It is blank and emits a dull, empty smoke.",
+      "Background": "The orator is shown decisively choosing the glowing scroll of useful speech ('சொல்லுக') and casting aside the empty scroll of useless speech ('சொல்லற்க'). The choice is presented as a fundamental principle of wise communication."
+    },
+    "Art_Direction": {
+      "Subject_and_Action": "A direct and simple command: Speak only words that have a useful purpose. Do not speak words that are useless.",
+      "Symbolic_Motifs": "The two scrolls provide a clear visual choice. One is full of light and purpose, the other is full of emptiness and smoke. The orator's decisive action turns the advice into a clear moral imperative.",
+      "Mood_and_Emotion": "Decisive, purposeful, clear, direct.",
+      "Lighting_and_Color": "The useful scroll and the orator are lit by a bright, constructive, golden light. The useless scroll is dark and emits a grey, meaningless smoke that dissipates.",
+      "Technical_Cues": {
+        "Camera": "A clear, iconic shot of the orator making their choice, presented in a style of classical clarity.",
+        "Resolution": "8K, ultra-realistic, with a focus on the symbolic nature of the two scrolls.",
+        "Lighting": "Strong, clear, and purposeful lighting.",
+        "Art_Genre": "Classical allegorical art."
+      },
+      "Cultural_Anchors": [
+        "Speak useful words (சொல்லுக சொல்லில் பயனுடைய)",
+        "Speak not useless words (சொல்லற்க சொல்லில் பயனிலா)"
+      ]
+    },
+    "Negative_Prompt": "orator choosing the useless scroll, text artifacts, ambiguous choice.",
+    "Hyperparameters": {
+      "variant": "dev",
+      "steps": 40,
+      "cfg_scale": 7,
+      "seed": "Explore the visual contrast between the two scrolls."
+    }
+  }
+}

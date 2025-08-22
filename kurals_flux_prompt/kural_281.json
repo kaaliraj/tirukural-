@@ -1,0 +1,38 @@
+{
+  "Kural_Info": {
+    "Number": 281,
+    "Chapter": "கள்ளாமை (The Absence of Fraud)",
+    "Tamil_Text": "எள்ளாமை வேண்டுவான் என்பான் எனைத்தொன்றும்கள்ளாமை காக்கதன் நெஞ்சு.",
+    "English_Meaning": "Let him, who desires not to be despised, keep his mind from (the desire of) defrauding another of the smallest thing."
+  },
+  "Flux_Optimized_Prompt": {
+    "Layered_Composition": {
+      "Foreground": "A person stands with dignity, radiating self-respect. Their primary action is guarding their own heart/mind ('நெஞ்சு').",
+      "Midground": "Their mind is visualized as a pristine, walled garden. The person is acting as a vigilant watchman at the gate.",
+      "Background": "A tiny, dark, serpent-like creature, representing the desire for fraudulent gain ('கள்ளாமை'), even of the smallest thing ('எனைத்து ஒன்றும்'), is trying to slither into the garden. The watchman firmly but calmly blocks its entry, thus preserving the garden's purity and their own honor."
+    },
+    "Art_Direction": {
+      "Subject_and_Action": "The person who wishes to avoid being despised ('எள்ளாமை') must actively guard their mind against even the smallest thought of fraudulent gain.",
+      "Symbolic_Motifs": "The mind as a pristine garden is a metaphor for a pure conscience. The desire for fraud as a tiny serpent shows that even the smallest evil thought is poisonous and must be kept out. The act of guarding is an internal, mental discipline.",
+      "Mood_and_Emotion": "Vigilant, self-respect, principled, pure.",
+      "Lighting_and_Color": "The garden of the mind is filled with a bright, pure, clean light. The person radiates this same light of integrity. The serpent of fraud is a stark, oily black, unable to enter the illuminated space.",
+      "Technical_Cues": {
+        "Camera": "A medium shot that clearly depicts the person, their symbolic mind-garden, and the small but potent threat they are guarding against.",
+        "Resolution": "8K, ultra-realistic, with ethereal effects for the mind-garden and the symbolic serpent.",
+        "Lighting": "The primary light source is the pure state of the guarded mind itself.",
+        "Art_Genre": "Symbolic realism, allegorical art."
+      },
+      "Cultural_Anchors": [
+        "Desiring not to be despised (எள்ளாமை வேண்டுவான்)",
+        "Guarding the mind from fraud (கள்ளாமை காக்க தன் நெஞ்சு)"
+      ]
+    },
+    "Negative_Prompt": "serpent inside the garden, desolate garden, despised person, text artifacts, cartoonish serpent.",
+    "Hyperparameters": {
+      "variant": "dev",
+      "steps": 45,
+      "cfg_scale": 8,
+      "seed": "Explore the design of the 'pristine mind-garden'."
+    }
+  }
+}

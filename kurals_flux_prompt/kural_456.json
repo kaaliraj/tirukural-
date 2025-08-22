@@ -1,0 +1,39 @@
+{
+  "Kural_Info": {
+    "Number": 456,
+    "Chapter": "சிற்றினஞ்சேராமை (Avoiding mean Associations)",
+    "Tamil_Text": "மனந்தூயார்க் கெச்சம்நன் றாகும் இனந்தூயார்க்கு இல்லைநன் றாகா வினை.",
+    "English_Meaning": "To the pure-minded there will be a good posterity. By those whose associates are pure, no deeds will be done that are not good."
+  },
+  "Flux_Optimized_Prompt": {
+    "Layered_Composition": {
+      "Foreground": "A split composition. Left side: A person with a pure mind ('மனந்தூயார்'), represented by a clear, crystal heart, is shown with a happy and prosperous family and children, representing a good posterity ('எச்சம் நன்றாகும்').",
+      "Midground": "Right side: A person is surrounded by pure and noble companions ('இனந்தூயார்'). Every action they take, represented by seeds they are planting, immediately sprouts into a beautiful, virtuous plant. There are no weeds or bad plants ('நன்றாகா வினை இல்லை').",
+      "Background": "Both scenes are set in a bright, flourishing, and virtuous landscape, showing the positive outcomes of inner and outer purity."
+    },
+    "Art_Direction": {
+      "Subject_and_Action": "A visual depiction of the two benefits of purity: a pure mind leads to a good future/posterity, and pure company leads to unfailingly good actions.",
+      "Symbolic_Motifs": "The crystal heart symbolizes a pure mind. The flourishing family represents good posterity. The seeds instantly growing into good plants represent the infallibly good actions resulting from good company.",
+      "Mood_and_Emotion": "Virtuous, prosperous, pure, unerring, blessed.",
+      "Lighting_and_Color": "Both panels are bathed in a bright, warm, and positive golden light. The colors are vibrant and healthy, signifying growth and goodness."
+    },
+    "Technical_Cues": {
+      "Camera": "A balanced wide shot that clearly presents the two parallel scenarios and their positive outcomes.",
+      "Resolution": "8K, ultra-realistic, with rich details.",
+      "Lighting": "High-key, optimistic lighting.",
+      "Art_Genre": "Idealized realism, allegorical art."
+    },
+    "Cultural_Anchors": [
+      "Pure Mind and Good Posterity ('மனந்தூயார்க்கு எச்சம் நன்றாகும்')",
+      "Pure Company and Good Deeds ('இனந்தூயார்க்கு நன்றாகா வினை இல்லை')",
+      "The connection between purity and positive outcomes."
+    ]
+  },
+  "Negative_Prompt": "person with a dark heart, unhappy family, seeds growing into weeds, text artifacts.",
+  "Hyperparameters": {
+    "variant": "dev",
+    "steps": 40,
+    "cfg_scale": 8,
+    "seed": "Explore variations for the plants that sprout from the seeds."
+  }
+}

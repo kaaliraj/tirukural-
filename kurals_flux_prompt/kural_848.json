@@ -1,0 +1,39 @@
+{
+  "Kural_Info": {
+    "Number": 848,
+    "Chapter": "புல்லறிவாண்மை (Ignorance)",
+    "Tamil_Text": "ஏவவும் செய்கலான் தான்தேறான் அவ்வுயிர் போஒம் அளவுமோர் நோய்.",
+    "English_Meaning": "The fool will not perform (his duties) even when advised nor ascertain them himself; such a soul is a burden (to the earth) till it departs (from the body)."
+  },
+  "Flux_Optimized_Prompt": {
+    "Layered_Composition": {
+      "Foreground": "A foolish person is depicted. On one side, a wise guide is giving them clear instructions ('ஏவவும்'), but the fool refuses to act ('செய்கலான்').",
+      "Midground": "On the other side, a map with a clear path is available, but the fool makes no effort to look at it or understand it for themself ('தான்தேறான்').",
+      "Background": "Because of this twofold inability to learn or act, their soul ('அவ்வுயிர்') is represented not as a living entity, but as a heavy, burdensome, grey sickness ('நோய்') that weighs down the earth from birth until death ('போகும் அளவும்')."
+    },
+    "Art_Direction": {
+      "Subject_and_Action": "The person who will neither do as they are told nor think for themselves is a living disease upon the earth for their entire life.",
+      "Symbolic_Motifs": "The refusal to listen and the refusal to see are the two key failures. The soul as a heavy, grey, sickly burden is the powerful metaphor for their existence.",
+      "Mood_and_Emotion": "Burdensome, stagnant, incurable, a living disease.",
+      "Lighting_and_Color": "A bleak, grey, sickly light permeates the scene. The fool is a study in stagnant inaction. The soul-burden has a heavy, leaden quality.",
+      "Technical_Cues": {
+        "Camera": "A wide, pathetic shot of the fool in their state of inaction, with the symbolic burden of their soul visualized.",
+        "Resolution": "8K, with a dreary, oppressive atmosphere.",
+        "Lighting": "Flat, joyless lighting.",
+        "Art_Genre": "Symbolic expressionism."
+      },
+      "Cultural_Anchors": [
+        "Neither does as told nor thinks for themself",
+        "Their life is a disease until death ('போகும் அளவுமோர் நோய்')",
+        "A burden on the world."
+      ]
+    },
+    "Negative_Prompt": "an active person, a learning person, a light and healthy soul, text artifacts.",
+    "Hyperparameters": {
+      "variant": "pro",
+      "steps": 50,
+      "cfg_scale": 8,
+      "seed": "Explore variations for the 'soul as a sickness'."
+    }
+  }
+}

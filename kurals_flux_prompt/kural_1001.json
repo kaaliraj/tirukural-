@@ -1,0 +1,33 @@
+{
+  "Kural_Info": {
+    "Number": 1001,
+    "Chapter": "நன்றியில்செல்வம் (Wealth without Benefaction)",
+    "Tamil_Text": "வைத்தான்வாய் சான்ற பெரும்பொருள் அஃதுண்ணான்செத்தான் செயக்கிடந்தது இல்.",
+    "English_Meaning": "Who fills his house with ample store, enjoying none, Is dead. Nought with the useless heap is done."
+  },
+  "Flux_Optimized_Prompt": {
+    "Layered_Composition": {
+      "Foreground": "An incredibly wealthy but miserly person is shown sitting amidst a vast hoard of treasure (gold coins, gems, fine silks) in a locked vault. Their body is ghostly and translucent, signifying they are spiritually dead ('Seththan').",
+      "Midground": "The treasure itself is covered in cobwebs and dust, completely untouched and unused ('Athu Unnaan'), highlighting its uselessness.",
+      "Background": "Through a barred window, the vibrant, living world can be seen, where people are sharing, enjoying, and using resources, in stark contrast to the dead hoard inside."
+    },
+    "Art_Direction": {
+      "Subject_and_Action": "A person who hoards vast wealth without enjoying or using it is functionally dead, and their wealth is useless.",
+      "Symbolic_Motifs": "The ghostly, translucent form of the miser. The dusty, cobweb-covered treasure. The vibrant world outside the vault's window serves as a powerful contrast.",
+      "Mood_and_Emotion": "Sterile, lifeless, tragic, a sense of profound waste.",
+      "Lighting_and_Color": "The vault is dark and filled with cold, metallic light reflecting dimly off the dusty treasure. The world outside the window is warm, colorful, and brightly lit."
+    },
+    "Technical_Cues": {
+      "Camera": "Wide shot of the vault to emphasize the scale of the useless hoard, with the ghostly figure almost lost within it.",
+      "Resolution": "8K, ultra-realistic, with detailed textures of dust, cobwebs, and tarnished gold.",
+      "Lighting": "Dramatic chiaroscuro, with a single sliver of warm light coming from the window, making the vault feel even more like a tomb.",
+      "Art_Genre": "Symbolic realism, with allegorical elements reminiscent of a classic fable."
+    },
+    "Cultural_Anchors": [
+      "நன்றியில் செல்வம் (Useless Wealth)",
+      "The concept of the 'living dead' (செத்தவன்)",
+      "The virtue of using wealth (துய்த்தல்)"
+    ]
+  },
+  "Negative_Prompt": "happy miser, sparkling clean treasure, people using the treasure inside the vault, text artifacts, cartoonish, bright vault."
+}

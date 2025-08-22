@@ -1,0 +1,39 @@
+{
+  "Kural_Info": {
+    "Number": 681,
+    "Chapter": "தூது (The Envoy)",
+    "Tamil_Text": "அன்புடைமை ஆன்ற குடிப்பிறத்தல் வேந்தவாம் பண்புடைமை தூதுரைப்பான் பண்பு.",
+    "English_Meaning": "The qualification of an ambassador are affection (for his relations) a fitting birth, and the possession of attributes pleasing to royalty."
+  },
+  "Flux_Optimized_Prompt": {
+    "Layered_Composition": {
+      "Foreground": "An ideal envoy stands before a king. Three distinct qualities are visualized around him.",
+      "Midground": "A glowing heart symbolizes his love and loyalty to his own king ('அன்புடைமை'). A noble, ancestral banner behind him represents his good birth ('ஆன்ற குடிப்பிறத்தல்'). His own refined, pleasing demeanor and attire represent the character that kings find agreeable ('வேந்தவாம் பண்புடைமை').",
+      "Background": "A royal court, where these qualities allow him to operate with confidence and success."
+    },
+    "Art_Direction": {
+      "Subject_and_Action": "The three essential qualities of an ambassador: loyalty, noble birth, and a pleasing, courtly character.",
+      "Symbolic_Motifs": "The three qualities are represented by clear, distinct symbols: the glowing heart, the ancestral banner, and the refined appearance.",
+      "Mood_and_Emotion": "Noble, loyal, charismatic, dignified, ideal.",
+      "Lighting_and_Color": "A regal, golden light that befits a royal court. The envoy is illuminated in a way that highlights his three key attributes.",
+      "Technical_Cues": {
+        "Camera": "A full-body portrait of the envoy, capturing his dignified stance and symbolic qualities.",
+        "Resolution": "8K, with the rich detail of a classical portrait.",
+        "Lighting": "Soft, noble lighting.",
+        "Art_Genre": "Classical portraiture, historical realism."
+      }
+    },
+    "Cultural_Anchors": [
+      "Love/Loyalty ('அன்புடைமை')",
+      "Good Birth ('ஆன்ற குடிப்பிறத்தல்')",
+      "Pleasing Character ('வேந்தவாம் பண்புடைமை')"
+    ]
+  },
+  "Negative_Prompt": "disloyal envoy, common-looking envoy, awkward demeanor, text artifacts.",
+  "Hyperparameters": {
+    "variant": "pro",
+    "steps": 45,
+    "cfg_scale": 7,
+    "seed": "Explore variations for the ancestral banner."
+  }
+}

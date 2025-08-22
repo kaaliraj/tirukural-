@@ -1,0 +1,39 @@
+{
+  "Kural_Info": {
+    "Number": 637,
+    "Chapter": "அமைச்சு (The Office of Minister of state)",
+    "Tamil_Text": "செயற்கை அறிந்தக் கடைத்தும் உலகத்து இயற்கை அறிந்து செயல்.",
+    "English_Meaning": "Though you are acquainted with the (theoretical) methods (of performing an act), understand the ways of the world and act accordingly."
+  },
+  "Flux_Optimized_Prompt": {
+    "Layered_Composition": {
+      "Foreground": "A person is shown holding a perfect, intricate blueprint or a complex textbook, representing their mastery of the theoretical methods ('செயற்கை அறிந்த').",
+      "Midground": "They are about to apply this perfect theory to the real world. However, the 'world' is depicted as a complex, organic, and unpredictable living organism or a flowing river ('உலகத்து இயற்கை'), not a static problem.",
+      "Background": "The wise person is shown adapting their perfect blueprint, bending and shaping it to fit the natural curves and flow of the living world, thus succeeding in their task. They are not trying to force the world to fit their theory."
+    },
+    "Art_Direction": {
+      "Subject_and_Action": "Even when one has mastered the theory of how to do something, one must still act in accordance with the practical, natural ways of the world.",
+      "Symbolic_Motifs": "The rigid, perfect blueprint represents theory. The organic, flowing river represents the real world. The act of skillfully adapting the blueprint to the river is the essence of practical wisdom.",
+      "Mood_and_Emotion": "Adaptable, practical, wise, experienced, flexible.",
+      "Lighting_and_Color": "The blueprint has a sharp, clinical, white light. The river of the world has a natural, flowing, greenish-blue light. The wise person bridges these two realities.",
+      "Technical_Cues": {
+        "Camera": "A shot that shows the person holding the blueprint and skillfully applying its principles to the flowing river.",
+        "Resolution": "8K, with a contrast between the geometric precision of the blueprint and the organic flow of the river.",
+        "Lighting": "Natural lighting that emphasizes the real-world context.",
+        "Art_Genre": "Symbolic realism, with a touch of surrealism."
+      }
+    },
+    "Cultural_Anchors": [
+      "Knowing the Theory ('செயற்கை அறிந்த') ",
+      "Knowing the Way of the World ('உலகத்து இயற்கை அறிந்து')",
+      "The importance of practical application."
+    ]
+  },
+  "Negative_Prompt": "person trying to dam the river with the blueprint, text on the blueprint, cartoonish.",
+  "Hyperparameters": {
+    "variant": "dev",
+    "steps": 40,
+    "cfg_scale": 8,
+    "seed": "Explore variations for the 'river of the world'."
+  }
+}

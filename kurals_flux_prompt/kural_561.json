@@ -1,0 +1,39 @@
+{
+  "Kural_Info": {
+    "Number": 561,
+    "Chapter": "வெருவந்தசெய்யாமை (Absence of Terrorism)",
+    "Tamil_Text": "தக்காங்கு நாடித் தலைச்செல்லா வண்ணத்தால் ஒத்தாங்கு ஒறுப்பது வேந்து.",
+    "English_Meaning": "A king is he who having equitably examined (any injustice which has been brought to his notice), suitably punishes it, so that it may not be again committed."
+  },
+  "Flux_Optimized_Prompt": {
+    "Layered_Composition": {
+      "Foreground": "A king is shown judging a criminal. He is carefully investigating the crime with a magical magnifying glass that shows the truth ('தக்காங்கு நாடி').",
+      "Midground": "The king delivers a punishment, but it is not a simple act of violence. The punishment is visualized as forging a strong, unbreakable chain that binds the criminal, preventing them from ever committing the crime again ('தலைச்செல்லா வண்ணத்தால்'). The punishment is perfectly proportioned to the crime ('ஒத்தாங்கு ஒறுப்பது').",
+      "Background": "The society is shown to be safe and orderly, with the punished individual rehabilitated or contained, unable to cause further harm."
+    },
+    "Art_Direction": {
+      "Subject_and_Action": "The essence of just punishment is to investigate properly and apply a punishment that is perfectly suitable for preventing the reoccurrence of the crime.",
+      "Symbolic_Motifs": "The magnifying glass represents fair investigation. The punishment as a form of perfect, preventative restraint (the magical chain) rather than just revenge is the key concept.",
+      "Mood_and_Emotion": "Just, precise, corrective, preventative, wise.",
+      "Lighting_and_Color": "A clear, bright light of justice illuminates the scene. The chain of punishment glows with a light of order, not of anger.",
+      "Technical_Cues": {
+        "Camera": "A medium shot that focuses on the king's wise judgment and the symbolic act of punishment as prevention.",
+        "Resolution": "8K, with a clean, orderly aesthetic.",
+        "Lighting": "Clear, high-key lighting.",
+        "Art_Genre": "Symbolic realism, allegorical art."
+      }
+    },
+    "Cultural_Anchors": [
+      "Proper Investigation ('தக்காங்கு நாடி')",
+      "Punishment as Prevention ('தலைச்செல்லா வண்ணத்தால்')",
+      "Suitable Punishment ('ஒத்தாங்கு ஒறுப்பது')"
+    ]
+  },
+  "Negative_Prompt": "king punishing without trial, excessive punishment, criminal escaping, text artifacts.",
+  "Hyperparameters": {
+    "variant": "pro",
+    "steps": 45,
+    "cfg_scale": 8,
+    "seed": "Explore variations for the design of the magical chain."
+  }
+}

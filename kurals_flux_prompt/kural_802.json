@@ -1,0 +1,39 @@
+{
+  "Kural_Info": {
+    "Number": 802,
+    "Chapter": "பழைமை (Familiarity)",
+    "Tamil_Text": "நட்பிற் குறுப்புக் கெழுதகைமை மற்றதற்கு உப்பாதல் சான்றோர் கடன்.",
+    "English_Meaning": "The constituents of friendship are (things done through) the right of intimacy; to be pleased with such a right is the duty of the wise."
+  },
+  "Flux_Optimized_Prompt": {
+    "Layered_Composition": {
+      "Foreground": "Friendship is visualized as a delicious, hearty meal shared between two people. The main ingredient of this meal is 'familiar freedom' or the right of intimacy ('கெழுதகைமை').",
+      "Midground": "A wise person ('சான்றோர்') is shown adding a pinch of salt to this meal. This salt represents their delight and joyful acceptance of their friend's familiarities ('உப்பாதல்').",
+      "Background": "The addition of this 'salt of acceptance' is shown to make the meal of friendship perfectly flavorful and life-sustaining. It is the essential final ingredient."
+    },
+    "Art_Direction": {
+      "Subject_and_Action": "Familiar freedom is the very limb of friendship. The duty of the wise is to be the 'salt' that gives it flavor—that is, to delight in it.",
+      "Symbolic_Motifs": "Friendship as a meal, familiar freedom as its substance, and the wise person's acceptance as the essential salt are the three parts of this culinary metaphor.",
+      "Mood_and_Emotion": "Flavorful, delightful, accepting, essential.",
+      "Lighting_and_Color": "A warm, inviting, and appetizing light, as if in a cozy kitchen or dining hall. The 'salt of acceptance' can have a subtle, magical sparkle.",
+      "Technical_Cues": {
+        "Camera": "A close-up shot that focuses on the symbolic act of adding the salt to the meal of friendship.",
+        "Resolution": "8K, with a warm, inviting, still-life quality.",
+        "Lighting": "Warm, appetizing light.",
+        "Art_Genre": "Symbolic still life."
+      },
+      "Cultural_Anchors": [
+        "Familiar Freedom as a limb of Friendship ('கெழுதகைமை நட்பிற்குறுப்பு')",
+        "Being the Salt to it ('உப்பாதல்')",
+        "The Duty of the Wise ('சான்றோர் கடன்')"
+      ]
+    },
+    "Negative_Prompt": "a bland meal, no salt, an angry friend, text artifacts.",
+    "Hyperparameters": {
+      "variant": "dev",
+      "steps": 40,
+      "cfg_scale": 8,
+      "seed": "Explore variations for the 'salt of acceptance'."
+    }
+  }
+}

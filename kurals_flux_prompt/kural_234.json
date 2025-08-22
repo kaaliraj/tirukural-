@@ -1,0 +1,38 @@
+{
+  "Kural_Info": {
+    "Number": 234,
+    "Chapter": "புகழ் (Renown)",
+    "Tamil_Text": "நிலவரை நீள்புகழ் ஆற்றின் புலவரைப்போற்றாது புத்தேள் உலகு.",
+    "English_Meaning": "If one has acquired extensive fame within the limits of this earth, the world of the Gods will no longer praise those sages who have attained that world."
+  },
+  "Flux_Optimized_Prompt": {
+    "Layered_Composition": {
+      "Foreground": "A great hero or philanthropist on Earth ('நில வரை') performs a deed so great that it generates a massive, enduring column of fame ('நீள் புகழ்') that ascends into the heavens.",
+      "Midground": "In the world of the gods ('புத்தேள் உலகு'), the divine beings are shown. They were previously praising the great sages and celestial poets ('புலவர்') among them.",
+      "Background": "When the column of earthly fame arrives in their realm, the gods are so overwhelmed by its brilliance that they turn their attention away from their own celestial sages and begin to praise the mortal on Earth instead ('புலவரைப் போற்றாது'). The earthly fame has outshone the heavenly."
+    },
+    "Art_Direction": {
+      "Subject_and_Action": "If a person achieves great and lasting fame on Earth, their glory is so immense that even the gods in heaven will cease praising their own sages and will praise the mortal instead.",
+      "Symbolic_Motifs": "The fame as a physical column of light that invades heaven is a powerful metaphor. The gods turning their backs on their own poets to admire the earthly hero shows the supreme power of this kind of renown.",
+      "Mood_and_Emotion": "Transcendent fame, supreme, glorious, overpowering.",
+      "Lighting_and_Color": "The column of earthly fame is a brilliant, powerful, white-gold light. The light of the celestial sages is a softer, cooler, silver light, which is outshone by the arriving glory.",
+      "Technical_Cues": {
+        "Camera": "A shot that follows the column of fame from Earth up into the heavens, capturing the reaction of the gods as it arrives.",
+        "Resolution": "8K, hyper-realistic, with a majestic depiction of the celestial realm and its inhabitants.",
+        "Lighting": "A dynamic lighting event where the new 'earthly' light source becomes the dominant light in the heavens.",
+        "Art_Genre": "Epic mythological painting."
+      },
+      "Cultural_Anchors": [
+        "If one performs deeds of lasting fame on Earth (நில வரை நீள் புகழ் ஆற்றின்)",
+        "The world of the gods will cease to praise its own poets (புலவரைப் போற்றாது புத்தேள் உலகு)"
+      ]
+    },
+    "Negative_Prompt": "gods ignoring the fame, weak column of light, text artifacts.",
+    "Hyperparameters": {
+      "variant": "pro",
+      "steps": 55,
+      "cfg_scale": 8,
+      "seed": "Explore the reactions of the gods as they are outshone."
+    }
+  }
+}

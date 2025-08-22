@@ -1,0 +1,38 @@
+{
+  "Kural_Info": {
+    "Number": 314,
+    "Chapter": "இன்னாசெய்யாமை (Not doing Evil)",
+    "Tamil_Text": "இன்னாசெய் தாரை ஒறுத்தல் அவர்நாணநன்னயஞ் செய்து விடல்.",
+    "English_Meaning": "The (proper) punishment to those who have done evil (to you), is to put them to shame by showing them kindness, in return and to forget both the evil and the good done on both sides."
+  },
+  "Flux_Optimized_Prompt": {
+    "Layered_Composition": {
+      "Foreground": "A person has just been harmed by another ('இன்னா செய்தார்').",
+      "Midground": "Instead of retaliating, the victim responds with an unexpected and overwhelming act of kindness ('நல் நயம் செய்து'). This act of kindness is visualized as a wave of warm, golden light.",
+      "Background": "The original wrongdoer is engulfed by this light of kindness. The light does not harm them, but it causes their own malicious act to be reflected back at them in a mirror of shame. They are shown cowering, not from fear of punishment, but from the deep shame of their own actions when contrasted with the victim's nobility ('அவர் நாண'). This is the true 'punishment' ('ஒறுத்தல்')."
+    },
+    "Art_Direction": {
+      "Subject_and_Action": "The greatest punishment for one who has harmed you is to shame them into realizing their own smallness by responding with an act of great and noble kindness.",
+      "Symbolic_Motifs": "Kindness as a wave of light that acts as a 'mirror of shame' is the central metaphor. The punishment is psychological and moral, not physical. The wrongdoer's defeat comes from their own dawning self-awareness.",
+      "Mood_and_Emotion": "Noble, shaming, superior morality, transformative.",
+      "Lighting_and_Color": "The initial evil act is dark. The responding act of kindness is a brilliant, warm, golden light that completely transforms the scene, washing away the darkness and replacing it with the harsh light of self-realization for the wrongdoer.",
+      "Technical_Cues": {
+        "Camera": "A shot that focuses on the wrongdoer's face as they are hit by the 'wave of kindness', capturing their transformation from arrogance to profound shame.",
+        "Resolution": "8K, ultra-realistic, with strong emotional acting and beautiful, powerful light effects.",
+        "Lighting": "The act of kindness is the transformative light source.",
+        "Art_Genre": "High fantasy, with a strong psychological element."
+      },
+      "Cultural_Anchors": [
+        "The punishment for one who has done evil (இன்னா செய்தார் ஒறுத்தல்)",
+        "Is to do a great good deed that shames them (அவர் நாண நல் நயம் செய்து விடல்)"
+      ]
+    },
+    "Negative_Prompt": "wrongdoer feeling happy, physical punishment, text artifacts.",
+    "Hyperparameters": {
+      "variant": "pro",
+      "steps": 55,
+      "cfg_scale": 9,
+      "seed": "Explore the visual of the 'mirror of shame'."
+    }
+  }
+}

@@ -1,0 +1,34 @@
+{
+  "Kural_Info": {
+    "Number": 974,
+    "Chapter": "பெருமை (Greatness)",
+    "Tamil_Text": "ஒருமை மகளிரே போலப் பெருமையும்தன்னைத்தான் கொண்டொழுகின் உண்டு.",
+    "English_Meaning": "Like single-hearted women, greatness too, Exists while to itself is true."
+  },
+  "Flux_Optimized_Prompt": {
+    "Layered_Composition": {
+      "Foreground": "On one side, a virtuous woman ('Orumai Magalir'), exemplifying chastity and unwavering devotion, stands with quiet dignity. On the other side, a great and noble person ('Perumai') stands, embodying unwavering self-control and integrity.",
+      "Midground": "A protective, unbreakable circle of pure white light surrounds both figures, originating from their own hearts. This light represents their self-guarding nature ('Thannai-thaan kondu ozhugin').",
+      "Background": "A serene and stable landscape, symbolizing the steadfast and reliable world created by such unwavering virtue and greatness."
+    },
+    "Art_Direction": {
+      "Subject_and_Action": "A parallel is drawn between the steadfast virtue of a chaste woman and the self-guarded integrity that constitutes true greatness.",
+      "Symbolic_Motifs": "The unwavering circle of light is the key symbol, representing the self-contained, self-protected nature of both virtues. The parallel stances of the two figures reinforce the analogy.",
+      "Mood_and_Emotion": "Dignified, pure, strong, serene, and steadfast.",
+      "Lighting_and_Color": "A soft, yet brilliant internal light emanates from the figures. The color palette is dominated by pure whites, creams, and soft golds to symbolize purity and integrity."
+    },
+    "Technical_Cues": {
+      "Camera": "Balanced wide shot, 50mm lens, presenting the two figures with equal importance.",
+      "Resolution": "8K, ultra-realistic, with a focus on the serene and determined expressions of the subjects.",
+      "Lighting": "Soft, ethereal, volumetric lighting that creates a glowing, protective aura.",
+      "Art_Genre": "Classical allegorical painting, with mystical and symbolic elements."
+    },
+    "Cultural_Anchors": [
+      "ஒருமை மகளிர் (Chaste/Single-hearted woman)",
+      "தன்னைத்தான் கொண்டொழுகல் (Self-guarding / Self-control)",
+      "பெருமை (Greatness)",
+      "The virtue of chastity (கற்பு)"
+    ]
+  },
+  "Negative_Prompt": "distressed figures, broken circles, modern attire, dark or chaotic background, text artifacts, oversaturated colors."
+}

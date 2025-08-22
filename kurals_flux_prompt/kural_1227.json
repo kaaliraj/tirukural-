@@ -1,0 +1,33 @@
+{
+  "Kural_Info": {
+    "Number": 1227,
+    "Chapter": "பொழுதுகண்டிரங்கல் (Lamentations at Eventide)",
+    "Tamil_Text": "காலை அரும்பிப் பகலெல்லாம் போதாகிமாலை மலரும்இந் நோய்.",
+    "English_Meaning": "My grief at morn a bud, all day an opening flower, Full-blown expands in evening hour."
+  },
+  "Flux_Optimized_Prompt": {
+    "Layered_Composition": {
+      "Foreground": "A woman's lovesickness is visualized as a magical, yet sorrowful, flower that grows on her heart throughout the day.",
+      "Midground": "The image is presented in a triptych (three-panel) format. The left panel shows the morning ('Kaalai'), where the flower is a small, tight bud ('Arumbi'). The center panel shows the daytime ('Pagal'), where the flower is half-open ('Pothaagi'). The right panel shows the evening ('Maalai'), where the flower has reached full, painful bloom ('Malarum').",
+      "Background": "The sky in the background transitions from the soft light of dawn, to the bright light of midday, to the deep, dramatic colors of sunset, mirroring the growth of the flower of sorrow."
+    },
+    "Art_Direction": {
+      "Subject_and_Action": "A metaphor describing the daily cycle of lovesickness: it starts as a small bud in the morning, develops throughout the day, and reaches its peak of painful intensity in the evening.",
+      "Symbolic_Motifs": "The flower of sorrow ('Noi') growing through its life cycle is the central, controlling metaphor. The triptych format emphasizes the passage of time.",
+      "Mood_and_Emotion": "Growing dread, inevitable pain, cyclical sorrow.",
+      "Lighting_and_Color": "The lighting and color palette change across the three panels, following the progression of the day from hopeful morning to painful evening."
+    },
+    "Technical_Cues": {
+      "Camera": "A static, three-panel composition that allows for a clear, sequential narrative.",
+      "Resolution": "8K, mystical realism, with a beautifully designed, sorrowful-looking flower.",
+      "Lighting": "Naturalistic progression of daylight across the panels.",
+      "Art_Genre": "Symbolic narrative art, using a triptych format to tell a story of a single day."
+    },
+    "Cultural_Anchors": [
+      "The daily cycle of love-sickness",
+      "The flower as a metaphor for emotion",
+      "The progression of time (காலை, பகல், மாலை)"
+    ]
+  },
+  "Negative_Prompt": "a wilting flower in the evening, a happy woman, modern clock, text artifacts, cartoonish."
+}

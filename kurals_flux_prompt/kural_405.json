@@ -1,0 +1,39 @@
+{
+  "Kural_Info": {
+    "Number": 405,
+    "Chapter": "கல்லாமை (Ignorance)",
+    "Tamil_Text": "கல்லா ஒருவன் தகைமை தலைப்பெய்து சொல்லாடச் சோர்வு படும்.",
+    "English_Meaning": "The self-conceit of an unlearned man will fade away, as soon as he speaks in an assembly (of the learned)."
+  },
+  "Flux_Optimized_Prompt": {
+    "Layered_Composition": {
+      "Foreground": "An unlearned man ('கல்லா ஒருவன்') stands before a learned assembly. Initially, he is depicted with an aura of false confidence and pride ('தகைமை').",
+      "Midground": "As he begins to speak ('சொல்லாட'), his proud aura visibly cracks and disintegrates into dust. His confident posture slumps, and his expression turns to one of failure and shame ('சோர்வு படும்').",
+      "Background": "The assembly of scholars listens, not with malice, but with a calm, discerning presence that acts as a mirror, revealing the speaker's lack of substance."
+    },
+    "Art_Direction": {
+      "Subject_and_Action": "The moment an unlearned person's false confidence shatters upon speaking in front of a knowledgeable audience.",
+      "Symbolic_Motifs": "The cracking and disintegrating aura is the central visual metaphor for his collapsing self-conceit. The contrast between his initial and final posture tells the story.",
+      "Mood_and_Emotion": "Deflating, embarrassing, revealing, inevitable.",
+      "Lighting_and_Color": "The initial aura is a garish, overly bright yellow. As it cracks, the light on the speaker becomes harsh and exposes his flaws. The assembly is in a steady, neutral light."
+    },
+    "Technical_Cues": {
+      "Camera": "A slow zoom-in on the speaker's face, capturing the transition from false pride to shame.",
+      "Resolution": "8K, cinematic, with particle effects for the disintegrating aura.",
+      "Lighting": "Dynamic lighting that changes as the speaker's confidence fails.",
+      "Art_Genre": "Psychological realism, with symbolic visual effects."
+    },
+    "Cultural_Anchors": [
+      "The fragility of an unlearned person's pride",
+      "The test of a learned assembly (அவை)",
+      "The collapse of false confidence ('தகைமை சோர்வு படும்')"
+    ]
+  },
+  "Negative_Prompt": "speaker being successful, cheering audience, static aura, text artifacts, blurry.",
+  "Hyperparameters": {
+    "variant": "dev",
+    "steps": 45,
+    "cfg_scale": 8,
+    "seed": "Explore variations for the cracking aura effect."
+  }
+}

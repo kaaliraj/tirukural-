@@ -1,0 +1,39 @@
+{
+  "Kural_Info": {
+    "Number": 406,
+    "Chapter": "கல்லாமை (Ignorance)",
+    "Tamil_Text": "உளரென்னும் மாத்திரையர் அல்லால் பயவாக் களரனையர் கல்லா தவர்.",
+    "English_Meaning": "'They are': so much is true of men untaught; But, like a barren field, they yield us nought!."
+  },
+  "Flux_Optimized_Prompt": {
+    "Layered_Composition": {
+      "Foreground": "A vast, barren, cracked-earth field ('களர்') under a harsh sun. It is completely unproductive and lifeless.",
+      "Midground": "Standing in this barren field are human figures who are themselves made of the same cracked, sterile earth. They exist ('உளர் என்னும் மாத்திரையர்'), but they are indistinguishable from the unproductive land.",
+      "Background": "In the far distance, a lush, green, productive field can be seen, representing the learned, to create a stark contrast."
+    },
+    "Art_Direction": {
+      "Subject_and_Action": "A powerful metaphor comparing the unlearned to a barren, salt-ridden field: they exist, but they are utterly unproductive and yield nothing of value.",
+      "Symbolic_Motifs": "The human figures merging with the barren landscape is the key visual. This makes the comparison between the unlearned ('கல்லாதவர்') and the barren land ('களர்') literal and impactful.",
+      "Mood_and_Emotion": "Barren, sterile, unproductive, tragic, desolate.",
+      "Lighting_and_Color": "Harsh, overexposed sunlight that bleaches out color and emphasizes the cracks in the earth. The color palette is dominated by dull browns, greys, and washed-out ochres."
+    },
+    "Technical_Cues": {
+      "Camera": "Ultra-wide shot, emphasizing the vast emptiness and sterility of the land and the people within it.",
+      "Resolution": "8K, hyper-realistic textures of cracked earth.",
+      "Lighting": "Harsh, high-noon lighting with deep, sharp shadows.",
+      "Art_Genre": "Surrealism, symbolic landscape painting."
+    },
+    "Cultural_Anchors": [
+      "The Unlearned ('கல்லாதவர்') compared to Barren Land ('களர்')",
+      "The concept of being unproductive ('பயவா')",
+      "Mere existence vs. purposeful existence."
+    ]
+  },
+  "Negative_Prompt": "green barren field, productive people, rain, text artifacts, blurry, cartoonish figures.",
+  "Hyperparameters": {
+    "variant": "pro",
+    "steps": 45,
+    "cfg_scale": 7,
+    "seed": "Explore variations in the texture of the cracked earth."
+  }
+}

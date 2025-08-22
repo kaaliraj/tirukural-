@@ -1,0 +1,39 @@
+{
+  "Kural_Info": {
+    "Number": 841,
+    "Chapter": "புல்லறிவாண்மை (Ignorance)",
+    "Tamil_Text": "அறிவின்மை இன்மையுள் இன்மை பிறிதின்மை இன்மையா வையா துலகு.",
+    "English_Meaning": "The want of wisdom is the greatest of all wants; but that of wealth the world will not regard as such."
+  },
+  "Flux_Optimized_Prompt": {
+    "Layered_Composition": {
+      "Foreground": "Two figures stand before the personified World. The first figure represents the poverty of knowledge ('அறிவின்மை'). They are depicted as a hollow, empty silhouette, a true void.",
+      "Midground": "The second figure represents the poverty of wealth ('பிறிதின்மை'). They are simply dressed in rags but are otherwise a solid, complete person. The World is shown looking at the hollow figure with great pity and concern, recognizing it as the ultimate poverty ('இன்மையுள் இன்மை').",
+      "Background": "The World looks at the materially poor person with indifference, not considering their state to be true poverty ('இன்மையா வையாது'). The image defines true poverty as a lack of knowledge, not a lack of money."
+    },
+    "Art_Direction": {
+      "Subject_and_Action": "The poverty of knowledge is the poverty of poverties. The world does not consider any other form of poverty to be true poverty.",
+      "Symbolic_Motifs": "The person without knowledge as a hollow void is the central metaphor for the 'poverty of poverties'. The World's differing reactions (pity vs. indifference) clarifies the hierarchy of poverty.",
+      "Mood_and_Emotion": "Defining, profound, a re-evaluation of poverty.",
+      "Lighting_and_Color": "A bleak, empty light surrounds the hollow figure. A neutral, mundane light is on the materially poor person. The personified World is majestic and discerning.",
+      "Technical_Cues": {
+        "Camera": "A wide shot showing the two types of poor people and the World's judgment upon them.",
+        "Resolution": "8K, with a surreal, allegorical quality.",
+        "Lighting": "Symbolic lighting to differentiate the two states of poverty.",
+        "Art_Genre": "Metaphysical art."
+      },
+      "Cultural_Anchors": [
+        "Poverty of Knowledge ('அறிவின்மை') as the ultimate poverty",
+        "Poverty of wealth is not considered true poverty",
+        "The world's judgment."
+      ]
+    },
+    "Negative_Prompt": "a hollow rich person, a solid poor person being pitied, text artifacts.",
+    "Hyperparameters": {
+      "variant": "pro",
+      "steps": 50,
+      "cfg_scale": 8,
+      "seed": "Explore variations for the personified World."
+    }
+  }
+}

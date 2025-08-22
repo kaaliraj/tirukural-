@@ -1,0 +1,38 @@
+{
+  "Kural_Info": {
+    "Number": 125,
+    "Chapter": "அடக்கமுடைமை (The Possession of Self-restraint)",
+    "Tamil_Text": "எல்லார்க்கும் நன்றாம் பணிதல் அவருள்ளும்செல்வர்க்கே செல்வம் தகைத்து.",
+    "English_Meaning": "Humility is good in all; but especially in the rich it is (the excellence of) higher riches."
+  },
+  "Flux_Optimized_Prompt": {
+    "Layered_Composition": {
+      "Foreground": "A wealthy person ('செல்வர்'), dressed in fine but simple clothes, is shown bowing with genuine humility ('பணிதல்') to a commoner.",
+      "Midground": "As they bow, their existing material wealth (gold, jewels) is shown. However, a new, more brilliant form of wealth—a glowing, ethereal crown of light representing 'the wealth of humility' ('செல்வம் தகைத்து')—manifests above their head.",
+      "Background": "In the background, other people, both rich and poor, are shown practicing humility. It is good for all of them, but only for the wealthy person does it create this additional, superior form of wealth."
+    },
+    "Art_Direction": {
+      "Subject_and_Action": "While humility is a virtue for everyone, for the wealthy it is a special virtue that acts as a second, greater form of wealth.",
+      "Symbolic_Motifs": "The manifestation of the 'wealth of humility' as a crown of light is the key visual. This new wealth is clearly shown to be more radiant and valuable than the material wealth the person already possesses.",
+      "Mood_and_Emotion": "Graceful, noble, truly wealthy, dignified.",
+      "Lighting_and_Color": "The material wealth has a normal, metallic glint. The new 'wealth of humility' glows with a powerful, divine, golden-white light, becoming the primary light source in the scene.",
+      "Technical_Cues": {
+        "Camera": "A medium shot focusing on the wealthy person's act of humility and the resulting manifestation of the greater, spiritual wealth.",
+        "Resolution": "8K, ultra-realistic, with ethereal effects for the crown of light.",
+        "Lighting": "The act of humility triggers the appearance of a new, divine light source.",
+        "Art_Genre": "Symbolic realism, allegorical painting."
+      },
+      "Cultural_Anchors": [
+        "Humility is good for all (எல்லார்க்கும் நன்றாம் பணிதல்)",
+        "For the rich, it is a (second) wealth (செல்வர்க்கே செல்வம்)"
+      ]
+    },
+    "Negative_Prompt": "arrogant rich person, crown of darkness, text artifacts, poor person bowing.",
+    "Hyperparameters": {
+      "variant": "pro",
+      "steps": 50,
+      "cfg_scale": 8,
+      "seed": "Explore the design of the ethereal 'crown of humility'."
+    }
+  }
+}

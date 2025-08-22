@@ -1,0 +1,38 @@
+{
+  "Kural_Info": {
+    "Number": 1102,
+    "Chapter": "புணர்ச்சிமகிழ்தல் (Rejoicing in the Embrace)",
+    "Tamil_Text": "பிணிக்கு மருந்து பிறமன் அணியிழைதன்நோய்க்குத் தானே மருந்து.",
+    "English_Meaning": "The remedy for a disease is always something different (from it); but for the disease caused by this jewelled maid, she is herself the cure."
+  },
+  "Flux_Optimized_Prompt": {
+    "Layered_Composition": {
+      "Foreground": "A split composition illustrating a paradox of healing.",
+      "Midground": "On the left, a sick person is shown suffering from a normal disease ('பிணிக்கு'). The cure is something different ('மருந்து பிற'): a doctor is administering a medicinal herb.",
+      "Background": "On the right, a lover is suffering from the 'disease' of lovesickness ('தன் நோய்க்கு'). The cause of the disease—the beautiful, jeweled maiden ('அணி இழை')—is standing before him. In a paradoxical twist, she herself is also the only medicine ('தானே மருந்து'). She leans in to embrace him, and her touch instantly heals the pain she caused."
+    },
+    "Art_Direction": {
+      "Subject_and_Action": "A unique paradox of love: unlike all other diseases where the cure is different from the cause, for the disease of lovesickness, the cause (the beloved) is also the only cure.",
+      "Symbolic_Motifs": "The key is the identity of the cause and the cure on the right side. The disease can be visualized as a painful, fiery aura, and her healing touch can be shown extinguishing those flames with a soothing, cool light.",
+      "Mood_and_Emotion": "Paradoxical, bittersweet, healing.",
+      "Lighting_and_Color": "The normal disease scene is in clinical, neutral colors. The lovesickness scene is filled with the dramatic, contrasting colors of fiery pain and soothing, healing light.",
+      "Technical_Cues": {
+        "Camera": "A diptych shot that clearly presents the normal 'cause and different cure' on one side, and the paradoxical 'cause is the cure' on the other.",
+        "Resolution": "8K, ultra-realistic, with symbolic light effects to show the pain and the healing.",
+        "Lighting": "Dramatic, contrasting lighting within the right-hand panel.",
+        "Art_Genre": "Symbolic realism, with magical realist elements."
+      },
+      "Cultural_Anchors": [
+        "For (normal) disease, the medicine is other (பிணிக்கு மருந்து பிற)",
+        "For her disease, she herself is the medicine (தன் நோய்க்குத் தானே மருந்து)"
+      ]
+    },
+    "Negative_Prompt": "lover being cured by herbs, text artifacts.",
+    "Hyperparameters": {
+      "variant": "pro",
+      "steps": 50,
+      "cfg_scale": 8,
+      "seed": "Explore the visual of the 'fiery pain' being extinguished by her touch."
+    }
+  }
+}

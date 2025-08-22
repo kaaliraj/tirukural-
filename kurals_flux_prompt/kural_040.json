@@ -1,0 +1,39 @@
+{
+  "Kural_Info": {
+    "Number": 40,
+    "Chapter": "அறன் வலியுறுத்தல் (Assertion of the Strength of Virtue)",
+    "Tamil_Text": "செயற்பால தோரும் அறனே ஒருவற்குஉயற்பால தோரும் பழி.",
+    "English_Meaning": "That is virtue which each ought to do, and that is vice which each should shun."
+  },
+  "Flux_Optimized_Prompt": {
+    "Layered_Composition": {
+      "Foreground": "A figure stands at a clear fork in the road. One path on the right is bright, smooth, and ascends towards a serene, sunlit peak. The other path on the left is dark, thorny, and descends into a shadowy, mist-filled chasm.",
+      "Midground": "Along the bright path, beautiful symbols of what 'should be done' ('செயற்பால') are visible: acts of charity, learning, compassion. Along the dark path, symbols of what 'should be shunned' ('உயற்பால') are visible: acts of greed, violence, deceit.",
+      "Background": "The sky mirrors the paths: bright, clear, and hopeful on the right; dark, stormy, and foreboding on the left. The choice is presented as absolute and clear-cut."
+    },
+    "Art_Direction": {
+      "Subject_and_Action": "The ultimate and simple definition of Virtue and Vice as the clear choice between the path to be taken and the path to be shunned.",
+      "Symbolic_Motifs": "The bright path is labeled 'Aram' ('அறன்') with ancient Tamil script carved into the first stone. The dark path is labeled 'Pazhi' ('பழி'). The figure at the crossroads is depicted with a clear, determined expression, about to step onto the path of Virtue.",
+      "Mood_and_Emotion": "Clarity, choice, definitive, moral certainty.",
+      "Lighting_and_Color": "A stark Manichaean color scheme. The right side is illuminated by a pure, divine light, with a palette of whites, golds, and vibrant natural colors. The left side is consumed by shadow, with a palette of blacks, deep purples, and sickly greens."
+    },
+    "Technical_Cues": {
+      "Camera": "Direct, head-on wide shot of the crossroads, presenting the choice to the viewer in a clear, balanced, and impactful way.",
+      "Resolution": "8K, ultra-realistic, with strong textural differences between the two paths.",
+      "Lighting": "High-contrast, dual lighting to create a powerful symbolic divide.",
+      "Art_Genre": "Allegorical landscape painting, epic fantasy art."
+    },
+    "Cultural_Anchors": [
+      "Aram (அறன்) as 'what should be done'",
+      "Pazhi (பழி) as 'what should be shunned'",
+      "The moral crossroads of life"
+    ]
+  },
+  "Negative_Prompt": "grey path, ambiguous choice, figure walking the wrong path, text artifacts, cartoonish landscape.",
+  "Hyperparameters": {
+    "variant": "dev",
+    "steps": 40,
+    "cfg_scale": 9,
+    "seed": "Explore symbolic representations for the acts along each path."
+  }
+}

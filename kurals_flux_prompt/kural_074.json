@@ -1,0 +1,38 @@
+{
+  "Kural_Info": {
+    "Number": 74,
+    "Chapter": "அன்புடைமை (The Possession of Love)",
+    "Tamil_Text": "அன்புஈனும் ஆர்வம் உடைமை அதுஈனும்நண்பு என்னும் நாடாச் சிறப்பு.",
+    "English_Meaning": "Love begets desire: and that (desire) begets the immeasureable excellence of friendship."
+  },
+  "Flux_Optimized_Prompt": {
+    "Layered_Composition": {
+      "Foreground": "Two individuals are shown. A soft, warm light of Love ('அன்பு') connects their hearts.",
+      "Midground": "From this connection of love, a more intense, focused beam of golden light emerges, representing the 'desire' or 'fond yearning' ('ஆர்வம்') to be close and share life.",
+      "Background": "This beam of yearning then blossoms into a magnificent, luminous, and immeasurably vast tree, representing the 'immeasurable excellence of Friendship' ('நண்பு என்னும் நாடாச் சிறப்பு'). Its branches stretch into the cosmos, bearing star-like fruits."
+    },
+    "Art_Direction": {
+      "Subject_and_Action": "A developmental sequence showing how foundational Love gives birth to the Yearning for connection, which in turn culminates in the supreme and boundless state of true Friendship.",
+      "Symbolic_Motifs": "The progression from a gentle light (Love) to a focused beam (Yearning) to an immense, cosmic tree (Friendship) creates a clear visual narrative of growth and culmination. The 'immeasurable' nature of friendship is shown by the tree's cosmic scale.",
+      "Mood_and_Emotion": "Developmental, culminating, profound connection, expansive.",
+      "Lighting_and_Color": "The lighting follows the progression: a soft, warm red for love, a focused, intense gold for yearning, and a brilliant, multi-hued, stellar light for the tree of friendship.",
+      "Technical_Cues": {
+        "Camera": "A wide shot that captures the entire sequence, from the two people to the cosmic tree, showing the full scale of the transformation.",
+        "Resolution": "8K, ultra-realistic figures, with magical and cosmic effects for the lights and the tree.",
+        "Lighting": "Multiple symbolic light sources that evolve in intensity and color.",
+        "Art_Genre": "Symbolic fantasy art, mystical realism."
+      },
+      "Cultural_Anchors": [
+        "Anbu (அன்பு) -> Aarvam (ஆர்வம்) -> Nanpu (நண்பு)",
+        "Friendship as an 'immeasurable excellence' (நாடாச் சிறப்பு)"
+      ]
+    },
+    "Negative_Prompt": "static figures, dead tree, text artifacts, dark scene, simple friendship.",
+    "Hyperparameters": {
+      "variant": "pro",
+      "steps": 50,
+      "cfg_scale": 8,
+      "seed": "Explore the design and cosmic elements of the Tree of Friendship."
+    }
+  }
+}

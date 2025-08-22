@@ -1,0 +1,39 @@
+{
+  "Kural_Info": {
+    "Number": 107,
+    "Chapter": "செய்ந்நன்றி அறிதல் (Gratitude)",
+    "Tamil_Text": "எழுமை எழுபிறப்பும் உள்ளுவர் தங்கண்விழுமந் துடைத்தவர் நட்பு.",
+    "English_Meaning": "(The wise) will remember throughout their seven-fold births the love of those who have wiped away their affliction."
+  },
+  "Flux_Optimized_Prompt": {
+    "Layered_Composition": {
+      "Foreground": "A person is shown in the present life, holding a luminous, golden thread of memory in their hands with a look of profound gratitude.",
+      "Midground": "The golden thread connects them backwards in time through a series of seven transparent, ghostly figures representing their past births ('எழுபிறப்பு'). In each of these past lives, the figure is shown in a moment of great affliction ('விழுமம்').",
+      "Background": "At the origin of the thread, in the distant past, is the figure of a friend performing a single, powerful act of help—wiping a tear, offering a hand—which initiated this eternal memory. The memory of this one friend's help is the constant, shining thread through all the turmoil of rebirth."
+    },
+    "Art_Direction": {
+      "Subject_and_Action": "The eternal remembrance of a friend who helped in a time of great sorrow, a memory that persists undimmed through the entire cycle of seven births.",
+      "Symbolic_Motifs": "The golden thread of memory is the central visual that ties all the lifetimes together. It remains bright and unbroken despite the changing circumstances of each birth. The act of 'wiping away affliction' is the single point of light from which the eternal memory begins.",
+      "Mood_and_Emotion": "Eternal gratitude, timeless, profound, karmic bond.",
+      "Lighting_and_Color": "The golden thread is the primary light source, illuminating each of the seven births with its warm glow of remembrance. The afflictions of the past lives are shown in darker, more shadowy tones, but are always kept at bay by the light of the memory.",
+      "Technical_Cues": {
+        "Camera": "A deep-focus shot that keeps the present person, all seven past lives, and the original friend in a clear, narrative line.",
+        "Resolution": "8K, hyper-realistic, with ethereal and transparent effects for the past-life figures and the memory thread.",
+        "Lighting": "Symbolic lighting originating from the thread of memory itself.",
+        "Art_Genre": "Mystical realism, epic narrative painting."
+      },
+      "Cultural_Anchors": [
+        "Seven births (எழுமை எழுபிறப்பு)",
+        "Wiping away affliction (விழுமந் துடைத்தவர்)",
+        "The eternal memory of friendship"
+      ]
+    },
+    "Negative_Prompt": "broken thread, forgotten memory, happy past lives, ungrateful person, text artifacts.",
+    "Hyperparameters": {
+      "variant": "pro",
+      "steps": 55,
+      "cfg_scale": 8,
+      "seed": "Explore the visual representation of the seven different births."
+    }
+  }
+}

@@ -1,0 +1,39 @@
+{
+  "Kural_Info": {
+    "Number": 679,
+    "Chapter": "வினைசெயல்வகை (Modes of Action)",
+    "Tamil_Text": "நட்டார்க்கு நல்ல செயலின் விரைந்ததே ஒட்டாரை ஒட்டிக் கொளல்.",
+    "English_Meaning": "More urgent than doing good to friends, is the task of turning foes into friends."
+  },
+  "Flux_Optimized_Prompt": {
+    "Layered_Composition": {
+      "Foreground": "A ruler is depicted at a pivotal moment of choice. On their left, a loyal friend ('நட்டார்') is waiting for a favor.",
+      "Midground": "On their right, a hostile enemy ('ஒட்டார்') stands in a posture of aggression. The ruler is shown turning away from their friend for a moment and moving with great speed and urgency ('விரைந்ததே') towards the enemy, not with a weapon, but with an offering of peace and alliance.",
+      "Background": "The ruler's action of converting the enemy into a friend ('ஒட்டாரை ஒட்டிக் கொளல்') is shown to be of greater strategic importance than simply pleasing an existing friend."
+    },
+    "Art_Direction": {
+      "Subject_and_Action": "It is a more urgent priority to convert one's enemies into friends than it is to do favors for those who are already friends.",
+      "Symbolic_Motifs": "The ruler's swift movement towards the enemy, prioritizing them over the friend, is the key action that conveys the Kural's meaning. The offering of peace instead of a sword shows the method of conversion.",
+      "Mood_and_Emotion": "Strategic, prioritized, urgent, diplomatic, peace-making.",
+      "Lighting_and_Color": "A clear, decisive light. The enemy is initially cast in a hostile red glow, which softens and turns to a neutral color as the ruler makes their peace offering.",
+      "Technical_Cues": {
+        "Camera": "A dynamic shot that captures the ruler's swift turn and movement, emphasizing the urgency of the action.",
+        "Resolution": "8K, cinematic, with a focus on the characters' expressions.",
+        "Lighting": "Lighting that changes to reflect the de-escalation of conflict.",
+        "Art_Genre": "Historical drama."
+      }
+    },
+    "Cultural_Anchors": [
+      "Making friends of foes ('ஒட்டாரை ஒட்டிக் கொளல்')",
+      "More urgent than helping friends",
+      "The priority of strategic diplomacy."
+    ]
+  },
+  "Negative_Prompt": "ruler attacking the enemy, ruler ignoring the enemy, text artifacts.",
+  "Hyperparameters": {
+    "variant": "dev",
+    "steps": 45,
+    "cfg_scale": 8,
+    "seed": "Explore variations for the peace offering."
+  }
+}

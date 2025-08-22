@@ -1,0 +1,32 @@
+{
+  "Kural_Info": {
+    "Number": 1159,
+    "Chapter": "பிரிவாற்றாமை (Separation unendurable)",
+    "Tamil_Text": "தொடிற்சுடின் அல்லது காமநோய் போலவிடிற்சுடல் ஆற்றுமோ தீ.",
+    "English_Meaning": "Fire burns the hands that touch; but smart of love Will burn in hearts that far away remove."
+  },
+  "Flux_Optimized_Prompt": {
+    "Layered_Composition": {
+      "Foreground": "A split composition. On one side, a hand is shown being burned by touching a physical flame ('Thee'). The pain is intense but localized to the point of contact.",
+      "Midground": "On the other side, a person is shown standing alone, their lover a distant figure on the horizon. Despite the physical distance, their heart ('Nenjam') is shown to be literally on fire, with flames of love-sickness ('Kaama Noi') burning from within.",
+      "Background": "The background for the physical fire is simple and dark. The background for the fire of love is a vast, empty landscape, emphasizing the loneliness and distance that fuel the pain."
+    },
+    "Art_Direction": {
+      "Subject_and_Action": "A comparison between physical fire and the 'fire' of love-sickness. While fire only burns upon contact, the pain of love burns most intensely when the object of love is far away.",
+      "Symbolic_Motifs": "The literal burning hand versus the metaphorical burning heart. The physical proximity for one pain and the physical distance for the other.",
+      "Mood_and_Emotion": "Intense pain, longing, comparing physical and emotional suffering.",
+      "Lighting_and_Color": "The image is dominated by the fiery glow from both sources of burning. The physical fire is a bright, sharp orange. The fire of love is a deeper, more magical, and perhaps more painful-looking red or blue flame."
+    },
+    "Technical_Cues": {
+      "Camera": "A dramatic, balanced shot that allows for a clear comparison between the two scenes.",
+      "Resolution": "8K, surreal realism, with spectacular fire effects.",
+      "Lighting": "The two fires serve as the primary light sources for their respective halves of the image.",
+      "Art_Genre": "Symbolic fantasy art, with a focus on elemental metaphors for emotion."
+    },
+    "Cultural_Anchors": [
+      "காமத் தீ (The fire of love/lust)",
+      "The nature of pain from separation (பிரிவு நோய்)"
+    ]
+  },
+  "Negative_Prompt": "a happy person with a burning heart, a fire that doesn't burn, modern setting, text artifacts, cartoonish."
+}

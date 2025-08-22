@@ -1,0 +1,39 @@
+{
+  "Kural_Info": {
+    "Number": 169,
+    "Chapter": "అழுக்காறாமை (Not Envying)",
+    "Tamil_Text": "అவ்விய நெஞ்சத்தான் ఆక్కமும் செவ்வியான்கேடும் நினைக்கப் படும்.",
+    "English_Meaning": "The wealth of a man of envious mind and the poverty of the righteous will be pondered."
+  },
+  "Flux_Optimized_Prompt": {
+    "Layered_Composition": {
+      "Foreground": "A split composition showing two paradoxical situations.",
+      "Midground": "On the left, a man with an envious, crooked heart ('అவ்விய நெஞ்சத்தான்') is shown surrounded by great wealth and prosperity ('ఆక్కம்'). On the right, a man with a straight, righteous heart ('செவ்வியான்') is shown suffering in poverty and ruin ('கேடு').",
+      "Background": "A group of wise, thoughtful people are observing both scenes. They are not accepting them at face value, but are shown in deep contemplation, pondering the meaning and cause of these apparent injustices ('நினைக்கப்படும்'). Their thought process is the main subject of the image."
+    },
+    "Art_Direction": {
+      "Subject_and_Action": "The apparent paradoxes of life—the prosperity of the envious and the suffering of the righteous—are not to be ignored, but are subjects to be deeply pondered by the wise.",
+      "Symbolic_Motifs": "The crooked heart can be visualized as a dark, twisted shape, while the righteous heart is a straight, luminous line. The act of 'pondering' by the observers is the key action; they are trying to understand the deeper karmic reasons for these surface-level injustices.",
+      "Mood_and_Emotion": "Contemplative, paradoxical, philosophical, questioning.",
+      "Lighting_and_Color": "A neutral, observational light, as if in a philosophical debate. The wealth of the envious might have a slightly sickly or unstable quality, while the poverty of the righteous is depicted with a quiet dignity.",
+      "Technical_Cues": {
+        "Camera": "A wide shot that presents the two paradoxical scenes to the viewer, placing the viewer among the wise who are pondering them.",
+        "Resolution": "8K, ultra-realistic, with a focus on the contemplative expressions of the observers.",
+        "Lighting": "Clear, even lighting to facilitate intellectual consideration rather than emotional reaction.",
+        "Art_Genre": "Philosophical realism."
+      },
+      "Cultural_Anchors": [
+        "The wealth of the envious heart (అவ்விய நெஞ்சத்தான் ఆక్కமும்)",
+        "The ruin of the righteous (செவ்வியான் கேடும்)",
+        "Will be pondered (நினைக்கப்படும்)"
+      ]
+    },
+    "Negative_Prompt": "observers ignoring the paradox, text artifacts, simple good/bad outcomes.",
+    "Hyperparameters": {
+      "variant": "dev",
+      "steps": 45,
+      "cfg_scale": 7,
+      "seed": "Explore the body language of the 'pondering' wise people."
+    }
+  }
+}

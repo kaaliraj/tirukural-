@@ -1,0 +1,39 @@
+{
+  "Kural_Info": {
+    "Number": 23,
+    "Chapter": "நீத்தார் பெருமை (The Greatness of Ascetics)",
+    "Tamil_Text": "இருமை வகைதெரிந்து ஈண்டுஅறம் பூண்டார்பெருமை பிறங்கிற்று உலகு.",
+    "English_Meaning": "The greatness of those who have discovered the properties of both states of being, and renounced the world, shines forth on earth."
+  },
+  "Flux_Optimized_Prompt": {
+    "Layered_Composition": {
+      "Foreground": "An ascetic figure stands serenely on a cliff edge, their form glowing with a brilliant inner light that illuminates the world around them.",
+      "Midground": "The cliff overlooks two vastly different realms, representing the 'two states of being' ('இருமை வகை'). To the left, a turbulent, dark ocean of worldly life with ships caught in a storm (births and deaths). To the right, a perfectly calm, luminous, ethereal sea of tranquility (liberation).",
+      "Background": "The sun is rising behind the ascetic, its rays merging with the aura from their body, symbolizing that their greatness ('பெருமை') is a shining beacon for the world ('உலகு')."
+    },
+    "Art_Direction": {
+      "Subject_and_Action": "An ascetic, having understood the nature of both the worldly and the transcendent, stands as a shining example of greatness on Earth.",
+      "Symbolic_Motifs": "The ascetic is the bridge between the two realms. They are robed in virtue ('அறம் பூண்டார்'), visualized as simple clothing that seems to be woven from light itself. Their calm demeanor contrasts with the chaos on one side and harmonizes with the peace on the other.",
+      "Mood_and_Emotion": "Transcendent, luminous, wise, serene, balanced.",
+      "Lighting_and_Color": "A powerful, brilliant golden-white light emanates from the ascetic and the rising sun. The worldly sea is in dark, stormy blues and greys, while the sea of tranquility is in soft, heavenly golds and whites."
+    },
+    "Technical_Cues": {
+      "Camera": "Epic wide shot from a low angle, silhouetting the ascetic against the two realms and the rising sun.",
+      "Resolution": "8K, ultra-realistic landscape details, with ethereal and painterly effects for the light and aura.",
+      "Lighting": "Strong backlighting, volumetric light, lens flare, creating a radiant and glorious effect.",
+      "Art_Genre": "Epic fantasy digital matte painting."
+    },
+    "Cultural_Anchors": [
+      "Irumai Vagai (இருமை வகை) - The two states of being",
+      "Aram Poondar (அறம் பூண்டார்) - Clothed in Virtue",
+      "The shining greatness (பெருமை பிறங்கிற்று)"
+    ]
+  },
+  "Negative_Prompt": "ascetic looking troubled, monotonous landscape, night scene, deformed limbs, text artifacts, oversaturated colors.",
+  "Hyperparameters": {
+    "variant": "pro",
+    "steps": 50,
+    "cfg_scale": 8,
+    "seed": "Explore variations for the contrast between the two seas."
+  }
+}

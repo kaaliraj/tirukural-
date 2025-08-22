@@ -1,0 +1,40 @@
+{
+  "Kural_Info": {
+    "Number": 685,
+    "Chapter": "தூது (The Envoy)",
+    "Tamil_Text": "தொகச்சொல்லித் தூவாத நீக்கி நகச்சொல்லி நன்றி பயப்பதாந் தூது.",
+    "English_Meaning": "He is an ambassador who (in the presence of foreign rulers) speaks briefly, avoids harshness, talks so as to make them smile, and thus brings good (to his own sovereign)."
+  },
+  "Flux_Optimized_Prompt": {
+    "Layered_Composition": {
+      "Foreground": "An envoy is speaking in a foreign court. Their speech is visualized in three stages.",
+      "Midground": "First, a long, complex message is shown being condensed into a small, perfect gem (Speaking concisely - 'தொகச்சொல்லி'). Second, any harsh or disagreeable parts of the message, represented by thorns, are skillfully removed ('தூவாத நீக்கி'). Third, the final message is delivered in a way that makes the foreign king smile ('நகச்சொல்லி').",
+      "Background": "As a result of this skillful communication, a treaty of friendship and benefit ('நன்றி பயப்பது') is signed, represented by the two kings shaking hands."
+    },
+    "Art_Direction": {
+      "Subject_and_Action": "The ideal envoy is one who can deliver a message concisely, without harshness, and with a pleasing charm that ultimately brings benefit to their nation.",
+      "Symbolic_Motifs": "The three-stage visualization of refining the message (condensing to a gem, removing thorns, making it pleasing) is the key. The smiling king and the final handshake are the successful outcomes.",
+      "Mood_and_Emotion": "Diplomatic, charming, skillful, effective.",
+      "Lighting_and_Color": "A pleasant, warm, and friendly light fills the court. The final, refined message can have a pleasing, gentle glow.",
+      "Technical_Cues": {
+        "Camera": "A narrative shot that shows the process and the result of the envoy's skillful speech.",
+        "Resolution": "8K, with clear, expressive faces.",
+        "Lighting": "Soft, diplomatic lighting.",
+        "Art_Genre": "Historical realism, with symbolic elements to show the process."
+      }
+    },
+    "Cultural_Anchors": [
+      "Speaking Concisely ('தொகச்சொல்லி')",
+      "Removing Harshness ('தூவாத நீக்கி')",
+      "Speaking Pleasantly ('நகச்சொல்லி')",
+      "Bringing Benefit ('நன்றி பயப்பது')"
+    ]
+  },
+  "Negative_Prompt": "long-winded envoy, harsh speech, angry king, war breaking out, text artifacts.",
+  "Hyperparameters": {
+    "variant": "dev",
+    "steps": 45,
+    "cfg_scale": 8,
+    "seed": "Explore variations for the visualization of the message."
+  }
+}

@@ -1,0 +1,39 @@
+{
+  "Kural_Info": {
+    "Number": 126,
+    "Chapter": "அடக்கமுடைமை (The Possession of Self-restraint)",
+    "Tamil_Text": "ஒருமையுள் ஆமைபோல் ஐந்தடக்கல் ஆற்றின்எழுமையும் ஏமாப் புடைத்து.",
+    "English_Meaning": "Should one throughout a single birth, like a tortoise keep in his five senses, the fruit of it will prove a safe-guard to him throughout the seven-fold births."
+  },
+  "Flux_Optimized_Prompt": {
+    "Layered_Composition": {
+      "Foreground": "A person is shown in a state of perfect self-control. Their form is solid and real, representing their current single birth ('ஒருமை').",
+      "Midground": "Their control over the five senses is visualized by them drawing their senses inward, exactly like a tortoise ('ஆமை போல்') pulling its head and limbs into its shell for protection. This act creates a powerful, protective shell of energy around them.",
+      "Background": "Stretching into the misty background is a sequence of seven transparent, ghostly figures, representing their future births ('எழுமை'). The protective shell of energy generated in the present life is shown extending over all seven future lives, acting as a constant, unwavering safeguard ('ஏமாப்பு') against all dangers."
+    },
+    "Art_Direction": {
+      "Subject_and_Action": "The act of controlling the five senses like a tortoise in this one life provides an enduring safeguard that protects a soul through all seven of its future births.",
+      "Symbolic_Motifs": "The tortoise shell of energy is the central metaphor. The extension of this single shield over the entire chain of seven births is the key narrative element, showing a single cause having a vast, eternal effect.",
+      "Mood_and_Emotion": "Protected, secure, powerful, enduring, foresighted.",
+      "Lighting_and_Color": "The protective shell glows with a strong, steady, golden light. The present life is in clear, solid colors. The future lives are ethereal and misty, but are all safely bathed in the golden light of the protection earned today.",
+      "Technical_Cues": {
+        "Camera": "A wide, deep-focus shot that captures the person in the foreground and the entire chain of their seven protected future lives stretching into the background.",
+        "Resolution": "8K, ultra-realistic, with ethereal effects for the future lives and the energy shell.",
+        "Lighting": "The 'tortoise shell' of self-control is the primary light source, casting its protective glow far into the future.",
+        "Art_Genre": "Epic fantasy art, mystical realism."
+      },
+      "Cultural_Anchors": [
+        "Like a tortoise (ஆமை போல்)",
+        "Controlling the five (ஐந்து அடக்கல்)",
+        "A safeguard for seven births (எழுமையும் ஏமாப்பு)"
+      ]
+    },
+    "Negative_Prompt": "senses running wild, broken shell, unprotected future lives, text artifacts.",
+    "Hyperparameters": {
+      "variant": "pro",
+      "steps": 55,
+      "cfg_scale": 9,
+      "seed": "Explore the design of the 'tortoise shell of energy'."
+    }
+  }
+}

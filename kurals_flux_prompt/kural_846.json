@@ -1,0 +1,39 @@
+{
+  "Kural_Info": {
+    "Number": 846,
+    "Chapter": "புல்லறிவாண்மை (Ignorance)",
+    "Tamil_Text": "அற்றம் மறைத்தலோ புல்லறிவு தம்வயின்குற்றம் மறையா வழி.",
+    "English_Meaning": "It is folly to cover one's nakedness, if (one's) faults are not covered (by forsaking them)."
+  },
+  "Flux_Optimized_Prompt": {
+    "Layered_Composition": {
+      "Foreground": "A foolish person is shown meticulously covering their physical body with beautiful, expensive clothes ('அற்றம் மறைத்தல்').",
+      "Midground": "However, their character is full of ugly, glaring faults ('குற்றம்'). These faults are visualized as grotesque, monstrous growths and stains that are visible on their 'soul' or inner self, which is depicted as a transparent overlay.",
+      "Background": "Because they are focused on covering their physical flaws while leaving their major character flaws exposed for all to see ('குற்றம் மறையா'), their action of dressing well is shown to be the height of folly ('புல்லறிவு')."
+    },
+    "Art_Direction": {
+      "Subject_and_Action": "It is a foolish vanity to conceal one's physical nakedness while leaving one's character faults unconcealed.",
+      "Symbolic_Motifs": "The beautiful clothes on the body contrasted with the ugly faults on the transparent soul is the key visual. This highlights the misplaced priorities of the fool.",
+      "Mood_and_Emotion": "Superficial, foolish, misplaced vanity, ugly within.",
+      "Lighting_and_Color": "A bright, vain light on the beautiful clothes. A sickly, ugly light on the exposed inner faults.",
+      "Technical_Cues": {
+        "Camera": "A full-body portrait with a surreal, transparent effect to show the inner self.",
+        "Resolution": "8K, with a strong contrast between the beautiful clothes and the grotesque faults.",
+        "Lighting": "Contrasting lighting to emphasize the inner/outer duality.",
+        "Art_Genre": "Surrealist portraiture."
+      }
+    },
+    "Cultural_Anchors": [
+      "Covering one's nakedness ('அற்றம் மறைத்தல்')",
+      "While not covering one's faults ('குற்றம் மறையா வழி')",
+      "This is Folly ('புல்லறிவு')."
+    ]
+  },
+  "Negative_Prompt": "a person with no faults, a naked person, text artifacts.",
+  "Hyperparameters": {
+    "variant": "dev",
+    "steps": 45,
+    "cfg_scale": 8,
+    "seed": "Explore variations for the monstrous growths of faults."
+  }
+}

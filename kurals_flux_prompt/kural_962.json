@@ -1,0 +1,38 @@
+{
+  "Kural_Info": {
+    "Number": 962,
+    "Chapter": "மானம் (Honour)",
+    "Tamil_Text": "சீரினும் சீரல்ல செய்யாரே சீரொடுபேராண்மை வேண்டு பவர்.",
+    "English_Meaning": "Those who desire (to maintain their) honour, will surely do nothing dishonourable, even for the sake of fame."
+  },
+  "Flux_Optimized_Prompt": {
+    "Layered_Composition": {
+      "Foreground": "A great warrior, who desires both honor and manly greatness ('சீரொடு பேராண்மை வேண்டுபவர்'), is shown in a moment of choice.",
+      "Midground": "They are offered a laurel wreath of fame and glory ('சீரினும்'), but it is offered by a shadowy figure representing a dishonorable deed ('சீரல்ல').",
+      "Background": "The warrior, with a look of absolute integrity, turns away from the offered fame, refusing to perform the ignoble act required to obtain it ('செய்யாரே'). They would rather have no fame than fame obtained through dishonorable means."
+    },
+    "Art_Direction": {
+      "Subject_and_Action": "Those who desire true honor combined with greatness will not commit a dishonorable act, even if that act would bring them fame.",
+      "Symbolic_Motifs": "The fame from a dishonorable act is depicted as a withered or thorny laurel wreath. The warrior's own sense of honor is a brighter, inner light that makes them reject the tainted external reward.",
+      "Mood_and_Emotion": "Incorruptible, principled, honorable, discerning.",
+      "Lighting_and_Color": "The warrior is lit by their own inner glow of integrity. The dishonorable offer comes from the shadows, and the laurel wreath itself might have a sickly, unnatural glow. The overall palette contrasts pure inner light with tainted external glory.",
+      "Technical_Cues": {
+        "Camera": "A medium shot focusing on the warrior's face at the moment of refusal, capturing their expression of integrity.",
+        "Resolution": "8K, ultra-realistic, with a strong focus on the symbolic nature of the tainted wreath.",
+        "Lighting": "High-contrast lighting to emphasize the choice between inner honor and outer fame.",
+        "Art_Genre": "Heroic portraiture, with symbolic elements."
+      },
+      "Cultural_Anchors": [
+        "Desiring honor and greatness (சீரொடு பேராண்மை வேண்டுபவர்)",
+        "Not doing dishonorable things (சீரல்ல செய்யாரே)"
+      ]
+    },
+    "Negative_Prompt": "warrior accepting the wreath, happy with dishonorable fame, text artifacts.",
+    "Hyperparameters": {
+      "variant": "dev",
+      "steps": 45,
+      "cfg_scale": 8,
+      "seed": "Explore the design of the 'thorny laurel wreath'."
+    }
+  }
+}

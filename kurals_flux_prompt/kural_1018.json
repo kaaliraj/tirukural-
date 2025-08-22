@@ -1,0 +1,33 @@
+{
+  "Kural_Info": {
+    "Number": 1018,
+    "Chapter": "நாணுடைமை (Shame)",
+    "Tamil_Text": "பிறர்நாணத் தக்கது தான்நாணா னாயின்அறம்நாணத் தக்கது உடைத்து.",
+    "English_Meaning": "Though know'st no shame, while all around asha med must be: Virtue will shrink away ashamed of thee!."
+  },
+  "Flux_Optimized_Prompt": {
+    "Layered_Composition": {
+      "Foreground": "A person is shown committing a shameless act in public, an act for which others ('Pirar') are visibly cringing and feeling secondhand shame.",
+      "Midground": "The allegorical figure of Virtue ('Aram'), depicted as a divine, luminous being, is shown physically turning away from the shameless person, its own face covered in shame ('Aram Naanath Thakkathu').",
+      "Background": "The world around the shameless person seems to darken and lose its moral compass as the light of Virtue recedes from them."
+    },
+    "Art_Direction": {
+      "Subject_and_Action": "When a person feels no shame for an act that shames others, even Virtue itself becomes ashamed of that person and abandons them.",
+      "Symbolic_Motifs": "The personified figure of 'Aram' turning away in shame is the central, powerful image. The cringing of the onlookers contrasts with the shamelessness of the main character.",
+      "Mood_and_Emotion": "Shameful, disgraceful, a sense of profound moral abandonment.",
+      "Lighting_and_Color": "A harsh, exposing light is on the shameless person. The figure of Virtue is the main source of pure, golden light, and as it turns away, it takes the light with it, casting the scene into shadow."
+    },
+    "Technical_Cues": {
+      "Camera": "Medium shot focusing on the interaction between the shameless person and the receding figure of Virtue.",
+      "Resolution": "8K, mystical realism, with a beautifully rendered, ethereal figure for 'Aram'.",
+      "Lighting": "Dramatic, symbolic lighting that shifts as Virtue leaves the scene.",
+      "Art_Genre": "Allegorical painting with a strong narrative element."
+    },
+    "Cultural_Anchors": [
+      "அறம் (Virtue/Dharma)",
+      "நாண் (Shame)",
+      "The concept of virtue being an active entity"
+    ]
+  },
+  "Negative_Prompt": "proud figure of Virtue, happy onlookers, modern setting, text artifacts, cartoonish, blurry."
+}

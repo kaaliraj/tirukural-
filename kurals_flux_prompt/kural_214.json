@@ -1,0 +1,39 @@
+{
+  "Kural_Info": {
+    "Number": 214,
+    "Chapter": "ஒப்புரவறிதல் (Duty to Society)",
+    "Tamil_Text": "ஒத்த தறவோன் உயிர்வாழ்வான் மற்றையான்செத்தாருள் வைக்கப் படும்.",
+    "English_Meaning": "He truly lives who knows (and discharges) the proper duties (of benevolence). He who knows them not will be reckoned among the dead."
+  },
+  "Flux_Optimized_Prompt": {
+    "Layered_Composition": {
+      "Foreground": "A split composition.",
+      "Midground": "On the right, a person is shown who understands and practices their duty to society ('ஒத்தது அறிவோன்'). They are depicted as vibrant, full of life, and radiating a warm, golden aura of a true 'living soul' ('உயிர் வாழ்வான்').",
+      "Background": "On the left, a person who does not understand or practice these duties ('மற்றையான்'). Although they are physically breathing, they are depicted as a cold, grey, lifeless stone statue, a memorial to a life unlived. They are 'counted among the dead' ('செத்தாருள் வைக்கப்படும்')."
+    },
+    "Art_Direction": {
+      "Subject_and_Action": "The one who lives according to the duties of social benevolence is truly alive; all others, despite being physically alive, are to be considered as already dead.",
+      "Symbolic_Motifs": "The stark contrast between the vibrant, living person and the cold, dead statue is the central metaphor. True life is defined by virtuous action, not biological function.",
+      "Mood_and_Emotion": "Alive vs. dead, vibrant vs. static, meaningful vs. meaningless existence.",
+      "Lighting_and_Color": "The right side is filled with the warm, vibrant, golden light of true life. The left side is a cold, desolate, monochromatic grey.",
+      "Technical_Cues": {
+        "Camera": "A direct, comparative diptych shot that forces the viewer to confront the two states of being.",
+        "Resolution": "8K, ultra-realistic, with a strong textural contrast between warm, living flesh and cold, dead stone.",
+        "Lighting": "Strong dualistic lighting to emphasize the difference between being truly alive and being effectively dead.",
+        "Art_Genre": "Symbolic realism, allegorical portraiture."
+      },
+      "Cultural_Anchors": [
+        "He who knows what is fit for society (ஒத்தது அறிவோன்)",
+        "He is one who lives (உயிர் வாழ்வான்)",
+        "The other will be placed among the dead (மற்றையான் செத்தாருள் வைக்கப்படும்)"
+      ]
+    },
+    "Negative_Prompt": "sad living person, happy dead person, text artifacts.",
+    "Hyperparameters": {
+      "variant": "pro",
+      "steps": 50,
+      "cfg_scale": 8,
+      "seed": "Explore the textural details of the 'living statue'."
+    }
+  }
+}

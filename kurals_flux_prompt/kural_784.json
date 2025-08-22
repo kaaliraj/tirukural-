@@ -1,0 +1,39 @@
+{
+  "Kural_Info": {
+    "Number": 784,
+    "Chapter": "நட்பு (Friendship)",
+    "Tamil_Text": "நகுதற் பொருட்டன்று நட்டல் மிகுதிக்கண் மேற்செனறு இடித்தற் பொருட்டு.",
+    "English_Meaning": "Friendship is not for the purpose of laughing but for that of being beforehand in giving one another sharp rebukes in case of transgression."
+  },
+  "Flux_Optimized_Prompt": {
+    "Layered_Composition": {
+      "Foreground": "Two friends are walking on a path. One of the friends is about to step into a hidden pitfall, representing a transgression or mistake ('மிகுதி').",
+      "Midground": "The other friend, instead of just laughing along with them ('நகுதற் பொருட்டன்று'), acts swiftly. They are shown grabbing their friend and sternly rebuking them, pointing out the danger. The rebuke is visualized as a sharp but life-saving thunderbolt that shatters the trap.",
+      "Background": "The friendship is shown to be a strong, protective bond, its true purpose revealed not in easy laughter, but in harsh, corrective intervention ('இடித்தற் பொருட்டு')."
+    },
+    "Art_Direction": {
+      "Subject_and_Action": "The purpose of friendship is not just for pleasantry, but for providing swift and sharp rebuke to prevent a friend from making a mistake.",
+      "Symbolic_Motifs": "The hidden pitfall is the friend's transgression. The saving rebuke as a thunderbolt is the key visual, showing that the harshness is actually a powerful, protective act.",
+      "Mood_and_Emotion": "Corrective, protective, stern but loving, true friendship.",
+      "Lighting_and_Color": "The path is deceptively pleasant. The pitfall is dark and menacing. The thunderbolt of rebuke is a brilliant flash of bright, corrective light.",
+      "Technical_Cues": {
+        "Camera": "A dynamic shot that captures the moment of intervention, just before the friend steps into the trap.",
+        "Resolution": "8K, cinematic, with dramatic lighting effects.",
+        "Lighting": "The flash of the thunderbolt provides a moment of high-contrast, dramatic light.",
+        "Art_Genre": "Dramatic realism, with symbolic fantasy elements."
+      },
+      "Cultural_Anchors": [
+        "Friendship is not just for laughing ('நகுதற் பொருட்டன்று')",
+        "It is for sharp rebuke ('இடித்தற் பொருட்டு')",
+        "Corrective nature of true friendship."
+      ]
+    },
+    "Negative_Prompt": "friend letting the other fall, laughing at the friend's mistake, text artifacts, cartoonish.",
+    "Hyperparameters": {
+      "variant": "pro",
+      "steps": 50,
+      "cfg_scale": 9,
+      "seed": "Explore variations for the thunderbolt of rebuke."
+    }
+  }
+}

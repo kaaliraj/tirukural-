@@ -1,0 +1,39 @@
+{
+  "Kural_Info": {
+    "Number": 782,
+    "Chapter": "நட்பு (Friendship)",
+    "Tamil_Text": "நிறைநீர நீரவர் கேண்மை பிறைமதிப் பின்னீர பேதையார் நட்பு.",
+    "English_Meaning": "The friendship of the wise waxes like the new moon; (but) that of fools wanes like the full moon."
+  },
+  "Flux_Optimized_Prompt": {
+    "Layered_Composition": {
+      "Foreground": "A cosmic scene with two moons on opposite sides. On the left, two wise friends are shown. Their friendship is represented by a crescent moon ('பிறைமதி') that is waxing, growing larger and brighter over time.",
+      "Midground": "On the right, two foolish friends ('பேதையார்') are shown. Their friendship is represented by a brilliant full moon that is already beginning to wane, diminishing and fading over time.",
+      "Background": "A starry sky, providing a timeless backdrop for this comparison of the two types of friendship."
+    },
+    "Art_Direction": {
+      "Subject_and_Action": "The friendship of the wise grows over time like the waxing moon, while the friendship of fools diminishes over time like the waning moon.",
+      "Symbolic_Motifs": "The waxing crescent moon for wise friendship and the waning full moon for foolish friendship are the direct, powerful metaphors from the Kural.",
+      "Mood_and_Emotion": "Contrasting, growing vs. diminishing, wise vs. foolish.",
+      "Lighting_and_Color": "The light on the left side (wise friends) is growing, starting small but becoming brilliant. The light on the right side (foolish friends) starts bright but is visibly fading into darkness.",
+      "Technical_Cues": {
+        "Camera": "A balanced, symmetrical composition that contrasts the two moons and the two pairs of friends.",
+        "Resolution": "8K, with beautiful, realistic lunar effects.",
+        "Lighting": "Dynamic lighting that changes to show the waxing and waning processes.",
+        "Art_Genre": "Cosmic art, with symbolic human elements."
+      },
+      "Cultural_Anchors": [
+        "Friendship of the wise like a waxing moon ('நிறைநீர நீரவர் கேண்மை')",
+        "Friendship of fools like a waning moon ('பேதையார் நட்பு')",
+        "The trajectory of relationships."
+      ]
+    },
+    "Negative_Prompt": "wise friends with a waning moon, foolish friends with a waxing moon, text artifacts, cartoonish.",
+    "Hyperparameters": {
+      "variant": "pro",
+      "steps": 50,
+      "cfg_scale": 8,
+      "seed": "Explore variations for the lunar effects."
+    }
+  }
+}

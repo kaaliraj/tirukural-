@@ -1,0 +1,38 @@
+{
+  "Kural_Info": {
+    "Number": 180,
+    "Chapter": "வெஃகாமை (Not Coveting)",
+    "Tamil_Text": "இறலீனும் எண்ணாது வெஃகின் விறல்ஈனும்வேண்டாமை என்னுஞ் செருக்கு.",
+    "English_Meaning": "To covet (the wealth of another) regardless of consequences will bring destruction. That greatness (of mind) which covets not will give victory."
+  },
+  "Flux_Optimized_Prompt": {
+    "Layered_Composition": {
+      "Foreground": "A split composition showing two opposing warriors.",
+      "Midground": "On the left is a warrior driven by thoughtless covetousness ('எண்ணாது வெஃகின்'). Their greed is a chaotic, dark energy that leads them to fight recklessly. This path is shown to end abruptly in a pit of death and ruin ('இறல் ஈனும்').",
+      "Background": "On the right is a warrior driven by the 'proud greatness of non-desire' ('வேண்டாமை என்னும் செருக்கு'). They are not fighting for gain, but from a place of self-possession and principle. This noble pride is a brilliant, focused aura of power that leads them to a decisive and glorious victory ('விறல் ஈனும்')."
+    },
+    "Art_Direction": {
+      "Subject_and_Action": "Thoughtless covetousness leads inevitably to death, while the noble pride of non-desire leads inevitably to victory.",
+      "Symbolic_Motifs": "The contrast between the two inner motivations is key. Covetousness is a chaotic, self-destructive force. The pride of non-desire is a calm, focused, and powerful force. One leads to ruin, the other to victory.",
+      "Mood_and_Emotion": "Ruin vs. victory, chaos vs. control, noble pride.",
+      "Lighting_and_Color": "The covetous warrior is surrounded by a dark, chaotic, reddish-black energy. The noble warrior is surrounded by a brilliant, focused, white-gold aura of power. The outcomes—a dark pit vs. a sunlit victory field—reflect these energies.",
+      "Technical_Cues": {
+        "Camera": "A dynamic, confrontational diptych shot, showing the two warriors and their divergent paths to ruin and victory.",
+        "Resolution": "8K, ultra-realistic, with powerful energy effects for the two opposing motivations.",
+        "Lighting": "Strong, dualistic lighting to contrast the forces of chaotic greed and disciplined pride.",
+        "Art_Genre": "High-fantasy battle scene, symbolic art."
+      },
+      "Cultural_Anchors": [
+        "Thoughtless coveting brings death (எண்ணாது வெஃகின் இறல் ஈனும்)",
+        "The pride of non-desire brings victory (வேண்டாமை என்னும் செருக்கு விறல் ஈனும்)"
+      ]
+    },
+    "Negative_Prompt": "covetous warrior winning, noble warrior losing, text artifacts.",
+    "Hyperparameters": {
+      "variant": "pro",
+      "steps": 55,
+      "cfg_scale": 9,
+      "seed": "Explore the visual of the 'aura of noble non-desire'."
+    }
+  }
+}

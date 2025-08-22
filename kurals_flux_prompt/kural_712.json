@@ -1,0 +1,39 @@
+{
+  "Kural_Info": {
+    "Number": 712,
+    "Chapter": "அவையறிதல் (The Knowledge of the Council Chamber)",
+    "Tamil_Text": "இடைதெரிந்து நன்குணர்ந்து சொல்லுக சொல்லின்நடைதெரிந்த நன்மை யவர்.",
+    "English_Meaning": "Let the good who know the uses of words speak with a clear knowledge after ascertaining the time (suited to the court)."
+  },
+  "Flux_Optimized_Prompt": {
+    "Layered_Composition": {
+      "Foreground": "An eloquent speaker, who knows the flow of words ('சொல்லின் நடை தெரிந்த'), is waiting for the perfect moment to speak in a tense assembly.",
+      "Midground": "The flow of the debate is visualized as a flowing river. The speaker is not jumping in randomly but is keenly observing the currents, waiting for a calm, opportune moment ('இடை தெரிந்து') to present their point.",
+      "Background": "Having understood the moment perfectly ('நன்கு உணர்ந்து'), they step in. Their words are visualized as a perfectly crafted boat that navigates the river's currents with ease, effectively carrying their message to the other side without being swept away by the argument."
+    },
+    "Art_Direction": {
+      "Subject_and_Action": "Those who are experts in effective communication should first discern the opportune moment in a discussion and understand its dynamics, then speak their words with clarity.",
+      "Symbolic_Motifs": "The debate as a river is the central metaphor. Waiting for the right moment is like a skilled boatman waiting for the right current. The well-crafted speech is the boat that ensures safe and successful passage.",
+      "Mood_and_Emotion": "Opportune, skillful, perceptive, effective.",
+      "Lighting_and_Color": "The river of debate is shown with turbulent and calm patches. The speaker waits for a calm, well-lit patch to launch their boat of words. The boat itself might have a gentle, guiding light.",
+      "Technical_Cues": {
+        "Camera": "A shot that captures the speaker's patient observation and their skillful, timely intervention in the 'river of debate'.",
+        "Resolution": "8K, ultra-realistic, with advanced fluid dynamics for the river and symbolic effects for the 'boat of words'.",
+        "Lighting": "The lighting on the 'river' should shift, creating clear moments of opportunity.",
+        "Art_Genre": "Symbolic realism, with allegorical elements."
+      },
+      "Cultural_Anchors": [
+        "Discerning the opportune moment (இடை தெரிந்து)",
+        "Understanding well (நன்கு உணர்ந்து)",
+        "Those who know the way of words (சொல்லின் நடை தெரிந்த)"
+      ]
+    },
+    "Negative_Prompt": "speaker interrupting, boat sinking, text artifacts, chaotic speech.",
+    "Hyperparameters": {
+      "variant": "dev",
+      "steps": 45,
+      "cfg_scale": 8,
+      "seed": "Explore the design of the 'boat of words'."
+    }
+  }
+}

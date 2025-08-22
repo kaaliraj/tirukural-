@@ -1,0 +1,33 @@
+{
+  "Kural_Info": {
+    "Number": 1259,
+    "Chapter": "நிறையழிதல் (Reserve Overcome)",
+    "Tamil_Text": "புலப்பல் எனச்சென்றேன் புல்லினேன் நெஞ்சம்கலத்தல் உறுவது கண்டு.",
+    "English_Meaning": "I said I would feign dislike and so went (away); (but) I embraced him the moment I say my mind began to unite with him!."
+  },
+  "Flux_Optimized_Prompt": {
+    "Layered_Composition": {
+      "Foreground": "A woman is shown approaching her lover. Her initial intention to feign anger ('Pulappal ena senren') is visible in her slightly stern expression and posture.",
+      "Midground": "However, her own heart ('Nenjam') betrays her. It is visualized as a luminous, magnetic force that is irresistibly drawn to her lover's heart, beginning to merge with it ('Kalathal Uruvathu Kandu').",
+      "Background": "Seeing this internal betrayal by her own heart, her body gives up the pretense, and she is shown in the very next instant abandoning her sulk and moving into a warm embrace ('Pullinen')."
+    },
+    "Art_Direction": {
+      "Subject_and_Action": "A woman's resolve to feign anger collapses the moment she feels her own heart's irresistible urge to unite with her lover's.",
+      "Symbolic_Motifs": "The magnetic, glowing hearts pulling towards each other is the key visual that explains her change of mind. The transition from a stern posture to an embrace.",
+      "Mood_and_Emotion": "Overcome by love, tender, a sense of the heart having its own will.",
+      "Lighting_and_Color": "A warm, romantic light. The magnetic pull of the hearts can be visualized with soft, glowing lines of energy. The palette is warm and affectionate."
+    },
+    "Technical_Cues": {
+      "Camera": "A shot that captures the sequence of her intention, her heart's betrayal, and her final action, perhaps using a subtle motion blur or multi-exposure effect.",
+      "Resolution": "8K, photorealistic, with a focus on the subtle shift in her expression.",
+      "Lighting": "Soft, romantic lighting that enhances the mood of surrender to love.",
+      "Art_Genre": "Romantic realism with a touch of mystical symbolism."
+    },
+    "Cultural_Anchors": [
+      "புலவி (Feigned anger/sulking)",
+      "The heart's true desire",
+      "The moment of surrender in a lover's quarrel"
+    ]
+  },
+  "Negative_Prompt": "woman maintaining her anger, a cold embrace, modern setting, text artifacts, cartoonish."
+}

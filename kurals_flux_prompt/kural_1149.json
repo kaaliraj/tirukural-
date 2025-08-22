@@ -1,0 +1,33 @@
+{
+  "Kural_Info": {
+    "Number": 1149,
+    "Chapter": "அலரறிவுறுத்தல் (The Announcement of the Rumour)",
+    "Tamil_Text": "அலர்நாண ஒல்வதோ அஞ்சலோம்பு என்றார்பலர்நாண நீத்தக் கடை.",
+    "English_Meaning": "When he who said 'Fear not!' hath left me blamed, While many shrink, can I from rumour hide ashamed?."
+  },
+  "Flux_Optimized_Prompt": {
+    "Layered_Composition": {
+      "Foreground": "A lone woman stands, looking heartbroken. The ghostly, fading image of her lover who had promised 'Fear not' ('Anjal Ombu') is seen departing, leaving her to face public shame.",
+      "Midground": "The public rumor ('Alar') is visualized as a relentless, swirling storm of sharp-edged leaves or papers that surround her. She is making no attempt to hide from it ('Naana Olvatho?').",
+      "Background": "The community ('Palar') is depicted as a crowd of judgmental, shadowy figures, their collective gaze creating a sense of intense scrutiny and shame ('Palar Naana')."
+    },
+    "Art_Direction": {
+      "Subject_and_Action": "A woman questions the point of feeling ashamed of public rumor when she has already been subjected to the greater shame of being abandoned by the very person who promised her safety.",
+      "Symbolic_Motifs": "The rumor as a cutting storm. The departing, ghostly lover represents the broken promise. Her defiant, un-hiding posture shows her resignation to the situation.",
+      "Mood_and_Emotion": "Resigned, heartbroken, defiant, shamed but beyond shame.",
+      "Lighting_and_Color": "A cold, harsh, stormy light. The color palette is dominated by bleak grays, dark blues, and the sharp white of the swirling rumors, creating a feeling of emotional desolation."
+    },
+    "Technical_Cues": {
+      "Camera": "Medium close-up on the woman, capturing her complex expression of pain and defiance as the storm of rumor rages around her.",
+      "Resolution": "8K, photorealistic, with dynamic particle effects for the storm of rumor.",
+      "Lighting": "Dramatic, stormy lighting with flashes that highlight her face, then plunge it back into shadow.",
+      "Art_Genre": "Gothic romance, with a strong focus on psychological turmoil."
+    },
+    "Cultural_Anchors": [
+      "அலர் (Rumour)",
+      "நாணம் (Shame)",
+      "The pain of abandonment"
+    ]
+  },
+  "Negative_Prompt": "happy protagonist, sunny day, supportive crowd, lover returning, text artifacts, cartoonish."
+}

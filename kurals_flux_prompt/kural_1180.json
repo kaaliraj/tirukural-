@@ -1,0 +1,33 @@
+{
+  "Kural_Info": {
+    "Number": 1180,
+    "Chapter": "கண்விதுப்பழிதல் (Eyes consumed with Grief)",
+    "Tamil_Text": "மறைபெறல் ஊரார்க்கு அரிதன்றால் எம்போல்அறைபறை கண்ணார் அகத்து.",
+    "English_Meaning": "It is not hard for all the town the knowledge to obtain, When eyes, as mine, like beaten tambours, make the mystery plain."
+  },
+  "Flux_Optimized_Prompt": {
+    "Layered_Composition": {
+      "Foreground": "A young woman is trying to keep her love a secret, perhaps by holding a finger to her lips.",
+      "Midground": "Despite her efforts, her eyes are betraying her completely. They are literally depicted as 'Araiparai'—beaten drums or tom-toms—that are loudly broadcasting her feelings to the entire town.",
+      "Background": "The townspeople ('Ooraar') are shown easily hearing and understanding the 'sound' from her drum-like eyes, learning her secret ('Marai') with no difficulty. The secret is out in the open."
+    },
+    "Art_Direction": {
+      "Subject_and_Action": "A woman laments that it's impossible to keep her love a secret from the townspeople when her own eyes are like loud, beaten drums that announce her feelings to everyone.",
+      "Symbolic_Motifs": "The eyes as literal, broadcasting drums is the central, vivid, and slightly humorous metaphor. Sound waves or musical notes can be seen emanating from her eyes.",
+      "Mood_and_Emotion": "Resigned, slightly exasperated, a sense of futilely trying to keep an obvious secret.",
+      "Lighting_and_Color": "Bright, public, daylight setting. The colors are clear and vibrant, suggesting nothing is hidden. The 'sound' from her eyes could be colorful, visible waves."
+    },
+    "Technical_Cues": {
+      "Camera": "Medium shot of the woman, with a surreal focus on her drum-like eyes and the visible sound waves reaching the townspeople.",
+      "Resolution": "8K, surreal realism, with a creative and clear depiction of the central metaphor.",
+      "Lighting": "Clear, even lighting of a public square, no place to hide.",
+      "Art_Genre": "Symbolic surrealism with a touch of humor."
+    },
+    "Cultural_Anchors": [
+      "அறைபறை (Beaten drum - for public announcements)",
+      "The eyes as betrayers of secrets",
+      "The impossibility of hiding love"
+    ]
+  },
+  "Negative_Prompt": "secretive eyes, unaware townspeople, nighttime, text artifacts, modern instruments, cartoonish."
+}

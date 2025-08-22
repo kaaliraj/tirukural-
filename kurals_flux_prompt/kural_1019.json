@@ -1,0 +1,34 @@
+{
+  "Kural_Info": {
+    "Number": 1019,
+    "Chapter": "நாணுடைமை (Shame)",
+    "Tamil_Text": "குலஞ்சுடும் கொள்கை பிழைப்பின் நலஞ்சுடும்நாணின்மை நின்றக் கடை.",
+    "English_Meaning": "A failing in high purpose burns the race's fame; But shamelessness burns up all goodly name."
+  },
+  "Flux_Optimized_Prompt": {
+    "Layered_Composition": {
+      "Foreground": "A split composition. On the left, a family's ancestral home is shown with a single crack of fire running through it, caused by a descendant failing in their principles ('Kolkai Pizhaippin'). The fire burns the lineage ('Kulam Sudum').",
+      "Midground": "On the right, an individual stands devoid of any modesty ('Naaninmai'). They are being consumed by an all-encompassing, far more intense fire that burns away every single one of their personal good qualities ('Nalam Sudum'), leaving nothing but ash.",
+      "Background": "The background on the left is still recognizable, though damaged. The background on the right is a completely desolate, ashen wasteland."
+    },
+    "Art_Direction": {
+      "Subject_and_Action": "A visual comparison of two destructive forces: while a failure in principle harms one's family lineage, the personal state of shamelessness is far worse, as it utterly destroys all individual goodness.",
+      "Symbolic_Motifs": "The two types of fire are the key. One is a targeted crack, damaging a structure (the family). The other is an inferno, annihilating an individual's entire being (their virtues).",
+      "Mood_and_Emotion": "Cautionary, destructive, comparing a significant flaw with a catastrophic one.",
+      "Lighting_and_Color": "Fiery oranges and reds dominate. The fire on the left is a single, sharp line of flame. The fire on the right is a swirling, all-consuming vortex of flame."
+    },
+    "Technical_Cues": {
+      "Camera": "Wide, balanced shot to show the two scenes of destruction side-by-side for direct comparison.",
+      "Resolution": "8K, fantasy realism, with intense and detailed fire and destruction effects.",
+      "Lighting": "The primary light source is the fire in both scenes, creating a dramatic and dangerous atmosphere.",
+      "Art_Genre": "Symbolic art depicting moral destruction."
+    },
+    "Cultural_Anchors": [
+      "குலம் (Lineage/Family)",
+      "நலம் (Goodness/Virtue)",
+      "கொள்கை (Principle)",
+      "நாணின்மை (Shamelessness)"
+    ]
+  },
+  "Negative_Prompt": "happy people, intact buildings, water or ice themes, text artifacts, cartoonish, blurry."
+}

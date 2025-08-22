@@ -1,0 +1,39 @@
+{
+  "Kural_Info": {
+    "Number": 776,
+    "Chapter": "படைச்செருக்கு (Military Spirit)",
+    "Tamil_Text": "விழுப்புண் படாதநாள் எல்லாம் வழுக்கினுள் வைக்கும்தன் நாளை எடுத்து.",
+    "English_Meaning": "The hero will reckon among wasted days all those on which he had not received severe wounds."
+  },
+  "Flux_Optimized_Prompt": {
+    "Layered_Composition": {
+      "Foreground": "A veteran hero is shown at the end of his life, looking back at a long tapestry that represents his days.",
+      "Midground": "Most of the days on the tapestry are woven with brilliant golden thread, and each of these golden days depicts a glorious battle where he received an honorable wound ('விழுப்புண்'). A few days on the tapestry, however, are woven with dull, grey, empty thread. These are the days he was not wounded in battle.",
+      "Background": "The hero is shown taking a knife and cutting out these grey, unwounded days from his life's tapestry, considering them flawed and wasted days ('வழுக்கினுள் வைக்கும்')."
+    },
+    "Art_Direction": {
+      "Subject_and_Action": "A true hero considers any day that he did not receive an honorable wound in battle to be a day wasted or flawed.",
+      "Symbolic_Motifs": "The tapestry of life is the main canvas. The golden, wounded days are glorious. The grey, unwounded days are the flaws. The act of cutting them out shows the hero's extreme code of honor.",
+      "Mood_and_Emotion": "Heroic, honorable, a unique perspective on suffering.",
+      "Lighting_and_Color": "The golden threads of the wounded days glow with glory. The grey threads are dull and lifeless. The hero has a look of grim, honorable purpose.",
+      "Technical_Cues": {
+        "Camera": "A medium shot of the hero interacting with his life's tapestry.",
+        "Resolution": "8K, with rich, detailed tapestry textures.",
+        "Lighting": "A nostalgic, reflective lighting.",
+        "Art_Genre": "Symbolic realism, with a historical, epic feel."
+      }
+    },
+    "Cultural_Anchors": [
+      "The Honorable Wound ('விழுப்புண்')",
+      "Unwounded days are wasted days ('வழுக்கினுள் வைக்கும்')",
+      "The extreme code of the warrior."
+    ]
+  },
+  "Negative_Prompt": "hero cherishing unwounded days, text artifacts, cartoonish tapestry.",
+  "Hyperparameters": {
+    "variant": "dev",
+    "steps": 45,
+    "cfg_scale": 8,
+    "seed": "Explore variations for the designs on the tapestry."
+  }
+}

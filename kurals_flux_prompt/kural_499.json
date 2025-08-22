@@ -1,0 +1,39 @@
+{
+  "Kural_Info": {
+    "Number": 499,
+    "Chapter": "இடனறிதல் (Knowing the Place)",
+    "Tamil_Text": "சிறைநலனும் சீரும் இலரெனினும் மாந்தர் உறைநிலத்தோடு ஒட்டல் அரிது.",
+    "English_Meaning": "It is a hazardous thing to attack men in their own country, although they may neither have power nor a good fortress."
+  },
+  "Flux_Optimized_Prompt": {
+    "Layered_Composition": {
+      "Foreground": "A group of simple villagers, without armor ('சிறைநலன் இலர்') or obvious wealth ('சீர் இலர்'), are defending their own homeland ('உறைநிலம்').",
+      "Midground": "They are using their intimate knowledge of the terrain—setting traps in the forest, using hills for cover, and appearing from unexpected places—to fight off a much better-equipped invading army.",
+      "Background": "The invading army is shown looking confused, frustrated, and bogged down, finding it incredibly difficult to conquer the people on their home ground ('ஒட்டல் அரிது')."
+    },
+    "Art_Direction": {
+      "Subject_and_Action": "It is extremely difficult to defeat people, even if they lack fortifications and resources, when you fight them in their own homeland.",
+      "Symbolic_Motifs": "The villagers using the land itself as their weapon is the key visual. This 'home-field advantage' is shown to be more powerful than the invaders' superior equipment.",
+      "Mood_and_Emotion": "Resilient, determined, fierce defense of home, strategic.",
+      "Lighting_and_Color": "The villagers are depicted in natural, earthy tones, blending in with their environment. The invading army wears colors that clash with the landscape, making them stand out as targets.",
+      "Technical_Cues": {
+        "Camera": "A dynamic shot from the perspective of the defending villagers, showing their clever use of the terrain.",
+        "Resolution": "8K, with a gritty, realistic feel.",
+        "Lighting": "Dappled, natural forest light that provides cover for the defenders.",
+        "Art_Genre": "Historical realism, guerrilla warfare scene."
+      }
+    },
+    "Cultural_Anchors": [
+      "Fighting on home ground ('உறைநிலம்')",
+      "Difficulty of conquest ('ஒட்டல் அரிது')",
+      "The power of local knowledge and determination."
+    ]
+  },
+  "Negative_Prompt": "villagers surrendering, invaders winning easily, city setting, text artifacts, cartoonish.",
+  "Hyperparameters": {
+    "variant": "pro",
+    "steps": 50,
+    "cfg_scale": 8,
+    "seed": "Explore variations for the types of traps the villagers set."
+  }
+}

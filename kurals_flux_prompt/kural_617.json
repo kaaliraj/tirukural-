@@ -1,0 +1,38 @@
+{
+  "Kural_Info": {
+    "Number": 617,
+    "Chapter": "ஆள்வினையுடைமை (Manly Effort)",
+    "Tamil_Text": "மடியுளாள் மாமுகடி என்ப மடியிலான்தாளுளான் தாமரையி னாள்.",
+    "English_Meaning": "They say that the black Mudevi (the goddess of adversity) dwells with laziness, and the Lakshmi (the goddess of prosperity) dwells with the labour of the industrious."
+  },
+  "Flux_Optimized_Prompt": {
+    "Layered_Composition": {
+      "Foreground": "A split composition. On the left, an idle, lazy person ('மடி') is shown. In their shadow or home dwells a dark, sorrowful, and misfortune-bringing goddess, Mudevi ('மாமுகடி').",
+      "Midground": "On the right, an industrious person is hard at work ('மடியிலான் தாள்'). In their home and workshop dwells the radiant, beautiful, and prosperity-bringing Goddess Lakshmi ('தாமரையினாள்'), who sits on a lotus.",
+      "Background": "The lazy person's surroundings are decaying and barren. The industrious person's surroundings are flourishing, fertile, and filled with light."
+    },
+    "Art_Direction": {
+      "Subject_and_Action": "A direct personification of the consequences of idleness and industry: Idleness attracts the Goddess of Misfortune, while strenuous effort attracts the Goddess of Fortune.",
+      "Symbolic_Motifs": "The two goddesses are the key visual elements. Mudevi is depicted as dark, shrouded, and associated with misfortune (e.g., an owl). Lakshmi is radiant, golden, and associated with auspicious symbols (lotus, elephants). The state of the person's life is a direct reflection of the goddess they have attracted.",
+      "Mood_and_Emotion": "Cursed vs. blessed, decaying vs. flourishing, dark vs. light.",
+      "Lighting_and_Color": "The left side is dark, gloomy, and filled with sickly, desaturated colors. The right side is bathed in the warm, divine, golden light that emanates from Goddess Lakshmi.",
+      "Technical_Cues": {
+        "Camera": "A balanced diptych shot that presents the two scenarios as a clear choice and consequence.",
+        "Resolution": "8K, ultra-realistic, with detailed and contrasting depictions of the two goddesses and their environments.",
+        "Lighting": "Strong dualistic lighting to contrast the divine radiance of Lakshmi with the oppressive gloom of Mudevi.",
+        "Art_Genre": "Mythological painting, symbolic art."
+      },
+      "Cultural_Anchors": [
+        "Mudevi (மாமுகடி), the Goddess of Misfortune, dwells in laziness (மடி)",
+        "Lakshmi (தாமரையினாள்), the Lotus-dweller, dwells in effort (தாள்)"
+      ]
+    },
+    "Negative_Prompt": "Lakshmi with the lazy man, Mudevi with the industrious man, text artifacts, cartoonish goddesses.",
+    "Hyperparameters": {
+      "variant": "pro",
+      "steps": 50,
+      "cfg_scale": 8,
+      "seed": "Explore the traditional iconography of Mudevi and Lakshmi."
+    }
+  }
+}

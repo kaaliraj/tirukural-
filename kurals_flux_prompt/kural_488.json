@@ -1,0 +1,39 @@
+{
+  "Kural_Info": {
+    "Number": 488,
+    "Chapter": "காலமறிதல் (Knowing the fitting Time)",
+    "Tamil_Text": "செறுநரைக் காணின் சுமக்க இறுவரை காணின் கிழக்காம் தலை.",
+    "English_Meaning": "If one meets his enemy, let him show him all respect, until the time for his destruction is come; when that is come, his head will be easily brought low."
+  },
+  "Flux_Optimized_Prompt": {
+    "Layered_Composition": {
+      "Foreground": "A wise warrior is shown meeting their arrogant enemy. The warrior humbly bows their head ('சுமக்க'), appearing submissive.",
+      "Midground": "However, the warrior's shadow tells a different story. The shadow is not bowing; it is that of a coiled cobra, ready to strike. The enemy, in their arrogance, does not see this.",
+      "Background": "The scene is set on the edge of a cliff, representing the enemy's precarious position ('இறுவரை'). The sun is setting, symbolizing that the enemy's time is running out. When the sun sets completely (the right time), the cobra shadow will strike, and the enemy's head will fall ('கிழக்காம் தலை')."
+    },
+    "Art_Direction": {
+      "Subject_and_Action": "When you meet an enemy, bear with them humbly until their time for ruin arrives. At that moment, their downfall is assured.",
+      "Symbolic_Motifs": "The humble posture vs. the deadly shadow is the key visual of strategic deception. The cliff edge and the setting sun symbolize the enemy's impending doom.",
+      "Mood_and_Emotion": "Strategic, deceptive, patient, deadly, inevitable.",
+      "Lighting_and_Color": "The warm, low light of the setting sun creates long, dramatic shadows that are crucial to the storytelling. The colors are rich and full of foreboding.",
+      "Technical_Cues": {
+        "Camera": "A low-angle shot that makes the shadows prominent and menacing.",
+        "Resolution": "8K, cinematic, with a strong focus on the symbolic shadows.",
+        "Lighting": "Golden hour lighting to create dramatic, long shadows.",
+        "Art_Genre": "Historical fiction, with strong symbolic and noir elements."
+      }
+    },
+    "Cultural_Anchors": [
+      "Bearing with the enemy ('செறுநரைக் காணின் சுமக்க')",
+      "The edge of ruin ('இறுவரை')",
+      "The assured downfall ('கிழக்காம் தலை')"
+    ]
+  },
+  "Negative_Prompt": "warrior attacking prematurely, friendly shadow, noon daylight, text artifacts.",
+  "Hyperparameters": {
+    "variant": "pro",
+    "steps": 50,
+    "cfg_scale": 8,
+    "seed": "Explore variations for the cobra shadow."
+  }
+}

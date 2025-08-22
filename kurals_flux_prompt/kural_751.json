@@ -1,0 +1,39 @@
+{
+  "Kural_Info": {
+    "Number": 751,
+    "Chapter": "பொருள்செயல்வகை (Way of Accumulating Wealth)",
+    "Tamil_Text": "பொருளல் லவரைப் பொருளாகச் செய்யுங் பொருளல்லது இல்லை பொருள்.",
+    "English_Meaning": "There is nothing that can change people of no importance into those of (some) importance, besides wealth."
+  },
+  "Flux_Optimized_Prompt": {
+    "Layered_Composition": {
+      "Foreground": "A person of no consequence ('பொருளல்லவர்') is depicted as a faint, grey, almost invisible ghostly figure.",
+      "Midground": "A stream of golden coins, representing Wealth ('பொருள்'), flows towards and into this figure.",
+      "Background": "As the wealth fills them, the ghostly figure transforms into a solid, vibrant, and respected person of importance ('பொருளாகச் செய்யும்'). They are now taken seriously by the world. The image demonstrates that there is no greater transforming agent than wealth."
+    },
+    "Art_Direction": {
+      "Subject_and_Action": "There is no substance other than wealth that has the power to take a person of no account and make them into someone of account.",
+      "Symbolic_Motifs": "The transformation from a transparent ghost to a solid, respected figure is the central metaphor. The stream of gold is the catalyst for this transformation.",
+      "Mood_and_Emotion": "Transformative, powerful, materialistic, a commentary on social status.",
+      "Lighting_and_Color": "The initial ghostly figure is grey and desaturated. The stream of gold is a brilliant, warm light. The final, solid figure is vibrant and richly colored.",
+      "Technical_Cues": {
+        "Camera": "A shot that captures the entire transformation process in a single, flowing motion.",
+        "Resolution": "8K, with high-quality ethereal and particle effects.",
+        "Lighting": "The light and color in the scene should grow as the person accumulates wealth.",
+        "Art_Genre": "Symbolic realism, with magical elements."
+      }
+    },
+    "Cultural_Anchors": [
+      "Making the worthless worthy ('பொருளல்லவரைப் பொருளாகச் செய்யும்')",
+      "The power of Wealth ('பொருள்')",
+      "Social mobility through riches."
+    ]
+  },
+  "Negative_Prompt": "a rich person turning into a ghost, text artifacts, cartoonish.",
+  "Hyperparameters": {
+    "variant": "pro",
+    "steps": 50,
+    "cfg_scale": 8,
+    "seed": "Explore variations for the ghostly figure."
+  }
+}

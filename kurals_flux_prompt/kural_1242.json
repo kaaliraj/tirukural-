@@ -1,0 +1,33 @@
+{
+  "Kural_Info": {
+    "Number": 1242,
+    "Chapter": "நெஞ்சொடுகிளத்தல் (Soliloquy)",
+    "Tamil_Text": "காதல் அவரிலர் ஆகநீ நோவதுபேதைமை வாழியென் நெஞ்சு.",
+    "English_Meaning": "Since he loves not, thy smart Is folly, fare thee well my heart!."
+  },
+  "Flux_Optimized_Prompt": {
+    "Layered_Composition": {
+      "Foreground": "A woman is speaking to her own heart, which is shown aching and glowing with the pain of love ('Nee Novathu').",
+      "Midground": "She shows her heart the reality of the situation: her lover is depicted in the distance, his own heart dark and without any reciprocal love ('Kaathal Avarilar').",
+      "Background": "She makes a gesture of resigned farewell to her heart's foolish suffering, sarcastically blessing it ('Vaazhi, en Nenju') for its folly ('Pethamai'). The background is stark and simple, focusing on the internal lesson."
+    },
+    "Art_Direction": {
+      "Subject_and_Action": "A lover's rational side tells her suffering heart that since the beloved feels no love, its pain is utter foolishness, and bids farewell to this folly.",
+      "Symbolic_Motifs": "The contrast between the glowing, aching heart and the dark, loveless heart of the other. The sarcastic blessing and farewell gesture.",
+      "Mood_and_Emotion": "Resigned, ironic, self-chiding, a mix of wisdom and sadness.",
+      "Lighting_and_Color": "The woman and her aching heart are in a soft, melancholic light. The distant lover is in a cold, dark shadow. The contrast visually explains the one-sided nature of the love."
+    },
+    "Technical_Cues": {
+      "Camera": "Medium close-up on the woman, capturing her resigned, bittersweet expression as she 'speaks' to the visualization of her heart.",
+      "Resolution": "8K, photorealistic, with symbolic elements for the hearts.",
+      "Lighting": "Symbolic lighting to differentiate between the feeling heart and the unfeeling one.",
+      "Art_Genre": "Psychological realism with allegorical touches."
+    },
+    "Cultural_Anchors": [
+      "பேதைமை (Folly)",
+      "நெஞ்சொடு கிளத்தல் (Speaking with one's own heart)",
+      "The pain of unrequited love"
+    ]
+  },
+  "Negative_Prompt": "a mutual love, a happy heart, modern setting, text artifacts, cartoonish, blurry."
+}

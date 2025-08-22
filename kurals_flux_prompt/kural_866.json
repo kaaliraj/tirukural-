@@ -1,0 +1,39 @@
+{
+  "Kural_Info": {
+    "Number": 866,
+    "Chapter": "பகைமாட்சி (The Might of Hatred)",
+    "Tamil_Text": "காணாச் சினத்தான் கழிபெருங் காமத்தான்பேணாமை பேணப் படும்.",
+    "English_Meaning": "Highly to be desired is the hatred of him whose anger is blind, and whose lust increases beyond measure."
+  },
+  "Flux_Optimized_Prompt": {
+    "Layered_Composition": {
+      "Foreground": "An enemy ruler is depicted as a monstrous figure, embodying two great flaws.",
+      "Midground": "His head is wreathed in a storm of 'blind anger' ('காணாச் சினத்தான்'), so he cannot see reason or strategy. His body is a bloated, grasping mass of 'excessive lust' ('கழிபெருங் காமத்தான்'), making him distracted and decadent.",
+      "Background": "A wise opposing king is shown not fearing this monstrous enemy, but actively desiring his enmity ('பேணாமை பேணப் படும்'). The wise king is shown welcoming the enemy's hatred as if it were a valuable gift, because such a flawed enemy is guaranteed to destroy himself."
+    },
+    "Art_Direction": {
+      "Subject_and_Action": "The enmity of a person who is ruled by blind anger and excessive lust is not something to be feared, but something to be actively desired, as it guarantees their self-destruction.",
+      "Symbolic_Motifs": "The enemy as a self-destructive monster is the key visual. The wise king's welcoming of the hatred is a paradoxical but powerful image of strategic insight. He knows this enemy is a gift that will defeat itself.",
+      "Mood_and_Emotion": "Desirable enmity, self-destructive, strategically welcome.",
+      "Lighting_and_Color": "The monstrous enemy is lit with chaotic, fiery, and sickly colors representing his passions. The wise king is in a clear, calm, and strategic light. The 'hatred' is visualized as a dark but ultimately beneficial energy flowing towards the wise king.",
+      "Technical_Cues": {
+        "Camera": "A wide shot showing the monstrous, flawed enemy on one side and the calm, welcoming, wise king on the other, illustrating the strategic desirability of the situation.",
+        "Resolution": "8K, ultra-realistic, with a monstrous but symbolic design for the flawed enemy.",
+        "Lighting": "Contrasting lighting: chaotic passion versus calm strategy.",
+        "Art_Genre": "High fantasy art, symbolic portraiture."
+      },
+      "Cultural_Anchors": [
+        "He of blind anger (காணாச் சினத்தான்)",
+        "He of excessive lust (கழிபெருங் காமத்தான்)",
+        "His enmity is to be desired (பேணாமை பேணப் படும்)"
+      ]
+    },
+    "Negative_Prompt": "wise enemy, fearful king, text artifacts, cartoonish monster.",
+    "Hyperparameters": {
+      "variant": "pro",
+      "steps": 50,
+      "cfg_scale": 8,
+      "seed": "Explore the monstrous design of the flawed enemy."
+    }
+  }
+}

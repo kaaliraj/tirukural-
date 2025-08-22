@@ -1,0 +1,38 @@
+{
+  "Kural_Info": {
+    "Number": 297,
+    "Chapter": "வாய்மை (Veracity)",
+    "Tamil_Text": "பொய்யாமை பொய்யாமை ஆற்றின் அறம்பிறசெய்யாமை செய்யாமை நன்று.",
+    "English_Meaning": "If a man has the power to abstain from falsehood, it will be well with him, even though he practise no other virtue."
+  },
+  "Flux_Optimized_Prompt": {
+    "Layered_Composition": {
+      "Foreground": "A person stands on a life path. They focus all their energy on one single, powerful act: upholding a great, shining shield of Truth ('பொய்யாமை ஆற்றின்').",
+      "Midground": "All other virtuous deeds ('அறம் பிற') are shown as other paths or tasks that this person is *not* doing ('செய்யாமை'). They are ignoring charity, penance, etc., to focus solely on truth.",
+      "Background": "Despite them not performing these other virtues, their single-minded dedication to truth alone is shown to be sufficient. The path ahead of them is bright, clear, and leads to a good destination ('நன்று')."
+    },
+    "Art_Direction": {
+      "Subject_and_Action": "The steadfast and perfect practice of truthfulness alone is so powerful a virtue that it is sufficient for a good life, even if no other virtues are practiced.",
+      "Symbolic_Motifs": "The focus on the single act of upholding the shield of Truth is key. The other virtues are shown to be unnecessary for this specific person, not as worthless in general. The sufficiency of truth is the main point.",
+      "Mood_and_Emotion": "Sufficient, powerful, focused, foundational.",
+      "Lighting_and_Color": "A powerful, pure light comes from the shield of Truth, illuminating the person and their path ahead. The other abandoned virtues are not dark, but simply shown as untrodden paths in a neutral light.",
+      "Technical_Cues": {
+        "Camera": "A shot from behind the person, showing their singular focus on the path of truth ahead, with the other virtuous paths branching off, unused but visible.",
+        "Resolution": "8K, ultra-realistic, with a powerful glowing effect for the shield of Truth.",
+        "Lighting": "The path of truth is self-illuminating.",
+        "Art_Genre": "Symbolic realism, fantasy art."
+      },
+      "Cultural_Anchors": [
+        "Practicing truthfulness, and only truthfulness (பொய்யாமை பொய்யாமை ஆற்றின்)",
+        "Not doing other virtues is good (அறம் பிற செய்யாமை நன்று)"
+      ]
+    },
+    "Negative_Prompt": "person struggling, dark path, person trying to do all virtues, text artifacts.",
+    "Hyperparameters": {
+      "variant": "dev",
+      "steps": 45,
+      "cfg_scale": 8,
+      "seed": "Explore the design of the 'shield of Truth'."
+    }
+  }
+}

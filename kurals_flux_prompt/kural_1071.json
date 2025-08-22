@@ -1,0 +1,38 @@
+{
+  "Kural_Info": {
+    "Number": 1071,
+    "Chapter": "கயமை (Baseness)",
+    "Tamil_Text": "மக்களே போல்வர் கயவர் அவரன்னஒப்பாரி யாங்கண்ட தில்.",
+    "English_Meaning": "The base resemble men perfectly (as regards form); and we have not seen such (exact) resemblance (among any other species)."
+  },
+  "Flux_Optimized_Prompt": {
+    "Layered_Composition": {
+      "Foreground": "A lineup of beings is shown. On one side are various animals—a lion, a monkey, a fish. On the other side is a human.",
+      "Midground": "Next to the human stands a 'base person' ('கயவர்'). In terms of physical form, the base person is absolutely identical to the human ('மக்களே போல்வர்'). The physical resemblance is perfect.",
+      "Background": "A divine or cosmic observer is shown looking at this lineup with a look of profound wonder and puzzlement. The observer notes that the resemblance between the base person and the human is more perfect and indistinguishable than the resemblance between any two members of any other species. The mystery is how something so outwardly identical can be so inwardly different."
+    },
+    "Art_Direction": {
+      "Subject_and_Action": "A commentary on the deceptive nature of the base: they look exactly like human beings, a more perfect resemblance than is found in any other part of nature, which makes their inner difference all the more shocking.",
+      "Symbolic_Motifs": "The perfect external identity is the key. The image should be a \"spot the difference\" puzzle where there is no physical difference. The puzzlement of the divine observer communicates the central philosophical problem.",
+      "Mood_and_Emotion": "Deceptive, mysterious, puzzling, identical yet different.",
+      "Lighting_and_Color": "A clear, clinical, almost scientific light illuminates the lineup, as if for biological comparison. The lighting should offer no clues to the inner nature of the human versus the base person.",
+      "Technical_Cues": {
+        "Camera": "A direct, frontal shot of the lineup, forcing the viewer to confront the perfect physical similarity.",
+        "Resolution": "8K, hyper-realistic, with anatomically perfect and identical human/base figures.",
+        "Lighting": "Even, neutral lighting to emphasize the theme of external similarity.",
+        "Art_Genre": "Philosophical realism, with a surreal touch."
+      },
+      "Cultural_Anchors": [
+        "The base are like men (மக்களே போல்வர் கயவர்)",
+        "I have not seen such a resemblance (ஒப்பாரி யாம் கண்டதில்)"
+      ]
+    },
+    "Negative_Prompt": "base person looking monstrous, obvious differences, text artifacts.",
+    "Hyperparameters": {
+      "variant": "dev",
+      "steps": 40,
+      "cfg_scale": 7,
+      "seed": "Focus on making the human and the base person physically indistinguishable."
+    }
+  }
+}

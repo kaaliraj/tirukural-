@@ -1,0 +1,33 @@
+{
+  "Kural_Info": {
+    "Number": 1223,
+    "Chapter": "பொழுதுகண்டிரங்கல் (Lamentations at Eventide)",
+    "Tamil_Text": "பனிஅரும்பிப் பைதல்கொள் மாலை துனிஅரும்பித்துன்பம் வளர வரும்.",
+    "English_Meaning": "With buds of chilly dew wan evening's shade enclose; My anguish buds space and all my sorrow grows."
+  },
+  "Flux_Optimized_Prompt": {
+    "Layered_Composition": {
+      "Foreground": "A suffering woman watches as the evening arrives. The evening dew ('Pani') is visualized as icy, sharp buds forming on the plants around her.",
+      "Midground": "As these icy buds of dew appear, her own aversion to life ('Thuni') and sorrow ('Thunbam') are shown as similar thorny, icy buds sprouting from her own heart.",
+      "Background": "The evening itself is a cold, pale ('Paithalkol') presence, and as it progresses, both the icy dew-buds and the thorny sorrow-buds are shown growing larger and more menacing."
+    },
+    "Art_Direction": {
+      "Subject_and_Action": "The arrival of the cold, dewy evening acts as a catalyst, causing the lover's own inner sorrow and despair to bud and grow in parallel.",
+      "Symbolic_Motifs": "The parallel growth of the external 'buds of dew' and the internal 'buds of sorrow' is the central visual metaphor. The coldness of the evening is reflected in the icy nature of both.",
+      "Mood_and_Emotion": "Cold, growing sorrow, desolate, a sense of pathetic fallacy where nature mirrors her pain.",
+      "Lighting_and_Color": "A cold, pale, and weak light of a chilly evening. The palette is dominated by cold blues, whites, and frosty colors. The 'buds' have a sharp, icy glint."
+    },
+    "Technical_Cues": {
+      "Camera": "A macro-to-wide shot that starts with a close-up on an icy bud of dew, then pulls back to show the woman and the budding sorrow in her heart.",
+      "Resolution": "8K, mystical realism, with beautiful and detailed frost and ice effects.",
+      "Lighting": "Cold, ambient lighting that creates a feeling of chill and desolation.",
+      "Art_Genre": "Symbolic nature realism, where natural details reflect emotional states."
+    },
+    "Cultural_Anchors": [
+      "The evening as a time of sorrow",
+      "Pathetic fallacy (nature mirroring emotion)",
+      "பனி (Dew/Mist)"
+    ]
+  },
+  "Negative_Prompt": "a warm evening, happy woman, blooming flowers, text artifacts, cartoonish."
+}

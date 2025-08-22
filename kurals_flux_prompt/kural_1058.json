@@ -1,0 +1,33 @@
+{
+  "Kural_Info": {
+    "Number": 1058,
+    "Chapter": "இரவு (Mendicancy)",
+    "Tamil_Text": "இரப்பாரை இல்லாயின் ஈர்ங்கண்மா ஞாலம்மரப்பாவை சென்றுவந் தற்று.",
+    "English_Meaning": "If askers cease, the mighty earth, where cooling fountains flow, Will be a stage where wooden puppets come and go."
+  },
+  "Flux_Optimized_Prompt": {
+    "Layered_Composition": {
+      "Foreground": "A beautiful, vibrant world ('Ma Gnaalam') is shown, but it is populated by lifeless wooden puppets ('Marappaavai') instead of people. They are going through the motions of life—trading, farming, talking—but with no real spirit or emotion.",
+      "Midground": "The reason for this lifelessness is made clear: there are no supplicants ('Irappaarai Illaayin'). The conduits for compassion and generosity are absent, so the world has lost its soul.",
+      "Background": "A grand, theatrical stage setting, reinforcing the idea that this is merely a mechanical performance, not genuine life."
+    },
+    "Art_Direction": {
+      "Subject_and_Action": "A world without beggars—and therefore without the opportunity for active compassion and giving—would be a lifeless, mechanical place, like a play performed by puppets.",
+      "Symbolic_Motifs": "The entire world populated by wooden puppets is the central, powerful metaphor. The theatrical stage setting underscores the theme of artificiality.",
+      "Mood_and_Emotion": "Uncanny, hollow, soulless, eerie, a critique of a world without compassion.",
+      "Lighting_and_Color": "Flat, artificial, stage lighting. The colors of the world are vibrant, but the wooden puppets are dull and monochromatic, creating a disturbing contrast."
+    },
+    "Technical_Cues": {
+      "Camera": "Wide, theatrical proscenium shot, as if the viewer is watching a play.",
+      "Resolution": "8K, surreal realism, with hyper-detailed wooden textures for the puppets.",
+      "Lighting": "Harsh, theatrical spotlights that create a sense of performance rather than reality.",
+      "Art_Genre": "Surrealist art, with a strong philosophical statement."
+    },
+    "Cultural_Anchors": [
+      "மரப்பாவை (Wooden Puppet)",
+      "இரப்பார் (Beggars/Supplicants)",
+      "The role of compassion in giving life meaning"
+    ]
+  },
+  "Negative_Prompt": "a world with real people, happy puppets, naturalistic setting, text artifacts, blurry, modern city."
+}

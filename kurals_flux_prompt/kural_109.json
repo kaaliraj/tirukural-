@@ -1,0 +1,39 @@
+{
+  "Kural_Info": {
+    "Number": 109,
+    "Chapter": "செய்ந்நன்றி அறிதல் (Gratitude)",
+    "Tamil_Text": "கொன்றன்ன இன்னா செயினும் அவர்செய்தஒன்றுநன்று உள்ளக் கெடும்.",
+    "English_Meaning": "Though one inflict an injury great as murder, it will perish before the thought of one benefit (formerly) conferred."
+  },
+  "Flux_Optimized_Prompt": {
+    "Layered_Composition": {
+      "Foreground": "A person's heart is visualized as a dark, stormy landscape, overwhelmed by a monstrous, shadowy figure representing a deadly injury ('கொன்றன்ன இன்னா').",
+      "Midground": "The person then brings to mind a single, past good deed done by the offender ('ஒன்று நன்று'). This memory manifests as a small but incredibly brilliant sun.",
+      "Background": "The moment this 'sun' of a single good memory appears, its light instantly and completely vaporizes the huge, monstrous shadow of the deadly injury, restoring the heart's landscape to peace and light."
+    },
+    "Art_Direction": {
+      "Subject_and_Action": "The overwhelming power of remembering a single past good deed to completely annihilate the memory of even the most grievous, death-like injury.",
+      "Symbolic_Motifs": "The scale is intentionally disproportionate: the injury is huge and monstrous, while the good deed is singular and small. However, the power of the good deed's light is absolute, demonstrating its superior qualitative strength.",
+      "Mood_and_Emotion": "Redemptive, powerful gratitude, forgiving, cleansing.",
+      "Lighting_and_Color": "The scene begins dark and shadowy, dominated by the blackness of the monstrous injury. The arrival of the memory-sun introduces a brilliant, cleansing, golden-white light that completely transforms the scene's color palette to one of peace and clarity.",
+      "Technical_Cues": {
+        "Camera": "A dynamic shot within the 'heart-scape', showing the monstrous shadow being instantly destroyed by the light of the good memory.",
+        "Resolution": "8K, hyper-realistic, with dramatic light and shadow effects.",
+        "Lighting": "An explosive change in lighting, from deep shadow to brilliant, purifying radiance.",
+        "Art_Genre": "High-fantasy art, symbolic battle of light and dark."
+      },
+      "Cultural_Anchors": [
+        "A death-like injury (கொன்றன்ன இன்னா)",
+        "A single good deed (ஒன்று நன்று)",
+        "The power of remembrance to destroy pain (உள்ளக் கெடும்)"
+      ]
+    },
+    "Negative_Prompt": "good deed being destroyed, lingering shadow, text artifacts, weak light.",
+    "Hyperparameters": {
+      "variant": "pro",
+      "steps": 55,
+      "cfg_scale": 9,
+      "seed": "Explore the design of the monstrous 'injury' shadow."
+    }
+  }
+}

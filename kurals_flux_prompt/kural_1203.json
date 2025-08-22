@@ -1,0 +1,32 @@
+{
+  "Kural_Info": {
+    "Number": 1203,
+    "Chapter": "நினைந்தவர்புலம்பல் (Sad Memories)",
+    "Tamil_Text": "நினைப்பவர் போன்று நினையார்கொல் தும்மல்சினைப்பது போன்று கெடும்.",
+    "English_Meaning": "I feel as if I am going to sneeze but do not, and (therefore) my beloved is about to think (of me) but does not."
+  },
+  "Flux_Optimized_Prompt": {
+    "Layered_Composition": {
+      "Foreground": "A woman is shown with the distinct expression of someone who is about to sneeze—inhaling, face tensing—but the sneeze never comes. It gets stuck at the very last moment.",
+      "Midground": "This physical sensation is visually linked to her distant lover. A thought bubble is forming above his head, containing her image, but it flickers and fades away just before it can become a solid thought.",
+      "Background": "A poignant, quiet setting that emphasizes the feeling of an incomplete connection and the subtle frustration of a near-miss."
+    },
+    "Art_Direction": {
+      "Subject_and_Action": "A unique analogy where the feeling of an aborted sneeze is compared to the feeling that one's lover is just on the verge of thinking about them, but then fails to do so.",
+      "Symbolic_Motifs": "The almost-sneeze. The fading thought bubble. The visual connection between the two events across a distance.",
+      "Mood_and_Emotion": "Anticipatory, frustrated, poignant, a sense of subtle, almost-connection.",
+      "Lighting_and_Color": "Soft, gentle lighting. The color palette is muted and melancholic, reflecting the mood of longing and slight disappointment."
+    },
+    "Technical_Cues": {
+      "Camera": "A split-screen or double-exposure effect to clearly link the woman's physical sensation with the lover's mental state.",
+      "Resolution": "8K, photorealistic, with a strong focus on capturing the very specific facial expression of an impending sneeze.",
+      "Lighting": "Naturalistic, soft lighting to create an intimate and thoughtful mood.",
+      "Art_Genre": "Symbolic realism with a touch of gentle humor."
+    },
+    "Cultural_Anchors": [
+      "The belief that a sneeze means someone is thinking of you (தும்மல்)",
+      "The subtle nuances of lovers' telepathy"
+    ]
+  },
+  "Negative_Prompt": "a full sneeze, a solid thought bubble, a happy woman, modern technology, text artifacts, cartoonish."
+}

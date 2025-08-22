@@ -1,0 +1,33 @@
+{
+  "Kural_Info": {
+    "Number": 1270,
+    "Chapter": "அவர்வயின்விதும்பல் (Mutual Desire)",
+    "Tamil_Text": "பெறின்என்னாம் பெற்றக்கால் என்னாம் உறினென்னாம்உள்ளம் உடைந்துக்கக் கால்.",
+    "English_Meaning": "What's my return, the meeting hour, the wished-for greeting worth, If she heart-broken lie, with all her life poured forth?."
+  },
+  "Flux_Optimized_Prompt": {
+    "Layered_Composition": {
+      "Foreground": "A man (the lover) is returning home after a long journey. He is carrying gifts and has an expectant look on his face.",
+      "Midground": "However, as he reaches his home, he finds his beloved with a literally broken heart ('Ullam Udainthukka'). Her heart is depicted as a shattered vessel, and her life force is draining away from it.",
+      "Background": "He looks at his own return and the gifts he brought with a sense of utter futility, realizing that his reunion is worthless because he came too late. The scene is filled with his tragic realization."
+    },
+    "Art_Direction": {
+      "Subject_and_Action": "From the perspective of the returning lover: What good is my return? What good is our reunion? What good is our embrace, if, by the time I arrive, her heart has already broken from the sorrow of my absence?",
+      "Symbolic_Motifs": "The shattered vessel of the heart is the central, tragic image. The lover's gifts turning to dust in his hands as he sees her.",
+      "Mood_and_Emotion": "Tragic, futile, heartbreaking, a sense of being too late.",
+      "Lighting_and_Color": "The returning lover is in the warm light of hope, but as he approaches, he enters the cold, gray, shadowy light that surrounds his heartbroken beloved. The contrast marks his tragic discovery."
+    },
+    "Technical_Cues": {
+      "Camera": "A shot from behind the returning lover as he makes the discovery, allowing the viewer to share his shock and sorrow.",
+      "Resolution": "8K, photorealistic, with a strong focus on the tragic emotions and the symbolic broken heart.",
+      "Lighting": "Dramatic, high-contrast lighting that shifts as the tragedy is revealed.",
+      "Art_Genre": "Cinematic tragedy, capturing a moment of devastating realization."
+    },
+    "Cultural_Anchors": [
+      "உள்ளம் உடைதல் (Heartbreak)",
+      "The tragedy of a late return",
+      "The futility of a joy that comes too late"
+    ]
+  },
+  "Negative_Prompt": "a happy reunion, a whole heart, a modern setting, text artifacts, cartoonish, blurry."
+}

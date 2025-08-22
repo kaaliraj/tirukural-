@@ -1,0 +1,39 @@
+{
+  "Kural_Info": {
+    "Number": 50,
+    "Chapter": "இல்வாழ்க்கை (Domestic Life)",
+    "Tamil_Text": "வையத்துள் வாழ்வாங்கு வாழ்பவன் வான்உறையும்தெய்வத்துள் வைக்கப் படும்.",
+    "English_Meaning": "He who on earth has lived in the conjugal state as he should live, will be placed among the Gods who dwell in heaven."
+  },
+  "Flux_Optimized_Prompt": {
+    "Layered_Composition": {
+      "Foreground": "On Earth ('வையத்துள்'), a humble householder is shown living his life perfectly ('வாழ்வாங்கு வாழ்பவன்')—working diligently, honoring his elders, and raising his children with love.",
+      "Midground": "An ethereal, transparent staircase of light begins to form at his feet, ascending directly into the heavens.",
+      "Background": "In the celestial realm ('வான்'), the Gods ('தெய்வம்') are seen looking down with great respect. They are actively preparing a new, luminous seat among their own thrones, explicitly reserving a place for the virtuous householder."
+    },
+    "Art_Direction": {
+      "Subject_and_Action": "The ultimate reward for a householder who lives their life with perfect virtue is not just a place in heaven, but to be esteemed and counted as one of the Gods themselves.",
+      "Symbolic_Motifs": "The staircase is not a reward after death, but is shown forming during his life, indicating that his divine status is earned through his earthly actions. The seat being prepared in heaven is not a generic spot but is equal in stature to those of the other deities.",
+      "Mood_and_Emotion": "Glorious, divine ascension, ultimate respect, deserved honor.",
+      "Lighting_and_Color": "The earthly scene is lit with a beautiful, warm light. The celestial realm is filled with a brilliant, divine radiance. The staircase of light connects these two palettes, blending the gold of the earth with the white-gold of the heavens.",
+      "Technical_Cues": {
+        "Camera": "Epic low-angle shot from earth, looking up the staircase to the heavens, emphasizing the glorious ascent and the honor being bestowed.",
+        "Resolution": "8K, ultra-realistic earthly scene and hyper-detailed, ethereal celestial realm.",
+        "Lighting": "Volumetric god rays, lens flare, radiant light sources to create a scene of divine glory.",
+        "Art_Genre": "Epic mythological painting, fantasy realism."
+      },
+      "Cultural_Anchors": [
+        "Living as one should live (வாழ்வாங்கு வாழ்பவன்)",
+        "Being placed among the Gods (தெய்வத்துள் வைக்கப்படும்)",
+        "The sanctification of the householder's life"
+      ]
+    },
+    "Negative_Prompt": "struggling householder, angry gods, broken staircase, dark heavens, text artifacts, modern setting.",
+    "Hyperparameters": {
+      "variant": "pro",
+      "steps": 55,
+      "cfg_scale": 9,
+      "seed": "Explore designs for the celestial thrones and the new seat."
+    }
+  }
+}

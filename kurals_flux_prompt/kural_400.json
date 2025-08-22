@@ -1,0 +1,39 @@
+{
+  "Kural_Info": {
+    "Number": 400,
+    "Chapter": "கல்வி (Learning)",
+    "Tamil_Text": "கேடில் விழுச்செல்வம் கல்வி யொருவற்கு மாடல்ல மற்றை யவை.",
+    "English_Meaning": "Learning is excellence of wealth that none destroy; To man nought else affords reality of joy."
+  },
+  "Flux_Optimized_Prompt": {
+    "Layered_Composition": {
+      "Foreground": "A person stands at a crossroads. One path leads to a pile of gold, jewels, and crowns ('மற்றையவை') that are actively crumbling into dust and being swept away by the wind.",
+      "Midground": "The other path leads to a single, ancient book that radiates an indestructible, brilliant light. This represents learning ('கல்வி'), the imperishable wealth ('கேடில் விழுச்செல்வம்').",
+      "Background": "The landscape behind the crumbling material wealth is barren and desolate. The landscape behind the glowing book is lush, vibrant, and full of life."
+    },
+    "Art_Direction": {
+      "Subject_and_Action": "A powerful visual statement that learning is the only true, imperishable wealth, while all other forms of material wealth are transient and ultimately worthless.",
+      "Symbolic_Motifs": "The crumbling gold represents perishable wealth ('மாடு'). The indestructible, glowing book symbolizes the eternal wealth of learning. The contrasting landscapes show the ultimate outcome of pursuing each type of wealth.",
+      "Mood_and_Emotion": "Profound, wise, eternal, a clear choice between the transient and the permanent.",
+      "Lighting_and_Color": "The side with material wealth is lit with a harsh, fading light, with dull, earthy colors. The side with the book is bathed in a constant, brilliant, divine golden light, with vibrant greens and blues.",
+      "Technical_Cues": {
+        "Camera": "Wide shot from behind the person, clearly showing the two choices and their ultimate consequences.",
+        "Resolution": "8K, cinematic, with particle effects for the crumbling gold.",
+        "Lighting": "High-contrast, symbolic lighting.",
+        "Art_Genre": "Allegorical fantasy art, digital matte painting."
+      }
+    },
+    "Cultural_Anchors": [
+      "Learning as Imperishable Wealth ('கேடில் விழுச்செல்வம்')",
+      "Transience of Material Wealth ('மாடு')",
+      "The ultimate value of knowledge."
+    ]
+  },
+  "Negative_Prompt": "glowing gold, dark book, person choosing material wealth, text artifacts, blurry, cartoonish.",
+  "Hyperparameters": {
+    "variant": "pro",
+    "steps": 50,
+    "cfg_scale": 8,
+    "seed": "Explore variations for the indestructible glow of the book."
+  }
+}

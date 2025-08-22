@@ -1,0 +1,38 @@
+{
+  "Kural_Info": {
+    "Number": 353,
+    "Chapter": "மெய்யுணர்தல் (Truth-Conciousness)",
+    "Tamil_Text": "ஐயத்தின் நீங்கித் தெளிந்தார்க்கு வையத்தின்வானம் நணிய துடைத்து.",
+    "English_Meaning": "Heaven is nearer than earth to those men of purified minds who are freed from from doubt."
+  },
+  "Flux_Optimized_Prompt": {
+    "Layered_Composition": {
+      "Foreground": "A person is shown achieving a state of mental clarity ('தெளிந்தார்க்கு'). They are shown sweeping away the dark clouds of doubt ('ஐயத்தின் நீங்கி') from their mind.",
+      "Midground": "They are standing on the Earth ('வையத்தின்').",
+      "Background": "Because their mind is now clear and free from the clouds of doubt, the heavens ('வானம்') are shown to be miraculously close to them. The celestial realm is not a distant sky, but is now just a single, easy step away. It is 'nearer' ('நணியது') to them than the very ground they stand on."
+    },
+    "Art_Direction": {
+      "Subject_and_Action": "For the person who has cleared their mind of all doubt, heaven is closer than the earth.",
+      "Symbolic_Motifs": "The clearing of the clouds of doubt is the key action. The miraculous proximity of heaven is the direct result. The nearness is not just a feeling, but a visual reality—it is physically just one step away.",
+      "Mood_and_Emotion": "Clarity, proximity to the divine, certainty, imminent bliss.",
+      "Lighting_and_Color": "The earthly realm is in natural colors. The clouds of doubt are dark and grey. As they are swept away, the brilliant, golden, and incredibly close celestial realm is revealed, and its divine light pours down onto the person.",
+      "Technical_Cues": {
+        "Camera": "A shot that shows the person standing on the earth, with the celestial realm appearing impossibly and beautifully close, just within reach.",
+        "Resolution": "8K, ultra-realistic, with a majestic and detailed depiction of the 'near heaven'.",
+        "Lighting": "The primary light source is the brilliant, nearby heaven.",
+        "Art_Genre": "Fantasy realism, with a surreal perspective."
+      },
+      "Cultural_Anchors": [
+        "For those who are clear, having departed from doubt (ஐயத்தின் நீங்கித் தெளிந்தார்க்கு)",
+        "Heaven is nearer than the Earth (வையத்தின் வானம் நணியது)"
+      ]
+    },
+    "Negative_Prompt": "doubtful person, distant heaven, text artifacts.",
+    "Hyperparameters": {
+      "variant": "pro",
+      "steps": 50,
+      "cfg_scale": 8,
+      "seed": "Explore the visual of an 'impossibly near heaven'."
+    }
+  }
+}

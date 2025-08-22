@@ -1,0 +1,39 @@
+{
+  "Kural_Info": {
+    "Number": 690,
+    "Chapter": "தூது (The Envoy)",
+    "Tamil_Text": "இறுதி பயப்பினும் எஞ்சாது இறைவற்கு உறுதி பயப்பதாம் தூது.",
+    "English_Meaning": "He is the ambassador who fearlessly seeks his sovereign's good though it should cost him his life (to deliver his message)."
+  },
+  "Flux_Optimized_Prompt": {
+    "Layered_Composition": {
+      "Foreground": "An envoy stands alone and defiant before a hostile tyrant. The shadow of a guillotine or an executioner's sword hangs over him, signifying that his message will lead to his own death ('இறுதி பயப்பினும்').",
+      "Midground": "Despite the mortal danger, he does not shrink or alter his message. He speaks the truth without omission ('எஞ்சாது'), seeking only the benefit of his own king ('இறைவற்கு உறுதி பயப்பது').",
+      "Background": "In the distance, a vision of his own kingdom is shown becoming stronger and more secure as a direct result of his final, sacrificial message."
+    },
+    "Art_Direction": {
+      "Subject_and_Action": "The true envoy is one who delivers the message that benefits their king, without omission or alteration, even if it means their own death.",
+      "Symbolic_Motifs": "The shadow of death hanging over the envoy is the key symbol of the ultimate price. His defiant, unwavering stance shows his commitment to duty over life.",
+      "Mood_and_Emotion": "Sacrificial, loyal, fearless, dutiful, heroic.",
+      "Lighting_and_Color": "A stark, dramatic, and grim lighting. A single, heroic spotlight illuminates the envoy, while the tyrant and the threat of death are in deep shadow.",
+      "Technical_Cues": {
+        "Camera": "A low-angle shot that makes the lone envoy appear heroic and defiant in the face of death.",
+        "Resolution": "8K, with a powerful, tragic, and heroic composition.",
+        "Lighting": "High-contrast chiaroscuro.",
+        "Art_Genre": "Epic historical drama."
+      },
+      "Cultural_Anchors": [
+        "Even if it brings death ('இறுதி பயப்பினும்')",
+        "Without omission ('எஞ்சாது')",
+        "Bringing benefit to one's king ('இறைவற்கு உறுதி பயப்பது')"
+      ]
+    },
+    "Negative_Prompt": "scared envoy, envoy changing the message, tyrant looking happy, text artifacts.",
+    "Hyperparameters": {
+      "variant": "pro",
+      "steps": 50,
+      "cfg_scale": 9,
+      "seed": "Explore variations for the shadow of death."
+    }
+  }
+}

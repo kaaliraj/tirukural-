@@ -1,0 +1,39 @@
+{
+  "Kural_Info": {
+    "Number": 160,
+    "Chapter": "பொறையுடைமை (The Possession of Patience, Forbearance)",
+    "Tamil_Text": "உண்ணாது நோற்பார் பெரியர் பிறர்சொல்லும்இன்னாச்சொல் நோற்பாரின் பின்.",
+    "English_Meaning": "Those who endure abstinence from food are great, next to those who endure the uncourteous speech of others."
+  },
+  "Flux_Optimized_Prompt": {
+    "Layered_Composition": {
+      "Foreground": "A person is shown with incredible strength of character, calmly enduring a barrage of cruel, insulting words ('இன்னாச்சொல் நோற்பார்'). They stand on the highest step of a podium.",
+      "Midground": "On the step just below them stands another revered figure, an ascetic who is practicing the great penance of fasting ('உண்ணாது நோற்பார்'). The ascetic is looking up at the person enduring insults with an expression of profound respect.",
+      "Background": "A divine light or heavenly audience observes the scene, confirming the hierarchy of virtue being depicted. The person enduring insults is clearly ranked as superior ('பெரியர்... பின்')."
+    },
+    "Art_Direction": {
+      "Subject_and_Action": "A visual hierarchy of greatness: while those who fast are great, they are secondary in greatness to those who can patiently endure the harsh words of others.",
+      "Symbolic_Motifs": "The podium with its different levels is a direct and clear representation of the moral hierarchy. The ascetic's respectful gaze upwards is crucial in establishing who is considered greater.",
+      "Mood_and_Emotion": "Supreme virtue, hierarchical greatness, profound respect, ultimate endurance.",
+      "Lighting_and_Color": "A brilliant, divine spotlight shines on the person on the top step, marking them as the greatest. A secondary, less intense light shines on the fasting ascetic. The insults are dark, shadowy words that shatter harmlessly at the feet of the forbearing person.",
+      "Technical_Cues": {
+        "Camera": "A low-angle shot that emphasizes the podium and the supreme position of the person who endures harsh words.",
+        "Resolution": "8K, ultra-realistic, with strong focus on the respectful expression of the ascetic.",
+        "Lighting": "Symbolic, hierarchical lighting.",
+        "Art_Genre": "Classical allegorical painting, heroic realism."
+      },
+      "Cultural_Anchors": [
+        "Those who fast (உண்ணாது நோற்பார்)",
+        "Those who endure harsh words (இன்னாச்சொல் நோற்பாரின்)",
+        "The concept of a moral hierarchy ('...in pin' - after them/secondary to them)"
+      ]
+    },
+    "Negative_Prompt": "ascetic looking down, equal steps, person reacting to insults, text artifacts.",
+    "Hyperparameters": {
+      "variant": "pro",
+      "steps": 50,
+      "cfg_scale": 9,
+      "seed": "Explore the composition of the podium and the figures."
+    }
+  }
+}

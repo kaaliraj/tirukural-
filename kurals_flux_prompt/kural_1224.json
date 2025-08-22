@@ -1,0 +1,33 @@
+{
+  "Kural_Info": {
+    "Number": 1224,
+    "Chapter": "பொழுதுகண்டிரங்கல் (Lamentations at Eventide)",
+    "Tamil_Text": "காதலர் இல்வழி மாலை கொலைக்களத்துஏதிலர் போல வரும்.",
+    "English_Meaning": "When absent is my love, the evening hour descends, As when an alien host to field of battle wends."
+  },
+  "Flux_Optimized_Prompt": {
+    "Layered_Composition": {
+      "Foreground": "A lone woman stands in her home, looking out in despair.",
+      "Midground": "The evening ('Maalai') is personified as an army of cruel, faceless strangers ('Ethilar') marching into a battlefield ('Kolaikkalam'). In this case, her home and her heart are the battlefield.",
+      "Background": "The setting sun creates a blood-red sky, and the long shadows of the evening look like advancing enemy soldiers, ready to slaughter her peace and happiness."
+    },
+    "Art_Direction": {
+      "Subject_and_Action": "When the lover is absent, the evening does not come peacefully; it arrives with the menacing and cruel purpose of a stranger entering a place of slaughter.",
+      "Symbolic_Motifs": "Evening personified as a merciless executioner or invading soldier. The home as a battlefield. The sunset as the blood of the coming slaughter.",
+      "Mood_and_Emotion": "Menacing, cruel, terrifying, a sense of impending doom.",
+      "Lighting_and_Color": "A deep, blood-red sunset light that casts long, menacing shadows. The personified Evening is a dark, silhouetted figure of doom."
+    },
+    "Technical_Cues": {
+      "Camera": "A shot from inside the house, looking out, making the viewer feel the invasion of the menacing Evening along with the protagonist.",
+      "Resolution": "8K, dark fantasy realism, with a strong, cinematic sense of dread.",
+      "Lighting": "Dramatic, low-key lighting using the sunset to create a threatening atmosphere.",
+      "Art_Genre": "Symbolic horror, using the time of day as a malevolent force."
+    },
+    "Cultural_Anchors": [
+      "மாலை (Evening)",
+      "கொலைக்களம் (Field of slaughter)",
+      "ஏதிலர் (Strangers/Foes)"
+    ]
+  },
+  "Negative_Prompt": "a peaceful evening, a happy woman, a welcoming visitor, text artifacts, cartoonish."
+}

@@ -1,0 +1,33 @@
+{
+  "Kural_Info": {
+    "Number": 1228,
+    "Chapter": "பொழுதுகண்டிரங்கல் (Lamentations at Eventide)",
+    "Tamil_Text": "அழல்போலும் மாலைக்குத் தூதாகி ஆயன்குழல்போலும் கொல்லும் படை.",
+    "English_Meaning": "The shepherd's pipe is like a murderous weapon, to my ear, For it proclaims the hour of ev'ning's fiery anguish near."
+  },
+  "Flux_Optimized_Prompt": {
+    "Layered_Composition": {
+      "Foreground": "A lone woman is shown reacting in pain, covering her ears.",
+      "Midground": "In the distance, a shepherd ('Aayan') is playing his flute ('Kuzhal'). The sound from the flute is not visualized as gentle music, but as sharp, piercing arrows or a murderous weapon ('Kollum Padai') flying towards her.",
+      "Background": "The evening ('Maalai') is depicted as a great, approaching fire ('Azhal') on the horizon. The shepherd's flute music is the messenger ('Thoothu') that announces the arrival of this fiery torment."
+    },
+    "Art_Direction": {
+      "Subject_and_Action": "For a separated lover, the gentle sound of a shepherd's evening flute is not music, but a painful messenger and a weapon that announces the arrival of the fiery torment of the lonely evening.",
+      "Symbolic_Motifs": "The flute music as a weapon is the central metaphor. The evening as an approaching fire. The shepherd as an unwitting messenger of doom.",
+      "Mood_and_Emotion": "Painful, agonizing, a sense of beautiful things turned into sources of pain.",
+      "Lighting_and_Color": "The scene is lit by the ominous, fiery glow of the approaching evening fire. The flute's 'notes' are sharp and metallic, glinting in the firelight. The palette is dominated by fiery oranges and dark, fearful shadows."
+    },
+    "Technical_Cues": {
+      "Camera": "A shot that connects the shepherd, the weaponized music, and the pained reaction of the woman.",
+      "Resolution": "8K, dark fantasy realism, with a creative visualization of sound as a weapon.",
+      "Lighting": "Dramatic, low-key lighting from the 'fire' of evening.",
+      "Art_Genre": "Symbolic realism with a dark, romantic twist."
+    },
+    "Cultural_Anchors": [
+      "ஆயன் குழல் (The shepherd's flute - a classic poetic symbol)",
+      "The torment of evening (மாலை நோய்)",
+      "Synesthesia (sound experienced as physical pain)"
+    ]
+  },
+  "Negative_Prompt": "gentle music, a happy woman, a peaceful evening, modern instruments, text artifacts, cartoonish."
+}

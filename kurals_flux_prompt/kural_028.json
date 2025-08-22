@@ -1,0 +1,39 @@
+{
+  "Kural_Info": {
+    "Number": 28,
+    "Chapter": "நீத்தார் பெருமை (The Greatness of Ascetics)",
+    "Tamil_Text": "நிறைமொழி மாந்தர் பெருமை நிலத்துமறைமொழி காட்டி விடும்.",
+    "English_Meaning": "The hidden words of the men whose words are full of effect, will show their greatness to the world."
+  },
+  "Flux_Optimized_Prompt": {
+    "Layered_Composition": {
+      "Foreground": "A powerful sage ('நிறைமொழி மாந்தர்') utters a single, soft-spoken word.",
+      "Midground": "From the sage's lips, the word manifests not as sound, but as a cascade of glowing, golden Tamil letters ('மறைமொழி'). As these letters touch the barren ground, they instantly cause miraculous events: a dead tree bursts into full bloom, a dry spring begins to flow with pure water, and sick people are healed.",
+      "Background": "A crowd of people look on in absolute awe and reverence, witnessing the tangible power and greatness ('பெருமை') of the sage's potent words."
+    },
+    "Art_Direction": {
+      "Subject_and_Action": "The immense, world-altering power of the words spoken by a sage whose speech is filled with spiritual potency.",
+      "Symbolic_Motifs": "The words are not just sounds but have tangible, creative force. The contrast between the sage's calm demeanor and the powerful miracles his words create is central. The miracles are not grand explosions, but acts of healing and restoration, reflecting the nature of true spiritual power.",
+      "Mood_and_Emotion": "Miraculous, potent, awe-inspiring, creative power of sound.",
+      "Lighting_and_Color": "A divine, golden light emanates from the spoken letters, casting a warm, life-giving glow on the scene. The barren landscape is transformed with vibrant colors where the words touch it."
+    },
+    "Technical_Cues": {
+      "Camera": "Medium wide shot, capturing the sage, the manifestation of their words, and the reaction of the witnesses.",
+      "Resolution": "8K, ultra-realistic, with special particle and light effects for the magical letters.",
+      "Lighting": "The primary light source is the glowing 'secret word', creating a dramatic and divine effect.",
+      "Art_Genre": "High fantasy art, mystical realism."
+    },
+    "Cultural_Anchors": [
+      "Nirai Mozhi Maanthar (நிறைமொழி மாந்தர்) - Men of potent words",
+      "Marai Mozhi (மறைமொழி) - The hidden/secret/powerful word",
+      "The concept of words having creative, miraculous power (vak-siddhi)"
+    ]
+  },
+  "Negative_Prompt": "shouting sage, destructive magic, dark spells, text artifacts, unimpressed crowd, modern setting, deformed letters.",
+  "Hyperparameters": {
+    "variant": "pro",
+    "steps": 50,
+    "cfg_scale": 9,
+    "seed": "Explore different miraculous effects of the potent words."
+  }
+}

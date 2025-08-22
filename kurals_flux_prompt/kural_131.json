@@ -1,0 +1,39 @@
+{
+  "Kural_Info": {
+    "Number": 131,
+    "Chapter": "ஒழுக்கமுடைமை (The Possession of Decorum)",
+    "Tamil_Text": "ஒழுக்கம் விழுப்பந் தரலான் ஒழுக்கம்உயிரினும் ஓம்பப் படும்.",
+    "English_Meaning": "Propriety of conduct leads to eminence, it should therefore be preserved more carefully than life."
+  },
+  "Flux_Optimized_Prompt": {
+    "Layered_Composition": {
+      "Foreground": "A person is shown walking a high, narrow, but very prestigious path, representing a life of 'eminence' or 'excellence' ('விழுப்பம்').",
+      "Midground": "The path itself is made of a pure, glowing substance labeled 'Decorum' ('ஒழுக்கம்'). This shows that decorum is the very foundation that gives excellence.",
+      "Background": "The person is shown guarding the path of decorum with more care than they guard their own life. They are holding a shield to protect the path, while their own body ('உயிர்') is secondary and exposed. This shows that decorum is to be 'guarded more than life' ('உயிரினும் ஓம்பப்படும்')."
+    },
+    "Art_Direction": {
+      "Subject_and_Action": "Decorum is the foundation of all excellence in life and should therefore be guarded even more preciously than one's own life.",
+      "Symbolic_Motifs": "The path of excellence made of decorum is the central metaphor. The act of shielding the path rather than oneself is a powerful visual representation of the Kural's value judgment.",
+      "Mood_and_Emotion": "Principled, honorable, dignified, precious.",
+      "Lighting_and_Color": "The path of decorum glows with a brilliant, pure, white light. The person walking it is illuminated by this light, signifying that their excellence comes from it. The palette is clean, noble, and pure.",
+      "Technical_Cues": {
+        "Camera": "A shot that emphasizes the precious and foundational nature of the path, and the person's intense dedication to guarding it.",
+        "Resolution": "8K, ultra-realistic, with a focus on the glowing, pristine texture of the 'path of decorum'.",
+        "Lighting": "The path itself is the primary, radiant light source.",
+        "Art_Genre": "Symbolic realism, with fantasy elements."
+      },
+      "Cultural_Anchors": [
+        "Decorum (ஒழுக்கம்)",
+        "Gives excellence (விழுப்பம் தரலான்)",
+        "To be guarded more than life (உயிரினும் ஓம்பப்படும்)"
+      ]
+    },
+    "Negative_Prompt": "person destroying the path, text artifacts, dark path.",
+    "Hyperparameters": {
+      "variant": "pro",
+      "steps": 50,
+      "cfg_scale": 8,
+      "seed": "Explore the visual of 'shielding the path instead of oneself'."
+    }
+  }
+}

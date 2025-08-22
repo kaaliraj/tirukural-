@@ -1,0 +1,39 @@
+{
+  "Kural_Info": {
+    "Number": 171,
+    "Chapter": "வெஃகாமை (Not Coveting)",
+    "Tamil_Text": "నடுவின்றி నன்பொருள் வெஃகின் குடிபொன்றிக்குற்றமும் ஆங்கே தரும்.",
+    "English_Meaning": "If a man departing from equity covet the property (of others), at that very time will his family be destroyed and guilt be incurred."
+  },
+  "Flux_Optimized_Prompt": {
+    "Layered_Composition": {
+      "Foreground": "A man is shown committing an act of unjust covetousness ('நடுவின்றி நன்பொருள் வெஃகின்'). He is greedily reaching for another's property.",
+      "Midground": "The very instant he commits this act ('ஆங்கே'), a dual curse is unleashed upon him.",
+      "Background": "The first part of the curse is the destruction of his family: his family home in the background is shown instantly catching fire and crumbling into ruin ('குடி பொன்றி'). The second part is the incurring of guilt: a heavy, dark, spectral yoke of Guilt ('குற்றம்') materializes and slams down onto his shoulders, branding him."
+    },
+    "Art_Direction": {
+      "Subject_and_Action": "The act of unjustly coveting wealth brings about an immediate, twofold catastrophe: the destruction of one's family and the simultaneous incurring of personal guilt.",
+      "Symbolic_Motifs": "The immediacy of the consequences is key ('ஆங்கே'). The crumbling house and the spectral yoke are the two distinct punishments that happen at the same time. The man is crushed by both external and internal ruin.",
+      "Mood_and_Emotion": "Instantaneous ruin, catastrophic, cursed, double punishment.",
+      "Lighting_and_Color": "The scene is lit by the sudden, destructive orange flames of the burning house. The yoke of guilt is a dark, oppressive shadow that falls over the man.",
+      "Technical_Cues": {
+        "Camera": "A dynamic shot that captures the man's greedy act and the immediate, simultaneous eruption of the two curses.",
+        "Resolution": "8K, ultra-realistic, with advanced fire and particle effects for the destruction, and ethereal effects for the yoke of guilt.",
+        "Lighting": "Sudden, violent, and destructive lighting.",
+        "Art_Genre": "Dark fantasy, allegorical horror."
+      },
+      "Cultural_Anchors": [
+        "Coveting good things without equity (நடுவின்றி நன்பொருள் வெஃகின்)",
+        "His family will perish (குடி பொன்றி)",
+        "And guilt will come (குற்றமும் தரும்)"
+      ]
+    },
+    "Negative_Prompt": "man getting away with it, happy family, text artifacts.",
+    "Hyperparameters": {
+      "variant": "pro",
+      "steps": 55,
+      "cfg_scale": 9,
+      "seed": "Explore the design of the 'spectral yoke of Guilt'."
+    }
+  }
+}

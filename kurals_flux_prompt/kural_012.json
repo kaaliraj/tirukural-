@@ -1,0 +1,39 @@
+{
+  "Kural_Info": {
+    "Number": 12,
+    "Chapter": "வான்சிறப்பு (The Blessing of Rain)",
+    "Tamil_Text": "துப்பார்க்குத் துப்பாய துப்பாக்கித் துப்பார்க்குத்துப்பாய தூஉம் மழை.",
+    "English_Meaning": "Rain produces good food, and is itself food."
+  },
+  "Flux_Optimized_Prompt": {
+    "Layered_Composition": {
+      "Foreground": "A humble farmer, with a grateful expression, drinks pure rainwater cupped in his hands, quenching his thirst directly.",
+      "Midground": "Behind him, the same rain is falling on his fields, causing lush, healthy crops (representing 'good food') to visibly spring forth from the earth.",
+      "Background": "A gentle, life-giving sky with soft, nurturing clouds. The overall scene is one of direct and indirect sustenance from the same source."
+    },
+    "Art_Direction": {
+      "Subject_and_Action": "The dual nature of rain: directly as a life-quenching drink and indirectly as the creator of all food.",
+      "Symbolic_Motifs": "A visual dichotomy: on one side, the raw, direct consumption of rain; on the other, the processed result of rain (crops). The rain itself has a clean, almost edible appearance.",
+      "Mood_and_Emotion": "Nurturing, fundamental, satisfying, cyclical.",
+      "Lighting_and_Color": "Soft, natural lighting. The color palette emphasizes the connection between the clear blue-white of the rain, the vibrant green of the crops, and the healthy, earthy tones of the farmer and his land."
+    },
+    "Technical_Cues": {
+      "Camera": "Medium shot, eye-level, shot on a 50mm lens to create a personal, intimate feel.",
+      "Resolution": "8K, ultra-realistic, with fine details on the water droplets and the texture of the crops.",
+      "Lighting": "Soft, diffused lighting as if from an overcast, rainy day, creating gentle highlights and shadows.",
+      "Art_Genre": "Photorealistic digital painting, in the style of pastoral realism."
+    },
+    "Cultural_Anchors": [
+      "Rain as a direct food/drink source (துப்பாய தூஉம் மழை)",
+      "Rain as the creator of food (துப்பார்க்குத் துப்பாய)",
+      "The agrarian foundation of Tamil culture"
+    ]
+  },
+  "Negative_Prompt": "drought, flood, starving farmer, rotten crops, stormy sky, non-Tamil physiognomy, deformed hands, text artifacts.",
+  "Hyperparameters": {
+    "variant": "dev",
+    "steps": 40,
+    "cfg_scale": 8,
+    "seed": "Explore variations for the farmer's expression of gratitude."
+  }
+}

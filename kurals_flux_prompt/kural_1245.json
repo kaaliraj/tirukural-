@@ -1,0 +1,33 @@
+{
+  "Kural_Info": {
+    "Number": 1245,
+    "Chapter": "நெஞ்சொடுகிளத்தல் (Soliloquy)",
+    "Tamil_Text": "செற்றார் எனக்கை விடல்உண்டோ நெஞ்சேயாம்உற்றால் உறாஅ தவர்.",
+    "English_Meaning": "O heart, as a foe, can I abandon utterly Him who, though I long for him, longs not for me?."
+  },
+  "Flux_Optimized_Prompt": {
+    "Layered_Composition": {
+      "Foreground": "A woman is shown in a state of internal conflict. She is trying to push away a persistent, ghostly image of her unloving partner, treating him as an enemy ('Settrar').",
+      "Midground": "However, her own heart ('Nenje') is working against her. It is depicted as having its own hands, which are gently but firmly pulling the ghostly image of the lover back towards her.",
+      "Background": "A stark, simple background that represents her internal mental space, focusing the viewer entirely on this tug-of-war between her rational desire to forget and her heart's refusal to let go."
+    },
+    "Art_Direction": {
+      "Subject_and_Action": "A lover's struggle with her own heart: she knows she should treat her unloving partner as an enemy and forget him, but her heart refuses to abandon him.",
+      "Symbolic_Motifs": "The internal tug-of-war between the woman's will and her heart's desire is the central action. The lover as a persistent ghost symbolizes his unshakable presence in her mind.",
+      "Mood_and_Emotion": "Conflicted, powerless against one's own feelings, sorrowful, a sense of internal division.",
+      "Lighting_and_Color": "A single, dramatic light source illuminates the struggle. The colors are muted, reflecting the somber and introspective nature of the conflict."
+    },
+    "Technical_Cues": {
+      "Camera": "Medium close-up to capture the woman's pained and conflicted expression as she battles her own heart.",
+      "Resolution": "8K, photorealistic with ethereal, ghostly effects for the lover's image.",
+      "Lighting": "Chiaroscuro lighting to create a dramatic, psychological atmosphere.",
+      "Art_Genre": "Psychological surrealism."
+    },
+    "Cultural_Anchors": [
+      "The heart having a will of its own",
+      "The inability to treat a loved one as a foe",
+      "Unrequited love"
+    ]
+  },
+  "Negative_Prompt": "a happy couple, the woman successfully pushing him away, a modern setting, text artifacts, blurry."
+}

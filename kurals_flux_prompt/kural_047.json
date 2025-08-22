@@ -1,0 +1,39 @@
+{
+  "Kural_Info": {
+    "Number": 47,
+    "Chapter": "இல்வாழ்க்கை (Domestic Life)",
+    "Tamil_Text": "இயல்பினான் இல்வாழ்க்கை வாழ்பவன் என்பான்முயல்வாருள் எல்லாம் தலை.",
+    "English_Meaning": "Among all those who labour (for future happiness) he is greatest who lives well in the household state."
+  },
+  "Flux_Optimized_Prompt": {
+    "Layered_Composition": {
+      "Foreground": "A householder stands on a slightly elevated, sunlit platform, living his life with natural grace ('இயல்பினான்'). He is surrounded by his family, engaged in simple, harmonious activities.",
+      "Midground": "On lower ground surrounding him are other 'strivers' ('முயல்வார்'): a scholar intensely studying, an ascetic performing harsh penance, a king managing his realm. They are all shown exerting great effort.",
+      "Background": "A vast landscape under a clear sky. A beam of divine light shines down from the heavens, singling out and illuminating the householder, signifying his preeminent status ('தலை')."
+    },
+    "Art_Direction": {
+      "Subject_and_Action": "The householder who lives his domestic life according to its natural virtue is declared the foremost among all who strive for greatness or salvation.",
+      "Symbolic_Motifs": "The householder's actions are effortless and graceful, contrasting with the visible strain and effort of the others. The divine light is a clear visual anointment, confirming his superior status.",
+      "Mood_and_Emotion": "Supreme, preeminent, naturally virtuous, effortlessly superior.",
+      "Lighting_and_Color": "A powerful, divine golden beam of light acts as a celestial spotlight on the householder. The others are lit by normal, less intense daylight. The householder's scene is vibrant and full of life.",
+      "Technical_Cues": {
+        "Camera": "Slightly high-angle shot looking down, centered on the householder, reinforcing the divine perspective and his elevated status.",
+        "Resolution": "8K, ultra-realistic, with detailed expressions showing the householder's serenity versus the others' effort.",
+        "Lighting": "Strong volumetric god rays, creating a dramatic and divine focus.",
+        "Art_Genre": "Epic historical painting, with divine/mystical elements."
+      },
+      "Cultural_Anchors": [
+        "Iyalpinan Ilvaazhkkai (இயல்பினான் இல்வாழ்க்கை) - The natural domestic life",
+        "Muyalvaar (முயல்வார்) - The Strivers",
+        "Thalai (தலை) - Head, chief, foremost"
+      ]
+    },
+    "Negative_Prompt": "struggling householder, superior ascetic/king, dark scene, no divine light, text artifacts.",
+    "Hyperparameters": {
+      "variant": "pro",
+      "steps": 50,
+      "cfg_scale": 9,
+      "seed": "Explore the composition of the surrounding 'strivers'."
+    }
+  }
+}

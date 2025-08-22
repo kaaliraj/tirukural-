@@ -1,0 +1,38 @@
+{
+  "Kural_Info": {
+    "Number": 348,
+    "Chapter": "துறவு (Renunciation)",
+    "Tamil_Text": "தலைப்பட்டார் தீரத் துறந்தார் மயங்கிவலைப்பட்டார் மற்றை யவர்.",
+    "English_Meaning": "Those who have entirely renounced (all things and all desire) have obtained (absorption into God); all others wander in confusion, entangled in the net of (many) births."
+  },
+  "Flux_Optimized_Prompt": {
+    "Layered_Composition": {
+      "Foreground": "A split composition.",
+      "Midground": "On the right, those who have 'completely renounced' ('தீரத் துறந்தார்'). They are shown as luminous beings of pure light, having completely transcended their physical forms and being absorbed into a great, divine, cosmic light, the ultimate state ('தலைப்பட்டார்').",
+      "Background": "On the left, 'all others' ('மற்றையவர்'). They are shown as confused, stumbling figures ('மயங்கி'), hopelessly entangled in a vast, dark, spectral net representing the cycle of rebirths ('வலைப்பட்டார்')."
+    },
+    "Art_Direction": {
+      "Subject_and_Action": "A stark contrast between the two possible destinies: total renunciation leads to absorption into the ultimate state, while anything less leads to being trapped and confused in the net of rebirth.",
+      "Symbolic_Motifs": "The absorption into the cosmic light versus the entanglement in the dark net is the central visual dichotomy. One is a state of ultimate freedom, the other of ultimate bondage.",
+      "Mood_and_Emotion": "Liberation vs. bondage, enlightenment vs. confusion, absolute.",
+      "Lighting_and_Color": "The right side is a realm of pure, brilliant, white-gold light of liberation. The left side is a dark, chaotic, and terrifying scene, with the spectral net glowing with a cold, imprisoning blue light.",
+      "Technical_Cues": {
+        "Camera": "An epic, cosmic diptych that shows the two ultimate and opposing fates of the soul.",
+        "Resolution": "8K, hyper-realistic, with advanced ethereal light effects and spectral net effects.",
+        "Lighting": "Extreme high-contrast lighting to represent the two final states.",
+        "Art_Genre": "Cosmic art, with a strong spiritual and mythological theme."
+      },
+      "Cultural_Anchors": [
+        "Those who have completely renounced have attained the head (தலைப்பட்டார் தீரத் துறந்தார்)",
+        "All others are confused and caught in the net (மயங்கி வலைப்பட்டார் மற்றையவர்)"
+      ]
+    },
+    "Negative_Prompt": "happy people in the net, text artifacts, sad enlightened beings.",
+    "Hyperparameters": {
+      "variant": "pro",
+      "steps": 60,
+      "cfg_scale": 10,
+      "seed": "Explore the visual of 'absorption into the cosmic light'."
+    }
+  }
+}

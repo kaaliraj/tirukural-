@@ -1,0 +1,39 @@
+{
+  "Kural_Info": {
+    "Number": 596,
+    "Chapter": "ஊக்கமுடைமை (Energy)",
+    "Tamil_Text": "உள்ளுவ தெல்லாம் உயர்வுள்ளல் மற்றது தள்ளினுந் தள்ளாமை நீர்த்து.",
+    "English_Meaning": "In all that a man thinks of, let him think of greatness; and if it should be thrust from him (by fate), it will have the nature of not being thrust from him."
+  },
+  "Flux_Optimized_Prompt": {
+    "Layered_Composition": {
+      "Foreground": "A person is shown aiming an arrow not at a normal target, but at a star in the high heavens, symbolizing the act of aiming for the greatest possible goal ('உள்ளுவதெல்லாம் உயர்வுள்ளல்').",
+      "Midground": "Even if fate, represented by a cosmic wind ('தள்ளினும்'), pushes the arrow slightly off course so it doesn't hit the star, the arrow still flies incredibly high, far above all the lower, mundane targets.",
+      "Background": "The act of aiming high ensures that even in 'failure', the achievement is still of a high nature ('தள்ளாமை நீர்த்து'). The arrow lands on a high mountain peak, not in the valley below."
+    },
+    "Art_Direction": {
+      "Subject_and_Action": "Always aim for the highest goal. Even if fate makes you fall short, the failure will still be of a noble and high standard.",
+      "Symbolic_Motifs": "Aiming at a star is the metaphor for thinking of greatness. The arrow landing on a high mountain peak instead of the valley floor, despite being blown off course, shows the noble nature of 'failure' when aiming high.",
+      "Mood_and_Emotion": "Ambitious, noble, aspiring, resilient even in failure.",
+      "Lighting_and_Color": "A majestic, cosmic night scene. The stars and the archer's arrow trail glow with a brilliant, hopeful light. The colors are deep and inspiring.",
+      "Technical_Cues": {
+        "Camera": "A low-angle shot, following the arrow's high trajectory across the sky.",
+        "Resolution": "8K, cinematic, with beautiful cosmic visuals.",
+        "Lighting": "The primary light comes from the stars and the moon, creating a magical atmosphere.",
+        "Art_Genre": "High-fantasy, motivational art."
+      }
+    },
+    "Cultural_Anchors": [
+      "Thinking of Greatness ('உயர்வுள்ளல்')",
+      "Noble failure ('தள்ளினும் தள்ளாமை நீர்த்து')",
+      "The importance of high ambition."
+    ]
+  },
+  "Negative_Prompt": "person aiming low, arrow falling to the ground, text artifacts, cartoonish.",
+  "Hyperparameters": {
+    "variant": "pro",
+    "steps": 50,
+    "cfg_scale": 8,
+    "seed": "Explore variations for the cosmic wind effect."
+  }
+}

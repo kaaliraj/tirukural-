@@ -1,0 +1,39 @@
+{
+  "Kural_Info": {
+    "Number": 606,
+    "Chapter": "மடியின்மை (Unsluggishness)",
+    "Tamil_Text": "படியுடையார் பற்றமைந்தக் கண்ணும் மடியுடையார் மாண்பயன் எய்தல் அரிது.",
+    "English_Meaning": "It is a rare thing for the idle, even when possessed of the riches of kings who ruled over the whole earth, to derive any great benefit from it."
+  },
+  "Flux_Optimized_Prompt": {
+    "Layered_Composition": {
+      "Foreground": "An idle and lazy person ('மடியுடையார்') is shown sitting on a massive throne made of the entire world globe, signifying they possess the wealth of the whole earth ('படியுடையார் பற்று').",
+      "Midground": "Despite owning everything, their laziness prevents them from acting. A magnificent, glowing fruit representing great achievement or benefit ('மாண்பயன்') hangs on a branch just above their head, easily within reach.",
+      "Background": "The idle person, however, cannot be bothered to even lift their hand to pluck the fruit. It remains forever unattained ('எய்தல் அரிது'), and may even begin to wither, showing the futility of their ownership."
+    },
+    "Art_Direction": {
+      "Subject_and_Action": "Even if an idle person owns the entire world, their laziness will prevent them from achieving any great benefit from it.",
+      "Symbolic_Motifs": "The throne made of the world represents ultimate ownership. The easily reachable but unplucked fruit represents the great benefit that their laziness makes unattainable.",
+      "Mood_and_Emotion": "Futile, lazy, pathetic, a story of wasted potential.",
+      "Lighting_and_Color": "The throne and the world are richly detailed. The fruit glows with a tantalizing, beautiful light. The idle person is cast in a dull, listless light.",
+      "Technical_Cues": {
+        "Camera": "A medium shot that captures the idle person, the throne, and the tantalizingly close fruit.",
+        "Resolution": "8K, with rich textures and a glowing effect for the fruit.",
+        "Lighting": "The glowing fruit is the most attractive light source, highlighting what is being missed.",
+        "Art_Genre": "Symbolic realism, allegorical art."
+      },
+      "Cultural_Anchors": [
+        "The Idle ('மடியுடையார்')",
+        "Possessing the World's Wealth ('படியுடையார் பற்று')",
+        "Failing to attain Great Benefit ('மாண்பயன் எய்தல் அரிது')"
+      ]
+    },
+    "Negative_Prompt": "person grabbing the fruit, energetic person, text artifacts, cartoonish.",
+    "Hyperparameters": {
+      "variant": "dev",
+      "steps": 40,
+      "cfg_scale": 8,
+      "seed": "Explore variations for the glowing fruit of achievement."
+    }
+  }
+}

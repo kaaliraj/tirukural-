@@ -1,0 +1,39 @@
+{
+  "Kural_Info": {
+    "Number": 858,
+    "Chapter": "இகல் (Hostility)",
+    "Tamil_Text": "இகலிற்கு எதிர்சாய்தல் ஆக்கம் அதனை மிகலூக்கின் ஊக்குமாம் கேடு.",
+    "English_Meaning": "'Tis gain to turn the soul from enmity; Ruin reigns where this hath mastery."
+  },
+  "Flux_Optimized_Prompt": {
+    "Layered_Composition": {
+      "Foreground": "A split composition showing two choices. On the left, a person is confronted by a dark cloud of hostility. They choose to yield and step away from it ('எதிர்சாய்தல்'). As they do, a path of prosperity and wealth opens up before them ('ஆக்கம்').",
+      "Midground": "On the right, the same person is confronted by the same cloud of hostility. This time, they choose to feed it and make it stronger, engaging with it eagerly ('மிகலூக்கின்').",
+      "Background": "As they feed the hostility, it grows into a monstrous storm of destruction that consumes them and everything around them ('ஊக்குமாம் கேடு')."
+    },
+    "Art_Direction": {
+      "Subject_and_Action": "Yielding to hostility brings prosperity. Encouraging hostility brings destruction.",
+      "Symbolic_Motifs": "The two paths and their starkly different outcomes are the core of the image. The cloud of hostility that either dissipates or grows into a destructive storm based on the person's choice is the key visual.",
+      "Mood_and_Emotion": "A clear choice, consequential, contrasting prosperity and ruin.",
+      "Lighting_and_Color": "The left 'yielding' path is bright and golden. The right 'engaging' path becomes dark, stormy, and full of destructive energy.",
+      "Technical_Cues": {
+        "Camera": "A balanced, diptych-style shot that clearly shows the two choices and their inevitable consequences.",
+        "Resolution": "8K, cinematic.",
+        "Lighting": "High-contrast, split lighting.",
+        "Art_Genre": "Allegorical art."
+      },
+      "Cultural_Anchors": [
+        "Yielding to hostility brings prosperity ('எதிர்சாய்தல் ஆக்கம்')",
+        "Encouraging it brings ruin ('மிகலூக்கின் கேடு')",
+        "The choice between peace and conflict."
+      ]
+    },
+    "Negative_Prompt": "yielding leading to ruin, encouraging hostility leading to prosperity, text artifacts.",
+    "Hyperparameters": {
+      "variant": "pro",
+      "steps": 50,
+      "cfg_scale": 8,
+      "seed": "Explore variations for the storm of destruction."
+    }
+  }
+}

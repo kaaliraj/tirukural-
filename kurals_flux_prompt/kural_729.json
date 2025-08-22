@@ -1,0 +1,39 @@
+{
+  "Kural_Info": {
+    "Number": 729,
+    "Chapter": "அவையஞ்சாமை (Not to dread the Council)",
+    "Tamil_Text": "கல்லா தவரின் கடையென்ப கற்றறிந்தும் நல்லா ரவையஞ்சு வார்.",
+    "English_Meaning": "They who, though they have learned and understood, are yet afraid of the assembly of the good, are said to be inferior (even) to the illiterate."
+  },
+  "Flux_Optimized_Prompt": {
+    "Layered_Composition": {
+      "Foreground": "A symbolic ranking is shown. At the very bottom, in the lowest position, stands a scholar who is filled with knowledge (glowing mind) but is cowering in fear before a wise assembly ('கற்றறிந்தும் நல்லாரவை அஞ்சுவார்').",
+      "Midground": "On a step above this fearful scholar stands an unlearned person ('கல்லாதவர்'). The unlearned person is not as bright, but they are not cowering in fear, giving them a slightly higher, though still low, status.",
+      "Background": "The assembly of the good ('நல்லாரவை') is depicted as a source of bright, intellectual light, which the fearful scholar is unable to face, thus proving their inferior status."
+    },
+    "Art_Direction": {
+      "Subject_and_Action": "Those who have learned but fear to speak in a good assembly are considered even lower and more base than the unlearned.",
+      "Symbolic_Motifs": "The literal ranking on a set of steps, with the fearful scholar at the very bottom, is the central visual. This inversion of the expected hierarchy (learned above unlearned) makes the Kural's point powerfully.",
+      "Mood_and_Emotion": "Shameful, cowardly, ironic, a judgment of worth.",
+      "Lighting_and_Color": "The assembly is the source of a bright, intimidating light. The fearful scholar is shown in a state of pathetic shadow, despite their inner knowledge.",
+      "Technical_Cues": {
+        "Camera": "A wide shot that clearly shows the hierarchical positions of the two figures in relation to the assembly.",
+        "Resolution": "8K, with strong, symbolic composition.",
+        "Lighting": "High-contrast lighting to emphasize the fear and the judgment.",
+        "Art_Genre": "Allegorical realism."
+      }
+    },
+    "Cultural_Anchors": [
+      "The learned who fear the assembly ('கற்றறிந்தும் நல்லாரவை அஞ்சுவார்')",
+      "Worse than the unlearned ('கல்லாதவரின் கடை')",
+      "The primacy of intellectual courage."
+    ]
+  },
+  "Negative_Prompt": "scholar standing tall, unlearned person at the bottom, text artifacts.",
+  "Hyperparameters": {
+    "variant": "dev",
+    "steps": 40,
+    "cfg_scale": 9,
+    "seed": "Explore variations for the poses of the two figures."
+  }
+}

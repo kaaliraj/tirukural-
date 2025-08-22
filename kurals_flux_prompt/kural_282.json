@@ -1,0 +1,38 @@
+{
+  "Kural_Info": {
+    "Number": 282,
+    "Chapter": "கள்ளாமை (The Absence of Fraud)",
+    "Tamil_Text": "உள்ளத்தால் உள்ளலும் தீதே பிறன்பொருளைக்கள்ளத்தால் கள்வேம் எனல்.",
+    "English_Meaning": "Even the thought (of sin) is sin; think not then of craftily stealing the property of another."
+  },
+  "Flux_Optimized_Prompt": {
+    "Layered_Composition": {
+      "Foreground": "A person is shown simply thinking. Their mind is visualized as a clear, calm pool of water.",
+      "Midground": "A single thought forms in their mind: 'Let me steal that person's wealth' ('பிறன் பொருளைக் கள்வேம்'). The moment this thought appears, it manifests as a drop of black, poisonous ink.",
+      "Background": "The single drop of ink touches the surface of the clear pool of the mind and instantly corrupts the entire pool, turning it dark, murky, and foul. This shows that the thought itself ('உள்ளலும் தீதே') is the evil, not just the subsequent action."
+    },
+    "Art_Direction": {
+      "Subject_and_Action": "The very act of thinking about committing fraud is as evil as the deed itself, instantly corrupting the purity of the mind.",
+      "Symbolic_Motifs": "The mind as a clear pool and the evil thought as a drop of poison is a powerful and immediate metaphor. The instant and total corruption of the pool emphasizes that the thought itself is the sin.",
+      "Mood_and_Emotion": "Corrupting, insidious, cautionary, profound.",
+      "Lighting_and_Color": "The scene begins with the pure, bright clarity of the clear pool. The introduction of the single black drop causes a dramatic and instant shift to a dark, polluted, and ugly color palette.",
+      "Technical_Cues": {
+        "Camera": "A close-up, top-down shot of the symbolic pool of the mind, allowing the viewer to witness the act of corruption in a clear and dramatic way.",
+        "Resolution": "8K, hyper-realistic, with advanced liquid simulation for the corruption of the water.",
+        "Lighting": "A dramatic shift from bright and clear to dark and murky.",
+        "Art_Genre": "Symbolic conceptual art, surrealism."
+      },
+      "Cultural_Anchors": [
+        "Thinking it is evil (உள்ளலும் தீதே)",
+        "Stealing another's property by fraud (பிறன் பொருளைக் கள்ளத்தால் கள்வேம்)"
+      ]
+    },
+    "Negative_Prompt": "pool remaining clear, person acting on the thought, text artifacts, cartoonish ink drop.",
+    "Hyperparameters": {
+      "variant": "pro",
+      "steps": 50,
+      "cfg_scale": 9,
+      "seed": "Explore the visual effect of the ink corrupting the water."
+    }
+  }
+}

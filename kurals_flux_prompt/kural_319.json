@@ -1,0 +1,38 @@
+{
+  "Kural_Info": {
+    "Number": 319,
+    "Chapter": "இன்னாசெய்யாமை (Not doing Evil)",
+    "Tamil_Text": "பிறர்க்கின்னா முற்பகல் செய்யின் தமக்குஇன்னாபிற்பகல் தாமே வரும்.",
+    "English_Meaning": "If a man inflict sorrow upon others in the morning, it will come upon him unsought in the very evening."
+  },
+  "Flux_Optimized_Prompt": {
+    "Layered_Composition": {
+      "Foreground": "A split composition showing the same landscape at two different times of day.",
+      "Midground": "On the left, in the morning ('முற்பகல்'), a person is shown inflicting harm or sorrow ('இன்னா') upon another. This act sends a dark, boomerang-like shadow into the sky.",
+      "Background": "On the right, in the evening of the same day ('பிற்பகல்'), the person is shown trying to relax. The dark shadow-boomerang they launched in the morning is now seen returning on its own ('தாமே வரும்') and striking them, causing them to suffer the same sorrow they inflicted."
+    },
+    "Art_Direction": {
+      "Subject_and_Action": "A direct and swift karmic law: the harm you do to others in the morning will return to you, of its own accord, by the evening.",
+      "Symbolic_Motifs": "The karmic boomerang is the central, simple, and powerful metaphor. The speed of the return—within a single day—is a key element to emphasize. The sorrow returns 'by itself', showing the automatic, impersonal nature of this law.",
+      "Mood_and_Emotion": "Inevitable, swift retribution, automatic justice.",
+      "Lighting_and_Color": "The morning scene is in the clear, bright light of day. The evening scene is in the warm, long shadows of sunset, but the returning shadow-boomerang is a stark, cold black, bringing a sudden chill to the evening.",
+      "Technical_Cues": {
+        "Camera": "A diptych or a shot with a time-lapse effect that shows the entire cause-and-effect cycle within a single day.",
+        "Resolution": "8K, ultra-realistic, with a clear and powerful visual for the returning karmic boomerang.",
+        "Lighting": "A clear transition from morning to evening light.",
+        "Art_Genre": "Symbolic realism."
+      },
+      "Cultural_Anchors": [
+        "Doing harm to others in the morning (பிறர்க்கு இன்னா முற்பகல் செய்யின்)",
+        "Harm will come to oneself in the evening, of its own accord (தமக்கு இன்னா பிற்பகல் தாமே வரும்)"
+      ]
+    },
+    "Negative_Prompt": "boomerang not returning, happy perpetrator in the evening, text artifacts.",
+    "Hyperparameters": {
+      "variant": "dev",
+      "steps": 45,
+      "cfg_scale": 8,
+      "seed": "Explore the design of the 'karmic boomerang'."
+    }
+  }
+}

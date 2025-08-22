@@ -1,0 +1,33 @@
+{
+  "Kural_Info": {
+    "Number": 1268,
+    "Chapter": "அவர்வயின்விதும்பல் (Mutual Desire)",
+    "Tamil_Text": "வினைகலந்து வென்றீக வேந்தன் மனைகலந்துமாலை அயர்கம் விருந்து.",
+    "English_Meaning": "O would my king would fight, o'ercome, devide the spoil; At home, to-night, the banquet spread should crown the toil."
+  },
+  "Flux_Optimized_Prompt": {
+    "Layered_Composition": {
+      "Foreground": "A warrior in a battlefield, thinking of home. This is the husband's perspective.",
+      "Midground": "His thought bubble or vision shows his wife preparing a beautiful evening feast ('Maalai Virunthu') in their peaceful home ('Manai'). This vision is what fuels his desire to finish his duty.",
+      "Background": "He is shown fighting valiantly, with the desire that his king achieves a swift victory ('Ventreekav Venthan') so he can go home to his wife and the feast she has prepared."
+    },
+    "Art_Direction": {
+      "Subject_and_Action": "A warrior's wish: 'Let the king quickly win this battle, so that I can go home and enjoy the evening feast with my wife.' It shows the personal motivation behind a soldier's duty.",
+      "Symbolic_Motifs": "The stark contrast between the chaotic battlefield and the peaceful, inviting vision of home. The evening feast is the symbol of his ultimate reward.",
+      "Mood_and_Emotion": "Longing, dutiful, motivated by love.",
+      "Lighting_and_Color": "The battlefield is in the harsh, chaotic light of war, with smoke and fire. The vision of home is bathed in a warm, golden, peaceful light from lamps and the cooking fire."
+    },
+    "Technical_Cues": {
+      "Camera": "A shot from over the warrior's shoulder, showing him looking out at the battle, while the warm vision of his home appears before him.",
+      "Resolution": "8K, epic historical realism, with a strong contrast between the two scenes.",
+      "Lighting": "Contrasting lighting to separate the world of duty (war) from the world of desire (home).",
+      "Art_Genre": "Historical drama, capturing the inner world of a soldier."
+    },
+    "Cultural_Anchors": [
+      "The warrior's duty (வினை)",
+      "The desire for home and wife (மனை)",
+      "மாலை விருந்து (The evening feast)"
+    ]
+  },
+  "Negative_Prompt": "a fearful soldier, an empty home, modern warfare, text artifacts, cartoonish, blurry."
+}

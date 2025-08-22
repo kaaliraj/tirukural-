@@ -1,0 +1,39 @@
+{
+  "Kural_Info": {
+    "Number": 889,
+    "Chapter": "உட்பகை (Enmity within)",
+    "Tamil_Text": "எட்பக வன்ன சிறுமைத்தே ஆயினும் உட்பகை உள்ளதாங் கேடு.",
+    "English_Meaning": "Although internal hatred be as small as the fragment of the sesamum (seed), still does destruction dwell in it."
+  },
+  "Flux_Optimized_Prompt": {
+    "Layered_Composition": {
+      "Foreground": "A massive, magnificent, and seemingly perfect structure, like a great dam or a palace, representing a family or a state.",
+      "Midground": "A very close, macro view reveals a single, tiny crack in the foundation. Inside this tiny crack, as small as a sesame seed ('எட்பகவு'), a monstrous, shadowy creature of destruction ('கேடு') is curled up, waiting.",
+      "Background": "The image implies that this tiny, hidden flaw containing the seed of destruction is enough to eventually bring down the entire magnificent structure."
+    },
+    "Art_Direction": {
+      "Subject_and_Action": "Even if an internal enmity is as tiny as a sesame seed, it still contains the potential for total destruction.",
+      "Symbolic_Motifs": "The contrast between the immense scale of the structure and the tiny size of the flaw is key. The monster of ruin dwelling within that tiny flaw is the central, ominous visual.",
+      "Mood_and_Emotion": "Ominous, a hidden threat, disproportionate danger.",
+      "Lighting_and_Color": "The magnificent structure is brightly lit. The tiny crack is a sliver of deep, menacing darkness, from which a malevolent red light might glow.",
+      "Technical_Cues": {
+        "Camera": "A dramatic shot that zooms from a wide view of the grand structure to an extreme macro close-up of the tiny flaw and the monster within.",
+        "Resolution": "8K, with a great depth of field.",
+        "Lighting": "High-contrast lighting to emphasize the hidden danger.",
+        "Art_Genre": "Suspenseful art, with a touch of cosmic horror."
+      },
+      "Cultural_Anchors": [
+        "Internal enmity, even if as small as a sesame seed ('எட்பகவு')",
+        "Ruin dwells within it ('உட்பகை உள்ளதாம் கேடு')",
+        "The concept of a fatal, hidden flaw."
+      ]
+    },
+    "Negative_Prompt": "a perfect structure with no flaws, a friendly creature in the crack, text artifacts.",
+    "Hyperparameters": {
+      "variant": "pro",
+      "steps": 50,
+      "cfg_scale": 9,
+      "seed": "Explore variations for the monster of destruction."
+    }
+  }
+}

@@ -1,0 +1,39 @@
+{
+  "Kural_Info": {
+    "Number": 741,
+    "Chapter": "அரண் (The Fortification)",
+    "Tamil_Text": "ஆற்று பவர்க்கும் அரண்பொருள் அஞ்சித்தற் போற்று பவர்க்கும் பொருள்.",
+    "English_Meaning": "A fort is an object of importance to those who march (against their foes) as well as to those who through fear (of pursuers) would seek it for shelter."
+  },
+  "Flux_Optimized_Prompt": {
+    "Layered_Composition": {
+      "Foreground": "A massive, powerful fortress stands at the center of the image.",
+      "Midground": "The fortress is shown serving two opposite purposes simultaneously. On the left side, a powerful, aggressive army ('ஆற்றுபவர்') is using the fortress as a secure base from which to launch their attack. On the right side, a group of fearful refugees ('அஞ்சி தற்போற்றுபவர்') are shown finding safe shelter within its walls.",
+      "Background": "A dynamic landscape of both conflict and peace, showing the fortress's dual role as a tool of offense and a haven of defense."
+    },
+    "Art_Direction": {
+      "Subject_and_Action": "A fortress is a valuable asset for both those who wish to project power and those who need to seek shelter from it.",
+      "Symbolic_Motifs": "The dual use of the fortress is the key theme. The aggressive army on one side and the fearful refugees on the other clearly illustrate its twofold importance.",
+      "Mood_and_Emotion": "Dual-purpose, strategic, powerful, protective.",
+      "Lighting_and_Color": "The offensive side can be lit with the harsh, fiery light of war. The defensive side can be lit with a softer, more protective and hopeful light.",
+      "Technical_Cues": {
+        "Camera": "A wide, symmetrical shot that shows both functions of the fortress clearly.",
+        "Resolution": "8K, with detailed depictions of both the army and the refugees.",
+        "Lighting": "Split lighting to emphasize the two different roles.",
+        "Art_Genre": "Epic historical painting."
+      }
+    },
+    "Cultural_Anchors": [
+      "A tool for attackers ('ஆற்றுபவர்க்கும்')",
+      "A shelter for the fearful ('அஞ்சித்தற்போற்றுபவர்க்கும்')",
+      "The dual nature of a fortress."
+    ]
+  },
+  "Negative_Prompt": "a fortress being unused, text artifacts, cartoonish figures.",
+  "Hyperparameters": {
+    "variant": "pro",
+    "steps": 50,
+    "cfg_scale": 8,
+    "seed": "Explore variations for the fortress architecture."
+  }
+}

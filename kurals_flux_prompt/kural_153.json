@@ -1,0 +1,39 @@
+{
+  "Kural_Info": {
+    "Number": 153,
+    "Chapter": "பொறையுடைமை (The Possession of Patience, Forbearance)",
+    "Tamil_Text": "இன்மையுள் இன்மை விருந்தொரால் வன்மையுள்வன்மை மடவார்ப் பொறை.",
+    "English_Meaning": "To neglect hospitality is poverty of poverty. To bear with the ignorant is might of might."
+  },
+  "Flux_Optimized_Prompt": {
+    "Layered_Composition": {
+      "Foreground": "A split composition. On the left, a scene of extreme poverty ('இன்மையுள் இன்மை'): a wealthy man turns away a guest, and as he does, his own riches turn to dust, revealing his true destitution.",
+      "Midground": "On the right, a scene of extreme strength ('வன்மையுள் வன்மை'): a powerful, wise sage is surrounded by foolish, ignorant people ('மடவார்') who are mocking and distracting them. The sage remains in perfect, unshakable meditative peace ('பொறை'), their inner strength forming a visible shield of tranquility.",
+      "Background": "The background for the left is a desolate, barren landscape. The background for the right is a majestic, stable mountain range, reflecting the sage's inner fortitude."
+    },
+    "Art_Direction": {
+      "Subject_and_Action": "A visual contrast of the ultimate extremes: the worst poverty is the inability to be hospitable, and the greatest strength is the ability to patiently endure the ignorant.",
+      "Symbolic_Motifs": "The transformation of wealth to dust illustrates the concept of 'poverty within plenty'. The sage's shield of tranquility is a metaphor for their immense inner power that is unmoved by external foolishness.",
+      "Mood_and_Emotion": "Stark contrast, pathetic vs. powerful, true poverty vs. true strength.",
+      "Lighting_and_Color": "The left side is dark, desaturated, and crumbling. The right side is illuminated by the sage's inner light, which is calm, steady, and brilliant white-gold. The palette contrasts decay with stability.",
+      "Technical_Cues": {
+        "Camera": "A balanced diptych shot, starkly presenting the two opposing concepts with equal visual weight.",
+        "Resolution": "8K, ultra-realistic, with strong symbolic effects for the decaying wealth and the shield of peace.",
+        "Lighting": "Dramatic dual lighting to underscore the thematic contrast.",
+        "Art_Genre": "Allegorical painting, symbolic diptych."
+      },
+      "Cultural_Anchors": [
+        "Poverty of poverty (இன்மையுள் இன்மை)",
+        "Might of might (வன்மையுள் வன்மை)",
+        "Bearing with the ignorant (மடவார்ப் பொறை)"
+      ]
+    },
+    "Negative_Prompt": "happy inhospitable man, angry sage, text artifacts, cartoonish figures.",
+    "Hyperparameters": {
+      "variant": "pro",
+      "steps": 50,
+      "cfg_scale": 9,
+      "seed": "Explore the design of the 'shield of tranquility'."
+    }
+  }
+}

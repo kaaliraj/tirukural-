@@ -1,0 +1,33 @@
+{
+  "Kural_Info": {
+    "Number": 996,
+    "Chapter": "பண்புடைமை (Courtesy)",
+    "Tamil_Text": "பண்புடையார்ப் பட்டுண்டு உலகம் அதுஇன்றேல்மண்புக்கு மாய்வது மன்.",
+    "English_Meaning": "The world abides; for 'worthy' men its weight sustain. Were it not so, 'twould fall to dust again."
+  },
+  "Flux_Optimized_Prompt": {
+    "Layered_Composition": {
+      "Foreground": "A group of 'Panbudaiyar' (courteous/worthy people) are shown engaged in acts of kindness and harmonious interaction, forming a strong, interconnected web.",
+      "Midground": "This web of good character transforms into a metaphysical foundation or net that literally holds the world ('Ulagam') together, preventing it from crumbling.",
+      "Background": "The Earth is depicted as a fragile sphere that would otherwise disintegrate into dust ('Manpukku Maaivadhu') if not for the sustaining power of these worthy individuals."
+    },
+    "Art_Direction": {
+      "Subject_and_Action": "A cosmic representation of the idea that the existence and stability of the world are dependent on the presence and actions of people with good character.",
+      "Symbolic_Motifs": "The web of light connecting the worthy people. The world being held together by this web is the central metaphor. The crumbling dust represents the alternative.",
+      "Mood_and_Emotion": "Profound, foundational, cosmic, a sense of immense responsibility.",
+      "Lighting_and_Color": "The web of character glows with a powerful, life-sustaining golden light. The Earth itself is a vibrant blue and green, but the space around it is dark, emphasizing its fragility. The crumbling dust is dark and lifeless."
+    },
+    "Technical_Cues": {
+      "Camera": "Epic cosmic wide shot, showing the earth being sustained by the network of virtue.",
+      "Resolution": "8K, cosmic art style, with photorealistic planetary textures and ethereal light effects for the web.",
+      "Lighting": "The primary light source is the glowing web of virtue itself, illuminating the Earth.",
+      "Art_Genre": "Symbolic and metaphysical cosmic art."
+    },
+    "Cultural_Anchors": [
+      "பண்புடைமை (Courtesy/Worthiness)",
+      "The world sustained by virtue",
+      "The fragility of the world order"
+    ]
+  },
+  "Negative_Prompt": "people fighting, a broken web, a destroyed earth, modern people, text artifacts, cartoonish."
+}

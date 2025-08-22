@@ -1,0 +1,39 @@
+{
+  "Kural_Info": {
+    "Number": 959,
+    "Chapter": "குடிமை (Nobility)",
+    "Tamil_Text": "நிலத்தில் கிடந்தமை கால்காட்டும் காட்டும்குலத்தில் பிறந்தார்வாய்ச் சொல்.",
+    "English_Meaning": "Of soil the plants that spring thereout will show the worth: The words they speak declare the men of noble birth."
+  },
+  "Flux_Optimized_Prompt": {
+    "Layered_Composition": {
+      "Foreground": "In a split composition: on the left, a thriving, healthy plant ('kal') grows from rich, fertile soil ('nilam'). On the right, a noble individual from ancient Tamil society is speaking, their words visualized as elegant, glowing Tamil script.",
+      "Midground": "The roots of the plant on the left visibly draw nourishment from the good soil. The glowing script from the person's mouth on the right is shown to originate from a pure, radiant heart.",
+      "Background": "A serene and prosperous landscape that subtly unifies both halves of the image, suggesting that both natural and human quality spring from a good origin."
+    },
+    "Art_Direction": {
+      "Subject_and_Action": "A visual parallel between how the quality of soil is revealed by the plant that grows from it, and how the quality of a person's lineage ('kulam') is revealed by their speech ('vaich sol').",
+      "Symbolic_Motifs": "The healthy plant symbolizes the outcome of good soil. The glowing, graceful Tamil script ('வாய்ச் சொல்') symbolizes noble speech. The split-screen effect emphasizes the direct comparison.",
+      "Mood_and_Emotion": "Declarative, clear, natural, and assured.",
+      "Lighting_and_Color": "Natural, life-giving sunlight on the plant side. A soft, inner, golden luminescence emanating from the speaker on the other side. A palette of earthy browns, vibrant greens, and noble golds."
+    },
+    "Technical_Cues": {
+      "Camera": "Centered wide shot, balanced composition, shot on a 50mm lens.",
+      "Resolution": "8K, ultra-realistic, with detailed textures on the soil, plant, and the person's attire.",
+      "Lighting": "Soft, natural lighting on one side, and symbolic, internal radiant light on the other.",
+      "Art_Genre": "Allegorical realism, with a clean, diptych-like visual structure."
+    },
+    "Cultural_Anchors": [
+      "Metaphor of soil and plant ('Nilam' and 'Kaal')",
+      "The revealing nature of speech ('Vaaych Sol')",
+      "Concept of 'Kulam' (Noble Lineage)"
+    ]
+  },
+  "Negative_Prompt": "wilted plant, harsh speech bubbles, dark or stormy background, modern elements, blurry, text artifacts, violent imagery.",
+  "Hyperparameters": {
+    "variant": "pro",
+    "steps": 45,
+    "cfg_scale": 7,
+    "seed": "Explore variations in the style of the glowing Tamil script."
+  }
+}

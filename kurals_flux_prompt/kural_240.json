@@ -1,0 +1,38 @@
+{
+  "Kural_Info": {
+    "Number": 240,
+    "Chapter": "புகழ் (Renown)",
+    "Tamil_Text": "வசையொழிய வாழ்வாரே வாழ்வார் இசையொழியவாழ்வாரே வாழா தவர்.",
+    "English_Meaning": "Those live who live without disgrace. Those who live without fame live not."
+  },
+  "Flux_Optimized_Prompt": {
+    "Layered_Composition": {
+      "Foreground": "A split composition illustrating the definition of life and death.",
+      "Midground": "On the right, a person is shown living a life free from disgrace ('வசை ஒழிய'). They are depicted as a vibrant, solid, truly living being, glowing with the light of a good life ('வாழ்வாரே வாழ்வார்').",
+      "Background": "On the left, a person is shown living a life without fame or a good reputation ('இசை ஒழிய'). Although they are physically moving, they are depicted as a ghostly, transparent, half-dead figure. They are the 'non-living' ('வாழாதவர்')."
+    },
+    "Art_Direction": {
+      "Subject_and_Action": "The true definition of living is to live without disgrace. Those who live without a good name, even though they are breathing, are not truly alive.",
+      "Symbolic_Motifs": "The contrast between the solid, vibrant, 'living' person and the transparent, ghostly, 'non-living' person is the central metaphor. Life is defined by moral quality, not biological function.",
+      "Mood_and_Emotion": "Definitive, judgmental, alive vs. dead.",
+      "Lighting_and_Color": "The person who is truly alive is bathed in a warm, vibrant, life-giving light. The 'non-living' person is in a cold, grey, ethereal light, like a ghost.",
+      "Technical_Cues": {
+        "Camera": "A stark diptych shot that visually defines 'life' and 'non-life' according to the Kural's moral terms.",
+        "Resolution": "8K, ultra-realistic, with strong ethereal and transparency effects for the 'non-living' figure.",
+        "Lighting": "Strong dualistic lighting to contrast the two states of being.",
+        "Art_Genre": "Symbolic realism."
+      },
+      "Cultural_Anchors": [
+        "Those who live without disgrace, they (truly) live (வசை ஒழிய வாழ்வாரே வாழ்வார்)",
+        "Those who live without fame, they do not live (இசை ஒழிய வாழ்வாரே வாழாதவர்)"
+      ]
+    },
+    "Negative_Prompt": "ghostly good person, solid bad person, text artifacts.",
+    "Hyperparameters": {
+      "variant": "pro",
+      "steps": 50,
+      "cfg_scale": 8,
+      "seed": "Explore the visual contrast between the 'living' and 'non-living' figures."
+    }
+  }
+}

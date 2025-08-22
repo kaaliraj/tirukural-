@@ -1,0 +1,39 @@
+{
+  "Kural_Info": {
+    "Number": 800,
+    "Chapter": "நட்பாராய்தல் (Investigation in forming Friendships)",
+    "Tamil_Text": "மருவுக மாசற்றார் கேண்மைஒன் றீத்தும் ஒருவுக ஒப்பிலார் நட்பு.",
+    "English_Meaning": "Continue to enjoy the friendship of the pure; (but) renounce even with a gift, the friendship of those who do not agree (with the world)."
+  },
+  "Flux_Optimized_Prompt": {
+    "Layered_Composition": {
+      "Foreground": "A wise person stands at a fork in their social path.",
+      "Midground": "On the left path, they are shown warmly embracing and associating with people who are pure and faultless ('மாசற்றார் கேண்மை'). This path leads to a bright, harmonious landscape. On the right path, they are shown dealing with disagreeable or incompatible people ('ஒப்பிலார்').",
+      "Background": "Instead of arguing or fighting with the disagreeable people, the wise person is shown giving them a gift ('ஒன்றீத்தும்') as a polite and final way of ending the association and sending them on their way ('ஒருவுக'). This path then becomes clear for the wise person as well."
+    },
+    "Art_Direction": {
+      "Subject_and_Action": "Embrace the friendship of the pure. As for the disagreeable, end the association, if necessary, even by giving them a parting gift.",
+      "Symbolic_Motifs": "The warm embrace represents cherishing good friendship. The act of giving a gift to end a bad friendship is a powerful visual of a graceful but firm exit strategy.",
+      "Mood_and_Emotion": "Discerning, graceful, decisive.",
+      "Lighting_and_Color": "The path with the pure friends is warm and golden. The path with the disagreeable friends is initially a tense, awkward color, which clears up after the parting gift is given.",
+      "Technical_Cues": {
+        "Camera": "A composition that shows the two different social strategies in action.",
+        "Resolution": "8K, with clear, expressive body language.",
+        "Lighting": "Symbolic lighting to differentiate the quality of the two relationships.",
+        "Art_Genre": "Narrative realism."
+      }
+    },
+    "Cultural_Anchors": [
+      "Embrace the friendship of the pure ('மருவுக மாசற்றார் கேண்மை')",
+      "Abandon the friendship of the disagreeable ('ஒருவுக ஒப்பிலார் நட்பு')",
+      "Even with a gift ('ஒன்றீத்தும்')"
+    ]
+  },
+  "Negative_Prompt": "person arguing with disagreeable people, rejecting pure friends, text artifacts.",
+  "Hyperparameters": {
+    "variant": "dev",
+    "steps": 40,
+    "cfg_scale": 8,
+    "seed": "Explore variations for the parting gift."
+  }
+}

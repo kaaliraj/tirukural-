@@ -1,0 +1,39 @@
+{
+  "Kural_Info": {
+    "Number": 821,
+    "Chapter": "கூடாநட்பு (Unreal Friendship)",
+    "Tamil_Text": "சீரிடம் காணின் எறிதற்குப் பட்டடை நேரா நிரந்தவர் நட்பு.",
+    "English_Meaning": "The friendship of those who seem to be friends while they are not, will be a weapon that may be thrown when a favourable opportunity presents itself."
+  },
+  "Flux_Optimized_Prompt": {
+    "Layered_Composition": {
+      "Foreground": "A person is shown in a friendly embrace with another. However, the 'friend' ('நேரா நிரந்தவர்') is secretly a false one.",
+      "Midground": "In a surreal, symbolic reveal, the false friend's embracing arm is shown to be not an arm at all, but a blacksmith's anvil ('பட்டடை'). Their other arm is a blacksmith's hammer.",
+      "Background": "The false friend is waiting for the right moment of vulnerability ('சீரிடம் காணின்'). At that moment, they will use their 'anvil' arm to hold their victim in place and strike them down with their 'hammer' arm ('எறிதற்கு'). The friendship is just a tool waiting to be used as a weapon."
+    },
+    "Art_Direction": {
+      "Subject_and_Action": "The friendship of those who are inwardly not friends is like an anvil, waiting for the right moment to be used to strike you down.",
+      "Symbolic_Motifs": "The false friend as a blacksmith with an anvil and hammer for arms is the central, terrifying metaphor. The friendly embrace is a facade for this violent potential.",
+      "Mood_and_Emotion": "Treacherous, dangerous, deceptive, a weapon in disguise.",
+      "Lighting_and_Color": "A deceptively warm light on the friendly faces, but a harsh, fiery, forge-like light glints off the hidden anvil and hammer, foreshadowing the violence.",
+      "Technical_Cues": {
+        "Camera": "A close-up on the embrace, with a surreal effect revealing the true nature of the false friend's arms.",
+        "Resolution": "8K, with a shocking and surreal transformation.",
+        "Lighting": "High-contrast lighting to reveal the hidden threat.",
+        "Art_Genre": "Dark surrealism, with a thriller-like tension."
+      },
+      "Cultural_Anchors": [
+        "Friendship as an Anvil ('பட்டடை')",
+        "Waiting for the right moment to strike ('சீரிடம் காணின் எறிதற்கு')",
+        "The false friend ('நேரா நிரந்தவர்')"
+      ]
+    },
+    "Negative_Prompt": "a real arm, a friendly embrace, text artifacts, cartoonish.",
+    "Hyperparameters": {
+      "variant": "pro",
+      "steps": 50,
+      "cfg_scale": 9,
+      "seed": "Explore variations for the anvil arm."
+    }
+  }
+}

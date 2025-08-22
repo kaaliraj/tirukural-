@@ -1,0 +1,38 @@
+{
+  "Kural_Info": {
+    "Number": 1183,
+    "Chapter": "பசப்புறுபருவரல் (The Pallid Hue)",
+    "Tamil_Text": "சாயலும் நாணும் அவர்கொண்டார் கைம்மாறாநோயும் பசலையும் தந்து.",
+    "English_Meaning": "He has taken (away) my beauty and modesty, and given me instead disease and sallowness."
+  },
+  "Flux_Optimized_Prompt": {
+    "Layered_Composition": {
+      "Foreground": "A woman is shown looking at her reflection. Her reflection is pale and sickly.",
+      "Midground": "A symbolic and cruel exchange is depicted. Her absent lover is shown as a ghostly figure taking two beautiful things from her: a radiant, glowing aura representing her 'beauty/grace' ('சாயல்'), and a delicate, shimmering veil representing her 'modesty' ('நாணும்').",
+      "Background": "In exchange for these beautiful things ('கைம்மாறா'), the lover gives her two ugly things: a dark, thorny vine of 'disease/sorrow' ('நோய்') that wraps around her heart, and a jar of sickly yellow-green paint representing 'sallowness' ('பசலை') that covers her skin."
+    },
+    "Art_Direction": {
+      "Subject_and_Action": "The lover is accused of a cruel trade: he has stolen the woman's beauty and modesty, and given her sorrow and a sickly pallor in return.",
+      "Symbolic_Motifs": "The four symbolic items—the aura of beauty, the veil of modesty, the vine of sorrow, and the paint of sallowness—make the unfair exchange tangible and clear. The lover's action is depicted as a deliberate theft.",
+      "Mood_and_Emotion": "Unfair, cruel, stolen, tragic exchange.",
+      "Lighting_and_Color": "The scene of the 'theft' is dramatic. The aura and veil are beautiful, glowing objects. The vine and paint are dark, ugly, and sickly. The woman is left stripped of her light and covered in darkness.",
+      "Technical_Cues": {
+        "Camera": "A surreal shot that captures the metaphysical exchange between the woman and the ghostly image of her lover.",
+        "Resolution": "8K, hyper-realistic, with strong ethereal effects for the symbolic objects.",
+        "Lighting": "A dramatic shift as the light of beauty is stolen and replaced by the shadow of disease.",
+        "Art_Genre": "Symbolic realism, dark fantasy."
+      },
+      "Cultural_Anchors": [
+        "He took my beauty and modesty (சாயலும் நாணும் அவர் கொண்டார்)",
+        "And gave in return disease and sallowness (கைம்மாறா நோயும் பசலையும் தந்து)"
+      ]
+    },
+    "Negative_Prompt": "happy woman, fair exchange, text artifacts.",
+    "Hyperparameters": {
+      "variant": "pro",
+      "steps": 50,
+      "cfg_scale": 8,
+      "seed": "Explore the visuals of the four symbolic items."
+    }
+  }
+}

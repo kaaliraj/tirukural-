@@ -1,0 +1,32 @@
+{
+  "Kural_Info": {
+    "Number": 1169,
+    "Chapter": "படர்மெலிந்திரங்கல் (Complainings)",
+    "Tamil_Text": "கொடியார் கொடுமையின் தாம்கொடிய இந்நாள்நெடிய கழியும் இரா.",
+    "English_Meaning": "More cruel than the cruelty of him, the cruel one, In these sad times are lengthening hours of night I watch alone."
+  },
+  "Flux_Optimized_Prompt": {
+    "Layered_Composition": {
+      "Foreground": "A suffering woman is shown awake in her bed, tormented by loneliness. The night ('Iraa') is depicted as a physical entity, a cruel, shadowy tormentor.",
+      "Midground": "In a smaller, separate vignette, her absent lover ('Kodiyar') is shown being cruel, perhaps by being indifferent or leaving. This is labeled as 'Cruelty'.",
+      "Background": "The main scene shows the Night being 'more cruel' ('Thaam Kodiya'). It does this by physically stretching and elongating the room, making the clock hands slow to a crawl, and intensifying the shadows, thus prolonging her agony."
+    },
+    "Art_Direction": {
+      "Subject_and_Action": "A lover's lament that the long, lonely nights are an even crueler tormentor than her cruel, absent lover.",
+      "Symbolic_Motifs": "The personification of Night as a tormentor. The surreal, Dali-esque stretching of time and space to represent the 'lengthening hours' ('Nediya Kazhiyum').",
+      "Mood_and_Emotion": "Agonizing, slow, torturous, surreal.",
+      "Lighting_and_Color": "Extremely dark, with distorted shadows. The colors are deep, oppressive blacks and blues. Any light source, like a lamp, casts long, warped shadows."
+    },
+    "Technical_Cues": {
+      "Camera": "A wide, distorted lens effect (like a fish-eye) to enhance the surreal and oppressive feeling of the elongated room.",
+      "Resolution": "8K, surreal realism, with a strong focus on creating a psychologically disturbing atmosphere.",
+      "Lighting": "Low-key, expressionistic lighting with exaggerated shadows.",
+      "Art_Genre": "Surrealism, inspired by Salvador Dalí, to visualize the subjective experience of time and suffering."
+    },
+    "Cultural_Anchors": [
+      "The cruelty of the absent lover (கொடியார் கொடுமை)",
+      "The torment of a long, sleepless night (நெடிய இரா)"
+    ]
+  },
+  "Negative_Prompt": "a short night, a kind lover, a peaceful sleep, bright room, realistic clock, text artifacts, cartoonish."
+}

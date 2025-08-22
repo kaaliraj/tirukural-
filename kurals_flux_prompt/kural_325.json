@@ -1,0 +1,38 @@
+{
+  "Kural_Info": {
+    "Number": 325,
+    "Chapter": "கொல்லாமை (Not killing)",
+    "Tamil_Text": "நிலைஅஞ்சி நீத்தாருள் எல்லாம் கொலைஅஞ்சிக்கொல்லாமை சூழ்வான் தலை.",
+    "English_Meaning": "Of all those who, fearing the permanence of earthly births, have abandoned desire, he is the chief who, fearing (the guilt of) murder, considers how he may avoid the destruction of life."
+  },
+  "Flux_Optimized_Prompt": {
+    "Layered_Composition": {
+      "Foreground": "An ascetic who has renounced the world out of a fear of the cycle of birth and death ('நிலை அஞ்சி நீத்தார்') is shown in meditation.",
+      "Midground": "Another ascetic is shown. His primary motivation is different: he is shown meticulously planning his every move—how he walks, how he breathes—out of a deep-seated fear of the guilt of killing any living thing ('கொலை அஞ்சி').",
+      "Background": "A divine light shines down from the heavens, and a celestial crown is bestowed not on the first ascetic, but on the second. The one whose life is governed by the principle of absolute non-violence ('கொல்லாமை சூழ்வான்') is declared the 'chief' ('தலை') of all renunciants."
+    },
+    "Art_Direction": {
+      "Subject_and_Action": "Among all classes of ascetics, the chief is not the one who renounces out of a selfish fear for his own soul, but the one who renounces out of a compassionate fear of harming any other living being.",
+      "Symbolic_Motifs": "The hierarchy of motivation is the key. The fear of rebirth is a self-centered fear. The fear of killing is an other-centered, compassionate fear. The divine crown affirms the superiority of the compassionate motivation.",
+      "Mood_and_Emotion": "Supreme virtue, compassionate, hierarchical, chief.",
+      "Lighting_and_Color": "Both ascetics are in a serene light, but the one practicing non-violence is crowned with a brilliant, supreme, golden light, marking him as superior.",
+      "Technical_Cues": {
+        "Camera": "A shot that frames the two ascetics, with the divine crown clearly choosing the one motivated by non-violence.",
+        "Resolution": "8K, ultra-realistic, with a focus on the different motivations visible in their expressions.",
+        "Lighting": "Symbolic lighting to establish the moral hierarchy.",
+        "Art_Genre": "Mythological painting."
+      },
+      "Cultural_Anchors": [
+        "Among all who renounce fearing the worldly state (நிலை அஞ்சி நீத்தாருள் எல்லாம்)",
+        "He is chief who, fearing killing, plans for non-killing (கொலை அஞ்சி கொல்லாமை சூழ்வான் தலை)"
+      ]
+    },
+    "Negative_Prompt": "the other ascetic being crowned, text artifacts, violent ascetics.",
+    "Hyperparameters": {
+      "variant": "pro",
+      "steps": 50,
+      "cfg_scale": 8,
+      "seed": "Explore the visual difference in the two ascetics' meditations."
+    }
+  }
+}

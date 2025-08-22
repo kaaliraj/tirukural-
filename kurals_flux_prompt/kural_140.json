@@ -1,0 +1,39 @@
+{
+  "Kural_Info": {
+    "Number": 140,
+    "Chapter": "ஒழுக்கமுடைமை (The Possession of Decorum)",
+    "Tamil_Text": "உலகத்தோடு ஒட்ட ஒழுகல் பலகற்றும்கல்லார் அறிவிலா தார்.",
+    "English_Meaning": "Those who know not how to act agreeably to the world, though they have learnt many things, are still ignorant."
+  },
+  "Flux_Optimized_Prompt": {
+    "Layered_Composition": {
+      "Foreground": "A scholar is shown, possessing a vast amount of book-learning ('பலகற்றும்'). This is visualized by a huge stack of books and scrolls towering over them.",
+      "Midground": "However, this scholar is shown completely out of sync with the world around them. The flow of society ('உலகத்தோடு') is a gentle, flowing river, but the scholar is trying to walk against it or stand awkwardly on the bank, unable to adapt ('ஒட்ட ஒழுகல்').",
+      "Background": "Because of this inability to adapt their knowledge to the world, they are shown to be truly ignorant ('அறிவிலாதார்'). A dunce cap, representing folly, appears on their head despite the mountain of books they have learned. They are 'unlearned' ('கல்லார்') in the ways of the world."
+    },
+    "Art_Direction": {
+      "Subject_and_Action": "Those who cannot adapt their conduct to be in harmony with the world are to be considered ignorant, no matter how much theoretical knowledge they have acquired.",
+      "Symbolic_Motifs": "The world as a river is a metaphor for the flow of society and custom. The scholar's inability to navigate this river, despite all their books, shows the uselessness of their knowledge in a practical sense. The dunce cap is a clear symbol of their true ignorance.",
+      "Mood_and_Emotion": "Ineffective, foolish, out of touch, ivory tower.",
+      "Lighting_and_Color": "The river of the world is in natural, harmonious colors. The scholar and their books are in a slightly unnatural, out-of-place light. The dunce cap is stark and humiliating.",
+      "Technical_Cues": {
+        "Camera": "A shot that contrasts the huge pile of the scholar's books with their clumsy and ineffective interaction with the 'river of the world'.",
+        "Resolution": "8K, ultra-realistic, with a focus on the scholar's awkward and confused expression.",
+        "Lighting": "Natural lighting for the world, and a slightly artificial, isolated light for the scholar.",
+        "Art_Genre": "Social satire, realism with symbolic elements."
+      },
+      "Cultural_Anchors": [
+        "Acting in harmony with the world (உலகத்தோடு ஒட்ட ஒழுகல்)",
+        "Though having learned many things (பலகற்றும்)",
+        "They are unlearned and ignorant (கல்லார் அறிவிலாதார்)"
+      ]
+    },
+    "Negative_Prompt": "scholar swimming gracefully, world adapting to the scholar, text artifacts.",
+    "Hyperparameters": {
+      "variant": "dev",
+      "steps": 45,
+      "cfg_scale": 8,
+      "seed": "Explore the visual of the 'river of the world'."
+    }
+  }
+}

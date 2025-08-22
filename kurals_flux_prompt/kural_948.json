@@ -1,0 +1,40 @@
+{
+  "Kural_Info": {
+    "Number": 948,
+    "Chapter": "மருந்து (Medicine)",
+    "Tamil_Text": "நோய்நாடி நோய்முதல் நாடி அதுதணிக்கும் வாய்நாடி வாய்ப்பச் செயல்.",
+    "English_Meaning": "Let the physician enquire into the (nature of the) disease, its cause and its method of cure and treat it faithfully according to (medical rule)."
+  },
+  "Flux_Optimized_Prompt": {
+    "Layered_Composition": {
+      "Foreground": "A skilled physician is shown examining a patient. This is the diagnostic phase, visualized in three stages.",
+      "Midground": "First, the physician identifies the disease itself, which appears as a dark, thorny plant on the patient ('நோய் நாடி'). Second, they dig into the earth to find the dark, corrupted root of the plant, the root cause ('நோய்முதல் நாடி'). Third, they are shown consulting a medical text to find the exact method of cure ('வாய்நாடி').",
+      "Background": "Having completed the three-stage diagnosis, the physician is now shown skillfully applying the perfect remedy ('வாய்ப்பச் செயல்'), causing the thorny plant and its root to wither and die, and restoring the patient to health."
+    },
+    "Art_Direction": {
+      "Subject_and_Action": "The proper medical procedure: first, diagnose the disease; second, diagnose its root cause; third, find the right method of cure; and then, apply that method successfully.",
+      "Symbolic_Motifs": "The disease as a thorny plant with a hidden root is the central metaphor. The three-stage investigation (plant, root, book) illustrates the diagnostic process. The final act of healing shows the successful application.",
+      "Mood_and_Emotion": "Methodical, analytical, diagnostic, healing, skillful.",
+      "Lighting_and_Color": "A clear, clinical, and intelligent light. The disease-plant is dark and sickly. The successful remedy can be a healing, green light.",
+      "Technical_Cues": {
+        "Camera": "A narrative sequence within a single image, showing the stages of diagnosis and cure.",
+        "Resolution": "8K, with a clear, almost infographic-like quality.",
+        "Lighting": "Clear, clean lighting.",
+        "Art_Genre": "Medical illustration, with symbolic elements."
+      },
+      "Cultural_Anchors": [
+        "Diagnose the Disease ('நோய் நாடி')",
+        "Diagnose the Cause ('நோய்முதல் நாடி')",
+        "Find the Method of Cure ('வாய்நாடி')",
+        "Act Accordingly ('வாய்ப்பச் செயல்')"
+      ]
+    },
+    "Negative_Prompt": "a confused physician, a dying patient, text artifacts.",
+    "Hyperparameters": {
+      "variant": "pro",
+      "steps": 50,
+      "cfg_scale": 8,
+      "seed": "Explore variations for the disease-plant."
+    }
+  }
+}

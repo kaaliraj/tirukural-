@@ -1,0 +1,38 @@
+{
+  "Kural_Info": {
+    "Number": 1231,
+    "Chapter": "உறுப்புநலனழிதல் (Wasting Away)",
+    "Tamil_Text": "சிறுமை நமக்கொழியச் சேட்சென்றார் உள்ளிநறுமலர் நாணின கண்.",
+    "English_Meaning": "Thine eyes grown dim are now ashamed the fragrant flow'rs to see, Thinking on him, who wand'ring far, leaves us in misery."
+  },
+  "Flux_Optimized_Prompt": {
+    "Layered_Composition": {
+      "Foreground": "A woman's eyes, which are red and swollen from constant weeping. They have lost their former brightness.",
+      "Midground": "The eyes are looking at beautiful, fragrant flowers ('நறு மலர்'), but instead of enjoying them, they are turning away, as if in shame ('நாணின').",
+      "Background": "The reason is shown in a thought-bubble: the eyes are constantly replaying the memory of her lover who went far away ('சேண் சென்றார்'), leaving her in misery ('சிறுமை'). Because they are so consumed with this sad image, they feel unworthy and ashamed to look upon beautiful things in the present."
+    },
+    "Art_Direction": {
+      "Subject_and_Action": "The woman's eyes, consumed by the memory of her absent lover, have become so sorrowful that they feel ashamed to even look at beautiful flowers.",
+      "Symbolic_Motifs": "The personification of the eyes as feeling 'shame' is the key. They are no longer just organs of sight, but participants in her emotional suffering. The beauty of the flowers serves to highlight the depth of the eyes' misery.",
+      "Mood_and_Emotion": "Sorrowful, ashamed, melancholic, consumed by memory.",
+      "Lighting_and_Color": "The eyes are depicted with red, sorrowful tones. The flowers are bright and beautiful, but the eyes are turning away from their light into their own shadow of grief. The palette is one of poignant contrast.",
+      "Technical_Cues": {
+        "Camera": "An extreme close-up on the woman's eyes, capturing their sorrow and the act of turning away from the beautiful flowers.",
+        "Resolution": "8K, hyper-realistic, with a focus on the emotion conveyed by the eyes.",
+        "Lighting": "Soft, melancholic lighting.",
+        "Art_Genre": "Romantic portraiture, emotional realism."
+      },
+      "Cultural_Anchors": [
+        "Thinking of him who went far (சேண் சென்றார் உள்ளி)",
+        "The eyes are ashamed of the fragrant flowers (நறுமலர் நாணின கண்)"
+      ]
+    },
+    "Negative_Prompt": "happy eyes, woman enjoying flowers, text artifacts, dry eyes.",
+    "Hyperparameters": {
+      "variant": "dev",
+      "steps": 40,
+      "cfg_scale": 8,
+      "seed": "Explore the sorrowful expression of the eyes."
+    }
+  }
+}

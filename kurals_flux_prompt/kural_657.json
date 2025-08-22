@@ -1,0 +1,39 @@
+{
+  "Kural_Info": {
+    "Number": 657,
+    "Chapter": "வினைத்தூய்மை (Purity in Action)",
+    "Tamil_Text": "பழிமலைந்து எய்திய ஆக்கத்தின் சான்றோர் கழிநல் குரவே தலை.",
+    "English_Meaning": "Far more excellent is the extreme poverty of the wise than wealth obtained by heaping up of sinful deeds."
+  },
+  "Flux_Optimized_Prompt": {
+    "Layered_Composition": {
+      "Foreground": "A split composition. On the right, a dishonorable person is shown standing on a massive pile of wealth ('ஆக்கம்') that is made of skulls and thorny, black vines, representing the heap of sin and blame ('பழி') used to acquire it.",
+      "Midground": "On the left, a wise and virtuous person ('சான்றோர்') is shown in a state of extreme poverty ('கழிநல் குரவு'). They have nothing. However, they are surrounded by a brilliant, pure, and noble aura of light.",
+      "Background": "The image is composed to make the poverty of the wise man on the left appear far more desirable, noble, and 'excellent' ('தலை') than the grotesque, sin-stained wealth on the right."
+    },
+    "Art_Direction": {
+      "Subject_and_Action": "The extreme poverty of a virtuous person is superior to the great wealth acquired through blame-worthy actions.",
+      "Symbolic_Motifs": "The wealth made of skulls and thorns is a powerful metaphor for dishonorable gains. The poor sage's aura of light represents the intangible wealth of honor, which is shown to be more valuable.",
+      "Mood_and_Emotion": "Contrasting, noble poverty vs. vile wealth, virtuous, profound.",
+      "Lighting_and_Color": "The right side is dark and hellish, with sickly colors on the pile of sin. The left side is illuminated by the sage's own pure, white-gold aura, creating a scene of serene nobility.",
+      "Technical_Cues": {
+        "Camera": "A balanced shot that presents the two choices, visually guiding the viewer to prefer the poverty of the sage.",
+        "Resolution": "8K, with a strong, allegorical style.",
+        "Lighting": "High-contrast, symbolic lighting.",
+        "Art_Genre": "Dark fantasy vs. spiritual art in a single composition."
+      }
+    },
+    "Cultural_Anchors": [
+      "Wealth gained through Blame ('பழிமலைந்து எய்திய ஆக்கம்')",
+      "The Extreme Poverty of the Wise ('சான்றோர் கழிநல் குரவு')",
+      "Honor as superior to wealth."
+    ]
+  },
+  "Negative_Prompt": "happy rich person, sad poor sage, text artifacts, cartoonish skulls.",
+  "Hyperparameters": {
+    "variant": "pro",
+    "steps": 50,
+    "cfg_scale": 8,
+    "seed": "Explore variations for the pile of sinful wealth."
+  }
+}

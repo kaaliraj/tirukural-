@@ -1,0 +1,39 @@
+{
+  "Kural_Info": {
+    "Number": 941,
+    "Chapter": "மருந்து (Medicine)",
+    "Tamil_Text": "மிகினும் குறையினும் நோய்செய்யும் நூலோர் வளிமுதலா எண்ணிய மூன்று.",
+    "English_Meaning": "The learned books count three, with wind as first; of these, As any one prevail, or fail; 'twill cause disease."
+  },
+  "Flux_Optimized_Prompt": {
+    "Layered_Composition": {
+      "Foreground": "A stylized, translucent human body is shown. Inside, three elemental forces are depicted in perfect balance.",
+      "Midground": "These are the three humors from Tamil medicine: Wind ('வளி'), Bile ('பித்தம்'), and Phlegm ('ஐயம்'). Wind is a gentle vortex of air, Bile is a controlled golden fire, and Phlegm is a clear, flowing stream of water.",
+      "Background": "The image shows this balance being disrupted. If any one of them becomes too much ('மிகினும்') or too little ('குறையினும்'), it throws the entire system out of harmony and causes sickness ('நோய் செய்யும்'), visualized as the body's healthy glow turning dark and sickly."
+    },
+    "Art_Direction": {
+      "Subject_and_Action": "Disease is caused by an imbalance—either an excess or a deficiency—in the three fundamental humors of the body: Vatham (Wind), Pitham (Bile), and Kapam (Phlegm).",
+      "Symbolic_Motifs": "The three humors as three balanced elemental forces within the body is the central visual. The disruption of this balance is the direct cause of the sickness.",
+      "Mood_and_Emotion": "Balanced, harmonious, medical, scientific (in its own context).",
+      "Lighting_and_Color": "The balanced state is harmonious, with the three elements glowing in a gentle, stable light. The imbalanced state is chaotic, with one element growing aggressively bright or becoming dangerously dim, causing the body's overall light to turn sickly.",
+      "Technical_Cues": {
+        "Camera": "A clear, diagrammatic, cross-section view of the human body, showing the three humors.",
+        "Resolution": "8K, with a medical illustration aesthetic, blended with fantasy elements for the humors.",
+        "Lighting": "The lighting should reflect the state of health: balanced and harmonious, or chaotic and sickly.",
+        "Art_Genre": "Medical illustration, with a touch of the mystical."
+      },
+      "Cultural_Anchors": [
+        "The Three Humors: Vatham, Pitham, Kapam (வளி, பித்தம், ஐயம்)",
+        "Disease from imbalance ('மிகினும் குறையினும் நோய் செய்யும்')",
+        "Siddha or Tamil traditional medicine concepts."
+      ]
+    },
+    "Negative_Prompt": "a body with only one humor, a healthy body with imbalanced humors, text artifacts.",
+    "Hyperparameters": {
+      "variant": "pro",
+      "steps": 50,
+      "cfg_scale": 8,
+      "seed": "Explore variations for the visual representation of the three humors."
+    }
+  }
+}

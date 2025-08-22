@@ -1,0 +1,38 @@
+{
+  "Kural_Info": {
+    "Number": 1062,
+    "Chapter": "இரவச்சம் (The Dread of Mendicancy)",
+    "Tamil_Text": "இரந்தும் உயிர்வாழ்தல் வேண்டின் பரந்துகெடுக உலகியற்றி யான்.",
+    "English_Meaning": "If the Creator of the world has decreed even begging as a means of livelihood, may he too go a-begging and perish."
+  },
+  "Flux_Optimized_Prompt": {
+    "Layered_Composition": {
+      "Foreground": "A proud and dignified person is shown in a state of utter destitution, on the verge of being forced to beg to survive ('இரந்தும் உயிர் வாழ்தல்').",
+      "Midground": "Instead of begging, they look up to the heavens with a look of righteous, defiant anger.",
+      "Background": "In the cosmic realm, the Creator of the world ('உலகியற்றியான்') is depicted as a powerful, majestic being. In response to the person's righteous defiance, the Creator's own majestic form is shown beginning to crumble and wander aimlessly, as if afflicted by the very curse of beggary and destruction ('பரந்து கெடுக') that they had ordained for mortals."
+    },
+    "Art_Direction": {
+      "Subject_and_Action": "A powerful curse against a Creator who would ordain a world where a dignified person must resort to begging to live. Such a Creator deserves to suffer the same fate.",
+      "Symbolic_Motifs": "This is a rare moment of defiance against divine order. The righteous anger of the human is shown to be powerful enough to affect the Creator. The curse is not just a word, but a force that causes the Creator to wander and perish.",
+      "Mood_and_Emotion": "Defiant, righteous anger, tragic, cursing the heavens.",
+      "Lighting_and_Color": "The destitute person is lit by the fiery light of their own righteous fury. The Creator's divine, cosmic light begins to flicker and fade, turning into the grey, aimless light of a wanderer.",
+      "Technical_Cues": {
+        "Camera": "A dramatic low-angle shot looking up from the human's perspective, capturing their defiant curse as it strikes the Creator in the heavens.",
+        "Resolution": "8K, hyper-realistic, with epic cosmic effects for the Creator's degradation.",
+        "Lighting": "A dramatic power shift, where the light of the mortal's defiance begins to overwhelm the fading light of the divine.",
+        "Art_Genre": "Epic mythological painting, dark fantasy."
+      },
+      "Cultural_Anchors": [
+        "If one must live by begging (இரந்தும் உயிர் வாழ்தல் வேண்டின்)",
+        "May the World-Creator wander and perish (பரந்து கெடுக உலகியற்றியான்)"
+      ]
+    },
+    "Negative_Prompt": "happy beggar, happy creator, person praying, text artifacts, weak curse.",
+    "Hyperparameters": {
+      "variant": "pro",
+      "steps": 60,
+      "cfg_scale": 10,
+      "seed": "Explore the visual of the Creator being afflicted by the curse."
+    }
+  }
+}

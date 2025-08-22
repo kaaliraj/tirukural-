@@ -1,0 +1,39 @@
+{
+  "Kural_Info": {
+    "Number": 523,
+    "Chapter": "சுற்றந்தழால் (Cherishing Kinsmen)",
+    "Tamil_Text": "அளவளா வில்லாதான் வாழ்க்கை குளவளாக் கோடின்றி நீர்நிறைந் தற்று.",
+    "English_Meaning": "The wealth of one who does not mingle freely with his relatives, will be like the filling of water in a spacious tank that has no banks."
+  },
+  "Flux_Optimized_Prompt": {
+    "Layered_Composition": {
+      "Foreground": "A person is shown standing alone, refusing to mingle with their relatives who are nearby ('அளவளா வில்லாதான்').",
+      "Midground": "The person's wealth is visualized as a large body of water. However, because they are isolated, this body of water has no banks or retaining walls ('குளவளாக் கோடின்றி').",
+      "Background": "As wealth (water) pours in from a spring, it is not retained. It immediately spills out in all directions and is wasted, soaking uselessly into the surrounding barren ground. The wealth brings no lasting benefit."
+    },
+    "Art_Direction": {
+      "Subject_and_Action": "The life and wealth of a person who does not maintain a close relationship with their kin is like a bankless lake—it cannot hold the water that flows into it; it is wasted.",
+      "Symbolic_Motifs": "The bankless lake is the powerful and direct metaphor. The inflowing water represents incoming wealth, and the spilling, wasted water represents its lack of permanence and utility.",
+      "Mood_and_Emotion": "Wasteful, unstable, insecure, futile, isolated.",
+      "Lighting_and_Color": "A harsh, bleak light illuminates the scene. The water is shown being lost to barren, dusty ground. The colors are desaturated and suggest loss."
+    },
+    "Technical_Cues": {
+      "Camera": "A high-angle, wide shot that clearly shows the source of water, the bankless lake, and how the water is being lost to the surrounding land.",
+      "Resolution": "8K, with realistic fluid simulation for the spilling water.",
+      "Lighting": "Harsh, direct lighting to create a sense of waste and futility.",
+      "Art_Genre": "Surrealism, conceptual landscape art."
+    },
+    "Cultural_Anchors": [
+      "One who does not mingle with kin ('அளவளா வில்லாதான்')",
+      "A Bankless Lake ('கோடின்றி நீர்நிறைந்த குளம்')",
+      "The instability of wealth without a social support system."
+    ]
+  },
+  "Negative_Prompt": "person happily with family, lake with strong banks, text artifacts, cartoonish.",
+  "Hyperparameters": {
+    "variant": "dev",
+    "steps": 45,
+    "cfg_scale": 8,
+    "seed": "Explore variations for the barren ground."
+  }
+}

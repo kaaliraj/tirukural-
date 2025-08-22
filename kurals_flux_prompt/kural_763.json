@@ -1,0 +1,39 @@
+{
+  "Kural_Info": {
+    "Number": 763,
+    "Chapter": "படைமாட்சி (The Excellence of an Army)",
+    "Tamil_Text": "ஒலித்தக்கால் என்னாம் உவரி எலிப்பகைநாகம் உயிர்ப்பக் கெடும்.",
+    "English_Meaning": "What if (a host of) hostile rats roar like the sea? They will perish at the mere breath of the cobra."
+  },
+  "Flux_Optimized_Prompt": {
+    "Layered_Composition": {
+      "Foreground": "A single, magnificent, and powerful cobra ('நாகம்'), representing a disciplined, elite army, rises up, ready to strike.",
+      "Midground": "Before it, a colossal, swarming ocean of innumerable rats ('எலிப்பகை'), representing a vast but weak and disorganized enemy army, is shown roaring and surging forward like the sea ('உவரி ஒலித்தக்கால்').",
+      "Background": "The cobra simply exhales a single, powerful breath ('உயிர்ப்ப'). This breath becomes a wave of mystical, destructive energy that instantly causes the entire ocean of rats to perish and disintegrate ('கெடும்')."
+    },
+    "Art_Direction": {
+      "Subject_and_Action": "A powerful simile demonstrating that a vast, noisy, but undisciplined enemy, no matter how numerous, is utterly destroyed by the smallest exertion of a truly powerful and elite force.",
+      "Symbolic_Motifs": "The contrast in numbers and power is key: one versus a million. The victory is effortless—a single breath, not even a bite, is required. The rats roaring 'like the sea' emphasizes their loud but ultimately hollow threat.",
+      "Mood_and_Emotion": "Effortless victory, overwhelming power, quality over quantity.",
+      "Lighting_and_Color": "The cobra is depicted with majestic, powerful colors, perhaps glowing with an inner energy. The sea of rats is a chaotic, dirty, brown and grey mass. The cobra's breath is a brilliant, destructive wave of light.",
+      "Technical_Cues": {
+        "Camera": "A low-angle shot from behind the cobra, looking out at the vast sea of rats, emphasizing the cobra's dominant perspective.",
+        "Resolution": "8K, hyper-realistic, with advanced particle effects for the swarming rats and the destructive breath weapon.",
+        "Lighting": "The cobra and its breath are the primary light source, casting a terrifying light on the doomed enemy.",
+        "Art_Genre": "Epic fantasy battle, mythological art."
+      },
+      "Cultural_Anchors": [
+        "An army of rats (எலிப்பகை)",
+        "The cobra's breath (நாகம் உயிர்ப்ப)",
+        "Roaring like the sea (உவரி ஒலித்தக்கால்)"
+      ]
+    },
+    "Negative_Prompt": "cobra being defeated, rats winning, physical fighting, text artifacts, cartoonish animals.",
+    "Hyperparameters": {
+      "variant": "pro",
+      "steps": 55,
+      "cfg_scale": 9,
+      "seed": "Explore the visual effect of the 'destructive breath'."
+    }
+  }
+}

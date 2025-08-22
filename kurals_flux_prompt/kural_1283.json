@@ -1,0 +1,37 @@
+{
+  "Kural_Info": {
+    "Number": 1283,
+    "Chapter": "புணர்ச்சிவிதும்பல் (Desire for Reunion)",
+    "Tamil_Text": "பேணாது பெட்பவே செய்யினும் கொண்கனைக்காணா தமையல கண்.",
+    "English_Meaning": "Though my eyes disregard me and do what is pleasing to my husband, still will they not be satisfied unless they see him."
+  },
+  "Flux_Optimized_Prompt": {
+    "Layered_Composition": {
+      "Foreground": "A woman's eyes are personified. They are acting against her own will, which is to pout or be angry.",
+      "Midground": "Despite her intention, her eyes betray her. They insist on doing what is pleasing to her husband ('பெட்பவே செய்யினும்')—which is to look upon him. They are shown straining and striving to see him.",
+      "Background": "The image reveals that even after they succeed in looking at him, her eyes are still not satisfied ('காணாது அமையல'). They are filled with an insatiable hunger to keep gazing upon him, proving their complete devotion, independent of her own conscious mood."
+    },
+    "Art_Direction": {
+      "Subject_and_Action": "The woman's eyes have a will of their own; against her conscious decision to be aloof, they insist on looking at her husband, and even then, their desire to see him is never satisfied.",
+      "Symbolic_Motifs": "The personification of the eyes as independent, love-driven actors is the key. They are shown as rebels against her own mind. Their insatiable nature shows the depth of her love.",
+      "Mood_and_Emotion": "Uncontrollable love, insatiable, adoring, betrayal by one's own senses.",
+      "Lighting_and_Color": "An intense, focused light connects the woman's eyes to the image of her husband. Her eyes themselves might have a slight, hungry glow. The mood is one of intense, uncontrollable longing.",
+      "Technical_Cues": {
+        "Camera": "An extreme close-up on the woman's eyes, capturing their 'acting' on their own—straining, looking, and remaining unsated.",
+        "Resolution": "8K, ultra-realistic, focusing on the expressive power and 'hunger' of the eyes.",
+        "Lighting": "Intense, focused lighting to create a dramatic, obsessive mood.",
+        "Art_Genre": "Psychological portraiture, surrealism."
+      },
+      "Cultural_Anchors": [
+        "My eyes will not be satisfied without seeing him (கொண்கனைக் காணாது அமையல கண்)"
+      ]
+    },
+    "Negative_Prompt": "eyes looking away, satisfied eyes, text artifacts.",
+    "Hyperparameters": {
+      "variant": "dev",
+      "steps": 45,
+      "cfg_scale": 8,
+      "seed": "Explore the visual of 'insatiable eyes'."
+    }
+  }
+}

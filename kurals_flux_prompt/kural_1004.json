@@ -1,0 +1,33 @@
+{
+  "Kural_Info": {
+    "Number": 1004,
+    "Chapter": "நன்றியில்செல்வம் (Wealth without Benefaction)",
+    "Tamil_Text": "எச்சமென்று என்எண்ணுங் கொல்லோ ஒருவரால்நச்சப் படாஅ தவன்.",
+    "English_Meaning": "Whom no one loves, when he shall pass away, What doth he look to leave behind, I pray?."
+  },
+  "Flux_Optimized_Prompt": {
+    "Layered_Composition": {
+      "Foreground": "An old, wealthy miser ('Nachap Padaathavan' - one who is not loved) is shown on his deathbed, alone in a vast, opulent room.",
+      "Midground": "As his life fades, he looks behind him, but there is nothing there but an empty void. There are no loving descendants, no cherished memories, no legacy of good deeds—absolutely nothing left behind ('Echam').",
+      "Background": "His immense wealth, piled high in the room, is shown to be cold and meaningless, offering no comfort or legacy at the end of his unloved life."
+    },
+    "Art_Direction": {
+      "Subject_and_Action": "The tragic emptiness of a life lived without love or affection from others. The person leaves nothing of value behind, despite their material wealth.",
+      "Symbolic_Motifs": "The empty void where a legacy should be is the powerful central metaphor. The contrast between the material wealth and the spiritual emptiness is key.",
+      "Mood_and_Emotion": "Empty, tragic, desolate, lonely, questioning.",
+      "Lighting_and_Color": "The scene is lit with a single, cold, dim light source, casting long, lonely shadows. The colors are desaturated and melancholic, mostly cool grays, blues, and tarnished golds."
+    },
+    "Technical_Cues": {
+      "Camera": "Wide shot from behind the deathbed, so the viewer sees the vast emptiness of the legacy from the dying person's perspective.",
+      "Resolution": "8K, photorealistic, with a strong focus on the empty space and the textures of the cold, unused wealth.",
+      "Lighting": "Low-key, somber lighting to create a mood of desolation and regret.",
+      "Art_Genre": "Symbolic realism, with a cinematic and tragic atmosphere."
+    },
+    "Cultural_Anchors": [
+      "எச்சம் (Legacy/What is left behind)",
+      "நச்சப்படாதவன் (One who is not loved/desired)",
+      "The futility of wealth without relationships"
+    ]
+  },
+  "Negative_Prompt": "a room full of loving family, a bright and happy scene, a beautiful legacy, text artifacts, cartoonish, blurry."
+}

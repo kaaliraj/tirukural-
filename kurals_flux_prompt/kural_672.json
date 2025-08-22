@@ -1,0 +1,39 @@
+{
+  "Kural_Info": {
+    "Number": 672,
+    "Chapter": "வினைசெயல்வகை (Modes of Action)",
+    "Tamil_Text": "தூங்குக தூங்கிச் செயற்பால தூங்கற்க தூங்காது செய்யும் வினை.",
+    "English_Meaning": "Slumber when sleepy work's in hand: beware Thou slumber not when action calls for sleepless care!."
+  },
+  "Flux_Optimized_Prompt": {
+    "Layered_Composition": {
+      "Foreground": "A split composition. On the left, a person is shown peacefully sleeping ('தூங்குக'). The task before them is something that requires time and patience, like a seed slowly growing into a plant. Delay is appropriate here.",
+      "Midground": "On the right, the same person is shown wide-awake, alert, and acting with great speed and urgency ('தூங்கற்க'). The task before them is something that requires immediate action, like putting out a spreading fire.",
+      "Background": "The background shows the two outcomes: on the left, the plant has grown perfectly due to the patient waiting. On the right, the fire is successfully extinguished due to the swift action."
+    },
+    "Art_Direction": {
+      "Subject_and_Action": "A wise person knows when to delay (for tasks that require it) and when to act without any delay (for tasks that demand urgency).",
+      "Symbolic_Motifs": "The growing plant represents tasks where delay is beneficial. The spreading fire represents tasks where delay is disastrous. The person's state (sleeping vs. awake) shows the correct response to each.",
+      "Mood_and_Emotion": "Contrasting, patient vs. urgent, wise, adaptable.",
+      "Lighting_and_Color": "The left (slow) scene has a calm, gentle, slow-paced feel with soft light. The right (fast) scene is dynamic, urgent, and lit with the harsh, flickering light of the fire.",
+      "Technical_Cues": {
+        "Camera": "A balanced, diptych-style image that clearly contrasts the two types of tasks and the appropriate responses.",
+        "Resolution": "8K, with realistic plant growth (time-lapse feel) and fire effects.",
+        "Lighting": "Contrasting lighting to match the mood of each task.",
+        "Art_Genre": "Narrative illustration, with symbolic elements."
+      }
+    },
+    "Cultural_Anchors": [
+      "Delay for tasks that need delay ('தூங்குக தூங்கிச் செயற்பால')",
+      "Do not delay for tasks that need urgency ('தூங்கற்க தூங்காது செய்யும் வினை')",
+      "The wisdom of appropriate timing."
+    ]
+  },
+  "Negative_Prompt": "person sleeping next to the fire, person watering the fire, text artifacts.",
+  "Hyperparameters": {
+    "variant": "pro",
+    "steps": 45,
+    "cfg_scale": 8,
+    "seed": "Explore variations for the fire and plant."
+  }
+}

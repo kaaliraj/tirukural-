@@ -1,0 +1,39 @@
+{
+  "Kural_Info": {
+    "Number": 512,
+    "Chapter": "தெரிந்துவினையாடல் (Selection and Employment)",
+    "Tamil_Text": "வாரி பெருக்கி வளம்படுத்து உற்றவை ஆராய்வான் செய்க வினை.",
+    "English_Meaning": "Let him do (the king's) work who can enlarge the sources (of revenue), increase wealth and considerately prevent the accidents (which would destroy it)."
+  },
+  "Flux_Optimized_Prompt": {
+    "Layered_Composition": {
+      "Foreground": "An ideal minister is depicted performing three essential tasks for the kingdom. On the left, they are shown widening a river, symbolizing the enlargement of revenue sources ('வாரி பெருக்கி').",
+      "Midground": "In the center, they are nurturing a sapling into a great, fruit-bearing tree, symbolizing the increase of wealth ('வளம்படுத்து'). On the right, they are building a strong dam to prevent a flood, symbolizing the prevention of unforeseen problems ('உற்றவை ஆராய்வான்').",
+      "Background": "A prosperous, thriving kingdom that is the direct result of this minister's comprehensive and skillful work."
+    },
+    "Art_Direction": {
+      "Subject_and_Action": "The person fit for the king's work is one who can simultaneously increase revenue, grow wealth, and proactively prevent disasters.",
+      "Symbolic_Motifs": "The three actions—widening the river, growing the tree, and building the dam—are clear metaphors for the three key economic functions of a great minister.",
+      "Mood_and_Emotion": "Productive, skillful, protective, prosperous, competent.",
+      "Lighting_and_Color": "Bright, sunny, and optimistic lighting. The colors are vibrant and lush, reflecting the prosperity of the kingdom. The water is clear, and the tree is laden with golden fruit."
+    },
+    "Technical_Cues": {
+      "Camera": "A panoramic triptych-style shot, showing the minister engaged in all three activities across the frame.",
+      "Resolution": "8K, with rich detail in the landscape and the minister's actions.",
+      "Lighting": "Clear, daytime lighting symbolizing good and transparent governance.",
+      "Art_Genre": "Idealized historical realism, mural style."
+    },
+    "Cultural_Anchors": [
+      "Enlarging Revenue ('வாரி பெருக்கி')",
+      "Increasing Wealth ('வளம்படுத்து')",
+      "Preventing Problems ('உற்றவை ஆராய்வான்')"
+    ]
+  },
+  "Negative_Prompt": "minister destroying resources, withered tree, broken dam, poor kingdom, text artifacts.",
+  "Hyperparameters": {
+    "variant": "pro",
+    "steps": 50,
+    "cfg_scale": 8,
+    "seed": "Explore variations for the design of the fruit-bearing tree."
+  }
+}

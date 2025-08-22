@@ -1,0 +1,38 @@
+{
+  "Kural_Info": {
+    "Number": 1189,
+    "Chapter": "பசப்புறுபருவரல் (The Pallid Hue)",
+    "Tamil_Text": "பசக்கமன் பட்டாங்கென் மேனி நயப்பித்தார்நன்னிலையர் ஆவர் எனின்.",
+    "English_Meaning": "If he is clear of guilt who has conciliated me (to his departure) let my body suffer its due and turn sallow."
+  },
+  "Flux_Optimized_Prompt": {
+    "Layered_Composition": {
+      "Foreground": "A woman's body ('என் மேனி') is shown accepting and even welcoming the sallow hue ('பசக்க'). Her posture is one of noble, willing sacrifice.",
+      "Midground": "This sacrifice is being made for a specific reason. In a vision, her lover who persuaded her to accept his departure ('நயப்பித்தார்') is shown in a 'good state' ('நன்னிலையர்'). He is prosperous, successful, and honorable on his journey.",
+      "Background": "The woman is making a bargain with fate: she is willingly letting her body suffer its due affliction, as long as it ensures that he, who won her consent, remains well and free from blame."
+    },
+    "Art_Direction": {
+      "Subject_and_Action": "A noble declaration of self-sacrifice: 'Let my body suffer the pallor it deserves, if it means that my lover, who persuaded me to this, remains in a good and honorable state.'",
+      "Symbolic_Motifs": "The act of willingly embracing the pallor is key. She is not fighting it, but accepting it as her side of a bargain. The vision of the prosperous lover is the benefit for which she is paying the price.",
+      "Mood_and_Emotion": "Self-sacrificing, noble, loving, stoic.",
+      "Lighting_and_Color": "A soft, tragic, but noble light illuminates the woman. The pallor on her skin is present, but it does not look ugly; rather, it looks like a mark of her sacrifice. The vision of her lover is in a bright, successful, golden light.",
+      "Technical_Cues": {
+        "Camera": "A close-up on the woman's face, capturing her expression of noble acceptance, with the vision of her successful lover visible in the background.",
+        "Resolution": "8K, ultra-realistic, with a focus on the bittersweet and noble emotion.",
+        "Lighting": "A soft, ethereal light that gives a sense of holy sacrifice.",
+        "Art_Genre": "Romantic portraiture, with symbolic elements."
+      },
+      "Cultural_Anchors": [
+        "Let my body turn sallow (பசக்கமன் என் மேனி)",
+        "If he who persuaded me is in a good state (நயப்பித்தார் நன்னிலையர் ஆவர் எனின்)"
+      ]
+    },
+    "Negative_Prompt": "angry woman, suffering lover, text artifacts.",
+    "Hyperparameters": {
+      "variant": "pro",
+      "steps": 50,
+      "cfg_scale": 8,
+      "seed": "Explore the expression of 'noble sacrifice'."
+    }
+  }
+}

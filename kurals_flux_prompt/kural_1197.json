@@ -1,0 +1,33 @@
+{
+  "Kural_Info": {
+    "Number": 1197,
+    "Chapter": "தனிப்படர்மிகுதி (The Solitary Anguish)",
+    "Tamil_Text": "பருவரலும் பைதலும் காணான்கொல் காமன்ஒருவர்கண் நின்றொழுகு வான்.",
+    "English_Meaning": "While Kaman rushes straight at me alone, Is all my pain and wasting grief unknown?."
+  },
+  "Flux_Optimized_Prompt": {
+    "Layered_Composition": {
+      "Foreground": "A woman is shown suffering from intense lovesickness ('Paruvaralum Paithalum'). Her form is weary and pale.",
+      "Midground": "The god of love, Kamadevan ('Kaaman'), is depicted with his sugarcane bow, but he is only aiming his flower arrows at her ('Oruvarkan Nindrozhuguvaan'). His back is turned to her distant, unaffected lover.",
+      "Background": "The woman looks accusingly at Kamadevan, as if asking him if he is blind to the one-sided suffering he is causing. The background is a swirl of her painful emotions."
+    },
+    "Art_Direction": {
+      "Subject_and_Action": "A lament addressed to the god of love, questioning if he is blind or cruel for focusing all his power on just one of the two lovers, causing unbalanced and unfair suffering.",
+      "Symbolic_Motifs": "Kamadevan aiming his arrows at only one person. The contrast between her visible suffering and her lover's non-existence or indifference in the scene.",
+      "Mood_and_Emotion": "Accusatory, painful, unjust, questioning a divine force.",
+      "Lighting_and_Color": "A dramatic, intense light on the suffering woman. Kamadevan is depicted in divine, perhaps mockingly beautiful, colors. The overall scene is emotionally charged and turbulent."
+    },
+    "Technical_Cues": {
+      "Camera": "A dynamic shot that includes the suffering woman and the god Kamadevan in a tense, triangular composition (with the absent lover as the third point).",
+      "Resolution": "8K, mythological realism, with a classical depiction of Kamadevan.",
+      "Lighting": "Mythological, divine lighting that contrasts with the very human suffering of the protagonist.",
+      "Art_Genre": "Mythological painting, depicting a dramatic confrontation between a mortal and a god."
+    },
+    "Cultural_Anchors": [
+      "காமன் (Kamadevan, the god of love)",
+      "The concept of one-sided divine influence",
+      "பருவரல், பைதல் (Anguish, wasting grief)"
+    ]
+  },
+  "Negative_Prompt": "Kamadevan aiming at both lovers, a happy woman, modern weapons, text artifacts, cartoonish."
+}

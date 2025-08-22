@@ -1,0 +1,33 @@
+{
+  "Kural_Info": {
+    "Number": 1253,
+    "Chapter": "நிறையழிதல் (Reserve Overcome)",
+    "Tamil_Text": "மறைப்பேன்மன் காமத்தை யானோ குறிப்பின்றித்தும்மல்போல் தோன்றி விடும்.",
+    "English_Meaning": "I would my love conceal, but like a sneeze It shows itself, and gives no warning sign."
+  },
+  "Flux_Optimized_Prompt": {
+    "Layered_Composition": {
+      "Foreground": "A woman is in a public setting, trying her best to maintain a composed, neutral expression, actively attempting to hide her love ('Maraippenman Kaamaththai').",
+      "Midground": "Suddenly and without warning, her hidden love erupts from her. This is visualized not as an emotional outburst, but as an involuntary, uncontrollable sneeze ('Thummal pol').",
+      "Background": "The 'sneeze' of love is a shower of glowing, heart-shaped particles that bursts forth, revealing her feelings to everyone around her, much to her own surprise and embarrassment."
+    },
+    "Art_Direction": {
+      "Subject_and_Action": "A humorous and relatable metaphor: trying to hide one's love is futile, because it will inevitably reveal itself without warning, as uncontrollably as a sneeze.",
+      "Symbolic_Motifs": "Love revealing itself as a literal sneeze of heart-particles is the central, memorable image.",
+      "Mood_and_Emotion": "Involuntary, surprising, slightly embarrassing, and humorous.",
+      "Lighting_and_Color": "Bright, clear, public lighting. The 'sneeze' of hearts provides a sudden burst of warm, magical, golden light, betraying her secret."
+    },
+    "Technical_Cues": {
+      "Camera": "Medium shot capturing the woman's composed face just before the 'sneeze,' and her surprised reaction as it happens.",
+      "Resolution": "8K, photorealistic with whimsical particle effects for the hearts.",
+      "Lighting": "Natural lighting, with a sudden flash of magical light from the sneeze itself.",
+      "Art_Genre": "Romantic comedy, with a touch of magical realism."
+    },
+    "Cultural_Anchors": [
+      "தும்மல் (Sneeze) as an uncontrollable action",
+      "The involuntary nature of revealing love",
+      "The futility of hiding true feelings"
+    ]
+  },
+  "Negative_Prompt": "a controlled expression of love, a dark setting, a sad woman, text artifacts, cartoonish, blurry."
+}

@@ -1,0 +1,33 @@
+{
+  "Kural_Info": {
+    "Number": 1003,
+    "Chapter": "நன்றியில்செல்வம் (Wealth without Benefaction)",
+    "Tamil_Text": "ஈட்டம் இவறி இசைவேண்டா ஆடவர்தோற்றம் நிலக்குப் பொறை.",
+    "English_Meaning": "Who lust to heap up wealth, but glory hold not dear, It burthens earth when on the stage of being they appear."
+  },
+  "Flux_Optimized_Prompt": {
+    "Layered_Composition": {
+      "Foreground": "A group of miserly individuals are shown, their forms grotesquely weighted down, as if physically made of the heavy, inert gold they have hoarded.",
+      "Midground": "The very ground ('Nilam') beneath their feet is groaning and cracking under their immense weight, symbolizing that they are a true burden ('Porai') to the earth.",
+      "Background": "In the distance, other figures who pursue glory ('Isai') through virtuous acts are depicted as light and almost floating, causing flowers to bloom where they step, providing a stark contrast."
+    },
+    "Art_Direction": {
+      "Subject_and_Action": "A literal visualization of the concept that those who only hoard wealth and do not seek honorable glory are a heavy, useless burden upon the world.",
+      "Symbolic_Motifs": "The cracking earth is the central image. The figures being physically composed of their hoard makes the metaphor visceral. The light, graceful figures in the background represent the opposite ideal.",
+      "Mood_and_Emotion": "Heavy, burdensome, oppressive, with a sense of stagnation and waste.",
+      "Lighting_and_Color": "The misers are lit with a heavy, oppressive top-down light, in dull, metallic colors. The background figures are lit with bright, ethereal light in a vibrant palette."
+    },
+    "Technical_Cues": {
+      "Camera": "Ultra-wide shot with a low angle to exaggerate the weight of the misers and the strain on the earth beneath them.",
+      "Resolution": "8K, surreal realism, with detailed ground cracking effects and textures.",
+      "Lighting": "Dramatic, high-contrast lighting to separate the burdensome figures from the ideal ones.",
+      "Art_Genre": "Symbolic surrealism, with a strong, allegorical message."
+    },
+    "Cultural_Anchors": [
+      "நிலக்குப் பொறை (Burden to the Earth)",
+      "ஈட்டம் (Hoarding)",
+      "இசை (Glory/Fame)"
+    ]
+  },
+  "Negative_Prompt": "light and happy misers, stable ground, modern setting, text artifacts, cartoonish, blurry."
+}

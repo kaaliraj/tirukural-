@@ -1,0 +1,39 @@
+{
+  "Kural_Info": {
+    "Number": 1061,
+    "Chapter": "இரவச்சம் (The Dread of Mendicancy)",
+    "Tamil_Text": "கரவாது உவந்தீயும் கண்ணன்னார் கண்ணும்இரவாமை கோடி உறும்.",
+    "English_Meaning": "Not to beg (at all) even from those excellent persons who cheerfully give without refusing, will do immense good."
+  },
+  "Flux_Optimized_Prompt": {
+    "Layered_Composition": {
+      "Foreground": "A person in dire need stands before a potential benefactor. This benefactor is the perfect giver: their heart is open ('கரவாது'), their face is joyful ('உவந்து'), and their generosity is as precious as sight ('கண்ணன்னார்').",
+      "Midground": "Despite the absolute certainty of receiving help, the person in need makes a supreme act of will. They restrain themselves, choosing not to ask ('இரவாமை').",
+      "Background": "The moment they make this choice of self-reliance, a colossal, divine treasure chest materializes behind them, overflowing with ten million gold coins, representing the immense good or merit ('கோடி உறும்') earned by this single act of refraining from begging."
+    },
+    "Art_Direction": {
+      "Subject_and_Action": "The act of refraining from begging, even from the most perfect and willing giver, is an act of immense virtue that brings a reward millions of times greater than the alms would have been.",
+      "Symbolic_Motifs": "The perfection of the giver is crucial, as it makes the choice not to ask a much harder and more virtuous one. The sudden, magical appearance of the immense treasure is the direct, divine consequence of this choice.",
+      "Mood_and_Emotion": "Dignified, self-reliant, immensely virtuous, triumphant.",
+      "Lighting_and_Color": "The perfect giver is bathed in a warm, welcoming, golden light. However, the person who refrains from begging is suddenly illuminated by an even more brilliant, divine, white-gold light from the appearing treasure, signifying their superior moral achievement.",
+      "Technical_Cues": {
+        "Camera": "A dramatic shot that captures the moment of decision, focusing on the pained but resolute expression of the person choosing not to beg, followed by the magnificent appearance of their reward.",
+        "Resolution": "8K, ultra-realistic, with spectacular particle effects for the materializing treasure chest.",
+        "Lighting": "A shift of focus from the 'light of the giver' to the even greater 'light of self-reliant dignity'.",
+        "Art_Genre": "High fantasy art, magical realism."
+      },
+      "Cultural_Anchors": [
+        "Not begging (இரவாமை)",
+        "Even from a perfect giver (கரவாது உவந்து ஈயும் கண் அன்னார் கண்ணும்)",
+        "Is worth crores (கோடி உறும்)"
+      ]
+    },
+    "Negative_Prompt": "person begging, angry giver, small reward, text artifacts.",
+    "Hyperparameters": {
+      "variant": "pro",
+      "steps": 55,
+      "cfg_scale": 9,
+      "seed": "Explore the magnificent design of the divine treasure chest."
+    }
+  }
+}

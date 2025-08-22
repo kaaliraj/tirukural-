@@ -1,0 +1,39 @@
+{
+  "Kural_Info": {
+    "Number": 37,
+    "Chapter": "அறன் வலியுறுத்தல் (Assertion of the Strength of Virtue)",
+    "Tamil_Text": "அறத்தாறு இதுவென வேண்டா சிவிகைபொறுத்தானோடு ஊர்ந்தான் இடை.",
+    "English_Meaning": "The fruit of virtue need not be described in books; it may be inferred from seeing the bearer of a palanquin and the rider therein."
+  },
+  "Flux_Optimized_Prompt": {
+    "Layered_Composition": {
+      "Foreground": "A stark, clear depiction of a palanquin ('சிவிகை') being carried. The focus is on the dramatic contrast between the two types of figures.",
+      "Midground": "Inside the palanquin sits a serene, dignified rider ('ஊர்ந்தான்'), looking comfortable and respected. Outside, the bearers ('பொறுத்தான்') toil under the weight, their bodies showing strain and hardship.",
+      "Background": "A simple, neutral background, perhaps a dusty road in an ancient Tamil setting, to ensure nothing distracts from the central, allegorical scene. In the distance, a library filled with books on virtue is shown with its doors closed, symbolizing they are not needed to understand this truth."
+    },
+    "Art_Direction": {
+      "Subject_and_Action": "A direct, powerful visual allegory demonstrating the tangible results of virtue and its absence, making elaborate verbal explanations unnecessary.",
+      "Symbolic_Motifs": "The rider's relaxed posture and fine clothes represent the fruits of good karma (virtue). The bearers' strained muscles and simple loincloths represent the consequences of its lack. The entire scene is framed as a living lesson.",
+      "Mood_and_Emotion": "Illustrative, stark reality, cause and effect, contemplative.",
+      "Lighting_and_Color": "Natural, high-contrast sunlight. The rider is comfortably in the shade of the palanquin, while the bearers are exposed to the harsh sun, creating a visual metaphor for their respective states of being. The palette is realistic and earthy."
+    },
+    "Technical_Cues": {
+      "Camera": "Eye-level wide shot, 50mm lens, capturing the entire scene with a documentary-like clarity and focus.",
+      "Resolution": "8K, hyper-realistic, with strong emphasis on the contrasting details of the rider's comfort and the bearers' toil.",
+      "Lighting": "Strong, direct sunlight to create harsh shadows and highlight the sweat and strain on the bearers.",
+      "Art_Genre": "Historical realism, social realism in the style of a master painting."
+    },
+    "Cultural_Anchors": [
+      "The Palanquin (சிவிகை) as a status symbol",
+      "The Rider (ஊர்ந்தான்) and the Bearer (பொறுத்தான்)",
+      "The concept of visible karma"
+    ]
+  },
+  "Negative_Prompt": "happy bearers, struggling rider, futuristic vehicle, abstract background, text artifacts, non-Tamil physiognomy.",
+  "Hyperparameters": {
+    "variant": "dev",
+    "steps": 45,
+    "cfg_scale": 9,
+    "seed": "Explore variations in the expressions of the rider and bearers."
+  }
+}

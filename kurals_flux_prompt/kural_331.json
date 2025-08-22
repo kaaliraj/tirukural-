@@ -1,0 +1,39 @@
+{
+  "Kural_Info": {
+    "Number": 331,
+    "Chapter": "நிலையாமை (Instability)",
+    "Tamil_Text": "நில்லாத வற்றை நிலையின என்றுணரும்புல்லறி வாண்மை கடை.",
+    "English_Meaning": "That ignorance which considers those things to be stable which are not so, is dishonourable (to the wise)."
+  },
+  "Flux_Optimized_Prompt": {
+    "Layered_Composition": {
+      "Foreground": "A foolish person ('புல்லறிவாளர்') is shown desperately trying to build a grand palace using materials that are inherently unstable ('நில்லாதவை'): river mist, shifting sand, and smoke.",
+      "Midground": "The palace, despite their efforts, is constantly dissolving and collapsing, representing the futility of believing in the permanence of the impermanent.",
+      "Background": "In the distance, a wise sage is shown sitting peacefully, observing this futile act with a compassionate but knowing gaze. The sage is building a small, simple, but solid hut out of stone, representing the recognition of true permanence."
+    },
+    "Art_Direction": {
+      "Subject_and_Action": "The ultimate folly and baseness ('கடை') of a shallow intellect is to mistake the impermanent for the permanent and to build one's life on that false assumption.",
+      "Symbolic_Motifs": "The choice of building materials (mist, sand, smoke) is a direct metaphor for worldly things like youth, wealth, and power. The constant collapse of the palace symbolizes the inevitable failure of a life based on attachment to these things.",
+      "Mood_and_Emotion": "Futile, foolish, tragic, deluded.",
+      "Lighting_and_Color": "The foolish person's palace is lit with a deceptive, shimmering, and unstable light. The colors are flashy but insubstantial. The wise sage and their stone hut are in a clear, steady, and honest light.",
+      "Technical_Cues": {
+        "Camera": "A wide shot that contrasts the frantic, failing efforts of the fool with the calm, successful wisdom of the sage.",
+        "Resolution": "8K, ultra-realistic, with advanced particle and fluid dynamics for the mist, sand, and smoke palace.",
+        "Lighting": "Unstable, flickering light on the fool's palace versus a constant, serene light on the sage's hut.",
+        "Art_Genre": "Surrealist allegorical painting."
+      },
+      "Cultural_Anchors": [
+        "The impermanent (நில்லாதவற்றை)",
+        "Considering them permanent (நிலையின என்றுணரும்)",
+        "Shallow intellect (புல்லறிவாண்மை)"
+      ]
+    },
+    "Negative_Prompt": "stable palace of smoke, struggling sage, text artifacts, cartoonish.",
+    "Hyperparameters": {
+      "variant": "pro",
+      "steps": 50,
+      "cfg_scale": 9,
+      "seed": "Explore the visual of a dissolving palace made of mist and smoke."
+    }
+  }
+}

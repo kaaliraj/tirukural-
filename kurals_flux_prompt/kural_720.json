@@ -1,0 +1,38 @@
+{
+  "Kural_Info": {
+    "Number": 720,
+    "Chapter": "அவையறிதல் (The Knowledge of the Council Chamber)",
+    "Tamil_Text": "அங்கணத்துள் உக்க அமிழ்தற்றால் தங்கணத்தார்அல்லார்முன் கோட்டி கொளல்.",
+    "English_Meaning": "To utter (a good word) in the assembly of those who are of inferior rank is like dropping nectar on the ground."
+  },
+  "Flux_Optimized_Prompt": {
+    "Layered_Composition": {
+      "Foreground": "A person is speaking profound words of wisdom before an assembly of unworthy, foolish people who are not of their kind ('தங்கணத்தார் அல்லார் முன்').",
+      "Midground": "The profound words are visualized as a stream of precious, divine ambrosia ('அமிழ்து') flowing from the speaker's mouth.",
+      "Background": "Because the audience is unworthy and unable to receive it, the divine ambrosia does not reach them. Instead, it falls uselessly into a dirty, squalid sewer drain in the middle of the courtyard ('அங்கணத்துள் உக்க'), where it is completely wasted. The audience is shown to be oblivious to the precious substance being wasted before them."
+    },
+    "Art_Direction": {
+      "Subject_and_Action": "A powerful and visceral simile: speaking profound truths before an unworthy audience is as wasteful and disgusting as pouring divine nectar into a filthy sewer.",
+      "Symbolic_Motifs": "The contrast between the pure, divine nectar and the filthy, disgusting sewer is the core of the image. The indifference of the unworthy audience to this tragic waste is a key element.",
+      "Mood_and_Emotion": "Wasteful, tragic, disgusting, futile, pearls before swine.",
+      "Lighting_and_Color": "The ambrosia glows with a beautiful, divine, golden light. The sewer and the courtyard are dirty, dark, and squalid. The contrast makes the act of waste even more poignant.",
+      "Technical_Cues": {
+        "Camera": "A low-angle shot that emphasizes the precious nectar being poured down into the filthy drain, highlighting the tragedy of the waste.",
+        "Resolution": "8K, hyper-realistic, with glowing, viscous liquid effects for the ambrosia and dirty, textured detail for the sewer.",
+        "Lighting": "The glowing ambrosia is the only beautiful light source, and it is being extinguished in the darkness of the drain.",
+        "Art_Genre": "Dark realism, with symbolic elements."
+      },
+      "Cultural_Anchors": [
+        "Like ambrosia spilt in a dirty courtyard (அங்கணத்துள் உக்க அமிழ்தற்றால்)",
+        "Speaking before those who are not one's own kind (தங்கணத்தார் அல்லார் முன்)"
+      ]
+    },
+    "Negative_Prompt": "audience drinking the ambrosia, clean courtyard, text artifacts, speaker looking happy.",
+    "Hyperparameters": {
+      "variant": "pro",
+      "steps": 55,
+      "cfg_scale": 9,
+      "seed": "Explore the visual contrast between the glowing nectar and the filthy drain."
+    }
+  }
+}

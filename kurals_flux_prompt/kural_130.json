@@ -1,0 +1,39 @@
+{
+  "Kural_Info": {
+    "Number": 130,
+    "Chapter": "அடக்கமுடைமை (The Possession of Self-restraint)",
+    "Tamil_Text": "கதங்காத்துக் கற்றடங்கல் ஆற்றுவான் செவ்விஅறம்பார்க்கும் ஆற்றின் நுழைந்து.",
+    "English_Meaning": "Virtue, seeking for an opportunity, will come into the path of that man who, possessed of learning and self-control, guards himself against anger."
+  },
+  "Flux_Optimized_Prompt": {
+    "Layered_Composition": {
+      "Foreground": "A wise and learned person is shown actively guarding against anger ('கதம் காத்து'). This is visualized as them building a calm, serene sanctuary around themselves.",
+      "Midground": "They are also practicing learned self-control ('கற்று அடங்கல்'), shown by their calm, meditative posture within the sanctuary.",
+      "Background": "Virtue ('அறம்'), personified as a beautiful, radiant, divine being, is shown actively seeking a path ('ஆற்றின் நுழைந்து') to enter the world. It sees the calm sanctuary created by the person's self-control and chooses that exact moment and place ('செவ்வி பார்க்கும்') to enter and reside."
+    },
+    "Art_Direction": {
+      "Subject_and_Action": "Virtue itself actively seeks out and enters the life of the person who has mastered learning, controlled their anger, and achieved self-mastery.",
+      "Symbolic_Motifs": "Virtue is not a passive quality to be achieved, but an active, divine force that seeks a worthy vessel. The sanctuary of self-control is the 'opportune place' that attracts Virtue. The entry of Virtue is the ultimate reward for the person's discipline.",
+      "Mood_and_Emotion": "Attraction of grace, serene, disciplined, divine choice.",
+      "Lighting_and_Color": "The sanctuary is lit with a calm, cool, blue light of control. The personified Virtue is a being of brilliant, warm, golden light. The moment Virtue enters the sanctuary, the entire scene is transformed by its warm, divine glow.",
+      "Technical_Cues": {
+        "Camera": "A shot that shows the searching Virtue in the background finding its opportunity and entering the serene sanctuary of the person in the foreground.",
+        "Resolution": "8K, ultra-realistic, with a beautiful and divine personification of Virtue.",
+        "Lighting": "A dramatic shift in lighting from the cool blue of control to the warm gold of indwelling Virtue.",
+        "Art_Genre": "Mythological painting, high fantasy art."
+      },
+      "Cultural_Anchors": [
+        "Guarding against anger (கதம் காத்து)",
+        "Learned self-control (கற்று அடங்கல்)",
+        "Virtue seeking a path (அறம் பார்க்கும் ஆற்றின் நுழைந்து)"
+      ]
+    },
+    "Negative_Prompt": "angry person, virtue avoiding the person, dark sanctuary, text artifacts.",
+    "Hyperparameters": {
+      "variant": "pro",
+      "steps": 55,
+      "cfg_scale": 8,
+      "seed": "Explore the design of the personified 'Virtue'."
+    }
+  }
+}

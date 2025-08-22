@@ -1,0 +1,39 @@
+{
+  "Kural_Info": {
+    "Number": 454,
+    "Chapter": "சிற்றினஞ்சேராமை (Avoiding mean Associations)",
+    "Tamil_Text": "மனத்து ளதுபோலக் காட்டி ஒருவற்கு இனத்துள தாகும் அறிவு.",
+    "English_Meaning": "Wisdom appears to rest in the mind, but it really exists to a man in his companions."
+  },
+  "Flux_Optimized_Prompt": {
+    "Layered_Composition": {
+      "Foreground": "A person is shown with a glowing light within their head, as if representing their own inner wisdom ('மனத்துளதுபோல').",
+      "Midground": "However, the image reveals that this light is not self-generated. It is actually being channeled into them from a luminous, wise group of companions ('இனத்துளது') they are standing with. The true source of their wisdom is their association.",
+      "Background": "A setting that suggests shared knowledge, like a roundtable discussion or a collaborative workshop, all bathed in a collective light."
+    },
+    "Art_Direction": {
+      "Subject_and_Action": "While wisdom may seem like an individual, internal quality, it is in reality a product of the company one keeps.",
+      "Symbolic_Motifs": "The light of wisdom being channeled from the group to the individual is the key visual metaphor. It corrects the illusion that wisdom is purely an internal phenomenon.",
+      "Mood_and_Emotion": "Collaborative, interconnected, insightful, enlightening.",
+      "Lighting_and_Color": "A powerful, shared golden light connects the entire group and illuminates the central individual. The palette is warm and unified, emphasizing the collective source of wisdom."
+    },
+    "Technical_Cues": {
+      "Camera": "A wide shot that clearly shows the individual and their connection to the group, revealing the source of their 'inner' light.",
+      "Resolution": "8K, with ethereal light ray effects showing the transfer of knowledge.",
+      "Lighting": "Volumetric lighting to create visible beams of light flowing from the companions to the individual.",
+      "Art_Genre": "Symbolic realism, metaphysical art."
+    },
+    "Cultural_Anchors": [
+      "Wisdom from company ('இனத்துளதாகும் அறிவு')",
+      "The illusion of purely internal wisdom ('மனத்துளதுபோல')",
+      "The collective nature of intelligence."
+    ]
+  },
+  "Negative_Prompt": "person generating their own light, dark companions, text artifacts, cartoonish figures.",
+  "Hyperparameters": {
+    "variant": "pro",
+    "steps": 45,
+    "cfg_scale": 7,
+    "seed": "Explore variations for the light channeling effect."
+  }
+}

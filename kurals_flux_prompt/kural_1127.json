@@ -1,0 +1,39 @@
+{
+  "Kural_Info": {
+    "Number": 1127,
+    "Chapter": "காதற்சிறப்புரைத்தல் (Declaration of Love's special Excellence)",
+    "Tamil_Text": "கண்ணுள்ளார் காத லவராகக் கண்ணும்எழுதேம் கரப்பாக்கு அறிந்து.",
+    "English_Meaning": "As my lover abides in my eyes, I will not even paint them, for he would (then) have to conceal himself."
+  },
+  "Flux_Optimized_Prompt": {
+    "Layered_Composition": {
+      "Foreground": "A woman is shown looking into a mirror, holding a kohl pencil as if to apply makeup to her eyes.",
+      "Midground": "A transparent view reveals that the perfect image of her lover is residing comfortably within her eyes ('கண்ணுள்ளார் காதலவராக').",
+      "Background": "She is shown deliberately lowering the kohl pencil, choosing not to apply the makeup ('கண்ணும் எழுதேம்'). Her reason is visualized: if she were to apply the dark kohl, it would act as a curtain, hiding her lover from her sight and hiding her from his ('கரப்பாக்கு அறிந்து')."
+    },
+    "Art_Direction": {
+      "Subject_and_Action": "The beloved refuses to paint her eyes with kohl because her lover resides within them, and she fears the makeup would hide him.",
+      "Symbolic_Motifs": "The kohl as a 'curtain' that would hide the indwelling lover is the central concept. Her choice is one of ultimate intimacy, preferring his constant inner presence over outer adornment.",
+      "Mood_and_Emotion": "Intimate, devoted, selfless.",
+      "Lighting_and_Color": "A soft, intimate, boudoir light. The image of the lover in her eyes glows with a gentle, warm light. The kohl is a stark, dark black that would obscure this light.",
+      "Technical_Cues": {
+        "Camera": "A close-up on the woman's face as she looks in the mirror, showing her reflection, her eyes, and the reason for her decision.",
+        "Resolution": "8K, ultra-realistic, with a focus on the loving expression and the symbolic choice.",
+        "Lighting": "Soft, natural lighting.",
+        "Art_Genre": "Romantic realism."
+      },
+      "Cultural_Anchors": [
+        "My lover is within my eyes (கண்ணுள்ளார் காதலவராக)",
+        "I will not paint them (கண்ணும் எழுதேம்)",
+        "Knowing it would hide him (கரப்பாக்கு அறிந்து)"
+      ]
+    },
+    "Negative_Prompt": "woman applying kohl happily, empty eyes, text artifacts.",
+    "Hyperparameters": {
+      "variant": "dev",
+      "steps": 40,
+      "cfg_scale": 7,
+      "seed": "Focus on her gentle expression of loving refusal."
+    }
+  }
+}

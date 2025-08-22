@@ -1,0 +1,38 @@
+{
+  "Kural_Info": {
+    "Number": 352,
+    "Chapter": "மெய்யுணர்தல் (Truth-Conciousness)",
+    "Tamil_Text": "இருள்நீங்கி இன்பம் பயக்கும் மருள்நீங்கிமாசறு காட்சி யவர்க்கு.",
+    "English_Meaning": "A clear, undimmed vision of things will deliver its possessors from the darkness of future births, and confer the felicity (of heaven)."
+  },
+  "Flux_Optimized_Prompt": {
+    "Layered_Composition": {
+      "Foreground": "A person achieves a 'flawless vision' ('மாசறு காட்சி'). Their mind is depicted as a perfect, clear, flawless crystal lens that sees reality with absolute clarity.",
+      "Midground": "Because of this flawless vision, the mists of delusion and confusion ('மருள்') are shown being completely burned away ('நீங்கி').",
+      "Background": "This has a dual effect. First, the darkness of the cycle of rebirth ('இருள்') is dispelled. Second, a brilliant, divine light of supreme bliss and felicity ('இன்பம்') is revealed and pours down upon them ('பயக்கும்')."
+    },
+    "Art_Direction": {
+      "Subject_and_Action": "For those who attain a flawless vision free from delusion, the darkness of rebirth is removed and the bliss of liberation is bestowed.",
+      "Symbolic_Motifs": "The mind as a perfect lens that burns away the fog of delusion is the central metaphor. The dual effect—removing the darkness and revealing the light—is the key outcome. The bliss is not created, but revealed, as if it was always there but was obscured by the delusion.",
+      "Mood_and_Emotion": "Liberating, illuminating, blissful, clear.",
+      "Lighting_and_Color": "The scene transitions from a grey, misty confusion to a brilliant, pure, and absolute white-gold light of bliss. The flawless lens of the mind is the catalyst for this transformation.",
+      "Technical_Cues": {
+        "Camera": "A shot that shows the moment the mind becomes a perfect lens, and the immediate, dramatic effect of the fog of delusion being burned away to reveal the light of bliss.",
+        "Resolution": "8K, ultra-realistic, with advanced fog, lens, and volumetric light effects.",
+        "Lighting": "A dramatic shift from dim and obscure to brilliant and absolute light.",
+        "Art_Genre": "High fantasy, mystical art."
+      },
+      "Cultural_Anchors": [
+        "For those of flawless vision, freed from delusion (மருள் நீங்கி மாசறு காட்சியவர்க்கு)",
+        "Darkness is removed, and bliss is produced (இருள் நீங்கி இன்பம் பயக்கும்)"
+      ]
+    },
+    "Negative_Prompt": "cloudy lens, darkness remaining, text artifacts.",
+    "Hyperparameters": {
+      "variant": "pro",
+      "steps": 55,
+      "cfg_scale": 9,
+      "seed": "Explore the visual of the 'fog of delusion being burned away'."
+    }
+  }
+}

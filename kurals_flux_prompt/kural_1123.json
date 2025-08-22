@@ -1,0 +1,38 @@
+{
+  "Kural_Info": {
+    "Number": 1123,
+    "Chapter": "காதற்சிறப்புரைத்தல் (Declaration of Love's special Excellence)",
+    "Tamil_Text": "கருமணியிற் பாவாய்நீ போதாயாம் வீழும்திருநுதற்கு இல்லை இடம்.",
+    "English_Meaning": "O you image in the pupil (of my eye)! depart; there is no room for (my) fair-browed beloved."
+  },
+  "Flux_Optimized_Prompt": {
+    "Layered_Composition": {
+      "Foreground": "An extreme close-up of a lover's eye.",
+      "Midground": "Inside the pupil ('கருமணியில்'), the tiny, reflected image of the lover's own self is visible ('பாவாய்'). The lover is speaking to this reflection.",
+      "Background": "The lover is commanding his own reflection: 'You must leave!' ('நீ போதாய்'). He is trying to banish his own self-image from his eye to make room for the image of his beloved, who has a beautiful forehead ('திரு நுதல்'). Her image is shown waiting to enter his eye, but there is no room."
+    },
+    "Art_Direction": {
+      "Subject_and_Action": "A playful and possessive declaration of love: the lover commands his own reflection to depart from the pupil of his eye, because there is no room for both himself and the image of his beloved.",
+      "Symbolic_Motifs": "The pupil of the eye as a physical space with limited room is the central conceit. The act of banishing oneself to make room for the other is a powerful symbol of total devotion and the desire to be completely filled by the beloved.",
+      "Mood_and_Emotion": "Possessive, adoring, totally devoted, playful.",
+      "Lighting_and_Color": "A clear, focused light on the eye. The reflection of the self is normal. The image of the beloved waiting to enter is a brilliant, radiant vision.",
+      "Technical_Cues": {
+        "Camera": "An impossible, macro shot that takes the viewer inside the pupil of the eye to witness this tiny, symbolic drama.",
+        "Resolution": "8K, hyper-realistic, with a focus on the reflections within the eye's surface.",
+        "Lighting": "Intimate and focused lighting.",
+        "Art_Genre": "Surrealism, macro fantasy."
+      },
+      "Cultural_Anchors": [
+        "O image in my pupil, depart! (கருமணியில் பாவாய் நீ போதாய்!)",
+        "There is no room for my beloved (திருநுதற்கு இல்லை இடம்)"
+      ]
+    },
+    "Negative_Prompt": "empty pupil, both images fitting, text artifacts.",
+    "Hyperparameters": {
+      "variant": "dev",
+      "steps": 45,
+      "cfg_scale": 8,
+      "seed": "Explore the surreal environment inside the pupil of the eye."
+    }
+  }
+}

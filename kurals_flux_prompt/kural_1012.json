@@ -1,0 +1,33 @@
+{
+  "Kural_Info": {
+    "Number": 1012,
+    "Chapter": "நாணுடைமை (Shame)",
+    "Tamil_Text": "ஊணுடை எச்சம் உயிர்க்கெல்லாம் வேறல்லநாணுடைமை மாந்தர் சிறப்பு.",
+    "English_Meaning": "Food, clothing, and other things alike all beings own; By sense of shame the excellence of men is known."
+  },
+  "Flux_Optimized_Prompt": {
+    "Layered_Composition": {
+      "Foreground": "In the center, a dignified human ('Maandhar') stands. Their physical needs ('Oon, Udai' - food, clothing) are met, represented by simple, clean attire and a healthy form.",
+      "Midground": "Surrounding this human are various animals, also shown attending to their basic needs of food and shelter. This illustrates the commonality of these needs for all life ('Uyirkkellam Veralla'). However, the human is uniquely enveloped in a subtle, glowing aura of 'Naan' (virtuous shame/modesty).",
+      "Background": "A harmonious natural world, showing humans and animals coexisting, but highlighting the unique spiritual/moral dimension of humanity."
+    },
+    "Art_Direction": {
+      "Subject_and_Action": "A visual representation that while basic physical needs are common to all living beings, the capacity for virtuous shame is the special, defining excellence of humanity.",
+      "Symbolic_Motifs": "The glowing aura of 'Naan' around the human is the key differentiator. The similar depiction of basic needs across species emphasizes the common ground.",
+      "Mood_and_Emotion": "Dignified, enlightened, highlighting human uniqueness.",
+      "Lighting_and_Color": "Natural, balanced lighting for the overall scene. The human figure is distinguished by the soft, internal luminescence of their aura. The palette is natural and earthy."
+    },
+    "Technical_Cues": {
+      "Camera": "Centered wide shot, creating a calm, tableau-like composition of the human and surrounding animals.",
+      "Resolution": "8K, ultra-realistic, with lifelike animals and a serene human subject.",
+      "Lighting": "Soft, diffused daylight, with a subtle volumetric glow for the human's aura.",
+      "Art_Genre": "Symbolic naturalism, blending realistic nature with a metaphysical concept."
+    },
+    "Cultural_Anchors": [
+      "நாணுடைமை (Possession of Shame/Modesty)",
+      "மாந்தர் சிறப்பு (The specialty of humans)",
+      "The distinction between humans and other beings"
+    ]
+  },
+  "Negative_Prompt": "human behaving like an animal, animals with auras, chaotic scene, modern clothing, text artifacts, blurry."
+}

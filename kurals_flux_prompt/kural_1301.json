@@ -1,0 +1,38 @@
+{
+  "Kural_Info": {
+    "Number": 1301,
+    "Chapter": "புலவி (Pouting)",
+    "Tamil_Text": "புல்லா திராஅப் புலத்தை அவர்உறும்அல்லல்நோய் காண்கம் சிறிது.",
+    "English_Meaning": "Let us witness awhile his keen suffering; just feign dislike and embrace him not."
+  },
+  "Flux_Optimized_Prompt": {
+    "Layered_Composition": {
+      "Foreground": "A woman is speaking to her own heart, instructing it. She holds her arms back, deciding not to embrace her lover ('புல்லாது இராஅ').",
+      "Midground": "Her lover stands before her, and as a result of her feigned dislike ('புலத்தை'), a visible aura of lovesick suffering and confusion ('அல்லல் நோய்') begins to appear around him.",
+      "Background": "The woman's expression is not one of genuine anger, but of curious, almost scientific, observation. She is deliberately conducting this experiment to 'see for a little while' ('காண்கம் சிறிது') the charming effect her pouting has on him."
+    },
+    "Art_Direction": {
+      "Subject_and_Action": "The woman's playful and strategic decision to feign dislike and withhold her embrace, purely for the pleasure of observing the charming lovesickness it induces in her partner.",
+      "Symbolic_Motifs": "The pouting is a deliberate, controlled act, not a real argument. The man's 'suffering' is depicted as a beautiful, romantic affliction, not genuine pain. Her gaze is that of a curious observer, not a cruel tormentor.",
+      "Mood_and_Emotion": "Playful, strategic, teasing, curious, romantic.",
+      "Lighting_and_Color": "A soft, intimate, romantic light fills the scene. The aura of the man's lovesickness is not dark or ugly, but a beautiful, shimmering, and heart-wrenching light of deep blue and violet. The palette is one of romantic games.",
+      "Technical_Cues": {
+        "Camera": "A close-up on the woman's face, capturing her sly, observant expression as she watches the effect of her actions on her lover.",
+        "Resolution": "8K, ultra-realistic, with a focus on the subtle, playful emotions and the ethereal aura of lovesickness.",
+        "Lighting": "Soft, romantic lighting.",
+        "Art_Genre": "Romantic realism, with magical realist elements."
+      },
+      "Cultural_Anchors": [
+        "The pout that doesn't embrace (புல்லாது இராஅப் புலத்தை)",
+        "Let us see his suffering (அவர் உறும் அல்லல் நோய் காண்கம்)"
+      ]
+    },
+    "Negative_Prompt": "real fight, angry woman, happy man, text artifacts.",
+    "Hyperparameters": {
+      "variant": "dev",
+      "steps": 45,
+      "cfg_scale": 7,
+      "seed": "Explore the visual of the 'beautiful aura of lovesickness'."
+    }
+  }
+}

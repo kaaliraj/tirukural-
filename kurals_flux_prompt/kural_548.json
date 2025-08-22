@@ -1,0 +1,39 @@
+{
+  "Kural_Info": {
+    "Number": 548,
+    "Chapter": "செங்கோன்மை (The Right Sceptre)",
+    "Tamil_Text": "எண்பதத்தான் ஓரா முறைசெய்யா மன்னவன் தண்பதத்தான் தானே கெடும்.",
+    "English_Meaning": "The king who gives not facile audience (to those who approach him), and who does not examine and pass judgment (on their complaints), will perish in disgrace."
+  },
+  "Flux_Optimized_Prompt": {
+    "Layered_Composition": {
+      "Foreground": "An arrogant king sits on a high, inaccessible throne. His ears are plugged, and his eyes are averted from his people ('எண்பதத்தான் ஓரா'). He refuses to investigate or deliver justice ('முறைசெய்யா').",
+      "Midground": "Because of his neglect, his own high status and position ('தண்பதம்') are shown to be crumbling beneath him. The magnificent throne is turning to dust and sand from the bottom up.",
+      "Background": "The king is shown perishing, not by an enemy's sword, but by sinking into the ruin of his own making ('தானே கெடும்'), alone and in disgrace. His kingdom is fading into darkness around him."
+    },
+    "Art_Direction": {
+      "Subject_and_Action": "A king who is inaccessible and fails to investigate and dispense justice will be destroyed by his own high position, bringing about his own ruin.",
+      "Symbolic_Motifs": "The inaccessible throne with the deaf and blind king represents his failure in duty. The throne crumbling into sand is a powerful metaphor for his status destroying him from within.",
+      "Mood_and_Emotion": "Tragic, self-destructive, arrogant, neglectful, cautionary.",
+      "Lighting_and_Color": "A harsh, cold light illuminates the arrogant king. The crumbling throne and the surrounding scene grow progressively darker as he sinks into ruin. The palette is cold and desolate.",
+      "Technical_Cues": {
+        "Camera": "A medium shot that captures the king's arrogant posture and the beginning of his throne's collapse.",
+        "Resolution": "8K, with high-quality particle effects for the disintegrating throne.",
+        "Lighting": "Dramatic top-down lighting that casts deep, isolating shadows.",
+        "Art_Genre": "Dark fantasy, symbolic tragedy."
+      }
+    },
+    "Cultural_Anchors": [
+      "Inaccessible and Unjust King",
+      "Ruin from one's own status ('தண்பதத்தான் தானே கெடும்')",
+      "The duty of a king to listen and judge."
+    ]
+  },
+  "Negative_Prompt": "accessible king, stable throne, happy people, text artifacts, cartoonish.",
+  "Hyperparameters": {
+    "variant": "dev",
+    "steps": 45,
+    "cfg_scale": 9,
+    "seed": "Explore variations for the crumbling throne effect."
+  }
+}

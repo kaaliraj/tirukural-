@@ -1,0 +1,39 @@
+{
+  "Kural_Info": {
+    "Number": 396,
+    "Chapter": "கல்வி (Learning)",
+    "Tamil_Text": "தொட்டனைத் தூறும் மணற்கேணி மாந்தர்க்குக் கற்றனைத் தூறும் அறிவு.",
+    "English_Meaning": "In sandy soil, when deep you delve, you reach the springs below; The more you learn, the freer streams of wisdom flow."
+  },
+  "Flux_Optimized_Prompt": {
+    "Layered_Composition": {
+      "Foreground": "A side-by-side comparison. On the left, a person is digging into sandy soil ('மணற்கேணி'). The deeper they dig, the more crystal-clear water springs forth.",
+      "Midground": "On the right, a person is deeply engrossed in studying a book. The more they read, the brighter and more profusely a river of light, representing knowledge ('அறிவு'), flows from the book and into their mind.",
+      "Background": "Both scenes are set in a vast, open landscape, suggesting this is a universal principle of effort and reward."
+    },
+    "Art_Direction": {
+      "Subject_and_Action": "A direct visual analogy: just as digging deeper in sand reveals more water, learning more deeply reveals more knowledge.",
+      "Symbolic_Motifs": "The sandy well ('மணற்கேணி') and its springing water are a direct parallel to the book and the flowing river of light (knowledge). The depth of the digging/learning corresponds to the amount of water/knowledge.",
+      "Mood_and_Emotion": "Inspiring, diligent, rewarding, enlightening.",
+      "Lighting_and_Color": "Bright, clear, natural light. The water is pristine and clear. The river of knowledge is a brilliant, flowing stream of golden-white light.",
+      "Technical_Cues": {
+        "Camera": "A balanced, wide shot that presents the two scenes as a clear and direct comparison.",
+        "Resolution": "8K, ultra-realistic, with magical realism for the river of light.",
+        "Lighting": "Natural daylight, with the river of light being a secondary, magical light source.",
+        "Art_Genre": "Symbolic realism, conceptual art."
+      }
+    },
+    "Cultural_Anchors": [
+      "Analogy of the Sandy Well ('மணற்கேணி')",
+      "Knowledge increasing with learning ('கற்றனைத்தூறும் அறிவு')",
+      "The value of deep study"
+    ]
+  },
+  "Negative_Prompt": "muddy water, dark light from the book, lazy figures, text artifacts, cartoonish.",
+  "Hyperparameters": {
+    "variant": "dev",
+    "steps": 40,
+    "cfg_scale": 8,
+    "seed": "Explore variations for the visual effect of the river of light."
+  }
+}

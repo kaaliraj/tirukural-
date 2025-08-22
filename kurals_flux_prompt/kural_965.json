@@ -1,0 +1,39 @@
+{
+  "Kural_Info": {
+    "Number": 965,
+    "Chapter": "மானம் (Honour)",
+    "Tamil_Text": "குன்றின் அனையாரும் குன்றுவர் குன்றுவகுன்றி அனைய செயின்.",
+    "English_Meaning": "Even those who are exalted like a hill will be thought low, if they commit deeds that are debasing."
+  },
+  "Flux_Optimized_Prompt": {
+    "Layered_Composition": {
+      "Foreground": "A person of immense stature and reputation, visualized as a great, unshakeable mountain ('குன்றின் அனையார்').",
+      "Midground": "This mountain-like person is shown committing a single, tiny, dishonorable act. This act is visualized as them picking up a single, tiny, insignificant kunri seed ('குன்றி அனைய').",
+      "Background": "The moment they commit this tiny, debasing act, their entire monumental, mountainous form catastrophically collapses and shrinks into a small, insignificant hillock ('குன்றுவர்'). The tiny act has completely destroyed their great stature."
+    },
+    "Art_Direction": {
+      "Subject_and_Action": "Even a person as great as a mountain will be brought low and diminished if they commit an act as small and dishonorable as a kunri seed.",
+      "Symbolic_Motifs": "The massive disproportion between the cause (a tiny seed-sized act) and the effect (the collapse of a mountain-sized reputation) is the central visual. The kunri seed, with its distinctive red and black, is a powerful cultural symbol for something small but potent.",
+      "Mood_and_Emotion": "Catastrophic, disproportionate ruin, cautionary, fragile greatness.",
+      "Lighting_and_Color": "The mountain-person is lit with majestic, epic light. The tiny dishonorable act is a small point of darkness. When the collapse occurs, the light fades and the scene is filled with the dust and shadow of ruin.",
+      "Technical_Cues": {
+        "Camera": "A wide, epic shot that captures the majestic mountain-person, the tiny act, and the subsequent catastrophic collapse.",
+        "Resolution": "8K, ultra-realistic, with advanced physics and particle effects for the collapsing mountain.",
+        "Lighting": "A dramatic lighting shift from majestic glory to dusty ruin.",
+        "Art_Genre": "Epic fantasy, symbolic disaster."
+      },
+      "Cultural_Anchors": [
+        "Those like a mountain (குன்றின் அனையார்)",
+        "They will be diminished (குன்றுவர்)",
+        "If they do something as small as a kunri seed (குன்றி அனைய செயின்)"
+      ]
+    },
+    "Negative_Prompt": "mountain remaining tall, text artifacts, cartoonish collapse.",
+    "Hyperparameters": {
+      "variant": "pro",
+      "steps": 55,
+      "cfg_scale": 9,
+      "seed": "Explore the visual of a mountain-sized person collapsing."
+    }
+  }
+}

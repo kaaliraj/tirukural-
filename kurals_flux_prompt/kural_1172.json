@@ -1,0 +1,33 @@
+{
+  "Kural_Info": {
+    "Number": 1172,
+    "Chapter": "கண்விதுப்பழிதல் (Eyes consumed with Grief)",
+    "Tamil_Text": "தெரிந்துணரா நோக்கிய உண்கண் பரிந்துணராப்பைதல் உழப்பது எவன்.",
+    "English_Meaning": "The dyed eyes that (then) looked without foresight, why should they now endure sorrow, without feeling sharply (their own fault)."
+  },
+  "Flux_Optimized_Prompt": {
+    "Layered_Composition": {
+      "Foreground": "A woman's beautiful, kohl-rimmed eyes ('Unkan') are weeping in sorrow ('Paithal Uzhappathu').",
+      "Midground": "A ghostly image of the past shows these same eyes looking at her lover with reckless abandon, without considering the future consequences ('Therinthunaraa Nokkiya').",
+      "Background": "The woman is now chiding her eyes, asking them why they suffer now without acknowledging their own past recklessness ('Parinthunaraa'). The background is a swirl of her confused and pained emotions."
+    },
+    "Art_Direction": {
+      "Subject_and_Action": "Another form of self-reproach aimed at the eyes: Why do you suffer now, without any pity for yourselves, when it was your own thoughtless gaze in the past that caused this situation?",
+      "Symbolic_Motifs": "The contrast between the thoughtless gaze of the past and the weeping gaze of the present. The lack of self-pity in the eyes' current suffering, as if they are getting what they deserve.",
+      "Mood_and_Emotion": "Self-critical, sorrowful, a sense of deserved consequence.",
+      "Lighting_and_Color": "Dramatic lighting that separates the memory of the reckless gaze from the present sorrow. The past can be in a bright, naive light, while the present is in a shadowed, regretful light."
+    },
+    "Technical_Cues": {
+      "Camera": "Close-up, focusing on the eyes and their changing expression from past to present.",
+      "Resolution": "8K, photorealistic, capturing the detailed kohl makeup and the tears.",
+      "Lighting": "Split-lighting or a double-exposure effect to show the past and present simultaneously.",
+      "Art_Genre": "Symbolic portraiture, illustrating a psychological state of regret."
+    },
+    "Cultural_Anchors": [
+      "உண்கண் (Kohl-rimmed eyes)",
+      "தெரிந்துணரா நோக்கு (A look without foresight)",
+      "The eyes as independent actors bearing fault"
+    ]
+  },
+  "Negative_Prompt": "happy eyes, modern eyeliner, simple background, text artifacts, blurry, cartoonish."
+}

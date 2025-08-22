@@ -1,0 +1,39 @@
+{
+  "Kural_Info": {
+    "Number": 1181,
+    "Chapter": "பசப்புறுபருவரல் (The Pallid Hue)",
+    "Tamil_Text": "நயந்தவர்க்கு நல்காமை நேர்ந்தேன் பசந்தவென்பண்பியார்க்கு உரைக்கோ பிற.",
+    "English_Meaning": "I who (then) consented to the absence of my loving lord, to whom can I (now) relate the fact of my having turned sallow."
+  },
+  "Flux_Optimized_Prompt": {
+    "Layered_Composition": {
+      "Foreground": "A woman is shown. Her skin has a sickly, pale-yellow hue of lovesickness ('பசந்த என் பண்பு').",
+      "Midground": "A ghostly flashback shows the moment of her lover's departure. In that memory, she is shown bravely and foolishly consenting to his leaving, believing she could bear it ('நல்காமை நேர்ந்தேன்').",
+      "Background": "In the present, she is shown completely alone, with no one to confide in. The image poses the question, 'To whom can I speak of this?' ('யார்க்கு உரைக்கோ'). Her own past consent has trapped her in a silent, lonely suffering."
+    },
+    "Art_Direction": {
+      "Subject_and_Action": "A woman suffers from the pallor of lovesickness, but feels she has no right to complain to anyone, because she herself consented to her lover's departure.",
+      "Symbolic_Motifs": "The contrast between her brave face in the past and her suffering face in the present is key. Her isolation is a direct consequence of her past decision, creating a state of self-inflicted, silent misery.",
+      "Mood_and_Emotion": "Regretful, lonely, self-reproach, silent suffering.",
+      "Lighting_and_Color": "The present scene is dominated by the sickly, pale yellow-green of 'pasappu' (the pallid hue). The flashback is lit with a falsely brave, perhaps slightly too-bright light. The overall atmosphere is melancholic and isolated.",
+      "Technical_Cues": {
+        "Camera": "A close-up on the woman's suffering face, with the ghostly flashback of her consent visible as a painful overlay.",
+        "Resolution": "8K, ultra-realistic, with a strong focus on the subtle color of her sallow skin and her regretful expression.",
+        "Lighting": "A single, isolating key light on the woman, emphasizing her loneliness.",
+        "Art_Genre": "Psychological realism, romantic tragedy."
+      },
+      "Cultural_Anchors": [
+        "The sallow hue (பசப்பு)",
+        "I consented to his lack of grace (நயந்தவர்க்கு நல்காமை நேர்ந்தேன்)",
+        "To whom can I speak? (யார்க்கு உரைக்கோ?)"
+      ]
+    },
+    "Negative_Prompt": "happy woman, friends comforting her, text artifacts, vibrant skin color.",
+    "Hyperparameters": {
+      "variant": "dev",
+      "steps": 45,
+      "cfg_scale": 8,
+      "seed": "Explore the precise, sickly color palette of the 'pasappu'."
+    }
+  }
+}

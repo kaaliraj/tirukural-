@@ -1,0 +1,39 @@
+{
+  "Kural_Info": {
+    "Number": 544,
+    "Chapter": "செங்கோன்மை (The Right Sceptre)",
+    "Tamil_Text": "குடிதழீஇக் கோலோச்சும் மாநில மன்னன் அடிதழீஇ நிற்கும் உலகு.",
+    "English_Meaning": "The world will constantly embrace the feet of the great king who rules over his subjects with love."
+  },
+  "Flux_Optimized_Prompt": {
+    "Layered_Composition": {
+      "Foreground": "The feet of a great king are shown standing firm on the ground.",
+      "Midground": "The entire world, personified as a diverse multitude of people ('உலகு'), is shown lovingly and willingly embracing the king's feet ('அடிதழீஇ நிற்கும்'). This is an act of reverence and loyalty, not subjugation.",
+      "Background": "The king himself is depicted with a benevolent expression, his arms in a protective, embracing gesture over his people ('குடிதழீஇ'), showing that their embrace is a response to his loving rule."
+    },
+    "Art_Direction": {
+      "Subject_and_Action": "The world will revere and loyally embrace the king who rules his people with a loving and protective embrace.",
+      "Symbolic_Motifs": "The mutual embrace is the key: the king embraces his people with protective rule, and the world embraces his feet with loyalty. This shows a reciprocal relationship.",
+      "Mood_and_Emotion": "Reverent, loyal, loving, harmonious, reciprocal.",
+      "Lighting_and_Color": "A warm, golden, and benevolent light bathes the scene. The colors are rich and harmonious, reflecting the ideal relationship between the ruler and the ruled.",
+      "Technical_Cues": {
+        "Camera": "A low-angle shot, focusing on the act of the world embracing the king's feet, which gives the scene a sense of reverence and grandeur.",
+        "Resolution": "8K, with the feel of a grand, classical sculpture or relief.",
+        "Lighting": "Soft, beatific lighting.",
+        "Art_Genre": "Classical realism, with a strong symbolic composition."
+      }
+    },
+    "Cultural_Anchors": [
+      "Embracing the People ('குடிதழீஇ')",
+      "The World Embracing the King's Feet ('அடிதழீஇ நிற்கும் உலகு')",
+      "The ideal of a beloved ruler."
+    ]
+  },
+  "Negative_Prompt": "people running away from the king, king kicking the people, text artifacts, cartoonish.",
+  "Hyperparameters": {
+    "variant": "pro",
+    "steps": 50,
+    "cfg_scale": 8,
+    "seed": "Explore variations for the diverse people of the world."
+  }
+}

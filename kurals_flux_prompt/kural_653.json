@@ -1,0 +1,39 @@
+{
+  "Kural_Info": {
+    "Number": 653,
+    "Chapter": "வினைத்தூய்மை (Purity in Action)",
+    "Tamil_Text": "ஒஓதல் வேண்டும் ஒளிமாழ்கும் செய்வினை ஆஅதும் என்னு மவர்.",
+    "English_Meaning": "Those who say, 'we will become (better)' should avoid the performance of acts that would destroy (their fame)."
+  },
+  "Flux_Optimized_Prompt": {
+    "Layered_Composition": {
+      "Foreground": "A person is on a path of self-improvement, aspiring to a greater future ('ஆகுதும் என்னும் அவர்'). They are depicted as a figure of light, whose brightness represents their glory and fame ('ஒளி').",
+      "Midground": "They come to a fork in the road. One path continues towards a brighter sun. The other path leads through a murky, dark swamp, representing a deed that would dim their glory ('ஒளிமாழ்கும் செய்வினை').",
+      "Background": "The figure is shown decisively turning away from the dark, glory-diminishing path, consciously choosing to avoid it ('ஓஓதல் வேண்டும்') in order to protect their light and continue their ascent."
+    },
+    "Art_Direction": {
+      "Subject_and_Action": "Those who aspire to greatness must consciously avoid any action that would tarnish their glory and reputation.",
+      "Symbolic_Motifs": "The person as a being of light represents their fame and potential. The dark swampy path is the glory-diminishing action. The conscious act of avoidance is the key theme.",
+      "Mood_and_Emotion": "Aspiring, discerning, protective of one's honor, self-aware.",
+      "Lighting_and_Color": "The main figure and the good path are bright and full of light. The swampy path is dark, murky, and repellent, visually representing a bad choice.",
+      "Technical_Cues": {
+        "Camera": "A wide shot from behind the figure, showing the two paths and the clear choice being made.",
+        "Resolution": "8K, with a strong contrast between the light and dark paths.",
+        "Lighting": "Symbolic lighting that equates light with glory and darkness with disgrace.",
+        "Art_Genre": "Fantasy art, allegorical landscape."
+      }
+    },
+    "Cultural_Anchors": [
+      "Those who aspire to be great ('ஆகுதும் என்னும் அவர்')",
+      "Deeds that dim glory ('ஒளிமாழ்கும் செய்வினை')",
+      "The necessity of avoiding such deeds ('ஓஓதல் வேண்டும்')"
+    ]
+  },
+  "Negative_Prompt": "figure walking into the swamp, light getting dimmer, text artifacts, cartoonish.",
+  "Hyperparameters": {
+    "variant": "pro",
+    "steps": 50,
+    "cfg_scale": 8,
+    "seed": "Explore variations for the murky swamp path."
+  }
+}

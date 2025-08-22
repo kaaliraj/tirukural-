@@ -1,0 +1,40 @@
+{
+  "Kural_Info": {
+    "Number": 1081,
+    "Chapter": "தகையணங்குறுத்தல் (The Pre-marital love)",
+    "Tamil_Text": "அணங்குகொல் ஆய்மயில் கொல்லோ கனங்குழைமாதர்கொல் மாலும்என் நெஞ்சு.",
+    "English_Meaning": "Goddess? or peafowl rare? She whose ears rich jewels wear, Is she a maid of human kind? All wildered is my mind!."
+  },
+  "Flux_Optimized_Prompt": {
+    "Layered_Composition": {
+      "Foreground": "A young man's bewildered mind ('மாலும் என் நெஞ்சு') is the central focus. Inside his mind, three distinct, shimmering, and overlapping visions are battling for prominence.",
+      "Midground": "The first vision is of a celestial goddess ('அணங்கு'), radiating a divine, untouchable light. The second vision is of a rare, beautiful peacock ('ஆய்மயில்'), displaying its magnificent plumage with graceful pride. The third vision is of a mortal maiden adorned with heavy golden earrings ('கனங்குழை மாதர்').",
+      "Background": "A beautiful, dreamlike natural setting, where the maiden was first sighted, enhancing the magical confusion."
+    },
+    "Art_Direction": {
+      "Subject_and_Action": "The lover's mind is thrown into a state of beautiful confusion, unable to decide if the woman he has seen is a divine being, a perfect creature of nature, or a human maiden, as she seems to embody the qualities of all three.",
+      "Symbolic_Motifs": "The overlapping, transparent visions are key to showing the confusion. The heavy gold earrings ('கனங்குழை') are the one concrete detail that anchors the vision to a human, yet the feeling she inspires is divine and natural.",
+      "Mood_and_Emotion": "Bewildered, enchanted, awestruck, smitten.",
+      "Lighting_and_Color": "A magical, shimmering, and shifting light that blends divine gold, the iridescent blues and greens of a peacock, and the warm tones of human beauty. The palette is fantastical and romantic.",
+      "Technical_Cues": {
+        "Camera": "A subjective, first-person perspective shot from the man's point of view, looking at the maiden, with the three visions swirling around her as a visual effect.",
+        "Resolution": "8K, ultra-realistic, with ethereal and dreamlike special effects for the overlapping visions.",
+        "Lighting": "Soft, magical, volumetric lighting to create an enchanted atmosphere.",
+        "Art_Genre": "Mythological romance, fantasy art."
+      },
+      "Cultural_Anchors": [
+        "A celestial being (அணங்கு)",
+        "A choice peacock (ஆய்மயில்)",
+        "A maiden with heavy earrings (கனங்குழை மாதர்)",
+        "My mind is bewildered (மாலும் என் நெஞ்சு)"
+      ]
+    },
+    "Negative_Prompt": "plain woman, clear decision, text artifacts, modern setting.",
+    "Hyperparameters": {
+      "variant": "pro",
+      "steps": 50,
+      "cfg_scale": 8,
+      "seed": "Explore the visual effect of the three overlapping, shimmering visions."
+    }
+  }
+}

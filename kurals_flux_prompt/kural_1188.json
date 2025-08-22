@@ -1,0 +1,38 @@
+{
+  "Kural_Info": {
+    "Number": 1188,
+    "Chapter": "பசப்புறுபருவரல் (The Pallid Hue)",
+    "Tamil_Text": "பசந்தாள் இவள்என்பது அல்லால் இவளைத்துறந்தார் அவர்என்பார் இல்.",
+    "English_Meaning": "Besides those who say \"she has turned sallow\" there are none who say \"he has forsaken her\"."
+  },
+  "Flux_Optimized_Prompt": {
+    "Layered_Composition": {
+      "Foreground": "A woman is shown, her skin pale with the sallow hue of lovesickness.",
+      "Midground": "A group of townspeople are pointing at her and whispering. Their words are visualized: 'She has turned sallow!' ('பசந்தாள் இவள்'). They are blaming her, judging her physical appearance and her visible suffering.",
+      "Background": "Notably absent is any blame for the man who caused this suffering. No one is shown pointing to the empty space where her lover should be and saying, 'He forsook her!' ('துறந்தார் அவர் என்பார் இல்'). All the blame and commentary fall solely on the suffering woman."
+    },
+    "Art_Direction": {
+      "Subject_and_Action": "A lament about the unfairness of society's judgment: everyone is quick to comment on and blame the woman for her visible suffering (the pallor), but no one blames the man who caused it by forsaking her.",
+      "Symbolic_Motifs": "The visualized words of gossip are the key element, and they are all directed at her. The empty space where the man should be is a powerful symbol of his absence and his immunity from blame.",
+      "Mood_and_Emotion": "Unfair, judgmental, misogynistic, lonely suffering.",
+      "Lighting_and_Color": "A harsh, judgmental, public light shines on the woman, exposing her 'flaw' (the pallor). The crowd of gossips are in shadowy, indistinct forms. The palette is one of public scrutiny and private pain.",
+      "Technical_Cues": {
+        "Camera": "A shot from the woman's perspective, showing the pointing fingers and judgmental faces of the crowd, making the viewer feel her isolation and the unfairness of the situation.",
+        "Resolution": "8K, ultra-realistic, with a strong focus on the judgmental expressions of the townspeople.",
+        "Lighting": "Harsh, unflattering light on the protagonist to emphasize her vulnerability.",
+        "Art_Genre": "Social realism, historical drama."
+      },
+      "Cultural_Anchors": [
+        "They only say 'She is sallow' (பசந்தாள் இவள் என்பது அல்லால்)",
+        "No one says 'He forsook her' (துறந்தார் அவர் என்பார் இல்)"
+      ]
+    },
+    "Negative_Prompt": "people blaming the man, happy woman, text artifacts.",
+    "Hyperparameters": {
+      "variant": "dev",
+      "steps": 40,
+      "cfg_scale": 9,
+      "seed": "Explore the body language of the judgmental crowd."
+    }
+  }
+}

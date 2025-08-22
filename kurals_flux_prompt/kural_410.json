@@ -1,0 +1,39 @@
+{
+  "Kural_Info": {
+    "Number": 410,
+    "Chapter": "கல்லாமை (Ignorance)",
+    "Tamil_Text": "விலங்கொடு மக்கள் அனையர் இலங்குநூல் கற்றாரோடு ஏனை யவர்.",
+    "English_Meaning": "As beasts by the side of men, so are other men by the side of those who are learned in celebrated works."
+  },
+  "Flux_Optimized_Prompt": {
+    "Layered_Composition": {
+      "Foreground": "A wise, learned scholar ('கற்றார்') stands calmly reading a luminous text.",
+      "Midground": "Beside the scholar stands an unlearned person ('ஏனையவர்'), who appears human but whose shadow on the wall is distinctly that of a beast ('விலங்கு'). The scholar's shadow is that of a noble, enlightened human.",
+      "Background": "A simple, dignified setting like a scholar's study, where the light from the book is the primary source of illumination."
+    },
+    "Art_Direction": {
+      "Subject_and_Action": "A powerful visual comparison: the difference between the learned and the unlearned is as great as the difference between a human and a beast.",
+      "Symbolic_Motifs": "The shadow play is the key metaphor. The unlearned person's beastly shadow ('விலங்கொடு') reveals their true state compared to the learned human ('மக்கள் அனையர்'). The luminous book ('இலங்குநூல்') is the source of this distinction.",
+      "Mood_and_Emotion": "Stark, profound, confronting, intellectual.",
+      "Lighting_and_Color": "A single, strong light source from the book creates long, dramatic shadows that tell the story. The color palette is somber and focused, with the book providing a warm, golden light.",
+      "Technical_Cues": {
+        "Camera": "Wide shot designed to capture both figures and their full shadows clearly.",
+        "Resolution": "8K, with sharp, well-defined shadows.",
+        "Lighting": "Dramatic single-source lighting (chiaroscuro) to create powerful silhouettes and shadows.",
+        "Art_Genre": "Symbolic realism, film noir aesthetic."
+      }
+    },
+    "Cultural_Anchors": [
+      "Human vs. Beast comparison",
+      "The transformative power of learning ('இலங்குநூல்')",
+      "The learned ('கற்றார்') vs. the others ('ஏனையவர்')"
+    ]
+  },
+  "Negative_Prompt": "scholar with a beastly shadow, unlearned person with a human shadow, multiple light sources, text artifacts, blurry.",
+  "Hyperparameters": {
+    "variant": "pro",
+    "steps": 50,
+    "cfg_scale": 9,
+    "seed": "Explore variations for the shape of the beastly shadow."
+  }
+}

@@ -1,0 +1,33 @@
+{
+  "Kural_Info": {
+    "Number": 1010,
+    "Chapter": "நன்றியில்செல்வம் (Wealth without Benefaction)",
+    "Tamil_Text": "சீருடைச் செல்வர் சிறுதுனி மாரிவறங்கூர்ந் தனையது உடைத்து.",
+    "English_Meaning": "'Tis as when rain cloud in the heaven grows dry, When generous wealthy man endures brief poverty."
+  },
+  "Flux_Optimized_Prompt": {
+    "Layered_Composition": {
+      "Foreground": "A generous, noble, wealthy person ('Seerudai Selvar') is depicted during a moment of temporary poverty ('Siruthuni'). They are shown with an empty coffer, but their expression is calm and hopeful, not desperate.",
+      "Midground": "Above them, the sky contains a large, majestic rain cloud ('Maari'). The cloud is momentarily empty and not raining, appearing thin and white ('Varangoornthu'). It is clearly a temporary state before it gathers moisture again.",
+      "Background": "A fertile landscape that is waiting patiently for the rain, confident that the cloud will soon provide again. This mirrors the trust that society has in the generous person."
+    },
+    "Art_Direction": {
+      "Subject_and_Action": "A beautiful metaphor comparing the temporary poverty of a truly noble and generous person to a rain cloud that is momentarily dry before raining again. It is a natural, short-lived, and non-threatening state.",
+      "Symbolic_Motifs": "The direct visual parallel between the noble person and the majestic-but-temporarily-dry rain cloud is the core of the image.",
+      "Mood_and_Emotion": "Hopeful, calm, dignified, patient, suggesting a natural cycle.",
+      "Lighting_and_Color": "Bright, clear, ambient light. The sky is blue and hopeful, not stormy. The colors are natural and serene, without the harshness usually associated with poverty."
+    },
+    "Technical_Cues": {
+      "Camera": "Wide landscape shot that includes both the person on the ground and the cloud in the sky, visually linking them.",
+      "Resolution": "8K, photorealistic, with beautiful cloud rendering and a serene landscape.",
+      "Lighting": "Soft, diffused daylight that creates a feeling of peace and patience.",
+      "Art_Genre": "Symbolic landscape painting, blending realism with a poetic metaphor."
+    },
+    "Cultural_Anchors": [
+      "சீருடைச் செல்வர் (Noble and Wealthy Person)",
+      "மாரி வறங்கூர்ந்தனையது (Like a temporarily dry rain cloud)",
+      "The cyclical nature of fortune for the virtuous"
+    ]
+  },
+  "Negative_Prompt": "desperate or sad protagonist, stormy sky, barren landscape, permanent poverty, text artifacts, cartoonish."
+}

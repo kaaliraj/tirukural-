@@ -1,0 +1,40 @@
+{
+  "Kural_Info": {
+    "Number": 952,
+    "Chapter": "குடிமை (Nobility)",
+    "Tamil_Text": "ஒழுக்கமும் வாய்மையும் நாணும்இம் மூன்றும் இழுக்கார் குடிப்பிறந் தார்.",
+    "English_Meaning": "The high-born will never deviate from these three; good manners, truthfulness and modesty."
+  },
+  "Flux_Optimized_Prompt": {
+    "Layered_Composition": {
+      "Foreground": "A person of noble birth ('குடிப்பிறந்தார்') is shown walking a high, narrow, but straight path, representing a life of high standards.",
+      "Midground": "The path is defined by three shining rails that they hold onto, never letting go ('இழுக்கார்'). The first rail is made of crystal, for Good Conduct ('ஒழுக்கம்'). The second is a rail of pure gold, for Truthfulness ('வாய்மை'). The third is a rail of silver, for Modesty ('நாணம்').",
+      "Background": "The path is high above a chaotic, tempting world below. The noble person's adherence to the three rails keeps them safe and on the high path."
+    },
+    "Art_Direction": {
+      "Subject_and_Action": "The noble-born will never swerve from the three virtues of good conduct, truthfulness, and modesty.",
+      "Symbolic_Motifs": "The high path with its three shining rails is the central metaphor. The person's firm grip on these rails represents their unwavering adherence to these virtues.",
+      "Mood_and_Emotion": "Unwavering, principled, noble, disciplined.",
+      "Lighting_and_Color": "A bright, clear light illuminates the high path. The three rails shine with their respective materials' pure light.",
+      "Technical_Cues": {
+        "Camera": "A shot that emphasizes the height and straightness of the path, and the person's firm resolve.",
+        "Resolution": "8K, cinematic.",
+        "Lighting": "Heroic, aspirational lighting.",
+        "Art_Genre": "High-fantasy art, with a strong allegorical message."
+      },
+      "Cultural_Anchors": [
+        "Good Conduct ('ஒழுக்கம்')",
+        "Truthfulness ('வாய்மை')",
+        "Modesty ('நாணம்')",
+        "The Noble will not swerve ('இழுக்கார் குடிப்பிறந்தார்')"
+      ]
+    },
+    "Negative_Prompt": "person falling off the path, broken rails, text artifacts, cartoonish.",
+    "Hyperparameters": {
+      "variant": "pro",
+      "steps": 50,
+      "cfg_scale": 8,
+      "seed": "Explore variations for the three shining rails."
+    }
+  }
+}

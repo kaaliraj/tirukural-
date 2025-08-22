@@ -1,0 +1,39 @@
+{
+  "Kural_Info": {
+    "Number": 106,
+    "Chapter": "செய்ந்நன்றி அறிதல் (Gratitude)",
+    "Tamil_Text": "மறவற்க மாசற்றார் கேண்மை துறவற்கதுன்பத்துள் துப்பாயார் நட்பு.",
+    "English_Meaning": "Forsake not the friendship of those who have been your staff in adversity. Forget not the benevolence of the blameless."
+  },
+  "Flux_Optimized_Prompt": {
+    "Layered_Composition": {
+      "Foreground": "A person is shown walking a life path. They are looking back at two key moments in their past, visualized as luminous, cherished memories.",
+      "Midground": "One memory shows the friendship of a pure, spotless person ('மாசற்றார் கேண்மை'), depicted as a clear, shining spring of water that nourished them. The other memory shows a friend who acted as a strong staff ('துப்பாயார் நட்பு') when they were stumbling through a dark valley of sorrow ('துன்பத்துள்').",
+      "Background": "The person in the present is shown carefully tending to these two memories, which are like glowing plants in the garden of their heart, ensuring they are never forgotten ('மறவற்க') or forsaken ('துறவற்க')."
+    },
+    "Art_Direction": {
+      "Subject_and_Action": "A dual command to the soul: Never forget the friendship of the pure, and never forsake the friendship of those who supported you in your darkest hour.",
+      "Symbolic_Motifs": "The friendship of the pure is a source of nourishment (spring). The friendship of the supportive is a source of strength (staff). Both are essential and must be actively remembered and honored.",
+      "Mood_and_Emotion": "Grateful, mindful, loyal, honorable.",
+      "Lighting_and_Color": "The present is in normal, clear light. The memories are bathed in a warm, golden, nostalgic glow. The memory of the pure friend is a cool, clear silver-blue, while the memory of the supportive friend is a strong, earthy gold.",
+      "Technical_Cues": {
+        "Camera": "A shot that captures the person in the present and their two distinct, glowing memories in a single, reflective composition.",
+        "Resolution": "8K, ultra-realistic, with ethereal, glowing effects for the visualized memories.",
+        "Lighting": "Soft, reflective lighting to create a mood of grateful remembrance.",
+        "Art_Genre": "Narrative realism, with symbolic elements."
+      },
+      "Cultural_Anchors": [
+        "Friendship of the spotless (மாசற்றார் கேண்மை)",
+        "Friendship that was a staff in sorrow (துன்பத்துள் துப்பாயார் நட்பு)",
+        "The dual duties of 'not forgetting' and 'not forsaking'"
+      ]
+    },
+    "Negative_Prompt": "person ignoring memories, dark memories, text artifacts, dying plants, disloyal acts.",
+    "Hyperparameters": {
+      "variant": "dev",
+      "steps": 45,
+      "cfg_scale": 8,
+      "seed": "Explore the visual metaphors for the two types of friendship."
+    }
+  }
+}

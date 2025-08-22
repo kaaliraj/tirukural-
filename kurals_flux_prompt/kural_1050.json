@@ -1,0 +1,39 @@
+{
+  "Kural_Info": {
+    "Number": 1050,
+    "Chapter": "நல்குரவு (Poverty)",
+    "Tamil_Text": "துப்புர வில்லார் துவரத் துறவாமைஉப்பிற்கும் காடிக்கும் கூற்று.",
+    "English_Meaning": "The destitute poor, who do not renounce their bodies, only consume their neighbour's salt and water."
+  },
+  "Flux_Optimized_Prompt": {
+    "Layered_Composition": {
+      "Foreground": "A destitute person is shown who has not fully renounced the world ('துவரத் துறவாமை'). They are still attached to their life.",
+      "Midground": "Because they are destitute and have not renounced, they are forced to go to their neighbor's house to live.",
+      "Background": "Their existence is depicted as a purely consumptive one. They are personified as a spectral figure of Death ('கூற்று') for their neighbor's simple possessions. They are shown consuming the neighbor's salt ('உப்பு') and sour gruel ('காடி'), contributing nothing and only acting as a drain on the neighbor's meager resources."
+    },
+    "Art_Direction": {
+      "Subject_and_Action": "The destitute who do not fully renounce worldly life become a 'death' to the simple salt and gruel of those who have to support them.",
+      "Symbolic_Motifs": "The destitute person as a 'Yama/Death' figure for the neighbor's food is a harsh but powerful metaphor. It frames their dependent existence as a destructive, consuming force on the lives of others.",
+      "Mood_and_Emotion": "Burdensome, consumptive, parasitic, harsh reality.",
+      "Lighting_and_Color": "A bleak, grey, and impoverished light. The spectral 'death' quality of the destitute person can be a shadowy, life-draining aura. The neighbor is shown looking on with a sense of weary resignation.",
+      "Technical_Cues": {
+        "Camera": "A scene inside the neighbor's humble kitchen, showing the 'death-like' destitute person consuming the last of the salt and gruel.",
+        "Resolution": "8K, ultra-realistic, with a focus on the bleakness of the situation.",
+        "Lighting": "Low-key, bleak lighting.",
+        "Art_Genre": "Social realism, with a symbolic, dark fantasy element."
+      },
+      "Cultural_Anchors": [
+        "The non-renouncing destitute (துப்புர வில்லார் துவரத் துறவாமை)",
+        "Are a death (கூற்று)",
+        "To the salt and gruel (of others) (உப்பிற்கும் காடிக்கும்)"
+      ]
+    },
+    "Negative_Prompt": "happy destitute person, rich neighbor, text artifacts.",
+    "Hyperparameters": {
+      "variant": "dev",
+      "steps": 45,
+      "cfg_scale": 8,
+      "seed": "Explore the visual of the 'destitute person as a specter of Death'."
+    }
+  }
+}

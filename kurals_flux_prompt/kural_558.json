@@ -1,0 +1,39 @@
+{
+  "Kural_Info": {
+    "Number": 558,
+    "Chapter": "கொடுங்கோன்மை (The Cruel Sceptre)",
+    "Tamil_Text": "இன்மையின் இன்னாது உடைமை முறைசெய்யா மன்னவன் கோற்கீழ்ப் படின்.",
+    "English_Meaning": "Property gives more sorrow than poverty, to those who live under the sceptre of a king without justice."
+  },
+  "Flux_Optimized_Prompt": {
+    "Layered_Composition": {
+      "Foreground": "A split scene. On the left, a poor but free person ('இன்மை') is shown with very few possessions, but they have a look of simple peace.",
+      "Midground": "On the right, a wealthy person ('உடைமை') lives under the rule of an unjust king. The king's crooked sceptre casts a dark, menacing shadow over the wealthy person's house. The wealthy person looks terrified, knowing that their property can be unjustly seized at any moment.",
+      "Background": "The wealthy person's possessions are depicted not as a comfort, but as a source of anxiety—golden chains that bind them and treasures that attract the tyrant's gaze. This makes their situation worse than poverty ('இன்மையின் இன்னாது')."
+    },
+    "Art_Direction": {
+      "Subject_and_Action": "To have wealth under a tyrant is a worse, more sorrowful state than to have poverty in a just world.",
+      "Symbolic_Motifs": "The shadow of the crooked sceptre falling over the rich person's house is a key symbol of threat. The wealth depicted as chains represents the burden and anxiety it causes under tyranny.",
+      "Mood_and_Emotion": "Anxious, insecure, fearful, worse than poverty.",
+      "Lighting_and_Color": "The poor person's side is simple but has a calm, neutral light. The wealthy person's side is filled with the cold glint of gold but is dominated by the dark, oppressive shadow of the sceptre.",
+      "Technical_Cues": {
+        "Camera": "A comparative diptych composition.",
+        "Resolution": "8K, with a strong focus on the contrasting emotions of the two central figures.",
+        "Lighting": "High-contrast, symbolic lighting, especially for the menacing shadow.",
+        "Art_Genre": "Symbolic realism."
+      }
+    },
+    "Cultural_Anchors": [
+      "Wealth under a Tyrant ('முறைசெய்யா மன்னவன் கோற்கீழ் உடைமை')",
+      "Worse than Poverty ('இன்மையின் இன்னாது')",
+      "The curse of insecure property."
+    ]
+  },
+  "Negative_Prompt": "happy wealthy person under a tyrant, sad poor person, straight sceptre, text artifacts.",
+  "Hyperparameters": {
+    "variant": "dev",
+    "steps": 40,
+    "cfg_scale": 8,
+    "seed": "Explore variations for the shadow of the crooked sceptre."
+  }
+}

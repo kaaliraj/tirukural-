@@ -1,0 +1,39 @@
+{
+  "Kural_Info": {
+    "Number": 526,
+    "Chapter": "சுற்றந்தழால் (Cherishing Kinsmen)",
+    "Tamil_Text": "பெருங்கொடையான் பேணான் வெகுளி அவனின் மருங்குடையார் மாநிலத்து இல்.",
+    "English_Meaning": "No one, in all the world, will have so many relatives (about him), as he who makes large gift, and does not give way to anger."
+  },
+  "Flux_Optimized_Prompt": {
+    "Layered_Composition": {
+      "Foreground": "A great leader stands at the center of a vast, global gathering of people. He is depicted as immensely generous, with rivers of gifts ('பெருங்கொடையான்') flowing from him to the diverse crowd.",
+      "Midground": "His face is a mask of perfect calm and serenity; he does not get angry ('பேணான் வெகுளி'). A shadowy beast of anger is shown trying to approach him but dissolving before it can touch him.",
+      "Background": "The crowd of relatives and supporters around him is so vast that it seems to encompass the entire world ('மாநிலத்து'), showing that no one has more supporters than him."
+    },
+    "Art_Direction": {
+      "Subject_and_Action": "The person who is both magnanimously generous and completely free from anger will have the largest following of kinsmen and supporters in the world.",
+      "Symbolic_Motifs": "The rivers of gifts represent great generosity. The dissolving beast of anger represents mastery over wrath. The world-spanning crowd symbolizes his unparalleled number of supporters.",
+      "Mood_and_Emotion": "Magnanimous, serene, universally loved, powerful, unmatched.",
+      "Lighting_and_Color": "A brilliant, almost divine light radiates from the leader, illuminating the global crowd. The colors are epic, diverse, and celebratory.",
+      "Technical_Cues": {
+        "Camera": "An ultra-wide, epic shot that captures the leader and the immense, worldwide scale of his following.",
+        "Resolution": "8K, cinematic, with thousands of detailed figures.",
+        "Lighting": "Bright, heroic lighting.",
+        "Art_Genre": "Epic fantasy art, mythological painting."
+      },
+      "Cultural_Anchors": [
+        "Great Generosity ('பெருங்கொடை')",
+        "Absence of Anger ('பேணான் வெகுளி')",
+        "The largest following in the world."
+      ]
+    },
+    "Negative_Prompt": "stingy leader, angry leader, small crowd, text artifacts, cartoonish.",
+    "Hyperparameters": {
+      "variant": "pro",
+      "steps": 50,
+      "cfg_scale": 8,
+      "seed": "Explore variations for the diverse crowd."
+    }
+  }
+}

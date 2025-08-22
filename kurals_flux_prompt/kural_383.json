@@ -1,0 +1,40 @@
+{
+  "Kural_Info": {
+    "Number": 383,
+    "Chapter": "இறைமாட்சி (The Greatness of a King)",
+    "Tamil_Text": "தூங்காமை கல்வி துணிவுடைமை இம்மூன்றும் நீங்கா நிலனான் பவர்க்கு.",
+    "English_Meaning": "A sleepless promptitude, knowledge, decision strong: These three for aye to rulers of the land belong."
+  },
+  "Flux_Optimized_Prompt": {
+    "Layered_Composition": {
+      "Foreground": "A king is depicted in a triptych (three-panel) style. The left panel shows him wide-eyed and vigilant at night, watching over his kingdom (Vigilance - தூங்காமை).",
+      "Midground": "The center panel shows him deeply studying ancient scrolls and texts (Learning - கல்வி). The right panel shows him making a bold, decisive gesture on a battlefield map (Decisiveness - துணிவுடைமை).",
+      "Background": "Each panel has a background that reinforces the theme: a starlit kingdom, a vast library, and a strategic military camp, respectively."
+    },
+    "Art_Direction": {
+      "Subject_and_Action": "A ruler who never fails in the three essential qualities of vigilance, learning, and decisiveness, which are indispensable for governing a land.",
+      "Symbolic_Motifs": "The three distinct scenes in the triptych clearly delineate and emphasize each of the three core virtues.",
+      "Mood_and_Emotion": "Diligent, intellectual, decisive, responsible, commanding.",
+      "Lighting_and_Color": "The night panel has dramatic moonlight. The library panel has warm candlelight. The decisiveness panel has bright, clear daylight. The palette is rich and evocative of historical epics."
+    },
+    "Technical_Cues": {
+      "Camera": "A wide, cinematic shot that frames the three panels as a single, coherent artwork.",
+      "Resolution": "8K, ultra-realistic with the texture of an ancient mural or tapestry.",
+      "Lighting": "Three distinct lighting schemes, one for each panel, creating visual interest and reinforcing the narrative.",
+      "Art_Genre": "Digital triptych, historical narrative painting."
+    },
+    "Cultural_Anchors": [
+      "Three qualities of a ruler",
+      "'Thoongamai' (Vigilance/Sleeplessness)",
+      "'Kalvi' (Learning)",
+      "'Thunivudaimai' (Decisiveness)"
+    ]
+  },
+  "Negative_Prompt": "sleeping king, empty-handed, hesitant gesture, blurry, modern objects, text artifacts.",
+  "Hyperparameters": {
+    "variant": "dev",
+    "steps": 45,
+    "cfg_scale": 9,
+    "seed": "Explore variations for the background of each panel."
+  }
+}

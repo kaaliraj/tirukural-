@@ -1,0 +1,33 @@
+{
+  "Kural_Info": {
+    "Number": 1164,
+    "Chapter": "படர்மெலிந்திரங்கல் (Complainings)",
+    "Tamil_Text": "காமக் கடல்மன்னும் உண்டே அதுநீந்தும்ஏமப் புணைமன்னும் இல்.",
+    "English_Meaning": "A sea of love, 'tis true, I see stretched out before, But not the trusty bark that wafts to yonder shore."
+  },
+  "Flux_Optimized_Prompt": {
+    "Layered_Composition": {
+      "Foreground": "A lone woman stands on the edge of a vast, tumultuous ocean that represents her lovesickness ('Kaamak Kadal'). The waves are high and the water is dark and deep.",
+      "Midground": "She is looking out across the sea, searching for a way to cross it. The distant shore, representing happiness or union, is barely visible.",
+      "Background": "The key element is the complete absence of any boat, raft, or vessel ('Emap Punai Il'). She is stranded, with the means to cross the sea of her passion completely missing."
+    },
+    "Art_Direction": {
+      "Subject_and_Action": "The feeling of being overwhelmed by a vast sea of lovesickness, with no safe way to navigate it or reach the other side.",
+      "Symbolic_Motifs": "The sea of love is the dominant metaphor. The missing boat ('Punai') symbolizes the absence of her lover, who is the only means of safely crossing this emotional sea.",
+      "Mood_and_Emotion": "Overwhelming, hopeless, vast, solitary.",
+      "Lighting_and_Color": "Stormy, dramatic lighting. The sea is colored in deep, turbulent blues and dark grays. The sky is overcast and menacing. A single ray of light might hit the distant shore, making it seem even more unattainable."
+    },
+    "Technical_Cues": {
+      "Camera": "Epic wide shot, with the human figure small against the immense scale of the sea, emphasizing her helplessness.",
+      "Resolution": "8K, digital matte painting, with realistic and dramatic ocean and weather effects.",
+      "Lighting": "Stormy, atmospheric lighting to create a sense of danger and hopelessness.",
+      "Art_Genre": "Romantic landscape painting, in the style of Turner, but with a focus on emotional despair."
+    },
+    "Cultural_Anchors": [
+      "காமக் கடல் (The sea of love)",
+      "புணை (Raft/Boat, a metaphor for the lover's support)",
+      "The feeling of being lost in overwhelming emotion"
+    ]
+  },
+  "Negative_Prompt": "a calm sea, a safe boat, a happy woman, sunny weather, text artifacts, cartoonish."
+}

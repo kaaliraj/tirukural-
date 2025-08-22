@@ -1,0 +1,39 @@
+{
+  "Kural_Info": {
+    "Number": 779,
+    "Chapter": "படைச்செருக்கு (Military Spirit)",
+    "Tamil_Text": "இழைத்தது இகவாமைச் சாவாரை யாரே பிழைத்தது ஒறுக்கிற் பவர்.",
+    "English_Meaning": "Who would reproach with failure those who seal their oath with their death ?."
+  },
+  "Flux_Optimized_Prompt": {
+    "Layered_Composition": {
+      "Foreground": "A warrior is shown having died on the battlefield in the act of fulfilling a vow or challenge ('இழைத்தது இகவாமைச் சாவார்'). They have fallen, but their hand still reaches towards their goal, or their sword is still locked with their enemy's.",
+      "Midground": "The ghostly figure of Judgment or History is shown looking down upon the fallen warrior.",
+      "Background": "Instead of marking a failure ('பிழைத்தது') against the warrior's name, the figure of Judgment is shown breaking their pen or chisel. It is impossible to punish or find fault ('ஒறுக்கிற்பவர் யார்') with someone who has given their life in the attempt."
+    },
+    "Art_Direction": {
+      "Subject_and_Action": "Who can dare to punish for failure the person who died trying to fulfill their vow?",
+      "Symbolic_Motifs": "The warrior dying in the very act of trying is key. The figure of Judgment breaking its tool is the powerful metaphor for the impossibility of blaming such a person.",
+      "Mood_and_Emotion": "Honorable, beyond reproach, sacrificial, ultimate commitment.",
+      "Lighting_and_Color": "A tragic but glorious light shines down on the fallen warrior. The scene is somber but full of honor. The breaking of the pen can create a divine spark.",
+      "Technical_Cues": {
+        "Camera": "A high-angle shot, from the perspective of Judgment, looking down with respect at the fallen hero.",
+        "Resolution": "8K, with a poignant and epic feel.",
+        "Lighting": "Soft, beatific lighting on the fallen warrior.",
+        "Art_Genre": "Mythological painting, tragic heroism."
+      },
+      "Cultural_Anchors": [
+        "Those who die fulfilling their vow ('இழைத்தது இகவாமைச் சாவார்')",
+        "Who can punish them for failure?",
+        "Honor in death and ultimate sacrifice."
+      ]
+    },
+    "Negative_Prompt": "a living warrior being punished, text artifacts, cartoonish.",
+    "Hyperparameters": {
+      "variant": "dev",
+      "steps": 45,
+      "cfg_scale": 8,
+      "seed": "Explore variations for the figure of Judgment."
+    }
+  }
+}

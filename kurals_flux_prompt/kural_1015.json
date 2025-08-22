@@ -1,0 +1,33 @@
+{
+  "Kural_Info": {
+    "Number": 1015,
+    "Chapter": "நாணுடைமை (Shame)",
+    "Tamil_Text": "பிறர்பழியும் தம்பழியும் நாணுவார் நாணுக்குஉறைபதி என்னும் உலகு.",
+    "English_Meaning": "As home of virtuous shame by all the world the men are known, Who feel ashamed for others, guilt as for their own."
+  },
+  "Flux_Optimized_Prompt": {
+    "Layered_Composition": {
+      "Foreground": "A virtuous individual stands in a public square. They are witnessing two events: someone else committing a shameful act ('Pirar Pazhi') and a reflection of themselves committing a potential wrong ('Tham Pazhi').",
+      "Midground": "The individual shows a genuine expression of shame and discomfort for both acts, not just their own. This empathetic shame manifests as a beautiful, fortified city or dwelling ('Uraipathi') of light that forms around them.",
+      "Background": "The world ('Ulagu'), represented by the onlookers in the square, gazes upon this person not with scorn, but with deep reverence, acknowledging them as the very embodiment and home of 'Naan' (virtuous shame)."
+    },
+    "Art_Direction": {
+      "Subject_and_Action": "A person who feels shame for both their own faults and the faults of others is considered by the world to be the very abode of modesty.",
+      "Symbolic_Motifs": "The city of light forming around the person is the central metaphor for 'Uraipathi' (dwelling place). The dual sources of shame (self and other) are shown simultaneously.",
+      "Mood_and_Emotion": "Empathetic, noble, honorable, deeply virtuous.",
+      "Lighting_and_Color": "A soft, pure, protective light emanates from the person, forming the luminous city. The colors are gentle and noble—ivory, soft gold, and ethereal white."
+    },
+    "Technical_Cues": {
+      "Camera": "Medium shot, centered on the virtuous person, capturing their empathetic expression and the formation of the city of light around them.",
+      "Resolution": "8K, mystical realism, with intricate architectural details in the city of light.",
+      "Lighting": "Volumetric lighting that radiates outwards from the subject, creating a sacred and revered atmosphere.",
+      "Art_Genre": "Symbolic and allegorical art, with a high-fantasy aesthetic."
+    },
+    "Cultural_Anchors": [
+      "நாண் (Virtuous Shame)",
+      "உறைபதி (Dwelling Place/Abode)",
+      "Empathetic shame (பிறர் பழியும் நாணுதல்)"
+    ]
+  },
+  "Negative_Prompt": "indifferent or judgmental protagonist, dark city, modern setting, text artifacts, cartoonish, blurry."
+}

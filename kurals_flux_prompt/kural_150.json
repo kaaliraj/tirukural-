@@ -1,0 +1,38 @@
+{
+  "Kural_Info": {
+    "Number": 150,
+    "Chapter": "பிறனில் விழையாமை (Not coveting another's Wife)",
+    "Tamil_Text": "அறன்வரையான் அல்ல செயினும் பிறன்வரையாள்பெண்மை நயவாமை நன்று.",
+    "English_Meaning": "Though a man perform no virtuous deeds and commit (every) vice, it will be well if he desire not the womanhood of her who is within the limit (of the house) of another."
+  },
+  "Flux_Optimized_Prompt": {
+    "Layered_Composition": {
+      "Foreground": "A man is shown whose life is otherwise full of vice. He is depicted as walking a dark path, surrounded by the wreckage of other failed virtues ('அறன் வரையான் அல்ல செயினும்').",
+      "Midground": "However, he comes to one specific test: the desire for another man's wife. He is shown firmly rejecting this one specific temptation ('பிறன் வரையான் பெண்மை நயவாமை').",
+      "Background": "Because he succeeds in this one, critical test, a single, powerful beam of light ('நன்று') shines down from the heavens upon him, even in the midst of his otherwise sinful life. This one virtue is so powerful that it brings a glimmer of goodness and hope into his darkness."
+    },
+    "Art_Direction": {
+      "Subject_and_Action": "Even for a man who fails in all other virtues, the single act of refraining from adultery is in itself a great and redeeming good.",
+      "Symbolic_Motifs": "The single beam of light in an otherwise dark life is the key visual. It shows that this one virtue has a special, standalone power. It doesn't erase his other sins, but it provides a powerful point of goodness.",
+      "Mood_and_Emotion": "Redemptive, hopeful, singularly powerful virtue.",
+      "Lighting_and_Color": "The man's life path is dark and shadowy, littered with the symbols of his failures. The single beam of light is pure, white-gold, cutting through the darkness and offering a moment of grace.",
+      "Technical_Cues": {
+        "Camera": "A dramatic high-angle shot, looking down as the single beam of divine light breaks through the clouds to illuminate the sinner at the exact moment he passes this one crucial test.",
+        "Resolution": "8K, ultra-realistic, with strong volumetric lighting effects for the beam of grace.",
+        "Lighting": "A single, powerful, divine spotlight in an otherwise dark and gloomy scene.",
+        "Art_Genre": "Symbolic realism, with a touch of the divine."
+      },
+      "Cultural_Anchors": [
+        "Even if he does things outside of virtue (அறன் வரையான் அல்ல செயினும்)",
+        "Not desiring another's wife is good (பிறன் வரையான் பெண்மை நயவாமை நன்று)"
+      ]
+    },
+    "Negative_Prompt": "man committing adultery, no light, text artifacts.",
+    "Hyperparameters": {
+      "variant": "pro",
+      "steps": 50,
+      "cfg_scale": 8,
+      "seed": "Explore the visual of the 'single beam of grace'."
+    }
+  }
+}

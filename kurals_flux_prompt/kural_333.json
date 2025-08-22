@@ -1,0 +1,39 @@
+{
+  "Kural_Info": {
+    "Number": 333,
+    "Chapter": "நிலையாமை (Instability)",
+    "Tamil_Text": "அற்கா இயல்பிற்றுச் செல்வம் அதுபெற்றால்அற்குப ஆங்கே செயல்.",
+    "English_Meaning": "Wealth is perishable; let those who obtain it immediately practise those (virtues) which are imperishable."
+  },
+  "Flux_Optimized_Prompt": {
+    "Layered_Composition": {
+      "Foreground": "A person is shown receiving a great treasure. The treasure, however, is made of ice, beautiful but visibly melting, representing the perishable nature of wealth ('அற்கா இயல்பிற்றுச் செல்வம்').",
+      "Midground": "Without hesitation ('ஆங்கே'), the person takes the melting treasure and uses it to perform an imperishable act. They use the melting water to nourish a small, sacred sapling, representing an act of virtue ('அற்குப').",
+      "Background": "As they nourish the sapling, it instantly grows into a magnificent, eternal, crystalline tree that will never decay. They have successfully converted the impermanent into the permanent."
+    },
+    "Art_Direction": {
+      "Subject_and_Action": "The urgent duty of one who obtains perishable wealth is to immediately convert it into imperishable acts of virtue.",
+      "Symbolic_Motifs": "Wealth as melting ice is a powerful metaphor for its instability. The virtuous act as a seed that grows into an eternal tree is a metaphor for permanence. The urgency and immediacy of the action are key.",
+      "Mood_and_Emotion": "Urgent, wise, transformative, alchemical.",
+      "Lighting_and_Color": "The ice-treasure has a cold, blue, transient light. The eternal tree of virtue glows with a warm, permanent, golden light. The act of transformation is the bridge between these two color palettes.",
+      "Technical_Cues": {
+        "Camera": "A dynamic shot that captures the reception of the melting treasure and the immediate, transformative act of creating the permanent virtue.",
+        "Resolution": "8K, ultra-realistic, with advanced effects for the melting ice and the growing crystalline tree.",
+        "Lighting": "A shift in the dominant light source from the cold treasure to the warm, eternal tree.",
+        "Art_Genre": "High fantasy art, symbolic realism."
+      },
+      "Cultural_Anchors": [
+        "Perishable wealth (அற்கா இயல்பிற்றுச் செல்வம்)",
+        "Imperishable acts (அற்குப)",
+        "Doing it on the spot (ஆங்கே செயல்)"
+      ]
+    },
+    "Negative_Prompt": "person hoarding the ice, tree dying, text artifacts, slow action.",
+    "Hyperparameters": {
+      "variant": "pro",
+      "steps": 55,
+      "cfg_scale": 9,
+      "seed": "Explore the design of the eternal, crystalline tree of virtue."
+    }
+  }
+}

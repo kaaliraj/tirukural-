@@ -1,0 +1,39 @@
+{
+  "Kural_Info": {
+    "Number": 820,
+    "Chapter": "தீ நட்பு (Evil Friendship)",
+    "Tamil_Text": "எனைத்தும் குறுகுதல் ஓம்பல் மனைக்கெழீஇமன்றில் பழிப்பார் தொடர்பு.",
+    "English_Meaning": "Avoid even the least approach to a contraction of friendship with those who would love you in private but ridicule you in public."
+  },
+  "Flux_Optimized_Prompt": {
+    "Layered_Composition": {
+      "Foreground": "A split composition of a 'two-faced' friend.",
+      "Midground": "On the left, inside a private home ('மனைக்கு'), the friend is shown being incredibly intimate and friendly, embracing the protagonist.",
+      "Background": "On the right, in a public assembly ('மன்றில்'), the same friend is shown pointing a finger and maliciously ridiculing the protagonist ('பழிப்பார்'), their face twisted into a scornful mask. The protagonist is shown recoiling in shock and pain. The advice is clear: avoid any closeness ('குறுகுதல் ஓம்பல்') with such a person."
+    },
+    "Art_Direction": {
+      "Subject_and_Action": "One should completely avoid any degree of friendship with two-faced people who are friendly in private but publicly humiliate you.",
+      "Symbolic_Motifs": "The 'two-faced' nature can be literalized, with the friend wearing a smiling mask that they remove in public to reveal a cruel face beneath. The contrast between the intimate private setting and the harsh public setting is key.",
+      "Mood_and_Emotion": "Betrayal, hypocritical, warning, toxic.",
+      "Lighting_and_Color": "The private scene is lit with a warm, intimate, but deceptive light. The public scene is lit with a harsh, cold, judgmental light that exposes the betrayal.",
+      "Technical_Cues": {
+        "Camera": "A stark diptych that forces the viewer to see the two contradictory behaviors simultaneously.",
+        "Resolution": "8K, ultra-realistic, focusing on the duplicitous expressions of the false friend.",
+        "Lighting": "Strongly contrasting lighting schemes for the two scenes.",
+        "Art_Genre": "Dramatic realism, psychological portraiture."
+      },
+      "Cultural_Anchors": [
+        "Friendly in the house (மனைக்கு கெழீஇ)",
+        "Blaming in the assembly (மன்றில் பழிப்பார்)",
+        "Avoid approaching them (குறுகுதல் ஓம்பல்)"
+      ]
+    },
+    "Negative_Prompt": "friend being consistent, text artifacts, happy protagonist.",
+    "Hyperparameters": {
+      "variant": "dev",
+      "steps": 45,
+      "cfg_scale": 9,
+      "seed": "Explore the visual of the 'two-faced' mask."
+    }
+  }
+}

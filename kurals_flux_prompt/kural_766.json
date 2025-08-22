@@ -1,0 +1,40 @@
+{
+  "Kural_Info": {
+    "Number": 766,
+    "Chapter": "படைமாட்சி (The Excellence of an Army)",
+    "Tamil_Text": "மறமானம் மாண்ட வழிச்செலவு தேற்றம்எனநான்கே ஏமம் படைக்கு.",
+    "English_Meaning": "Valour, honour, following in the excellent-footsteps (of its predecessors) and trust-worthiness; these four alone constitute the safeguard of an army."
+  },
+  "Flux_Optimized_Prompt": {
+    "Layered_Composition": {
+      "Foreground": "A single, perfect, idealized soldier, representing the spirit of the army.",
+      "Midground": "Four glowing, ethereal symbols are shown being forged and integrated into the soldier's armor, becoming their 'safeguard' ('ஏமம்').",
+      "Background": "The four symbols are: a roaring lion for Valor ('மறம்'); a shining crown for Honor ('மானம்'); an ancient, well-trodden path for Tradition ('மாண்ட வழிச் செலவு'); and a solid, unbreakable shield for Trustworthiness ('தேற்றம்')."
+    },
+    "Art_Direction": {
+      "Subject_and_Action": "The four essential virtues that form the true defense and protection of an army are valor, honor, tradition, and trustworthiness.",
+      "Symbolic_Motifs": "The four virtues are not just abstract ideas but are visualized as essential pieces of the soldier's spiritual armor. Each symbol is distinct and powerful, representing its corresponding quality.",
+      "Mood_and_Emotion": "Heroic, virtuous, protected, noble.",
+      "Lighting_and_Color": "A noble, heroic light illuminates the scene. Each of the four symbols glows with a distinct, powerful color—fiery red for valor, royal gold for honor, earthy brown for tradition, and steadfast silver for trustworthiness. These colors combine to create the soldier's powerful aura.",
+      "Technical_Cues": {
+        "Camera": "A heroic portrait shot of the idealized soldier, with the four symbolic virtues clearly and beautifully integrated into their being.",
+        "Resolution": "8K, ultra-realistic, with glowing, ethereal effects for the four symbolic virtues.",
+        "Lighting": "Multi-source symbolic lighting, with each virtue contributing to the soldier's overall heroic glow.",
+        "Art_Genre": "High fantasy character design, symbolic portraiture."
+      },
+      "Cultural_Anchors": [
+        "Maram (மறம்) - Valor",
+        "Maanam (மானம்) - Honor",
+        "Maanda Vazhi Selavu (மாண்ட வழிச் செலவு) - Following the glorious path/tradition",
+        "Thetram (தேற்றம்) - Trustworthiness/Clarity"
+      ]
+    },
+    "Negative_Prompt": "cowardly soldier, dull symbols, broken armor, text artifacts.",
+    "Hyperparameters": {
+      "variant": "dev",
+      "steps": 45,
+      "cfg_scale": 8,
+      "seed": "Explore the designs for the four glowing symbols."
+    }
+  }
+}

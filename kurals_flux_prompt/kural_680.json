@@ -1,0 +1,39 @@
+{
+  "Kural_Info": {
+    "Number": 680,
+    "Chapter": "வினைசெயல்வகை (Modes of Action)",
+    "Tamil_Text": "உறைசிறியார் உள்நடுங்கல் அஞ்சிக் குறைபெறின் கொள்வர் பெரியார்ப் பணிந்து.",
+    "English_Meaning": "Ministers of small states, fearing that their people will be frightened, will yield to and acknowledge their superior foes, if the latter offer them a chance of reconciliation."
+  },
+  "Flux_Optimized_Prompt": {
+    "Layered_Composition": {
+      "Foreground": "The rulers of a small, vulnerable state ('உறைசிறியார்') are shown looking out from their city walls. They see their own people trembling with fear ('உள்நடுங்கல் அஞ்சி') at the sight of a vast, powerful enemy army approaching.",
+      "Midground": "The leader of the powerful army ('பெரியார்') is not attacking. Instead, they are offering a chance for a peaceful settlement, represented by an envoy holding out an olive branch ('குறைபெறின்').",
+      "Background": "Fearing for their people's safety more than their own pride, the rulers of the small state are shown wisely choosing to submit and accept the terms ('கொள்வர் பணிந்து'), thus saving their people from destruction."
+    },
+    "Art_Direction": {
+      "Subject_and_Action": "The rulers of a small nation, fearing the terror their people would face in a war, will prudently submit to a greater power if a peaceful way to do so is offered.",
+      "Symbolic_Motifs": "The fearful citizens are the motivation for the leaders' actions. The olive branch is the offer of a peaceful way out. The act of bowing ('பணிந்து') is the pragmatic choice to save the people.",
+      "Mood_and_Emotion": "Pragmatic, prudent, protective, a choice of peace over pride.",
+      "Lighting_and_Color": "The small city is in the large, intimidating shadow of the powerful army. The olive branch offers a single point of hopeful, peaceful light.",
+      "Technical_Cues": {
+        "Camera": "A wide shot from the perspective of the small state's rulers, showing the fear of their people and the overwhelming might of the approaching army.",
+        "Resolution": "8K, with a focus on the contrast in scale between the two forces.",
+        "Lighting": "Dramatic lighting that emphasizes the power disparity.",
+        "Art_Genre": "Epic historical painting."
+      }
+    },
+    "Cultural_Anchors": [
+      "Rulers of a small state ('உறைசிறியார்')",
+      "Fearing the people's fear ('உள்நடுங்கல் அஞ்சி')",
+      "Submitting to a greater power for peace ('பெரியார்ப் பணிந்து')"
+    ]
+  },
+  "Negative_Prompt": "small army fighting, happy citizens, large army attacking brutally, text artifacts.",
+  "Hyperparameters": {
+    "variant": "pro",
+    "steps": 50,
+    "cfg_scale": 8,
+    "seed": "Explore variations for the expressions of the fearful citizens."
+  }
+}

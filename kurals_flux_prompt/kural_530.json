@@ -1,0 +1,39 @@
+{
+  "Kural_Info": {
+    "Number": 530,
+    "Chapter": "சுற்றந்தழால் (Cherishing Kinsmen)",
+    "Tamil_Text": "உழைப்பிரிந்து காரணத்தின் வந்தானை வேந்தன் இழைத்திருந்து எண்ணிக் கொளல்.",
+    "English_Meaning": "When one may have left him, and for some cause has returned to him, let the king fulfil the object (for which he has come back) and thoughtfully receive him again."
+  },
+  "Flux_Optimized_Prompt": {
+    "Layered_Composition": {
+      "Foreground": "A person who had once left the king's service is now returning, bowing before the throne. They are holding a scroll that explains their reason for returning ('காரணத்தின் வந்தானை').",
+      "Midground": "The king, instead of reacting emotionally, is shown in deep, careful thought ('எண்ணிக் கொளல்'). He is weighing the person's past actions, their reasons for returning, and their potential future value. He is also shown generously fulfilling the immediate need that brought them back ('இழைத்து').",
+      "Background": "A balanced and just court, where decisions are made with careful consideration rather than impulse."
+    },
+    "Art_Direction": {
+      "Subject_and_Action": "When a kinsman who left returns for a specific reason, a ruler should first help them with their need and then thoughtfully consider whether to accept them back fully.",
+      "Symbolic_Motifs": "The king's pensive, analytical expression is key. The dual action of giving immediate help while also contemplating the long-term relationship is the core of the scene.",
+      "Mood_and_Emotion": "Judicious, cautious, discerning, benevolent but not naive.",
+      "Lighting_and_Color": "A clear, neutral light of judgment illuminates the scene. The focus is on the intellectual process of the king's decision-making.",
+      "Technical_Cues": {
+        "Camera": "A medium shot focusing on the interaction between the returning person and the thoughtful king.",
+        "Resolution": "8K, with detailed facial expressions conveying a range of complex emotions.",
+        "Lighting": "Balanced, even lighting, suitable for a court scene.",
+        "Art_Genre": "Historical realism."
+      }
+    },
+    "Cultural_Anchors": [
+      "The return of an estranged kinsman ('உழைப்பிரிந்து வந்தானை')",
+      "Thoughtful consideration ('எண்ணிக் கொளல்')",
+      "The wise and cautious ruler."
+    ]
+  },
+  "Negative_Prompt": "king angrily rejecting the person, king blindly accepting them back, text on the scroll, cartoonish.",
+  "Hyperparameters": {
+    "variant": "pro",
+    "steps": 45,
+    "cfg_scale": 8,
+    "seed": "Explore variations for the king's contemplative expression."
+  }
+}

@@ -1,0 +1,39 @@
+{
+  "Kural_Info": {
+    "Number": 531,
+    "Chapter": "பொச்சாவாமை (Unforgetfulness)",
+    "Tamil_Text": "இறந்த வெகுளியின் தீதே சிறந்த உவகை மகிழ்ச்சியிற் சோர்வு.",
+    "English_Meaning": "The forgetfulness which springs from the intoxication of great joy is worse than excessive anger."
+  },
+  "Flux_Optimized_Prompt": {
+    "Layered_Composition": {
+      "Foreground": "A split-screen composition. On the left, a figure is depicted in a state of destructive, fiery rage ('இறந்த வெகுளி'). The scene is chaotic and damaging.",
+      "Midground": "On the right, a figure is depicted in a state of ecstatic joy and celebration ('சிறந்த உவகை'). However, this joy leads to carelessness ('சோர்வு'). They are so intoxicated with happiness that they are unknowingly dropping a glowing orb of 'Responsibility' into a dark pit.",
+      "Background": "The damage from the anger on the left is visible and immediate. The damage from the joyful carelessness on the right is more subtle but depicted as far more catastrophic—the dark pit is shown to be bottomless, signifying a greater and more permanent loss."
+    },
+    "Art_Direction": {
+      "Subject_and_Action": "A powerful visual argument that the carelessness born from excessive joy is a greater evil than even destructive anger.",
+      "Symbolic_Motifs": "The fiery rage is a clear symbol of anger. The figure dropping the 'Orb of Responsibility' due to joyful intoxication is the metaphor for the greater evil. The bottomless pit represents the profound consequences of this neglect.",
+      "Mood_and_Emotion": "Contrasting, cautionary, surprisingly profound.",
+      "Lighting_and_Color": "The anger scene is lit with harsh, fiery reds and oranges. The joy scene is lit with a bright, almost blindingly ecstatic golden light that obscures the danger of the dark pit.",
+      "Technical_Cues": {
+        "Camera": "A balanced shot that forces the viewer to compare the two scenes and their consequences.",
+        "Resolution": "8K, with dramatic fire effects on one side and ethereal light/shadow play on the other.",
+        "Lighting": "Strongly contrasting color temperatures and moods.",
+        "Art_Genre": "Allegorical art, symbolic illustration."
+      }
+    },
+    "Cultural_Anchors": [
+      "Forgetfulness from Joy ('உவகை மகிழ்ச்சியிற் சோர்வு')",
+      "Worse than Excessive Anger ('இறந்த வெகுளியின் தீது')",
+      "The dangers of intoxication, even with happiness."
+    ]
+  },
+  "Negative_Prompt": "angry person being praised, happy person being responsible, text artifacts, cartoonish.",
+  "Hyperparameters": {
+    "variant": "pro",
+    "steps": 50,
+    "cfg_scale": 9,
+    "seed": "Explore variations for the 'Orb of Responsibility'."
+  }
+}

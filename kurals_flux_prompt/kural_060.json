@@ -1,0 +1,40 @@
+{
+  "Kural_Info": {
+    "Number": 60,
+    "Chapter": "வாழ்க்கைத் துணைநலம் (The Worth of a Wife)",
+    "Tamil_Text": "மங்கலம் என்ப மனைமாட்சி மற்று அதன்நன்கலம் நன்மக்கட் பேறு.",
+    "English_Meaning": "The excellence of a wife is the good of her husband; and good children are the jewels of that goodness."
+  },
+  "Flux_Optimized_Prompt": {
+    "Layered_Composition": {
+      "Foreground": "A virtuous wife ('மனைமாட்சி') stands at the center of her home. She herself is depicted as a beautiful, auspicious lamp ('மங்கலம்'), radiating a soft, steady light.",
+      "Midground": "Around her, her good children ('நன்மக்கட் பேறு') are playing happily. They are depicted not as normal children, but as beautiful, living jewels ('நன்கலம்')—like walking gems—that sparkle and reflect the light from their mother.",
+      "Background": "The home is simple but filled with the warm, auspicious light from the mother-lamp, creating an atmosphere of profound blessedness and peace. The husband looks on with quiet joy."
+    },
+    "Art_Direction": {
+      "Subject_and_Action": "A visual metaphor where the wife's domestic virtue is the fundamental blessing (the lamp), and her good children are the beautiful ornaments (the jewels) that adorn that blessing.",
+      "Symbolic_Motifs": "The wife as the 'Mangalam' lamp is the core concept. The children as living, sparkling jewels ('Nankalam') directly shows they are the 'ornament' of her goodness. The light from the mother is what makes the jewels shine, showing she is the source of their goodness.",
+      "Mood_and_Emotion": "Auspicious, blessed, beautiful, harmonious, complete.",
+      "Lighting_and_Color": "The primary light source is the soft, golden, steady glow from the wife. This light creates a warm, sacred atmosphere. The children-jewels sparkle with reflected and refracted light in beautiful colors.",
+      "Technical_Cues": {
+        "Camera": "Intimate medium shot, creating a warm and loving family portrait centered on the mother.",
+        "Resolution": "8K, ultra-realistic figures, with magical, crystalline effects for the children as jewels.",
+        "Lighting": "Soft, warm, internal lighting from the mother figure, creating a divine ambiance.",
+        "Art_Genre": "Magical realism, symbolic family portraiture."
+      },
+      "Cultural_Anchors": [
+        "Mangalam (மங்கலம்) - Auspiciousness",
+        "Manaimaatchi (மனைமாட்சி) - Domestic Excellence",
+        "Nankalam (நன்கலம்) - Goodly Ornaments/Jewels",
+        "Nanmakkal Peru (நன்மக்கட் பேறு) - The blessing of good children"
+      ]
+    },
+    "Negative_Prompt": "sad family, dark house, normal children, text artifacts, messy room.",
+    "Hyperparameters": {
+      "variant": "pro",
+      "steps": 50,
+      "cfg_scale": 7,
+      "seed": "Explore the appearance of the 'children as living jewels'."
+    }
+  }
+}

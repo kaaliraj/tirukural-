@@ -1,0 +1,39 @@
+{
+  "Kural_Info": {
+    "Number": 448,
+    "Chapter": "பெரியாரைத் துணைக்கோடல் (Seeking the Aid of Great Men)",
+    "Tamil_Text": "இடிப்பாரை இல்லாத ஏமரா மன்னன் கெடுப்பா ரிலானுங் கெடும்.",
+    "English_Meaning": "The king, who is without the guard of men who can rebuke him, will perish, even though there be no one to destroy him."
+  },
+  "Flux_Optimized_Prompt": {
+    "Layered_Composition": {
+      "Foreground": "A king is depicted walking alone and confidently on a grand path. He has no counselors around him to offer criticism ('இடிப்பார் இல்லாத').",
+      "Midground": "The path, which appears solid at first, is revealed to be an illusion over a deep chasm. The king, unguarded by critical advice ('ஏமரா'), is about to step into the void and perish under his own power.",
+      "Background": "There are no visible enemies anywhere ('கெடுப்பார் இலானும்'). The destruction is entirely self-inflicted due to the lack of guidance. The landscape is empty and desolate."
+    },
+    "Art_Direction": {
+      "Subject_and_Action": "A king who lacks the protection of critical advisors will destroy himself, even without any external enemies.",
+      "Symbolic_Motifs": "The path that is actually a chasm is a metaphor for the unseen dangers that a king without counsel walks into. The absence of enemies emphasizes that the ruin is from within.",
+      "Mood_and_Emotion": "Tragic, inevitable, self-destructive, lonely, cautionary.",
+      "Lighting_and_Color": "A flat, deceptive light on the path. The chasm below is filled with an ominous darkness. The overall palette is muted and somber.",
+      "Technical_Cues": {
+        "Camera": "A shot from the side, revealing to the viewer the true nature of the path that the king cannot see.",
+        "Resolution": "8K, cinematic, with a focus on creating a sense of impending doom.",
+        "Lighting": "Deceptive lighting that makes the path look safe, contrasting with the dark truth.",
+        "Art_Genre": "Symbolic realism, tragic narrative."
+      }
+    },
+    "Cultural_Anchors": [
+      "A king without critics ('இடிப்பார் இல்லாத மன்னன்')",
+      "Lack of protection ('ஏமரா')",
+      "Self-destruction ('தானே கெடும்')"
+    ]
+  },
+  "Negative_Prompt": "king with many friends, a solid path, enemies attacking, text artifacts, cartoonish.",
+  "Hyperparameters": {
+    "variant": "dev",
+    "steps": 45,
+    "cfg_scale": 8,
+    "seed": "Explore variations for the illusionary path."
+  }
+}

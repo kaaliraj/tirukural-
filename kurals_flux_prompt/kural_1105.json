@@ -1,0 +1,38 @@
+{
+  "Kural_Info": {
+    "Number": 1105,
+    "Chapter": "புணர்ச்சிமகிழ்தல் (Rejoicing in the Embrace)",
+    "Tamil_Text": "வேட்ட பொழுதின் அவையவை போலுமேதோட்டார் கதுப்பினாள் தோள்.",
+    "English_Meaning": "The shoulders of her whose locks are adorned with flowers delight me as if they were the very sweets I have desired (to get)."
+  },
+  "Flux_Optimized_Prompt": {
+    "Layered_Composition": {
+      "Foreground": "A lover is embracing the shoulders of his beloved, whose hair is adorned with flowers ('தோட்டார் கதுப்பினாள் தோள்').",
+      "Midground": "As he embraces her, his mind is filled with visions of all the different pleasures and treasures he has ever desired in his life ('வேட்ட பொழுதின் அவையவை').",
+      "Background": "These visions—perhaps of delicious food, beautiful music, great wealth, or divine realms—are all shown to be contained within her embrace. Her shoulders are the source and fulfillment of every pleasure he has ever imagined. They are 'like all those things'."
+    },
+    "Art_Direction": {
+      "Subject_and_Action": "The lover declares that embracing the shoulders of his flower-adorned beloved provides him with the pleasure of every single thing he has ever desired.",
+      "Symbolic_Motifs": "Her shoulders are a universe of pleasure. The visions of all other desires appearing and being fulfilled within the embrace is the key visual. The flowers in her hair are a symbol of her natural, overflowing sweetness.",
+      "Mood_and_Emotion": "Ultimate fulfillment, all-encompassing pleasure, blissful.",
+      "Lighting_and_Color": "A brilliant, blissful, golden light emanates from the embrace itself. The visions of other pleasures are colorful and vibrant, swirling within this golden aura. The scene is one of total sensory and emotional satisfaction.",
+      "Technical_Cues": {
+        "Camera": "A close, intimate shot of the embrace, with the swirling visions of all other pleasures visible as a magical, ethereal overlay.",
+        "Resolution": "8K, ultra-realistic, with a focus on the lover's expression of ultimate bliss.",
+        "Lighting": "The embrace is the radiant source of all light in the scene.",
+        "Art_Genre": "Magical realism, high-romance art."
+      },
+      "Cultural_Anchors": [
+        "The shoulders of the flower-adorned one (தோட்டார் கதுப்பினாள் தோள்)",
+        "They are like all the things I have ever desired (வேட்ட பொழுதின் அவையவை போலுமே)"
+      ]
+    },
+    "Negative_Prompt": "unhappy lover, plain shoulders, text artifacts.",
+    "Hyperparameters": {
+      "variant": "pro",
+      "steps": 50,
+      "cfg_scale": 8,
+      "seed": "Explore the swirling visions of 'all desired things'."
+    }
+  }
+}
